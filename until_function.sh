@@ -47,7 +47,6 @@ https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.tx
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts|大圣净化.txt
 https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txtAWAvenue-Adblock-Rule.txt
 https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad.txt|halflife-list.txt
-
 '
 
 for i in ${list}
