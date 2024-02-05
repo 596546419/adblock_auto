@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
-! Checksum: Kxvl/uXqFM6umb2doDvYIw
+! Checksum: mW/UpULXzk9WuhLEAAYygw
 ! Title: 混合规则(自动更新)
-! Version: 20240206010951
+! Version: 20240206013350
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-06 01:09:51
+! Last modified: 2024-02-06 01:33:50
 ! Total Count: 129774
-! Homepage: https://lingeringsound.github.io/adblock_auto
+! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
 ! Gitlink Homepage: https://www.gitlink.org.cn/keytoolazy/adblock_auto
 ! Gitcode Raw Link: https://gitcode.net/weixin_45617236/adblock_auto/-/raw/main/Rules/adblock_auto.txt
-! Github Raw Link: https://lingeringsound.github.io/adblock_auto/Rules/adblock_auto.txt
+! Github Raw Link: https://596546419.github.io/adblock_auto/Rules/adblock_auto.txt
 ! Gitlink Raw Link: https://www.gitlink.org.cn/api/keytoolazy/adblock_auto/raw/Rules/adblock_auto.txt?ref=main
 
 

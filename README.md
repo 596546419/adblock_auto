@@ -1,5 +1,5 @@
 # 混合规则
-### 自动更新(2024-02-06 01:10:02)
+### 自动更新(2024-02-06 01:34:00)
 
 
 | 名称 | GIthub订阅链接 | Github加速订阅链接 | GitCode订阅链接 | Gitlink订阅链接 |
@@ -18,13 +18,13 @@
 <details>
 <summary>点击查看上游规则</summary>
 <ul>
-<li> <a href="https://easylist-downloads.adblockplus.org/easylist.txt" target="_blank" > Easylist </a> </li>
-<li> <a href="https://easylist-downloads.adblockplus.org/easylistchina.txt" target="_blank" > EasylistChina </a> </li>
-<li> <a href="https://easylist-downloads.adblockplus.org/antiadblockfilters.txt" target="_blank" > Antiadblockfilters </a> </li>
-<li> <a href="https://filters.adtidy.org/android/filters/15_optimized.txt" target="_blank" > Adguard DNS optimized </a> </li>
-<li> <a href="https://filters.adtidy.org/extension/ublock/filters/11.txt" target="_blank" > Adguard mobile </a> </li>
-<li> <a href="https://filters.adtidy.org/extension/ublock/filters/224.txt" target="_blank" > Adguard Chinese </a> </li>
-      <li><a href="https://github.com/pboymt/Steam520">Steam520</a></li>
+    <li> <a href="https://easylist-downloads.adblockplus.org/easylist.txt" target="_blank" > Easylist </a> </li>
+    <li> <a href="https://easylist-downloads.adblockplus.org/easylistchina.txt" target="_blank" > EasylistChina </a> </li>
+    <li> <a href="https://easylist-downloads.adblockplus.org/antiadblockfilters.txt" target="_blank" > Antiadblockfilters </a> </li>
+    <li> <a href="https://filters.adtidy.org/android/filters/15_optimized.txt" target="_blank" > Adguard DNS optimized </a> </li>
+    <li> <a href="https://filters.adtidy.org/extension/ublock/filters/11.txt" target="_blank" > Adguard mobile </a> </li>
+    <li> <a href="https://filters.adtidy.org/extension/ublock/filters/224.txt" target="_blank" > Adguard Chinese </a> </li>
+    <li><a href="https://github.com/pboymt/Steam520">Steam520</a></li>
     <li><a href="https://github.com/521xueweihan/GitHub520">GitHub520</a></li>
     <li><a href="https://github.com/rentianyu/Ad-set-hosts">Ad-set-hosts</a></li>
     <li><a href="https://github.com/uniartisan/adblock_list">adblock_list</a></li>
@@ -42,6 +42,5 @@
     <li><a href="https://github.com/neodevpro/neodevhost">neodevhost</a></li>
     <li><a href="https://github.com/lingeringsound/adblock_auto">夕阳醉歌的混合规则</a></li>
     <li><a href="https://github.com/hagezi/dns-blocklists">DNS Blocklists</a></li>
-
 </ul>
 </details>
