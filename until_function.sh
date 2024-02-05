@@ -16,6 +16,38 @@ https://easylist-downloads.adblockplus.org/easylistchina.txt|easylistchina.txt
 https://filters.adtidy.org/android/filters/15_optimized.txt|adguard_optimized.txt
 https://filters.adtidy.org/extension/ublock/filters/224.txt|Adguard_Chinese.txt
 https://filters.adtidy.org/extension/ublock/filters/11.txt|Adguard_mobile.txt
+https://www.gitlink.org.cn/api/damengzhu/abpmerge/raw?filepath=abpmerge.txt |abpmerge.txt
+https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt|githubAccelerateHosts.txt
+https://anti-ad.net/easylist.txt|anti-ad.txt
+https://github.com/VeleSila/yhosts/raw/master/hosts|yhosts.txt 
+https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt|adblockfilters.txt   
+https://raw.githubusercontent.com/pboymt/Steam520/main/hosts|Steam520.txt
+https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard|Ad-set-hosts.txt
+https://gitcode.net/weixin_45617236/10007_auto/-/raw/Feature/all|1007.txt
+https://gitcode.net/weixin_45617236/adblock_auto/-/raw/main/Rules/adblock_auto.txt|1007ad_auto.txt
+https://lingeringsound.github.io/adblock_auto/Rules/adblock_auto_lite.txt|夕阳醉歌.txt
+https://raw.fgit.ml/lingeringsound/adblock/master/Toutiao_block.txt|Toutiao_block.txt
+https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt|adblock_plus.txt
+https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_privacy.txt|adblock_privacy.txt
+https://file-git.trli.club/Domains/AccelerateHosts/github-hosts.txt|冷莫-GitHub.txt
+https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt|乘风.txt
+https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt|乘风-视频.txt
+https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt|ADgk_banbendalao.txt
+https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt|kill-baidu-ad_banbendalao.txt
+https://raw.githubusercontent.com/jianboy/github-host/master/hosts|GitHub.txt
+https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt|几十KB的轻量规则.txt
+https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu-strict.txt|知乎.txt
+https://small.oisd.nl/|oisd.txt
+https://raw.githubusercontent.com/francis-zhao/quarklist/master/dist/quarklist.txt|QuarkList.txt
+https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker|neodevhost.txt
+https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_lite.txt|AdRules.txt
+https://gitlab.com/ineo6/hosts/-/raw/master/next-hosts|ineo6-github.txt
+https://raw.hellogithub.com/hosts|GitHub520.txt
+https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt|NoAppDownload.txt
+https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts|大圣净化.txt
+https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txtAWAvenue-Adblock-Rule.txt
+https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad.txt|halflife-list.txt
+
 '
 
 for i in ${list}
