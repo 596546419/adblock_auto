@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: IcFsO3Ymx90w/9SKhJPp6A
+! Checksum: DZGQQjPg0h5eDcGT59cX/Q
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240206091542
+! Version: 20240206162310
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-06 09:15:42
-! Total Count: 25232
+! Last modified: 2024-02-06 16:23:10
+! Total Count: 25236
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3670,6 +3670,7 @@
 ||awdc6.com^
 ||awesomeagreement.com^$third-party
 ||awestat.com^$domain=leporno.org
+||awhsaso.cn^
 ||awifi.cn^$third-party
 ||awoudsoo.xyz^
 ||awrfds3.pornpapa.com^
@@ -4683,6 +4684,7 @@
 ||cdntxt.com/t1/
 ||cdntxt.com/t2/
 ||cdnu.porndoe.com/static/pop/slide-in/*.mp4
+||cdolhlwq.xyz^
 ||cdp.cloud.unity3d.com^
 ||cdsa2.icu^
 ||cdxyb.cn^$third-party
@@ -4853,6 +4855,7 @@
 ||cidianwang.com/js/zdtop.js
 ||cifyeldf.top^
 ||cifzuqopdpzi.com^
+||ciimar.icu^
 ||cilimao.*/amaod/
 ||cimg.cnyes.cool/prod/adContent/$image
 ||citysbs.com/chongqing/*/1920x179-
@@ -9992,6 +9995,7 @@
 ||myhaitang.cc/assets/public/*.js
 ||myhdporn.net/ccc.gif
 ||myhdporn.net/sss.gif
+||myiryc.xyz^
 ||mylengmen.com/assets/public/$script
 ||mylust.com/images/mobile/mobile_advirtisement_250.png
 ||mymahuxv.xyz^
