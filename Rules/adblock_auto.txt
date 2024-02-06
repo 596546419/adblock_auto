@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: z8cdpWP8LK/++eYiOZ96Bg
+! Checksum: KC1km1pXWn3tbH1OHfWiIg
 ! Title: 混合规则(自动更新)
-! Version: 20240206162259
+! Version: 20240207002316
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-06 16:22:59
-! Total Count: 129916
+! Last modified: 2024-02-07 00:23:16
+! Total Count: 129930
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -37603,6 +37603,7 @@
 ||ktvtxir.xyz^
 ||ktwwzqdx.xyz^
 ||ktxtr.com^
+||ktxvbcbfs.xyz^
 ||ktzhk.com/file/adv/
 ||ku2d3a7pa8mdi.com^
 ||ku42hjr2e.com^
@@ -44494,6 +44495,7 @@
 ||namol.xyz^
 ||namystal.com^
 ||nan-net.com/*/bbs/s/inc/$subdocument
+||nan-net.com/show/bbs/inc/pc_side_adv/
 ||nan46ysangt28eec.com^
 ||nanaimostarkle.com^
 ||nancontrast.com^
@@ -55496,6 +55498,7 @@
 ||rnvlkhahv.com^
 ||rnwbrm.com^
 ||rnzqde.xyz^
+||ro.ondatrakrafts.com^
 ||roabmyrevngqqk.com^
 ||roachoavi.com^
 ||roadmappenal.com^
@@ -59153,6 +59156,7 @@
 ||skogrkrfxmy.com^
 ||skoovyads.com^
 ||skroutza.skroutz.gr^
+||skskssso.com^
 ||skt-asum.com^
 ||skuligpzifan.com^
 ||skulkspreppie.com^
@@ -61301,6 +61305,7 @@
 ||sterouhavene.org^
 ||steshacm.xyz^
 ||stethaug.xyz^
+||stethuth.xyz^
 ||stethydelicat.com^
 ||stetic.com^
 ||steveoriginate.com^
@@ -64577,7 +64582,9 @@
 ||tobaitsie.com^
 ||tobaltoyon.com^
 ||tobapplog.ctobsnssdk.com^
+||tobapplog.tobsnssdk.com^
 ||toblog.ctobsnssdk.com^
+||toblog.tobsnssdk.com^
 ||toboads.com^
 ||tobyxev.com^
 ||toc.io^
@@ -70132,6 +70139,7 @@
 ||volatilerainstorm.com^$third-party
 ||volatintptr.com^
 ||volcanoimplement.com^
+||volceapplog.com^
 ||voldarinis.com^
 ||volgograd-info.ru^
 ||volgreal.com^$third-party
@@ -73121,6 +73129,7 @@
 ||xdnice.com/themes/xdnice/public/assets/images/quna.png
 ||xdnice.com/themes/xdnice/public/assets/images/xdnice.png
 ||xdohrleybrd.com^
+||xdolhlwq.xyz^
 ||xdowl0adxd0wnloadx.com^
 ||xdrig.com^
 ||xdrzdh.cn^
@@ -84667,6 +84676,8 @@ heatmap.news##.middle_leaderboard
 heavy-r.com##.first-row > a[href][target="_blank"]:not([href="http://pornedup.com/"]):not([href="https://www.mrporngeek.com"])
 heb.com##div:has(> div[id^="hrm-banner-shotgun"])
 heb.com#?#div[class^="sc-"]:-abp-has(>div[data-qe-id="productCard"]:-abp-contains(Promoted))
+hedgefollow.com##[class$="side_scraper"]
+hedgefollow.com##[data-dee_type^="large_banner"]
 hefei.cc##.bbs_app_fk > a:first-child
 hehagame.com##.webad_bottom
 hehagame.com##.webad_right
@@ -92229,6 +92240,7 @@ target.com##div[class^="styles__PubAd"]
 target.com#?#.ProductRecsLink-sc-4mw94v-0:-abp-has(p:-abp-contains(sponsored))
 target.com#?#div[data-test="@web/ProductCard/ProductCardVariantAisle"]:-abp-contains(Sponsored)
 target.com#?#div[data-test="@web/site-top-of-funnel/ProductCardWrapper"]:-abp-contains(sponsored)
+tartaria-faucet.net##div[style^="display"]:has([src^="https://multiwall-ads.shop/"])
 tasexy.com##[id^="sexy_b"]
 taskandpurpose.com##.empire-unit-prefill-container
 tassbiz.ru##.adblock_notif
@@ -126330,6 +126342,7 @@ zle.com$script
 ##a[href^="https://clicks.pipaffiliates.com/"]
 ##a[href^="https://clixtrac.com/"]
 ##a[href^="https://clk.wrenchsound.store/"]
+##a[href^="https://combodef.com/"]
 ##a[href^="https://consali.com/"]
 ##a[href^="https://convertmb.com/"]
 ##a[href^="https://cpmspace.com/"]
@@ -129352,6 +129365,7 @@ zle.com$script
 @@||uu.res.netease.com/pc/zt/*/img/ad_
 @@||uukanshu.com^$generichide
 @@||v.fwmrm.net/ad/g/*$domain=nhl.com|dtmts.com
+@@||v.fwmrm.net/ad/g/*Nelonen$script
 @@||v.fwmrm.net/ad/g/1$domain=uktv.co.uk|vevo.com
 @@||v.fwmrm.net/ad/g/1?$xmlhttprequest,domain=www.mycanal.fr
 @@||v.fwmrm.net/ad/g/1?*_html5_live$domain=~gulli.fr|~msn.com

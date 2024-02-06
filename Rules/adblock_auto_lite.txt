@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: DZGQQjPg0h5eDcGT59cX/Q
+! Checksum: 77xhuxxap/2qs9uirZiPhA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240206162310
+! Version: 20240207002327
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-06 16:23:10
-! Total Count: 25236
+! Last modified: 2024-02-07 00:23:27
+! Total Count: 25239
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -10067,6 +10067,7 @@
 ||namesexual.com^
 ||namethatporn.com/assets/dev_popscript.js^
 ||nan-net.com/*/bbs/s/inc/$subdocument
+||nan-net.com/show/bbs/inc/pc_side_adv/
 ||nanaimostarkle.com^
 ||naned.xyz^
 ||nanfengyl.com/static/js/zdad.js
@@ -12223,6 +12224,7 @@
 ||skeyword.browser.qq.com/getHotRank
 ||skidfqh.xyz^
 ||skluff.com^$third-party
+||skskssso.com^
 ||skt-asum.com^
 ||sky.dunsuan.com^
 ||skyrock.net/img/*/adblock/
@@ -14166,6 +14168,7 @@
 ||xdjdpyrt.xyz^
 ||xdnice.com/themes/xdnice/public/assets/images/quna.png
 ||xdnice.com/themes/xdnice/public/assets/images/xdnice.png
+||xdolhlwq.xyz^
 ||xdrig.com^
 ||xdsahkln.xyz^
 ||xdw9.top^
