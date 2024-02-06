@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: jW8ALh1+Wwt9Sj75EmeB+Q
+! Checksum: IcFsO3Ymx90w/9SKhJPp6A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240206013400
+! Version: 20240206091542
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-06 01:34:00
-! Total Count: 25227
+! Last modified: 2024-02-06 09:15:42
+! Total Count: 25232
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7754,6 +7754,7 @@
 ||im.51yaliesha.com^$third-party
 ||im.ov.yahoo.co.jp^
 ||im286.net/286/
+||im71za.cn^
 ||image-shop.baidu.com/n/imageproduct?
 ||image.39.net/style/
 ||image.51cto.com/ad/
@@ -8967,6 +8968,7 @@
 ||ldjhlqr.cn^
 ||ldjnbn.xyz^
 ||ldmnq.com^$third-party,badfilter
+||ldvdwlt.xyz^
 ||ldvnehc.xyz^
 ||ldxinb.xyz^
 ||le4le.com^
@@ -10047,6 +10049,7 @@
 ||n4403ad.doubleclick.net^
 ||n522rv1.cn^
 ||n5725.com^
+||n5n5s.icu^
 ||n6579.com^
 ||n7181.com^
 ||nahgvfhs.xyz^
@@ -10760,6 +10763,7 @@
 ||pjcn.org^$third-party
 ||pjsbuhl.icu^
 ||pjtime.com/js/show_ad
+||pjvkhh.xyz^
 ||pjy55d.com^
 ||pjzmbhf.cn^
 ||pkfuxvbk.xyz^
@@ -14526,6 +14530,7 @@
 ||yddbysa.xyz^
 ||ydgal.com/axfile/
 ||ydgh0zc.com^
+||ydolhlwq.xyz^
 ||ydqcjy.cn^
 ||ydss.cn/test.www.jdpay.com
 ||ydstatic.com/dsp_website/
