@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 77xhuxxap/2qs9uirZiPhA
+! Checksum: xHaRiA/yqxat0lU7HmPkcQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240207002327
+! Version: 20240207091351
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-07 00:23:27
-! Total Count: 25239
+! Last modified: 2024-02-07 09:13:51
+! Total Count: 25244
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -79,6 +79,7 @@
 ||0hlc8.top^
 ||0hq6k.site^
 ||0i0i0i0.com^$third-party,important
+||0j91h.cyou^
 ||0kkbb.com/js/i.js
 ||0krdn3.com^
 ||0mnopqr.com^
@@ -14400,6 +14401,7 @@
 ||xtpwfb.xyz^
 ||xtvrtrya.xyz^
 ||xtxa.net^
+||xtxidx.xyz^
 ||xu27r.com^
 ||xucyufv.icu^
 ||xudgjz.xyz^
@@ -14432,6 +14434,7 @@
 ||xvpqrydt.xyz^
 ||xvrvgod.xyz^
 ||xvzfyra.xyz^
+||xvzvqoq.xyz^
 ||xw.ooegpip.cn^$third-party,image
 ||xwbspx.xyz^
 ||xwbxsw.com/js/app_wap.
@@ -14667,6 +14670,7 @@
 ||yl04z4v.cn^
 ||yldfkfb.cn^
 ||ylgvlvbc.xyz^
+||ylkdbbvy.xyz^
 ||yllix.com^
 ||ylrjnhxi.xyz^
 ||ylykd.cn^
@@ -22753,6 +22757,7 @@ zle.com$script
 ##.pcgg
 ##.pggb > .ng-star-inserted
 ##.pggc > .ng-star-inserted
+##.pggd > .ng-star-inserted
 ##.phone-ads
 ##.photo-two > a[onclick^="_czc."]
 ##.play_list_adbox
