@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: xHaRiA/yqxat0lU7HmPkcQ
+! Checksum: UWoabY+pbaDdvXWzvVZitw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240207091351
+! Version: 20240207162158
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-07 09:13:51
-! Total Count: 25244
+! Last modified: 2024-02-07 16:21:58
+! Total Count: 25251
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -452,6 +452,7 @@
 ||2510avporn.com/wp-content/uploads/2017/09/2510avporn-960x100.jpg
 ||2529.com^$third-party
 ||258zw.com^$third-party
+||25ktra.cn^
 ||268de.com/js/
 ||26gg.bnq86.com^$third-party
 ||26niao20230505.live^
@@ -3617,6 +3618,7 @@
 ||atti.com^
 ||attractionbanana.com^$third-party
 ||atuhi.cyou^
+||atwqyor.cn^
 ||aty.sohu.com/v?
 ||atyun.com/wp-content/themes/xmag/js/ad.js
 ||audgiqb.cn^
@@ -4905,6 +4907,7 @@
 ||client.midosoo.com^
 ||clisatf.top^
 ||clk.taptica.com^
+||clkdbbvy.xyz^
 ||clkdus.xyz^
 ||clkfeed.com^$popup
 ||cln.willyporn.com^
@@ -10544,6 +10547,7 @@
 ||p11q.cn^
 ||p16-ad.byteoversea.com^
 ||p1corn.com^
+||p2ijd.space^
 ||p2kfynrr.icu^
 ||p2oh1.xyz^
 ||p2peye.com/ajax.php?mod=ad&
@@ -13894,6 +13898,7 @@
 ||wenrunyu.com^
 ||wenshenbang.com^$third-party
 ||wenxue.weimeifan.net^
+||wenxue.youzhicn.com^
 ||werssf.com^
 ||west.bidtellect.com^
 ||west.cn/vcp/getJScode/
@@ -14429,6 +14434,7 @@
 ||xvideo.cc/etology2.js
 ||xvideo.cc/im4.js
 ||xvideo.cc/wefong2.js
+||xvilxdv.cn^
 ||xvliqsa.cn^
 ||xvorpqz.cn^
 ||xvpqrydt.xyz^
@@ -14662,6 +14668,7 @@
 ||yjxzvqy.xyz^
 ||yjyc-ask.com/res/ads/
 ||ykad-data.youku.com^
+||ykgfcs.xyz^
 ||yklfg.cn^
 ||yktj.yzz.cn^
 ||ykujch.icu^
