@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Lc/b13YTrRDLAqdg6gmmCA
+! Checksum: H63Y9c3D4dP+5TinMNrVSw
 ! Title: 混合规则(自动更新)
-! Version: 20240208091426
+! Version: 20240208162159
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-08 09:14:26
-! Total Count: 130021
+! Last modified: 2024-02-08 16:21:59
+! Total Count: 130031
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -11168,6 +11168,7 @@
 ||bbsbaba.com/js/2.js
 ||bbsgsmmqviaob.xyz^
 ||bbt114.cn^
+||bbtta91.shop^
 ||bbttf26.shop^
 ||bbttkk.com^
 ||bbuni.com^
@@ -11234,6 +11235,7 @@
 ||bcsijjgck.xyz^
 ||bctagb56.xyz^
 ||bcthd12.shop^
+||bcttodv.cn^
 ||bctxtl.xyz^
 ||bcuiaw.com^
 ||bcvc.mobi^
@@ -14872,6 +14874,7 @@
 ||cdfda.xyz^
 ||cdgfa.ifeng.com^
 ||cdgtw3.guapaijia.com^
+||cdhfvrug.xyz^
 ||cdhhbyy.cn^
 ||cdhvrrlyrawrxqd.xyz^
 ||cdj-dap.s3-ap-northeast-1.amazonaws.com^
@@ -24986,6 +24989,7 @@
 ||fdgem.com^
 ||fdghedgpj.com^
 ||fdheincvdbp.com^
+||fdhnsr56.shop^
 ||fdiirjong.com^
 ||fdjcuxxgmrye.com^
 ||fdjigxyxstiu.xyz^
@@ -37078,6 +37082,7 @@
 ||kjcnve.xyz^
 ||kjcvw.xyz^
 ||kjdbcjkmc.com^
+||kjeqga.xyz^
 ||kjfhenoqfyfljo.com^
 ||kjfoqi.cn^
 ||kjgb11.com^
@@ -52671,6 +52676,7 @@
 ||pzlxnd.xyz^
 ||pznqjhh.life^
 ||pzoynkxexnx.com^
+||pzpivx.xyz^
 ||pzqfmhy.com^
 ||pzqqstb.icu^
 ||pztjlr.xyz^
@@ -60746,6 +60752,7 @@
 ||starti.pl^
 ||startlemanipulativedamaging.com^
 ||startpagea.com^
+||startperfectsolutions.com^
 ||startrekk.flaconi.de^
 ||startscript.ru^
 ||startup-mobile.ap.yandex-net.ru^
@@ -70631,6 +70638,7 @@
 ||vwinagptucpa.com^
 ||vwl7kia4fzz6.com^
 ||vwlknjjt.com^
+||vwmjkl.icu^
 ||vwocvgr.cn^
 ||vwonwkaqvq-a.global.ssl.fastly.net^
 ||vwqohlgfneusxy.com^
@@ -71387,6 +71395,7 @@
 ||webxacnhankhoanvay24h.com^
 ||weby.aaas.org^
 ||weceofcfmxtd.xyz^
+||wecfgy36.shop^
 ||wechatweb.com.cn^
 ||wechoong.com^
 ||wecjdqpinrpaugf.com^
@@ -73204,6 +73213,7 @@
 ||xdycqcoefditwj.com^
 ||xdyjt.com^
 ||xdytt.com/b_*.js
+||xdzjbn.xyz^
 ||xeazoj.icu^
 ||xebadu.com^
 ||xebohjhh.xyz^

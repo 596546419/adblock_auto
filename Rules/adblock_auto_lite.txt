@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: CItsWWKU8+0I7dJQhu6tlg
+! Checksum: dj9IpZ/OhDFOo3FH59ut6Q
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240208091436
+! Version: 20240208162209
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-08 09:14:36
-! Total Count: 25254
+! Last modified: 2024-02-08 16:22:09
+! Total Count: 25266
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3905,6 +3905,7 @@
 ||bbs.voc.com.cn/s.js
 ||bbsbaba.com/js/1.js
 ||bbsbaba.com/js/2.js
+||bbtta91.shop^
 ||bbttf26.shop^
 ||bbyfsfo.cn^
 ||bcb5.com/gg/
@@ -3927,6 +3928,7 @@
 ||bcquan.me/front/home/render
 ||bcsijjgck.xyz^
 ||bcthd12.shop^
+||bcttodv.cn^
 ||bctxtl.xyz^
 ||bcvxfgy.xyz^
 ||bd*-ys.km.com^
@@ -4623,6 +4625,7 @@
 ||cdfda.xyz^
 ||cdgfa.ifeng.com^
 ||cdgtw3.guapaijia.com^
+||cdhfvrug.xyz^
 ||cdkke.xyz^
 ||cdmjur.xyz^
 ||cdn*-sites.porntube.com/tb/banner/
@@ -5753,6 +5756,7 @@
 ||dspunion.com^
 ||dstbekdf.xyz^
 ||dstbunkfw.xyz^
+||dswcrlf.cn^
 ||dtjhtp.xyz^
 ||dtnhjzl.xyz^
 ||dtscout.com^
@@ -6270,6 +6274,7 @@
 ||fddxbn.xyz^
 ||fdfda.zhuzhai.com^
 ||fdfghgfdd.yunqishi.net^
+||fdhnsr56.shop^
 ||fdrxdr.xyz^
 ||fdtrjz.xyz^
 ||fdytdc.xyz^
@@ -8686,6 +8691,7 @@
 ||kjacgk.xyz^
 ||kjappzvz.xyz^
 ||kjdbcjkmc.com^
+||kjeqga.xyz^
 ||kjjjusb.xyz^
 ||kjos.vo.llnwd.net^
 ||kjrspnbf.xyz^
@@ -10362,6 +10368,7 @@
 ||oepce.xyz^
 ||oeya.com^$domain=myptt.cc
 ||ofd.meng-an.cn^$third-party
+||ofdnkro.xyz^
 ||offerwall-adnative.com^
 ||offerwall.yandex.net^
 ||ofgsqic.cn^$document
@@ -11182,6 +11189,7 @@
 ||q1zcp.com^
 ||q27sz.com^
 ||q4v3c.site^
+||q6gub.website^
 ||qaagib.icu^
 ||qaljfiwv.com^
 ||qange.com^
@@ -13747,6 +13755,7 @@
 ||vvxhth.xyz^
 ||vw66i.top^
 ||vwfppr.xyz^
+||vwmjkl.icu^
 ||vwsgmf.icu^
 ||vwtjvd.xyz^
 ||vwvjzd.xyz^
@@ -13866,6 +13875,7 @@
 ||webkaka.com/info/script/articleAd.js
 ||webkaka.com/script/cp.js
 ||webkaka.com^*x50.
+||wecfgy36.shop^
 ||wechatweb.com.cn^
 ||wecklrb.cn^
 ||weddingeeos.com^$third-party
@@ -14182,6 +14192,7 @@
 ||xdw9.top^
 ||xdyjt.com^
 ||xdytt.com/b_*.js
+||xdzjbn.xyz^
 ||xeazoj.icu^
 ||xebohjhh.xyz^
 ||xeghes.fun^
@@ -14549,6 +14560,7 @@
 ||yddbysa.xyz^
 ||ydgal.com/axfile/
 ||ydgh0zc.com^
+||ydhfvrug.xyz^
 ||ydolhlwq.xyz^
 ||ydqcjy.cn^
 ||ydss.cn/test.www.jdpay.com
