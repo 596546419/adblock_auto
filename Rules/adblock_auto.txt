@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: UNFHibRvLoxzLbMLzIACGA
+! Checksum: Q0zkfpMIX7BJKtVM4e2CFg
 ! Title: 混合规则(自动更新)
-! Version: 20240209091434
+! Version: 20240209162125
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-09 09:14:34
-! Total Count: 130090
+! Last modified: 2024-02-09 16:21:25
+! Total Count: 130093
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -16185,6 +16185,7 @@
 ||clcmdie.com^
 ||cldlr.com^
 ||cldlyuc.com^
+||cldxphtg.xyz^
 ||cleafs.com^
 ||clean-1-clean.club^
 ||clean-browsing.com^
@@ -59387,6 +59388,7 @@
 ||slshiye.cn^
 ||slsynmlb.fun^
 ||slsyuulb.cam^
+||sltbjrf.cn^
 ||sltle.icu^
 ||sltracl.com^
 ||sltvhyjthx.com^
@@ -78512,6 +78514,7 @@ aiyuke.com##.index_app_down_ad
 aizhan.com###all_text_content
 aizhan.com###home_text_content
 aizhan.com,helensburghadvertiser.co.uk,the-gazette.co.uk##.btn
+ajc.com##.arc_ad
 akiba-online.com##[href^="https://filejoker.net/invite"]
 al-monitor.com##.region--after-content
 al-monitor.com##.region--header-banner
