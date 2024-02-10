@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: C76gDkNe7Cf04gWtrfWCiA
+! Checksum: nERSKk0PxfdZ71OLOn1yKw
 ! Title: 混合规则(自动更新)
-! Version: 20240210091300
+! Version: 20240210162028
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-10 09:13:00
-! Total Count: 130273
+! Last modified: 2024-02-10 16:20:28
+! Total Count: 130281
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -14919,6 +14919,7 @@
 ||cd490573c64f3f.com^
 ||cd4d8554b1.com^
 ||cd828.com^
+||cdazjxso.xyz^
 ||cdcc3.com^
 ||cdcd.ink^
 ||cdceed.de^
@@ -20614,6 +20615,7 @@
 ||disgraceannihilate.com^
 ||disgracefulforeword.com^
 ||disguised-dad.com^
+||disgustassembledarctic.com^
 ||disgustinghindsight.com^
 ||disgustingscuffleaching.com^
 ||disheartensunstroketeen.com^
@@ -21409,6 +21411,7 @@
 ||dqjouawswgmchn.com^
 ||dqlfabc.cn^
 ||dqlgpnljfgmlqs.xyz^
+||dqlhuf.icu^
 ||dqnvcjcyx.com^
 ||dqnxkfbhreaas.com^
 ||dqrdwz.icu^
@@ -46602,6 +46605,7 @@
 ||nxing.cn/uploads/uploads/*-size1220x
 ||nxiqvhhm.com^
 ||nxl791.com^
+||nxledn.xyz^
 ||nxlidc.ink^
 ||nxlreuwdto.com^
 ||nxpdotflwcmrcfh.com^
@@ -71313,6 +71317,7 @@
 ||wchctzzkzkhx.com^
 ||wchh.online^
 ||wcjiaclw.com^
+||wckkl.online^
 ||wcknxoy.cn^
 ||wclsylk.cn^
 ||wcltbpbnlf.com^
@@ -78696,6 +78701,7 @@ al4a.com##a[href^="http://as.sexad.net"]
 alaskahighwaynews.ca,bowenislandundercurrent.com,burnabynow.com,coastreporter.net,dawsoncreekmirror.ca,delta-optimist.com,moosejawtoday.com,newwestrecord.ca,nsnews.com,piquenewsmagazine.com,princegeorgecitizen.com,prpeak.com,richmond-news.com,squamishchief.com,tricitynews.com##.item-sponsored
 alastonsuomi.com##.jb
 albertsons.com##.abs-carousel-proxy > [aria-label="Promo or Ad Banner"]
+albertsons.com##.banner-unit
 albertsonsmarket.com,marketstreetunited.com,unitedsupermarkets.com##.item-citrus
 alchetron.com###alchetronFreeStarVideoAdContainer
 alensat.org,forummikrotik.ru###phpbb-ads-ab
@@ -95999,6 +96005,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 &ad_type=
 &ad_url=
 &ad_zones=
+&adb=y&adb=y^$popup
 &adbannerid=
 &adclient=
 &adflag=
@@ -96780,6 +96787,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 .com/aff-w2aK$~third-party
 .com/api/getPos?jspath=/$~third-party
 .com/api/ipv4check?mark
+.com/api/posts?token=$third-party
 .com/api/senddata?$third-party
 .com/appinstall.js$third-party,script
 .com/assets/public/chart.1.js$script,~third-party

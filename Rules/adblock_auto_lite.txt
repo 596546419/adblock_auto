@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: CqpBFfv9o4zInxNOHFzMLQ
+! Checksum: 9H2opS8r/1IU338QPCagcA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240210091310
+! Version: 20240210162038
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-10 09:13:10
-! Total Count: 25291
+! Last modified: 2024-02-10 16:20:38
+! Total Count: 25295
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4622,6 +4622,7 @@
 ||cctv5.name/js/*foot.js
 ||cctv567.com/b/
 ||ccwxma.xyz^
+||cdazjxso.xyz^
 ||cdcc3.com^
 ||cdcqee.com^
 ||cdeledu.com/ADVC/$domain=~chinaacc.com|~ruidaedu.com
@@ -5722,6 +5723,7 @@
 ||dqcgkpp.icu^
 ||dqjojx.xyz^
 ||dqlfabc.cn^
+||dqlhuf.icu^
 ||dqrdwz.icu^
 ||dqzehgha.xyz^
 ||dqzirj.xyz^
@@ -10327,6 +10329,7 @@
 ||nxflv.com/nxflv.js
 ||nxhwvt.xyz^
 ||nxing.cn/uploads/uploads/*-size1220x
+||nxledn.xyz^
 ||nxtxxcm.xyz^
 ||nyaa.*/static/js/ccheck.js
 ||nyaa.fun/static/js/*_costcheck_a.js
@@ -13866,6 +13869,7 @@
 ||wcbghap63.shop^
 ||wcd2l.icu^
 ||wcdc5.com^
+||wckkl.online^
 ||wclsylk.cn^
 ||wcv68kw.com^
 ||wd.adcolony.xyz^
