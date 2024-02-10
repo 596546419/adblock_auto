@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Ibi1BtzwEGzaGvg5KhWjZg
+! Checksum: CqpBFfv9o4zInxNOHFzMLQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240210002238
+! Version: 20240210091310
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-10 00:22:38
-! Total Count: 25286
+! Last modified: 2024-02-10 09:13:10
+! Total Count: 25291
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9875,6 +9875,7 @@
 ||mphhgat.xyz^
 ||mphj.com/Runtime/Js/
 ||mphj.com^*Runtime/Js/
+||mphxyxk.xyz^
 ||mps.wenkuzu.com^
 ||mpyerxzn.xyz^
 ||mpymea.xyz^
@@ -10322,6 +10323,7 @@
 ||nwrgdifq.xyz^
 ||nwuidsbjak.com^
 ||nwxs5.com/js/
+||nxditl.xyz^
 ||nxflv.com/nxflv.js
 ||nxhwvt.xyz^
 ||nxing.cn/uploads/uploads/*-size1220x
@@ -11244,6 +11246,7 @@
 ||qgl27.xyz^
 ||qgrnyis.cn^
 ||qguwoq.cn^$third-party
+||qhapoq.xyz^
 ||qhbhlii.xyz^
 ||qhdi.com/ttxnb.php
 ||qhdlz.net/ssyyss/m.js
@@ -13616,6 +13619,7 @@
 ||vghnnh.xyz^
 ||vgjaxnuw.xyz^
 ||vgxhvt.xyz^
+||vhgunzr.cn^
 ||vhhxnb.xyz^
 ||vhjxrj.xyz^
 ||vhotcvp.xyz^
@@ -14574,6 +14578,7 @@
 ||ychkujj.cn^
 ||yclxrj.top^$third-party
 ||ycmgeb.icu^
+||ydazjxso.xyz^
 ||yddbysa.xyz^
 ||ydgal.com/axfile/
 ||ydgh0zc.com^
