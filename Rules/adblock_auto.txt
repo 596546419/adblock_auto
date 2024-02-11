@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 0YY2Fn+RJWrvMCdXZAuFXg
+! Checksum: 9BAWpx55AADajNaPRRsMeg
 ! Title: 混合规则(自动更新)
-! Version: 20240211162145
+! Version: 20240212002234
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-11 16:21:45
-! Total Count: 130407
+! Last modified: 2024-02-12 00:22:34
+! Total Count: 130415
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -35340,6 +35340,7 @@
 ||jhlxfw.cn^
 ||jhoncj.com^
 ||jhpbtp.xyz^
+||jhpxlyd.cn^
 ||jhrfemourkojc.com^
 ||jhrtgt.site^
 ||jhsfwutqvnf.xyz^
@@ -73924,6 +73925,7 @@
 ||xlvqhx.xyz^
 ||xlwaluyw.com^
 ||xlwnzkyj.com^
+||xlwrdnrw.xyz^
 ||xlxknf.xyz^
 ||xlyhpurmfnlall.com^
 ||xlypzbzs.xyz^
@@ -81638,6 +81640,7 @@ convertcase.net##.feature
 convertingcolors.com,kobi8.com,slickdeals.net,whitecoatinvestor.com##.abc
 convertinmp4.com###b300ib
 convertinmp4.com###b728l
+cooking.nytimes.com##.adunit_ad-unit__IhpkS
 cookingforengineers.com##.nothing
 cookist.com##.content-leaderboard
 cool-de.com###fwin_popadv
@@ -84264,6 +84267,8 @@ gearjunkie.com,soaphub.com##.ldm_ad
 gearlive.com##.double
 gearlive.com##.wellvert
 gearlive.com,mediamass.net,noscript.net###google
+gearpatrol.com##.gearpatrol-ad
+gearpatrol.com##.wp-block-gearpatrol-ad-slot
 gearspace.com###Takeover
 gearspace.com###container__DesktopFDAdBanner
 gearspace.com###container__DesktopForumdisplayHalfway
@@ -84765,6 +84770,8 @@ gumtree.com.au##.liberty-container-1001
 gunbroker.com###home-ad-a-wrapper
 gunsamerica.com###slidebox
 gunsamerica.com##.logclick
+gunsandammo.com###VideoPlayerDivIframe
+gunsandammo.com###inline-player
 guofs.com##.style2
 guokr.com##.guokr-layer-beforelogin
 guokr.com##.side-adv
@@ -85955,6 +85962,8 @@ imkan.tv##.bottom__card
 imnks.com##.adTags
 imooc.com##.redrain-bg-shade
 impartialreporter.com,polygon.com,tweaktown.com##.ob-smartfeed-wrapper
+imsa.com##.ad-close-container
+imsa.com,nascar.com##.nascar-ad-container
 imx.to##a[href^="https://camonster.com/"]
 imydl.com###enhancedtextwidget-5
 imydl.com##div[id*="banner"]
@@ -88815,7 +88824,6 @@ naozhong.net.cn###pnl-ne0n
 narcity.com###leaderboard-wrapper
 narkive.com##a[href^="https://rfnm.io/?"]
 narutofan.com###right-spon
-nascar.com##.nascar-ad-container
 nashfm100.com##div[onclick*="https://deucepub.com/"]
 nasyun.com##img[width="275"]
 nasyun.com##img[width="970"]
