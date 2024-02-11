@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Vs3UkvrLB4yw5gDVmM8EHg
+! Checksum: CWk0NnDQaSpb7ybbBSM1Zg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240211092051
+! Version: 20240211162155
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-11 09:20:51
-! Total Count: 25313
+! Last modified: 2024-02-11 16:21:55
+! Total Count: 25316
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5648,6 +5648,7 @@
 ||dobiez.com/statics/wap_v1/js/qwd.
 ||dobwll.xyz^
 ||doccd.xyz^
+||docfj.cyou^
 ||docin.com/docin_adv/
 ||docin.com/jsp_cn/ad/
 ||dockdigestion.com^$third-party
@@ -7353,6 +7354,7 @@
 ||hjdkvt.xyz^
 ||hjfile.cn/analytics/site/TrackEvent.js
 ||hjgkr0g.xyz^
+||hjjshv.xyz^
 ||hjkiguy.com^
 ||hjnjjcw.xyz^
 ||hjpqt.cn^
@@ -12648,6 +12650,7 @@
 ||szbpf.cn^
 ||szbxm.cn^
 ||szbxw.cn^
+||szbzp.cn^
 ||szfcol.com/images/wxright240.jpg
 ||szfcol.com/js/siteAd.js
 ||szgpmy.com/js/
