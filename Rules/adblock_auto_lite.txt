@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 5aS7iZoj3yMQFED9IsICtQ
+! Checksum: VYJ7gLEN7r6pEUoeGAsp7A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240213002434
+! Version: 20240213091603
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-13 00:24:34
-! Total Count: 25335
+! Last modified: 2024-02-13 09:16:03
+! Total Count: 25343
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -928,6 +928,7 @@
 ||69t49.com/floating/layer.js
 ||69wx1.top^
 ||6avz.com^$script,third-party
+||6b70b1086b.com^
 ||6cdwf.xyz^
 ||6gcstb.xyz^
 ||6h1cz.xyz^
@@ -3090,6 +3091,7 @@
 ||adzyou.com^$third-party
 ||aeletheacd.com^
 ||aerbgpn.xyz^
+||aeucyo.xyz^
 ||af29.com/banner/
 ||afafevk.com^
 ||afdunaui.com^
@@ -3919,6 +3921,7 @@
 ||bcc878.com/js/abc/
 ||bccnsoft.com/aac/
 ||bceapp.com/jj/1716mid.js
+||bcebos.com/59x360x528.gif
 ||bcebos.com/725c659194eeebb8c6b970e52e2dc8aa.
 ||bcebos.com/ad/
 ||bcebos.com/contentAdSecend_
@@ -4340,6 +4343,7 @@
 ||brookssa.com^
 ||brorzpj.cn^
 ||browser.sentry-cdn.com^
+||brtzgnd.xyz^
 ||brzfqq.com^
 ||bs.baidu.com/app-ads%
 ||bsanciv.top^
@@ -11076,6 +11080,7 @@
 ||powerlinks.com^
 ||poxiao.com/template/default/images/12345.js
 ||poyang.com^
+||pozrwj.icu^
 ||ppenid.xyz^
 ||ppjttn.xyz^
 ||pplnjoow.com^
@@ -11220,6 +11225,7 @@
 ||pzwjonv.icu^
 ||pzykrcq.cn^
 ||q1.yyxwzx.com^
+||q1gel.icu^
 ||q1zcp.com^
 ||q27sz.com^
 ||q4v3c.site^
@@ -13597,6 +13603,7 @@
 ||vazhno.ru/cdn-cgi/apps/head/*.js
 ||vbdbmqzu.com^
 ||vbgr7.cn^
+||vbzfjh.xyz^
 ||vbzrkme.xyz^
 ||vcbppb.xyz^
 ||vcdn.biz/*_mggads/
@@ -14754,6 +14761,7 @@
 ||ylgvlvbc.xyz^
 ||ylkdbbvy.xyz^
 ||yllix.com^
+||ylplrhum.xyz^
 ||ylrjnhxi.xyz^
 ||ylwrdnrw.xyz^
 ||ylykd.cn^
