@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: y5RuwNv7Z8bHZ1BUAv76mQ
+! Checksum: cj8w6XFgUD83H2XnF4bm4Q
 ! Title: 混合规则(自动更新)
-! Version: 20240213091552
+! Version: 20240213162315
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-13 09:15:52
-! Total Count: 130554
+! Last modified: 2024-02-13 16:23:15
+! Total Count: 130559
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -16649,6 +16649,7 @@
 ||cloudweekly.vip^
 ||cloudypotsincluded.com^
 ||clownunknownaffect.com^
+||clplrhum.xyz^
 ||clqkqq.com^
 ||clqrdxc.cn^
 ||clrjnhxi.xyz^
@@ -26823,6 +26824,7 @@
 ||fuelbuck.com^
 ||fueldeck.com^
 ||fuelx.com^
+||fufrnl.xyz^
 ||fugcgfilma.com^
 ||fugetech.com^
 ||fugleparges.top^
@@ -34769,6 +34771,7 @@
 ||iwantuonly.com^
 ||iwantusingle.com^
 ||iwarship.net/wowsdb/static/img/banner.png
+||iwatojc.cn^
 ||iwdapjojrylh.xyz^
 ||iwdvvoc.cn^
 ||iwe.ktvgv.com^
@@ -92525,6 +92528,7 @@ ssyy.ee##.container > a[target="_blank"] > img
 stackoverflow.com##.clc-cp-lb
 stackoverflow.com##.js-sidebar-zone
 stadiumastro.com##.Ads
+stadiumtalk.com##.story-section-inStory-inline
 stakingrewards.com###asset-calculator-banner
 stakingrewards.com##div[class^="assetFilters_desktop-banner_"]
 stalkerportaal.ru##.video_adsense
@@ -115125,6 +115129,7 @@ zle.com$script
 ##.ad-in-post
 ##.ad-in-read
 ##.ad-in-results
+##.ad-inStory
 ##.ad-incontent
 ##.ad-incontent-wrap
 ##.ad-index-main

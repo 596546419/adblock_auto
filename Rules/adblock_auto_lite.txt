@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: VYJ7gLEN7r6pEUoeGAsp7A
+! Checksum: zGz0Xmw0ueIFIeawRy+q6g
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240213091603
+! Version: 20240213162326
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-13 09:16:03
-! Total Count: 25343
+! Last modified: 2024-02-13 16:23:26
+! Total Count: 25347
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4944,6 +4944,7 @@
 ||cloudfront.net^/?clzed=$third-party
 ||clouds.kunlunus.com^
 ||cloudservice24.kingsoft-office-service.com/cards
+||clplrhum.xyz^
 ||clqkqq.com^
 ||clrjnhxi.xyz^
 ||cls.vrvm.com^
@@ -6504,6 +6505,7 @@
 ||ftptjj.xyz^
 ||ftrtnr.xyz^
 ||ftzzbx.xyz^
+||fufrnl.xyz^
 ||fuimg.com/1/66795b80a792fb96.png
 ||fuimg.com^$domain=678cn.com|cfzhushou.com
 ||fujoe.cyou^
@@ -8092,6 +8094,7 @@
 ||iwanad.baidu.com^
 ||iwandlo.top^
 ||iwarship.net/wowsdb/static/img/banner.png
+||iwatojc.cn^
 ||iwwmaq.xyz^
 ||ix2.deepsexvids.com^
 ||ixsw.org/*/*.js
@@ -10414,6 +10417,7 @@
 ||ogmjhve.cn^
 ||ogouawc.cn^
 ||ogxstqna.xyz^
+||ogyoopo.cn^
 ||oh100.com/js/pubuliu.
 ||ohdvafp.xyz^
 ||ohmpyq.xyz^
