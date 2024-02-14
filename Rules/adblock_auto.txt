@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Ci//b59cEgI2MoeKh6Fb+g
+! Checksum: rJuOYV8l+O7Tlm+yx3AV6g
 ! Title: 混合规则(自动更新)
-! Version: 20240214091549
+! Version: 20240214162305
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-14 09:15:49
-! Total Count: 130783
+! Last modified: 2024-02-14 16:23:05
+! Total Count: 130786
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -14993,6 +14993,7 @@
 ||cdkcaxxjyyb.xyz^
 ||cdkke.xyz^
 ||cdmjur.xyz^
+||cdmnlxtu.xyz^
 ||cdn*-sites.porntube.com/tb/banner/
 ||cdn*.swaxis.com^
 ||cdn-99-pic.cc^
@@ -45830,6 +45831,7 @@
 ||ngmnhc.xyz^
 ||ngnhdkjnspb.com^
 ||ngnlaigc.fun^
+||ngnxyub.cn^
 ||ngoahotanglong.vn^
 ||ngoctu.click^
 ||ngocvang.pw^
@@ -67550,6 +67552,7 @@
 ||tylosischewer.com^
 ||tymahuxv.xyz^
 ||tynt.com^
+||tyodot.icu^
 ||typablecyclide.com^
 ||typerealisepredict.com^
 ||typescoordinate.com^

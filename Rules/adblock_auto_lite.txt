@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: jFVIEyMot0FVLnprQ4MeqQ
+! Checksum: JiGRVJtx4bV/yAr7om61Ng
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240214091559
+! Version: 20240214162315
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-14 09:15:59
-! Total Count: 25357
+! Last modified: 2024-02-14 16:23:15
+! Total Count: 25364
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1198,6 +1198,7 @@
 ||99496.com/v9/head.js
 ||996000996.xyz/ga/$image,domain=yaociyuan.bid
 ||99886aaa.com^
+||998sus.com^
 ||9999961.com/JS/bofang.js
 ||9999961.com/JS/daohang.js
 ||9999961.com/JS/lianmeng.js
@@ -4640,6 +4641,7 @@
 ||cdhfvrug.xyz^
 ||cdkke.xyz^
 ||cdmjur.xyz^
+||cdmnlxtu.xyz^
 ||cdn*-sites.porntube.com/tb/banner/
 ||cdn-99-pic.cc^
 ||cdn-adn-*.rayjump.com^
@@ -10232,6 +10234,7 @@
 ||nfuwow.com/static/nfuwow/source/front/new/images/
 ||nfydd.com/template/wap1/js/dd.js
 ||ngbthf.xyz^
+||ngnxyub.cn^
 ||nhcdn.cn^
 ||nhjkm.com^
 ||nhvgrb.xyz^
@@ -11789,6 +11792,7 @@
 ||ruiwen.com/js/p.js
 ||ruiwen.com/jscss/
 ||ruiwen.com/sp/
+||ruliaoqi.com^
 ||rulwph.xyz^
 ||runmang.vip/img/
 ||runnergamesch.com/*/BasCount/adAll
@@ -13272,6 +13276,7 @@
 ||tydzfldt.xyz^
 ||tyjryuk.cn^$third-party
 ||tymahuxv.xyz^
+||tyodot.icu^
 ||tyrsn6di.icu^
 ||tyuetxt.com^
 ||tz-68-fabb.com/qiye/
@@ -13337,6 +13342,7 @@
 ||u644.fun^
 ||u66099.com^
 ||u68t5.icu^
+||u78s.top^
 ||u833ij.com^
 ||u88.cn^$third-party
 ||u97jr.xyz^
@@ -23089,6 +23095,7 @@ zle.com$script
 ##A[href*=".com/?Agent="]
 ##A[href="http://t.cn/A6hQCVsv"]
 ##A[href^="/e/public/ClickAd?adid="]
+##A[onclick$="'clicked', 'ad');"]
 ##[ad_display_dot]
 ##[ad_dot_url]
 ##[class$="-ad-box"]
