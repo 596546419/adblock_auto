@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: JiGRVJtx4bV/yAr7om61Ng
+! Checksum: y0CPCcAhJZx/89HtgAMbNQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240214162315
+! Version: 20240215002331
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-14 16:23:15
-! Total Count: 25364
+! Last modified: 2024-02-15 00:23:31
+! Total Count: 25366
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -14260,6 +14260,7 @@
 ||xdhfvrug.xyz^
 ||xdiwbc.com^$third-party
 ||xdjdpyrt.xyz^
+||xdmnlxtu.xyz^
 ||xdnice.com/themes/xdnice/public/assets/images/quna.png
 ||xdnice.com/themes/xdnice/public/assets/images/xdnice.png
 ||xdolhlwq.xyz^
@@ -23285,6 +23286,7 @@ zle.com$script
 ##a[href*=".blueyoko.com/"]
 ##a[href*=".bright.cn/?utm_"]
 ##a[href*=".buscandolaidea.com/"]
+##a[href*=".bvftxy.com/"]
 ##a[href*=".cc:"] > img[src]
 ##a[href*=".cc:"][target="_blank"][class] > span
 ##a[href*=".cgn8j9f4j3g.com:"]
