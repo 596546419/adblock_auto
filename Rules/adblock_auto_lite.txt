@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 34YpXrh0TdvEcSDM3zxdsA
+! Checksum: jFVIEyMot0FVLnprQ4MeqQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240214002405
+! Version: 20240214091559
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-14 00:24:05
-! Total Count: 25349
+! Last modified: 2024-02-14 09:15:59
+! Total Count: 25357
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5590,6 +5590,7 @@
 ||dla.tuobeng.net/*-*.apk$document
 ||dla.tuobeng.net/*-*.apk$~third-party
 ||dlads.cn^$third-party
+||dlbghx.xyz^
 ||dlbooks.to/img/smart/bn_
 ||dlkoo.cc/down/$subdocument
 ||dlkoo.cc/down/*.htm$popup
@@ -9509,6 +9510,7 @@
 ||mahua.com/api/$subdocument
 ||mahua.com/www/default/js/mahua_show.js
 ||mahua.com/www/default/js/replace_ab.js
+||mai22uc.cn^
 ||maiche.com/iframe/rank.html
 ||mail.7porn.ru^
 ||mail.google.com/mail/ads^
@@ -9910,6 +9912,7 @@
 ||mqjqripb.xyz^
 ||mql5.com/rq?
 ||mqrupjsm.xyz^
+||mqsnce.xyz^
 ||mqxnid.cn^
 ||mqznjujv.xyz^
 ||mr956.xyz^
@@ -10260,6 +10263,7 @@
 ||njslx.cn^
 ||njtbiml.xyz^
 ||njtprv.xyz^
+||njxraqb.xyz^
 ||njxzwh.com/pcsoft/statics/ycgg/
 ||nkis.nikkei.com^
 ||nkvwvx.xyz^
@@ -11650,6 +11654,7 @@
 ||rfrhfh.xyz^
 ||rfto9i.icu^
 ||rfxnff.xyz^
+||rgdcrt.xyz^
 ||rgpujh.xyz^
 ||rgyfqq.com^
 ||rhesed.site^
@@ -13146,6 +13151,7 @@
 ||ttienli.top^
 ||ttnwxhjv.xyz^
 ||ttpybz.xyz^
+||ttrruq749.shop^
 ||tttppp.oss-cn-guangzhou.aliyuncs.com^
 ||tttxx.cn^$third-party
 ||ttwwzqdx.xyz^
@@ -13330,6 +13336,7 @@
 ||u5nvu.xyz^
 ||u644.fun^
 ||u66099.com^
+||u68t5.icu^
 ||u833ij.com^
 ||u88.cn^$third-party
 ||u97jr.xyz^
@@ -14630,6 +14637,7 @@
 ||ydgal.com/axfile/
 ||ydgh0zc.com^
 ||ydhfvrug.xyz^
+||ydmnlxtu.xyz^
 ||ydolhlwq.xyz^
 ||ydqcjy.cn^
 ||ydss.cn/test.www.jdpay.com
