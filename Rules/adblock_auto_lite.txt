@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: y0CPCcAhJZx/89HtgAMbNQ
+! Checksum: otWLcg4cFRYubJ8R2ecanA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240215002331
+! Version: 20240215091533
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-15 00:23:31
-! Total Count: 25366
+! Last modified: 2024-02-15 09:15:33
+! Total Count: 25369
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9329,6 +9329,7 @@
 ||luyx8.com/tu/666.gif
 ||lv-play.com/web/adv/list
 ||lv.myapks.com^
+||lvdedf.xyz^
 ||lvjtiaa.xyz^
 ||lvnlrmn.xyz^
 ||lvrvdn.xyz^
@@ -12462,6 +12463,7 @@
 ||spplamt.xyz^
 ||spqi.xyz/static/tmp/
 ||springserve.com^
+||spsfupq.cn^
 ||sq59.cn^
 ||sqevnrb.com^
 ||sqgnqc.xyz^
@@ -14779,6 +14781,7 @@
 ||yldfkfb.cn^
 ||yldxphtg.xyz^
 ||ylgvlvbc.xyz^
+||yliffnsc.xyz^
 ||ylkdbbvy.xyz^
 ||yllix.com^
 ||ylplrhum.xyz^
@@ -23096,7 +23099,6 @@ zle.com$script
 ##A[href*=".com/?Agent="]
 ##A[href="http://t.cn/A6hQCVsv"]
 ##A[href^="/e/public/ClickAd?adid="]
-##A[onclick$="'clicked', 'ad');"]
 ##[ad_display_dot]
 ##[ad_dot_url]
 ##[class$="-ad-box"]
@@ -23668,6 +23670,7 @@ zle.com$script
 ##a[id][href*="/?aff="]
 ##a[id][href*="/?register="]
 ##a[id][target="_blank"] > img[src*="help-ol.bj.bcebos.com"]
+##a[onclick$="'clicked', 'ad');"]
 ##a[onclick*=".337770.xyz"]
 ##a[onclick*=".lyty665.com"]
 ##a[onclick*="/dasp.php?a="]
