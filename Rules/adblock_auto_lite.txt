@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: EvH/EoFPrrBh/VjWxa0cUg
+! Checksum: icxUvH4Kl7X7ASlflVE67Q
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240216162308
+! Version: 20240217002327
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-16 16:23:08
-! Total Count: 25391
+! Last modified: 2024-02-17 00:23:27
+! Total Count: 25395
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4640,6 +4640,7 @@
 ||cdeledu.com/ADVC/$domain=~chinaacc.com|~ruidaedu.com
 ||cdend.com/*.mp4$domain=moviedo24.com|hdd.movie365-hd.com|hdd.movies-store.com|hdd.nung2uhd.com|hdd.movie2021.com|hdd.movie22hd.com|moviehdfree.ngo-stream.xyz|hdd.porn2uhd.com
 ||cdfda.xyz^
+||cdfhidrk.xyz^
 ||cdgfa.ifeng.com^
 ||cdgtw3.guapaijia.com^
 ||cdhfvrug.xyz^
@@ -6773,6 +6774,7 @@
 ||ghreha.top^
 ||ghsnhjk.cn^
 ||giaoji.com/Runtime/Js/
+||gicjtss.cn^
 ||giga.de/static-local/dist/theme/assets/js/module/giga-*.mobile-stopper.js
 ||gimy.*/images/eee*.png
 ||giold.xyz^
@@ -12723,6 +12725,7 @@
 ||szpsys.com^$~third-party
 ||szptlkj.com^$document
 ||szptlkj.com^$~third-party
+||szptp.cn^
 ||szsbiw.xyz^
 ||szwjzl.cn^$third-party
 ||szxljdsb.com/tl
@@ -14274,6 +14277,7 @@
 ||xdcad.net/source/plugin/disad/disad.js
 ||xdf.cn/v4/js/leyus/
 ||xdfdqce.xyz^
+||xdfhidrk.xyz^
 ||xdh0808.com^$popup
 ||xdhfvrug.xyz^
 ||xdiwbc.com^$third-party
