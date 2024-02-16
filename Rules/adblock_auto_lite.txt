@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: zq3jmbSpMy4VPV9xaT6gzw
+! Checksum: zguYkgmEvJCYC4Hgm6SQXQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240216002323
+! Version: 20240216091538
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-16 00:23:23
-! Total Count: 25381
+! Last modified: 2024-02-16 09:15:38
+! Total Count: 25389
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7037,6 +7037,7 @@
 ||guysfair.com^
 ||guzsjdl.cn^
 ||gvbhae0.com^
+||gvbta.icu^
 ||gvt1.com/videoplayback?$media,redirect=noop-1s.mp4,domain=safeframe.googlesyndication.com
 ||gw1jvhs.com^
 ||gwbnsh.net.cn/hd/unicom/ad.html
@@ -8454,6 +8455,7 @@
 ||js1.122cha.com^
 ||js1.dadiniu.cn^
 ||js1.haoge500.com^
+||js131.cn^
 ||js22f.net^
 ||jsb.qianzhan.com^
 ||jsckjqr.com^$third-party
@@ -8648,6 +8650,7 @@
 ||kbayke.xyz^
 ||kbbrptv.xyz^
 ||kbctii.xyz^
+||kbomku.xyz^
 ||kbzs88.com^
 ||kc.gouchezj.com^
 ||kccdk.com/Content/img/*.gif
@@ -9075,6 +9078,7 @@
 ||lezhutv.com/static/jquerys.js
 ||leztc.com^
 ||lf9-static.bytednsdoc.com/obj/tos-cn-i-0813
+||lfffzv.xyz^
 ||lfhnzbj.xyz^
 ||lfjtiuy.cn^
 ||lfzk2cp.icu^
@@ -11386,6 +11390,7 @@
 ||qksapp.net/gif/
 ||qkwsqq.com^
 ||ql.uzuzuz.com^
+||qlbbowx.xyz^
 ||qlcbeg.xyz^
 ||qliiom.xyz^
 ||qlogo.cn^$domain=chichiav1.xyz
@@ -13372,6 +13377,7 @@
 ||uckgqa.xyz^
 ||uckmee.xyz^
 ||ucqihfh.cn^
+||uctutu3789.xyz^
 ||uczfl.com/data/content
 ||udajswf.cn^
 ||udb3n.icu^
@@ -14654,6 +14660,7 @@
 ||ycqbgm.xyz^
 ||ydazjxso.xyz^
 ||yddbysa.xyz^
+||ydfhidrk.xyz^
 ||ydgal.com/axfile/
 ||ydgh0zc.com^
 ||ydhfvrug.xyz^
@@ -14960,6 +14967,7 @@
 ||yy18.info/yyads/
 ||yy18.info^*thanks$popup
 ||yy8090.vip/js/abc/
+||yyddkm526.shop^
 ||yye2.top^
 ||yyefao.com^
 ||yyepa.cyou^
