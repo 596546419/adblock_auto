@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: zguYkgmEvJCYC4Hgm6SQXQ
+! Checksum: EvH/EoFPrrBh/VjWxa0cUg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240216091538
+! Version: 20240216162308
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-16 09:15:38
-! Total Count: 25389
+! Last modified: 2024-02-16 16:23:08
+! Total Count: 25391
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4231,6 +4231,7 @@
 ||bmiea.xyz^
 ||bmjs.xzw.com^
 ||bmjvrf.xyz^
+||bmnbyn.icu^
 ||bmp.ali213.net/js/
 ||bmp.ovh/imgs/2020/09/3e4e11ecc19c4bd6.png
 ||bmp1.ali213.net/js/
@@ -11162,6 +11163,7 @@
 ||proxyporn.info/o.php
 ||proxyporn.info/proxyporn-info-p0p.js
 ||prtlth.xyz^
+||przbzr.xyz^
 ||ps123.net/MyFile/
 ||ps557.com/link/
 ||ps886.us/js/*.js
