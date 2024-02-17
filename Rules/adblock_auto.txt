@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Zha6qkp7HzDEeBZR3xTveg
+! Checksum: DY+E3kNVpj210uyFPjmHBA
 ! Title: 混合规则(自动更新)
-! Version: 20240217162058
+! Version: 20240218002224
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-17 16:20:58
-! Total Count: 131265
+! Last modified: 2024-02-18 00:22:24
+! Total Count: 131271
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -17255,6 +17255,7 @@
 ||collector-dev.cdp-dev.cnn.com^
 ||collector-hpn.ghostery.net^
 ||collector-medium.lightstep.com^
+||collector-pxfqtaw5et.px-client.net^
 ||collector-pxrf8vapwa.px-cdn.net^
 ||collector-pxrf8vapwa.px-cloud.net^
 ||collector-pxrf8vapwa.pxchk.net^
@@ -62785,6 +62786,7 @@
 ||sultrycartonedward.com^
 ||sultrymercury.com^
 ||sulvo.co^
+||sumaity.com/ui/utility/sp/images/bnr/
 ||sumarketing.co.uk^
 ||sumatoad.com^
 ||sumberiklan.com^
@@ -75046,6 +75048,7 @@
 ||xv98.com/js/daohang
 ||xv98.com/js/hengfu
 ||xvaeqgtbnunpkff.com^
+||xvbjctqs.xyz^
 ||xvbnrh.xyz^
 ||xvbtdwdelhhxe.com^
 ||xvderylqps.xyz^
@@ -88784,7 +88787,9 @@ manmanw.net##.tlads
 manofmany.com##.header_banner_wrap
 manofmany.com##.mom-ads__inner
 manofmany.com,scanwith.com##.middle-banner
+manomano.co.uk,manomano.de,manomano.es,manomano.fr,manomano.it##a[href^="/"][href*="?product_id="]:has(.ur6iYv)
 manomano.co.uk,manomano.de,manomano.es,manomano.fr,manomano.it##a[href^="/"][href*="?product_id="]:has(span[data-testid="product-card-sp-label"])
+manomano.co.uk,manomano.de,manomano.es,manomano.fr,manomano.it##div[data-testid="boosted-product-recommendations"]
 manomano.co.uk,manomano.de,manomano.es,manomano.fr,manomano.it##div[data-testid^="sponsored-product"]
 mansurfer.com##.footerbanner
 mansurfer.com##a[href*="/out/"]
@@ -93966,6 +93971,7 @@ thesimsresource.com##[class^="ad-browse-"]
 thesouthafrican.com##[class^="Advertisement_"]
 thesouthafrican.com##[class^="SiteHeader__AdvertisementWrapper-"]
 thespec.com##.polarAds
+thespike.gg##.siderail_ad_right
 thespinoff.co.nz##.supporters-block
 thestar.co.uk##.gOoqzH
 thestar.com###sticky-ad-2
