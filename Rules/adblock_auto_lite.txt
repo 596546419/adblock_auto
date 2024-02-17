@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: xzy2jlUeMaFFyuh17IhcFA
+! Checksum: cO1pj89Qbanycco34AsW0g
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240217091515
+! Version: 20240217162109
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-17 09:15:15
-! Total Count: 25401
+! Last modified: 2024-02-17 16:21:09
+! Total Count: 25405
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4052,6 +4052,7 @@
 ||bdu1.coozhi.cn^
 ||bdunion1.suxiazai.com^
 ||bdx.playnext.cn^
+||bdxpdz.xyz^
 ||bdzdd2-sdd53-vxc.com^
 ||bea-s.dinghuoche.com^
 ||beacher56.xyz^
@@ -4187,6 +4188,7 @@
 ||bjmama.net/a/spc_
 ||bjrspnbf.xyz^
 ||bjs.faxingzhan.com^
+||bjswhpy.cn^
 ||bjtel.cn^
 ||bjtgds.xyz^
 ||bjzankai.com^$script,third-party
@@ -5208,6 +5210,7 @@
 ||curvycry.com^$third-party
 ||cutechin.com^$third-party
 ||cuvtnzv.cn^
+||cvbjctqs.xyz^
 ||cvmesi.xyz^
 ||cvmjf.xyz^$third-party
 ||cvtbdap.xyz^
@@ -6542,6 +6545,7 @@
 ||fvcwqkkqmuv.com^
 ||fvxlhn.xyz^
 ||fvzljv.xyz^
+||fwcnex.icu^
 ||fweia.xyz^
 ||fwepd.xyz^
 ||fwffa.cn^

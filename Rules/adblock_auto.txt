@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: +NSuCCRKBkTC17aEvL7wQA
+! Checksum: Zha6qkp7HzDEeBZR3xTveg
 ! Title: 混合规则(自动更新)
-! Version: 20240217091505
+! Version: 20240217162058
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-17 09:15:05
-! Total Count: 131256
+! Last modified: 2024-02-17 16:20:58
+! Total Count: 131265
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -11509,6 +11509,7 @@
 ||bdwmhz.120askimages.com^
 ||bdx.playnext.cn^
 ||bdxiguaimg.com^$domain=biquav.com|feisucn.net
+||bdxpdz.xyz^
 ||bdyumwlf.com^
 ||bdzdd2-sdd53-vxc.com^
 ||bdzkrl.cn^
@@ -12583,6 +12584,7 @@
 ||bjrgsjxb.xyz^
 ||bjrspnbf.xyz^
 ||bjs.faxingzhan.com^
+||bjswhpy.cn^
 ||bjsxt.com/statics/js/bjsxt/js.js
 ||bjtel.cn^
 ||bjtengda.cn^
@@ -18842,6 +18844,7 @@
 ||cuyynol.com^
 ||cvastico.com^
 ||cvbdw.xyz^
+||cvbjctqs.xyz^
 ||cvcddno.cn^
 ||cvcmslcefxvvux.com^
 ||cvemhco.cn^
@@ -27199,6 +27202,7 @@
 ||fwabhrptdns.com^
 ||fwbntw.com^
 ||fwccw.com^
+||fwcnex.icu^
 ||fwealjdmeptu.com^
 ||fweia.xyz^
 ||fwepd.xyz^
@@ -90730,9 +90734,12 @@ pinggu.org##.index-somelinks
 pinggu.org##.indextop-r
 pinggu.org##.mui-mbar-tabs
 pinggu.org##a[target="_blank"][href*=".cda.cn"]
+pinkvilla.com###skinnerAdClosebtn
 pinkvilla.com##.ad-heder-320-50
 pinkvilla.com##.homemobiletopad
 pinkvilla.com##.mobileads
+pinkvilla.com##.right--side--ad-s1
+pinkvilla.com##.skinnerAd
 pinloker.com,sekilastekno.com,dragontranslation.com,sektekomik.com,pornve.com###teaser2
 pinshan.com##.b_adv
 pinshan.com##.b_adv2
@@ -91296,6 +91303,7 @@ pornstarchive.com##.squarebanner
 pornstash.in##+js(abort-current-script, document.createElement, Popunder)
 pornstream.org##.player > div.right
 pornstreams.eu###menu-menu > li > a[target="_blank"]
+porntop.com##.videos-slider--promo
 porntop.com,onlyporn.tube,pornhits.com###inv_pause
 porntop.com,onlyporn.tube,pornhits.com##.jwplayer .btn-close
 porntop.com,pornhits.com##.text > a[rel="nofollow"]
@@ -120897,6 +120905,7 @@ zle.com$script
 ##.c-posts__ad
 ##.c-prebid
 ##.c-res-ad
+##.c-sidebar-ad-stream__ad
 ##.c-sitenav-adslot
 ##.c-sitenavPlaceholder__ad
 ##.c-teaser__advertising
