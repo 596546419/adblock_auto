@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 9iunIr0k/walNdNB9C+ojA
+! Checksum: /9j+u1I5aZ9Nz5mNUfuy1g
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240218002234
+! Version: 20240218091951
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-18 00:22:34
-! Total Count: 25407
+! Last modified: 2024-02-18 09:19:51
+! Total Count: 25414
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -357,6 +357,7 @@
 ||1mp.mobi^
 ||1mxabnt.com^
 ||1ng2l.space^
+||1ny3r.icu^
 ||1ppt.com/ad$image
 ||1pwx.com/js/ck.js
 ||1qkmxbt.com^
@@ -8222,6 +8223,7 @@
 ||jfiacyg.cn^$~third-party
 ||jfnkjr.xyz^
 ||jg1668.com^$third-party
+||jgmywh.icu^
 ||jgsajfggv.xyz^
 ||jgstny.com^$third-party
 ||jgygtv.cn^
@@ -10446,6 +10448,7 @@
 ||ogouawc.cn^
 ||ogxstqna.xyz^
 ||ogyoopo.cn^
+||ogznfgl.cn^
 ||oh100.com/js/pubuliu.
 ||ohdvafp.xyz^
 ||ohmpyq.xyz^
@@ -10580,6 +10583,7 @@
 ||ovbgeum.cn^
 ||overconfidentfood.com^$third-party
 ||ovfvkfc.xyz^
+||ovjlccs.xyz^
 ||ovnrmvg.cn^
 ||ovykq.online^
 ||owandlk.top^
@@ -11538,6 +11542,7 @@
 ||qyoqeq.xyz^
 ||qyuimi.xyz^
 ||qyun.vip/pic/*.gif
+||qzalsk.xyz^
 ||qznjujv.xyz^
 ||qzone.la/Scripts/m.js
 ||qzpbwq.com^
@@ -13033,6 +13038,7 @@
 ||tmatch.simba.taobao.com^*&name=tbuad&pid=
 ||tmea116.oss-cn-beijing.aliyuncs.com^
 ||tmioe.com/img/att/boom.jpg
+||tmjetb.xyz^
 ||tmjwlmhc.xyz^
 ||tmlwvxae.xyz^
 ||tmrhoe2.com^
@@ -14688,6 +14694,7 @@
 ||ydstatic.com/dsp_website/
 ||ydttxdqe.xyz^
 ||ydv7k.cyou^
+||ydybwjpa.xyz^
 ||yea.im/5hq.gif
 ||yea.im/5ht.gif
 ||yecaoyun.com/AD/
