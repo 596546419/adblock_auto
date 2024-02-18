@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: s18e8L4r7kja2OJ5hZMZiQ
+! Checksum: MZ0LPkavinE55fIFoMkYsA
 ! Title: 混合规则(自动更新)
-! Version: 20240218091941
+! Version: 20240218162151
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-18 09:19:41
-! Total Count: 131352
+! Last modified: 2024-02-18 16:21:51
+! Total Count: 131366
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -11860,6 +11860,7 @@
 ||bennetevidentlylog.com^
 ||benonblkd.xyz^
 ||benoopto.com^
+||benpsbp.com^
 ||benshdarat.website^
 ||bensokive.com^
 ||bentengcn.com^
@@ -15322,6 +15323,7 @@
 ||cdwyjuchsqvwa.xyz^
 ||cdxyb.cn^
 ||cdxyb.cn^$third-party
+||cdybwjpa.xyz^
 ||cdyee.com/external/5070.files/ad/
 ||ce-global-track-*.amazonaws.com^
 ||ce.wlaoc.cn^
@@ -46840,6 +46842,7 @@
 ||npehvrjmf.com^
 ||npjhdunxxfhwgtv.com^
 ||npkzqlhtecxx.com^
+||nplahh.xyz^
 ||nplxa.com^
 ||npmeingm7.shop^
 ||npnbwfpftjpqwc.com^
@@ -48731,6 +48734,7 @@
 ||ostentatiousmystery.com^
 ||osteriawoold.space^
 ||ostilllookinga.cc^
+||ostjpig.cn^
 ||ostlon.com^
 ||ostrichrockychaos.com^
 ||oswegomiting.com^
@@ -67611,6 +67615,7 @@
 ||tu.zx110.org^
 ||tu2.taohuaimg.com^
 ||tu2.taohuaimg.com^$third-party
+||tu2024020388.com^
 ||tuanbansub.ml^
 ||tuangou.pro^
 ||tuanlevang.vn^
@@ -69341,6 +69346,7 @@
 ||uu11881.com^
 ||uu22002.com^
 ||uu22332.com^
+||uu22662.com^
 ||uu2e.com^
 ||uu3192uu.com^
 ||uu5731uu.com^
@@ -73776,6 +73782,7 @@
 ||wsoxwa.xyz^
 ||wspsbhvnjk.com^
 ||wstat.ozon.ru^
+||wstats.slashed.cloud^
 ||wstatslive.com^
 ||wsthcgl.cn^
 ||wstx.com/api.php?mod=ad&
@@ -90171,6 +90178,7 @@ notdoppler.com##table[height="252"]
 note.nkmk.me##.sticky-block
 note.youdao.com##.sidebar-ft
 notebookcheck.net###contenta
+notebookcheck.net##.nbc-right-float
 notebooks.com##.cb-block
 notebooks.com##.efbleft
 notes.io##.directMessageBanner
@@ -104774,6 +104782,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /pixelads/*
 /pj5303.oss-
 /pj545.oss-
+/pj98co.oss-
 /pjk/mdk/*$subdocument,third-party
 /pjk/static/tp.php
 /pjk/xjk/*.php
@@ -126229,11 +126238,16 @@ zle.com$script
 ##.trb_taboola
 ##.trc-content-sponsored
 ##.trc-content-sponsoredUB
+##.trc_excludable
 ##.trc_excludable.syndicatedItem
+##.trc_rbox
 ##.trc_rbox .syndicatedItem
+##.trc_rbox_border_elm
 ##.trc_rbox_border_elm .syndicatedItem
+##.trc_rbox_div
 ##.trc_rbox_div .syndicatedItem
 ##.trc_rbox_div .syndicatedItemUB
+##.trc_related_container
 ##.trc_related_container div[data-item-syndicated="true"]
 ##.trend-card-advert
 ##.trend-card-advert__title

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: /9j+u1I5aZ9Nz5mNUfuy1g
+! Checksum: P8+orFEKOjUF+NswKgqEYg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240218091951
+! Version: 20240218162201
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-18 09:19:51
-! Total Count: 25414
+! Last modified: 2024-02-18 16:22:01
+! Total Count: 25420
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4090,6 +4090,7 @@
 ||bendan.shop^
 ||bendibao.com*/tuangou.gif
 ||bendibao.com/mo/adm_iframe.htm?
+||benpsbp.com^
 ||bepmrb.xyz^
 ||bepolite.eu^
 ||berjzj.xyz^
@@ -4718,6 +4719,7 @@
 ||cdsa2.icu^
 ||cdttxdqe.xyz^
 ||cdxyb.cn^$third-party
+||cdybwjpa.xyz^
 ||cdyee.com/external/5070.files/ad/
 ||ce.wlaoc.cn^$third-party
 ||cechi8.com/images/appdown.gif
@@ -10331,6 +10333,7 @@
 ||nownews.com/assets/js/setAds.js
 ||noxagile.duapp.com^
 ||npdkdb.xyz^
+||nplahh.xyz^
 ||npmeingm7.shop^
 ||npnpxoz.xyz^
 ||npnzfri.xyz^
@@ -10564,6 +10567,7 @@
 ||oss-ap-southeast-1.aliyuncs.com/js/copy.js
 ||oss-cn-shanghai.aliyuncs.com/feimobileA.js
 ||ossfile001.com^
+||ostjpig.cn^
 ||oswowg.xyz^
 ||otbeksf.cn^
 ||otcdn2.auditude.com^
@@ -13209,6 +13213,7 @@
 ||tu.7j813.cn^$third-party
 ||tu.zx110.org^
 ||tu2.taohuaimg.com^$third-party
+||tu2024020388.com^
 ||tubemogul.com^
 ||tubepornanal.com/js/oagge.js
 ||tubepornup.com/adg1.shtml
@@ -13554,6 +13559,7 @@
 ||uu11881.com^
 ||uu22002.com^
 ||uu22332.com^
+||uu22662.com^
 ||uu3192uu.com^
 ||uu5731uu.com^
 ||uu6522uu.com^
