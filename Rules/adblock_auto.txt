@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: wiVCnlE6wO7BxaCCPJiTGA
+! Checksum: NRtiLzjH4ODernDg5fCYvg
 ! Title: 混合规则(自动更新)
-! Version: 20240219162348
+! Version: 20240220002436
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-19 16:23:48
-! Total Count: 131436
+! Last modified: 2024-02-20 00:24:36
+! Total Count: 131452
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4486,6 +4486,7 @@
 ||ad.zing.vn^
 ||ad.zinimedia.com^
 ||ad.zui.com^
+||ad1.girls-affiliate.com^
 ||ad1.udn.com^
 ||ad120m.com^
 ||ad123.ynet.com^
@@ -27817,6 +27818,7 @@
 ||gdjme27.com^
 ||gdkixpmakvrpm.com^
 ||gdl.i9dhjx.ru^
+||gdl.zmqdez.ru^
 ||gdla.rgov.net^
 ||gdls114.com^
 ||gdlxtjk.com^
@@ -31198,6 +31200,7 @@
 ||hhcktiucw.xyz^
 ||hhdjcabafaejaibaaaeg.world^
 ||hhff111222.com^
+||hhffks967.shop^
 ||hhffnu135.shop^
 ||hhffpagi.com^
 ||hhgxbxk.cn^
@@ -32809,6 +32812,7 @@
 ||iad.appboy.com^
 ||iadoremakingpics.com^
 ||iads.staticscdn.net^
+||iads.unity3d.com^
 ||iads.vision^
 ||iads.xinmin.cn^
 ||iadsdk.apple.com^
@@ -36549,6 +36553,7 @@
 ||jsnoownma.fun^
 ||jsnqh.cn^
 ||jsoctn9.com^
+||json.cn/d/dt/
 ||json.cn/js/aliWindow.js
 ||json.smotri.com^
 ||jsontdsexit.com^
@@ -41907,6 +41912,7 @@
 ||manesscrass.com^
 ||manetgauzily.life^
 ||manfys.com^
+||manga.boy.jp^
 ||mangaapi.manhuaren.com/*/public/getRecommendedGame^
 ||mangafuna.xyz/static/ads/
 ||mangahax.com/images/ima_
@@ -47270,6 +47276,7 @@
 ||nzydzsw.com^
 ||nzydzsw.com^$third-party
 ||nzymeedg.icu^
+||o-iab.mediation.unity3d.com^
 ||o-oo.ooo^
 ||o.027eat.com^
 ||o.60sk.ru^
@@ -65733,6 +65740,7 @@
 ||togetherinvitation.com^
 ||toglooman.com^
 ||togo666.com^
+||togothermany.com^
 ||togranbulla.com^
 ||togtholism.com^
 ||togtrmjz.xyz^
@@ -73285,6 +73293,7 @@
 ||wivesstandpoint.com^
 ||wivoqi.uno^
 ||wivtuhoftat.com^
+||wixlabs-adsense-v3.uc.r.appspot.com^
 ||wixnm.com^
 ||wiybthm.cn^
 ||wizaly.com^
@@ -75210,6 +75219,7 @@
 ||xvqdfwy.cn^
 ||xvqmcqcdv.com^
 ||xvrvgod.xyz^
+||xvudqzoa.xyz^
 ||xvuslink.com^
 ||xvvclhrrpgiln.com^
 ||xvvsnnciengskyx.xyz^
@@ -81185,6 +81195,10 @@ bkjia.com##.art_rightad1
 bkjia.com,zol.com.cn##.hot_tj
 blaauwberg.net##.leaderBoardContainer
 blabber.buzz##.topfeed
+blackbeltmag.com###comp-loxyxvrt
+blackbeltmag.com###img_comp-loxyxvrt
+blackbeltmag.com##[aria-label="Wix Monetize with AdSense"]
+blackbeltmag.com##[data-hook="bgLayers"]
 blackcaps.co.nz##.commercial-partners
 blackdesert-info.ru##div[class][style*="z-index"][style*="999999;"][style*="background"][style*="rgb"]
 blackhaloadultreviews.com,hentaigasm.com,javjunkies.com,masahub.net,missav.com,phun.org,porn-w.org,yespornplease.porn##a[href*="//bit.ly/"]
@@ -86275,6 +86289,7 @@ hltv.org##.parimatch-firstcol-box
 hltv.org##.skinport
 hltv.org##.team-player-profile-below-trophies-placement
 hltv.org##[href^="http://out.hltv.org/"]
+hltv.org##img[width="320"][height="560"]
 hmitalk.com##div[class*="-pubadban "]
 hmitalk.com,sina.cn,tennews.in##div[data-adid]
 hmoe.one#?#.widget_text > .inn-sidebar__widget:has(> .poi-panel__header > .poi-panel__header__title:contains(赞助商))
@@ -89520,6 +89535,7 @@ msn.com##div[class^="galleryPage_bannerAd"]
 msn.com##div[data--adqjyluqt]
 msn.com##div[data-section-id="sponsored.stripe.shopping"]
 msn.com##div[id^="nativeAd"]
+msn.com##div[id^="watch-feed-native-ad-"]
 msn.com##li[data-m*="NativeAdItem"] > a > *
 msn.com##li[data-provider="gemini"]
 msn.com##li[data-provider="outbrain"]
@@ -90856,7 +90872,7 @@ picbaron.com,imgbaron.com##a[href^="https://sexymeets.club/"]
 picfont.com###block_a
 pichunter.com##.__autofooterwidth
 pickmypostcode.com##.aside-right.aside
-picnob.com##.ah-box
+picnob.com,pixwox.com##.ah-box
 picnob.com,pixwox.com##.ah-box-i-w
 picnob.com,pixwox.com##.ah-box-n-w
 picrew.me##.play-Imagemaker_Footer

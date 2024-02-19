@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: E/SzdZC1Hu889en2NoZv6w
+! Checksum: FIv+Tb7PAWJtc3KWO3ofCA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240219162358
+! Version: 20240220002447
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-19 16:23:58
-! Total Count: 25433
+! Last modified: 2024-02-20 00:24:47
+! Total Count: 25440
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6698,6 +6698,7 @@
 ||gdfp.gifshow.com^
 ||gdjme27.com^
 ||gdl.i9dhjx.ru^
+||gdl.zmqdez.ru^
 ||gdmm.com*/mybt/
 ||gdmm.com/api.php?mod=js&bid=2111
 ||gdmm.com/images/leftbottom.png
@@ -7355,6 +7356,7 @@
 ||hh010.com/static/image/fff/
 ||hh6820123.com^
 ||hhff111222.com^
+||hhffks967.shop^
 ||hhffnu135.shop^
 ||hhlsxp.xyz^
 ||hhrnxr.xyz^
@@ -7677,6 +7679,7 @@
 ||iad-*.appboy.com^
 ||iad-*.braze.com^
 ||iad.appboy.com^
+||iads.unity3d.com^
 ||iads.xinmin.cn^
 ||iadsdk.apple.com^
 ||iam.datasavannah.com^
@@ -8507,6 +8510,7 @@
 ||jsinfo.net^$third-party
 ||jsjtjj.xyz^
 ||jslbaha.top^
+||json.cn/d/dt/
 ||json.cn/js/aliWindow.js
 ||jsontdsexit.com^
 ||jsontdsexit2.com^
@@ -10415,6 +10419,7 @@
 ||nzrovf.xyz^
 ||nzydzsw.com^$third-party
 ||nzymeedg.icu^
+||o-iab.mediation.unity3d.com^
 ||o.027eat.com^
 ||o.hotsextube.tv^
 ||o.jy135.com^
@@ -13073,6 +13078,7 @@
 ||tobyxev.com^
 ||todayapp.tv^$popup,third-party
 ||todayweather.co/ads.json
+||togothermany.com^
 ||togtrmjz.xyz^
 ||tom*.com/js/advment.js
 ||tom.com/*TomFlashAd
@@ -14593,6 +14599,7 @@
 ||xvorpqz.cn^
 ||xvpqrydt.xyz^
 ||xvrvgod.xyz^
+||xvudqzoa.xyz^
 ||xvzfyra.xyz^
 ||xvzvqoq.xyz^
 ||xw.ooegpip.cn^$third-party,image
