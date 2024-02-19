@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 1Ad3RfhIsvcd+Oc6qDzY3g
+! Checksum: QM1Qr/JTmqdvzXunWXKzCw
 ! Title: 混合规则(自动更新)
-! Version: 20240219002207
+! Version: 20240219091719
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-19 00:22:07
-! Total Count: 131389
+! Last modified: 2024-02-19 09:17:19
+! Total Count: 131412
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8488,6 +8488,7 @@
 ||aniview.com^
 ||anivisual.net/mim*.js|$script,domain=anivisual.net
 ||anixwallpaper.com^$csp=script-src 'self' * 'unsafe-inline'
+||anjdwmq.xyz^
 ||anjlkkyhpp.com^
 ||anjneia.xyz^
 ||anjosmryofa.com^
@@ -12386,6 +12387,7 @@
 ||billionstarads.com^
 ||billservingineffective.com^
 ||billybobandirect.org^
+||billyhis.com^
 ||billypub.com^
 ||bilpolicydi.bytelab.dk^
 ||bilsyndication.com^
@@ -14112,6 +14114,7 @@
 ||bwdiy.cn^
 ||bwgmymp.com^
 ||bwinpartypartners.com^
+||bwlcpr.xyz^
 ||bwmvzwkbqlmrz.top^
 ||bwnmwhblsf.com^
 ||bwogldv.top^
@@ -16803,6 +16806,7 @@
 ||clxlxmbtysabn.com^
 ||clydetugger.com^
 ||clypzbzs.xyz^
+||clywws.xyz^
 ||clzw.cyou^
 ||cm-exchange.toast.com^
 ||cm-trk3.com^
@@ -21674,6 +21678,7 @@
 ||drakeesh.com^
 ||drako2sha8de09.com^
 ||drakorindo.club^
+||dralintheirbr.com^
 ||dramasoloist.com^
 ||dramaticagreementsalt.com^
 ||dramaticdirection.com^
@@ -30613,6 +30618,7 @@
 ||hbhnwy.com^
 ||hbhood.com^
 ||hbid.ams3.cdn.digitaloceanspaces.com^
+||hbjolp.xyz^
 ||hbkhqc.com^
 ||hbkpcwdxite.com^
 ||hbkunye.com^
@@ -30983,6 +30989,7 @@
 ||hepani.com^
 ||hepare.com^
 ||heparllasysy.xyz^
+||heparlorne.org^
 ||hepburn.net.cn^
 ||hepekdxt.xyz^
 ||hepsaign.com^
@@ -33446,6 +33453,7 @@
 ||ilsacombank.com^
 ||iltelo.xyz^
 ||ilumtoux.net^
+||ilvpbrvrpzrys.com^
 ||ilxdh.com/navig/2020-09-08/1599538164_1474.png
 ||ilxhsgd.com^
 ||ilxkwlhqo.com^
@@ -37153,6 +37161,7 @@
 ||kbbqwhf.cn^
 ||kbbrptv.xyz^
 ||kbctii.xyz^
+||kbevcidiiqwa.com^
 ||kbkewkjlqjqzr.top^
 ||kbkilog.cn^
 ||kbknujjtpnqq.com^
@@ -37681,6 +37690,7 @@
 ||kjotkqyzxe.com^
 ||kjqlmeaykennr.top^
 ||kjrlulmt.com^
+||kjrnmkfwqp.com^
 ||kjrspnbf.xyz^
 ||kjsckwjvdxju.xyz^
 ||kjshenghuo.com^
@@ -39392,6 +39402,7 @@
 ||lfnwqrghxqrqb.com^
 ||lfooldjzuyfhae.com^
 ||lfov.net^
+||lfpmtibqwqre.com^
 ||lfsenmei.com^
 ||lfstmedia.com^
 ||lfsuigdrtsszog.com^
@@ -40078,6 +40089,7 @@
 ||llapaewllfc.com^
 ||llappa.top^
 ||llblwzg.xyz^
+||llboqevyazylr.top^
 ||llcbcqfwxyhgyda.com^
 ||lleadupthere.xyz^
 ||lleo.top^
@@ -42426,6 +42438,7 @@
 ||meatinerhitles.xyz^
 ||meatydime.com^$third-party
 ||meatytell.pro^
+||meawo.cloud^
 ||mebeptxj.com^
 ||mebohjhh.xyz^
 ||mec9k.com^
@@ -48264,6 +48277,7 @@
 ||onx8.com/zb_users/theme/ydgreen/style/ad/
 ||onxtxdm.xyz^
 ||onzeage.cfd^
+||onznwiocrrim.com^
 ||oo00.biz^
 ||oobuwjnlljbah.com^
 ||oocie.cn^
@@ -48489,6 +48503,7 @@
 ||optaivuy.net^
 ||optaroag.com^
 ||opteama.com^
+||optedprebend.top^
 ||optef.xyz^
 ||opter.co^
 ||opthushbeginning.com^
@@ -49282,6 +49297,7 @@
 ||p2trc.emv2.com^
 ||p30rank.ir^
 ||p3tt.com^
+||p45m0.icu^
 ||p4f52tll.cn^
 ||p4p.sina.com.cn^
 ||p4pd.cn^
@@ -60417,6 +60433,7 @@
 ||smetrics.samsung.com^
 ||smetrics.sbs.com.au^
 ||smetrics.uhc.com^
+||smewwuwppjbebd.com^
 ||smfierf.xyz^
 ||smfjfgie.xyz^
 ||smfsojvsaxbgf.com^
@@ -69459,6 +69476,7 @@
 ||uxngqd.cn^
 ||uxpascal.com^
 ||uxpolqk.cn^
+||uxrdg.cn^
 ||uxszams.cn^
 ||uxtruz.xyz^
 ||uxwkiyp.xyz^
@@ -74741,6 +74759,7 @@
 ||xldxphtg.xyz^
 ||xleqs.xyz^
 ||xlfrhhp.com^
+||xlgatxqovuvz.com^
 ||xlgqy.com^
 ||xlgvlvbc.xyz^
 ||xlhnkpw.cn^
@@ -76458,6 +76477,7 @@
 ||yvkbftdi.com^
 ||yvmads.com^
 ||yvoria.com^
+||yvudqzoa.xyz^
 ||yvzgazds6d.com^
 ||ywbmed.cn^
 ||ywg.jobui.com^
@@ -80317,7 +80337,7 @@ autocar.co.uk##.block-autocar-ads-mpu1
 autocarindia.com###castrol-ad-sec
 autoevolution.com##.modeladmid
 autoexpress.co.uk##.polaris__below-header-ad-wrapper
-autoexpress.co.uk,carbuyer.co.uk##.polaris__partnership-block
+autoexpress.co.uk,carbuyer.co.uk,evo.co.uk##.polaris__partnership-block
 autohome.com.cn###ad-top-1111
 autohome.com.cn###ad_ic_video
 autohome.com.cn###float_bottom_button
@@ -90877,6 +90897,7 @@ pixiv.net##.ads_anchor
 pixiv.net##.multi-ads-area
 pixiv.net##a[target="premium_noads"]
 pixiv.net##div[id^="adsdk-"]
+pixiv.net##div[style="font-size: 0px;"] a[target="premium_noads"]
 pixiv.net##iframe[width="300"][height="250"]
 pixnet.net###pixblogad
 pixnet.net###pixblogad-banner2
@@ -106379,6 +106400,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /zcvisitor/*$popup
 /zedo_
 /zergbid.
+/zergnet_ad/*
 /zhidiy_m_ad_
 /zp-redirect?$popup
 /zz/*_box2.txt
@@ -124099,10 +124121,10 @@ zle.com$script
 ##.oasad
 ##.oasads
 ##.ob-ad-carousel-layout
-##.ob-dynamic-rec-containeoutBrainWrapper
 ##.ob-hover
 ##.ob-p.ob-dynamic-rec-container
 ##.ob-strip-layout
+##.ob-widget-header
 ##.ob_ads_header
 ##.ob_container .item-container-obpd
 ##.ob_dual_right > .ob_ads_header ~ .odb_div
@@ -124375,6 +124397,7 @@ zle.com$script
 ##.polaris-ad--wrapper-desktop
 ##.polarisMarketing
 ##.polaris__ad
+##.polaris__below-header-ad-wrapper
 ##.polaris__teads
 ##.pop-out-eplayer-container
 ##.pop[style="right: 10px;"]

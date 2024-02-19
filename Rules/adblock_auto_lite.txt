@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ZhyrmimwB+Q2baFZNO79qA
+! Checksum: 3dJbhkV8YsUNTJE6ISTbgw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240219002217
+! Version: 20240219091730
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-19 00:22:17
-! Total Count: 25422
+! Last modified: 2024-02-19 09:17:30
+! Total Count: 25427
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3395,6 +3395,7 @@
 ||aniview.com^
 ||anivisual.net/mim*.js|$script,domain=anivisual.net
 ||anixwallpaper.com^$csp=script-src 'self' * 'unsafe-inline'
+||anjdwmq.xyz^
 ||anjneia.xyz^
 ||anjuke.com^*/ajax/business_area_search/
 ||ankangwang.com/js/info.js
@@ -4436,6 +4437,7 @@
 ||bw5388.vip^
 ||bw66.cn/template/default_pc/bbs/
 ||bwandlv.top^
+||bwlcpr.xyz^
 ||bwwlw.cn^
 ||bxackzj.icu^
 ||bxbyll.xyz^
@@ -4965,6 +4967,7 @@
 ||clscsbcj.com^$third-party
 ||clumsycar.com^$third-party
 ||clypzbzs.xyz^
+||clywws.xyz^
 ||cm.baidu.com^
 ||cm.ksmobile.com/api/GetCloudMsgAdv^
 ||cmath.fr/images/fond2.gif
@@ -13589,6 +13592,7 @@
 ||uwumr.cn^
 ||uxlqwra.cn^
 ||uxmwh0f.xyz^
+||uxrdg.cn^
 ||uxtruz.xyz^
 ||uxwkiyp.xyz^
 ||uxxux.com/js/zd.js
@@ -14979,6 +14983,7 @@
 ||yuwenbin.host^
 ||yv8zs.online^
 ||yvbjctqs.xyz^
+||yvudqzoa.xyz^
 ||ywg.jobui.com^
 ||yx.tellenw.top^$image
 ||yx1.managershare.com^
