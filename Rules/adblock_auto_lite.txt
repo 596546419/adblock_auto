@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: iV73G4A2dFjVTPkUOFFO7A
+! Checksum: HP5XR1VdmPMxy9IucJjUVQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240220162305
+! Version: 20240221002333
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-20 16:23:05
-! Total Count: 25451
+! Last modified: 2024-02-21 00:23:33
+! Total Count: 25456
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1213,6 +1213,7 @@
 ||999xs.com/*/1xhtml?
 ||999xs.com/safari.php
 ||999xx333kk.com^
+||999xx999kk.com^
 ||999zz333zz.com^
 ||99danji.com/kchtml/
 ||99down.com/index.php?m=poster&
@@ -3903,6 +3904,7 @@
 ||baytfede.xyz^
 ||bb1nn.com/js/i.js
 ||bb999.net/pic/n/agents/C-79.gif
+||bba9603w.com^
 ||bbangads.*.net^$third-party
 ||bbccf12.xyz^
 ||bbfnrn.xyz^
@@ -10642,6 +10644,7 @@
 ||p.wktfkj.com^$third-party
 ||p.zol-img.com.cn^
 ||p.zol.com.cn/download/detail.js
+||p04qzl.cn^
 ||p0y.cn^$image,domain=~ipinyou.com.cn
 ||p1-lm.adukwai.com^
 ||p1.chinakaoyan.com^
@@ -11849,6 +11852,7 @@
 ||runmang.vip/img/
 ||runnergamesch.com/*/BasCount/adAll
 ||runoob.com/images/re/
+||ruqwgb.icu^
 ||rusnext.ru/advar.js$script
 ||ruten.com.tw/js/gads_
 ||ruten.com.tw/search/imp_ad_
@@ -14335,6 +14339,7 @@
 ||xdnice.com/themes/xdnice/public/assets/images/xdnice.png
 ||xdolhlwq.xyz^
 ||xdrig.com^
+||xdrvkdni.xyz^
 ||xdsahkln.xyz^
 ||xdttxdqe.xyz^
 ||xdw9.top^
