@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: yrUK8siID6nc0yIirNVdYw
+! Checksum: iV73G4A2dFjVTPkUOFFO7A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240220091417
+! Version: 20240220162305
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-20 09:14:17
-! Total Count: 25448
+! Last modified: 2024-02-20 16:23:05
+! Total Count: 25451
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4720,6 +4720,7 @@
 ||cdnu.porndoe.com/static/pop/slide-in/*.mp4
 ||cdolhlwq.xyz^
 ||cdp.cloud.unity3d.com^
+||cdrvkdni.xyz^
 ||cdsa2.icu^
 ||cdttxdqe.xyz^
 ||cdxyb.cn^$third-party
@@ -10412,6 +10413,7 @@
 ||nyhgjmlg.xyz^
 ||nyhgvn.xyz^
 ||nykvdwi.cn^
+||nyt5j.cyou^
 ||nyvgbt.xyz^
 ||nz04com.com/aabdd/
 ||nzlrfdv.xyz^
@@ -12762,6 +12764,7 @@
 ||szptlkj.com^$document
 ||szptlkj.com^$~third-party
 ||szptp.cn^
+||szpwh.cn^
 ||szsbiw.xyz^
 ||szwjzl.cn^$third-party
 ||szxljdsb.com/tl

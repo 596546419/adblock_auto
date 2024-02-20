@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: SaIH7xmrj8dvJiZZdmn0oQ
+! Checksum: 7ZD9SUT+m8htH1ijEYNVfg
 ! Title: 混合规则(自动更新)
-! Version: 20240220091407
+! Version: 20240220162254
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-20 09:14:07
-! Total Count: 131497
+! Last modified: 2024-02-20 16:22:54
+! Total Count: 131500
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -15319,6 +15319,7 @@
 ||cdp.cloud.unity3d.com^
 ||cdp.vemt.com^
 ||cdpqtuityras.com^
+||cdrvkdni.xyz^
 ||cdrvrs.com^
 ||cdryuoe.com^
 ||cdsa2.icu^
@@ -47272,6 +47273,7 @@
 ||nypswiu.cn^
 ||nypyzx.xyz^
 ||nyrunxlffpy.com^
+||nyt5j.cyou^
 ||nythathavere.org^
 ||nythemorewasth.xyz^
 ||nytlog.com^
@@ -63490,6 +63492,7 @@
 ||szptlkj.com^$document
 ||szptlkj.com^$~third-party
 ||szptp.cn^
+||szpwh.cn^
 ||szqifu.com^
 ||szqxvo.com^
 ||szsbiw.xyz^
