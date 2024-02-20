@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: FIv+Tb7PAWJtc3KWO3ofCA
+! Checksum: yrUK8siID6nc0yIirNVdYw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240220002447
+! Version: 20240220091417
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-20 00:24:47
-! Total Count: 25440
+! Last modified: 2024-02-20 09:14:17
+! Total Count: 25448
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -486,6 +486,7 @@
 ||2ghai.com/zz/
 ||2hfby.top^
 ||2hpg0.fun^
+||2jse6.icu^
 ||2kandy.com/js/123/
 ||2medo.top^
 ||2pmob.com^
@@ -1112,6 +1113,7 @@
 ||8seaa.com/template/assets1/js/vue.js
 ||8suis.top^
 ||8xia.com/otherhtml/
+||8xtm6i.cn^
 ||8ziyuan.com/images/infolinksad.jpg
 ||8zkt7.xyz^
 ||900.la/imgs/1bb725da-974f-43da-9eb9-dfdebc224949/2015-12-18/zg3wwaug.gif
@@ -10493,6 +10495,7 @@
 ||okpcyp.icu^
 ||okpoiione.com^
 ||okwan.cn^
+||okwkaa.xyz^
 ||olelive.com/v1/pub/index/anchor/check/pc/e?
 ||olgame.tw/home/attachment/
 ||olltcqg.xyz^
@@ -11699,6 +11702,7 @@
 ||rfidworld.com.cn/js/b.js
 ||rfidworld.com.cn/js/c.html
 ||rfnenr.xyz^
+||rfnvqpo.xyz^
 ||rfp.dspcdn.com/tags/*.html$domain=setn.com
 ||rfrhfh.xyz^
 ||rfto9i.icu^
@@ -12787,6 +12791,7 @@
 ||tad.suning.com^
 ||tae0t.site^
 ||tafuzcxr.xyz^
+||tahznx.xyz^
 ||taijuba.com/js/*_
 ||taijuba.com/js/tj
 ||taijuwang.com/template/alifun/js/unFavui.
@@ -14162,6 +14167,7 @@
 ||wpnsrv.com^$third-party,important
 ||wpoarjokzgi.com^
 ||wpshsdk.com^$third-party
+||wqcfg.cn^
 ||wqdro6us.icu^
 ||wqmgqm.xyz^
 ||wqnwdjjc.xyz^
@@ -14715,6 +14721,7 @@
 ||ydmnlxtu.xyz^
 ||ydolhlwq.xyz^
 ||ydqcjy.cn^
+||ydrvkdni.xyz^
 ||ydss.cn/test.www.jdpay.com
 ||ydstatic.com/dsp_website/
 ||ydttxdqe.xyz^
@@ -22290,6 +22297,7 @@ zle.com$script
 ##.aasd-text
 ##.aasdwa
 ##.ab-detected
+##.ab-detector-wrap
 ##.ab-notice
 ##.abde
 ##.abk-item.abk-banner
