@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: aZETYp3NcuUhlGBDt/touw
+! Checksum: XMnoClKZzYbxtVM2Atu+cQ
 ! Title: 混合规则(自动更新)
-! Version: 20240221091537
+! Version: 20240221162418
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-21 09:15:37
-! Total Count: 131573
+! Last modified: 2024-02-21 16:24:18
+! Total Count: 131586
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5178,6 +5178,7 @@
 ||adonstudio.com^
 ||adonweb.ru^
 ||adoopaqueentering.com^
+||adop.asia^
 ||adop.cc^
 ||adop.co^
 ||adoperator.com^
@@ -13844,6 +13845,7 @@
 ||bubblesmedia.ru^
 ||bubblestat.com^
 ||bubbly-condition.pro^
+||bubblyzucchini.com^
 ||bubonicgraters.space^
 ||buccanslabby.top^
 ||buchaumpo.com^
@@ -18896,6 +18898,7 @@
 ||cvkvtsjjrs.xyz^
 ||cvmesi.xyz^
 ||cvmjf.xyz^$third-party
+||cvnxetmq.xyz^
 ||cvqgnkeqme.com^
 ||cvrkjnaoazazh.com^
 ||cvsheil.com^
@@ -19784,6 +19787,7 @@
 ||ddgjjj.com^$third-party
 ||ddhjxakewpp.com^
 ||ddhtek.com^
+||ddielv.cn^
 ||ddjagedfbifdfejagaca.world^
 ||ddkep.xyz^
 ||ddkh59.com^
@@ -20533,6 +20537,7 @@
 ||dichvucong.tgovn.cc^
 ||dichvucong.vgovn.net^
 ||dichvucong.xgovn.net^
+||dichvucong.zvgov.com^
 ||dichvucongbaohiemxahoi.com^
 ||dichvudaohantindung.com^
 ||dichvunhantien-eu.org^
@@ -40389,6 +40394,7 @@
 ||log-upload-os.mihoyo.com^
 ||log-upload.mihoyo.com^
 ||log-vietnamplus-vn.cdn.ampproject.org^
+||log.247post.vn^
 ||log.51changdu.com^
 ||log.adap.tv^
 ||log.ahamo.com^
@@ -49359,6 +49365,7 @@
 ||p04.notifa.info^
 ||p04qzl.cn^
 ||p05.notifa.info^
+||p0v2ni.cn^
 ||p0y.cn^
 ||p0y.cn^$image,domain=~ipinyou.com.cn
 ||p1-lm.adukwai.com^
@@ -59754,6 +59761,7 @@
 ||shuneiya.com/static/js/ding.js
 ||shunhe.shop^
 ||shunparagraphdim.com^
+||shuocyw.cn^
 ||shuowan.com/Public/shuo/20160119/569dafddd13be.jpg
 ||shurfhlba.com^
 ||shusacem.net^
@@ -76790,6 +76798,7 @@
 ||z91f4.top^
 ||z929.fuelfix.com^
 ||za-ads.de^
+||za.agiay.vn^
 ||za.baomoi.com^
 ||za.zalo.me^
 ||za.zapps.vn^
@@ -93577,6 +93586,8 @@ stock87.com##a[href^="http"]:not([href*="stock87."]) > img[src*="uploadfiles/ima
 stock87.com##div[id^="Javascript"]
 stock87.com##div[style^="position:relative;width:1000px;height:90px;"]
 stockhouse.com##.sh-ad
+stockinvest.us###IC_d_300x250_1
+stockinvest.us###IC_d_728x90_1
 stocksnap.io##.info-col
 stocksnap.io##.inline-carbon
 stockstar.com###dhwzl
@@ -95005,6 +95016,8 @@ unionpedia.org##div[style^="margin-top: 15px; min-width: 300px"]
 unitconversion.org###ileft
 unitconversion.org###iright
 unitconversion.org##a[href="../noads.html"]
+unite-db.com###ds_lb1
+unite-db.com###ds_lb2
 unixmen.com##.banners_home
 unknowncheats.me##[href="https://securecheats.com/"]
 unknowncheats.me##[href^="https://proxy-seller.com/"]

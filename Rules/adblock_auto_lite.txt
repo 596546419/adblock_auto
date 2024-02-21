@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: woJs5ovYJ7KnD3F7vmIE1Q
+! Checksum: bgPe+hLLE4duJKPlL/aMpg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240221091547
+! Version: 20240221162428
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-21 09:15:47
-! Total Count: 25463
+! Last modified: 2024-02-21 16:24:28
+! Total Count: 25468
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5225,6 +5225,7 @@
 ||cvbjctqs.xyz^
 ||cvmesi.xyz^
 ||cvmjf.xyz^$third-party
+||cvnxetmq.xyz^
 ||cvtbdap.xyz^
 ||cvudqzoa.xyz^
 ||cwgshkz.cn^
@@ -5426,6 +5427,7 @@
 ||ddaixdz.cn^
 ||ddd.sexstories69.com^
 ||ddgjjj.com^$third-party
+||ddielv.cn^
 ||ddkep.xyz^
 ||ddkh59.com^
 ||ddlipf.xyz^
@@ -7270,6 +7272,7 @@
 ||hdxjtl.xyz^
 ||head4.net/ad_
 ||headquartersexually.com^
+||heapz.cyou^
 ||heavy-r.com/js/mobile*.js
 ||hebei.com.cn/eap/
 ||hebei.com.cn/sys/online_calc.js
@@ -10650,6 +10653,7 @@
 ||p.zol-img.com.cn^
 ||p.zol.com.cn/download/detail.js
 ||p04qzl.cn^
+||p0v2ni.cn^
 ||p0y.cn^$image,domain=~ipinyou.com.cn
 ||p1-lm.adukwai.com^
 ||p1.chinakaoyan.com^
@@ -12273,6 +12277,7 @@
 ||shumilou.co/style/html5.js
 ||shuneiya.com/js/wcnm/foot.js
 ||shuneiya.com/static/js/ding.js
+||shuocyw.cn^
 ||shuowan.com/Public/shuo/20160119/569dafddd13be.jpg
 ||shx11.xyz^
 ||shzzzz.dftoutiao.com^
