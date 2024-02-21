@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: bgPe+hLLE4duJKPlL/aMpg
+! Checksum: H2ZJmO4NAVsQOwU+6nxmrQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240221162428
+! Version: 20240222002338
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-21 16:24:28
-! Total Count: 25468
+! Last modified: 2024-02-22 00:23:38
+! Total Count: 25471
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1418,6 +1418,7 @@
 ||aaknmt.icu^
 ||aamv.vip^
 ||aan.amazon.*^
+||aaoisp.com^
 ||aapeople.cn^
 ||aapubcti.xyz^
 ||aaread.space/images/*0.gif
@@ -4955,6 +4956,7 @@
 ||cloud.tencent.com/developer/api/common/getAds
 ||cloud.tencent.com/developer/api/common/getOneAds
 ||cloudads-a.akamaihd.net^
+||cloudcache.tencent-cloud.com/qcloud/ui/static/static_source_business/$domain=cloud.tencent.com
 ||clouddn.com/960x60.gif
 ||cloudflare.com/ajax/libs/jBox/$domain=localmv1.com
 ||cloudflare.solutions^
@@ -23534,6 +23536,7 @@ zle.com$script
 ##a[href*="//xxuudxdu.live?"]
 ##a[href*="//y3e33.top"][target="_blank"]
 ##a[href*="/1124024.xyz"]
+##a[href*="/122.51.121.126:"]
 ##a[href*="/136ayx.vip"]
 ##a[href*="/1560045.cc"]
 ##a[href*="/1651n.com:"]
