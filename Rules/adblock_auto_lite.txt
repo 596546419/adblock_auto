@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: HP5XR1VdmPMxy9IucJjUVQ
+! Checksum: woJs5ovYJ7KnD3F7vmIE1Q
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240221002333
+! Version: 20240221091547
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-21 00:23:33
-! Total Count: 25456
+! Last modified: 2024-02-21 09:15:47
+! Total Count: 25463
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3691,6 +3691,7 @@
 ||awifi.cn^$third-party
 ||awoudsoo.xyz^
 ||awrfds3.pornpapa.com^
+||awuvcq.xyz^
 ||awzddev.cn^
 ||ax.*.ifeng.com^
 ||ax.ifeng.com^
@@ -5863,6 +5864,7 @@
 ||dxg*.com/img/A*.js
 ||dxg*.top/img/A*.js
 ||dxg0070.top/img/
+||dxrnksm.xyz^
 ||dxsjcz.cn^
 ||dxwpedu.me^$third-party
 ||dxxwdz.xyz^
@@ -6431,6 +6433,7 @@
 ||flyzy2005.com/wp-content/*/bandwagonhost-top.
 ||fm086.com/Plugins/search
 ||fm44f.space^
+||fmfnrf.xyz^
 ||fmgmh.com/template/wap/default/js/lunbo.js
 ||fmhua.com/template/*/images/g_js/*.html
 ||fmild.xyz^
@@ -8414,6 +8417,7 @@
 ||jpvrbt.xyz^
 ||jpysvip.net/ad/
 ||jqkcett.icu^
+||jqpejp.xyz^
 ||jqsex.com^
 ||jqtkzuco.xyz^
 ||jquery.envi-met.com.cn^
@@ -10196,6 +10200,7 @@
 ||ncyksuw.xyz^
 ||nczsks.com/SCWB/WebResource.axd
 ||ndbaxn.xyz^
+||nddld.cn^
 ||ndqcz0e.xyz^
 ||ndqzqmb.xyz^
 ||ndruhz.xyz^
@@ -13720,6 +13725,7 @@
 ||vdrfes.site^
 ||vdtxlt.xyz^
 ||ve0ke.icu^
+||veaiyl.icu^
 ||vel7.xyz^
 ||velti.com^
 ||venea.net/web/ab_message?
@@ -15011,6 +15017,7 @@
 ||yuwenbin.host^
 ||yv8zs.online^
 ||yvbjctqs.xyz^
+||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
 ||ywg.jobui.com^
 ||yx.tellenw.top^$image
