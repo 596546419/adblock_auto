@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: JvTgnYsfMwZgo7twKMWNLg
+! Checksum: Dw1sZm57M6GKbsB/hjS0jw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240222091502
+! Version: 20240222162327
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-22 09:15:02
-! Total Count: 25478
+! Last modified: 2024-02-22 16:23:27
+! Total Count: 25481
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5976,6 +5976,7 @@
 ||eb480dde95.com^
 ||ebbs.jp/js/adjs01.js
 ||ebbs.jp/test_ad/
+||ebgwdon.cn^
 ||ebiotrade.com/jslibrary/js
 ||ebiotrade.com/netother/sy2013.ashx?type=quanping
 ||ebiotrade.com/newsf/js/inpic.js
@@ -15343,6 +15344,7 @@
 ||zongheng.com/upload/recommend/game/
 ||zonyff.xyz^
 ||zoom.zshu.net^
+||zopuqv.icu^
 ||zopvjn.xyz^
 ||zotabox.com^$domain=yourdailypornvideos.com
 ||zotcjeig.xyz^
@@ -23870,6 +23872,7 @@ zle.com$script
 ##body > style + div[id="ics"]
 ##body#app.pc.mobile
 ##body.desktop span[class^="c"] > a[href^="http"][rel="nofollow"][target="_blank"]
+##body.desktop[style^="-"] span[class*=" "] > a[href^="http"][rel="nofollow"][target="_blank"]
 ##body.page > .popup
 ##body[onload*="u()"] > #x
 ##body[ontouchstart] > #topBox
