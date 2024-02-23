@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: k0f8QpUfAo47OeJV0t8Q+w
+! Checksum: dZ+NTUL9odWowseh6tH9CQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240223162325
+! Version: 20240224002244
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-23 16:23:25
-! Total Count: 25495
+! Last modified: 2024-02-24 00:22:45
+! Total Count: 25498
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5230,6 +5230,7 @@
 ||cutechin.com^$third-party
 ||cuvtnzv.cn^
 ||cvbjctqs.xyz^
+||cvgrszkg.xyz^
 ||cvmesi.xyz^
 ||cvmjf.xyz^$third-party
 ||cvnxetmq.xyz^
@@ -14636,6 +14637,7 @@
 ||xv98.com/js/hengfu
 ||xvbjctqs.xyz^
 ||xvbnrh.xyz^
+||xvgrszkg.xyz^
 ||xvideo.cc/etology2.js
 ||xvideo.cc/im4.js
 ||xvideo.cc/wefong2.js
@@ -23459,6 +23461,7 @@ zle.com$script
 ##a[href*=".icekingshop.com/"]
 ##a[href*=".impactyu.com/"]
 ##a[href*=".impreshunz.com/"]
+##a[href*=".ipndyn.com/"]
 ##a[href*=".kekexc.com/"]
 ##a[href*=".las88889999.com:"]
 ##a[href*=".lvdou.life/"][target="_blank"]
