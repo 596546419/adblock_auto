@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Waja7zKaEyb7TQaK9qvvqg
+! Checksum: kvM3G6tvgVul4momawVlaw
 ! Title: 混合规则(自动更新)
-! Version: 20240223091425
+! Version: 20240223162314
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-23 09:14:25
-! Total Count: 131892
+! Last modified: 2024-02-23 16:23:14
+! Total Count: 131903
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1993,6 +1993,7 @@
 ||51gugu.com^$third-party
 ||51gxqm.com^
 ||51hanhua.com/2013/
+||51hir.cyou^
 ||51img1.com/v6/my/js/bdm.js
 ||51la.net^$third-party
 ||51liucheng.com/js/dialogLogin.js
@@ -14320,6 +14321,7 @@
 ||bzyunduan.cn^
 ||bzzmlqkljkrw.top^
 ||bzzmlqkljyer.top^
+||bzzxyyh.xyz^
 ||c*hit.zerkalo.io^
 ||c-4fambt.com^
 ||c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com^
@@ -15750,6 +15752,7 @@
 ||chauwout.xyz^
 ||chavoads.com^
 ||chavosh.org^
+||chayassa.com^
 ||chayibu.com^
 ||chazidian.com/Statics/images/ad_
 ||chazidian.com/Statics/xly/huorezhaosheng.png
@@ -18951,6 +18954,7 @@
 ||cvcddno.cn^
 ||cvcmslcefxvvux.com^
 ||cvemhco.cn^
+||cvgrszkg.xyz^
 ||cvietcombank.com^
 ||cvixthukvgac.com^
 ||cvjfmrrgyrqnsnw.xyz^
@@ -61060,6 +61064,7 @@
 ||sofcryingfo.xyz^
 ||sofcryingforanyt.com^
 ||sofcukorporat.info^
+||soffersk.com^
 ||soffitsfermal.guru^
 ||sofinpushpile.com^
 ||sofire.bdstatic.com^
@@ -72192,6 +72197,7 @@
 ||vxdgsgdsvlwz.com^
 ||vxdpmxw.xyz^
 ||vxeynuboasnc.com^
+||vxfdepn.cn^
 ||vxfpsgwhm.com^
 ||vxhtxt.xyz^
 ||vxinzheng.xyz^$third-party
@@ -77095,6 +77101,7 @@
 ||zaffarnimbed.com^
 ||zagtertda.com^
 ||zagvee.com^
+||zagyjnn.cn^
 ||zaheki.uno^
 ||zahl4tf5z.world^
 ||zahl4tf5z.xyz^
@@ -94739,11 +94746,15 @@ timesofindia.com##.phShimmer
 timesofindia.com##div[class^="ATF_container_"]
 timesofindia.com##div[id^="custom_ad_"]
 timesofindia.indiatimes.com###c_wdt_sports_rhs_atf_ad_1
+timesofindia.indiatimes.com##.CeUoi
 timesofindia.indiatimes.com##._3JJMX
 timesofindia.indiatimes.com##.addblock
+timesofindia.indiatimes.com##.mgid_second_mrec_parent
 timesofindia.indiatimes.com##.paisa-wrapper
 timesofindia.indiatimes.com##.relatedVideoWrapper
+timesofindia.indiatimes.com##.sidebar_ad_fix
 timesofindia.indiatimes.com##.sports_ad_wrapper
+timesofindia.indiatimes.com##[data-aff-type]
 timesofmalta.com###article-sponsored
 timesofmalta.com###inscroll-banner
 timesofmalta.com##.sw-Top
