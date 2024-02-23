@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: cRBLMXuPKXHbvNV2JhOohQ
+! Checksum: Waja7zKaEyb7TQaK9qvvqg
 ! Title: 混合规则(自动更新)
-! Version: 20240223002325
+! Version: 20240223091425
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-23 00:23:25
-! Total Count: 131848
+! Last modified: 2024-02-23 09:14:25
+! Total Count: 131892
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -258,6 +258,7 @@
 ||0hq6k.site^
 ||0i0i0i0.com^
 ||0i0i0i0.com^$third-party,important
+||0j775d.cn^
 ||0j91h.cyou^
 ||0ka.com^$third-party
 ||0kkbb.com/js/i.js
@@ -445,6 +446,7 @@
 ||113-bca.online^
 ||113.105.248.169^
 ||113.17.188.*.js
+||1130482418.rsc.cdn77.org^
 ||1133.cc^$third-party
 ||1134555.com^
 ||1136999.com^
@@ -575,6 +577,7 @@
 ||1381a.xyz^
 ||1383a.xyz^
 ||1385a.xyz^
+||1386132757.rsc.cdn77.org^
 ||138vps.com/fa/
 ||138vps.com/image/
 ||1390582286.rsc.cdn77.org^
@@ -596,6 +599,7 @@
 ||144w6.com^$document
 ||144w6.com^$~third-party
 ||146.148.85.61^
+||1477803098.rsc.cdn77.org^
 ||148dfe140d0f3d5e.com^
 ||1493c7cc8b.com^
 ||14bobo.com/js/
@@ -666,6 +670,7 @@
 ||163jiankang.com/zhuanqian/m/myad-
 ||164.155.185.254^
 ||1647871863.rsc.cdn77.org^
+||1656002483.rsc.cdn77.org^
 ||16577716.com^
 ||1661795914.rsc.cdn77.org^
 ||1662864709.rsc.cdn77.org^
@@ -735,6 +740,7 @@
 ||17772175ab.com^
 ||177o.com^
 ||178.com/glr.js
+||1786886222.rsc.cdn77.org^
 ||17ce.com^*_$image
 ||17chk.vip^
 ||17co2k5a.de^
@@ -764,6 +770,7 @@
 ||183yf.cn/img/nz.png
 ||1843942256.rsc.cdn77.org^
 ||184c4i95p.de^
+||1851120889.rsc.cdn77.org^
 ||1857964468.rsc.cdn77.org^
 ||1874562524.rsc.cdn77.org^
 ||18788fdb24.com^
@@ -808,6 +815,7 @@
 ||19273817.com^
 ||1931283355.rsc.cdn77.org^
 ||1934671980.rsc.cdn77.org^
+||1939682047.rsc.cdn77.org^
 ||194.59.220.161^
 ||1948576968.rsc.cdn77.org^
 ||194ac5b0e3.com^
@@ -826,6 +834,7 @@
 ||1990tu.com^
 ||1990tu.com^$third-party
 ||1991482557.rsc.cdn77.org^
+||1993311980.rsc.cdn77.org^
 ||1999019.com^
 ||199aaa.us^
 ||19bk5lo5q2.com^
@@ -2208,6 +2217,7 @@
 ||5advertise.com^
 ||5axxw.com/extends/ad/
 ||5b10f288ee.com^
+||5b98503e1b.com^
 ||5btekl14.de^
 ||5c01ad4cb7.com^
 ||5c4a902f7e.com^
@@ -8292,6 +8302,7 @@
 ||analytics.spun.com.br^
 ||analytics.stanby.com^
 ||analytics.starlink.com^
+||analytics.starmakerstudios.com^
 ||analytics.stg.springboardvideo.com^
 ||analytics.strangeloopnetworks.com^
 ||analytics.streamfab.
@@ -11544,6 +11555,7 @@
 ||bdstatic.com^*/static/itemrep/afdTuJiTuiJian/
 ||bdstatic.com^*/tam-ogel/
 ||bdstatic.eastmoney.com^
+||bdtdat652.shop^
 ||bdu.focus.cn^
 ||bdu1.coozhi.cn^
 ||bdunion1.suxiazai.com^
@@ -14573,6 +14585,7 @@
 ||cajesa.uno^
 ||cajggfj.com^
 ||cajipdiqqjijeh.xyz^
+||cajrijrhov.com^
 ||cajunecch.guru^
 ||cakeprofessionally.com^
 ||caketteemblem.uno^
@@ -15813,6 +15826,8 @@
 ||cheerseeftapps.com^
 ||cheerysequelhoax.com^
 ||cheesydebatablepantomime.com^
+||cheesyreinsplanets.com^
+||cheesythirtycloth.com^
 ||cheetieaha.com^
 ||cheewhoa.net^
 ||chefishoani.com^
@@ -21004,6 +21019,7 @@
 ||distractiontradingamass.com^
 ||distralytics.com^
 ||distressamusement.com^
+||distressedsoultabloid.com^
 ||distribeo.com^
 ||distributionrealmoth.com^
 ||districtacrid.com^
@@ -22310,6 +22326,7 @@
 ||dydab.com^
 ||dydujb.xyz^
 ||dydytt.net/js3
+||dyegif.icu^
 ||dyeperd.icu^
 ||dyetqkaxmlnqlqe.xyz^
 ||dyfynmnglqq.com^
@@ -25600,6 +25617,7 @@
 ||fejla.com^
 ||fejwcnbsu.com^
 ||fekivnv.cn^
+||fekybctoozk.com^
 ||felidaeyojuane.com^
 ||felied.com^
 ||feliev.com^
@@ -25875,6 +25893,7 @@
 ||fihsgqbif.com^
 ||fiinann.com^
 ||fiinnancesur.com^
+||fiisscqwokt.com^
 ||fijekone.com^
 ||fijetuxa.com^
 ||fijipic.xyz^
@@ -27381,7 +27400,6 @@
 ||fxfhjs.com^
 ||fxggbfjfi.com^
 ||fxgoaeplst.com^
-||fxhngjdubf.xyz^
 ||fxhpaoxqyajvmdg.
 ||fxiuuaa.com^
 ||fxjs.2541.com^
@@ -27674,6 +27692,7 @@
 ||ganardineroreal.com^
 ||gandmotivatin.info^
 ||gandrad.org^
+||ganehangmen.com^
 ||gangedapneal.digital^
 ||gangjuw.com/style/lmjs/
 ||gangsterflyerillegimateillegimate.com^
@@ -27839,6 +27858,7 @@
 ||gavbus*.com/assets/common/js/ad.js
 ||gavbus*.com/assets/common/js/admenu.js
 ||gavnogeeygaika.com^
+||gawainshirty.com^
 ||gay4porn.com/ai/
 ||gay4porn.com/player/html.php?aid=
 ||gayadnetwork.com^
@@ -28402,6 +28422,7 @@
 ||ghetic.com^
 ||ghettoschanse.com^
 ||ghfnlorkormcmr.com^
+||ghgasdb365.shop^
 ||ghgasdt963.shop^
 ||ghghgf.51dongshi.com^
 ||ghghgf.xuexiwa.com^
@@ -30083,6 +30104,7 @@
 ||guvnsusr.com^
 ||guvsxiex.xyz^
 ||guwait.com^
+||guxdjfuuhey.xyz^
 ||guxedsuba.com^
 ||guxsxexlkdk.xyz^
 ||guyabe.xyz^
@@ -31610,6 +31632,7 @@
 ||hjgd.ltd^
 ||hjgkr0g.xyz^
 ||hjgrc.xyz^
+||hjhwjphsryi.com^
 ||hjiss.com^
 ||hjiwoazeigefn.com^
 ||hjjevg.com^
@@ -32680,6 +32703,7 @@
 ||hw0.com.cn^
 ||hw6.com^
 ||hwa.his.huawei.com^
+||hwaagkmiitos.com^
 ||hwanjia.com^
 ||hwbekhxxihvdoue.com^
 ||hwcdn.net^*.mp4|$domain=pornachi.com|pornchimp.com
@@ -32983,6 +33007,7 @@
 ||iasrv.com^
 ||iaswrwqfy.com^
 ||iatf16949.pw^
+||iaufffdnocodbr.com^
 ||iauto.wang^
 ||iawfchawq.com^
 ||iaxwnffhikiac.com^
@@ -33153,6 +33178,7 @@
 ||identification.hotmart.com^
 ||identifiernancy.com^
 ||identifierslionessproof.com^
+||identifierssadlypreferred.com^
 ||identitymansfield.com^
 ||ideoclick.com^
 ||idescargarapk.com^
@@ -40178,6 +40204,7 @@
 ||lizhuo.fun^
 ||lizuorl.cn^
 ||lizziefullrounded.com^
+||ljbwzlmzlzbkm.top^
 ||ljcsrrrhvu.com^
 ||ljdlgunextreyk.xyz^
 ||ljfncdojjuorjxu.com^
@@ -40832,6 +40859,7 @@
 ||logzh.vietnamplus.vn^
 ||loinpriestinfected.com^
 ||loispp.com^
+||loivpcn.com^
 ||loivpdbzx.com^
 ||lokalleads-cci.com^
 ||lokalwerben.t-online.de^
@@ -42933,6 +42961,7 @@
 ||memorizeaestheticspiders.com^
 ||memorizematch.com^
 ||memtkh.com^
+||memuiynuldyoh.com^
 ||memunjcvfv.xyz^
 ||mename.de^
 ||menbershipps-ffvn.com^
@@ -47165,6 +47194,7 @@
 ||nsimg.net^
 ||nsjczjnrravfcj.com^
 ||nsjyfpo.com^
+||nskwqto.com^
 ||nslokxweviwqbg.com^
 ||nsmartad.com^
 ||nsnignsc.xyz^
@@ -47769,6 +47799,7 @@
 ||octrol.com^
 ||ocularribozo.com^
 ||ocumes.com^
+||ocumknxm.com^
 ||ocuuqdqupbpvp.com^
 ||ocuwyfarlvbq.com^
 ||ocwdkp.icu^
@@ -51827,6 +51858,7 @@
 ||poorlytanrubbing.com^
 ||poorstress.pro^
 ||poosoahe.com^
+||poostith.net^
 ||poosugap.com^
 ||pooye-ads.com^
 ||pop-parad.
@@ -54349,6 +54381,7 @@
 ||qoswfds.cn^
 ||qovwrntfxpilyt.com^
 ||qowg.top^
+||qowncyf.com^
 ||qowqnnhf.com^
 ||qoytmrsfvu.com^
 ||qozveo.com^
@@ -56613,6 +56646,7 @@
 ||rkohksa.cn^
 ||rkomf.com^
 ||rksnqq.com^
+||rktddv.xyz^
 ||rktu.com^
 ||rkudzqw.cn^
 ||rkv9.top^
@@ -66700,6 +66734,7 @@
 ||track.span-smt.jp^
 ||track.sparta-tracking.xyz^
 ||track.spzan.com^
+||track.starmakerstudios.com^
 ||track.stat.pet^
 ||track.storm.mg^
 ||track.strife.com^
@@ -68520,6 +68555,7 @@
 ||u756fvjp.cn^
 ||u78s.top^
 ||u7kgr54jr7.ru^
+||u7u9.com^$third-party
 ||u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me^
 ||u8.hujiang.com^
 ||u833ij.com^
@@ -73750,6 +73786,7 @@
 ||wmirk.ru^
 ||wmk0099.xyz^
 ||wmkyrbx.com^
+||wmlbjana.com^
 ||wmlfyerssqlipx.com^
 ||wmlink.ru^
 ||wmmediacorp.com^
@@ -76107,6 +76144,7 @@
 ||yholvajpu.com^
 ||yhomrdh.com^
 ||yhp4an7.cn^
+||yhqukg.xyz^
 ||yhrjmamaxni.com^
 ||yhsdwjes.xyz^
 ||yhsfsdv03.com^
@@ -76627,6 +76665,7 @@
 ||ypkxahje.xyz^
 ||ypmadserver.com^
 ||ypmob.com^
+||ypmohjxp.com^
 ||ypoiea.xyz^
 ||ypojie.com/wp-content/uploads/*.js
 ||yporn.tv/grqoqoswxd.php
@@ -77767,6 +77806,7 @@
 ||zml-apm-prd.dbv4.noncd.db.de^
 ||zmlled.cn^
 ||zmomo.cc^
+||zmwbrza.com^
 ||zn46.com/images/*0x
 ||znaptag.com^
 ||znavidsde.cfd^
@@ -78541,7 +78581,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 126.com,163.com##.gWel-promt
 1280wnam.com##a[href^="http://www.milwaukeezoo.org/visit/animals/"]
 1280wnam.com##a[href^="https://wistatefair.com/fair/tickets/"]
-12news.com,9news.com,9to5google.com,9to5mac.com,aad.org,advfn.com,all3dp.com,allaboutcookies.org,allnovel.net,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,biznews.com,bolavip.com,businessinsider.com,cbs8.com,cc.com,ccjdigital.com,computerworld.com,coomer.party,coomer.su,dailytrust.com,delish.com,driven.co.nz,ecr.co.za,electrek.co,empireonline.com,engineeringnews.co.za,equipmentworld.com,etcanada.com,footyheadlines.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,globalspec.com,gmanetwork.com,grammarbook.com,hbr.org,howstuffworks.com,huffpost.com,insidehook.com,insider.com,intouchweekly.com,kemono.party,kemono.su,khou.com,koat.com,ktvu.com,lifeandstylemag.com,macstories.net,mail.com,mangakakalot.app,memuplay.com,metro.us,metrophiladelphia.com,miningweekly.com,mixed-news.com,mobilesyrup.com,modernhealthcare.com,msnbc.com,my9nj.com,myfitnesspal.com,nbcnews.com,newrepublic.com,newtalk.tw,nzherald.co.nz,oneesports.gg,opb.org,papermag.com,phbzj.com,physiology.org,pics-x.com,pinflix.com,pixiv.net,punchng.com,realsport101.com,reason.com,refinery29.com,roadandtrack.com,scroll.in,sdhentai.com,seattletimes.com,slideshare.net,songkick.com,sportskeeda.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,themarketherald.ca,tmz.com,toofab.com,tool.lu,uploadvr.com,urlgalleries.net,usmagazine.com,vanguardngr.com,wogx.com,wral.com##.ad-container
+12news.com,9news.com,9to5google.com,9to5mac.com,aad.org,advfn.com,all3dp.com,allaboutcookies.org,allnovel.net,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,biznews.com,bolavip.com,businessinsider.com,cbs8.com,cc.com,ccjdigital.com,computerworld.com,coomer.party,coomer.su,dailytrust.com,delish.com,driven.co.nz,ecr.co.za,electrek.co,empireonline.com,engineeringnews.co.za,equipmentworld.com,etcanada.com,footyheadlines.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,globalspec.com,gmanetwork.com,grammarbook.com,hbr.org,howstuffworks.com,huffpost.com,insidehook.com,insider.com,intouchweekly.com,kemono.party,kemono.su,khou.com,koat.com,ktvu.com,lifeandstylemag.com,macstories.net,mail.com,mangakakalot.app,memuplay.com,metro.us,metrophiladelphia.com,miningweekly.com,mixed-news.com,mobilesyrup.com,modernhealthcare.com,msnbc.com,my9nj.com,myfitnesspal.com,nbcnews.com,newrepublic.com,newtalk.tw,nzherald.co.nz,oneesports.gg,opb.org,papermag.com,phbzj.com,physiology.org,pics-x.com,pinflix.com,pixiv.net,punchng.com,qns.com,realsport101.com,reason.com,refinery29.com,roadandtrack.com,scroll.in,sdhentai.com,seattletimes.com,slideshare.net,songkick.com,sportskeeda.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,themarketherald.ca,tmz.com,toofab.com,tool.lu,uploadvr.com,urlgalleries.net,usmagazine.com,vanguardngr.com,wogx.com,wral.com##.ad-container
 12tomatoes.com###footboard
 12tomatoes.com,allwomenstalk.com,bloomberg.com,datpiff.com,logotv.com,newcartestdrive.com,news.sky.com,news.tvguide.co.uk,onthesnow.ca,onthesnow.co.nz,onthesnow.co.uk,onthesnow.com,onthesnow.com.au,penny-arcade.com,postyourpuss.com,publishersweekly.com,skysports.com,stuff.tv,thedrinknation.com,theserverside.com,whitepages.ae###leaderboard
 131458.com###header_gg
@@ -87178,6 +87218,7 @@ igg-games.com##.uk-panel.widget-text
 igg-games.com##[href^="http://s2.igg-games.com/"]
 igg-games.com##a[href^="https://stARtgAmING.net/"]
 igg-games.com##a[href^="https://stARtgAmiNg.net/"]
+igg-games.com,pcgamestorrents.com##a[href][aria-label=""], [width="300"][height^="25"], [width="660"][height^="8"]
 igg-games.com,pcgamestorrents.com##a[href^="https://stARtgAming.net/"]
 ign.com##.deals-block
 ign.com##.wiki-bobble
@@ -124103,6 +124144,7 @@ zle.com$script
 ##.ml_ad3
 ##.ml_ad5
 ##.mlad
+##.mm-ads-adhesive-ad
 ##.mm-ads-gpt-adunit
 ##.mm-ads-leaderboard-header
 ##.mm-banner970-ad
@@ -124111,6 +124153,7 @@ zle.com$script
 ##.mmy-ads
 ##.mntl-leaderboard-header
 ##.mntl-leaderboard-spacer
+##.mntl-sc-block-adslot
 ##.mo-advert
 ##.moads-top-banner
 ##.mob-ad-break-text
@@ -128358,6 +128401,7 @@ zle.com$script
 ##a[href^="https://pb-imc.com/"]
 ##a[href^="https://pb-track.com/"]
 ##a[href^="https://platenssitient.com/"]
+##a[href^="https://playnano.online/offerwalls/?ref="]
 ##a[href^="https://porngames.adult/?SID="]
 ##a[href^="https://porntubemate.com/"]
 ##a[href^="https://prf.hn/click/"][href*="/adref:"] > img

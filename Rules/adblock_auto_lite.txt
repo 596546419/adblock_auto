@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ltP3uWwWrMYX2trDkbaEjg
+! Checksum: nVhpXT2YA6LiQ+claNg4WQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240223002335
+! Version: 20240223091436
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-23 00:23:35
-! Total Count: 25482
+! Last modified: 2024-02-23 09:14:36
+! Total Count: 25489
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -79,6 +79,7 @@
 ||0hlc8.top^
 ||0hq6k.site^
 ||0i0i0i0.com^$third-party,important
+||0j775d.cn^
 ||0j91h.cyou^
 ||0kkbb.com/js/i.js
 ||0krdn3.com^
@@ -4056,6 +4057,7 @@
 ||bdstatic.com^*/resource/tuijian/widget/guesslikesite/guesslikesite.
 ||bdstatic.com^*/static/itemrep/afdTuJiTuiJian/
 ||bdstatic.com^*/tam-ogel/
+||bdtdat652.shop^
 ||bdu.focus.cn^
 ||bdu1.coozhi.cn^
 ||bdunion1.suxiazai.com^
@@ -5883,6 +5885,7 @@
 ||dydab.com^
 ||dydujb.xyz^
 ||dydytt.net/js3
+||dyegif.icu^
 ||dyeperd.icu^
 ||dygtulfe.icu^
 ||dyguo.com/pc/*0.js
@@ -6790,6 +6793,7 @@
 ||ggx0001.com^
 ||ggxwb.miguvideo.com^
 ||ghbdsbfd.com^
+||ghgasdb365.shop^
 ||ghgasdt963.shop^
 ||ghghgf.51dongshi.com^
 ||ghghgf.xuexiwa.com^
@@ -11769,6 +11773,7 @@
 ||rkds5.icu^
 ||rkgwzfwjgk.com^$third-party
 ||rksnqq.com^
+||rktddv.xyz^
 ||rkv9.top^
 ||rkxy.com.cn/js/text_
 ||rlhtnnm.xyz^
@@ -13428,6 +13433,7 @@
 ||u66099.com^
 ||u68t5.icu^
 ||u78s.top^
+||u7u9.com^$third-party
 ||u833ij.com^
 ||u88.cn^$third-party
 ||u97jr.xyz^
@@ -14803,6 +14809,7 @@
 ||yhlzadr.xyz^
 ||yhmeinv.com/mh/
 ||yhnvgdkw.xyz^
+||yhqukg.xyz^
 ||yhsdwjes.xyz^
 ||yhsfsdv03.com^
 ||yht7.com/web/assets/js/right.js
