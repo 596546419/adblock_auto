@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: dZ+NTUL9odWowseh6tH9CQ
+! Checksum: 6wzL+SSsyuFu88HpeI3sbg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240224002244
+! Version: 20240224091312
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-24 00:22:45
-! Total Count: 25498
+! Last modified: 2024-02-24 09:13:12
+! Total Count: 25502
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3562,6 +3562,7 @@
 ||ark.le.com/s?vid=
 ||ark.letv.com/s?
 ||arpg2.com^
+||arqvm.cn^
 ||arrearsexplicit.com^
 ||as.adfonic.net^
 ||as.hobby.porn^
@@ -8902,6 +8903,7 @@
 ||ktienld.top^
 ||ktkkt.com/js/tvb/
 ||ktnwxhjv.xyz^
+||ktoioo.xyz^
 ||kttoo1.com^$domain=9xav.cc
 ||ktvtxir.xyz^
 ||ktwwzqdx.xyz^
@@ -14755,6 +14757,7 @@
 ||ycqbgm.xyz^
 ||ydazjxso.xyz^
 ||yddbysa.xyz^
+||yddjmpjo.xyz^
 ||ydfhidrk.xyz^
 ||ydgal.com/axfile/
 ||ydgh0zc.com^
@@ -15404,6 +15407,7 @@
 ||zuofang05.com/template/mytheme/statics/image/1/
 ||zuowen.hydcd.com^
 ||zuugfj.cn^
+||zuvbzl.xyz^
 ||zvasuzb.icu^
 ||zvdc9y.icu^
 ||zvfaxh.xyz^
