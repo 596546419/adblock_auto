@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 6wzL+SSsyuFu88HpeI3sbg
+! Checksum: hooPqE+z0PQTdU56YKXsCg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240224091312
+! Version: 20240224162026
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-24 09:13:12
-! Total Count: 25502
+! Last modified: 2024-02-24 16:20:26
+! Total Count: 25506
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -10908,6 +10908,7 @@
 ||pjvkhh.xyz^
 ||pjy55d.com^
 ||pjzmbhf.cn^
+||pjzxdl.xyz^
 ||pkfuxvbk.xyz^
 ||pki.net.cn/public/*/plugins/
 ||pki.net.cn/public/1/assets/js/custom/tt.
@@ -12363,6 +12364,7 @@
 ||sitescout.com^
 ||sitewithg.com^
 ||sitv.com.cn/cookiead.php
+||sjaaquj.cn^
 ||sjalipa.cn^
 ||sjbaiduadv1.redou.com^
 ||sjbgyak.cn^
@@ -12561,6 +12563,7 @@
 ||srnov.top^
 ||srootshare.com/otmyjs/
 ||srv.dropkickmedia.com$third-party
+||srzpsbf.xyz^
 ||ss.ting55.com^
 ||ss.zuixinyiqi.com^
 ||ss9874.com/img/91_
@@ -22323,6 +22326,7 @@ zle.com$script
 ##.ReadAd
 ##.ReadAd2
 ##.Text-Advertising
+##.TqAdShow
 ##.Zi_ad_a_H
 ##._300x250.item
 ##.__bm_btn_div

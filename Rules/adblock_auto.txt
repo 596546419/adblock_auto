@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 3l2RpTfM/ClyGhfXF0R/Mw
+! Checksum: 58Xnphx4T1zU+1C/qQ+hug
 ! Title: 混合规则(自动更新)
-! Version: 20240224091302
+! Version: 20240224162016
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-24 09:13:02
-! Total Count: 131975
+! Last modified: 2024-02-24 16:20:16
+! Total Count: 131983
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -49960,6 +49960,7 @@
 ||partion-ricism.xyz^
 ||partlytrouble.com^
 ||partner-ads.com^
+||partner-app.softwareselect.com^
 ||partner-earning.com^
 ||partner.accesstrade.vn^
 ||partner.become.co.jp^
@@ -50167,6 +50168,7 @@
 ||pbhjohrx.xyz^
 ||pbhrwhehnyibit.com^
 ||pbid.iforex.com^
+||pbjs-stream.bydata.com^
 ||pbjs.sskzlabs.com^
 ||pblcpush.com^
 ||pblinq.com^
@@ -51394,6 +51396,7 @@
 ||pjyvgdpvjp.com^
 ||pjzgggywd.com^
 ||pjzmbhf.cn^
+||pjzxdl.xyz^
 ||pk331.cn^
 ||pk910324e.com^
 ||pk965.com^
@@ -60418,6 +60421,7 @@
 ||sizeilksohs.com^
 ||siziermamas.com^
 ||sizzlerisoflor.com^
+||sjaaquj.cn^
 ||sjalipa.cn^
 ||sjbaiduadv1.redou.com^
 ||sjbgyak.cn^
@@ -61932,6 +61936,7 @@
 ||srxy.xyz^
 ||srysogsib.uno^
 ||srzirmlql.com^
+||srzpsbf.xyz^
 ||srzzohlms.com^
 ||ss.azuremagazine.com^
 ||ss.musthird.com^
@@ -88393,6 +88398,7 @@ justthenews.com##.video--container
 justthenews.com##.video--vdo-ai
 justthenews.com##.view--breaking-news-sponsored
 justthenews.com##div[class*="block-simple-blockad-"]
+justwatch.com##.sponsored-recommendation
 juxia.com###fmt
 juxia.com##.game_img_list
 juxia.com##.index_bttg
@@ -95929,6 +95935,7 @@ wealth.com.tw#?##root div[class]:matches-css(row-gap: 13px) > div[class]:matches
 wealth.com.tw#?#div[class]:-abp-has(>div[class]>div[class*="-ad-manager-"])
 wealth.com.tw#?#div[class]:has(> div[class] > div[class^="rytass-ad-manager-"]:only-child)
 wearedore.com##.bloc-pub
+weather.com##div[id*="Taboola-sidebar"]
 weather.com##div[id^="Taboola-main-"]
 weather.com.cn###adtop_r
 weather.com.cn###ytc
@@ -115709,6 +115716,7 @@ zle.com$script
 ##.TopBannerAd
 ##.TopRightRadvertisement
 ##.Top_Ad
+##.TqAdShow
 ##.TrackedBannerPromo
 ##.TrackedSidebarPromo
 ##.TrafficAd
