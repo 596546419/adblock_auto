@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: WDX+9KiMJu62frILUZD40g
+! Checksum: pp7XiWgjzyHfykLSpV+/5w
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240225002110
+! Version: 20240225091939
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-25 00:21:10
-! Total Count: 25510
+! Last modified: 2024-02-25 09:19:39
+! Total Count: 25515
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3739,6 +3739,7 @@
 ||b1.xiao84.com^
 ||b168.net^*.*?$image
 ||b17.8794.cn^
+||b37r5.cyou^
 ||b477.life^$popup,third-party
 ||b4dg.life/love/
 ||b4g7k9d2.com^
@@ -4444,6 +4445,7 @@
 ||bvnjeqa.xyz^
 ||bvpqrydt.xyz^
 ||bvvb9.com^
+||bvxiht.xyz^
 ||bw5388.vip^
 ||bw66.cn/template/default_pc/bbs/
 ||bwandlv.top^
@@ -5915,6 +5917,7 @@
 ||dzjzg.com^
 ||dzkwj0y.xyz^
 ||dzmanga.com/s/page_runtime_v5.js
+||dzuht.cn^
 ||dzvy7.space^
 ||dzwww.com/data/js/asp_$script
 ||dzwww.com/images/ad_down.js
@@ -6054,6 +6057,7 @@
 ||effetspositifs.com^
 ||effirst.com^$third-party
 ||efgh.5lu.com^
+||efmtsw.xyz^
 ||efvsyhbf.xyz^
 ||efyt6.com^$third-party
 ||egadfe.xyz^
@@ -7343,6 +7347,7 @@
 ||hesramfi.com^
 ||hesrod.icu^
 ||hetang123.com/assets/public/$script
+||hexcvb.xyz^
 ||hexun.*/hxpage/index.html
 ||hexun.com*/hx_news/hx_news_finalpage.js
 ||hexun.com/gphqtc/
