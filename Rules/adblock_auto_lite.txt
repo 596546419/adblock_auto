@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 3+K+9n2s9t9qp5NeuNAR5w
+! Checksum: 3jxpV0ZJNjP7/V1Av7jAGQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240226002248
+! Version: 20240226091718
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-26 00:22:48
-! Total Count: 25519
+! Last modified: 2024-02-26 09:17:18
+! Total Count: 25523
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7522,6 +7522,7 @@
 ||houseads.ttpsdk.info^
 ||houstonbbs.com/data/ad/
 ||houyi.baofeng.net^*.html
+||hozatr.xyz^
 ||hpcwwd.com^
 ||hpgmkbt.icu^
 ||hpjzpn.xyz^
@@ -10564,6 +10565,7 @@
 ||ooegpip.cn^
 ||ooejkd.xyz^
 ||oofyjik.xyz^
+||oojjsa.com^
 ||oopej.xyz^
 ||ooqiu.com/ad_js/
 ||ooqwc.xyz^
@@ -10701,7 +10703,6 @@
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$redirect=googlesyndication.com/adsbygoogle.js,domain=youneed.win,xmlhttprequest,script
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=googlesyndication.com/adsbygoogle.js,domain=nazology.net|nijimen.net|xiebruce.top
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noop.js,domain=linovelib.com,important
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noop.js,domain=m.twfanti.com,important
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noop.js,domain=yodu.org
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,redirect=googlesyndication.com/adsbygoogle.js,important,domain=haoweichi.com
 ||pagead2.googlesyndication.com^
@@ -10744,7 +10745,6 @@
 ||pbmp.ali213.net/js/
 ||pbtsjh.xyz^
 ||pbtxt.win^
-||pc.weizhenwx.com/pc/rich-tf.js$script,redirect=noop.js,domain=zhenbuka3.com|zhenbuka2.com|bukaivip.com
 ||pc6.com/img/
 ||pc768.com^
 ||pc841.com/show/
@@ -11346,6 +11346,7 @@
 ||qbd4.site^
 ||qbhjokk.xyz^
 ||qbhmz3.com^
+||qbhzghb.xyz^
 ||qbox.me/FlnVIdUeIo_LrXyGiOL0OFw0Gpa7
 ||qbox.me/FnjnjJhJZlKZEGJ7qV1AocqusFbf
 ||qboywc.xyz^
@@ -11539,6 +11540,8 @@
 ||qqyy.com/js/commAdv
 ||qqyy.com/js/public_end_add.js
 ||qrirud.xyz^
+||qrkhwe.xyz^
+||qrttfmo.cn^
 ||qrxmgfz.cn^
 ||qsanciy.top^
 ||qsbgubdez120.com^$document
@@ -13687,7 +13690,6 @@
 ||v.jsbgh.cn^$third-party
 ||v.laogu.wang/template/*/images/g_js^
 ||v.lbsbbw.cn^$third-party
-||v.lvlt.crcdn.net/*/video.mp4?$redirect=noop-1s.mp4,media
 ||v.pcswtw.cn^$third-party
 ||v.rssnzw.cn^$third-party
 ||v.sssgbw.cn^$third-party
@@ -13794,6 +13796,7 @@
 ||vhotcvp.xyz^
 ||vhsutpgui.xyz^
 ||vhutitpu.icu^
+||vhvwlb.xyz^
 ||vibber.download^
 ||victoriajumpc.com^
 ||vidcorn.to/js/storage/$script
@@ -23488,6 +23491,7 @@ zle.com$script
 ##a[href*=".lvdou.life/"][target="_blank"]
 ##a[href*=".mhtimes.cn"]
 ##a[href*=".mmrjmh.com/"]
+##a[href*=".mp388.com/"]
 ##a[href*=".n7.org.cn"]
 ##a[href*=".nffhome.com/"]
 ##a[href*=".nfkonline.com/"]
