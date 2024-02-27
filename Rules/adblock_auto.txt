@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: V1oBaDM8R+kHLfSoEeVQog
+! Checksum: /a78KWdXx+QMJtErOHrkpA
 ! Title: 混合规则(自动更新)
-! Version: 20240227002321
+! Version: 20240227091410
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-27 00:23:21
-! Total Count: 132085
+! Last modified: 2024-02-27 09:14:10
+! Total Count: 132163
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1662,6 +1662,7 @@
 ||3boys2girls.com/templates/default/2013/life/160b5.js
 ||3boys2girls.com/templates/default/2013/randlinks.js
 ||3boys2girls.com^$subdocument
+||3bxe2.cyou^
 ||3c22db1a50.com^
 ||3c3c3.com^
 ||3c96ce165a.com^
@@ -5108,6 +5109,7 @@
 ||admin6.com/templates/index/default/images/100060.gif
 ||admin6.com^$third-party
 ||adminbuy.cn/images/
+||admiral.pub^$third-party
 ||admiredexcrete.com^
 ||admiredinde.com^
 ||admiringinsightstops.com^
@@ -7259,6 +7261,7 @@
 ||alenty.com^
 ||alephd.com^
 ||alert.autohome.com.cn^
+||alertarithmetic.com^$third-party
 ||alertlogsemployer.com^
 ||alertpay.com^
 ||alesneogaea.com^
@@ -7775,6 +7778,7 @@
 ||amblerodd.com^
 ||ambolicrighto.com^
 ||ambra.com^
+||ambrosialsummit.com^$third-party
 ||ambuizeler.com^
 ||ambushharmlessalmost.com^
 ||amc.yandex.ru^
@@ -14852,6 +14856,7 @@
 ||carnoc.com/noticejs/
 ||caroakitab.com^
 ||caroda.io^
+||carpentercolor.com^$third-party
 ||carpenterexplorerdemolition.com^
 ||carpfreshtying.com^
 ||carpi3fnusbetgu5lus.com^
@@ -15216,6 +15221,7 @@
 ||cdn.appnext.com^
 ||cdn.appsmav.com^
 ||cdn.auditude.com^
+||cdn.b2.ai^
 ||cdn.batmobi.net^
 ||cdn.bescore.com^
 ||cdn.biddercore.io^
@@ -15261,6 +15267,7 @@
 ||cdn.neon.click^
 ||cdn.nsimg.net/cache/landing/pr/*/yjmobile-*.xml$domain=youjizz.com
 ||cdn.optmn.cloud^
+||cdn.oribi.io^
 ||cdn.outfit7.com/promo-nc
 ||cdn.pljs.ru^
 ||cdn.porngames.tv/images/skyscrapers
@@ -15941,6 +15948,7 @@
 ||chikiporn.com/sqkqzwrecy/
 ||childbirthprivaterouge.com^
 ||childlikecrowd.com^$third-party
+||childlikeexample.com^$third-party
 ||childlikeform.com^$third-party
 ||childperfunctoryhunk.com^
 ||childrenplacidityconclusion.com^
@@ -18369,6 +18377,7 @@
 ||cqftonline.com^
 ||cqfygc.xyz^
 ||cqhqvgwcypx.xyz^
+||cqisam.xyz^
 ||cqjjlsy.com^
 ||cqlsewa.com^
 ||cqlupb.com^
@@ -18798,6 +18807,7 @@
 ||ctl.buyt.in^
 ||ctl.mobitrack.co.kr^
 ||ctlmufv.cn^
+||ctlrarz.xyz^
 ||ctlweb.site^
 ||ctm-media.com^
 ||ctmdtrvikipjfv.xyz^
@@ -20388,6 +20398,7 @@
 ||device-metrics-*.amazon.com^
 ||device-metrics-us*.amazon.com^
 ||device9.com^
+||devilishdinner.com^$third-party
 ||devilspanmute.com^
 ||devilwholehorse.com^
 ||deviseoats.com^
@@ -21867,6 +21878,7 @@
 ||dreamsofcryingf.com^
 ||dreamsoppressive.com^
 ||dreamvids.pro^
+||dreamycanyon.com^$third-party
 ||dreanrh.cn^
 ||drearlyknifes.com^
 ||dreary-east.pro^
@@ -23557,6 +23569,7 @@
 ||emigrantblunder.com^
 ||emigrantfirearmcaliber.com^
 ||emigrenanas.com^
+||eminentend.com^$third-party
 ||emisja.contentstream.pl^
 ||emitinspect.com^
 ||emitlabelreproduction.com^
@@ -23640,6 +23653,7 @@
 ||encesprincipledecl.info^
 ||enchainwalker.com^
 ||enchanted-stretch.pro^
+||enchantingenchantment.com^$third-party
 ||enchroe.com^
 ||encirclesheriffemit.com^
 ||enclearmooch.com^
@@ -24251,6 +24265,7 @@
 ||etheappyrincerta.info^
 ||ethecityonata.com^
 ||ethecountryw.org^
+||etherealquasar.com^$third-party
 ||ethereum-pocket.de^
 ||ethereumads.com^
 ||ethicalads.io^
@@ -24770,6 +24785,7 @@
 ||exhibitedderivedremarkable.com^
 ||exhibitedpermanentstoop.com^
 ||exhibitionunattractive.com^
+||exhibitsneeze.com^$third-party
 ||exhno.com^
 ||exi8ef83z9.com^
 ||exilelink.com^
@@ -25100,6 +25116,7 @@
 ||faachen.cn^
 ||fabricww.com^
 ||fabrkrup.com^
+||fabulousterritory.com^$third-party
 ||fabuye.vip/zhuanfa/
 ||facabook.id.vn^
 ||facai1588.xyz^
@@ -25138,6 +25155,7 @@
 ||fadacaitp.com^
 ||fadama.com^$third-party
 ||fadbell.com^
+||fadechildren.com^$third-party
 ||fadegranted.com^
 ||fademployedtransactions.com^
 ||fadewaves.com^
@@ -25406,6 +25424,7 @@
 ||fatvzh.xyz^
 ||fatwalkinger.club^
 ||fatzuclmihih.com^
+||faucetfoot.com^$third-party
 ||faudouglaitu.com^
 ||faukoocifaly.com^
 ||faulterdeplume.com^
@@ -26874,6 +26893,7 @@
 ||frangh.com^
 ||franklyatmosphericanniversary.com^
 ||franticimpenetrableflourishing.com^
+||franticroof.com^$third-party
 ||frap.site^
 ||frapsguardo.com^
 ||frarybjrbnlfd.com^
@@ -27041,6 +27061,7 @@
 ||friendbuy.com^
 ||friendfinder.com^
 ||friendlybcs.pro^
+||friendlycrayon.com^$third-party
 ||friendlyduck.com^
 ||friendlyincompetencepicked.com^
 ||friendshipconcerning.com^
@@ -28721,6 +28742,7 @@
 ||gla63a4l.de^
 ||glacierglorifybeetroot.com^
 ||glaciergrimly.com^
+||gladglen.com^$third-party
 ||gladiol9us10.com^
 ||gladthereis.org^
 ||glaickoxaksy.com^
@@ -29841,6 +29863,7 @@
 ||grumbletonight.com^
 ||grumpy-fear.pro^
 ||grumpybreakingsalad.com^
+||grumpydime.com^$third-party
 ||grumrionzgu.com^
 ||grunoaph.net^
 ||grupkxfhi.com^
@@ -31161,6 +31184,7 @@
 ||helpsetup.ru/home/solnisko.php
 ||hemaglnkrvdcgxe.com^
 ||hembrandsteppe.com^
+||hemenindir.to^
 ||hemhiveoccasion.com^
 ||hemineedunks.com^
 ||hemingway-dries-i-207.site^
@@ -33306,6 +33330,7 @@
 ||ieiukkwfqhwuvwy.com^
 ||iejsk.com^
 ||ielgag.top^
+||ielmzzm.com^
 ||iemiq.com^
 ||iemufbuvehrjo.xyz^
 ||iemwbu.cn^
@@ -33566,6 +33591,7 @@
 ||ijswq.com^
 ||ijsxk.com^
 ||ijukwkxpek.xyz^
+||ijvla.cn^
 ||ijvzmua.cn^
 ||ijwfyirxx.xyz^
 ||ijynarif.xyz^
@@ -37836,6 +37862,7 @@
 ||kinak.top^
 ||kinbashful.com^
 ||kindhearted-winter.pro^
+||kindhush.com^$third-party
 ||kindjalquale.uno^
 ||kindjalvitalic.com^
 ||kindleantiquarian.com^
@@ -38134,6 +38161,7 @@
 ||knhmgn.com^
 ||knightcharleyloudly.com^
 ||knigna.com^
+||knitstamp.com^$third-party
 ||knittedcourthouse.com^
 ||knittingupidiotic.com^
 ||knivesprincessbitterness.com^
@@ -40637,6 +40665,7 @@
 ||log.cookieyes.com^
 ||log.cpex.cz^
 ||log.daidoanket.vn^
+||log.dance^
 ||log.dantocmiennui.vn^
 ||log.daqi.com^
 ||log.data.disney.com^
@@ -41392,6 +41421,7 @@
 ||lullxkwwu.com^
 ||lumaktoys.com^
 ||lumatag.co.uk^
+||lumberrule.com^$third-party
 ||luminate.com^
 ||luminati.io^
 ||luminosoocchio.com^
@@ -42087,6 +42117,7 @@
 ||maivang.xyz^
 ||majasgaol.com^
 ||majesticinsensitive.com^
+||majesticmountainrange.com^$third-party
 ||majesticrepresentative.pro^
 ||majiamei.fun^
 ||majomalonic.com^
@@ -42390,6 +42421,7 @@
 ||mat1.gtimg.com/ent/flash/*300
 ||matchaix.net^
 ||matchingstubborn.com^
+||matchjoke.com^$third-party
 ||matchjunkie.com^
 ||matchuph.com^
 ||mateast.com^
@@ -42398,6 +42430,7 @@
 ||materialfirearm.com^
 ||materialisticconstitution.com^
 ||materialisticinformal.com^
+||materialmilk.com^$third-party
 ||materialparcel.com^$third-party
 ||materiel.baizhan.net^
 ||materiel.junshidao.com^
@@ -42694,6 +42727,7 @@
 ||me511.win^
 ||me680.com/js/*.js
 ||meadowdocumentcaprizecaprize.com^
+||meadowlullaby.com^$third-party
 ||meager-object.com^
 ||meagerdrawing.pro^
 ||meagplin.com^
@@ -43031,6 +43065,7 @@
 ||memoriagamine.com^
 ||memorizeaestheticspiders.com^
 ||memorizematch.com^
+||memorizematch.com^$third-party
 ||memtkh.com^
 ||memuiynuldyoh.com^
 ||memunjcvfv.xyz^
@@ -43654,6 +43689,7 @@
 ||mistletoebookwormgigantic.com^
 ||mistletoeethicleak.com^
 ||mistletoeforensics.com^
+||mistyhorizon.com^$third-party
 ||misunderstandrough.com^
 ||misusefreeze.com^
 ||misuseoyster.com^
@@ -44896,6 +44932,7 @@
 ||mucvinganhangso247.com^
 ||mudcxq.cn^
 ||muddiedbubales.com^
+||muddledmemory.com^$third-party
 ||muddychronicstuffed.com^
 ||muddytransplantinsert.com^
 ||mudezs.com^
@@ -45964,6 +46001,8 @@
 ||ndroip.com^
 ||ndruhz.xyz^
 ||ndryqdqwtnn.com^
+||ndthdte125.shop^
+||ndthdtr586.shop^
 ||ndthensome.com^
 ||ndtsusmqnuslkqx.com^
 ||ndvfwlv.cn^
@@ -45985,8 +46024,11 @@
 ||neatenmikra.life^
 ||neathygienesmash.com^
 ||neatsafety.com^
+||neatshade.com^$third-party
 ||neatstats.com^
 ||nebsefte.net^
+||nebulacrescent.com^$third-party
+||nebulousamusement.com^$third-party
 ||nebulouslostpremium.com^
 ||neburn.com^
 ||neceme.com^
@@ -47627,6 +47669,7 @@
 ||oadz.com^
 ||oaepnba.cn^
 ||oafhif.icu^
+||oafishchance.com^$third-party
 ||oafschamois.live^
 ||oafsevasive.com^
 ||oaftaijo.net^
@@ -51238,6 +51281,7 @@
 ||pipprfvhpykpvk.com^
 ||pipsol.net^
 ||piqtpbxo.icu^
+||piquantvortex.com^$third-party
 ||piqueendogen.com^
 ||piquperkin.com^
 ||pir.zspb.ru^
@@ -51480,6 +51524,7 @@
 ||placemypixel.com^
 ||placeoff.ru^
 ||placeofres.com^
+||placidactivity.com^$third-party
 ||placingcompany.com^
 ||placingfinally.com^
 ||placingsolemnlyinexpedient.com^
@@ -51536,6 +51581,7 @@
 ||plastic-wood.cn^
 ||plastleislike.com^
 ||platebhmwfndajq.com^
+||platescarecrow.com^$third-party
 ||platesworked.com^
 ||platform-api.sharethis.com^
 ||platform-hetcash.com^
@@ -55633,6 +55679,7 @@
 ||recesslikeness.com^
 ||recesslotdisappointed.com^
 ||recessqh.life^
+||recessrain.com^$third-party
 ||recesssignary.com^
 ||rechannelapi.com^
 ||rechanque.com^
@@ -57051,6 +57098,7 @@
 ||roudoduor.com^
 ||rouduranter.com^
 ||rough-requirement.pro^
+||roughharmony.com^$third-party
 ||roughseaside.com^
 ||rouhavenever.com^
 ||rouinfernapean.com^
@@ -58653,6 +58701,7 @@
 ||seekbang.com^
 ||seekoflol.com^
 ||seemedgrucche.com^
+||seemlysuggestion.com^$third-party
 ||seemoraldisobey.com^
 ||seemreflexdisable.com^
 ||seemyresume.org^
@@ -60707,6 +60756,7 @@
 ||slingpic.com^
 ||slingshot.io^
 ||slinindy.top^
+||slinksuggestion.com^$third-party
 ||slinkyfoliot.com^
 ||slipdashedundermine.com^$popup
 ||slippersphoto.com^
@@ -60900,6 +60950,7 @@
 ||smilesalesmanhorrified.com^
 ||smiletkandol.com^
 ||smilewanted.com^
+||smilewound.com^$third-party
 ||smileycentral.com^
 ||smileyhost.net^
 ||smilingswim.com^$third-party
@@ -61197,6 +61248,7 @@
 ||softwaresdaily.com^
 ||sogadetin.com^
 ||sogetcoupes.com^
+||soggyzoo.com^$third-party
 ||sogo.uc.continuefaf.top^
 ||sogo.uc.continuefaf.top^$third-party
 ||sogou.com/GetAdv.
@@ -61651,6 +61703,7 @@
 ||spd-spenden.de^
 ||spdate.com^
 ||speakexecution.com^
+||speakgrandfather.com^$third-party
 ||speakinghostile.com^
 ||speakol.com^
 ||speakshandicapyourself.com^
@@ -61817,6 +61870,7 @@
 ||spooksschedar.com^
 ||spooksuspicions.com^
 ||spookybirch.com^
+||spookystitch.com^$third-party
 ||spoonsleopard.com^
 ||spoonsubqueries.com^
 ||sporedfryhum.com^
@@ -61880,6 +61934,7 @@
 ||spruecutworm.com^
 ||sprungencase.com^
 ||sprunghardness.com^
+||sprydelta.com^$third-party
 ||spsfupq.cn^
 ||spsinhlychinhhang.com^
 ||spt.performgroup.com^
@@ -62776,6 +62831,7 @@
 ||stengskelped.com^
 ||stentorsaumont.com^
 ||step-step-go.com^
+||stepcattle.com^$third-party
 ||stepchateautolerance.com^
 ||stepkeydo.com^
 ||stepmotherincomingpluck.com^
@@ -62841,9 +62897,11 @@
 ||stimtavy.net^
 ||stimulateartificial.com^
 ||stimulatemosque.com^
+||stimulatingsneeze.com^$third-party
 ||stingeantonia.com^
 ||stinglackingrent.com^
 ||stingsquirrel.com^$third-party
+||stingyspoon.com^$third-party
 ||stingystoopedsuccession.com^
 ||stinicf.com^
 ||stinicl.com^
@@ -62881,6 +62939,7 @@
 ||stockbook-ads.firebaseio.com^
 ||stocker.bonnint.net^
 ||stockingsight.com^
+||stockingsleet.com^$third-party
 ||stocks-analytics-events.apple.com^
 ||stocks-analytics-events.news.apple-dns.net^
 ||stockstar.com/*DUILIAN&t=
@@ -63146,6 +63205,7 @@
 ||subiz.xyz^
 ||subjectscooter.com^
 ||subjectslisted.com^
+||subletyoke.com^$third-party
 ||sublimemedia.net^
 ||submissionbrackettreacherous.com^
 ||submissionspurtgleamed.com^
@@ -63169,6 +63229,7 @@
 ||subsistgrew.com^
 ||subsor.com^
 ||substantialequilibrium.com^
+||substantialgrade.com^$third-party
 ||subtle-selection.pro^
 ||subtractrefused.com^
 ||suburbincriminatesubdue.com^
@@ -63449,6 +63510,7 @@
 ||supertop.ru^
 ||supertrackingz.com^
 ||supertura.com^
+||superviseshoes.com^$third-party
 ||supervisorabyss.com^
 ||superxxxfree.com^
 ||supfree.net/baotu.
@@ -64742,6 +64804,7 @@
 ||teddedskeich.com^
 ||teddynineteenthpreoccupation.com^
 ||tedious-weight.pro
+||tediousbear.com^$third-party
 ||tediousdetective.com^
 ||tediouswavingwhiskey.com^
 ||tedo-stats.de^
@@ -64954,6 +65017,7 @@
 ||test.besstidniki.ru^
 ||test.takedwn.ws^
 ||test1productions.com^
+||testadmiral.com^$third-party
 ||testamenttakeoutkill.com^
 ||testcentre.vn^
 ||testfilter.com^
@@ -66567,6 +66631,7 @@
 ||toyosbullpen.com^
 ||toysrestrictcue.com^
 ||tozoruaon.com^
+||tozqvor.com^
 ||tozuoi.xyz^
 ||tozwrqnq.xyz^
 ||tp.content-score.com^
@@ -67585,6 +67650,7 @@
 ||trangtrian2021.com^
 ||trangtrianviet.com^
 ||tranphongnam.tangtuongtac.work^
+||tranquilarchipelago.com^$third-party
 ||tranquilizerproposedattribute.com^
 ||transactionlumber.com^
 ||transactionsparasite.com^
@@ -69127,6 +69193,7 @@
 ||unablehope.com^$third-party
 ||unacceptableclevercapable.com^
 ||unacceptableironicaldrone.com^
+||unaccountablepie.com^$third-party
 ||unaccustomedchessoldest.com^
 ||unaces.com^
 ||unactedrobbers.com^
@@ -74156,6 +74223,7 @@
 ||worn-brown.pro^
 ||wornie.com^
 ||worred.com^
+||worriedwine.com^$third-party
 ||worriesteapotairborne.com^
 ||worseobscureplastic.com^
 ||worsesziara.com^
@@ -77513,6 +77581,7 @@
 ||zeookuv.xyz^
 ||zeotap.com^
 ||zepazupi.com^
+||zephyrlabyrinth.com^$third-party
 ||zephyronearc.com^
 ||zer1ads.com^
 ||zerads.com^
@@ -79253,7 +79322,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 360doc.com##.ggwz
 360doc.com##div[style^="height: 90px; padding-top: 13px;"]
 360game.360.cn##[class*="banner"]
-360game.360.cn,afrsmartinvestor.com.au,afternoondc.in,allmovie.com,allmusic.com,bolnews.com,brw.com.au,capital.bg,chinacar.com.cn,cio.co.ke,fetishshrine.com,gq.co.za,imageupscaler.com,javhay.net,katestube.com,mja.com.au,ocregister.com,online-convert.com,orangecounty.com,petrolplaza.com,pornicom.com,premier.org.uk,premierchristianity.com,premierchristianradio.com,premiergospel.org.uk,radio.com,sidereel.com,sleazyneasy.com,themonthly.com.au,tubsexer.*,vikiporn.com,wankoz.com,yourdictionary.com##.advertising
+360game.360.cn,afrsmartinvestor.com.au,afternoondc.in,allmovie.com,allmusic.com,bolnews.com,brw.com.au,capital.bg,chinacar.com.cn,cio.co.ke,fetishshrine.com,gq.co.za,imageupscaler.com,javhay.net,katestube.com,mja.com.au,ocregister.com,online-convert.com,orangecounty.com,petrolplaza.com,pornicom.com,premier.org.uk,premierchristianity.com,premierchristianradio.com,premiergospel.org.uk,radio.com,sidereel.com,sleazyneasy.com,spine-health.com,themonthly.com.au,tubsexer.*,vikiporn.com,wankoz.com,yourdictionary.com##.advertising
 360kan.com###js-eb-bottomad
 360kan.com##.b-ifradjx
 360kan.com##.eb-mini
@@ -80182,7 +80251,7 @@ advocate.com,out.com##.ourSponsors
 adweek.com##.htl-ad-wrapper
 adx.dlads.cn
 adxvip.com
-adz7short.space,agcanada.com,allmusic.com,allrecipes.com,allthatsinteresting.com,autoaction.com.au,autos.ca,ballstatedaily.com,bdonline.co.uk,boardgamegeek.com,bravewords.com,broadcastnow.co.uk,cantbeunseen.com,carsguide.com.au,cattime.com,chairmanlol.com,chemistryworld.com,chron.com,citynews.ca,coinranking.com,comingsoon.net,countle.com,crn.com.au,diyfail.com,dogtime.com,drugtargetreview.com,edmunds.com,europeanpharmaceuticalreview.com,explainthisimage.com,foodandwine.com,foodista.com,forum.xda-developers.com,freshbusinessthinking.com,funnyexam.com,funnytipjars.com,gamesindustry.biz,hardware.info,iamdisappoint.com,imedicalapps.com,itnews.com.au,japanisweird.com,jta.org,legion.org,lifezette.com,lightnovelworld.com,liveoutdoors.com,milesplit.com,monocle.com,morefailat11.com,moviemistakes.com,nbl.com.au,nfcw.com,objectiface.com,passedoutphotos.com,picmix.com,playstationlifestyle.net,pornsfw.com,precisionvaccinations.com,rollcall.com,roulettereactions.com,searchenginesuggestions.com,shinyshiny.tv,shitbrix.com,short.croclix.me,sparesomelol.com,spoiledphotos.com,spokesman.com,sportsnet.ca,sportsvite.com,stopdroplol.com,straitstimes.com,suffolknews.co.uk,supersport.com,tattoofailure.com,thedriven.io,thefashionspot.com,thehun.net,thestar.com.my,titantv.com,tutorialrepublic.com,where.ca,yoimaletyoufinish.com##.leaderboard
+adz7short.space,agcanada.com,allmusic.com,allrecipes.com,allthatsinteresting.com,autoaction.com.au,autos.ca,ballstatedaily.com,bdonline.co.uk,boardgamegeek.com,bravewords.com,broadcastnow.co.uk,cantbeunseen.com,carsguide.com.au,cattime.com,chairmanlol.com,chemistryworld.com,chron.com,citynews.ca,coinranking.com,comingsoon.net,coolmathgames.com,countle.com,crn.com.au,diyfail.com,dogtime.com,drugtargetreview.com,edmunds.com,europeanpharmaceuticalreview.com,explainthisimage.com,foodandwine.com,foodista.com,forum.xda-developers.com,freshbusinessthinking.com,funnyexam.com,funnytipjars.com,gamesindustry.biz,hardware.info,iamdisappoint.com,imedicalapps.com,itnews.com.au,japanisweird.com,jta.org,legion.org,lifezette.com,lightnovelworld.com,liveoutdoors.com,milesplit.com,monocle.com,morefailat11.com,moviemistakes.com,nbl.com.au,nfcw.com,objectiface.com,passedoutphotos.com,picmix.com,playstationlifestyle.net,pornsfw.com,precisionvaccinations.com,rollcall.com,roulettereactions.com,searchenginesuggestions.com,shinyshiny.tv,shitbrix.com,short.croclix.me,sparesomelol.com,spoiledphotos.com,spokesman.com,sportsnet.ca,sportsvite.com,stopdroplol.com,straitstimes.com,suffolknews.co.uk,supersport.com,tattoofailure.com,thedriven.io,thefashionspot.com,thehun.net,thestar.com.my,titantv.com,tutorialrepublic.com,where.ca,yoimaletyoufinish.com##.leaderboard
 aeink.com##.widget_ui_adsf
 aeink.com##.widget_ui_textads
 aeink.com##p[style*=".alicdn.com/"]
@@ -84795,6 +84864,7 @@ exoav.com##td > a[href]
 exoav.com,sunporno.com##+js(abort-on-property-read, exoNoExternalUI38djdkjDDJsio96)
 expats.cz##.eas
 expedia.at,expedia.be,expedia.ca,expedia.ch,expedia.co.id,expedia.co.in,expedia.co.jp,expedia.co.kr,expedia.co.nz,expedia.co.th,expedia.co.uk,expedia.com,expedia.com.ar,expedia.com.au,expedia.com.br,expedia.com.hk,expedia.com.my,expedia.com.ph,expedia.com.sg,expedia.com.tw,expedia.com.vn,expedia.de,expedia.dk,expedia.es,expedia.fi,expedia.fr,expedia.ie,expedia.it,expedia.mx,expedia.net,expedia.nl,expedia.no,expedia.se,hotels.com,orbitz.com,travelocity.ca,travelocity.com##div[class="uitk-spacing uitk-spacing-margin-blockstart-three"]:has(a[href*="&trackingData"])
+expedia.at,expedia.be,expedia.ca,expedia.ch,expedia.co.id,expedia.co.in,expedia.co.jp,expedia.co.kr,expedia.co.nz,expedia.co.th,expedia.co.uk,expedia.com,expedia.com.ar,expedia.com.au,expedia.com.br,expedia.com.hk,expedia.com.my,expedia.com.ph,expedia.com.sg,expedia.com.tw,expedia.com.vn,expedia.de,expedia.dk,expedia.es,expedia.fi,expedia.fr,expedia.ie,expedia.it,expedia.mx,expedia.net,expedia.nl,expedia.no,expedia.se,hotels.com,orbitz.com,travelocity.ca,travelocity.com##div[class="uitk-spacing uitk-spacing-margin-blockstart-three"]:has(a[href^="https://adclick.g.doubleclick.net/pcs/click?"])
 experts-exchange.com##.eeAD
 explorecams.com##.item-row
 explorecams.com##.item-row--desktop
@@ -85085,6 +85155,7 @@ finance.sina.com.cn##div[id^="st01_cont0"]
 finance.sina.com.cn,sina.com.cn##.f_app_screen_wrap
 finance.yahoo.com###mrt-node-Lead-0-Ad
 finance.yahoo.com##.ad-lrec3
+finance.yahoo.com##.sdaContainer
 finance.yahoo.com##[id^="defaultLREC"]
 financemagnates.com##.article__mpu-banner
 financemagnates.com##.banner__outer-wrapper
@@ -89582,6 +89653,7 @@ marketscreener.com###zppRight2
 marketscreener.com##.bas
 marketscreener.com##.hPubRight2
 marketwatch.com##.container--sponsored
+marketwatch.com##.cxense-loading
 marketwatch.com##.imonaid_context
 masalaseen.net##[href^="https://rajabets.com/"]
 mashable.com###sidebar-1
@@ -90387,7 +90459,7 @@ nationalgeographic.com##.FrameBackgroundFull--grey:has(.ad-wrapper)
 nationalgeographic.com##.LinkedImage
 nationalheraldindia.com##.header-m__ad-top__36Hpg
 nationalheraldindia.com##.styles-m__dfp__3T0-C
-nationaljeweler.com##.banner_wrapper
+nationaljeweler.com,radioyacht.com##.banner_wrapper
 nationalmemo.com##.content_nm_placeholder
 nationalmemo.com##.listicle--ad-tag
 nationalmemo.com,spectrum.ieee.org,theodysseyonline.com##div[class^="rblad-"]
@@ -92582,6 +92654,7 @@ radiotoday.co.uk##.sidebar-column-secondary > .sidebar
 radiotoday.co.uk##.supportHideBack
 radiotoday.co.uk##[href^="http://go.radiotoday.co.uk/"]
 radiox.com##.notifyjs-corner
+radioyacht.com##.mpc-carousel__wrapper
 radiozindagi.com##.foot_top
 rakuten.com###id_parent_rrPlacementTop
 rakuten.com##div[data-productid]:has(div.productList_sponsoredAds_RUS)
@@ -93550,7 +93623,11 @@ slashview.com#$##SlashviewAdDetector { display: block !important; }
 slaynews.com##[href="https://slaynews.com/ads/"]
 sleazyneasy.com##.cams-videos
 sleazyneasy.com##.pre-spots
+slickdeals.net###afscontainer
+slickdeals.net##.bp-p-adBlock
+slickdeals.net##.bp-p-filterGrid_item:has(.bp-c-label--promoted)
 slickdeals.net##.frontpageGrid__bannerAd
+slickdeals.net##.frontpageGrid__feedItem:has(.dealCardBadge--promoted)
 slickdeals.net##.rightRailBannerSection
 slickdeals.net##.rightRailBannerWidget
 slidehunter.com##.custom-ad-text
@@ -93910,6 +93987,7 @@ spiegel.de##a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"]
 spiegel.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"]
 spiegel.de##div[id*="/spon_dt/"]:not(#google_ads_iframe_\/6032\/spon_dt\/homepage_5__container__)
 spin.ph###mrec3
+spine-health.com###block-dfptagbottomanchorads1
 splaybow.com###divPrevious:last-child
 spoonuniversity.com###leaderboard_fixed
 spoonyexperiment.com##.cont_adv
