@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: /a78KWdXx+QMJtErOHrkpA
+! Checksum: 3LJyEqSnLQqW/o9+ZNPvwg
 ! Title: 混合规则(自动更新)
-! Version: 20240227091410
+! Version: 20240227162202
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-27 09:14:10
-! Total Count: 132163
+! Last modified: 2024-02-27 16:22:02
+! Total Count: 132172
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -31408,6 +31408,7 @@
 ||hgqpbscai.com^
 ||hgsly.buzz^
 ||hgsosrgldtgmyb.xyz^
+||hgthpj.xyz^
 ||hguas.com^
 ||hgub2polye.com^
 ||hgubxzfpolbf.com^
@@ -57687,6 +57688,7 @@
 ||rz261.cn^
 ||rz261.cn^$third-party
 ||rzaxroziwozq.com^
+||rzfdbsn.cn^
 ||rzflhxn.cn^
 ||rzgvdm5.com^
 ||rzijjeb.cn^
@@ -69838,6 +69840,7 @@
 ||uslphoctxrpwry.com^
 ||uslsjwnk.xyz^
 ||uslsxe.com^
+||usltmus.cn^
 ||uslycoloursewo.com^
 ||usmhimw.cn^
 ||usnczrq.cn^
@@ -80337,12 +80340,12 @@ aitextpromptgenerator.com##.adsbyus_wrapper
 aitextpromptgenerator.com##[href^="https://app.getsitepop.com/"]
 aiweibk.com##.lili
 aiweibk.com##.pc
-aiyifan.tv,iyf.tv##+js(abort-on-property-read, Object.prototype.ShouldLoadAds)
 aiyifan.tv,iyf.tv##+js(abort-on-stack-trace, Object.prototype.ppmm, invokeInterstitial)
-aiyifan.tv,iyf.tv##+js(remove-class, publicplay, #main-player)
 aiyifan.tv,iyf.tv##.video-player > .cc > .ng-star-inserted[style="position: relative;"]
-aiyifan.tv,iyf.tv#$#.bg-overlayer { pointer-events: unset !important; }
 aiyifan.tv,iyf.tv#?#.video-player + div.ps > div:has(> div.bb)
+aiyifan.tv,iyf.tv,yfsp.tv##+js(abort-on-property-read, Object.prototype.ShouldLoadAds)
+aiyifan.tv,iyf.tv,yfsp.tv##+js(remove-class, publicplay, #main-player)
+aiyifan.tv,iyf.tv,yfsp.tv#$#.bg-overlayer { pointer-events: unset !important; }
 aiyingshi.tv###ADmask
 aiyuke.com###Playerpad
 aiyuke.com###js-ad-type4
@@ -82803,6 +82806,8 @@ classifiedads.com##.resultmarg
 cleantechnica.com###text-165
 cleantechnica.com###zox-top-head-wrap
 cleantechnica.com#?#.zox-side-widget:-abp-contains(/^Advertis/)
+clevelandclinic.org##[data-identity*="billboard-ad"]
+clevelandclinic.org##[data-identity="leaderboard-ad"]
 click108.com.tw##.AD_300250
 click108.com.tw##.AD_730280
 click2houston.com,clickondetroit.com,clickorlando.com,ksat.com,local10.com,news4jax.com##.floatingWrapper
@@ -84834,6 +84839,7 @@ everythingrf.com###wallpaper_1980168
 everythingrf.com###walltrack
 everythingrf.com##.dummydiv
 everythingrf.com##.headerblock
+everythingrf.com##.stickyRHSAds
 everythingrf.com,futbol24.com##.skyscrapper
 evget.com###popelevencenter
 eviemagazine.com##.css-1pm6hh5
@@ -97138,6 +97144,9 @@ yespornpleasexxx.com##+js(abort-on-property-write, i7oo)
 yespornpleasexxx.com##+js(addEventListener-defuser, , return R0())
 yespornpleasexxx.com##+js(no-setTimeout-if, /\,position:[\s\S]*?setTimeout/)
 yespornpleasexxx.com##iframe[src^="https://creative.alxbgo.com/"]
+yfsp.tv,aiyifan.tv,iyf.tv##+js(abort-on-stack-trace, Object.prototype.pgmp, invokeInterstitial)
+yfsp.tv,aiyifan.tv,iyf.tv##.video-player + div.ps > div:has(> div.bb)
+yfsp.tv,aiyifan.tv,iyf.tv##.video-player > .dabc > .ng-star-inserted[style="position: relative;"]
 ygdy8.cc##.container > a[href^="/"]
 ygdy8.cc##body > a[href^="/"]
 yhdmw.com##div.container > iframe[src][rel="nofollow"]

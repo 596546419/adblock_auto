@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: K09IPyoBSbjGoS8qxdMXbA
+! Checksum: VMxK+l5aWE99OAThsutr6g
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240227091421
+! Version: 20240227162213
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-27 09:14:21
-! Total Count: 25588
+! Last modified: 2024-02-27 16:22:13
+! Total Count: 25591
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -609,6 +609,7 @@
 ||3boys2girls.com/templates/default/2013/life/160b5.js
 ||3boys2girls.com/templates/default/2013/randlinks.js
 ||3boys2girls.com^$subdocument
+||3bxe2.cyou^
 ||3czol.com/ad/
 ||3dh9y.com^
 ||3dmax8.com/atu4/
@@ -7399,6 +7400,7 @@
 ||hgjjk45.com^
 ||hgpdoa.cn^
 ||hgsly.buzz^
+||hgthpj.xyz^
 ||hgxwhpba.xyz^
 ||hgyouxi.com/data/hgyouxiad/
 ||hgyouxi.net/source/plugin/hgyouxiad/
@@ -11963,6 +11965,7 @@
 ||ryvexulg.xyz^
 ||ryyuvrt.cn^
 ||rz261.cn^$third-party
+||rzfdbsn.cn^
 ||rzflhxn.cn^
 ||rznscya.cn^
 ||s-adx.op-mobile.opera.com^
