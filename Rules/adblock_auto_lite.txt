@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: bG89HkJQgRgmZP7c01JRtg
+! Checksum: /jytheGhx7hW/cn8SzgHzQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240228002411
+! Version: 20240228091400
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-28 00:24:11
-! Total Count: 25596
+! Last modified: 2024-02-28 09:14:00
+! Total Count: 25604
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6385,6 +6385,7 @@
 ||fenxiangdashi.com/img/banner/
 ||fepmpify.xyz^
 ||fernandou.online^
+||ferriesendless.com^
 ||festaporno.com^$third-party
 ||ff.guidaye.com^
 ||ff.meikanguo.com^
@@ -7192,6 +7193,7 @@
 ||haiyuer.com/didi
 ||haiyuer.com/nb.js
 ||haiyuer.com/uc
+||halct.cn^
 ||halihali*.com/js/wap2-jm-ms.js?$script
 ||halqpt.xyz^
 ||hanadrmc.xyz^
@@ -10520,6 +10522,7 @@
 ||obzthda.xyz^
 ||ocdn.eu/ramp/*/Sponsoring-Mobile-Float-Universal/*.js
 ||oce.nexithrom.com^$third-party
+||ocggec.xyz^
 ||oclasrv.com^
 ||ocoda.xyz^
 ||oconner.biz^
@@ -10926,6 +10929,7 @@
 ||picsuperfast.xyz/imageUpload/images/*AD_
 ||picyq.com/index.php/Home/run/get_ad/
 ||pidurrmu.xyz^
+||pidzlp.xyz^
 ||pierrebotton.com/global/
 ||pihu.xxxpornhd.pro^
 ||pincai.com/js/pubuliu.
@@ -11429,6 +11433,7 @@
 ||qhimgs4.com/t01d8315ddb1a5adcce.gif
 ||qhjm600.com^
 ||qhnews.com/tupian/
+||qhocciks.com^
 ||qhres.com/static/*/common/seed.js
 ||qhres.com/static/4b6ab193405b6ca3.js
 ||qhres.com^*/baidu_
@@ -12981,6 +12986,7 @@
 ||tdavopl.icu^
 ||tdhlmto.cn^
 ||tdjdpyrt.xyz^
+||tdljuuw.xyz^
 ||tdsahkln.xyz^
 ||teachscape.vo.llnwd.net^
 ||teamjwar.com^
@@ -13319,6 +13325,7 @@
 ||tsfwzz.xyz^
 ||tshtbh.xyz^
 ||tslbahi.top^
+||tsrvrr.xyz^
 ||tsvkfwth.xyz^
 ||tsyndicate.com^
 ||tszoxhtk.xyz^
@@ -24445,6 +24452,7 @@ zle.com$script
 ##script + #rbbox
 ##script + #strl
 ##script + #strl + div[style]
+##script + .header_rmb
 ##script + [id][style="width:100%;height:auto;min-height:120px;position:relative;display:block;"]
 ##script + a[href] > img[src*="lbsugc.cdn.bcebos.com"]
 ##script + a[target="_bank"] > img[src*=".c-ctrip.com"][style="width:100%;height:auto;"]
