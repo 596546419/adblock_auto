@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: CzEzlXncUnh814KY4U3YGw
+! Checksum: hh+LzPYPUeP8XA9Kh3dLEw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240229091454
+! Version: 20240229162145
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-29 09:14:54
-! Total Count: 25614
+! Last modified: 2024-02-29 16:21:45
+! Total Count: 25622
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1090,6 +1090,7 @@
 ||88lm03.com^
 ||88lm04.com^
 ||88lm05.com^
+||88lm06.com^
 ||88p2p.com^$popup
 ||88ys.cc/js/abcd.js
 ||8961.jianbihua.com^
@@ -6243,6 +6244,7 @@
 ||exe*.spankbang.com^$xmlhttprequest
 ||exe*.spankbang.party^$xmlhttprequest
 ||exe.bid^
+||execuri.com^
 ||exelbid.com^
 ||exemptambientcream.com^
 ||exhibitsneeze.com^$third-party
@@ -6372,6 +6374,7 @@
 ||featured.perfectionholic.com^
 ||februarylovestory.com^$third-party
 ||feesoon.com/js/cnzz_
+||fefgvh.xyz^
 ||fehrda.xyz^
 ||feijied.xyz^
 ||feijisu*.com/js/huimi-
@@ -8371,6 +8374,7 @@
 ||jinxiyue.com/seo.js$script
 ||jinyici.com/qq.js
 ||jioads.akamaized.net^
+||jioed.cyou^
 ||jiongnet.cn^
 ||jipinyouwu.com^
 ||jishiben.info^
@@ -12116,6 +12120,7 @@
 ||sdfyiu.com^
 ||sdjbcjsbdjk.com^
 ||sdjbvjsbvjz.com^
+||sdjkbcjksbdsvv.com^
 ||sdjvbsjbvas.com^
 ||sdk-api-v1.singular.net^
 ||sdk.51.la^
@@ -12874,6 +12879,7 @@
 ||szmmb.cn^
 ||szmnd.cn^
 ||szmnf.cn^
+||szmnl.cn^
 ||szmns.cn^
 ||szmtd.cn^
 ||szmty.cn^
@@ -12993,6 +12999,7 @@
 ||tdjdpyrt.xyz^
 ||tdljuuw.xyz^
 ||tdsahkln.xyz^
+||tduenkq839.shop^
 ||teachscape.vo.llnwd.net^
 ||teamjwar.com^
 ||tebohjhh.xyz^
@@ -14704,6 +14711,7 @@
 ||xrrhwgj.xyz^
 ||xs.houyi.baofeng.net^
 ||xsbdj6.com^
+||xsfajf.xyz^
 ||xstt5.com/skin/v3/js/dibu.js
 ||xstt5.com/template/js/fx
 ||xsvkfwth.xyz^
