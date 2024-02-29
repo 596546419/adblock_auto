@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: VWE5OCw6FY9uNylMjBFDNg
+! Checksum: CzEzlXncUnh814KY4U3YGw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240229002423
+! Version: 20240229091454
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-02-29 00:24:23
-! Total Count: 25610
+! Last modified: 2024-02-29 09:14:54
+! Total Count: 25614
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3449,6 +3449,7 @@
 ||aomeng.net^$third-party
 ||aoshi.com/rbc.jpg
 ||aotu43.com/templates/defboot/js/duilian.js
+||aourgk.xyz^
 ||aowdk.cyou^
 ||ap.smardroid.com^
 ||apdfmhp.cn^
@@ -4412,6 +4413,7 @@
 ||bu1.duba.com^
 ||bu1.vvvdj.com^
 ||bubblesmedia.ru^
+||bugzmn.icu^
 ||buhgalter.com.ua^*/blocker.
 ||buhgalter911.com^*/blocker.
 ||buhlvp.pojuko.buzz^
@@ -6599,6 +6601,7 @@
 ||fuzzyerror.com^$third-party
 ||fv77e.icu^
 ||fvcwqkkqmuv.com^
+||fvpboxu.xyz^
 ||fvxlhn.xyz^
 ||fvzljv.xyz^
 ||fwcnex.icu^
@@ -15493,6 +15496,7 @@
 ||zrrnqq.com^
 ||zs.rzijjeb.cn^
 ||zsjjob.com/user/member/google.htm
+||zsjpi.cn^
 ||zsjxwj.com^
 ||zsnfdphz.com^
 ||zsyk91.cn^
