@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: hWldwDm4Rjb6z/qzO0q/GQ
+! Checksum: ldh2n6GrSX/kpJZgDKmR9w
 ! Title: 混合规则(自动更新)
-! Version: 20240301092049
+! Version: 20240301162229
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-01 09:20:49
-! Total Count: 132392
+! Last modified: 2024-03-01 16:22:29
+! Total Count: 132397
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -64109,6 +64109,7 @@
 ||szmmb.cn^
 ||szmnd.cn^
 ||szmnf.cn^
+||szmnk.cn^
 ||szmnl.cn^
 ||szmns.cn^
 ||szmsao.com^
@@ -81745,6 +81746,9 @@ bella.tw##.hide-mobile[style]
 bellesa.co##.Display__RatioOuter-hkc90m-0
 bellinghamherald.com##.zone-el
 bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com,elnuevoherald.com,fresnobee.com,heraldonline.com,heraldsun.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,ledger-enquirer.com,macon.com,mcclatchydc.com,mercedsunstar.com,miamiherald.com,modbee.com,myrtlebeachonline.com,newsobserver.com,pussy.org,sacbee.com,sanluisobispo.com,star-telegram.com,sunherald.com,thenewstribune.com,theolympian.com,thestate.com,tri-cityherald.com,vidsvidsvids.com,xxx-videosex.porn##.zone
+belloflostsouls.net##div[id^="ad-container-"]
+belloflostsouls.net#?#span.text-secondary:-abp-contains(Advertisement)
+belloflostsouls.net,ginx.tv,op.gg,theloadout.com##.vm-placement
 bendibao.com###wxbox
 bendibao.com,gz.bendibao.com##.content_r_ad300
 bendsource.com,buzzfeed.com,federalnewsnetwork.com,imgur.io,le.com,lonelyplanet.com,sevendaysvt.com,styleweekly.com,tasty.co,tucsonweekly.com##.Ad
@@ -86206,7 +86210,6 @@ gimy.tv##.playadbox
 ginx.tv###ginx-floatingvod-containerspacer
 ginx.tv##[data-ez-ph-id]
 ginx.tv##[data-ref]
-ginx.tv,op.gg,theloadout.com##.vm-placement
 girlonthenet.com##aside[data-adrotic]
 girlsofdesire.org###gal_669
 girlstyle.com,thecatcity.com,urbanlifehk.com##.desktop-sidebar__block--ad
@@ -89304,6 +89307,7 @@ lifestyleasia.com##.btt-top-add-section
 lifewire.com##.daily-deal
 lightnovel.us##.author + .poster
 lightnovelpub.com##.lnadcontainer
+lightnovelpub.com##[data-mobid]
 lightnovelpub.com,wantgoo.com##.adsbox
 lightreading.com##a[href^="/lg_redirect.asp?piddl_lgid_docid="]
 lihkg.com##iframe[src^="https://pb.lihkg.com/"][style^="height:"]
@@ -89316,6 +89320,7 @@ lihkg.com#?#div[id][class][data-post-id] + div[class]:not([id]):not([data-post-i
 liisex.com###apDiv22
 likeporno.me,yeswegays.com##.video-spot
 likr.tw###avivid_waterfall_wp_product_area
+lilo.org##.lilo-ad-result
 lilymanga.com,msn.com##a[href^="https://amzn.to/"]
 limesurvey.org###partnerbanner
 limesurvey.org,mobygames.com,taskcoach.org##.well
@@ -104965,7 +104970,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /js/dyguosj/*
 /js/easyAD.js
 /js/easyAD2.js
-/js/floatadv.js
 /js/gadks.js?$~third-party,script
 /js/gano.js?$~third-party,script
 /js/gg0.js
@@ -127856,6 +127860,7 @@ zle.com$script
 ##[data-name="adaptiveConstructorAd"]
 ##[data-rc-widget]
 ##[data-revive-zoneid]
+##[data-revive-zoneid] > iframe
 ##[data-role="tile-ads-module"]
 ##[data-template-type="nativead"]
 ##[data-testid="adBanner-wrapper"]
