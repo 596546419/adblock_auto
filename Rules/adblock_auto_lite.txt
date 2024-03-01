@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: wJL8s6qZ61DpZipD4wOX8A
+! Checksum: mgVYVd4wI+FqzATIFe2x4w
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240301162239
+! Version: 20240302002229
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-01 16:22:39
-! Total Count: 25636
+! Last modified: 2024-03-02 00:22:29
+! Total Count: 25639
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5191,6 +5191,7 @@
 ||crispadvertising.com^
 ||criteo.com^
 ||criteo.net^
+||crjeymh.cn^
 ||crjpgate.com^$document
 ||crossboardmobile.com^
 ||crosspromo*.qplaze.com/PushCampaignXMLOut.php
@@ -13613,6 +13614,7 @@
 ||uifyeldt.top^
 ||uiiepofl.xyz^
 ||uioozpxq.com^
+||uiqcf.cn^
 ||uiszwh.icu^
 ||uito.top^
 ||uiuaey.xyz^
@@ -14618,6 +14620,7 @@
 ||xklofoz.cn^
 ||xkmwxwy.cn^
 ||xkrnud.icu^
+||xkyn.com/imgs/js/al.js
 ||xkyn.com/imgs/js/xx.js
 ||xkzzz.com/zb_users/plugin/MoreLinks*/show.
 ||xkzzz.com/zb_users/plugin/MoreLinks/MoreLinks.
