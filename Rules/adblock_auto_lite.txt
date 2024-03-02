@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: mgVYVd4wI+FqzATIFe2x4w
+! Checksum: 8Sg6Hkg3s2zbzdVjtjeIHw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240302002229
+! Version: 20240302091307
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-02 00:22:29
-! Total Count: 25639
+! Last modified: 2024-03-02 09:13:07
+! Total Count: 25643
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5921,6 +5921,7 @@
 ||dykshao.cn/image/$third-party
 ||dymmt.com/skin/mzitu/js/foot.
 ||dyncdn.me/static/20/js/expla$script,important
+||dytkgl.icu^
 ||dytt.com/oj.js
 ||dytt.com/pc.js
 ||dytt.com^*yb.js
@@ -8684,6 +8685,7 @@
 ||jzdgn.cn^
 ||jzdwl4.cn^
 ||jzixypd.icu^
+||jzjpntr.xyz^
 ||jzlso.xyz^
 ||jzxpxj.xyz^
 ||k-img.com/script/fixed_bnr_area.js$domain=s.kakaku.com
@@ -9423,6 +9425,7 @@
 ||luckyforworlds.com^
 ||ludie.xyz^
 ||ludpa.xyz^
+||lulxzl.xyz^
 ||lumberrule.com^$third-party
 ||lunchroomlock.com^$third-party
 ||lunhua5.com/images/more.gif
@@ -9725,6 +9728,7 @@
 ||mddcloud.*/oweApi/ad/
 ||mdezco.xyz^
 ||mdfsbn.com^$third-party
+||mdhv3.icu^
 ||mdhxyhl.cn^
 ||mdjdpyrt.xyz^
 ||mdqpkdne.xyz^

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: s5d3oPlQ4cc6XqzVXayyQw
+! Checksum: /sPsu8ezg3XsAZDgSXkRaw
 ! Title: 混合规则(自动更新)
-! Version: 20240302002219
+! Version: 20240302091257
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-02 00:22:19
-! Total Count: 132406
+! Last modified: 2024-03-02 09:12:57
+! Total Count: 132466
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -441,6 +441,7 @@
 ||1111supjavcom.xyz^
 ||11129.com/800X80
 ||1117977646.rsc.cdn77.org^
+||1118519355.rsc.cdn77.org^
 ||1118cctv.ltd^
 ||111cn.net/gg_ad/
 ||111cn.net/js/downc*.js
@@ -593,6 +594,7 @@
 ||13owamwp6c.cn^
 ||13p76nnir.de^
 ||13txt.net/js/ssgdd.
+||1413290090.rsc.cdn77.org^
 ||1413879490.rsc.cdn77.org^
 ||1419560424.rsc.cdn77.org^
 ||141h.com/data/attachment/noblock/cf/
@@ -678,6 +680,7 @@
 ||1647871863.rsc.cdn77.org^
 ||1656002483.rsc.cdn77.org^
 ||16577716.com^
+||1660515320.rsc.cdn77.org^
 ||1661795914.rsc.cdn77.org^
 ||1662864709.rsc.cdn77.org^
 ||1665091311.rsc.cdn77.org
@@ -779,6 +782,7 @@
 ||184c4i95p.de^
 ||1851120889.rsc.cdn77.org^
 ||1851933582.rsc.cdn77.org^
+||1857833196.rsc.cdn77.org^
 ||1857964468.rsc.cdn77.org^
 ||1859033409.rsc.cdn77.org^
 ||1874562524.rsc.cdn77.org^
@@ -3104,6 +3108,7 @@
 ||8seaa.com/template/assets1/js/vue.js
 ||8stream-ai.com^
 ||8suis.top^
+||8t9he.cyou^
 ||8trd.online^
 ||8ue9q7i.com^
 ||8wtkfxiss1o2.com^
@@ -6343,6 +6348,7 @@
 ||adz.mobi^
 ||adzbaba.com^
 ||adzbazar.com^
+||adzep.com.br^
 ||adzerk.net^
 ||adzfun.me^
 ||adzhub.com^
@@ -6393,6 +6399,7 @@
 ||aengbalz.fun^
 ||aeoonmail.com^
 ||aeoprw.cn^
+||aeoqmogkswsd.com^
 ||aeowrb.com^
 ||aeqtjaonwrnyy.com^
 ||aerariacongoni.uno^
@@ -6843,6 +6850,7 @@
 ||ahagreatlypromised.com^
 ||ahaheartburndo.com^
 ||ahaurgoo.net^
+||ahaxoenizuaon.com^
 ||ahbdsply.com^
 ||ahcapzoqgyw.com^
 ||ahcdsply.com^
@@ -8703,6 +8711,7 @@
 ||anwasthere.cfd^
 ||anweigongsi.com^
 ||anwhic.com^
+||anwhitepinafore.info^
 ||anwqj0i.xyz^
 ||anwyrxpockct.xyz^
 ||anxiouslyconsistencytearing.com^
@@ -10090,6 +10099,7 @@
 ||aumsookr.com^
 ||aumsoovy.net^
 ||aumtoost.net^
+||aunauque.net^
 ||aunaurdeempi.com^
 ||auneghus.net^
 ||aungoutsy.com^
@@ -12007,6 +12017,7 @@
 ||berg-6-82.com^
 ||bergfi.com^
 ||bergsmouflon.com^
+||berideshaptin.com^
 ||beringmedia.com^
 ||berinsestoray.com^
 ||berjzj.xyz^
@@ -13453,6 +13464,7 @@
 ||bowtellwhincow.cfd^
 ||box.rus.porn^
 ||box.zap.com.br^
+||boxappellation.com^
 ||boxernightdilution.com^
 ||boxhaulchrist.guru^
 ||boxlikepavers.com^
@@ -13855,6 +13867,7 @@
 ||bsnignsv.xyz^
 ||bsnoownmv.fun^
 ||bsolaoecm.xyz^
+||bsshcuxgxtovjv.com^
 ||bstn-14-ma.com^
 ||bsudzbtp.com^
 ||bsvkfwth.xyz^
@@ -13980,6 +13993,7 @@
 ||bufan.space^
 ||buffaloexemptdropped.com^
 ||buffersling.com^
+||bugeyedfloral.com^
 ||buggerygruffed.com^
 ||bugits.com^
 ||bugleczmoidgxo.com^
@@ -14619,6 +14633,7 @@
 ||cafddfcagfegjchbabd.ru
 ||cafe-latte.myshoplus.com^
 ||cafe-log.myshoplus.com^
+||cafenehkikki.com^
 ||cafeteriasobwaiter.com^
 ||caffleklismos.website^
 ||cafqeelk.com^
@@ -16222,6 +16237,7 @@
 ||chullohagrode.com^
 ||chultoux.com^
 ||chumeng.link^
+||chumsaft.com^
 ||chunkkalmias.com^
 ||chunkstoreycurled.com^
 ||chunkysorance.space^
@@ -16505,6 +16521,7 @@
 ||classic.39health.com^
 ||classic.avantlink.com^
 ||classicbf.com^
+||classicguarantee.pro^
 ||classicporn.club/ab_bl.php
 ||classicporn.club/ab_fl.js
 ||classicseight.com^
@@ -20641,6 +20658,7 @@
 ||diaepoxy.guru^
 ||diagnose.igstatic.com^
 ||diagramcetyl.digital^
+||dialedbollox.com^
 ||dialling-abutory.com^
 ||dialogtech.com^
 ||dialoguemarvellouswound.com^
@@ -22476,6 +22494,7 @@
 ||dysful.com^
 ||dysitecdn.com/gg
 ||dysitecdn.com^*.php
+||dytkgl.icu^
 ||dytt.com/oj.js
 ||dytt.com/pc.js
 ||dytt.com^*yb.js
@@ -25530,6 +25549,7 @@
 ||fbmedia-bls.com^
 ||fbmedia-ckl.com^
 ||fbmedia-dhs.com^
+||fbnztqwlirf.com^
 ||fbpgdlprsiz.com^
 ||fbrheofkccovs.xyz^
 ||fbthirdpartypixel.com^
@@ -25593,6 +25613,7 @@
 ||fd2.hmexchangecentre.com^
 ||fd2a9dd918.com^
 ||fd2cd5c351.com^
+||fd39024d2a.com^
 ||fd5orie8e.com^
 ||fd7c.com^
 ||fd7qz88ckd.com^
@@ -26092,6 +26113,7 @@
 ||findprizesplace.life^
 ||findromanticdates.com^
 ||findswiftresults.com^
+||finednothue.com^
 ||finema-net.cdn.ampproject.org^
 ||finema.net^
 ||fineporno.com^
@@ -27111,6 +27133,7 @@
 ||frfhhcxeqkubk.xyz^
 ||frgeob.xyz^
 ||frhbrkjgerikm2f8mjek09.com^
+||frhjqdgtfeb.com^
 ||fri4esianewheywr90itrage.com^
 ||fricacedisgulf.uno^
 ||frictionliteral.com^
@@ -29030,6 +29053,7 @@
 ||gluttonybuzzingtroubled.com^
 ||gluwhoas.com^
 ||gluxouvauque.com^
+||gluxouvauure.com^
 ||glvhvesvnp.com^
 ||glwcxdq.com^
 ||glxrubskce.com^
@@ -30986,6 +31010,7 @@
 ||hciea.xyz^
 ||hcitgdljlrfw.com^
 ||hcmyfni.cn^
+||hcndrrodt.com^
 ||hcqsuqq.cn^
 ||hcqumrjbx.xyz^
 ||hcritiesec.xyz^
@@ -32901,6 +32926,7 @@
 ||hwucqkpdinfb.xyz^
 ||hwuogmusthxfpk.xyz^
 ||hwuzrko.cn^
+||hwvvvuwpvu.com^
 ||hwvwxerw.xyz^
 ||hwydfevh.com^
 ||hwyjfhdjgoorb.com^
@@ -34500,6 +34526,7 @@
 ||inpwrd.com^
 ||inquiredcriticalprosecution.com^
 ||inquiriesdishonest.com^
+||inquiryblue.com^
 ||inquiryclank.com^
 ||inquisition.goguardian.com^
 ||inrd.ru^
@@ -34605,6 +34632,7 @@
 ||instreet.cn^$third-party
 ||instructionluxuriant.com^
 ||instructionwantsflew.com^
+||instructiveengine.pro^
 ||instructoralphabetoverreact.com^
 ||instructorloneliness.com^
 ||instructscornfulshoes.com^
@@ -34868,6 +34896,7 @@
 ||iojnask.com^
 ||iojsqcbxoykb.com^
 ||iokenattharmiinl.xyz^
+||iokqtntsuwshtjh.com^
 ||iol.io^
 ||ioladv.it^
 ||iolsrikq.xyz^
@@ -36492,6 +36521,7 @@
 ||jnovoksjreeyrpm.xyz^
 ||jnp0kmm.icu^
 ||jnqiangzhi.xyz^
+||jnqkvgkm.com^
 ||jnrgcwf.com^
 ||jnrtavp2x66u.com^
 ||jnsgdaqsiqcumg.xyz^
@@ -37304,6 +37334,7 @@
 ||jzeapwlruols.com^
 ||jzhxzsgs.com^
 ||jzixypd.icu^
+||jzjpntr.xyz^
 ||jzjxmj.com^
 ||jzleekzkrwjll.top^
 ||jzlso.xyz^
@@ -37855,6 +37886,7 @@
 ||khgacoucr.com^
 ||khgctmxl.com^
 ||khgj.cn^$third-party
+||khhkfcf.com^
 ||khment.com^
 ||khnwnqmwmdttsd.com^
 ||khoanhkhacgiadinhdoantucuoinam.weebly.com^
@@ -37868,6 +37900,7 @@
 ||khoslo.com^
 ||khovang.click^
 ||khrtac.xiangha.com^
+||khuanynodefado.com^
 ||khufaw2.com^
 ||khuokpj.cn^
 ||khuoy.com^
@@ -39441,6 +39474,7 @@
 ||ld0766.com/index.php?m=call&id=10
 ||ld82ydd.com^
 ||ldb.cc/js/top.js
+||ldcadfuway.com^
 ||ldclxgkcy.xyz^
 ||ldcrfkvy.com^
 ||ldd62n.top^
@@ -41494,6 +41528,7 @@
 ||luckypapa.xyz^
 ||luckypushh.com^
 ||luckysearch123.com^
+||luckyz.xyz^
 ||lucrativeemotionallypromised.com^
 ||lucrumvirga.life^
 ||lucvhrdlywvnwh.com^
@@ -41521,6 +41556,7 @@
 ||lulavsepoxy.guru^
 ||lulgpmdmbtedzl.com^
 ||lullxkwwu.com^
+||lulxzl.xyz^
 ||lumaktoys.com^
 ||lumatag.co.uk^
 ||lumberrule.com^$third-party
@@ -41652,6 +41688,7 @@
 ||lvwuuehkvitwn.com^
 ||lvxingzhe.store^
 ||lvy0.cn^
+||lvyowwkqealv.top^
 ||lvytzpu.cn^
 ||lvzi.store^
 ||lvzkfcm.cn^
@@ -42272,6 +42309,7 @@
 ||malong.plus^
 ||mals.shop^
 ||malthashematid.com^
+||maltohoo.xyz^
 ||maltunfaithfulpredominant.com^
 ||mamaapparent.com^
 ||mamamia.vintageporno.stream^
@@ -42801,6 +42839,7 @@
 ||mdfsbn.com^$third-party
 ||mdghnrtegwuqar.com^
 ||mdglpgjp.com^
+||mdhv3.icu^
 ||mdhxyhl.cn^
 ||mdi5k.cn^
 ||mdjdpyrt.xyz^
@@ -44990,6 +45029,7 @@
 ||mtu.hlkcowp.cn^
 ||mtur.xkmnbt.xyz^
 ||mtwdmk9ic.com^
+||mtwmuy.xyz^
 ||mtwwzqdx.xyz^
 ||mtypitea.net^
 ||mtytfjijgsfoy.com^
@@ -45973,6 +46013,7 @@
 ||naturalistsbumpmystic.com^
 ||naturallyedaciousedacious.com^
 ||naturaltracking.com^
+||naubme.info^
 ||naucaips.com^
 ||naucaish.net^
 ||naufistuwha.com^
@@ -48270,6 +48311,7 @@
 ||ohgmnmgrd.xyz^
 ||ohgskf.com^
 ||ohibal.com^
+||ohjhsopp.com^
 ||ohkahfwumd.com^
 ||ohkdsplu.com^
 ||ohkvifgino.com^
@@ -49317,6 +49359,7 @@
 ||otreh.xyz^
 ||otrundledtheb.com^
 ||otrwaram.com^
+||otrzcixradze.com^
 ||ottack.com^
 ||ottdhysral.com^
 ||otterwoodlandobedient.com^
@@ -54715,6 +54758,7 @@
 ||qqainj.cn^
 ||qqcf.com/js/Content_Get.js
 ||qqddc.com/homeSite/news/js/newsad.js
+||qqdxtmllptdlz.com^
 ||qqfby.com^*ad
 ||qqfelxqmhoc.com^
 ||qqgfubewassi.com^
@@ -55086,6 +55130,7 @@
 ||quqtone.cn^
 ||qusfmaxgfa.xyz^
 ||qusfybj.cn^
+||qutejo.xyz^
 ||quwwa.top^
 ||quxegtegmvlfln.com^
 ||quxiangkeji.cn^
@@ -55886,6 +55931,7 @@
 ||recurseagin.com^
 ||recv-entry.tbs.co.jp^
 ||recv-jnn.tbs.co.jp^
+||recv.tbs.co.jp^
 ||recyclinganewupdated.com^
 ||recyclingbees.com^
 ||red-bees.com^
@@ -56906,6 +56952,7 @@
 ||rizgtf.xyz^
 ||rizlhvb.cn^
 ||rizzonelli.it^
+||rjhbjv.xyz^
 ||rjhiomohthqr.com^
 ||rjkezyfcpxffc.com^
 ||rjlfolk.xyz^
@@ -57308,6 +57355,7 @@
 ||royallycuprene.com^
 ||royalshop2021.shop^
 ||royapp.com^
+||royvdkxga.com^
 ||rozamimo9za10.com^
 ||rozivpxtl.com^
 ||rp5o.top^
@@ -63445,6 +63493,7 @@
 ||suibianlu.com/zb_users/theme/tx_fzy/script/zhao.js
 ||suicidechapterspartnership.com^
 ||suilingxian.cn^
+||suirtan.com^
 ||suitbelongingoccasion.com^
 ||suitcasessheriffpilgrim.com^
 ||suite*.linximpulse.net^
@@ -63454,6 +63503,7 @@
 ||suitesmart.com^
 ||suitetattoo.com^
 ||suiyishop.cn/zhuangxiu_
+||sujcmsgdcyt.com^
 ||sukcheatppwa.com^
 ||sukedrevenued.org^
 ||sukiem-muahe-pubgmobilevn.com^
@@ -63531,6 +63581,7 @@
 ||sukienvuongquocrong.com^
 ||sukienzingspeed.com^
 ||sukneyu.com^
+||sukoqgdpej.com^
 ||sukultingecauy.info^
 ||suldansspikes.com^
 ||sulelysr.com^
@@ -63920,6 +63971,7 @@
 ||swordeast.com^
 ||swordrelievedictum.com^
 ||swordshiret.net^
+||swpnyrxgobtryu.com^
 ||swpsvc.com^
 ||swpu.site^
 ||swtchrules.click^
@@ -64653,6 +64705,7 @@
 ||tapdb.net^
 ||tapeabruptlypajamas.com^
 ||tapet.bonniernews.se^
+||tapewherever.com^
 ||tapfiliate.com^
 ||tapheetsat.com^
 ||tapinfluence.com^
@@ -68931,6 +68984,7 @@
 ||uaadi.com^
 ||uaaftpsy.com^
 ||uaas.yandex.ru^
+||uabpuwz.com^
 ||uac.khan.co.kr^
 ||uadexchange.com^
 ||uads.cc^
@@ -72526,6 +72580,7 @@
 ||vvmeirihd.feijied.xyz^
 ||vvobtrjtinsd.com^
 ||vvphznw.cn^
+||vvpojbsibm.xyz^
 ||vvrbjtjxmlgcd.xyz^
 ||vvsbwny.cn^
 ||vvsesfeunlu.com^
@@ -73697,6 +73752,7 @@
 ||whittenchorded.com^
 ||whizduly.com^
 ||whizzco.com^
+||whizzerknucks.com^
 ||whjding.cn^
 ||whjepqhsxed.xyz^
 ||whjibbprhng.com^
@@ -76740,6 +76796,7 @@
 ||ykgfcs.xyz^
 ||ykghl.top^
 ||ykkbwdf.cn^
+||ykkhihg.cn^
 ||yklfg.cn^
 ||ykmvnhue.com^
 ||ykotyeo.cn^
@@ -78315,6 +78372,7 @@
 ||zovgdpj.cn^
 ||zowralr.cn^
 ||zoxkljeicxi.com^
+||zoytgckcoxokah.com^
 ||zozolilla.com^
 ||zp0737.com^
 ||zp1999.online^
@@ -79753,7 +79811,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 4runnerforum.com,acuraforums.com,blazerforum.com,buickforum.com,cadillacforum.com,camaroforums.com,cbrforum.com,chryslerforum.com,civicforums.com,corvetteforums.com,fordforum.com,germanautoforums.com,hondaaccordforum.com,hondacivicforum.com,hondaforum.com,hummerforums.com,isuzuforums.com,kawasakiforums.com,landroverforums.com,lexusforum.com,mazdaforum.com,mercuryforum.com,minicooperforums.com,mitsubishiforum.com,montecarloforum.com,mustangboards.com,nissanforum.com,oldsmobileforum.com,pontiactalk.com,saabforums.com,saturnforum.com,truckforums.com,volkswagenforum.com,volvoforums.com##aside > center
 4shared.com##.remove-rekl
 4spaces.org,fuliba.net,fuliba2023.net,fuliba23.net,uliba.net,ypojie.com##.widget_ui_orbui
-4sysops.com,9to5linux.com,app-how-to-use-it.com,arcjav.com,backthetruckup.com,catcountry941.com,cnx-software.com,corvetteblogger.com,dailyveracity.com,droidwin.com,dvdgayporn.com,faqforge.com,fastestvpns.com,fuliba2020.net,fuliba2021.net,fuliba2023.net,gamingonphone.com,gizmochina.com,guides.wp-bullet.com,hardwaretimes.com,hotcelebshome.com,jav.guru,javcrave.com,landiannews.com,laoliublog.cn,macsources.com,mangasy.com,metalsucks.net,mmoculture.com,nasaspaceflight.com,nbagaffer.net,openloading.com,prepperwebsite.com,psdly.com,pussycatxx.com,quickanswer.blog,robloxhackscripts.com,ruyo.net,sashares.co.za,scienceabc.com,taradinhos.com,techdows.com,techiecorner.com,techjuice.pk,thecinemaholic.com,thetaiwantimes.com,thinkcivics.com,tooxclusive.com,torrentfreak.com,trackalerts.com,trendingpoliticsnews.com,uliba.net,vrhotporn.top,winandmac.com,xscholarship.com,zhujiceping.com,zouaw.com##.widget_custom_html
+4sysops.com,9to5linux.com,app-how-to-use-it.com,arcjav.com,backthetruckup.com,catcountry941.com,cnx-software.com,corrosionhour.com,corvetteblogger.com,dailyveracity.com,droidwin.com,dvdgayporn.com,faqforge.com,fastestvpns.com,fuliba2020.net,fuliba2021.net,fuliba2023.net,gamingonphone.com,gizmochina.com,guides.wp-bullet.com,hardwaretimes.com,hotcelebshome.com,jav.guru,javcrave.com,landiannews.com,laoliublog.cn,macsources.com,mangasy.com,metalsucks.net,mmoculture.com,nasaspaceflight.com,nbagaffer.net,openloading.com,prepperwebsite.com,psdly.com,pussycatxx.com,quickanswer.blog,robloxhackscripts.com,ruyo.net,sashares.co.za,scienceabc.com,taradinhos.com,techdows.com,techiecorner.com,techjuice.pk,thecinemaholic.com,thetaiwantimes.com,thinkcivics.com,tooxclusive.com,torrentfreak.com,trackalerts.com,trendingpoliticsnews.com,uliba.net,vrhotporn.top,winaero.com,winandmac.com,xscholarship.com,zhujiceping.com,zouaw.com##.widget_custom_html
 4teachers.org###banner-wrapper
 4thsight.xyz,aceofhacking.com,briian.com,buildsometech.com,collegelearners.com,dpfantasy.org,eftm.com,firesticktricks.com,floxblog.com,gfxdrug.com,historicseries.com,hotcelebshome.com,hutporner.com,indiansexbazar.com,jav1080.com,laweekly.com,newtechworld.net,nicekkk.com,pennbookcenter.com,sakurajav.com,sonixgvn.net,streamempire.cc,tecmint.com,tmioe.com,watchseinfeld.com,watchtheoffice.cc,zonegfx.com###custom_html-4
 4tube.com###main-jessy-grid
@@ -83458,6 +83516,7 @@ core77.com##.promo_zone
 cornish-times.co.uk###teads
 cornish-times.co.uk,farnhamherald.com,iomtoday.co.im##.ggzoWi
 corona.help##.adlg
+corrosionhour.com##.corro-widget
 corrosionpedia.com,firstnationsvoice.com,pistonheads.com###leaderBoard
 corvetteblogger.com#?#aside.td_block_template_1.widget.widget_text:-abp-has(> h4.block-title > span:-abp-contains(Visit Our Sponsors))
 corvetteblogger.com#?#aside.td_block_template_1.widget.widget_text:-abp-has(>h4.block-title>span:-abp-contains(Visit Our Sponsors))
@@ -128916,6 +128975,7 @@ zle.com$script
 ##a[href^="https://playnano.online/offerwalls/?ref="]
 ##a[href^="https://porngames.adult/?SID="]
 ##a[href^="https://porntubemate.com/"]
+##a[href^="https://postback1win.com/"]
 ##a[href^="https://prf.hn/click/"][href*="/adref:"] > img
 ##a[href^="https://prf.hn/click/"][href*="/camref:"] > img
 ##a[href^="https://prf.hn/click/"][href*="/creativeref:"] > img
