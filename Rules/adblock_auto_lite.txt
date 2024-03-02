@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 8Sg6Hkg3s2zbzdVjtjeIHw
+! Checksum: YodmlR+rwwURFRD6D/A/jQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240302091307
+! Version: 20240302162043
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-02 09:13:07
-! Total Count: 25643
+! Last modified: 2024-03-02 16:20:43
+! Total Count: 25649
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1117,6 +1117,7 @@
 ||8s8s.com/data/banner/
 ||8seaa.com/template/assets1/js/vue.js
 ||8suis.top^
+||8t9he.cyou^
 ||8xia.com/otherhtml/
 ||8xtm6i.cn^
 ||8ziyuan.com/images/infolinksad.jpg
@@ -6082,6 +6083,7 @@
 ||egadfe.xyz^
 ||egipsbvlgn.xyz^
 ||eglizqf.cn^
+||egywbps748.shop^
 ||ehaie.top^
 ||eheb8.cn^
 ||eheuye.xyz^
@@ -8193,6 +8195,7 @@
 ||iupian.com/mstyle/js/topinfo.js
 ||iuu3j.xyz^
 ||iuvssgh.cn^
+||ivbgpax.cn^
 ||ivy.pconline.com.cn^
 ||iwanad.baidu.com^
 ||iwandlo.top^
@@ -10088,6 +10091,7 @@
 ||mtrcss.com^
 ||mtu.hlkcowp.cn^
 ||mtur.xkmnbt.xyz^
+||mtwmuy.xyz^
 ||mtwwzqdx.xyz^
 ||mu6m1.com^
 ||muddledmemory.com^$third-party
@@ -11849,6 +11853,7 @@
 ||rixgpx.xyz^
 ||rixqlvd.cn^
 ||rizgtf.xyz^
+||rjhbjv.xyz^
 ||rjlfolk.xyz^
 ||rjsos.com/channel/laomo_dibu.png
 ||rjwljrf.xyz^
@@ -15020,6 +15025,7 @@
 ||yjyc-ask.com/res/ads/
 ||ykad-data.youku.com^
 ||ykgfcs.xyz^
+||ykkhihg.cn^
 ||yklfg.cn^
 ||yktj.yzz.cn^
 ||ykujch.icu^
