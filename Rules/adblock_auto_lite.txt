@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: EbsAfzyD5MPJxYEM+uvyEw
+! Checksum: bYDCuwnsF0K+4kDRXJYDYw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240303002141
+! Version: 20240303091851
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-03 00:21:41
-! Total Count: 25649
+! Last modified: 2024-03-03 09:18:51
+! Total Count: 25651
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5420,6 +5420,7 @@
 ||date4sex.pro^$all
 ||dato.porn/*.php?$popup
 ||datoporn.com^$popup
+||dawdlealmonry.com^
 ||daweijita.com/201*430.
 ||daweijita.com/201*ad.
 ||daweijita.com/2014/08/ad_head
@@ -6084,6 +6085,7 @@
 ||egipsbvlgn.xyz^
 ||eglizqf.cn^
 ||egywbps748.shop^
+||egywbpu286.shop^
 ||ehaie.top^
 ||eheb8.cn^
 ||eheuye.xyz^
