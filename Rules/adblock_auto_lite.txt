@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: bYDCuwnsF0K+4kDRXJYDYw
+! Checksum: LiypnfNuMWnFnPiIH2FcrQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240303091851
+! Version: 20240303162357
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-03 09:18:51
-! Total Count: 25651
+! Last modified: 2024-03-03 16:23:57
+! Total Count: 25662
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -72,6 +72,7 @@
 ||08088.top^
 ||0885.net^$third-party
 ||08u6q.com^
+||0940088.com^
 ||0941.org^
 ||0a2b3c4d5e.com^
 ||0efghij.com^
@@ -1012,6 +1013,7 @@
 ||7scs.com/Public/img/list-
 ||7t56.com^
 ||7vnkf.online^
+||7vviw.cyou^
 ||7x7n.com/static/image/888.jpg
 ||7x7n.com/static/pic/*.jpg
 ||7xdown.com/bz/
@@ -3571,6 +3573,7 @@
 ||arhnuin.xyz^
 ||ark.le.com/s?vid=
 ||ark.letv.com/s?
+||arnhhwo.xyz^
 ||arpg2.com^
 ||arqvm.cn^
 ||arrearsexplicit.com^
@@ -5123,6 +5126,7 @@
 ||cos.ap-*.myqcloud.com^$third-party
 ||cosmosjackson.com^$third-party
 ||cosplayporntube.com/creatives/
+||costarg.com^
 ||count.xxxssk.com^$third-party
 ||courtoyz.com^
 ||cowscrayon.com^$third-party
@@ -5584,6 +5588,7 @@
 ||dieka888.com/app_ad/
 ||diekd.xyz^
 ||differentcoat.com^$third-party
+||difmnd.xyz^
 ||dig.chouti.com/advert
 ||diggtp001.com^
 ||digitaloceanspaces.com^*-Banner
@@ -7050,6 +7055,7 @@
 ||gsjdzx.com^$third-party
 ||gslejoki.xyz^
 ||gstatic.com/shopping?q=tbn$image,domain=rocketnews24.com|youpouch.com|soranews24.com
+||gsuxyg.xyz^
 ||gszetzdm.xyz^
 ||gt.duowan.com^
 ||gt.yy.com^
@@ -7300,6 +7306,7 @@
 ||hcgbhq.com^
 ||hchuviq.cn^
 ||hciea.xyz^
+||hciwyv.icu^
 ||hcqumrjbx.xyz^
 ||hdaidj.cn^
 ||hdapp1003-a.akamaihd.net^
@@ -7928,6 +7935,7 @@
 ||imedown.info^*.gif
 ||imeee.cn/DA_HTML/*.js
 ||imeee.cn/DA_HTML/bottom_960x90.html
+||imevzbn.cn^
 ||img*.365rich.cn/image/$image
 ||img*.bet007.com/image/*.gif
 ||img*.win007.com/image/*.gif
@@ -9173,6 +9181,7 @@
 ||lenovo.com.cn/lenovo/bid?clientType=
 ||lensdump.com/i/*.gif
 ||lensdump.com/i/*.gif$badfilter
+||lenvvb.xyz^
 ||leopold37.xyz^
 ||lesenjiaoyu.xyz^
 ||lestv1.icu^
@@ -10087,6 +10096,7 @@
 ||mtburn.com^
 ||mtburn.jp^
 ||mtgglobals.com^
+||mthhhuq.cn^
 ||mtienlx.top^
 ||mtime.cn/tg/
 ||mtnwxhjv.xyz^
@@ -12501,6 +12511,7 @@
 ||smachnakittchen.com^
 ||smaclick.com^
 ||smaero.jp/advimg/
+||smallfo.com^
 ||smart-flash.jp/wp-content/themes/original/embed/FoneH
 ||smart-flash.jp/yahoo_ad.html
 ||smart.sunporno.com^
