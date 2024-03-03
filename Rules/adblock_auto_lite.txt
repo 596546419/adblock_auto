@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: LiypnfNuMWnFnPiIH2FcrQ
+! Checksum: 0zc622zhOqwseufEUV00Xg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240303162357
+! Version: 20240304002125
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-03 16:23:57
-! Total Count: 25662
+! Last modified: 2024-03-04 00:21:25
+! Total Count: 25665
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5062,6 +5062,7 @@
 ||cntv.cn/hezuo/
 ||cntvboxnow.com//ads_
 ||cnucpaq.xyz^
+||cnvmhzt.cn^
 ||cnwnews.com/ad-nrtop/
 ||cnwnews.com/gg
 ||cnwnews.com/images/kgt
@@ -8812,6 +8813,7 @@
 ||kfc.com.cn^$popup,domain=iqiyi.com
 ||kfckcu.xyz^
 ||kfctds59.shop^
+||kfdrc.cyou^
 ||kfjpren.xyz^
 ||kflybplr.xyz^
 ||kfocoq.xyz^
@@ -11857,6 +11859,7 @@
 ||riju.com/pr/$domain=jpfans.com|jpseek.com
 ||rilwzsit.icu^
 ||riqmqrd.icu^
+||riscil.com^
 ||rising.cn/js/haoAdData.js
 ||rising.cn/rxbox/
 ||rising.cn^*/pic-ad/
