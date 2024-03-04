@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 0zc622zhOqwseufEUV00Xg
+! Checksum: j8sIHSrQ68TIqMjJgy63sQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240304002125
+! Version: 20240304091550
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-04 00:21:25
-! Total Count: 25665
+! Last modified: 2024-03-04 09:15:50
+! Total Count: 25670
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9351,6 +9351,7 @@
 ||lmrhhn.xyz^
 ||lmtnfl.xyz^
 ||lmx7.com^
+||lmxiqf.icu^
 ||ln.tian-ting.ink^
 ||ln0.com.cn^
 ||lnaevr.fun^
@@ -12208,6 +12209,7 @@
 ||sesefu8.com/index.php?m=poster&
 ||sesefu8.com/statics/js/layer/layer.js
 ||seseporn.com/photo/*.gif
+||seslco.xyz^
 ||sessionm.com^
 ||setn.com/js/advertisement?
 ||setoniale.com^
@@ -13015,6 +13017,7 @@
 ||tbcdn.cn/mm/tanxssp-custom/sina_
 ||tbcgumkadc.xyz^
 ||tbdwtn.xyz^
+||tbpwrj.xyz^
 ||tc.dqpumx.com^
 ||tc8ji.website^
 ||tc911.vip^
@@ -13223,6 +13226,7 @@
 ||tlanyan.pp.ua/wp-content/uploads/meomiao.png
 ||tlbjw.com^
 ||tlfurd.xyz^
+||tlfvj.cyou^
 ||tlhlpcb.xyz^
 ||tlprlf.xyz^
 ||tltmjevd.xyz^
@@ -14406,6 +14410,7 @@
 ||wwandle.top^
 ||wwgqqq.com^
 ||wwhsxwow.xyz^
+||wwjtdjj.cn^
 ||wwqfqq.com^
 ||www-dnwx-com.anquanbao.cn/pic
 ||www.adbert.com.tw^

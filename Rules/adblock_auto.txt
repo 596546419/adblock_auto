@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 24qAUM3EM8rL+0MuH97mGg
+! Checksum: yUklasQRaji44LuGerjf+g
 ! Title: 混合规则(自动更新)
-! Version: 20240304002115
+! Version: 20240304091540
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-04 00:21:15
-! Total Count: 132515
+! Last modified: 2024-03-04 09:15:40
+! Total Count: 132543
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -12517,6 +12517,7 @@
 ||bilkersdtente.uno^
 ||bill777.xyz^
 ||billersdunamis.com^
+||billiardsnotealertness.com^
 ||billionpops.com^
 ||billionstarads.com^
 ||billservingineffective.com^
@@ -14382,6 +14383,7 @@
 ||byvpezdzmpureo.com^
 ||byvtkhdxfjw.com^
 ||bywntfg.com^
+||bywordmiddleagedpowder.com^
 ||byxcbixzvjclxz.com^
 ||byxsmjqvjvmhxpy.xyz^
 ||byxxxporn.com/300x250.html
@@ -21185,6 +21187,7 @@
 ||dividedscientific.com^
 ||divideoutdoors.com^
 ||divolution.com^
+||divorcebelievable.com^
 ||divorceseed.com^
 ||divotsleucyl.space^
 ||divscripty.net^
@@ -24519,6 +24522,7 @@
 ||eveenaiftoa.com^
 ||evemasoil.com^
 ||evencontinuallyclaim.com^
+||eveneraw.digital^
 ||evenghiougher.com^
 ||eveningproclamationarched.com^
 ||eveningsfleawhatsoever.com^
@@ -27234,6 +27238,7 @@
 ||fruitfulpot.com^
 ||fruitkings.com^
 ||fruitnotability.com^
+||frulednulx.com^
 ||frustrationfungus.com^
 ||frutrun.com^
 ||frvfrv.com^
@@ -30557,6 +30562,7 @@
 ||hadmvmqe.com^
 ||hadsans.com^
 ||hadsanz.com^
+||hadseaside.com^
 ||hadsecz.com^
 ||hadsimz.com^
 ||hadskiz.com^
@@ -31483,6 +31489,7 @@
 ||hfjk3wa.com^
 ||hfjoksuriyy.com^
 ||hfjsbf.xyz^
+||hfjvuxuwasf.com^
 ||hfk128dfs-dsfbheuoys.xyz^
 ||hfk7j.top^
 ||hflssy.com^
@@ -34764,6 +34771,7 @@
 ||intergid.ru^
 ||intergient.com^
 ||interhits.de^
+||interimmemory.com^
 ||intermarkets.net^
 ||intermediarymarkswe.com^
 ||intermediaworks.com^
@@ -36558,6 +36566,7 @@
 ||joaglouwulin.com^
 ||joannalaura.com^
 ||joaphoad.com^
+||joaqaylueycfqw.xyz^
 ||joasoagly.com^
 ||joastaca.com^
 ||joastoom.xyz^
@@ -36729,6 +36738,7 @@
 ||jpqed.xyz^
 ||jpqgxy.com^
 ||jpshopes.com^
+||jpsthqhvxynfdx.com^
 ||jpush.cn^
 ||jpush0b.xyz^
 ||jpvrbt.xyz^
@@ -38447,6 +38457,7 @@
 ||koolearn.com/v2/js/wxewm.js
 ||koolearn.com/www/subject/script/subject_form.js
 ||koolearn.com/zt/poster_js/$domain=~www.koolearn.com
+||koophaip.net^
 ||koopheen.com^
 ||koosaipiph.com^
 ||kootzjkz.com^
@@ -39356,6 +39367,7 @@
 ||layerloop.com^
 ||layermutual.com^
 ||layerpearls.com^
+||layoutsdaydawn.top^
 ||layuicdn.com/layer/layer.js$domain=hanjutvn.com
 ||layzvgxgodnv.com^
 ||lazada-sale.gq^
@@ -40621,6 +40633,7 @@
 ||lmvkxaadihu.com^
 ||lmvrjajerrbwv.top^
 ||lmx7.com^
+||lmxiqf.icu^
 ||lmxzlb.xyz^
 ||lmysqwll.com^
 ||ln.tian-ting.ink^
@@ -43772,6 +43785,7 @@
 ||minmin.buzz^
 ||minor-api-os.hoyoverse.com^
 ||minotaur107.com^
+||minsaith.xyz^
 ||minsistereron.xyz^
 ||mintclick.xyz^
 ||mintegral.com^
@@ -50889,6 +50903,7 @@
 ||pertyvaluationia.monster^
 ||peruseinvitation.com^
 ||perversecozy.com^
+||perverseunsuccessful.com^
 ||pervertmine.com^
 ||pervialinagile.com^
 ||perviv.com^
@@ -51030,6 +51045,7 @@
 ||phaiksul.net^
 ||phaimseksa.com^
 ||phaipaun.net^
+||phaiseen.com^
 ||phaisoaz.com^
 ||phaithoo.xyz^
 ||phaivais.net^
@@ -56125,6 +56141,7 @@
 ||regardianpleast.site^
 ||regardingpectoralcollapse.com^
 ||regardlydiaoddly.com^
+||regardsperformedgreens.com^
 ||regath.com^
 ||regaveskeo.com^
 ||reggierander.com^
@@ -59238,6 +59255,7 @@
 ||sesefu8.com/index.php?m=poster&
 ||sesefu8.com/statics/js/layer/layer.js
 ||seseporn.com/photo/*.gif
+||seslco.xyz^
 ||sesoionsglear.xyz^
 ||session.timecommerce.net^
 ||sessionamateur.com^
@@ -59637,6 +59655,7 @@
 ||shcylxl.com^
 ||she-want-fuck.com^
 ||shealapish.com^
+||sheardirectly.com^
 ||shearobserve.com^
 ||sheduparton.website^
 ||sheecmee.xyz^
@@ -60293,6 +60312,7 @@
 ||showcoopdc.xyz^
 ||showcoorcb.xyz^
 ||showcrack.com^
+||showdoyoukno.info^
 ||showedprovisional.com^
 ||showerymartial.com^
 ||showguide.cn/templets/*/qqcenter.js
@@ -64007,6 +64027,7 @@
 ||swvhwyaavewko.com^
 ||swwpush.com^
 ||swxun.com^
+||swzgvmlvt.com^
 ||swzydgm.com^
 ||sx.fakjkwp.cn^
 ||sxakca.xyz^
@@ -64825,6 +64846,7 @@
 ||tatyboy.top^
 ||taughtwandamazingly.com^
 ||taumeln.com^
+||tauphaub.net^
 ||taurinkimonos.uno^
 ||taurse.com^
 ||tautcare.pro^
@@ -64870,6 +64892,7 @@
 ||tbmwkwbdcryfhb.xyz^
 ||tbpot.com^
 ||tbppfktchj.com^
+||tbpwrj.xyz^
 ||tbradshedm.org^
 ||tbs1.xyz^
 ||tbsjkaorxwuchyb.com^
@@ -66350,6 +66373,7 @@
 ||tle.ru^
 ||tleboywhowa.com^
 ||tlfurd.xyz^
+||tlfvj.cyou^
 ||tlhlpcb.xyz^
 ||tlivgsvwkaysva.xyz^
 ||tllfouwvkqza.com^
@@ -66903,6 +66927,7 @@
 ||tpc.googlesyndication.com^
 ||tpc.googlesyndication.com^$image,redirect-rule=1x1.gif
 ||tpcenzbgtybq.com^
+||tpciqzm.com^
 ||tpcrfdnq.com^
 ||tpcserve.com^
 ||tpdads.com^
@@ -71148,6 +71173,7 @@
 ||vgxhvt.xyz^
 ||vh5g.top^
 ||vhcmc2.xyz^
+||vhdbohe.com^
 ||vheoggjiqaz.com^
 ||vhgunzr.cn^
 ||vhhxnb.xyz^
@@ -74864,6 +74890,7 @@
 ||wwhnjrg.com^
 ||wwhsxwow.xyz^
 ||wwija.com^
+||wwjtdjj.cn^
 ||wwkedpbh4lwdmq16okwhiteiim9nwpds2.com^
 ||wwm24.de^
 ||wwnyubs.cn^
@@ -124745,6 +124772,7 @@ zle.com$script
 ##.mh-advert
 ##.mid-ads
 ##.mid-article-banner-ad
+##.mid-outbrain
 ##.midAdvert
 ##.middleAdWrapper
 ##.min-height-ad
