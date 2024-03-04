@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: yUklasQRaji44LuGerjf+g
+! Checksum: T8yYBe/HkhGGalcrj746OQ
 ! Title: 混合规则(自动更新)
-! Version: 20240304091540
+! Version: 20240304181152
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-04 09:15:40
-! Total Count: 132543
+! Last modified: 2024-03-04 18:11:52
+! Total Count: 132559
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -14411,6 +14411,7 @@
 ||bzthxv.xyz^
 ||bzuyxqrmndod.com^
 ||bzvhgbr.xyz^
+||bzwo2lmwioxa.com^
 ||bzxcygmykxymcj.com^
 ||bzxvtj.xyz^
 ||bzyunduan.cn^
@@ -18154,6 +18155,7 @@
 ||count24.de^
 ||countar.de^
 ||countby.com^
+||countdownwildestmargarine.com^
 ||counter*-yadro*-ru.unblocked.lol^
 ||counter*.freecounter.ovh^
 ||counter*.stat.ovh^
@@ -19947,6 +19949,7 @@
 ||dcybyvmtwgnp.com^
 ||dczqjfo.cn^
 ||dd-lightingshow.com^
+||dd0122893e.com^
 ||dd1.diymianmo.com^
 ||dd112233dd.com^
 ||dd6364.com/js/777/
@@ -22052,6 +22055,7 @@
 ||dryerpreliminarymainly.com^
 ||dryerslegatos.com^
 ||dryinfestinsight.com^
+||dryingaefauld.com^
 ||drylotsimbil.website^
 ||drystervernile.life^
 ||drzgtli.com^
@@ -25992,6 +25996,7 @@
 ||fh259by01r25.com^
 ||fhahujwafaf.com^
 ||fhaixh.cn^
+||fhajhezinl.com^
 ||fhcmeiju.com/template/DYXS2/html/1.
 ||fhdd8431.com^
 ||fhddnh.xyz^
@@ -28507,6 +28512,7 @@
 ||gfxa.sheetmusicplus.com^
 ||gfxjjpo.cn^
 ||gfxkxbai.com^
+||gfzbdtwtlw.com^
 ||gg-baidu.xyz^
 ||gg-led.com/uploadFile/uploadCompanyLogo/*.gif
 ||gg.*.com/tonglan/tonglan.js
@@ -36842,6 +36848,7 @@
 ||js.desiporn.tube/*/baker
 ||js.desiporn.tube/wovbrqqij/
 ||js.duotegame.com^
+||js.entm.top^
 ||js.fhxiaoshuo.com^
 ||js.gdsln.ru^
 ||js.gg-baidu.xyz^
@@ -48948,6 +48955,7 @@
 ||op7s.top^
 ||opalaix.cn^
 ||opaleyeacarol.com^
+||opalmetely.com^
 ||opapxq.com^
 ||opatacarnal.top^
 ||opbandit.com^
@@ -64210,6 +64218,7 @@
 ||szmnf.cn^
 ||szmnk.cn^
 ||szmnl.cn^
+||szmnm.cn^
 ||szmns.cn^
 ||szmsao.com^
 ||szmtd.cn^
@@ -68808,6 +68817,7 @@
 ||twwp3.top^
 ||twww.sbs^
 ||twww.sbs^$third-party
+||twwxjqsk.com^
 ||twzadf.xyz^
 ||twzui6.com^
 ||tx-ad.a.yximgs.com^
@@ -69984,6 +69994,7 @@
 ||urgedhearted.com^
 ||urgedsuitcase.com^
 ||urgefranchise.com^
+||urgentprotections.com^
 ||urgigan.info^
 ||urgingcolleen.uno^
 ||urgoldpie.club^
@@ -76035,6 +76046,7 @@
 ||xuclkzjh.com^
 ||xucmzszyyzqe.com^
 ||xucyufv.icu^
+||xudarl.xyz^
 ||xudgjz.xyz^
 ||xue.zbyw.cn^
 ||xueaaai.cn^
@@ -78278,6 +78290,7 @@
 ||zlbvewof.com^
 ||zlclgzs.cn^
 ||zldzbr.xyz^
+||zlebdfhnampju.com^
 ||zlfthh.xyz^
 ||zlgame.top^
 ||zli.wang^
@@ -94140,8 +94153,11 @@ soapcalc.net###SidebarLeft
 soapcalc.net###SidebarRight
 soaphub.com##.sh-sh_belowpost
 soaphub.com##.sh-sh_inpost_1
+soaphub.com##.sh-sh_inpost_2
 soaphub.com##.sh-sh_inpost_3
+soaphub.com##.sh-sh_inpost_4
 soaphub.com##.sh-sh_inpost_text_1
+soaphub.com##.sh-sh_postlist_2_home
 sobaigu.com##a[href^="https://cloud.tencent.com/redirect.php?"][target="_blank"][rel="noopener"] > img
 soccer24.co.zw###soccer24-ad
 soccerbase.com###ball_splash_holder
