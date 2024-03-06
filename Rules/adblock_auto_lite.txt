@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Igk1XcXDqrvwlHLQqM0eJQ
+! Checksum: lhGbLeBPTRcDpC8F36JnrQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240306162430
+! Version: 20240307002420
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-06 16:24:30
-! Total Count: 25697
+! Last modified: 2024-03-07 00:24:20
+! Total Count: 25702
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2485,6 +2485,7 @@
 ||ads.pornutopia.org^
 ||ads.rd.linksynergy.com^
 ||ads.reddit.com^$xmlhttprequest,redirect-rule=noop.txt
+||ads.rmbl.ws^
 ||ads.roku.com^
 ||ads.rubiconproject.com^
 ||ads.samsung.com^
@@ -22483,6 +22484,10 @@ zle.com$script
 ###video-ad
 ###videoADPIC
 ###video_playr_side.video_playr_sider.videoplayerside
+###vodplay-ad-hf2
+###vodplay-ad-hf2-m
+###vodplay-ad-hf3
+###vodplay-ad-hf3-m
 ###vpnModal.nordvpn-popup
 ###widget-quan
 ###windlocation
