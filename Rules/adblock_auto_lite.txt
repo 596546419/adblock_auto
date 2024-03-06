@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: HjU/mig8FUREweuwXwrTGA
+! Checksum: Rwk33d4ZJSwWZUuyV1Av2w
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240306002225
+! Version: 20240306091532
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-06 00:22:25
-! Total Count: 25687
+! Last modified: 2024-03-06 09:15:32
+! Total Count: 25691
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8981,6 +8981,7 @@
 ||ktnwxhjv.xyz^
 ||ktoioo.xyz^
 ||kttoo1.com^$domain=9xav.cc
+||ktvjpmi.xyz^
 ||ktvtxir.xyz^
 ||ktwwzqdx.xyz^
 ||ktzhk.com/file/adv/
@@ -13121,6 +13122,7 @@
 ||tgjdbx.xyz^
 ||tgryfh.xyz^
 ||tgvgzt.xyz^
+||tgwfaz.icu^
 ||thboxp.xyz^
 ||thcaes.top^
 ||thcdy.co/baidu2/foot.js
@@ -14060,6 +14062,7 @@
 ||vsthouse.ru/a-detector/
 ||vswswlz.icu^
 ||vsx.hotpornfile.org^
+||vszzzj.xyz^
 ||vtnmxx.xyz^
 ||vttqld.xyz^
 ||vtvnnl.xyz^
@@ -14727,6 +14730,7 @@
 ||xnmqqq.com^
 ||xnnews.com.cn/adgl/
 ||xnnews.com.cn/tpl/material/
+||xnpuw.cn^
 ||xnrcnz.xyz^
 ||xnxx-cdn.com/*/default.pp.static.js$script
 ||xnxx-cdn.com/*/ppsuma*.js$script
