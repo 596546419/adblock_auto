@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: lhGbLeBPTRcDpC8F36JnrQ
+! Checksum: N7IjftHSOPwXPQM47+6n/A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240307002420
+! Version: 20240307090236
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-07 00:24:20
-! Total Count: 25702
+! Last modified: 2024-03-07 09:02:36
+! Total Count: 25710
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -87,6 +87,7 @@
 ||0mnopqr.com^
 ||0o0.ooo/2017/01/13/58787d42bbad6.jpg
 ||0s6s0.top^
+||0uyt5b.cn^
 ||0yzabcd.com^
 ||1.07swz.com^
 ||1.1010pic.com^
@@ -4260,6 +4261,7 @@
 ||blvnsgr.xyz^
 ||blxfqq.com^
 ||blz105.com/player/ad.html
+||blzbjpg.xyz^
 ||bmatgg18.xyz^
 ||bmiea.xyz^
 ||bmjs.xzw.com^
@@ -4637,6 +4639,7 @@
 ||cavecurtain.com^$third-party
 ||cb.baidu.com^
 ||cb.com.cn/index/ad/
+||cbcvou.xyz^
 ||cbdm.weathercn.com^
 ||cbfw.cn/gonggong/chibi/cf_
 ||cbjs.baidu.com^
@@ -5786,6 +5789,7 @@
 ||downk.cc/item/*.gif
 ||downlinker.*/ad_dl.js
 ||downlinker.*/ads.js
+||downloadshi.b-cdn.net^
 ||downmn.com^$popup,third-party
 ||downmz.com^$popup,third-party
 ||downxia.com/dgjs/download.js
@@ -7190,6 +7194,7 @@
 ||h7h35.space^
 ||ha-api.pushwoosh.com^
 ||ha.liuye.club^
+||ha723.icu^
 ||habitualhumor.com^$third-party
 ||hacde1.icu^
 ||hacde10.icu^
@@ -7605,6 +7610,7 @@
 ||hrbpopp.cn^
 ||hrjg.com.cn^$third-party
 ||hrngmf.com^
+||hrnkdr.xyz^
 ||hrtinqj.cn^
 ||hs.cnfol.com/Cm/Imgs/Load.gif
 ||hs640.com/js/jquery.js
@@ -8329,6 +8335,7 @@
 ||jfanhao.com^
 ||jfiacyg.cn^$document
 ||jfiacyg.cn^$~third-party
+||jflwhf.xyz^
 ||jfnkjr.xyz^
 ||jg1668.com^$third-party
 ||jgblvt.xyz^
@@ -14673,6 +14680,7 @@
 ||xkjmjj.com^
 ||xkjxgt.com^$third-party
 ||xklofoz.cn^
+||xklrsj.icu^
 ||xkmwxwy.cn^
 ||xkrnud.icu^
 ||xkyn.com/imgs/js/al.js
