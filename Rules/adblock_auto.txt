@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Sz6G4TH9hNIaIHvkQ0dHLg
+! Checksum: IekHGH78zoDcyetW0mahDw
 ! Title: 混合规则(自动更新)
-! Version: 20240307090225
+! Version: 20240307161855
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-07 09:02:25
-! Total Count: 133321
+! Last modified: 2024-03-07 16:18:55
+! Total Count: 133326
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -73825,6 +73825,7 @@
 ||wbshu.com^$third-party
 ||wbtrk.net^
 ||wbtsaeadmo.com^
+||wbubgob.cn^
 ||wbubnjqyrmv.com^
 ||wbupbv.com^
 ||wbusiness.fr^
@@ -81191,7 +81192,7 @@ abovethelaw.com##.single-post__sponsored-post--desktop
 abovetopsecret.com,thelibertydaily.com##[href^="https://mypatriotsupply.com/"]
 abpclub.co.uk##img[width="118"]
 absoluteanime.com##.aa_leaderboard
-absolutelyrics.com,cdrlabs.com,exiledonline.com,findtheword.info,gtloli.one,realitywanted.com,revizoronline.com,snapfiles.com###topbanner
+absolutelyrics.com,cdrlabs.com,eonline.com,exiledonline.com,findtheword.info,gtloli.one,realitywanted.com,revizoronline.com,snapfiles.com###topbanner
 abxxx.com,aniporn.com,blackmod.net,missav.com,missav123.com,missav789.com,multiup.eu,orbz.io,pornclassic.tube,redgifs.com,tubepornclassic.com,xanimeporn.com##div[style="width: 300px; height: 250px;"]
 abysscdn.com,hqq.ac,hqq.to,hqq.tv,linris.xyz,megaplay.cc,meucdn.vip,netuplayer.top,ntvid.online,oceanplay.xyz,playertoast.uno,plushd.bio,waaw.to,watchonlinehd123.sbs,wiztube.xyz##a[title="Free money easy"]
 ac-room.cc##.ad.v-card
@@ -84232,6 +84233,7 @@ comicbook.com##.oas
 comicbook.com,popculture.com##.popculture-embed
 comicbook.com,popculture.com##[id^="native-plus-"]
 comicbookmovie.com###adATFLeaderboard
+comicbookmovie.com##.ad > .blur-up
 comicbookrealm.com###brad
 comicbookrealm.com###rad
 comicbookrealm.com###right-rail > .module
@@ -86735,7 +86737,7 @@ gadgetsnow.com##.mercwapper
 gadgetsnow.com##[data-type="mtf"]
 gadgetsnow.com##div[id^="div-u-id-"]
 gadgetsnow.com,iamgujarat.com,indiatimes.com,samayam.com,vijaykarnataka.com##.colombia
-gadgetsnow.com,nationaljeweler.com,pastemagazine.com,theonion.com##.dfp
+gadgetsnow.com,jezebel.com,nationaljeweler.com,pastemagazine.com,theonion.com##.dfp
 galacg.me##.sidebar-top
 galacg.me##a[href*="/game"]
 gamblingnewsmagazine.com##img[width="365"][height="500"]
@@ -89322,6 +89324,9 @@ jeffdornik.com##._2kEVY
 jeffdornik.com##[data-image-info]
 jeffdornik.com##[data-pin-url]
 jetphotos.com##.result--adv
+jezebel.com,pastemagazine.com###above_logo
+jezebel.com,pastemagazine.com###middle_rectangle
+jezebel.com,pastemagazine.com###top_rectangle
 jhhrm.com##img[onerror*="/ad/"]
 jia360.com##.hjadv
 jia360.com##.news_adv:nth-child(3)
@@ -89872,6 +89877,8 @@ kocpc.com.tw#$##header > nav.floated-navbar { top: 0!important; }
 koding.work#?#.sidebar > .widget_text:has(> .textwidget > .adsbygoogle)
 kohls.com###PDP_monetization_HL
 kohls.com###open-drawer
+koimoi.com###inline_ad
+koimoi.com###sidebar1
 kollelbudget.com###text-43
 kollelbudget.com###text-70
 kollelbudget.com###text-78
@@ -92398,9 +92405,6 @@ paste.fo##p[class][style="font-size:16px"]
 pastebin.com##.content > [style^="padding-bottom:"]
 pastebin.com##div[style^="color: #999; font-size: 12px; text-align: center;"]
 pastebin.com,realgfporn.com##.promo-bar
-pastemagazine.com###above_logo
-pastemagazine.com###middle_rectangle
-pastemagazine.com###top_rectangle
 pastemytxt.com##[href^="https://geturl.us/"]
 pastemytxt.com##[src^="https://iili.io/"]
 pastenow.ru###google-block
@@ -96119,6 +96123,7 @@ timesofindia.indiatimes.com###c_wdt_sports_rhs_atf_ad_1
 timesofindia.indiatimes.com##.CeUoi
 timesofindia.indiatimes.com##._3JJMX
 timesofindia.indiatimes.com##.addblock
+timesofindia.indiatimes.com##.d_jsH.mPws3
 timesofindia.indiatimes.com##.mgid_second_mrec_parent
 timesofindia.indiatimes.com##.paisa-wrapper
 timesofindia.indiatimes.com##.relatedVideoWrapper
