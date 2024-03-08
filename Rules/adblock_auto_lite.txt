@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: NP24jKiXt0vUd9YDSauduA
+! Checksum: LG+t/CAT5altwl828ljVtA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240308002250
+! Version: 20240308091511
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-08 00:22:50
-! Total Count: 25715
+! Last modified: 2024-03-08 09:15:11
+! Total Count: 25725
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4379,6 +4379,7 @@
 ||brfgbn.xyz^
 ||brfvyrrp.com^
 ||bridgetnbe.com^
+||brixel.cn^
 ||brokerbabe.com^$third-party
 ||brookssa.com^
 ||brorzpj.cn^
@@ -4445,6 +4446,7 @@
 ||business.92wy.com^
 ||bustyporn.com/*.php?src=$subdocument,third-party
 ||buttn.cyou^
+||buvdkt.icu^
 ||buxfznnf.xyz^
 ||buy.sina.com.tw/js/sina_popup.php
 ||buysellads.com^
@@ -7531,6 +7533,7 @@
 ||hncadh.com^
 ||hnert.okmwfq.xyz^
 ||hnfnjn.xyz^
+||hnifdlau.top^
 ||hnjls.com.cn^
 ||hnkhgw.com^
 ||hnl.ijgocb.cn^
@@ -8093,6 +8096,7 @@
 ||intporn.com/lj.js
 ||investingapp.net/ads_api.php?
 ||investingchannel.com^
+||inworket.com^
 ||iobvmtx.xyz^
 ||iocoder.cn/alert/js/alert.js
 ||ioiksw.cn^
@@ -9134,6 +9138,7 @@
 ||laozuo.org/wp-content/themes/weisaysimple/js/index-top.js
 ||laozuo.org/wp-content/themes/weisaysimple/js/sidebar
 ||larbcc.xyz^
+||lardmoni.com^
 ||latu.cc^
 ||laughablelizards.com^$third-party
 ||launcher-us.yeshen.com/external/advertisement/*
@@ -10521,6 +10526,7 @@
 ||nuubi.cyou^
 ||nuucmzuc.com^
 ||nuyqiolnc.cyou^
+||nvdtdsd.xyz^
 ||nvsheng.com/js/gg.js
 ||nvswnur.cn^
 ||nvwanyyds.com^
@@ -10647,6 +10653,7 @@
 ||omg.house.porn^
 ||omkxes.xyz^
 ||omzxutfm.com^
+||onagsc.xyz^
 ||oncgqzu.cn^
 ||one.fsylr.com^
 ||one.toumppk.cn^
@@ -11948,6 +11955,7 @@
 ||rp5o.top^
 ||rp9p0.xyz^
 ||rpninf.xyz^$third-party
+||rpnufv.xyz^
 ||rppihz.xyz^
 ||rpvdfb.xyz^
 ||rpyor0k.xyz^
@@ -13056,6 +13064,7 @@
 ||tccbanner.com^
 ||tcgaqh.icu^
 ||tchdxl.xyz^
+||tcheeter.com^
 ||tcmap.com.cn/js/b_
 ||tctltb.com^
 ||tcuqqhj.icu^
@@ -13066,6 +13075,7 @@
 ||tdhlmto.cn^
 ||tdjdpyrt.xyz^
 ||tdljuuw.xyz^
+||tdlyfz.xyz^
 ||tdsahkln.xyz^
 ||tduenkq839.shop^
 ||teachscape.vo.llnwd.net^
