@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Fx6GfEpdIRldNr4QA7iCuw
+! Checksum: Ff+lSynnWJBmcjcl5OJXcA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240309002112
+! Version: 20240309091226
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-09 00:21:12
-! Total Count: 25729
+! Last modified: 2024-03-09 09:12:26
+! Total Count: 25738
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3739,6 +3739,7 @@
 ||azureedge.net/wp-content/cache/minify/3c6d7.js
 ||azureedge.net/wp-content/cache/minify/d2299.js
 ||azureedge.net/wp-content/uploads/*-AD0
+||azyuuk.xyz^
 ||b.kouke5.com^
 ||b.sexvids.cc^
 ||b.sonorousporn.com^
@@ -6160,6 +6161,7 @@
 ||enahmy.xyz^
 ||enchantingenchantment.com^$third-party
 ||endio.xyz^
+||endolift.cn^
 ||enennsa.gushiwen.cn^
 ||enews10.yxlady.net^
 ||enhad.xyz^
@@ -6416,6 +6418,7 @@
 ||feiln.xyz^
 ||feiln.xyz^$third-party
 ||feizl.com/images/smdd/
+||fekpcd.icu^
 ||fenem.top^
 ||fengyukun03.cn^
 ||fenxi.com^$third-party
@@ -6557,6 +6560,7 @@
 ||fpbsnc.com/Runtime/js/psData.js
 ||fpdisplay.com/templates/default/js/palyflash_
 ||fpdisplay.com/upload/n_ad/
+||fpjjjh.xyz^
 ||fpo.xxx/contents/other/player/porngame*.mp4
 ||fptdxkm.com^
 ||fq67.top^
@@ -6595,6 +6599,8 @@
 ||frontendjs.com/api/ad
 ||frrhdl.xyz^
 ||frsejhged.xyz^
+||frtnqps358.shop^
+||frtnqpw837.shop^
 ||frxcdn.xyz^
 ||fsclzs.com/Ad_User/
 ||fsgiosi.com^
@@ -8066,6 +8072,7 @@
 ||ingamesads.gameloft.com^
 ||inhe.*/Uploadfiles/adpublish
 ||inhe.net/Uploadfiles/inhegg2016/
+||inifdlao.top^
 ||inlishui.com/index.php?m=poster&
 ||inmcd.xyz^
 ||inmobi.cn^
@@ -12053,6 +12060,7 @@
 ||rzfdbsn.cn^
 ||rzflhxn.cn^
 ||rznscya.cn^
+||rzpvbl.xyz^
 ||s-adx.op-mobile.opera.com^
 ||s-msn.com/portal/xiatui.js
 ||s.*.com/pp.php?uid=$third-party
@@ -15555,6 +15563,7 @@
 ||zmklhev.cn^
 ||zn46.com/images/*0x
 ||zndvfrl.xyz^
+||znhlxvb.xyz^
 ||znllfp.xyz^
 ||znnodl.xyz^
 ||znrtfj.xyz^
