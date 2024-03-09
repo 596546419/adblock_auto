@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: /wlkhA6DygwxJLj7AQlmdg
+! Checksum: FFa0mHSKitkvrkVhJbP3CQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240309162209
+! Version: 20240310002314
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-09 16:22:09
-! Total Count: 25738
+! Last modified: 2024-03-10 00:23:14
+! Total Count: 25741
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -88,6 +88,7 @@
 ||0o0.ooo/2017/01/13/58787d42bbad6.jpg
 ||0s6s0.top^
 ||0uyt5b.cn^
+||0v1syj.cn^
 ||0yzabcd.com^
 ||1.07swz.com^
 ||1.1010pic.com^
@@ -1073,6 +1074,7 @@
 ||8881img.com^
 ||8886i.top^
 ||888bb111ww.com^
+||888bb555ww.com^
 ||888bb666cc.com^
 ||888cool.cn^
 ||888dizhi.com/888/
@@ -10194,6 +10196,7 @@
 ||mwzbp.iask.com.cn^
 ||mx6.3pornhere.com^
 ||mxaserver.mxplay.com^
+||mxeq.cn^
 ||mxknqq.com^
 ||mxvp-ad-config-prod-1.zenmxapps.com^
 ||mxvp-feature-toggle-prod-1.zenmxapps.com^
