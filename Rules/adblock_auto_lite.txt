@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: jVVOWFl0XSjiM66r7I6LRQ
+! Checksum: 8xuv72EMwyMxDKHWbKxMzg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240310091946
+! Version: 20240310162257
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-10 09:19:46
-! Total Count: 25747
+! Last modified: 2024-03-10 16:22:57
+! Total Count: 25753
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -952,6 +952,7 @@
 ||6v6.work^$third-party
 ||6vhao.tv/d/
 ||6yso.com/wp-content/uploads/*-300-x-
+||6zfem.icu^
 ||70.86.24.120:8060/
 ||7011.stia.cn^
 ||7067.top^
@@ -5505,6 +5506,7 @@
 ||dehaer.site^
 ||dehua.ixinfan.com^
 ||dektcvna.icu^
+||delhirs.com^
 ||delicateducks.com^$third-party
 ||deliver.ifeng.com^
 ||deliver.ptgncdn.com^
@@ -8520,6 +8522,7 @@
 ||jothvz.xyz^
 ||joysporn.com/js/pj.js
 ||joysporn.sex/js/kj.js
+||jozbun.icu^
 ||jp.twww.sbs^
 ||jp1357.com/addon/
 ||jp2468.com/addon/
@@ -9233,6 +9236,7 @@
 ||letitbit-porno.com^$popup,domain=fastpik.net
 ||letv.com/pzt/hyhmzq/index.shtml
 ||lewhrzv.xyz^
+||lewiooz.cn^
 ||lewqiiy.xyz^
 ||lexs9.com^$domain=9xav.cc
 ||lezhutv.com/static/jquerys.js
@@ -10502,6 +10506,7 @@
 ||novipnoad.com/theme/js/helper.
 ||novipnoad.net/theme/js/sponsor/
 ||novostimira.biz^
+||nowhern.com^
 ||nownews.com/assets/js/setAds.js
 ||noxagile.duapp.com^
 ||npdkdb.xyz^
@@ -10600,6 +10605,7 @@
 ||ob.leap.app^
 ||obdjzhq.xyz^
 ||obmenvsem.org/static/images/*banners*450x75.png
+||obturex.com^
 ||obzthda.xyz^
 ||ocdn.eu/ramp/*/Sponsoring-Mobile-Float-Universal/*.js
 ||oce.nexithrom.com^$third-party
