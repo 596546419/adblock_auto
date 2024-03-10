@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: FFa0mHSKitkvrkVhJbP3CQ
+! Checksum: jVVOWFl0XSjiM66r7I6LRQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240310002314
+! Version: 20240310091946
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-10 00:23:14
-! Total Count: 25741
+! Last modified: 2024-03-10 09:19:46
+! Total Count: 25747
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6456,6 +6456,7 @@
 ||fherunm.cn^
 ||fhglcpf.icu^
 ||fhvbhx.xyz^
+||fidelius.cn^
 ||fifqjp.xyz^
 ||fijipic.xyz^
 ||fiksu.com^
@@ -8499,6 +8500,7 @@
 ||jn060.xyz^
 ||jndxsuy.xyz^
 ||jnhgm.com^
+||jnifdlaa.top^
 ||jnkmhn.com^
 ||jnlc.com/www/fund/newsmarket
 ||jnmaeun.xyz^
@@ -9237,6 +9239,7 @@
 ||leztc.com^
 ||lf9-static.bytednsdoc.com/obj/tos-cn-i-0813
 ||lfffzv.xyz^
+||lfhdryz.xyz^
 ||lfhnzbj.xyz^
 ||lfjtiuy.cn^
 ||lfzk2cp.icu^
@@ -11795,6 +11798,7 @@
 ||rayss.host^
 ||razrzh.xyz^
 ||rbbbdj.xyz^
+||rbhunp.xyz^
 ||rbodwtj.icu^
 ||rbrbr88p.cn^
 ||rbrv9.cn^
@@ -13722,6 +13726,7 @@
 ||ultraadserver.com^
 ||ultraimg.com^$domain=18board.com|18p2p.com
 ||ulukaris.com^$third-party
+||ulwfys.xyz^
 ||um5xcgngmart.xyz^
 ||um9.top^
 ||umbel.com^
@@ -15534,6 +15539,7 @@
 ||zjjlhvo.xyz^
 ||zjliloveyou.ixiunv.com^
 ||zjqs.shop^
+||zjrtxt.xyz^
 ||zjst.net/3.gif
 ||zjthzf.xyz^
 ||zjtu.tv/add.
