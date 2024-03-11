@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: jmVhEXT+KYV8ixicMbTttQ
+! Checksum: UzKAQHc9y7BFjmguYe44Gg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240311002213
+! Version: 20240311091610
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-11 00:22:13
-! Total Count: 25754
+! Last modified: 2024-03-11 09:16:10
+! Total Count: 25763
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5131,6 +5131,7 @@
 ||connectreadoasis.com^
 ||conqueredallrightswell.com^$document
 ||conqueredallrightswell.com^$~third-party
+||content-settings.com^$third-party
 ||content.zbporn.com^
 ||contextualadv.com^
 ||cool.sunporno.com^
@@ -5293,6 +5294,7 @@
 ||cxdcn9c.fjshxjs.cn^$third-party
 ||cxgfq.pinlue.com^
 ||cxgwsu.xyz^
+||cxlvlbx.xyz^
 ||cxpjrqa.cn^
 ||cxsh.cn.com^
 ||cxy88.friok.com^
@@ -6908,6 +6910,7 @@
 ||gkjmev3.com^
 ||gkktjf.top^
 ||gkswas.xyz^
+||gkutca.xyz^
 ||gkwrae.xyz^
 ||gl.zle.com^
 ||gladglen.com^$third-party
@@ -8940,6 +8943,7 @@
 ||kncrya.xyz^
 ||knfhxszj.xyz^
 ||knhmgn.com^
+||knifdlad.top^
 ||knitstamp.com^$third-party
 ||knjmhmk.com^
 ||knliylh.cn^
@@ -9116,6 +9120,7 @@
 ||labuladong.github.io/algo/pictures/ad/
 ||lacunads.com^
 ||lady177.com^$popup
+||lafirx.xyz^
 ||lagou.com/js/cooperation/
 ||lahoo.ca/api.php?mod=ad&
 ||lahoo.ca/slider
@@ -10527,6 +10532,7 @@
 ||nscxbr.com^$third-party
 ||nsexfxwcvro.xyz^
 ||nshypdry.xyz^
+||nsjnmx.icu^
 ||nswtojdi.icu^
 ||nszort.xyz^
 ||ntdtv.com/assets/themes/ntd/js/article_ads.js
@@ -12532,6 +12538,7 @@
 ||sinst.fwdcdn.com/_uploaded_files/ads/
 ||sisjwol.xyz^
 ||site-bk.oss-cn-shenzhen.aliyuncs.com/img/aliyun/
+||site-config.com^$third-party
 ||sitemaji.com^
 ||sitescout.com^
 ||sitewithg.com^
@@ -14405,6 +14412,7 @@
 ||wofan.net^$third-party
 ||wokao.co/qq/qq.js
 ||woozooo.com/img/*.js
+||wopvmmy.cn^
 ||wordego.com^
 ||worjeklmq.com^
 ||worldcup1.com/imgs/*.gif$domain=avcao.cc
@@ -15640,6 +15648,7 @@
 ||ztaan.top^
 ||ztjal.info/wp-content/plugins/kill-adblock/
 ||ztqdkzn.cn^
+||zttuvj.xyz^
 ||ztxjutz.xyz^
 ||ztyumn.ifeng.com^
 ||zu2.top^
