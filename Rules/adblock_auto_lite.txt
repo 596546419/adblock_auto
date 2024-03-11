@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: iQclHJOjHaEWnDHOV34Shw
+! Checksum: Pz202iCgx1hk1fQRPtAscQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240311162329
+! Version: 20240312002307
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-11 16:23:29
-! Total Count: 25766
+! Last modified: 2024-03-12 00:23:07
+! Total Count: 25769
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5608,6 +5608,7 @@
 ||dianyingim.com/statics/recommend/
 ||diaocaixiaq.cn^
 ||diaoyu123.com/cpro/show.js
+||diccsbhij.com^
 ||dicouksa.com^
 ||dieka888.com/app_ad/
 ||diekd.xyz^
@@ -8686,6 +8687,7 @@
 ||juqingw.com/js/tad
 ||jusha.com^$third-party
 ||justad.mobi^
+||justapp.top^
 ||justasimple.top^
 ||jutwzssh.icu^
 ||juuhe.com^
@@ -23730,6 +23732,7 @@ zle.com$script
 ##a[href*=".las88889999.com:"]
 ##a[href*=".lvdou.life/"][target="_blank"]
 ##a[href*=".mhtimes.cn"]
+##a[href*=".mjjji.com/"]
 ##a[href*=".mmrjmh.com/"]
 ##a[href*=".mp388.com/"]
 ##a[href*=".n7.org.cn"]
