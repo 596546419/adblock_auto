@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: UzKAQHc9y7BFjmguYe44Gg
+! Checksum: iQclHJOjHaEWnDHOV34Shw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240311091610
+! Version: 20240311162329
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-11 09:16:10
-! Total Count: 25763
+! Last modified: 2024-03-11 16:23:29
+! Total Count: 25766
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8318,6 +8318,7 @@
 ||jb.ecar168.cn^
 ||jb51.net/imgby/logo_
 ||jbhhxd.xyz^
+||jbmfldt.cn^
 ||jbtfmis.xyz^
 ||jbzyw.com/Application/M/adv/
 ||jc001.cn/ci/jad/fix.
@@ -11732,6 +11733,7 @@
 ||qvrdlvz.cn^
 ||qvrfddm.cn^
 ||qvxvvjom.com^
+||qw9cu.cyou^
 ||qwandly.top^
 ||qwblog.cn/localfile/20200612230036.gif
 ||qwdbsjnql.com^
@@ -23666,6 +23668,7 @@ zle.com$script
 ##a[href*=".8720018.cc"]
 ##a[href*=".app003.biz"]
 ##a[href*=".app003.cc"]
+##a[href*=".asd245796.com:"]
 ##a[href*=".bd379.vip"]
 ##a[href*=".bet365.gdn"]
 ##a[href*=".biquge"][href*="app"]
