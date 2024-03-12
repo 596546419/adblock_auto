@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Ea04UDQ+x3XskH/v2/Oqig
+! Checksum: tjOjCqffXMbVcT75bwUx9A
 ! Title: 混合规则(自动更新)
-! Version: 20240312162242
+! Version: 20240313002350
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-12 16:22:42
-! Total Count: 134121
+! Last modified: 2024-03-13 00:23:50
+! Total Count: 134128
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8362,6 +8362,7 @@
 ||analytics.prod.mybuddy.ai^
 ||analytics.projectcarmen.com^
 ||analytics.proxer.me^
+||analytics.purelovers.com^
 ||analytics.qoqa.ch^
 ||analytics.qoqa.com^
 ||analytics.qoqa.ninja^
@@ -14780,6 +14781,7 @@
 ||c7d263f5d8.com^
 ||c7ee346412.com^
 ||c8.net.ua^
+||c81.ipanocloud.com^
 ||c83cf15c4f.com^
 ||c86e7c49a2.com^
 ||c8d2c12c98.com^
@@ -14844,6 +14846,7 @@
 ||cadizer.com^
 ||cadke.xyz^
 ||cadlsyndicate.com^
+||cadmus.script.ac^
 ||cadrctlnk.com^
 ||cadreon.com^
 ||cads.scalemonk.com^
@@ -29496,6 +29499,7 @@
 ||globalinteractive.com^
 ||globaloffers.link^
 ||globalsellingads.com^
+||globalservices.conde.digital^
 ||globalshopping.website^
 ||globalso.biz^
 ||globalstars.ru^
@@ -65536,6 +65540,7 @@
 ||t.simply-hentai.com^
 ||t.smartverify.pro^
 ||t.smile.eu^
+||t.spbx.app^
 ||t.sports.ru^
 ||t.spot.im^
 ||t.streetsblog.org^
@@ -97901,6 +97906,7 @@ walterfootball.com###top_S
 walterfootball.com###wf_brow_box
 wan.douyu.com
 wanderlustcrew.com###fpub-popup
+wandhi.com##.table img
 wandhi.com##.table-bordered
 wandhi.com##.unit-100
 wandhi.com##a[style="display: inline-block;position: relative"]
@@ -116144,6 +116150,7 @@ zle.com$script
 ###player_top_ad
 ###playerad
 ###playerads
+###playlistbtn > a[href="/h0312.html"]
 ###plrAd
 ###plus-upsell-adblock
 ###pnAd2
