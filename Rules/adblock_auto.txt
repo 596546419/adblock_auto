@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: tjOjCqffXMbVcT75bwUx9A
+! Checksum: AGfThg0Tc4KcV5d0ywtRKA
 ! Title: 混合规则(自动更新)
-! Version: 20240313002350
+! Version: 20240313091634
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-13 00:23:50
-! Total Count: 134128
+! Last modified: 2024-03-13 09:16:34
+! Total Count: 134160
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -277,6 +277,7 @@
 ||0p7w.cn^
 ||0pyn37dv3m.com^
 ||0r17374.com^
+||0r3tyg.cn^
 ||0redirb.com^
 ||0redird.com^
 ||0redire.com^
@@ -565,6 +566,7 @@
 ||12img.com/ad/
 ||12signup.com^
 ||12ycw.com/js/fc/
+||1300460716.rsc.cdn77.org^
 ||1304807583.rsc.cdn77.org^
 ||1307952151.rsc.cdn77.org^
 ||130gelh8q.de^
@@ -597,6 +599,7 @@
 ||1419560424.rsc.cdn77.org^
 ||141h.com/data/attachment/noblock/cf/
 ||142.0.129.74^
+||1427208974.rsc.cdn77.org^
 ||143.92.60.44^
 ||1437953666.rsc.cdn77.org^
 ||144w6.com^$document
@@ -6694,6 +6697,7 @@
 ||afosseel.net^
 ||afp.ai^
 ||afp.chinanews.com^
+||afpbuzfwyjri.com^
 ||afpjryqtnkctv.com^
 ||afqqnxifhgsaqab.com^
 ||afr4g5.de^
@@ -6952,6 +6956,7 @@
 ||ahstrelgnh.com^
 ||ahtalcruzv.com^
 ||ahtate.ru^
+||ahtfzhs.xyz^
 ||ahthegha.cfd^
 ||ahtj365.com^
 ||ahuac.com^
@@ -10914,6 +10919,7 @@
 ||baggageconservationcaught.com^
 ||baggalaresaid.com^
 ||baggy-fail.pro^
+||baghoorg.xyz^
 ||bagiijdjejjcficbaag.world^
 ||bagjuxtapose.com^
 ||baglaubs.com^
@@ -13311,6 +13317,7 @@
 ||boastemployer.com^
 ||boastfive.com^
 ||boasttrial.com^
+||boastwelfare.com^
 ||boaswooned.com^
 ||boatheeh.com^
 ||boatoamo.com^
@@ -13659,6 +13666,7 @@
 ||boxpr.aiservice.vn^
 ||boxrest.website^
 ||boxtreeteat.com^
+||boxvunkppus.com^
 ||boxwcr.icu^
 ||boycottcandle.com^
 ||boyidianqi.com.cn^
@@ -16810,6 +16818,7 @@
 ||clcknipop.com^
 ||clckpbnce.com^
 ||clcktm.ru^
+||clcktrck.com^
 ||clckysudks.com^
 ||clcmdie.com^
 ||cldlr.com^
@@ -18834,6 +18843,7 @@
 ||creamssicsite.com^
 ||creaperu.com^
 ||creara-media.ru^
+||create.lidstatic.com^
 ||create2fear.com^
 ||createsgummous.com^
 ||creative-bars1.com^
@@ -19641,6 +19651,7 @@
 ||d3nfknbv.icu^
 ||d4.sina.com.cn^$object,script
 ||d41.co^
+||d483501b04.com^
 ||d4b138a7aa.com^
 ||d4c7df9561.com^
 ||d4d48974197052ea.com^
@@ -22477,6 +22488,7 @@
 ||dsmrnsngvnrc.xyz^
 ||dsn-kuban.krasnodar.su^
 ||dsnextgen.com^
+||dsnfeddmxnsfq.com^
 ||dsnkkjmxogwtpju.com^
 ||dsnr-affiliates.com^
 ||dsoizkd.cn^
@@ -23820,6 +23832,7 @@
 ||eiorwithitofstwe.xyz^
 ||eioseklxw.com^
 ||eipsxuknmhigap.com^
+||eiqsky.xyz^
 ||eisafniw.space^
 ||eisys-bcs.jp^
 ||eitb7.top^
@@ -24238,6 +24251,7 @@
 ||enherthertindown.xyz^
 ||enhwy.com^
 ||eniesdzgowy.com^
+||enifdlaw.top^
 ||enisleslonely.com^
 ||enjehdch.xyz^
 ||enjoyedestrangeapplication.com^
@@ -27386,6 +27400,7 @@
 ||fp.czvv.com^
 ||fp.kakaku.com^
 ||fp.nanrenwo.net^
+||fp.techinasia.com^
 ||fpalarezuxj.com^
 ||fpb*.51edu.com^
 ||fpb.sohu.com^
@@ -37245,6 +37260,7 @@
 ||joblouder.com^
 ||jobmkewrymmvb.top^
 ||jobsngeilvxm.com^
+||jobsonationsing.com^
 ||jobsyndicate.com^
 ||jocauzee.net^
 ||jocelynlaura.com^
@@ -39136,6 +39152,7 @@
 ||kontextua.com^
 ||kontrolnaya-rabota.ru^*/fuckadblock.$script
 ||kontrolnaya-rabota.ru^*/toastr.$script,stylesheet
+||konupucy.net^
 ||konverta.ru^
 ||kooappslogs.com^
 ||kooboaphe.com^
@@ -43609,6 +43626,7 @@
 ||mcontigo.com^
 ||mcoreads.com^
 ||mcpdqfnvluhpwt.com^
+||mcppqgaqci.com^
 ||mcppsh.com^
 ||mcprofits.com^
 ||mcpuwpsh.com^
@@ -44187,6 +44205,7 @@
 ||metrics.brightcove.com^
 ||metrics.cbn.com^
 ||metrics.cbslocal.com^
+||metrics.ceneo.pl^
 ||metrics.claspws.tv^
 ||metrics.cnn.com^
 ||metrics.coccoc.com^
@@ -45912,6 +45931,7 @@
 ||muchotrust.com^
 ||mucinyak.com^
 ||mucmoapa.com^
+||mucopussamkhya.com^
 ||mucquanly247.com^
 ||mucvi-dientu247.com^
 ||mucvidientu24-7.com^
@@ -46099,6 +46119,7 @@
 ||mvkjeglvbbfvm.xyz^
 ||mvlkvth.cn^
 ||mvlvxzhxjci.com^
+||mvlyimxovnsw.xyz^
 ||mvng.cn^
 ||mvnmkbixlvb.com^
 ||mvntaalwjvk.com^
@@ -48050,6 +48071,7 @@
 ||nonimoomi.com^
 ||nonkads.com^
 ||nonotro.name^
+||nonremid.com^
 ||nonsensethingresult.com^
 ||nonspewpa.com^
 ||nonstoppartner.de^
@@ -50914,6 +50936,7 @@
 ||pahtwt.tech^
 ||pahtzh.tech^
 ||paibopse.com^
+||paicdn.privateapi.click^
 ||paicepte.xyz^
 ||paichaus.com^
 ||paid-to-promote.net^
@@ -52966,6 +52989,7 @@
 ||pnufzbzzomt.com^
 ||pnuhondppw.com^
 ||pnxs.com^
+||pnxtnp.xyz^
 ||pnxtsauba.com^
 ||pnyjzdtirvufft.com^
 ||pnyllove.com^
@@ -58544,6 +58568,7 @@
 ||rsaltsjt.com^
 ||rsanciz.top^
 ||rsbepv.xyz^
+||rscilx49h.com^
 ||rsde1.top^
 ||rsdkk26.xyz^
 ||rsdop.icu^
@@ -65722,6 +65747,7 @@
 ||taggyad.jp^
 ||taghaugh.com^
 ||tagjunction.com^
+||tagloognain.xyz^
 ||tagm.tchibo.de^
 ||tagmai.xyz^
 ||tagman.britishairways.com^
@@ -67472,6 +67498,7 @@
 ||tiptoptube.com^
 ||tipupgradejack.com^
 ||tiqavcjxjn.com^
+||tiqjubxy.com^
 ||tiqkfjgafckf.com^
 ||tirecolloquialinterest.com^
 ||tiredbishop.com^
@@ -71082,6 +71109,7 @@
 ||unusualwarmingloner.com^
 ||unvenomtoxoids.com^
 ||unvextcentavo.com^
+||unvrlozno.com^
 ||unwartortlean.com^
 ||unwice.com^
 ||unwieldyhealth.com^$third-party
@@ -71952,6 +71980,7 @@
 ||variationsreviewmocking.com^
 ||variedpretenceclasped.com^
 ||variedslimecloset.com^
+||variedsubduedplaice.com^
 ||varietiesassuage.com^
 ||varietiesplea.com^
 ||varietyofdisplayformats.com^
@@ -73337,6 +73366,7 @@
 ||vmm-satellite1.com^
 ||vmmcdn.com^
 ||vmmpxl.com^
+||vmnlkr.icu^
 ||vmonetize.com^
 ||vmr6t.icu^
 ||vmraahnmspzy.com^
@@ -74236,6 +74266,7 @@
 ||wangduoduo.pw^
 ||wangfenxi.com^
 ||wanghu2020.ltd^
+||wangimoqgdi.com^
 ||wangjianxd.site^
 ||wangjing.cn*/upload/com/
 ||wangjing.cn/iframe/zhounian.php?
@@ -130663,6 +130694,7 @@ zle.com$script
 ##a[href^="https://see.kmisln.com/"]
 ##a[href^="https://serve.awmdelivery.com/"]
 ##a[href^="https://slkmis.com/"]
+##a[href^="https://snowdayonline.xyz/"]
 ##a[href^="https://softwa.cfd/"]
 ##a[href^="https://spo-play.live/"]
 ##a[href^="https://spygasm.com/track?"]

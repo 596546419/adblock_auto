@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: l40OCRenHPmbHdJkgwxCYg
+! Checksum: kFs2d4uiNh3f6YTvPBv9BA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240313002401
+! Version: 20240313091644
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-13 00:24:01
-! Total Count: 25780
+! Last modified: 2024-03-13 09:16:44
+! Total Count: 25786
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -86,6 +86,7 @@
 ||0krdn3.com^
 ||0mnopqr.com^
 ||0o0.ooo/2017/01/13/58787d42bbad6.jpg
+||0r3tyg.cn^
 ||0s6s0.top^
 ||0tq6ub.cn^
 ||0uvt8b.cn^
@@ -3162,6 +3163,7 @@
 ||ahmestatic.fuckandcdn.com/ah-me/ahmestatic/mobile/ads/
 ||ahporntube.com^
 ||ahpphkc.xyz^
+||ahtfzhs.xyz^
 ||ahuys.net/Runtime/js/
 ||ahuys.net/sys
 ||ahyyqq.xyz^
@@ -6129,6 +6131,7 @@
 ||eiadf.xyz^
 ||eifyeldw.top^
 ||eignky.xyz^
+||eiqsky.xyz^
 ||eitb7.top^
 ||eiv.baidu.com^
 ||ej65.xyz^
@@ -6175,6 +6178,7 @@
 ||enennsa.gushiwen.cn^
 ||enews10.yxlady.net^
 ||enhad.xyz^
+||enifdlaw.top^
 ||ennde.cyou^
 ||enormousfoot.com^$third-party
 ||enporn.org/system/theme/AnyPorn/js/popcode.min.js
@@ -11107,6 +11111,7 @@
 ||pniao99.com/statics/js/stat.js
 ||pnlhnx.xyz^
 ||pnpy.mmtnat.com^$third-party,script
+||pnxtnp.xyz^
 ||pnzhpb.xyz^
 ||pobrpr.xyz^
 ||pocketfaucet.com^$third-party
@@ -14084,6 +14089,7 @@
 ||vmap.v.ad-generation.jp^
 ||vmbzhfh.cn^
 ||vmdlxj.xyz^
+||vmnlkr.icu^
 ||vmr6t.icu^
 ||vmsolxc.cn^
 ||vmvps.com/aoyohost-com-bann
