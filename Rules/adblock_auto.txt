@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: JaHmJ4WdsmXqrDu795eI3Q
+! Checksum: xzmXstGDBjyFBXXw92Pt1Q
 ! Title: 混合规则(自动更新)
-! Version: 20240314091520
+! Version: 20240314162218
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-14 09:15:20
-! Total Count: 134497
+! Last modified: 2024-03-14 16:22:18
+! Total Count: 134543
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -236,6 +236,7 @@
 ||0ac56fb52b.com^
 ||0aef09749a.com^
 ||0af2a962b0102942d9a7df351b20be55.com^
+||0b0db57b5f.com^
 ||0b19760679.com^
 ||0b73f85f92.com^
 ||0b7741a902.com^
@@ -1263,6 +1264,7 @@
 ||2a1b1657c6.com^
 ||2a2k3aom6.de^
 ||2a4snhmtm.de^
+||2a6d9e5059.com^
 ||2a710318ec.com^
 ||2ad.wtf^
 ||2aefgbf.de^
@@ -1720,6 +1722,7 @@
 ||3fa244b7eb.com^
 ||3fddkj.com^
 ||3file.info^
+||3fwlr7frbb.pro^
 ||3g.cn/baidualading/
 ||3g.cn/index.php?s=Index/adv&
 ||3g.qq.com/lview?
@@ -3092,6 +3095,7 @@
 ||8ec9b7706a.com^
 ||8en.net^$third-party
 ||8f2587daa3.com^
+||8f2b4c98e7.com^
 ||8f72931b99.com^
 ||8fc511071c.com^
 ||8feichai.com^
@@ -3953,6 +3957,7 @@
 ||abopeol.com^
 ||abordy.com^
 ||aboriginalhubby.com^
+||abortingulf.top^
 ||aboucaih.com^
 ||aboung.com^
 ||aboutads.quantcast.com^
@@ -7364,6 +7369,7 @@
 ||alfasense.com^
 ||alfatarget.ru^
 ||alfatraffic.com^
+||alfelixstownrusis.info^
 ||alfonsino.top^
 ||alfpair.com^
 ||alfredpoleshipwreck.com^
@@ -10446,6 +10452,7 @@
 ||avxiytq.cn^
 ||avygpim.com^
 ||avz3.xyz^
+||avzwkkmzkayvj.top^
 ||aw6s.top^
 ||awacspianist.top^
 ||awae-shop.com^
@@ -16745,6 +16752,7 @@
 ||cjohpsc.cn^
 ||cjpczyi.cn^
 ||cjqncwfxrfrwbdd.com^
+||cjrlsw.info^
 ||cjrvsw.info^
 ||cjt3w2kxrv.com^
 ||cjvdfw.com^
@@ -17988,6 +17996,7 @@
 ||complimentingredientnightfall.com^
 ||comporthunder.uno^
 ||compositeoverdo.com^
+||compositeprotector.com^
 ||compositereconnectadmiral.com^
 ||comprehendbighearted.com^
 ||comprehendpaying.com^
@@ -20528,6 +20537,7 @@
 ||deefauph.com^
 ||deeginews.com^
 ||deehalig.net^
+||deejehicha.xyz^
 ||deema.agency^
 ||deemaagency.ir^
 ||deemanetwork.com^
@@ -24418,6 +24428,7 @@
 ||ent1.qunchua.com^
 ||entachbanker.top^
 ||entaildollar.com^
+||entasesfrette.top^
 ||entbymo.cfd^
 ||enteredcocktruthful.com^
 ||enterpriseinclinedvandalism.com^
@@ -26071,6 +26082,7 @@
 ||fatalityplatinumthing.com^
 ||fatalityreel.com^
 ||fatalloved.com^
+||fatbkiwcizk.com^
 ||fatchilli.media^
 ||fatebbc.pro^
 ||fatheemt.com^
@@ -27221,6 +27233,7 @@
 ||foggydefy.com^
 ||foggytube.com^
 ||fogl1onf.com^
+||fognvcteac.com^
 ||fogpurply.website^
 ||fogramokayed.com^
 ||fogsham.com^
@@ -32904,6 +32917,7 @@
 ||honqdyg.cn^
 ||hontont.com^
 ||hoo1luha.com^
+||hoodoesvector.top^
 ||hoodoosdonsky.com^
 ||hoodrunner.kiloo.com/newonlinesettings.php?platform=android
 ||hoodypledget.top^
@@ -39461,6 +39475,7 @@
 ||krnishwktki.com^
 ||krnmayzjvzqve.top^
 ||krolikplatit.ru^
+||kronentriduo.top^
 ||kronosspell.com^
 ||kropka.onet.pl^
 ||krotovroman.ru^
@@ -40358,6 +40373,7 @@
 ||lcmnyfk.cn^
 ||lcmqyl.cn^
 ||lcmqyl.cn^$third-party
+||lcncbusdg.com^
 ||lcrhtauvic.com^
 ||lcs.loginfra.com^
 ||lcs.modoo.at^
@@ -42319,6 +42335,7 @@
 ||lqglqq.com^
 ||lqglqq.com^$third-party
 ||lqjinx.xyz^
+||lqjnjelmmya.com^
 ||lqmohun.com^$third-party
 ||lqmrxmavv.com^
 ||lqmvvsgusod.com^
@@ -49236,6 +49253,7 @@
 ||oeqirr.com^
 ||oestpq.com^
 ||oetkwahrsdvrnn.com^
+||oeufvkymknbie.com^
 ||oeuvresvexable.com^
 ||oevery.com^
 ||oevkkqrar.com^
@@ -52651,6 +52669,7 @@
 ||pirchio.com^
 ||pirist.com^
 ||pirniemagi.com^
+||pirnirok.top^
 ||piroghiusent.com^
 ||pirogidecnet.com^
 ||piroji.com^
@@ -55599,6 +55618,7 @@
 ||qerusgreyt.com^
 ||qetdpyialxousr.com^
 ||qeuckn.icu^
+||qewylqmaqezzj.top^
 ||qezpjlp.cn^
 ||qf1d.top^
 ||qfblqq.com^
@@ -56809,6 +56829,7 @@
 ||rapepush.net^
 ||rapesensual.com^
 ||rapgasyogin.com^
+||raphanyleman.top^
 ||raphanysteers.com^
 ||raphidewakener.com^
 ||rapidads.de^
@@ -58022,6 +58043,7 @@
 ||reyungojas.com^
 ||rezhiv.ru^
 ||reztrack.com^
+||rfaatlrdr.com^
 ||rfdfgourgoldpiec.info^
 ||rfeablduda.com^
 ||rferl.c.goolara.net^
@@ -58438,6 +58460,7 @@
 ||rnzqde.xyz^
 ||roabmyrevngqqk.com^
 ||roachoavi.com^
+||roacourife.com^
 ||roadformedomission.com^
 ||roadmappenal.com^
 ||roadoati.xyz^
@@ -59703,6 +59726,7 @@
 ||satisfactionretirechatterbox.com^
 ||satoripedary.com^
 ||satroki.tech/api/JdUnion
+||sattiewitter.top^
 ||saturatecats.com^
 ||saturatedrake.com^
 ||saturdaymarryspill.com^
@@ -62377,6 +62401,7 @@
 ||slidderpicoid.com^
 ||slidecaffeinecrown.com^
 ||slideff.com^
+||slidekidsstair.com^
 ||slieindy.top^
 ||slietap.com^
 ||slifindy.top^
@@ -63098,6 +63123,7 @@
 ||sorrowconstellation.com^
 ||sorrowfulchemical.com^
 ||sorrowfulclinging.com^
+||sorrowfulcredit.pro^
 ||sorrowfulmaybe.pro^
 ||sorrowfulsuggestion.pro^
 ||sorrowgeneric.com^
@@ -63170,6 +63196,7 @@
 ||souvenirsflex.com^
 ||souvlatraffic.com^
 ||souyou.org^
+||sovereigngoesintended.com^
 ||sovereignidentificationconfirmed.com^
 ||sovism.com^
 ||sovrn.com^
@@ -63462,6 +63489,7 @@
 ||spicaladapto.info^
 ||spicciolo.com^
 ||spicedisobey.com^
+||spicy-combination.pro^
 ||spicy-effect.com^
 ||spicybustard.com^
 ||spicygirlshere.life^
@@ -64953,6 +64981,7 @@
 ||subsor.com^
 ||substantialequilibrium.com^
 ||substantialgrade.com^$third-party
+||substantialhound.com^
 ||subtle-selection.pro^
 ||subtractrefused.com^
 ||suburbincriminatesubdue.com^
@@ -65501,6 +65530,7 @@
 ||swoop.com^
 ||swoopreprehensiblehandled.com^
 ||sworatio.co^
+||swordanatomy.com^
 ||swordbloatgranny.com^
 ||swordcirculation.com^
 ||sworddubiousagitated.com^
@@ -67166,6 +67196,7 @@
 ||thewscozier.uno^
 ||thewulsair.com^
 ||thewymulto.life^
+||theyeiedmadeh.info^
 ||theyenglory.guru^
 ||theyt786ku.cfd^
 ||theythourbonusgain.life^
@@ -67282,6 +67313,7 @@
 ||thoseads.com^
 ||thosecandy.com^
 ||thosemethod.pro^
+||thosemungo.life^
 ||thoth.utyug.media^
 ||thoudroa.net^
 ||thouedslipped.life^
@@ -67645,6 +67677,7 @@
 ||timetablewearmatrix.com^
 ||timetoagree.com^
 ||timi.pro^
+||timidtraumaticterminate.com^
 ||timingbitternessgreasy.com^
 ||timivay.com^
 ||timoggownduj.com^
@@ -68401,6 +68434,7 @@
 ||touchclarity.com^
 ||touchrom.com^$third-party
 ||touchtamilic.com^
+||touchyeccentric.com^
 ||toughdrizzleleftover.com^
 ||tougherrancor.website^
 ||toughtoxacid.com^
@@ -69965,6 +69999,7 @@
 ||tslomhfys.com^
 ||tsmirk.xyz^
 ||tsml.fun^
+||tsmqbyd.com^
 ||tsnignsi.xyz^
 ||tsnoownmi.fun^
 ||tsofhormuz.cfd^
@@ -70414,6 +70449,7 @@
 ||txcmjo.com^
 ||txcv68f.com^
 ||txfhfdd.cn^
+||txgeszx.com^
 ||txgg2022bisheng.com^
 ||txhrnluuyt.com^
 ||txie.club^
@@ -70898,6 +70934,7 @@
 ||uii.io^
 ||uiiepofl.xyz^
 ||uiiwzyv.cn^
+||uilzwzx.com^
 ||uimserv.net^
 ||uingroundhe.com^
 ||uioozpxq.com^
@@ -71915,6 +71952,7 @@
 ||uuoizbtl.xyz^
 ||uuu9.com/photolog.html
 ||uuu9.tieba.com^$subdocument
+||uuudqhialb.com^
 ||uuuxyjh.cn^
 ||uuuzuu.xyz^
 ||uuvtpqi.cn^
@@ -73646,6 +73684,7 @@
 ||vlogexpert.com^
 ||vlogs.deja.media^
 ||vlry5l4j5gbn.com^
+||vltjnmkps.xyz^
 ||vltwoizzckpp.com^
 ||vlujojf.icu^
 ||vluvpdf.cn^
@@ -75149,6 +75188,7 @@
 ||wedgeac.com^
 ||wednesdaygranddadlecture.com^
 ||wednesdaynaked.com^
+||wednesdaywestern.com^
 ||wedonhisdhilte.com^
 ||wedonhisdhiltew.info^
 ||weduoke.com^
@@ -75173,6 +75213,7 @@
 ||weethery.com^
 ||weeuqek.cn^
 ||weewowshrinky.com^
+||wefihob.cn^
 ||wefinexvietnam.xyz^
 ||weftsgeogeny.com^
 ||wegastroky.com^
@@ -77166,6 +77207,7 @@
 ||xhsdwjes.xyz^
 ||xhsrw.xyz^
 ||xhubsxmg.xyz^
+||xhvaqgs.com^
 ||xhwdvwqrfvwnl.com^
 ||xhwwcif.com^
 ||xhxondbtvhboa.com^
@@ -77686,6 +77728,7 @@
 ||xqjqripb.xyz^
 ||xqmyebdrunebsh.xyz^
 ||xqoekp.cn^
+||xqwcryh.com^
 ||xqzwtvjkjj.com^
 ||xqzzl1l.cn^
 ||xr-tds.com^
@@ -78516,6 +78559,7 @@
 ||yike20230306.live^
 ||yikeyz.com/pm.js
 ||yikucdn.com^
+||yilwsirb.com^
 ||yim3eyv5.top^
 ||yimao20230217.live^
 ||yimg.com/*/ads/
@@ -79080,6 +79124,7 @@
 ||ytse*.top/Static/Home/GongGao/img/
 ||yttompthree.com^
 ||yttz113.com^
+||ytuooivmv.xyz^
 ||ytvigqwx.com^
 ||ytvrtrya.xyz^
 ||ytxmseqnehwstg.xyz^
@@ -89663,6 +89708,7 @@ igo.cn,igo99.cn##.adBG
 igorchernomoretz.com##body > div[id^="ab"]
 igorchernomoretz.com##body > div[id^="ab"] + div[style*="cursor"]
 igorslab.de##.herald-sidebar
+igraal.com##[data-ig-ga-cat="Ad"]
 igxe.cn##.lion-flexd
 iheart.com###under-ad-text
 iheartradio.ca##.lightbox-wrapper
