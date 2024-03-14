@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: I2T8PifAY1hSAeLdp65XVw
+! Checksum: CJLDlXi/Y3VoKn1B8yt76A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240314162229
+! Version: 20240315002339
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-14 16:22:29
-! Total Count: 25798
+! Last modified: 2024-03-15 00:23:39
+! Total Count: 25799
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6613,6 +6613,7 @@
 ||friendlyduck.com^
 ||friendshipmale.com^
 ||friendwool.com^$third-party
+||frontend.vh.yandex.ru/player/*&adConfig=$domain=mentoday.ru
 ||frontendjs.com/api/ad
 ||frrhdl.xyz^
 ||frsejhged.xyz^
