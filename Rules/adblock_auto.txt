@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 9b1pP+LkWwYohq+ven5OLQ
+! Checksum: MpEZ+G42SlK2qtT8hK3ccA
 ! Title: 混合规则(自动更新)
-! Version: 20240315091548
+! Version: 20240315162249
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-15 09:15:48
-! Total Count: 134670
+! Last modified: 2024-03-15 16:22:49
+! Total Count: 134672
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -35990,6 +35990,7 @@
 ||irancloudmining.com^
 ||irancoinmine.com^
 ||iranuschsahm.sbs^
+||irayedo.cn^
 ||irbout.com^
 ||irbtwjy.com^
 ||irduwhojas.ga^
@@ -48978,6 +48979,7 @@
 ||o1.jyjyj.cn^
 ||o18.click^
 ||o18.link^
+||o1b04.cyou^
 ||o1qry0qq83.com^
 ||o2c7dks4.de^
 ||o2o.api.xiaomi.com^
