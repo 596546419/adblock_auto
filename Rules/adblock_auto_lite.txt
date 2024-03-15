@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: CJLDlXi/Y3VoKn1B8yt76A
+! Checksum: 4m7IeesXU6eLZky7NH3sRQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240315002339
+! Version: 20240315091558
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-15 00:23:39
-! Total Count: 25799
+! Last modified: 2024-03-15 09:15:58
+! Total Count: 25805
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -86,6 +86,7 @@
 ||0krdn3.com^
 ||0mnopqr.com^
 ||0o0.ooo/2017/01/13/58787d42bbad6.jpg
+||0op8kh.cn^
 ||0r3tyg.cn^
 ||0s6s0.top^
 ||0tq6ub.cn^
@@ -5268,6 +5269,7 @@
 ||ctienlf.top^
 ||ctl.buyt.in^
 ||ctlrarz.xyz^
+||ctmrso.xyz^
 ||ctoyb.cyou^
 ||ctquh0q.xyz^
 ||ctrip.com/Domestic/tool/AjaxGetCPTList.ashx?advpositioncode=
@@ -5414,6 +5416,7 @@
 ||dalmfn.xyz^
 ||damagedroll.com^$third-party
 ||damhixs.cn^
+||damiul.icu^
 ||dandanzan.com/res/*.js
 ||dangdang.com/adall.
 ||danlan.org/KFC/
@@ -5672,6 +5675,7 @@
 ||djmss.cn^$~third-party
 ||djponj.xyz^
 ||djs.baomihua.com^
+||djxpnuo.xyz^
 ||dk45h.icu^
 ||dkcwnsu.xyz^
 ||dkjwbv.xyz^
@@ -11646,6 +11650,7 @@
 ||qmwxb.com/skins/2/images/qp001.gif
 ||qncye.com/ads/
 ||qnfvojfkw.xyz^
+||qnifdlay.top^
 ||qnipkk.xyz^$third-party
 ||qnmtqq.com^
 ||qnsb.com/news/index.php?m=poster&
@@ -14661,6 +14666,7 @@
 ||xgrcfz.xyz^
 ||xh33g.net^
 ||xhbheroq.xyz^
+||xhbshv.xyz^
 ||xhfxtqt.xyz^
 ||xhgpuxim.xyz^
 ||xhi8.xyz^

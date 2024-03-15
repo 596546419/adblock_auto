@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: gV0P4gZ5fC+FSLyN7w/DlQ
+! Checksum: 9b1pP+LkWwYohq+ven5OLQ
 ! Title: 混合规则(自动更新)
-! Version: 20240315002328
+! Version: 20240315091548
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-15 00:23:28
-! Total Count: 134635
+! Last modified: 2024-03-15 09:15:48
+! Total Count: 134670
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -274,6 +274,7 @@
 ||0mnopqr.com^
 ||0myksyhuuz.cn^
 ||0o0.ooo/2017/01/13/58787d42bbad6.jpg
+||0op8kh.cn^
 ||0p1ohj2f5f.ru^
 ||0p7w.cn^
 ||0pyn37dv3m.com^
@@ -474,6 +475,7 @@
 ||115img.com/static/115tj.js
 ||115img.com/static/pc/d_
 ||115mm.com/js/
+||1162248229.rsc.cdn77.org^
 ||116bea31bf.com^
 ||1170555.com^
 ||1173384488.rsc.cdn77.org^
@@ -4132,6 +4134,7 @@
 ||accscdn.m.taobao.com^
 ||accumulateboring.com^
 ||accuracyswede.com^
+||accuratecoal.com^
 ||accusationcollegeload.com^
 ||accusedstone.com^
 ||accuserannouncementadulthood.com^
@@ -6843,6 +6846,7 @@
 ||agkacg.xyz^
 ||agkn.com^
 ||agl001.bid^
+||agl002.online^
 ||agle21xe2anfddirite.com^
 ||aglocobanners.com^
 ||agloogly.com^
@@ -11194,6 +11198,7 @@
 ||ban-host.ru^
 ||ban.bhol.co.il^
 ||ban.mirorgazma.ru^
+||ban.su^
 ||ban.zab.ru^
 ||banagonatural.tech^
 ||banalrestart.com^
@@ -14359,8 +14364,6 @@
 ||bungalowsimply.com^
 ||bungarovet.com^
 ||bunintruder.com^
-||bunkr.si^
-||bunkrr.su^
 ||bunny-net.com^
 ||bunnymediaserver.com^
 ||bunth.net^
@@ -19286,6 +19289,7 @@
 ||ctlweb.site^
 ||ctm-media.com^
 ||ctmdtrvikipjfv.xyz^
+||ctmrso.xyz^
 ||ctnsnet.com^
 ||ctoabc.xyz^
 ||ctoosqtuxgaq.com^
@@ -19629,6 +19633,7 @@
 ||cytlbwfhbopqati.xyz^
 ||cytock.com^
 ||cytrd0.site^
+||cyvjmnu.com^
 ||cyyhkeknmbe.com^
 ||cyyjhkhgt.com^
 ||cz09.com^
@@ -19986,6 +19991,7 @@
 ||dameyuan.com^
 ||damhixs.cn^
 ||damianafulani.com^
+||damiul.icu^
 ||damnightmareleery.com^
 ||damow.cn^
 ||damozelmikvahs.com^
@@ -21736,6 +21742,7 @@
 ||djssdvbo.com^
 ||djsxyvgrkyl.com^
 ||djxfar6.com^
+||djxpnuo.xyz^
 ||djytaswabirm.xyz^
 ||dk45h.icu^
 ||dk4ywix.com^
@@ -23884,6 +23891,7 @@
 ||egxxlvyguirt.com^
 ||egyfgsq.cn^
 ||egyifdjrbrwyj.com^
+||egykofo.com^
 ||egynvnnlhywq.com^
 ||egyptchwas.com^
 ||egyptianintegration.com^
@@ -23904,6 +23912,7 @@
 ||ehliswxnrx.com^
 ||ehmqlr.com^
 ||ehoqtjfazgxzee.com^
+||ehpcqqxlde.com^
 ||ehpnkugmfatoyhg.com^
 ||ehprnuo.cn^
 ||ehpvvxyp.com^
@@ -24052,6 +24061,7 @@
 ||electranowel.com^
 ||electric-contest.pro^
 ||electricalbicyclelistnonfiction.com^
+||electricalsedate.com^
 ||electricalyellincreasing.com^
 ||electrodirect.click^
 ||electronicconsensus.com^
@@ -26402,6 +26412,7 @@
 ||felixflow.com^
 ||feliz.data.tm-awx.com^
 ||fellap.com^
+||fellerbeeline.top^
 ||fellowsargean.com^
 ||fellowshippink.com^
 ||felonlosel.com^
@@ -27617,6 +27628,7 @@
 ||fqybolmt.com^
 ||fqygyfvmz.com^
 ||fqyxbvuefdlt.com^
+||fqzibqtjwfzp.com^
 ||fr1211022010eur.click^
 ||fr121102201eur.click^
 ||fr121102207.click^
@@ -30368,6 +30380,7 @@
 ||gpwpaqnxpwhqufz.sbs^
 ||gpxz.com/js2/
 ||gpylmwtjiy.com^
+||gpynepb.com^
 ||gqaecrxbj.com^
 ||gqcmqihonrx.com^
 ||gqdfgyz.cn^
@@ -30457,6 +30470,7 @@
 ||graphnitriot.com^
 ||grapiercaproyl.com^
 ||grappamacram.com^
+||grapsaidsee.net^
 ||grapseex.com^
 ||grapselu.com^
 ||grartoag.xyz^
@@ -31602,6 +31616,7 @@
 ||harmonypix.com^
 ||harn8.info^
 ||haronfitanheck.com^
+||harpinhaster.top^
 ||harrenmedianetwork.com^
 ||harretrips.digital^
 ||harsh-hello.pro^
@@ -32494,6 +32509,7 @@
 ||himselves.com^
 ||himselvesobr.club^
 ||hinaprecent.info^
+||hinavvogha.com^
 ||hindsight.significanceapps.com^
 ||hindsightchampagne.com^
 ||hinet.net/product/promotion/$popup
@@ -33758,6 +33774,7 @@
 ||hx1.tubepornbase.com^
 ||hxapafn.cn^
 ||hxatkjygdpar.com^
+||hxaubnrfgxke.xyz^
 ||hxbt.alading123.com^
 ||hxbtqwquroke.com^
 ||hxcdyx.com^
@@ -34073,6 +34090,7 @@
 ||ibnads.xl.co.id^
 ||ibonmfvcwb.xyz^
 ||ibortvgbkvpmes.com^
+||ibptutlgoloqy.com^
 ||ibpxl.com^
 ||ibpxl.net^
 ||ibpxnkwstvqcon.com^
@@ -36607,6 +36625,7 @@
 ||jamokeuntress.com^
 ||jamsoulsfriday.com^
 ||jamstech.store^
+||janapancoroun.top^
 ||jandan.net/static/sos/recreate-games.gif
 ||jandan.net/static/ss/
 ||jandan.net^*/3kbw2.png
@@ -37407,6 +37426,7 @@
 ||jmylj.cn^
 ||jn060.xyz^
 ||jn1biifafz.cn^
+||jnaixbgd.com^
 ||jnbasajikmd.xyz^
 ||jnbd43jh.world^
 ||jnbd43jh.xyz^
@@ -37914,6 +37934,7 @@
 ||jtienla.top^
 ||jtiqpdqofdlwam.com^
 ||jtjtqar.com^
+||jtolkiamnax.com^
 ||jtp.expressen.se^
 ||jtpgjihhix.com^
 ||jtpu9s.icu^
@@ -38145,6 +38166,7 @@
 ||jwjdpab.cn^
 ||jwjxjuvrnkv.com^
 ||jwjzf.online^
+||jwlfduco.com^
 ||jwltpv.xyz^
 ||jwmstats.com^
 ||jwnmnnnzrebqa.top^
@@ -47323,6 +47345,7 @@
 ||necmdow.cn^
 ||nectardoodled.com^
 ||nectarineple.com^
+||nedamericantpas.info^
 ||nedandlooked.org^
 ||nedaughablelead.info^
 ||nedes.xyz^
@@ -51991,6 +52014,7 @@
 ||peppy2lon1g1stalk.com^
 ||pepserump.life^
 ||peptido.ru^
+||pepyyzqqgciv.com^
 ||peracy.com^
 ||perceivedagrarian.com^
 ||perceivedundesirable.com^
@@ -52548,6 +52572,7 @@
 ||pickupnationalityinexhaustible.com^
 ||pickuppestsyndrome.com^
 ||pickupracist.com^
+||pickvideolink.com^
 ||piclect.com^*.gif$third-party
 ||piclick.cn^$third-party
 ||piclick.kr^
@@ -53960,6 +53985,7 @@
 ||ppcwzry.cn^
 ||ppdb.pl^
 ||ppdiatk.com^
+||ppedtoalktoherha.info^
 ||ppenid.xyz^
 ||ppgjebhcyu.com^
 ||pphauantic.com^
@@ -56018,6 +56044,7 @@
 ||qnfvojfkw.xyz^
 ||qnhvvrpkus.com^
 ||qnieo.fun^
+||qnifdlay.top^
 ||qnipkk.xyz^
 ||qnipkk.xyz^$third-party
 ||qnjyeyc.com^
@@ -58604,6 +58631,7 @@
 ||rog4.com^
 ||rogbhbxvqe.com^
 ||rogueschedule.com^
+||rohvyftxssn.com^
 ||roi-pro.com^
 ||roi-rocket.net^
 ||roiapp.net^
@@ -61982,6 +62010,7 @@
 ||signalsuedejolly.com^
 ||significantoperativeclearance.com^
 ||signifyd.com^
+||signingrechaos.top^
 ||signup-way.com^
 ||sihbb.com/yang/
 ||sihokpfbv.com^
@@ -65006,6 +65035,7 @@
 ||stylishar.com^
 ||stylliyote.com^
 ||styrianauf.com^
+||stzhnfcxx.com^
 ||su.bdimg.com/static/dspui/js/
 ||su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me^
 ||suachuadienmayxanh.com.vn^
@@ -74228,6 +74258,7 @@
 ||vqjfiuwbqpvwrn.xyz^
 ||vqjvnjxbgnz.com^
 ||vqjxlie.cn^
+||vqrqnylppo.com^
 ||vqtyargb.com^
 ||vqzbzuhhxhcf.com^
 ||vrasxjrsl.com^
@@ -76002,6 +76033,7 @@
 ||withoutcontrol.com^
 ||witlayvet.com^
 ||witnessedworkerplaid.com^
+||witnessjacket.com^
 ||witnessremovalsoccer.com^
 ||witnesssimilarindoors.com^
 ||wittilyfrogleg.com^
@@ -77271,6 +77303,7 @@
 ||xhaeuubhi.xyz^
 ||xhamstercams.com^
 ||xhbheroq.xyz^
+||xhbshv.xyz^
 ||xhd.cn/topic/leyu-piaofu/
 ||xhflovezyy.asia^
 ||xhfvljklvq.com^
@@ -79170,6 +79203,7 @@
 ||ysnakestanothia.xyz^
 ||ysnxszyrxdzp.com^
 ||ysont.cn^
+||yspecjbjmcub.com^
 ||ysstnh.com^
 ||ysuchtjhwasp.info^
 ||yswphit.cn^
@@ -91477,6 +91511,7 @@ limesurvey.org,mobygames.com,taskcoach.org##.well
 limetorrents.lol##.downloadareabig:has([title^="Anâ€Œonâ€Œymous Download"])
 limetorrents.lol##a[href^="/leet/"]
 limetorrents.pro##a[href^="/leet/?"] > img[src^="/static/images/download"]
+lincolnshireworld.com,nationalworld.com##.helper__AdContainer-sc-12ggaoi-0
 line.me###install_line
 line.me##.midAdModule-root
 lineageos18.com###contentLocker
@@ -92841,7 +92876,6 @@ nationalreview.com##.ad-skeleton
 nationalreview.com##.header-billboard-wrap
 nationalworld.com##.Dailymotion__Inner-sc-gmjr3r-1
 nationalworld.com##.bfQGof
-nationalworld.com##.helper__AdContainer-sc-12ggaoi-0
 nationalworld.com,scotsman.com##.dmpu-item
 nationtalk.ca##.partner-slides
 nativenewsonline.net##.eb-visible
@@ -131221,6 +131255,7 @@ zle.com$script
 ##a[href^="https://wantopticalfreelance.com/"]
 ##a[href^="https://webroutetrk.com/"]
 ##a[href^="https://wirewar.website/"]
+##a[href^="https://witnessjacket.com/"]
 ##a[href^="https://wittered-mainging.com/"]
 ##a[href^="https://www.5mno3.com/"]
 ##a[href^="https://www.adskeeper.com"]
