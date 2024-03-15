@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: qmK0IJJOFequJhgtTqu0Qg
+! Checksum: LGN/LnenLSFipYKMudxuDQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240315162259
+! Version: 20240316002424
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-15 16:22:59
-! Total Count: 25807
+! Last modified: 2024-03-16 00:24:24
+! Total Count: 25809
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8987,7 +8987,9 @@
 ||kopde.xyz^
 ||koqsxdpx.xyz^
 ||korewaeroi.com/fukugan_sp_3x4.html
+||korewaeroi.com/fukugan_sp_3x4_rec.html
 ||korewaeroi.com/img/2mm.jpg
+||korewaeroi.com/wp-content/wptouch-data/themes/*/default/ad
 ||korewaeroi.com/wp-content/wptouch-data/themes/classic-redux-copy-1/default/push*.php
 ||kostool.cn/screenshot/
 ||koudaiyundong.com^$third-party
