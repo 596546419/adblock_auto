@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: t+hX4trVK2cmu1pZbh6ooQ
+! Checksum: QahjBaF4hWA/PHrmPhFHEQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240317002110
+! Version: 20240317092001
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-17 00:21:10
-! Total Count: 25819
+! Last modified: 2024-03-17 09:20:01
+! Total Count: 25825
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3583,6 +3583,7 @@
 ||area51.porn/sw.js
 ||arejug.xyz^
 ||arhnuin.xyz^
+||ariqye.xyz^
 ||ark.le.com/s?vid=
 ||ark.letv.com/s?
 ||arnhhwo.xyz^
@@ -5856,6 +5857,7 @@
 ||drtyuigj.xyz^
 ||drtyujgsg.xyz^
 ||drvsky.com/js/jolimark.gif
+||dryden.cn^
 ||drzgtli.com^
 ||ds1.kaijia.com^
 ||dsbfpt.xyz^
@@ -5978,6 +5980,7 @@
 ||dyzyhj.com/Jk/
 ||dz19.net/addimg/
 ||dzdxnbc.xyz^
+||dzfzak.cn^
 ||dzjzg.com^
 ||dzkwj0y.xyz^
 ||dzmanga.com/s/page_runtime_v5.js
@@ -6402,6 +6405,7 @@
 ||faxingw.cn/js/*ad
 ||faxingw.cn/js/detailgcbox.js
 ||fbasd.qwoudjbk.com^$third-party
+||fbfrbt.xyz^
 ||fbtntwevnfq.com/*/android.apk?$document
 ||fbtntwevnfq.com/*/android.apk?$~third-party
 ||fbvskv3.com^
@@ -7437,6 +7441,7 @@
 ||helpsetup.ru/home/solnisko.php
 ||henan.sina.com.cn/iframe/7/
 ||henan100.com/d/file/indexad/
+||hendehy.com^
 ||henghost.com^$third-party
 ||hentaicomic.*/data/ds/
 ||hentaicomic.*/data/game/*/wap.gif
@@ -13801,6 +13806,7 @@
 ||unfhxszj.xyz^
 ||unicume.com^
 ||unidict.cn^
+||unifdlat.top^
 ||uniformutilitiesexpressing.com^
 ||unikoshardware.com/wp-content/uploads/*/*/WPointer_Ad_440x250.jpg
 ||uninterestedquarter.com^$third-party

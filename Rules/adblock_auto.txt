@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: F89LWtM9/qz9DirMtVYqSw
+! Checksum: 7xqxmEa8spzHaFNPtYHsCA
 ! Title: 混合规则(自动更新)
-! Version: 20240317002100
+! Version: 20240317091951
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-17 00:21:00
-! Total Count: 134750
+! Last modified: 2024-03-17 09:19:51
+! Total Count: 134765
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9491,6 +9491,7 @@
 ||arihtrkoxuvlm.xyz^
 ||arikhwglvc.xyz^
 ||ariotgribble.com^
+||ariqye.xyz^
 ||aristianewr.club^
 ||arithmeticifrancorous.com^
 ||arithpouted.com^
@@ -14195,6 +14196,7 @@
 ||bte.ink^
 ||btescs.fun^
 ||btfjjwt.xyz^
+||btfzbak.xyz^
 ||btg360.com.br^
 ||bthand.com/static/js/default.js
 ||bthypgm.cn^
@@ -22572,6 +22574,7 @@
 ||drvkypkfm.com^
 ||drvsky.com/js/jolimark.gif
 ||drwornspinster.com^
+||dryden.cn^
 ||dryerpreliminarymainly.com^
 ||dryerslegatos.com^
 ||dryinfestinsight.com^
@@ -23063,6 +23066,7 @@
 ||dz4ad.com^
 ||dzdxnbc.xyz^
 ||dzeoiizhixuyvg.com^
+||dzfzak.cn^
 ||dzhjmp.com^
 ||dzienkudrow.com^
 ||dzjnejsffqqih.com^
@@ -26183,6 +26187,7 @@
 ||fbcdn2.com^
 ||fbebmgbiou.com^
 ||fbffdfproxwqi.com^
+||fbfrbt.xyz^
 ||fbgdc.com^
 ||fbgwruetfgbhp.com^
 ||fbhepgb.cn^
@@ -29815,6 +29820,7 @@
 ||gmaakjrmpc.com^
 ||gmads.net^
 ||gmasrjx.cn^
+||gmawlljasi.com^
 ||gmbbk.com/bbsgmbbk/
 ||gmbbk.com/fb.js
 ||gmbbku.com/img/top.js
@@ -32124,6 +32130,7 @@
 ||henanzhulongjx.com^
 ||hencemakesheavy.com^
 ||hencoopfiestas.life^
+||hendehy.com^
 ||henduoqian.com^
 ||henfskbbk.xyz^
 ||hengared.com^
@@ -42610,6 +42617,7 @@
 ||lukpush.com^
 ||lulachu.com^
 ||lulavsepoxy.guru^
+||lulgef.icu^
 ||lulgpmdmbtedzl.com^
 ||lullxkwwu.com^
 ||lulxzl.xyz^
@@ -49745,6 +49753,7 @@
 ||olmsoneenh.info^$domain=avgle.com
 ||olnjitvizo.com
 ||olnjitvizo.com^
+||olnkpexujhuw.com^
 ||olnoklmuxo.com^
 ||oload.tv/assets/js/script.packed
 ||ololenopoteretol.info^
@@ -51140,6 +51149,7 @@
 ||pa-oa.com^
 ||pa.pinpoll.com^
 ||pa.tns-ua.com^
+||pa4ye.cyou^
 ||pa5ka.com^
 ||paasvalhall.top^
 ||pac.thesun.co.uk^
@@ -51433,6 +51443,7 @@
 ||pardonsentencegeneral.com^
 ||parecyrclame.com^
 ||parentelement.ml^
+||parentingcalculated.com^
 ||parentlargevia.com^
 ||parentpensionvolunteer.com^
 ||pariatonet.com^
@@ -64879,6 +64890,7 @@
 ||stotoowu.net^
 ||stougnee.com^
 ||stouksom.xyz^
+||stouphou.net^
 ||stoursas.xyz^
 ||stoushgowds.com^
 ||stovearmpitagreeable.com^
@@ -71430,6 +71442,7 @@
 ||unicume.com^
 ||unid.go.com^
 ||unidict.cn^
+||unifdlat.top^
 ||unified-ter-na.hismarttv.com^
 ||unifini.de^
 ||uniformutilitiesexpressing.com^
@@ -76294,6 +76307,7 @@
 ||wodw0.xyz^
 ||wodycaha.com^
 ||woeefpxz.com^
+||woefifty.com^
 ||woejh.com^
 ||woespoke.com^
 ||wofan.net^$third-party
@@ -85317,6 +85331,7 @@ cnn.com###js-outbrain-rightrail-ads-module
 cnn.com###partner-zone
 cnn.com###sponsored-outbrain-1
 cnn.com##.ad-feedback__modal
+cnn.com##.ad-slot-dynamic
 cnn.com##.ad-slot-header__wrapper
 cnn.com##.ad-slot__ad-wrapper
 cnn.com##.cn--expandable.cn--idx-1
@@ -88698,6 +88713,7 @@ greatist.com,healthline.com,medicalnewstoday.com,psychcentral.com##[data-ad]
 greatist.com,healthline.com,medicalnewstoday.com,psychcentral.com##[data-empty]
 greatist.com,healthline.com,medicalnewstoday.com,psychcentral.com##[data-testid="driver"]
 greatist.com,healthline.com,medicalnewstoday.com,psychcentral.com##[data-testid="header-leaderboard"]
+greatist.com,healthline.com,medicalnewstoday.com,psychcentral.com##[data-testid="sponsored-bar"]
 greatist.com,healthline.com,medicalnewstoday.com,psychcentral.com##[style*="line-height: 0;"]
 greatist.com,psychcentral.com##.myFinance-widget
 greatwuyi.com##.main_ad2
@@ -96726,7 +96742,6 @@ supercheats.com###titlebar
 supercheats.com###titlebar_banner
 supercheats.com##.a300
 supercheats.com##.cboth_sm
-supercloudsms.com##A[id^="ad_"]
 supercloudsms.com##a[id^="ad_"]
 superdeluxeedition.com##.widget-bg-image__deal-alert
 superhumanradio.net##.rotating_zone
