@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: QahjBaF4hWA/PHrmPhFHEQ
+! Checksum: /ywU+uuknCNsgWaIlqg8AA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240317092001
+! Version: 20240317162047
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-17 09:20:01
-! Total Count: 25825
+! Last modified: 2024-03-17 16:20:47
+! Total Count: 25830
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4419,6 +4419,7 @@
 ||btdx8.com/tmp/
 ||btescs.fun^
 ||btfjjwt.xyz^
+||btfzbak.xyz^
 ||bthypgm.cn^
 ||btienlv.top^
 ||btkat.com/style/l.js
@@ -5856,6 +5857,7 @@
 ||drpsjp.xyz^
 ||drtyuigj.xyz^
 ||drtyujgsg.xyz^
+||drummers.cn^
 ||drvsky.com/js/jolimark.gif
 ||dryden.cn^
 ||drzgtli.com^
@@ -6478,6 +6480,7 @@
 ||fhdjdv.xyz^
 ||fherunm.cn^
 ||fhglcpf.icu^
+||fhtfnb.xyz^
 ||fhvbhx.xyz^
 ||fidelius.cn^
 ||fifqjp.xyz^
@@ -9523,6 +9526,7 @@
 ||luckyforworlds.com^
 ||ludie.xyz^
 ||ludpa.xyz^
+||lulgef.icu^
 ||lulxzl.xyz^
 ||lumberrule.com^$third-party
 ||lunchroomlock.com^$third-party
@@ -10874,6 +10878,7 @@
 ||p5kzev.com^
 ||p8u.hinet.net^
 ||p97387hj.xyz^
+||pa4ye.cyou^
 ||pacix.xyz^
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$redirect=googlesyndication.com/adsbygoogle.js,domain=youneed.win,xmlhttprequest,script
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=googlesyndication.com/adsbygoogle.js,domain=nazology.net|nijimen.net|xiebruce.top
