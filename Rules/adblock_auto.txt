@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ig0Kcpz/QkQn+KbkA4NjMA
+! Checksum: gfL+HzcrGl/PwBxbMH3xdw
 ! Title: 混合规则(自动更新)
-! Version: 20240319162236
+! Version: 20240320002340
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-19 16:22:36
-! Total Count: 134884
+! Last modified: 2024-03-20 00:23:40
+! Total Count: 134893
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2543,6 +2543,7 @@
 ||6669667.com^
 ||666aa777bb.com^
 ||666bb777ww.com^
+||666bbb333bbb.com^
 ||666lotte.com^
 ||666video.asia^
 ||668559.com^$third-party
@@ -15188,6 +15189,7 @@
 ||captaintassie.com^
 ||captchafine.live^
 ||captchaforcaptcha.top^
+||captickc.com^
 ||captify.co.uk^
 ||captivate.ai^
 ||captivatecustomergentlemen.com^
@@ -19782,6 +19784,7 @@
 ||d3d98dc11c.com^
 ||d3da127b69.com^
 ||d3f3.xyz^
+||d3g4a.cyou^
 ||d3nfknbv.icu^
 ||d4.sina.com.cn^$object,script
 ||d41.co^
@@ -22637,6 +22640,7 @@
 ||dshapv.xyz^
 ||dsixipuj.com^
 ||dsj4qf77pyncykf2dki6isfcuy0orwhc.lambda-url.eu-west-1.on.aws^
+||dsjkbcjsjkbvs.com^
 ||dskjbvzvs.com^
 ||dskjhs.com^
 ||dslsgbrckqshuep.com^
@@ -46183,6 +46187,7 @@
 ||mtburn.jp^
 ||mtdata1.ru
 ||mtdata10.ru
+||mtddqjk.cn^
 ||mtdkhfguafqijx.com^
 ||mtga.setapp.com^
 ||mtgglobals.com^
@@ -54964,6 +54969,7 @@
 ||pt.ispot.tv^
 ||pt.wisernotify.com^
 ||pt0zhwhc26.ru^
+||pta.wcm.pl^
 ||ptadrony.xyz^
 ||ptadsrv.de^
 ||ptaickug.com^
@@ -67569,6 +67575,7 @@
 ||threedrive.su^
 ||threeinters.com^
 ||threerfdfgourgold.com^
+||threrlak.com^
 ||thresholdunusual.com^
 ||threwdownth.xyz^
 ||threwtestimonygrieve.com^
@@ -80096,6 +80103,7 @@
 ||zgyiyi.com^$third-party
 ||zgyvg.top^
 ||zgzlw.biz^
+||zgzxs.weathercn.com^
 ||zhainanba.org/ac/
 ||zhaishanghui.shop^
 ||zhalinylqq.com^
@@ -130779,6 +130787,7 @@ zle.com$script
 ##a[href*=".yabovip2027.com/"]
 ##a[href*=".yb2843.vip"]
 ##a[href*=".ybvip5741.vip"]
+##a[href*=".yezere.com/"]
 ##a[href*=".ygx2.com/"]
 ##a[href*=".yixing-hb.com"]
 ##a[href*=".youxi126.com"]

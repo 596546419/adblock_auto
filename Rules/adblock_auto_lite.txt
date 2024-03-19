@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: YFu3YtSelhDQZ1KDWowp3g
+! Checksum: t2Hh3IRLwnBhis2GrozVPA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240319162247
+! Version: 20240320002350
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-19 16:22:47
-! Total Count: 25851
+! Last modified: 2024-03-20 00:23:50
+! Total Count: 25859
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -922,6 +922,7 @@
 ||6669667.com^
 ||666aa777bb.com^
 ||666bb777ww.com^
+||666bbb333bbb.com^
 ||6686bb.app^
 ||6696q.com^
 ||6699fa.cn/imagestb/
@@ -4631,6 +4632,7 @@
 ||caoporn.com/images/bmqp
 ||caoporn.com/templates/frontend/dark-blue/js/caoaa5.js
 ||caozhixiong.cn^
+||captickc.com^
 ||car.pchome.com.tw/iframe/news_iframe.
 ||car.qcmrjx.com^
 ||carelesshat.com^$third-party
@@ -5352,6 +5354,7 @@
 ||d2wy8f7a9ursnm.cloudfront.net^$third-party
 ||d3.sina.com.cn^$object,script
 ||d3f3.xyz^
+||d3g4a.cyou^
 ||d3nfknbv.icu^
 ||d4.sina.com.cn^$object,script
 ||d4d99bfbcf.e59f087ae4.com^
@@ -5875,6 +5878,7 @@
 ||dsg.reifporn.de^
 ||dshangyan.com/pc/advertising/
 ||dshapv.xyz^
+||dsjkbcjsjkbvs.com^
 ||dskjbvzvs.com^
 ||dskjhs.com^
 ||dsp.ali213.net^
@@ -10193,6 +10197,7 @@
 ||mtawcy.xyz^
 ||mtburn.com^
 ||mtburn.jp^
+||mtddqjk.cn^
 ||mtgglobals.com^
 ||mthhhuq.cn^
 ||mtienlx.top^
@@ -13283,6 +13288,7 @@
 ||thisav.video/v3/nb/
 ||thjwxz.xyz^
 ||thpte.cn^
+||threrlak.com^
 ||thumbor.prod.vidiocdn.com/*/uploads/section/background_image/*/rejoice-vidio-drakor-gratis-*.jpg
 ||thvx9i.icu^
 ||thyn.renzhen8.cn^$third-party
@@ -15563,6 +15569,7 @@
 ||zgwsnw.xyz^$third-party
 ||zgwvcv.icu^
 ||zgyvg.top^
+||zgzxs.weathercn.com^
 ||zhainanba.org/ac/
 ||zhalinylqq.com^
 ||zhalinyyds.com^
@@ -23856,6 +23863,7 @@ zle.com$script
 ##a[href*=".xyz:"] > img[src*=".qlogo.cn"]
 ##a[href*=".xyz:"] > img[src]
 ##a[href*=".xyz?ch=ssmh"]
+##a[href*=".yezere.com/"]
 ##a[href*=".youxi126.com"]
 ##a[href*=".youxi141.com"]
 ##a[href*=".youxi142.com"]
