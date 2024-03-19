@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: pCNnIJFrmtbUlxm0f2/+iA
+! Checksum: ig0Kcpz/QkQn+KbkA4NjMA
 ! Title: 混合规则(自动更新)
-! Version: 20240319091618
+! Version: 20240319162236
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-19 09:16:18
-! Total Count: 134866
+! Last modified: 2024-03-19 16:22:36
+! Total Count: 134884
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -14586,6 +14586,7 @@
 ||bwmvzwkbqlmrz.top^
 ||bwnmwhblsf.com^
 ||bwogldv.top^
+||bwpirrwsh.com^
 ||bwpuoba.com^
 ||bwstatistics.sapoapps.vn^
 ||bwsvftq.cn^
@@ -28722,6 +28723,7 @@
 ||garricketiam.website^
 ||garrisonparttimemount.com^
 ||garthitalici.top^
+||garumkachin.com^
 ||gasaq.com/public/flash/
 ||gasasphrad.com^
 ||gaseous-power.com^
@@ -31081,6 +31083,7 @@
 ||gussame.com^
 ||gussbkpr.website^
 ||gussimsosurvey.space^
+||gustdertrum.com^
 ||gustilyoblate.uno^
 ||gutchauzaugh.com^
 ||gutjfeskwfk.xyz^
@@ -36956,6 +36959,7 @@
 ||jelvsdxsdnqze.com^
 ||jemdexat.xyz^
 ||jemonews.com^
+||jenkincraved.com^
 ||jenniferlaurax.com^
 ||jennifersoft.com^
 ||jennyrace.com^
@@ -42268,6 +42272,7 @@
 ||loolowhy.com^
 ||looluchu.com^
 ||loomlarynx.com^
+||loomplyer.com^
 ||loomspreadingnamely.com^
 ||loonquan.com^
 ||loop.bengali-sex-video.com^
@@ -50595,6 +50600,7 @@
 ||ossfile001.com^
 ||ossgogoaton.com^
 ||osshydreigonan.com^
+||ossifygenial.com^
 ||osskanger.com^
 ||osskugvirs.com^
 ||ossmightyenar.net^
@@ -71484,6 +71490,7 @@
 ||unforgivablegrowl.com^
 ||unfymctyuuuynis.com^
 ||ungillhenbane.com^
+||ungirthranee.com^
 ||unglazeclassic.com^
 ||ungloomnisnas.com^
 ||ungothoritator.com^
@@ -76452,6 +76459,7 @@
 ||woolasib.net^
 ||wooledswards.com^
 ||woolenabled.com^
+||woolensulking.com^
 ||woollenthawewe.com^
 ||woolsawaq.com^
 ||woomio.com^
@@ -78112,6 +78120,7 @@
 ||xujingch.com^
 ||xujmcrc.cn^
 ||xukang09.cn^
+||xukevxdf.com^
 ||xukou.net^
 ||xukpresesmr.info^
 ||xuliglsw.space^
@@ -80680,6 +80689,7 @@
 ||zukxd6fkxqn.com^
 ||zuliglsa.space^
 ||zulindeerosion.top^
+||zuluizeskater.com^
 ||zumfzaamdxaw.com^
 ||zumid.xyz^
 ||zumnxwva.ink^
@@ -84231,7 +84241,6 @@ bitdegree.org##.page-coupon-landing
 bitetheass.com,nitroflare-porn.com##center > noindex
 bitporno.*##+js(abort-on-property-read, _run)
 bitporno.*,pornstash.in,sexuhot.com##+js(abort-on-property-write, atOptions)
-bitref.com##div.mb-3
 bitref.com##picture > img[src]
 bittools.net##[href^="//www.bittools.net/binance"]
 bitzite.com,unmineablesbest.com##ins[style^="display:inline-block;width:300px;height:250px;"]
@@ -87845,13 +87854,17 @@ footballtransfers.com##div[style*="min-height: 250px;"]
 footballtransfertavern.com,gpfans.com###snack_ldb
 footybite.cc##div[style^="border: 2px solid "]
 footztube.com##[href^="/tp/out"]
+forbes.com###article-stream-1
 forbes.com###cta-builder
 forbes.com###featured-partners
+forbes.com##.ad-unit
 forbes.com##.cta-builder
+forbes.com##.fbs-ad--mobile-medianet-wrapper
 forbes.com##.fbs-ad--ntv-deskchannel-wrapper
 forbes.com##.fbs-ad--ntv-home-wrapper
 forbes.com##.inline-article-ed-placeholder
 forbes.com##.mobile-sticky-ed-placeholder
+forbes.com##.ntv-loading
 forbes.com##.top-ad-container
 forbes.com##.top-ed-placeholder
 forbes.com##.vestpocket
@@ -89117,6 +89130,8 @@ hardwaretimes.com###tie-block_2144
 hardwaretimes.com###tie-block_3197
 hardwaretimes.com##.stream-item-size
 hardwaretimes.com,siasat.com##.stream-item-widget
+hashrate.no##.verticalAdContainer
+hashrate.no##center:has(.sevioads)
 haveibeenpwned.com##.actionsBar:has(.why1Password)
 haveibeenpwned.com##.bodyGradient > :has(.why1Password)
 hawaiisbesttravel.com###block-103
@@ -89374,6 +89389,7 @@ hindustantimes.com##.affilaite-widget
 hindustantimes.com##.ht_taboola
 hindustantimes.com##.m_headBanner
 hindustantimes.com##.moreFrom
+hindustantimes.com##.pramotedWidget
 hindustantimes.com##.rgtAdSection
 hindustantimes.com,hkepc.com##.headBanner
 hinet.net###media_ad_popup_overlay
@@ -92485,6 +92501,8 @@ mma-core.com##.crec
 mma-core.com##.grec
 mma-core.com##.outVidAd
 mmbang.com##.footer_adver-warp
+mmegi.bw##.mmegi-web-banner
+mmegi.bw##.vertical-banner
 mmff30.com##.titletablediv .titletablecell > a[target="_blank"]:not([href$="html"]):not([target="_self"])
 mmff30.com##.top_box
 mmff30.com##a[href$="/ref.html"]
