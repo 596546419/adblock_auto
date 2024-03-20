@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: wm54/TBoJb8SnLUxTTq4Zw
+! Checksum: r8OA9E3D0/R6BST6kfHRQQ
 ! Title: 混合规则(自动更新)
-! Version: 20240320162246
+! Version: 20240321002513
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-20 16:22:46
-! Total Count: 134931
+! Last modified: 2024-03-21 00:25:13
+! Total Count: 134934
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -280,6 +280,7 @@
 ||0p1ohj2f5f.ru^
 ||0p7w.cn^
 ||0pyn37dv3m.com^
+||0q5joc.cn^
 ||0r17374.com^
 ||0r3tyg.cn^
 ||0redirb.com^
@@ -3317,6 +3318,7 @@
 ||9999961.com/JS/daohang.js
 ||9999961.com/JS/lianmeng.js
 ||999aa666bb.com^
+||999bb222ww.com^
 ||999d.com^$third-party
 ||999lotte.com^
 ||999meiju.com/js/tj
@@ -7244,6 +7246,7 @@
 ||ajucem.xyz^
 ||ajur.info^
 ||ajvjpupava.com^
+||ajvkakodvgpe.com^
 ||ajvnragtua.com^
 ||ajwssds.com^
 ||ajxukah.cn^
@@ -10308,6 +10311,7 @@
 ||autdjng.cn^
 ||auteboon.net^
 ||auth-*.hismarttv.com^
+||auth-srv.launchthatapps.com^
 ||auth.be.sec.miui.com^
 ||auth.bz^
 ||authaptixoal.com^
@@ -130364,7 +130368,6 @@ zle.com$script
 ##[data-ad-width]
 ##[data-adblockkey]
 ##[data-adbridg-ad-class]
-##[data-adid]
 ##[data-adshim]
 ##[data-advadstrackid]
 ##[data-block-type="ad"]
