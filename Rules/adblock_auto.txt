@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: gfL+HzcrGl/PwBxbMH3xdw
+! Checksum: HQHYN+qaZQpnpr2j3dHdhQ
 ! Title: 混合规则(自动更新)
-! Version: 20240320002340
+! Version: 20240320091523
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-20 00:23:40
-! Total Count: 134893
+! Last modified: 2024-03-20 09:15:23
+! Total Count: 134924
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -10631,6 +10631,7 @@
 ||axjfjdm.com^
 ||axkq.xyz^$third-party,script
 ||axkwmsivme.com^
+||axledjuking.com^
 ||axlohcsruwak.com^
 ||axonix.com^
 ||axotrade.com^
@@ -15000,6 +15001,7 @@
 ||caixin.com/file/content/js/mobile_news_app_banner.js
 ||caixin.com/s?z=
 ||caiyeml.pw^
+||cajbdciiefegiifciabc.world^
 ||cajdldhaci.com^
 ||cajesa.uno^
 ||cajggfj.com^
@@ -45281,6 +45283,7 @@
 ||mnhjkl.com^
 ||mnhknds.com^
 ||mnhncf.cn^
+||mnifdlax.top^
 ||mniumlapsers.com^
 ||mnjhrleahonkq.com^
 ||mnjxvtknnlai.com^
@@ -49696,6 +49699,7 @@
 ||ojuhwc.xyz^
 ||ojwapnolwa.com^
 ||ojwplnqmctys.com^
+||ojyggbl.com^
 ||ojygidujyn.com^
 ||ojzghaawlf.com^
 ||ok-11-cai.cc^
@@ -56663,6 +56667,7 @@
 ||qvjpjsglmvhcbv.xyz^
 ||qvkjkc.xyz^
 ||qvlczhitbsqpl.com^
+||qvnbjjd.xyz^
 ||qvol.tv^
 ||qvpublish.com^
 ||qvqcfau.cn^
@@ -58678,6 +58683,7 @@
 ||roadmappenal.com^
 ||roadoati.xyz^
 ||roakicat.net^
+||roamapheejub.com^
 ||roambedroom.com^
 ||roamparadeexpel.com^
 ||roarasha.com^
@@ -59124,6 +59130,7 @@
 ||rtbtracking.com^
 ||rtbtraffic.com^
 ||rtbtrail.com^
+||rtbuqtue.com^
 ||rtbuzz.net^
 ||rtbweb.com^
 ||rtbxnmhub.com^
@@ -60315,6 +60322,7 @@
 ||sdfgbuy.com^
 ||sdfjtwp.com^
 ||sdfqs2.com^
+||sdfsad562.xyz^
 ||sdfsdvc.com^
 ||sdfv66.com^
 ||sdfxcv.com^
@@ -63359,6 +63367,7 @@
 ||sortiesbabhan.com^
 ||sortyellowapples.com^
 ||sos-icloud.com^
+||sosakk.xyz^
 ||sosettoourmarke.info^
 ||soshednibbing.com^
 ||soshoord.com^
@@ -71935,6 +71944,7 @@
 ||urpctsrjilp.com^
 ||urptcerftud.com^
 ||urquqtbswaqta.com^
+||urqwzbu.cn^
 ||urqxesau.com^
 ||urryjgwqjo.com^
 ||ursonewry.com^
@@ -73087,6 +73097,7 @@
 ||vfjsa6do.icu^
 ||vfjydbpywqwe.xyz^
 ||vfl81ea28aztw7y3.pro^
+||vflorp.xyz^
 ||vflouksffoxmlnk.xyz^
 ||vflzdrv.cn^
 ||vfo.voyage-prive.co.uk^
@@ -77361,6 +77372,7 @@
 ||xebadu.com^
 ||xebohjhh.xyz^
 ||xecner.top^
+||xedpzh.xyz^
 ||xefefetgxnh.com^
 ||xeghes.fun^
 ||xegluwate.com^
@@ -89392,6 +89404,7 @@ hihbt.com#?#.theiaStickySidebar > .widget_custom_html:has(> .textwidget > p a[ta
 hilltimes.com###sp-mini-box
 hilltimes.com##.elementor-element-5818a09
 himovies.to,musichq.net##[href="https://zoro.to"]
+hindustantimes.com###affiliate-shop-now
 hindustantimes.com###divshopnowRight
 hindustantimes.com##.affilaite-widget
 hindustantimes.com##.ht_taboola
@@ -90705,6 +90718,7 @@ jav789.com#?#.container > div.box:has(> div.porn-videos-ads)
 javacodegeeks.com##div[id^="adngin-"]
 javbabe.net###a-player
 javbabe.net,chinababe.net##.clipxx
+javball.com##.popup-box-ads
 javbangers.com##.topnav > li > a[onclick][href]
 javbow.com###advertisement-footer
 javboys.com##a[id][href*="://chpadblock.com"][rel="noopener noreferrer"]
@@ -93141,16 +93155,16 @@ netbardh.com##.pos-navbar-ad
 netbian.com##a[href^="https://ibaotu.com/guanggao/"]
 netflav.com##.ads_head_banner_container
 netflav.com##.ads_video_overlay_mobile
+netfly.*,netfly.fun,netfly.tv##.module-tg-box
+netfly.*,netfly.fun,netfly.tv##.player-box > div.player-tt-rmm
+netfly.*,netfly.fun,netfly.tv##div[class*="tt-"] > a[target="_blank"] + span.tt-icon-close
+netfly.*,netfly.fun,netfly.tv##div[class*="tt-"] > a[target="_blank"] > img
+netfly.*,netfly.tv##.container-slide
+netfly.*,netfly.tv##.content > div > [style="display: flex; flex-direction: column;width: 100%;"]
 netfly.fun##.player-box-main ~ [style^="display: flex; justify-content: space-between;"]
 netfly.fun#?#.content > div:not([class]):has(> [style="display: flex; justify-content: space-between; width: 100%;"])
 netfly.fun,netfly.tv##.banner[href^="http"]
-netfly.fun,netfly.tv##.container-slide
-netfly.fun,netfly.tv##.content > div > [style="display: flex; flex-direction: column;width: 100%;"]
-netfly.fun,netfly.tv##.module-tg-box
-netfly.fun,netfly.tv##.player-box > div.player-tt-rmm
 netfly.fun,netfly.tv##[style^="display: flex;"]
-netfly.fun,netfly.tv##div[class*="tt-"] > a[target="_blank"] + span.tt-icon-close
-netfly.fun,netfly.tv##div[class*="tt-"] > a[target="_blank"] > img
 netfly.lol##[style^="display: flex; justify-content:"]
 netfly.lol,netfly.tv##.module-tglist
 nettiauto.com,nettikaravaani.com,nettikone.com,nettimarkkina.com,nettimokki.com,nettimoto.com,nettivene.com,nettivuokraus.com###huge_banner
@@ -105655,6 +105669,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /banimpress.
 /banman.asp?
 /banman/*
+/banman/ad.aspx
 /banmanpro/*
 /banner-ad-
 /banner-ad.$~script
@@ -107907,7 +107922,9 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /nativead.
 /nativead/*
 /nativeads-
+/nativeads-v2.js
 /nativeads.
+/nativeads.js
 /nativeads/*
 /nativeads_v2/*$domain=its.sex|jav4tv.com|oksex.tv|sexjav.org|sexjav.tv|xhentai.tv
 /nativebanner/ane-native-banner.js
@@ -107919,6 +107936,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /nb/*$script,domain=bigtitslust.com|pornhex.com|159i.com|babesjoy.com|pornyfap.com|imgtorrnt.in|imgtornado.com|shameless.com|imgdone.com|webcamshows.org|ipicture.su|youav.com|porndr.com|noodlemagazine.com|picmoza.com|cumlouder.com|maturetubehere.com|amateur8.com|freeporn8.com
 /nb/ads/*
 /nb/frot_lod.
+/nb/frot_lod.js
 /nbcuadops-
 /nd_affiliate.
 /neo/ads/*
@@ -107991,6 +108009,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ntAds-
 /ntes-ad-cloud.
 /ntfc.php?
+/ntv.json?key=
 /nugg.min.js
 /nuggad.
 /nuggad/*
@@ -108037,11 +108056,13 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /obcdle*/fuoihgyg*.js$~third-party
 /oiopub-ads/*
 /oiopub-direct/*$~stylesheet
+/oiopub-direct/js.php
 /ojborn.so?$script,third-party
 /old/ads-
 /omb-ad-
 /ome.ads.
 /oncc-ad.
+/oncc-ad.js
 /onead.
 /onead_
 /onecam4ads.
@@ -108057,6 +108078,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /openad.$domain=~openad.lv
 /openads-
 /openads.
+/openads.js
 /openads/*
 /openads2/*
 /openads_
@@ -109682,16 +109704,23 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /wp-srv/ad/*
 /wp_ad_250_
 /wp_pro_ad_system/*
+/wp_pro_ad_system/templates/*
 /wpadgu-
+/wpadgu-adblock.js
+/wpadgu-clicks.js
+/wpadgu-frontend.js
 /wpads/iframe.
 /wpbanners_show.php
 /wppas.
+/wppas.min.css
+/wppas.min.js
 /wppas/*
 /wppas_
 /wpproadds.
 /wpproads.
 /wpsafelink.js
 /wpx-bannerize_
+/wpxbz-theme.js
 /wrapper/ads/*
 /writelayerad.
 /wscdn/*$subdocument
@@ -109741,6 +109770,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /xpcadshow.
 /xpiads.
 /xpopunder.
+/xpopunder.js
 /xpopup.js
 /xtendmedia.$domain=~xtendmedia.dk
 /xuanfusige.js
@@ -110510,6 +110540,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 ://news-*/v2-sw.js$third-party
 ://o0e.ru^
 ://o0e.ru^$third-party
+://oascentral.
 ://onvideo.ssrcdn.com/bs2/onVideo/skyfall/media/*.mp3$third-party
 ://ox-d.
 ://p.qlogo.cn/qqmail_head/*

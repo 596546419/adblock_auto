@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: t2Hh3IRLwnBhis2GrozVPA
+! Checksum: C7QyuLnRxYDV90CCIOqHmA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240320002350
+! Version: 20240320091533
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-20 00:23:50
-! Total Count: 25859
+! Last modified: 2024-03-20 09:15:33
+! Total Count: 25866
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -10032,6 +10032,7 @@
 ||mnfse.cn^
 ||mnhknds.com^
 ||mnhncf.cn^
+||mnifdlax.top^
 ||mnnmnn.com^
 ||mnorkc.xyz^
 ||mnpbxjq.cn^
@@ -11792,6 +11793,7 @@
 ||qvcyeknp.xyz^
 ||qvftejz.cn^
 ||qvkjkc.xyz^
+||qvnbjjd.xyz^
 ||qvpublish.com^
 ||qvrdlvz.cn^
 ||qvrfddm.cn^
@@ -12279,6 +12281,7 @@
 ||sdfg68.com^
 ||sdfgbuy.com^
 ||sdfqs2.com^
+||sdfsad562.xyz^
 ||sdfv66.com^
 ||sdfxcv.com^
 ||sdfxv57.com^
@@ -12762,6 +12765,7 @@
 ||sor.pornxok.com^
 ||sordidsmile.com^$third-party
 ||soretrain.com^$third-party
+||sosakk.xyz^
 ||soso.ws^
 ||sotunet.com^
 ||sou58.com^
@@ -13887,6 +13891,7 @@
 ||uraseszincy.com^
 ||urccncd.xyz^
 ||urgayporn.com/bn/
+||urqwzbu.cn^
 ||urueuah.cn^
 ||us-west1.cdngcloud.com^
 ||usancit.top^
@@ -14065,6 +14070,7 @@
 ||vexilorath.com^
 ||vezvpd.xyz^
 ||vfjsa6do.icu^
+||vflorp.xyz^
 ||vfsdgjrr.xyz^
 ||vfsvv1.com^
 ||vfvad.top^
@@ -14696,6 +14702,7 @@
 ||xdzjbn.xyz^
 ||xeazoj.icu^
 ||xebohjhh.xyz^
+||xedpzh.xyz^
 ||xeghes.fun^
 ||xeikwh.icu^
 ||xeiyt.cyou^
