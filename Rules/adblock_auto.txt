@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: r8OA9E3D0/R6BST6kfHRQQ
+! Checksum: q1mGgBeWGdZdDG6eBmc5aQ
 ! Title: 混合规则(自动更新)
-! Version: 20240321002513
+! Version: 20240321091654
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-21 00:25:13
-! Total Count: 134934
+! Last modified: 2024-03-21 09:16:54
+! Total Count: 134955
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6378,6 +6378,7 @@
 ||adxadserv.com^$third-party
 ||adxadtracker.com^
 ||adxbid.info^
+||adxcel-ec2.com^
 ||adxchg.com^
 ||adxcorp.kr^
 ||adxfire.com^
@@ -8123,6 +8124,7 @@
 ||analytics-sdk.yle.fi^
 ||analytics-server.gimbal.com^
 ||analytics-sg.tiktok.com^
+||analytics-sm.com^
 ||analytics-smhise.smhi.se^
 ||analytics-sprint.qoqa.com^
 ||analytics-stamp.confi.com.vc^
@@ -9002,6 +9004,7 @@
 ||api-analytics.prod.birdapp.com^
 ||api-analytics.rozetka.com.ua^
 ||api-fangarma.utyug.media^
+||api-gtm.grubhub.com^
 ||api-logdev.sohatv.vn^
 ||api.140proof.com^
 ||api.557400.com^
@@ -16027,6 +16030,7 @@
 ||cfqc.me^
 ||cfrkiqyrtai.xyz^
 ||cfrsoft.com^
+||cfrtdmb.xyz^
 ||cfs.uzone.id^
 ||cfs1.uzone.id^
 ||cfs2.uzone.id^
@@ -19372,6 +19376,7 @@
 ||ctx.matchads.net^
 ||ctxtfl.com^
 ||ctydsy.xyz^
+||ctyusif.top^
 ||ctywimluf.com^
 ||ctyzd.com^
 ||cubbingrebbes.com^
@@ -19793,6 +19798,7 @@
 ||d3g4a.cyou^
 ||d3nfknbv.icu^
 ||d4.sina.com.cn^$object,script
+||d401.dollartree.com^
 ||d41.co^
 ||d483501b04.com^
 ||d4b138a7aa.com^
@@ -23302,6 +23308,7 @@
 ||eap.enorth.com.cn^
 ||eapect.icu^
 ||eapsmnw.cyou^
+||eaqlos.xyz^
 ||earact.com^
 ||eardepth-prisists.com^
 ||eargentssep.one^
@@ -25180,6 +25187,7 @@
 ||event.filum.ai^
 ||event.getblue.io^
 ||event.hackle.io^
+||event.havasedge.com^
 ||event.headlines.pw^
 ||event.hket.com^
 ||event.impression-neo.naver.com^
@@ -30653,6 +30661,7 @@
 ||greyersuppl.guru^
 ||greystripe.com^
 ||grfz.de^
+||grgnsht.nzxt.com^
 ||gribsastiw.com^
 ||griddedwarling.top^
 ||gridiogrid.com^
@@ -31287,6 +31296,7 @@
 ||h.imedia.cz^
 ||h.online-metrix.net^
 ||h.seznam.cz^
+||h031.familydollar.com^
 ||h04.xyz^
 ||h06.xyz^
 ||h08.xyz^
@@ -34971,6 +34981,7 @@
 ||imith.com^
 ||imitrck.net^
 ||imitrk.com^
+||imk.neweggimages.com^
 ||imkbgfcnd.com^
 ||imks.cn^
 ||immaculategirdlewade.com^
@@ -37730,6 +37741,7 @@
 ||jpzvrsuwdavpjw.com^
 ||jq6b.top^
 ||jqafetxoermhue.com^
+||jqbddp.xyz^
 ||jqcyacoxrvada.com^
 ||jqdldk.cn^
 ||jqdnvg.com^
@@ -59579,6 +59591,7 @@
 ||s.tuoitre.vn^
 ||s.union.360.cn^
 ||s.uuidksinc.net^
+||s.wayfair.com^
 ||s.weibo.com/widget.html
 ||s.yaozui.com^
 ||s.yimg.com/av/curveball/ads/pr/$redirect=noop.txt,important,domain=sports.yahoo.com,image,media,subdocument,stylesheet,script,xmlhttprequest,other
@@ -66243,6 +66256,7 @@
 ||tag.getdrip.com^
 ||tag.goadopt.io^
 ||tag.goldenbees.fr^
+||tag.havasedge.com^
 ||tag.heylink.com^
 ||tag.imagino.com^
 ||tag.leadplace.fr^
@@ -72286,6 +72300,7 @@
 ||uxwnqppdma.com^
 ||uxxsiyokw.com^
 ||uxxux.com/js/zd.js
+||uxzvjoj.cn^
 ||uyban.club^
 ||uycxhgrp.xyz^
 ||uydzfldt.xyz^
@@ -72856,6 +72871,7 @@
 ||vcjczwnc.xyz^
 ||vclicks.net^
 ||vcmedia.com^
+||vcnpnf.xyz^
 ||vcommission.com^
 ||vcsesvwajeup.com^
 ||vcslotoplay.com^
@@ -84871,7 +84887,7 @@ cartoon18.com##.embed-responsive.position-relative + .card-body > .lines > span.
 cartoon18.com##.embed-responsive.position-relative > a[href^="http"]:not([href^="/"]):not([href*="cartoon18.com"])
 cartoon18.com#?#.container-fluid > .row > .item:has(> .card > .card-body > .lines > span.badge:contains(/^ad$/))
 cartoon18.com#?#.row:-abp-has(.badge:-abp-contains(ad))
-cartoon18.com,pornbest.org,ptt.sex###links
+cartoon18.com,escortbook.com,pornbest.org,ptt.sex###links
 cartoonmad.com##table[width="100%"][cellpadding="0"] > tbody > tr:nth-child(3) table[width="100%"][cellpadding="2"]
 cartoonmad.com##table[width="737"] > tbody > tr > td[valign="top"][height="100"]
 cartoonmad.com##table[width="877"] > tbody > tr > td > a[href^="https://fun8.us/"]
@@ -87275,6 +87291,7 @@ erofus.com##.row-content > .col-lg-2[style^="height"]
 eromanga-show.com,hentai-one.com,hentaipaw.com##div[id^="ts_ad_"]
 erotic-beauties.com,hardsex.cc,sex-movies.biz,sikwap.xyz,tube18.sexy##+js(abort-current-script, pop_init)
 eroticmv.com,xfantazy.com,analdin.com,xtits.com,sexu.com,javrave.club,mangamelon.com,vidoza.co,vintagetube.xxx,vidoza.org,xxxmom.pro##iframe[src^="//a.o333o.com/"]
+escortbook.com###ebsponAxDS
 escortdirectory.com##.ixs-govazd-item
 esdict.cn,eudic.net,frdic.com,godic.net###bodycontent > style + div[id] > :nth-child(n+2)
 esnai.com##.tlgg
@@ -87339,6 +87356,7 @@ euronews.com##.c-card-sponsor
 euronews.com##.enw-MPU
 euronews.com##.m-object--is-branded
 euronews.com##.m-object--is-partner-content
+euronews.com##.m-object:has(.m-object__sponsored-quote)
 euronews.com##.qa-dfpLeaderBoard
 europeangaming.eu###mvp-leader-wrap > a[href^="https://www.softswiss.com/"]
 europeanpharmaceuticalreview.com##.europ-fixed-footer
@@ -89334,6 +89352,7 @@ hentaicity.com,porntv.com##.thumb-list > div[class^="outer-item _"]
 hentaicomic.*,wnacg1.cc,wnacg.*##+js(abort-current-script, document.write, /\.(gif|php)/)
 hentaicomics.pro##.single-portfolio:has(.xxx-banner)
 hentaicore.org##.mob-lock
+hentaicovid.com,onlineradiobox.com##div[class^="banner-"]
 hentaidude.com,verpeliculasporno.gratis###videoOverAd
 hentaiff.com##div[id^="teaser"]
 hentaigamer.org##.bottom-banner-home
@@ -93744,7 +93763,6 @@ onlinemschool.com###oms_left
 onlineocr.net##.row[style*="text-align:right"]
 onlineradiobox.com##.banner--header
 onlineradiobox.com##.banner--vertical
-onlineradiobox.com##div[class^="banner-"]
 onlineradious.com,radiomixer.net##.ai-placement
 onlydudes.tv##.b-footer-place
 onlydudes.tv##.b-side-col
@@ -93914,6 +93932,7 @@ pastpapers.co##[href*="https://amzn.to/"]
 pastpapers.co##[href="https://ringdad.com"]
 pasty.info##img[aria-label="Aliexpress partner network affiliate Link"]
 pasty.info##img[aria-label="Ebay partner network affiliate Link"]
+patents.justia.com##.jcard[style="min-height:280px; margin-bottom: 10px;"]
 patriotnationpress.com##.t2ampmgy
 patriotnationpress.com##.u8s470ovl
 patrioty.org.ua###ad_pu_modal
@@ -94306,6 +94325,7 @@ pocketgamer.com###mobile-background
 pocketgamer.com###site-background
 pocketgamer.com##.abs
 pocketgamer.com##.item-unit
+podchaser.com##div[data-aa-adunit]
 poe.ninja##.leaderboard-bottom
 poe.ninja##.leaderboard-top
 poebuilds.net##.W_tBwY
@@ -131495,6 +131515,7 @@ zle.com$script
 ##a[href^="https://tm-offers.gamingadult.com/"]
 ##a[href^="https://torguard.net/aff.php"] > img
 ##a[href^="https://tour.mrskin.com/"]
+##a[href^="https://track.1234sd123.com/"]
 ##a[href^="https://track.adform.net/"]
 ##a[href^="https://track.afcpatrk.com/"]
 ##a[href^="https://track.totalav.com/"]
