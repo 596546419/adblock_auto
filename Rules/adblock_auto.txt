@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: q1mGgBeWGdZdDG6eBmc5aQ
+! Checksum: bkjF6jXrjcCkxQzCZ1SU6w
 ! Title: 混合规则(自动更新)
-! Version: 20240321091654
+! Version: 20240321162222
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-21 09:16:54
-! Total Count: 134955
+! Last modified: 2024-03-21 16:22:22
+! Total Count: 134980
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -465,6 +465,7 @@
 ||1134555.com^
 ||1136999.com^
 ||1138555.com^
+||1139477033.rsc.cdn77.org^
 ||113aa22d76.com^
 ||114com.cc^
 ||114la.com/static/js/egg.js
@@ -815,6 +816,7 @@
 ||1905.com/data/js/*.json
 ||1905.com/data/js/*.json?pwd=*.shtml&rand=$xmlhttprequest
 ||1905.com/data/js/*.json?pwd=*?fr=videoplay_*&rand=$xmlhttprequest
+||1906920927.rsc.cdn77.org^
 ||1909.me/upload/ad/
 ||1915832424.rsc.cdn77.org^
 ||1919954591.rsc.cdn77.org^
@@ -17248,6 +17250,7 @@
 ||clog.geniex.com^
 ||clog.go.com^
 ||clog.mirrativ.com^
+||clognukes.com^
 ||clogstrollcastle.com^
 ||cloisonprecool.uno^
 ||cloisteredcord.com^
@@ -21973,6 +21976,7 @@
 ||dnfnpff.xyz^
 ||dnfqqucdsdb.com^
 ||dnfs24.com^
+||dngbjyc.cn^
 ||dngz.net/x/
 ||dnhyakcwoedah.com^
 ||dnightwish.xyz^
@@ -25854,6 +25858,7 @@
 ||f7ds.liberation.fr^
 ||f7e5bf5ed8.com^
 ||f7e8aa0821.com^
+||f7fe0.cyou^
 ||f8260adbf8558d6.com^
 ||f8272.com^$third-party
 ||f83d8a9867.com^
@@ -30772,6 +30777,7 @@
 ||grsm.io^
 ||grt02.com^
 ||grtaanmdu.com^
+||grtarpcf963.top^
 ||grteab.com^
 ||grtexch.com^
 ||grthhr.xyz^
@@ -44722,6 +44728,7 @@
 ||mhdnspro.com^
 ||mhdprkwje.com^
 ||mhegew.xyz^
+||mheniwwacl.com^
 ||mhglue.xyz^
 ||mhgshawy.guru^
 ||mhhsa.xyz^
@@ -48897,6 +48904,7 @@
 ||nunxhv.com^
 ||nupdhyzetb.com^
 ||nuphizarrafw.com^
+||nupjzylhequ.com^
 ||nuqqcgb.cn^
 ||nuqwe.com^
 ||nur.gratis^
@@ -55905,6 +55913,7 @@
 ||qhdlz.net/ssyyss/m.js
 ||qhdlz.net/uploads/glxs/980x120.jpg
 ||qhdwjjhvgqa.com^
+||qhemphox.com^
 ||qheoy.cn^
 ||qhimg.com/clk.gif?
 ||qhimg.com/js/iwt.js
@@ -62634,6 +62643,7 @@
 ||slfpu.com^
 ||slfsmf.com^
 ||slfznewdii.com^
+||slggskljoczt.com^
 ||sli.familyhandyman.com^
 ||sli.huffpost.com^
 ||slibb.xyz^
@@ -65642,6 +65652,7 @@
 ||susgrqsxo.com^
 ||suspectedadvisor.com^
 ||suspensionreconnectpig.com^
+||suspicionsmutter.com^
 ||suspicionsrespectivelycobbler.com^
 ||suspicionssmartstumbled.com^
 ||suspirenicolo.guru^
@@ -68505,6 +68516,7 @@
 ||toothacheformer.com^
 ||toothbrushconceitedsemi.com^
 ||toothbrushlimbperformance.com^
+||toothcauldron.com^
 ||toothoverdone.com^
 ||toothpasteginnysorrow.com^
 ||toothstrike.com^
@@ -72280,6 +72292,7 @@
 ||uwrzjgtnur.com^
 ||uwumr.cn^
 ||uwuzpxt.cn^
+||uwzxukualwdkx.com^
 ||uxcnhsf.cn^
 ||uxdfxyepfow.xyz^
 ||uxdwhatijun.xyz^
@@ -88114,6 +88127,7 @@ fulibl.com##.widget_banner
 fulibus.net##.sidebar > div:first-child
 fullporner.com###right1_ad
 fullporner.com##+js(abort-on-property-read, dataPopUnder)
+fullpornfuck.com,gotohole.com,x-hd.video##.video-brs
 fullyu.com##.rightSide-top-ads
 fun1shot.com##a[href^="https://kenio.cn/"]
 fun48.com###float2016
@@ -88783,7 +88797,6 @@ gotgayporn.com###ss_bar
 gotgayporn.com##.bottom-af-block
 gotgayporn.com,submityourflicks.com###aff-aside
 gothamist.com##.leaderboard-ad-backdrop
-gotohole.com,fullpornfuck.com##.video-brs
 gotporn.com###external-floater-ad-wrap
 gotporn.com##.image-300x250
 gotporn.com##.image-content-wrap.footer-image-contents-bl
@@ -93337,6 +93350,9 @@ newsnow.co.uk##.grid-column__container
 newsnow.co.uk##.hero-wrapper
 newsnow.co.uk##.js-banner-strip
 newsnow.co.uk##.skyscraper-left
+newspointapp.com##.Ad_wrapper
+newspointapp.com##.fbgooogle-wrapper
+newspointapp.com##[ctn-style]
 newsroom.co.nz##.foundingpartners
 newsroom.co.nz##.sponsor-logos2
 newstalkflorida.com##a[alt="Ad"]
@@ -99569,6 +99585,7 @@ xnxx.com,xvideos.com###ad-footer
 xnxx.com,xvideos.com##.thumb-ad
 xnxx.com,xvideos.com##[id^="ad-"]
 xnxxhd.pro##.approve
+xnxxporn.video###spotholder
 xnxxvideos.rest##.mult
 xnxxvideos.rest##.prefixat-player-promo-col
 xnxxvideos.rest##.refr
@@ -103245,6 +103262,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad_contents/*
 /ad_count.
 /ad_counter.
+/ad_counter.aspx
 /ad_counter_
 /ad_create.
 /ad_creatives.
@@ -103479,6 +103497,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adactions.
 /adanalytics.
 /adanim/*
+/adaptive_components.ashx?type=ads&
 /adaptv_ortb/*
 /adaptvadplayer.
 /adaptvadservervastvideo.
@@ -109197,6 +109216,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /stuiA004/statics/asd/*
 /stui_ads/xyz456e/*
 /style_ad.
+/style_ad.css
 /styleads2.
 /styles/ad/*
 /styles/ads.
@@ -109214,7 +109234,9 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /superads-$script
 /superads_
 /supernorthroomad.
+/suurl5.php
 /suv4.js
+/suv5.js
 /svnad/*
 /svr/*.aspx?placeid=$third-party
 /svr/popwin.aspx?$third-party
@@ -109226,6 +109248,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /synad2.
 /synad3.
 /sync2ad.
+/sync2ad.js
 /syndication/ad.
 /sys/ad/*
 /system/ad/*
@@ -109268,7 +109291,9 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /tardisrocinante/austin.js
 /tardisrocinante/vitals.js
 /targetingAd.
+/targetingAd.js
 /targetpushad.
+/targetpushad.js
 /taxonomy-ads.
 /tb/_/video_frs_head_
 /tb/img/hg/hg.gif?
@@ -109280,7 +109305,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /teads-detector.
 /teamplayer-ads.
 /teaseimg/ads/*
-/technomedia.
 /technomedia.$domain=~technomedia.co
 /teletoon_ad.
 /tempads/*
@@ -109441,6 +109465,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /trendad.
 /tres/recommend/*$domain=ifeng.com
 /triadshow.
+/triadshow.asp
 /tribalad.
 /tripplead/*
 /tt_gb/skin_js/gg.js

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Xzs74GKtET2tkaufyYAvHA
+! Checksum: H45eFiSnQ79Hgw9+W7QsDw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240321091705
+! Version: 20240321162233
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-21 09:17:05
-! Total Count: 25869
+! Last modified: 2024-03-21 16:22:33
+! Total Count: 25879
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4806,6 +4806,7 @@
 ||cfateu.xyz^
 ||cfdns.vip^
 ||cfff.net^$third-party
+||cfrtdmb.xyz^
 ||cfx3d.xyz^
 ||cfzhushou.com^*/King_Chance_Layer.js
 ||cgbswl.icu^
@@ -5284,6 +5285,7 @@
 ||ctrip.com/amd/*960x90.
 ||ctvrtrya.xyz^
 ||ctydsy.xyz^
+||ctyusif.top^
 ||cuioxbqi.com^
 ||cul.xunjiu.online^
 ||cupfox.app^$third-party
@@ -5747,6 +5749,7 @@
 ||dnceqzz.icu^
 ||dndmygr.cn^
 ||dnfnpff.xyz^
+||dngbjyc.cn^
 ||dngz.net/x/
 ||dnightwish.xyz^
 ||dniwe.xyz^
@@ -6031,6 +6034,7 @@
 ||eap.big5.enorth.com.cn^
 ||eap.enorth.com.cn^
 ||eapect.icu^
+||eaqlos.xyz^
 ||easou.com/brandImage/ad/
 ||easou.com/online/banner/
 ||easou.com^$third-party
@@ -6362,6 +6366,7 @@
 ||f2dsex1.com/public/fb*.png
 ||f4nfg.site^
 ||f780f.space^
+||f7fe0.cyou^
 ||f8dy.tv/template/m1938/js/b
 ||f8dy.tv/template/m1938/js/foot.js
 ||f9s6.top^
@@ -7108,6 +7113,7 @@
 ||greenet.cn^*_popu_$popup
 ||greenxf.com/js/2019/
 ||greenxiazai.com/d/js/v/
+||grtarpcf963.top^
 ||grthhr.xyz^
 ||grtimed.com/material/*_960x110_
 ||grumpydime.com^$third-party
@@ -8579,6 +8585,7 @@
 ||jpush0b.xyz^
 ||jpvrbt.xyz^
 ||jpysvip.net/ad/
+||jqbddp.xyz^
 ||jqkcett.icu^
 ||jqpejp.xyz^
 ||jqsex.com^
@@ -11590,6 +11597,7 @@
 ||qhdi.com/ttxnb.php
 ||qhdlz.net/ssyyss/m.js
 ||qhdlz.net/uploads/glxs/980x120.jpg
+||qhemphox.com^
 ||qheoy.cn^
 ||qhimg.com/ssl/20212c7594890e1c.js
 ||qhimg.com/static/*/common/seed.js
@@ -13958,6 +13966,7 @@
 ||uxtruz.xyz^
 ||uxwkiyp.xyz^
 ||uxxux.com/js/zd.js
+||uxzvjoj.cn^
 ||uycxhgrp.xyz^
 ||uydzfldt.xyz^
 ||uym11.xyz^
@@ -14034,6 +14043,7 @@
 ||vcbppb.xyz^
 ||vcdn.biz/*_mggads/
 ||vcjczwnc.xyz^
+||vcnpnf.xyz^
 ||vcvbnmto.xyz^$third-party
 ||vcydyzd.icu^
 ||vdebtqm.xyz^
