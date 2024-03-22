@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: zv7JdN/56BewXPYw2d+P3g
+! Checksum: rY06ycDcohkaunMYupSHLg
 ! Title: 混合规则(自动更新)
-! Version: 20240322002614
+! Version: 20240322091552
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-22 00:26:14
-! Total Count: 134988
+! Last modified: 2024-03-22 09:15:52
+! Total Count: 135046
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -267,6 +267,7 @@
 ||0i0i0i0.com^$third-party,important
 ||0j775d.cn^
 ||0j91h.cyou^
+||0k7wod.cn^
 ||0ka.com^$third-party
 ||0kkbb.com/js/i.js
 ||0krdn3.com^
@@ -1252,6 +1253,7 @@
 ||2898.com/index/flowexchange/getGoods?
 ||28acglz.com^
 ||28adea9220.com^
+||28e096686b.com^
 ||28hse.com/adsman/www/images/
 ||28kys.com/92kviptupian/
 ||28kys.com/cpstupian/
@@ -4290,6 +4292,7 @@
 ||actionpay.ru^
 ||actionrtb.com^
 ||actionteaser.ru^
+||actitat.com^
 ||activatejargon.com^
 ||activatestoolpoise.com^
 ||activationskey.org^
@@ -7344,6 +7347,7 @@
 ||albumsignaturerequested.com^
 ||albyegitvem.com^
 ||albynloxia.website^
+||albynoralism.com^
 ||albyprd.cn^
 ||alcatza.com^
 ||alcesinassing.xyz^
@@ -9007,7 +9011,6 @@
 ||api-analytics.prod.birdapp.com^
 ||api-analytics.rozetka.com.ua^
 ||api-fangarma.utyug.media^
-||api-gtm.grubhub.com^
 ||api-logdev.sohatv.vn^
 ||api.140proof.com^
 ||api.557400.com^
@@ -11014,6 +11017,7 @@
 ||bahatoken.site^
 ||bahisciler.co^
 ||bahmemohod.com^
+||bahom.cloud^
 ||bahswl.com^
 ||bahutuophian.com^
 ||bai.luyouwang.com^
@@ -11856,6 +11860,7 @@
 ||be5fb85a02.com^
 ||bea-s.dinghuoche.com^
 ||bea4f47fc3.com^
+||bea988787c.com^
 ||beabbqlkiekmxgp.com^
 ||beabsolom.com^
 ||beacher56.xyz^
@@ -13274,6 +13279,7 @@
 ||bmcdn4.com^
 ||bmcdn5.com^
 ||bmcdn6.com^
+||bmdmtsqmymthdx.com^
 ||bmesoqnxqjuwmfa.com^
 ||bmfads.com^
 ||bmggqehmcvny.xyz^
@@ -21934,6 +21940,7 @@
 ||dmpgfbkxa.xyz^
 ||dmpmetrics.rcsmetrics.it^
 ||dmpprof.com^
+||dmpqjn.xyz^
 ||dmpsj.cn^
 ||dmpxs.com^
 ||dmr.cnhoney.com^
@@ -26469,6 +26476,7 @@
 ||feizailin.com^
 ||feizl.com/images/smdd/
 ||fejla.com^
+||fejvqtmgwfohb.com^
 ||fejwcnbsu.com^
 ||fekivnv.cn^
 ||fekpcd.icu^
@@ -27343,6 +27351,7 @@
 ||foggilysyling.top^
 ||foggydefy.com^
 ||foggytube.com^
+||foghug.site^
 ||fogl1onf.com^
 ||fognvcteac.com^
 ||fogpurply.website^
@@ -27799,6 +27808,7 @@
 ||freefiremenbershipvn.com^
 ||freefirenhanqua.com^
 ||freefirervmembership.com^
+||freefrog.site^
 ||freefromads.com^
 ||freefromads.pro^
 ||freegeoip.app^
@@ -30172,6 +30182,7 @@
 ||goldsurf24h.pl^
 ||goldtroopsdetached.com^
 ||golfchapah.space^
+||golilog.com^
 ||gollkawvv.xyz^
 ||golochmenacer.com^
 ||goloshyacal.space^
@@ -31050,6 +31061,7 @@
 ||gujakqludcuk.com^
 ||guji.store^
 ||gujiadayuan.top^
+||gujojbavdoh.com^
 ||guke.name^
 ||gulfimply.com^
 ||guli21.com/PNEW/
@@ -33549,6 +33561,7 @@
 ||htvixv.xyz^
 ||htwrildnk.xyz^
 ||htyrmacanbty.com^
+||htyusiu.top^
 ||hu.xbhy.com^
 ||hu4c.top^
 ||huadiximeng.cn^
@@ -34177,6 +34190,7 @@
 ||iblimq.xyz^
 ||ibmgroup.co.uk^
 ||ibnads.xl.co.id^
+||ibniyqbkk.com^
 ||ibonmfvcwb.xyz^
 ||ibortvgbkvpmes.com^
 ||ibptutlgoloqy.com^
@@ -37107,6 +37121,7 @@
 ||jghmrie.cn^
 ||jgmywh.icu^
 ||jgnlaiga.fun^
+||jgpvgjtldgocob.com^
 ||jgqaoipkohsln.com^
 ||jgqflgggex.com^
 ||jgqub.cn^
@@ -38614,6 +38629,7 @@
 ||kavietnam.xyz^
 ||kavijaseuranta.fi^
 ||kaxnoyxs.com^
+||kayoesfervor.com^
 ||kayzqar.cn^
 ||kazanbossterrifying.com^
 ||kazigua.top^
@@ -39966,6 +39982,7 @@
 ||kydb.xyz^
 ||kydzfldt.xyz^
 ||kyefakwa.com^
+||kygfocnbvlaa.com^
 ||kygftx.xyz^
 ||kygso.com/js/lrtk.js
 ||kyikdee.cn^
@@ -43550,6 +43567,7 @@
 ||manpowersets.com^
 ||manqian.cn/784a6e27-be5b-4442-86e5-9f4adb51894d?
 ||manqian.cn/async/adLocationConfig
+||manrootarbota.com^
 ||mansernema.com^
 ||mansfieldeffects.com^
 ||manslaughterhallucinateenjoyment.com^
@@ -45232,6 +45250,7 @@
 ||mmjjnufyaadr.com^
 ||mmjoxlxv.com^
 ||mmlala.com^
+||mmliwvbw.com^
 ||mmm.theweek.co.uk^
 ||mmmdn.net^
 ||mmmkwhktalcvvpg.com^
@@ -45928,6 +45947,7 @@
 ||mousheen.net^
 ||mousmeetrike.com^
 ||moustite.com^
+||mouthaipee.xyz^
 ||mouthinvincibleexpecting.com^
 ||movable-ink-6710.com^
 ||movad.de^
@@ -46178,6 +46198,7 @@
 ||msnignsx.xyz^
 ||msnoownmx.fun^
 ||msnvqfjg.com^
+||msotdipkjtata.com^
 ||mspnvrkthtvcpl.com^
 ||msqdqq.com^
 ||msrehcmpeme.com^
@@ -47526,6 +47547,7 @@
 ||neitherpennylack.com^
 ||neitherpossessedset.com^
 ||nekaujoa.net^
+||nekcakexk.com^
 ||nektonsrutate.com^
 ||nelhon.com^
 ||nellads.com^
@@ -48353,6 +48375,7 @@
 ||nnsnniklov.xyz^
 ||nnthewdnez.com^
 ||nntsdp.xyz^
+||nntzjgzvbzz.com^
 ||nnvkh.com^
 ||nnxijkdigwywla.com^
 ||no1.168abc.net/upload/
@@ -50448,6 +50471,7 @@
 ||oqfdan.cn^
 ||oqfgpdnwdbirpc.com^
 ||oqfvsgfj.com^
+||oqhbykhlt.com^
 ||oqkedrojyy.xyz^
 ||oqnabsatfn.com^
 ||oqnfsivlp.com^
@@ -51054,6 +51078,7 @@
 ||ox.bncounter.com^
 ||ox1.vietstock.vn^
 ||ox11.com^
+||ox4h1dk85.com^
 ||ox8.topsexhdvideos.com^
 ||oxado.com^
 ||oxbowfog.com^
@@ -51385,6 +51410,7 @@
 ||paintednarra.top^
 ||paintifiercute.club^
 ||paintpear.com^$third-party
+||paintwandering.com^
 ||paiphaseze.com^
 ||paipsuto.com^
 ||pairaffirmative.com^
@@ -51535,6 +51561,7 @@
 ||paravaprese.com^
 ||parcbegulf.com^
 ||parchedsofa.com^$third-party
+||parcookgitano.top^
 ||pardompus.ru^
 ||pardonsentencegeneral.com^
 ||parecyrclame.com^
@@ -51764,6 +51791,7 @@
 ||pavymoieter.com^
 ||pawderstream.com^
 ||pawheatyous.com^
+||pawhybkpqgqw.com^
 ||pawkilycurvous.com^
 ||pawkychantey.com^
 ||pawmhkhbp.com^
@@ -52941,6 +52969,7 @@
 ||piwik.org^
 ||piwik.pro^
 ||piwixesu.pro^
+||piwxzsuewln.com^
 ||pix.boursorama.com^
 ||pix.eads.com^
 ||pix.gfycat.com^
@@ -53468,6 +53497,7 @@
 ||podaaec.cyou^
 ||podalichoorays.life^
 ||podefr.net^
+||podlersabir.com^
 ||podosupsurge.com^
 ||podsolnu9hi10.com^
 ||podtiachining.space^
@@ -56194,6 +56224,7 @@
 ||qnlranvabrnq.top^
 ||qnmtqq.com^
 ||qnmvqdl.cn^
+||qnqzbfgg.com^
 ||qnrscbotmsj.com^
 ||qnsb.com/news/index.php?m=poster&
 ||qnsr.com^
@@ -56825,6 +56856,7 @@
 ||qzone.la/Scripts/m.js
 ||qzonestyle.gtimg.cn/qzone/biz/ac/comm/$script
 ||qzos9ou.xyz^
+||qzozsa.xyz^
 ||qzpbwq.com^
 ||qzqmrlqnnzwab.top^
 ||qzqyw.cn^
@@ -56966,6 +56998,7 @@
 ||raglassofrum.cc^
 ||ragoassidsie.com^
 ||ragsbxhchr.xyz^
+||rahmagtgingleaga.info^
 ||rahxfus.com^
 ||raiglihi.net^
 ||raijoolu.xyz^
@@ -57211,6 +57244,7 @@
 ||rcblkkhfvrxyn.com^
 ||rccrb.cn^
 ||rcerrohatfad.com^
+||rcesigojtwh.com^
 ||rcf3occ8.de^
 ||rchkup.com^
 ||rcm.shinobi.jp^
@@ -58562,6 +58596,7 @@
 ||rizgtf.xyz^
 ||rizlhvb.cn^
 ||rizzonelli.it^
+||rjaddfbzxzu.com^
 ||rjhbjv.xyz^
 ||rjhiomohthqr.com^
 ||rjkezyfcpxffc.com^
@@ -58861,6 +58896,7 @@
 ||ropedsawwort.com^
 ||ropemoon.com^
 ||ropesunfamiliar.com^
+||ropwilv.com^
 ||roqiwno.com^
 ||rordukinarilyhuke.info^
 ||roredi.com^
@@ -61417,6 +61453,7 @@
 ||shindyprayhrs.com^
 ||shinebliss.com^
 ||shineinternalindolent.com^
+||shinep.xyz^
 ||shinglelatitude.com^
 ||shinhan0.com^
 ||shinhanapp.org^
@@ -62344,6 +62381,7 @@
 ||sinkdescriptivepops.com^
 ||sinkingspicydemure.com^
 ||sinkingswap.com^
+||sinlovewiththemo.info^
 ||sinmgaepu3or9a61w.com^
 ||sinmufar.com^
 ||sinodan.link/js/js4.js?v=
@@ -64087,6 +64125,7 @@
 ||ssnnn.net^
 ||ssnoownmb.fun^
 ||sso-hotro-taikhoan.com^
+||ssooss.site^
 ||ssp*.rtb.beeline.ru^
 ||ssp-ad.momento.dev^
 ||ssp.21ic.com^
@@ -65865,6 +65904,7 @@
 ||sydneygfpink.com^
 ||sydswxx.com^
 ||sydz.tw^
+||syeniteexodoi.com^
 ||syetmpdktjeor.com^
 ||sygmtz.com^
 ||syinga.com^
@@ -66581,6 +66621,7 @@
 ||tapjoy.com^
 ||tapjoy.net^
 ||tapjoyads.com^
+||taplytics-umami.grubhub.com
 ||taplytics.com^
 ||tapnative.com^
 ||tapnetwork.ru^
@@ -68468,6 +68509,7 @@
 ||tonemedia.com^
 ||tonesnorrisbytes.com^
 ||tonesprotectioncard.com^
+||tongabanky.com^
 ||tonganserried.life^
 ||tongbaimi.cn^
 ||tongbaimi.cn^$third-party
@@ -70287,6 +70329,7 @@
 ||tsnoownmi.fun^
 ||tsofhormuz.cfd^
 ||tspops.com^
+||tsqabdrgxourg.com^
 ||tsr.zlatoff.ru^
 ||tsrpcf.xyz^
 ||tsrrbok.com^
@@ -71454,6 +71497,7 @@
 ||unconditionally.wang^
 ||uncovereasel.com^
 ||uncoverherbal.com^
+||uncoylyreprint.com^
 ||uncree.com^
 ||uncrobator.com^
 ||uncroptbhutia.com^
@@ -74431,6 +74475,7 @@
 ||vptzqnjwguap.com^
 ||vpumfeghiall.com^
 ||vpwhhtpwhmd.com^
+||vpzohx.xyz^
 ||vq7736.com^
 ||vqcjmtorgexlxpg.xyz^
 ||vqcuzypju.com^
@@ -75929,6 +75974,7 @@
 ||whoson.com^
 ||whotchie.net^
 ||whotrundledthe.com^
+||whoulikaihe.net^
 ||whoumtip.xyz^
 ||whoungoz.net^
 ||whounoag.xyz^
@@ -77167,6 +77213,7 @@
 ||wzrkt.com^
 ||wzrqeos.com^
 ||wzsygdl.com^
+||wzwtdbvzio.com^
 ||wzxty168.com^
 ||wzzlnld.xyz^
 ||x-busty.org^
@@ -77378,6 +77425,7 @@
 ||xdhfvrug.xyz^
 ||xdhqtgpkywjl.com^
 ||xdirectx.com^
+||xdisplay.site^
 ||xdiwbc.com^
 ||xdiwbc.com^$third-party
 ||xdjdpyrt.xyz^
@@ -77925,6 +77973,7 @@
 ||xn--xhq9mt12cf5v.xn--io0a7i^$third-party
 ||xn--zw0autp42d.cn^
 ||xne1ocient87zxz.360doc.cn^
+||xnedglnnwrexss.com^
 ||xnfhxszj.xyz^
 ||xng02.com/api.php?mod=ad&
 ||xni.ink^
@@ -79071,6 +79120,7 @@
 ||ymx33.com^
 ||ymyh.club^
 ||ymzcapp.shop^
+||ymzmcquz.com^
 ||ynaapihbulbky.com^
 ||ynbyutongdianqi.com^
 ||yncvbqh.com^
@@ -83416,6 +83466,7 @@ assbbs.com###ass_adv
 asspoint.com,babepedia.com,babesandstars.com,blackhaloadultreviews.com,dbnaked.com,freeones.com,gfycatporn.com,javfor.me,mansurfer.com,newpornstarblogs.com,ok.porn,porn-star.com,porn.com,porndoe.com,pornhubpremium.com,pornstarchive.com,rogreviews.com,sexyandfunny.com,shemaletubevideos.com,spankbang.com,str8upgayporn.com,the-new-lagoon.com,tube8.com,wcareviews.com,xxxonxxx.com,youporn.com##a[href*=".com/track/"]
 astro.com##div[class^="goad"]
 astrology.com##.primis-video-module-horoscope
+astrozop.com##.relative.z-5
 asura.gg,nacm.xyz###noktaplayercontainer
 asurascans.com,ozulscansen.com,pascol.sbs,realmscans.com,void-scans.com,yugenmangas.net###teaser3
 asus.com##.bg_block
@@ -84841,8 +84892,8 @@ camvideos.tv,pornfapr.com##.margin-fix > .place
 camwhores.tv##.tdn
 canada411.ca##.c411TopBanner
 canadaka.net##.boxadd
-canadianbusiness.com##.sjm-dfp-wrapper
 canadianbusiness.com,macleans.ca,vidio.com,yardbarker.com###leaderboard_container
+canadianbusiness.com,torontolife.com##.sjm-dfp-wrapper
 canarymedia.com##.inset-x-0
 canberratimes.com.au,examiner.com.au,theland.com.au,whoscored.com###billboard-container
 canberratimes.com.au,theland.com.au###newswell-leaderboard-container
@@ -85620,6 +85671,7 @@ coingax.com###wcfloatDiv4
 coingecko.com###top-announcement-header
 coingecko.com##.selected
 coingecko.com##.sponsored-v2
+coingecko.com##[data-controller="button-ads"]
 coingecko.com##[data-target="ads.banner"]
 coingolive.com##[href^="https://bitpreco.com/"]
 coingolive.com##[href^="https://coinext.com.br/"]
@@ -92277,6 +92329,8 @@ marijuanamoment.net##.mvp-widget-ad
 marineelectronics.com,marinetechnologynews.com,maritimeprofessional.com##.nwm-banner
 marinelink.com,maritimejobs.com,maritimepropulsion.com,yachtingjournal.com##.jq-banner
 marinetraffic.com##.mt-desktop-mode
+marionmugshots.com##.g-1
+marionmugshots.com##.g-3
 mariopartylegacy.com##.ad-long
 maritimeprofessional.com##.b300x250
 marketbeat.com##.no-underline
@@ -93179,6 +93233,7 @@ needpix.com###needpix_com_top_banner
 needsomefun.net###text-36
 needsomefun.net###text-42
 neets.cc#?#div[class]:-abp-has(> div > .home_p)
+negozioxporn.com##.ntv1
 neihanshe.cn###mobile_client
 neihanshequ.com###appDownload
 neihanshequ.com###pageletBottomBanner
@@ -93716,6 +93771,7 @@ ok.xxx,pornhat.com,xxxonxxx.com##.player-bn
 okanime.tv##.jconfirm
 okbaza.net##.google3
 okdyy.com##[style*="width:"][style*="100%"],p[style*="display: block;"]
+okxxx1.com#?#.bn-title:-abp-contains(Advertising)
 old.reddit.com##.native-ad-container
 oldies.name###stop_ad2
 olehd.com,olevod.com,olevod.eu##a[style*="/upload/site/"]
@@ -96023,6 +96079,7 @@ sexvid.*##.video-holder > div.tool_bar
 sexvid.*##div[class^="spot"]
 sexvid.porn,sexvid.pro,sexvid.xxx##.download_link
 sexvid.porn,sexvid.pro,sexvid.xxx##.player-sponsor
+sexvid.pro##.aside_thumbs
 sexvid.xxx##+js(abort-on-property-read, pu)
 sexvid.xxx##.bottom_spots
 sexvid.xxx##.box_site
@@ -108812,6 +108869,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /script/nwsu.js$third-party
 /script/oas/*
 /script/suurl4.php?$third-party
+/script/suv5.js$third-party
 /script/ut.js?cb=$third-party
 /script/wait.php?*=$xmlhttprequest
 /scriptonline.js?uin=

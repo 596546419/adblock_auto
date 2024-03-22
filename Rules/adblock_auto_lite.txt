@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: VX9yCFlPBm9jDt+/vQMmaQ
+! Checksum: giEQecSltznixsxuubswiQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240322002625
+! Version: 20240322091603
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-22 00:26:25
-! Total Count: 25879
+! Last modified: 2024-03-22 09:16:03
+! Total Count: 25886
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -82,6 +82,7 @@
 ||0i0i0i0.com^$third-party,important
 ||0j775d.cn^
 ||0j91h.cyou^
+||0k7wod.cn^
 ||0kkbb.com/js/i.js
 ||0krdn3.com^
 ||0mnopqr.com^
@@ -1524,6 +1525,7 @@
 ||act.chinatimes.com/aimg/
 ||act.cmcmcdn.com/*/liondance/dist/js/bundle.js$domain=duba.com
 ||actdk.xyz^
+||actitat.com^
 ||activity.browser.intl.miui.com^
 ||actoys.net/index.php?m=poster&
 ||actoys.net/js/beitou.js
@@ -5735,6 +5737,7 @@
 ||dmeia.xyz^
 ||dmg-dd.oss-accelerate.aliyuncs.com^
 ||dmm.aizhan.com^
+||dmpqjn.xyz^
 ||dmr.cnhoney.com^
 ||dms.fx678.com^
 ||dms.vancss.com^
@@ -7052,6 +7055,7 @@
 ||goikbnjksdf.com^
 ||gold.szonline.net^
 ||gold678.com/news/js/layer/layer.js
+||golilog.com^
 ||gome.com.cn/flight?
 ||gongshe99.com/d/js/gongshe/gsw
 ||gongyuxinxi.xyz^
@@ -7704,6 +7708,7 @@
 ||httpwwwdcom.com/js/aaa/
 ||htubzpb.cn^
 ||htvixv.xyz^
+||htyusiu.top^
 ||huaerdadi.com^$third-party
 ||huaiduoduo.info/Runtime/js/
 ||huancaicp.com/?pid=$popup
@@ -11835,6 +11840,7 @@
 ||qzalsk.xyz^
 ||qznjujv.xyz^
 ||qzone.la/Scripts/m.js
+||qzozsa.xyz^
 ||qzpbwq.com^
 ||qzvzluu.xyz^
 ||r.99waiyu.com^
@@ -14201,6 +14207,7 @@
 ||vpsgu.cn^
 ||vptz1*.xyz/1*.html$document
 ||vptz1*.xyz/1*.html$~third-party
+||vpzohx.xyz^
 ||vrdxznr.xyz^
 ||vreephay.com^
 ||vrivslffndepxqd.xyz^
