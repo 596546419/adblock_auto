@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: YnZ/lbndmu0eiVmuC7t7YA
+! Checksum: EiMaeZQQ0FSJ5gb4K2c8wQ
 ! Title: 混合规则(自动更新)
-! Version: 20240322162240
+! Version: 20240323002347
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-22 16:22:40
-! Total Count: 135049
+! Last modified: 2024-03-23 00:23:47
+! Total Count: 135058
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1279,6 +1279,7 @@
 ||2a6d9e5059.com^
 ||2a710318ec.com^
 ||2ad.wtf^
+||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz^
 ||2aefgbf.de^
 ||2aqr.net^
 ||2aus34sie6po5m.com^
@@ -12612,6 +12613,7 @@
 ||biaoge.tv/fa
 ||biaoshipai.net^
 ||bibberbummler.com^
+||bibincom.com^
 ||biblesausage.com^
 ||bibotsays.com^
 ||bibtu.com^
@@ -20250,6 +20252,7 @@
 ||dataperforma.com^
 ||datarating.com^
 ||dataroid.com^
+||dataryon.com^
 ||datas.tianqistatic.com^
 ||datatech.wang^
 ||datatechone.com^
@@ -51111,6 +51114,7 @@
 ||oxtracking.com^
 ||oxtsale1.com^
 ||oxu24.com^
+||oxvlxwz.xyz^
 ||oxwtihtvdwgdaq.com^
 ||oxxvikappo.com^
 ||oxybe.com^
@@ -76185,6 +76189,7 @@
 ||wingingtuzzle.space^
 ||wingleeer.space^
 ||wingontravel.com/Static/headerfooter/Content/js/masterpage.
+||wingsurf.cn^
 ||winiermarrier.com^
 ||winingcpi.cn^
 ||winitout.com^
@@ -80157,6 +80162,7 @@
 ||zfwnbsdawitk.com^
 ||zfxtodsxtmw.com^
 ||zfykvns.cn^
+||zfzys.top^
 ||zg.mmyuer.com^
 ||zgazgluy.com^
 ||zgcnxihiklai.com^
@@ -84000,8 +84006,8 @@ barrons.com##.barrons-body-ad-placement
 barrons.com##.standard__AdWrapper-sc-14sjre0-6
 barrons.com##div[class^="BarronsTheme--adWrapper"]
 barrons.com,wsj.com##.uds-ad-container
-barscaffolding.co.uk,capitalregionusa.xyz,dcraddock.uk,eegirls.com,gay1080.com,jav1080.com,javbebe.com,javsister.com,javxxoo.com,pornofilmes.com,pornstory.net,sex-leaks.com,sexclips.pro,vietfuck.com,xxx-picture.com##.boxzilla-container
-barscaffolding.co.uk,capitalregionusa.xyz,dcraddock.uk,eegirls.com,javbebe.com,javxxoo.com,pornofilmes.com,pornstory.net,retailgazette.co.uk,sexclips.pro,vietfuck.com,xxx-picture.com##.boxzilla-overlay
+barscaffolding.co.uk,capitalregionusa.xyz,dcraddock.uk,eegirls.com,gay1080.com,jav1080.com,javbebe.com,javsister.com,javxxoo.com,pornofilmes.com,pornstory.net,sex-leaks.com,sexclips.pro,theboyboy.com,vietfuck.com,xxx-picture.com##.boxzilla-container
+barscaffolding.co.uk,capitalregionusa.xyz,dcraddock.uk,eegirls.com,javbebe.com,javxxoo.com,pornofilmes.com,pornstory.net,retailgazette.co.uk,sexclips.pro,theboyboy.com,vietfuck.com,xxx-picture.com##.boxzilla-overlay
 barstoolsports.com##.htl-ad__container
 base64decode.org##.ad_right_bottom
 base64decode.org##.ad_right_top
@@ -89499,6 +89505,7 @@ highwayradio.com##.hiway-widget
 hihbt.com##.single-content > p > a[target="_blank"]:not([href^="/ac"])
 hihbt.com##aside[id^="advert-"]
 hihbt.com#?#.theiaStickySidebar > .widget_custom_html:has(> .textwidget > p a[target="_blank"][rel="noopener"]:not([href^="/ac"]):not([href^="/asian"]):not([href^="/category"]))
+hikaritube.com,poyopara.com#?#iframe[src^="https://pokoran.com/ad/"]:upward(1)
 hilltimes.com###sp-mini-box
 hilltimes.com##.elementor-element-5818a09
 himovies.to,musichq.net##[href="https://zoro.to"]
@@ -90805,6 +90812,10 @@ japvid.xxx,freeteenporn.xxx##.thumb-banner
 jav-jp.com,raspians.com###block-29
 jav.work##.releated_video[style^="overflow: hidden;"]
 jav1080.com,sex-leaks.com,gay1080.com,javsister.com###boxzilla-overlay
+jav2free.com,penissexy.com,sexseeimage.com,theboyboy.com##.happy-player-beside
+jav2free.com,penissexy.com,sexseeimage.com,theboyboy.com##.happy-player-under
+jav2free.com,penissexy.com,sexseeimage.com,theboyboy.com##.happy-section
+jav2free.com,penissexy.com,sexseeimage.com,theboyboy.com##.order-1
 jav321.com###popup-container
 jav321.com##.row > .col-md-12 > h2
 jav321.com##.row > .col-md-12 > ul
@@ -91012,6 +91023,7 @@ jisuxz.com##.dl_gaosu
 jitashe.org##.bc_side_250
 jitashe.org,mumujita.com##a[href*=".makeding.com/"]
 jiumodiary.com###forum-panel
+jiuse.io##.row > div.colVideoList:has(> div.video-elem > a[target="_blank"])
 jiuse710.com###main > div[class]:not([class*="block"]):not([class*="container"])
 jiuse710.com#?##main div.row > div.colVideoList:has(> div.video-elem > a[href][target="_blank"])
 jiyingdm.com###otherWindowBox
@@ -91920,6 +91932,8 @@ logi.im##body > div[style^="background: black; position: fixed; "][style*="opaci
 logo160.com##script + a[href="/"]
 logupdateafrica.com###rotating-item-wrapper
 lohas.pixnet.net###box785805
+lol.ps##.adpage
+lol.ps##.instream-video-ad
 loldk.com###meizi_ad
 loldk.com###test_ad + #model
 loldk.com##.appfix
@@ -94927,7 +94941,6 @@ power.baidu.com,zhidao.baidu.com##.wgt-clew[data-type="goods"]
 power987.co.za##.power-leader-board-center
 powerboat-world.com###rotator_url
 poxiaotv.net##.vdbto,.qptp + a,[onclick],.qpgdo
-poyopara.com#?#iframe[src^="https://pokoran.com/ad/"]:upward(1)
 poznamka.ru##body > [id]:not([class])[style^="z-index"]
 pp.ua###id_ad_image
 ppc.world##.detected-block-modal
@@ -94938,9 +94951,7 @@ pptv.com###installApp
 pptv.com##.advView-two,#p-mark
 pptv.com##.mod_960x90
 ppys66.com##.container-slide + .container-slide
-ppys66.com##.module-items > a[target="_blank"]
 ppys66.com##a[title="成人深夜福利"]
-ppys66.com##div[class^="is_"]
 pqworld.com##.left-float
 pqworld.com##.left-float-tx
 pr-cy.ru##div[id^="aabb"]
@@ -96027,9 +96038,6 @@ sexpuss.org##.bn1
 sexpuss.org##.tu-sexc3
 sexpussynude.com##.sidebar > section[id^="custom_html-"]
 sexsbarrel.com,zingyporntube.com##.bns-place-ob
-sexseeimage.com##.happy-player-beside
-sexseeimage.com##.happy-player-under
-sexseeimage.com##.happy-section
 sexseeimage.com##.video-block-happy
 sextb.net##.asg-overlay
 sextb.net##.network-top span
@@ -130850,6 +130858,7 @@ zle.com$script
 ##a[href*=".ktvxn.com/"]
 ##a[href*=".las88889999.com:"]
 ##a[href*=".lvdou.life/"][target="_blank"]
+##a[href*=".mamsou.com/"]
 ##a[href*=".mbrnf.com/"]
 ##a[href*=".meta-hh.com/"]
 ##a[href*=".meta-jt.com/"]
