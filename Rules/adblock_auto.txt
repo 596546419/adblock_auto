@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: rY06ycDcohkaunMYupSHLg
+! Checksum: YnZ/lbndmu0eiVmuC7t7YA
 ! Title: 混合规则(自动更新)
-! Version: 20240322091552
+! Version: 20240322162240
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-22 09:15:52
-! Total Count: 135046
+! Last modified: 2024-03-22 16:22:40
+! Total Count: 135049
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -28944,6 +28944,7 @@
 ||geasefloria.com^
 ||geazjxqwbr.com^
 ||gebadu.com^
+||geckad.com^
 ||geckibou.com^
 ||gecko-sg.byteoversea.com^
 ||gecko.me^
@@ -33959,6 +33960,7 @@
 ||hyoicxstpfvgwz.com^
 ||hype-ads.com^
 ||hypeads.org^
+||hypelab.com^
 ||hypemakers.net^
 ||hyperactivate.com^
 ||hyperadx.com^
@@ -82776,7 +82778,7 @@ adult-sex-gamess.com,hentaigames.app,mobilesexgamesx.com,mysexgamer.com,porngame
 adultcomixxx.com##[href^="https://join.hentaisex3d.com/"]
 adultdeepfakes.com,katestube.com,pornfappy.com,tktube.com,hdtube.porn,yourporngod.com,theporngod.com,camfox.com,hubroporn.com,bigassex.com,motherporno.com,bigtitslust.com,lesbian8.com,sortporn.com,webcamvau.com##+js(set-constant, flashvars.adv_pre_vast, '')
 adultdvdempire.com##a[href*="?partner_id="][href*="&utm_"]
-adultfilmdatabase.com,animeidhentai.com,babeforums.org,bos.so,camvideos.tv,camwhores.tv,cutscenes.net,daftsex.com,devporn.net,f95zone.to,fritchy.com,gifsauce.com,hentai2read.com,hotpornfile.org,hpjav.com,imagebam.com,imgbox.com,imgtaxi.com,motherless.com,myporn.club,oncam.me,pandamovies.pw,planetsuzy.org,pussyspace.com,redgifs.com,sendvid.com,sexgalaxy.net,sextvx.com,sexuria.com,thefappeningblog.com,vintage-erotica-forum.com,vipergirls.to,waxtube.com,xfantazy.com,yeapornpls.com##a[href*="theporndude.com"]
+adultfilmdatabase.com,animeidhentai.com,babeforums.org,bos.so,camvideos.tv,camwhores.tv,cutscenes.net,daftsex.com,devporn.net,f95zone.to,fritchy.com,gifsauce.com,hentai2read.com,hotpornfile.org,hpjav.com,imagebam.com,imgbox.com,imgtaxi.com,motherless.com,muchohentai.com,myporn.club,oncam.me,pandamovies.pw,planetsuzy.org,pussyspace.com,redgifs.com,sendvid.com,sexgalaxy.net,sextvx.com,sexuria.com,thefappeningblog.com,vintage-erotica-forum.com,vipergirls.to,waxtube.com,xfantazy.com,yeapornpls.com##a[href*="theporndude.com"]
 adultfilmindex.com##.aebn
 adultgamesworld.com###slideApple
 adultgamesworld.com##a[href^="https://joystick.tv/t/?t="]
@@ -92904,6 +92906,7 @@ mtrend.cn##a[href*="taomoubao.com"]
 mtrend.cn##a[href^="http://tao.mtrend.cn/"]
 mtrend.cn##div[style="float:left; width:100%; margin-bottom:25px; text-align:center;"]
 mtv-ktv.net###aShow
+muchohentai.com##a[href^="https://trynectar.ai/"]
 muchong.com###creditegg
 muchong.com###xd_popbox
 muchong.com##.a_subject[href^="creditshow."]
