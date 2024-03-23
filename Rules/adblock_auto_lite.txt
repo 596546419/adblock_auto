@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: fGkXCZqyadh8DNmACF3kOQ
+! Checksum: tq1TS4RfN2/0Jg5z2XSeBw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240323091412
+! Version: 20240323162113
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-23 09:14:12
-! Total Count: 25900
+! Last modified: 2024-03-23 16:21:13
+! Total Count: 25904
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1107,6 +1107,7 @@
 ||88lm04.com^
 ||88lm05.com^
 ||88lm06.com^
+||88lm07.com^
 ||88p2p.com^$popup
 ||88ys.cc/js/abcd.js
 ||8961.jianbihua.com^
@@ -6183,6 +6184,7 @@
 ||elecfans.com/static/home_ad/
 ||elecfans.com/webapi/advertisement/
 ||elemea.xyz^
+||ellingsen.cn^
 ||elonreptiloid.com^$third-party
 ||elprput.xyz^
 ||elsbfby.com^$popup,third-party
@@ -10901,6 +10903,7 @@
 ||p.zol.com.cn/download/detail.js
 ||p04qzl.cn^
 ||p0v2ni.cn^
+||p0w2r.cyou^
 ||p0y.cn^$image,domain=~ipinyou.com.cn
 ||p1-lm.adukwai.com^
 ||p1.chinakaoyan.com^
@@ -17123,6 +17126,7 @@ mpo18.com##a[href^="https://api.openpanel.analytics.international"]
 mpo18.com##script + style + div[id]
 msn.com,msn.cn##[class^="nativeAd-"]
 msn.com,msn.cn##[data-t*="NativeAd"]
+multiup.io##.mfp-bg, .mfp-wrap
 mumbaiporn.com##.hor-spots-bl
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.uz##body > div[style^="min-height"] > .notify
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.uz##body > div[style^="min-height"] > .notify *
