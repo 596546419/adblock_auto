@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: x+1NEESKapFx6aGIba7Heg
+! Checksum: fGkXCZqyadh8DNmACF3kOQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240323002357
+! Version: 20240323091412
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-23 00:23:57
-! Total Count: 25891
+! Last modified: 2024-03-23 09:14:12
+! Total Count: 25900
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -85,6 +85,7 @@
 ||0k7wod.cn^
 ||0kkbb.com/js/i.js
 ||0krdn3.com^
+||0lmv9e.cn^
 ||0mnopqr.com^
 ||0o0.ooo/2017/01/13/58787d42bbad6.jpg
 ||0op8kh.cn^
@@ -5012,6 +5013,7 @@
 ||clkdbbvy.xyz^
 ||clkdus.xyz^
 ||clkfeed.com^$popup
+||clmkwi.xyz^
 ||cln.willyporn.com^
 ||clothesexhausted.com^
 ||cloud.rovio.com/ads/
@@ -6611,6 +6613,7 @@
 ||fpjjjh.xyz^
 ||fpo.xxx/contents/other/player/porngame*.mp4
 ||fptdxkm.com^
+||fpvdrzx.xyz^
 ||fq67.top^
 ||fqfclmlo.xyz^
 ||fqla.top^
@@ -7373,6 +7376,7 @@
 ||hbqabbg.cn^
 ||hbrmickt.com^
 ||hbxhnqj.cn^
+||hbxzlf.xyz^
 ||hbzjht.com^$third-party
 ||hc360.com/images/14826/289x90.jpg
 ||hc360.com/js/*hezuo.js
@@ -7548,6 +7552,7 @@
 ||histats.com^$third-party
 ||histock.tw/ad/
 ||hitchprivilege.com^
+||hitchun.com^
 ||hitime5.com/skin/css/*.js
 ||hitubt.xyz^
 ||hixutb.xyz^
@@ -8289,6 +8294,7 @@
 ||itwzlyq.com^
 ||itxueyuan.com/advPicture/
 ||itxueyuan.com^*.mp4
+||ityusio.top^
 ||iugbjkqwc.xyz^
 ||iujlwn.icu^
 ||iumboa.xyz^
@@ -9595,6 +9601,7 @@
 ||lwlwlw.com/js/FVgg.js
 ||lwmzoaf.cn^
 ||lwonclbench.com^$third-party
+||lwrohd.xyz^
 ||lwtqqq.com^
 ||lwwlkj1.cn^
 ||lwzdzf.xyz^
@@ -14829,6 +14836,7 @@
 ||xixil.cn^
 ||xixrdn.xyz^
 ||xiyouence.com^$popup,third-party
+||xizanzhi.com^
 ||xizi.com/js/rotator.js
 ||xjappzvz.xyz^
 ||xjnyjt.xyz^
@@ -23606,6 +23614,7 @@ zle.com$script
 ##A[href*=".com/?Agent="]
 ##A[href="http://t.cn/A6hQCVsv"]
 ##A[href^="/e/public/ClickAd?adid="]
+##A[target="_blank"][href^="https://js."][href$=".com/download/4122_0.html"]
 ##[ad_display_dot]
 ##[ad_dot_url]
 ##[class$="-ad-box"]
