@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: eJZTNyWzjweoE48swNZ1Kw
+! Checksum: bD/NBAeOrsaiYtxCppoSpw
 ! Title: 混合规则(自动更新)
-! Version: 20240324002203
+! Version: 20240324092225
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-24 00:22:03
-! Total Count: 135297
+! Last modified: 2024-03-24 09:22:25
+! Total Count: 135311
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -18635,6 +18635,7 @@
 ||count.prx.org^
 ||count.rin.ru^
 ||count.rtl.de^
+||count.sibbo.net^
 ||count.webstatistik-bw.de^
 ||count.xxxssk.com^
 ||count.xxxssk.com^$third-party
@@ -35088,6 +35089,7 @@
 ||imgsrc.baidu.com/tieba/pic/item/$image
 ||imgtg.com^*.gif
 ||imgtp.com/2023/02/18/KkRe64ff.png
+||imgtp.com/2024/03/17/LXqznsUs.
 ||imgtuku.com/images/20*.gif
 ||imgur.com/df53F09.jpg
 ||imgur.com/oPNxy4w.gif
@@ -38179,6 +38181,7 @@
 ||jtwlvpux.com^
 ||jtxh.net^$third-party
 ||jtxw.cloud^
+||jtyusia.top^
 ||ju427bv7an9n.com^
 ||juajmrpo.com^
 ||juandou.com^$third-party
@@ -41139,6 +41142,7 @@
 ||lgse.com^
 ||lgsmartad.com^
 ||lgtdkpfnor.com^
+||lgtpdt.xyz^
 ||lguaud.icu^
 ||lgugsnp.cn^
 ||lgviqkrimvmy.xyz^
@@ -51250,6 +51254,7 @@
 ||oxkhifobfkky.com^
 ||oxkpbuv.com^
 ||oxkxuvoecktrv.com^
+||oxkyaq.xyz^
 ||oxlandvoicing.digital^
 ||oxlfhifzfynll.com^
 ||oxllyobna.com^
@@ -52982,6 +52987,7 @@
 ||pilsarde.net^
 ||piltockcurt.top^
 ||piluleruggy.com^
+||pimg2023.com^
 ||pimpleinterference.com^
 ||pimpmypr.de^
 ||pimpoopo.com^
@@ -58597,6 +58603,7 @@
 ||rhythmmassacre.com^
 ||rhythmxchange.com^
 ||rhytic.com^
+||rhzvlcu.xyz^
 ||ri1.site/wp-content/uploads/*x400.
 ||riamiavid.com^
 ||riastats.com^
@@ -68588,6 +68595,7 @@
 ||tns.simba.taobao.com^
 ||tnsmufijcnulqtl.com^
 ||tnudztz.com^
+||tnvnnn.xyz^
 ||tnwlpbxyto.com^
 ||to.getnitropack.com^
 ||to8to.com/assets/wap//common/widgets/appGuide/appGuide.
@@ -79936,6 +79944,7 @@
 ||yystzl.cn^
 ||yyttc.top^
 ||yyttm.top^
+||yyttmyy.cn^
 ||yytxzct.xyz^
 ||yyuivw6.com^
 ||yyujke.top^
@@ -105088,6 +105097,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adserve_
 /adserver-
 /adserver.$popup
+/adserver.$~xmlhttprequest
 /adserver.$~xmlhttprequest,domain=~konograma.com
 /adserver/*
 /adserver01.
@@ -109103,18 +109113,20 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /scn.php?
 /scr/wtixyd.js
 /script-adv-
-/script/aclib.js$third-party
+/script/aclib.js
 /script/ad.$~script
 /script/ads_
 /script/awesome.js
 /script/java.php?$xmlhttprequest
 /script/nasu.js$third-party
 /script/nrsu.js$third-party
+/script/nwsu.js
 /script/nwsu.js$third-party
 /script/oas/*
 /script/suurl4.php?$third-party
 /script/ut.js?cb=$third-party
 /script/wait.php?*=$xmlhttprequest
+/scriptFileV2.js
 /scriptonline.js?uin=
 /scripts/AdService_
 /scripts/ad-
@@ -109187,6 +109199,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /shenmago_download_app_
 /shortmediads/*
 /show-ad.
+/show-ad.js
 /show.ad?
 /show.cgi?adp
 /show.js?aid=*&pushid=
@@ -109198,6 +109211,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /showJsAd/*
 /showSp.php?
 /show_ad.
+/show_ad.js
 /show_ad?
 /show_ad_
 /show_ads_
@@ -109212,6 +109226,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /showadvertising.
 /showban.asp?
 /showbanner.
+/showbanner.js
 /showcasead/*
 /showcode?adids=
 /showflashad.
@@ -130646,7 +130661,6 @@ zle.com$script
 ##A[href*=".com/?Agent="]
 ##A[href="http://t.cn/A6hQCVsv"]
 ##A[href^="/e/public/ClickAd?adid="]
-##A[target="_blank"][href^="https://js."][href$=".com/download/4122_0.html"]
 ##DFP-AD
 ##[ad_display_dot]
 ##[ad_dot_url]

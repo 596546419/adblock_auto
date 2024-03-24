@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: qR1NYrEsC5UVet44mjf3jw
+! Checksum: ZmFcpk0uPAcSLpiqKHigHA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240324002213
+! Version: 20240324092235
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-24 00:22:13
-! Total Count: 25907
+! Last modified: 2024-03-24 09:22:35
+! Total Count: 25915
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8107,6 +8107,7 @@
 ||imgsrc.baidu.com/tieba/pic/item/$image
 ||imgtg.com^*.gif
 ||imgtp.com/2023/02/18/KkRe64ff.png
+||imgtp.com/2024/03/17/LXqznsUs.
 ||imgtuku.com/images/20*.gif
 ||imgur.com/df53F09.jpg
 ||imgur.com/oPNxy4w.gif
@@ -8724,6 +8725,7 @@
 ||jtienla.top^
 ||jtpu9s.icu^
 ||jtwewpi.cn^
+||jtyusia.top^
 ||juandou.com^$third-party
 ||juapp5.com/geek_image/chaopai.jpeg
 ||jubaibaic.com/xx/
@@ -9334,6 +9336,7 @@
 ||lgoewtd.icu^
 ||lgohse.fun^
 ||lgoseh.fun^
+||lgtpdt.xyz^
 ||lguaud.icu^
 ||lh168.net^*/attachment/portal/
 ||lh54.top^
@@ -10875,6 +10878,7 @@
 ||owkmmo.xyz^
 ||owyame.xyz^
 ||ox8.topsexhdvideos.com^
+||oxkyaq.xyz^
 ||oxrvfsi.xyz^
 ||oxvlxwz.xyz^
 ||oyfnkle.cn^
@@ -11117,6 +11121,7 @@
 ||pidzlp.xyz^
 ||pierrebotton.com/global/
 ||pihu.xxxpornhd.pro^
+||pimg2023.com^
 ||pincai.com/js/pubuliu.
 ||pincai.com^$third-party
 ||pingfang.icu^
@@ -12009,6 +12014,7 @@
 ||rhetoricalloss.com^$third-party
 ||rhetoricaltoes.com^$third-party
 ||rhxwnd.xyz^
+||rhzvlcu.xyz^
 ||riamiavid.com^
 ||riaway.com/statics/idea.jpg
 ||richh.cn^
@@ -13438,6 +13444,7 @@
 ||tnkfactory.com^$third-party
 ||tnllxd.xyz^
 ||tns.simba.taobao.com^
+||tnvnnn.xyz^
 ||to8to.com^$subdocument,third-party
 ||toadtexture.com^$third-party
 ||tobyxev.com^
@@ -15449,6 +15456,7 @@
 ||yyepa.cyou^
 ||yylady.cn^
 ||yyodimq.cn^
+||yyttmyy.cn^
 ||yytxzct.xyz^
 ||yyuivw6.com^
 ||yywh.vip^
@@ -23621,7 +23629,6 @@ zle.com$script
 ##A[href*=".com/?Agent="]
 ##A[href="http://t.cn/A6hQCVsv"]
 ##A[href^="/e/public/ClickAd?adid="]
-##A[target="_blank"][href^="https://js."][href$=".com/download/4122_0.html"]
 ##[ad_display_dot]
 ##[ad_dot_url]
 ##[class$="-ad-box"]
@@ -24244,6 +24251,7 @@ zle.com$script
 ##a[target="_blank"][href*="/jump-"] > img[src][style]
 ##a[target="_blank"][href="/adjump/acg_show_right.html"]
 ##a[target="_blank"][href^="https://365fun.sng.link"]
+##a[target="_blank"][href^="https://js."][href$=".com/download/4122_0.html"]
 ##a[target="_blank"][onclick*="广告点击"]
 ##adblock-detect
 ##adblock-modal-component
