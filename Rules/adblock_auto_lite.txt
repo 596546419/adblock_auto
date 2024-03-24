@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: h8x0sLnxfGIJ0akskYK+MQ
+! Checksum: Zuacv1Y1S5G0dJ8xMX9X7A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240324162124
+! Version: 20240325002157
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-24 16:21:24
-! Total Count: 25916
+! Last modified: 2024-03-25 00:21:57
+! Total Count: 25919
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7126,6 +7126,7 @@
 ||greenet.cn^*_popu_$popup
 ||greenxf.com/js/2019/
 ||greenxiazai.com/d/js/v/
+||gridline.cn^
 ||grtarpcf963.top^
 ||grthhr.xyz^
 ||grtimed.com/material/*_960x110_
@@ -10086,6 +10087,7 @@
 ||mobads4app.com^
 ||mobantong.oss-cn-hangzhou.aliyuncs.com^
 ||mobclix.com^
+||moberg.cn^
 ||mobfox.com^
 ||mobi.yanosik.pl:8080/mobile-advertizer/
 ||mobi.yanosik.pl^
@@ -13926,6 +13928,7 @@
 ||upyerxzn.xyz^
 ||uqeuxpl.cn^
 ||uqjqripb.xyz^
+||uqrcuxp.cn^
 ||uqueae.xyz^
 ||uqwbcm.xyz^
 ||uraseszincy.com^
