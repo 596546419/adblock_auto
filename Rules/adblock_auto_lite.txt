@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Zuacv1Y1S5G0dJ8xMX9X7A
+! Checksum: N8M++inF4igZ7R0NwZG8ww
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240325002157
+! Version: 20240325091740
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-25 00:21:57
-! Total Count: 25919
+! Last modified: 2024-03-25 09:17:40
+! Total Count: 25923
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3225,6 +3225,7 @@
 ||ajdivotdelbloab24.jio.com^
 ||ajfkwwpo.xyz^
 ||ajghca.xyz^
+||ajijcy.xyz^
 ||ajkjbcjbaaaed.com^
 ||ajkjbcjbaaaed.com^$third-party
 ||ajtdumo.cn^$third-party
@@ -9093,6 +9094,7 @@
 ||ktvjpmi.xyz^
 ||ktvtxir.xyz^
 ||ktwwzqdx.xyz^
+||ktyusid.top^
 ||ktzhk.com/file/adv/
 ||kuaicad.com/rest/common/getConfigureByName?
 ||kuaidi100.com/assets/ext?method=mainprofile
@@ -13513,6 +13515,7 @@
 ||tqdpqq.com^
 ||tqjqripb.xyz^
 ||tqrznqs.cn^
+||tqvnzj.xyz^
 ||tqytqdrq.icu^
 ||tqznjujv.xyz^
 ||track.cpatool.net^$popup,third-party
@@ -13926,6 +13929,7 @@
 ||upornia.com/yxpffpuqtjc/
 ||upsight.com^
 ||upyerxzn.xyz^
+||upytsgo.cn^
 ||uqeuxpl.cn^
 ||uqjqripb.xyz^
 ||uqrcuxp.cn^
