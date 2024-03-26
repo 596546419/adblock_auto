@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: FF/iYUziym9IwTCdPrxIig
+! Checksum: 2rbl0JXsQw29XQ3OR5c/WQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240326091546
+! Version: 20240326162236
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-26 09:15:46
-! Total Count: 25935
+! Last modified: 2024-03-26 16:22:36
+! Total Count: 25944
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -943,6 +943,7 @@
 ||693836.com^$popup
 ||6969aa.cn^
 ||69adu.com/bootstrap.
+||69shux.com/js/otherad.
 ||69t49.com/floating/layer.js
 ||69wx1.top^
 ||6avz.com^$script,third-party
@@ -3403,6 +3404,7 @@
 ||ambrosialsummit.com^$third-party
 ||ameidj.xyz^
 ||amerzbj.cn^
+||amidicestrins.com^
 ||amillionads.com^
 ||ammcg.imgscloud.com/toy/
 ||amobee.com^
@@ -3934,6 +3936,7 @@
 ||bapdkgmvn.xyz^
 ||bas.boshi.tv^
 ||baseporno.com^
+||batijian.com^
 ||baucdngb.xyz^
 ||bavde1.icu^
 ||bavde3.icu^
@@ -4759,6 +4762,7 @@
 ||cdn.wenzhangba.cn^
 ||cdn.wo.cc/wo.js
 ||cdn.wuyou.ca^
+||cdn141.com/banner/adcards.
 ||cdn2.auditude.com^
 ||cdn3.cartoonporn.to^
 ||cdn5.cartoonporn.to^
@@ -5562,6 +5566,7 @@
 ||desac7.icu^
 ||destc10.icu^
 ||destc8.icu^
+||destinyssa.com^
 ||deude.ltd^
 ||deutsche-mittelstands-nachrichten.de/wp-content/wptouch-data/include/js/dmn_interstitial_mobile.js
 ||dev.appboy.com^
@@ -7744,6 +7749,7 @@
 ||huaweinnd.top^
 ||huaxia.name^
 ||huayiyuan.hk^
+||hubgets.cn^
 ||hubiazhi.com^
 ||hubpd.com/hubpd/images/dingtong
 ||hudong.com/11/85/26100000005581147339859649123.jpg
@@ -10464,6 +10470,7 @@
 ||needgayporn.com/ohs-180x800.gif
 ||needqnv.xyz^
 ||needyneedle.com^$third-party
+||neess105.top^
 ||neets.cc/assets/js/dup.js
 ||neeujqf.cn^
 ||nefbjp.xyz^
@@ -11919,6 +11926,7 @@
 ||rarbt.cc/js/index960_
 ||rarcff.xyz^
 ||rardi.cyou^
+||rarmkce.cn^
 ||ratedxbiz.com/d/
 ||ravzbd.xyz^
 ||rawindianporn.com/f_rawindianporn.com.js
@@ -12678,6 +12686,7 @@
 ||skads.gxsky.com^$script
 ||skadsdk.appsflyer.com^
 ||skdaj.cn^
+||skdncksklsv.com^
 ||skdunkig.xyz^
 ||skeimg.com/i/*.gif
 ||skeyword.browser.qq.com/getHotRank
