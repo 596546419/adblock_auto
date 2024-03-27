@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: lD5MBNahWnFN8X109kTRuQ
+! Checksum: CrZ0t5nggQZJF2gD9HPMiw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240327002425
+! Version: 20240327091543
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-27 00:24:25
-! Total Count: 25947
+! Last modified: 2024-03-27 09:15:43
+! Total Count: 25954
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4260,6 +4260,7 @@
 ||bkjlf58.com^
 ||bkvps.com^$third-party
 ||bkxuprh.cn^
+||bkzmtp.xyz^
 ||bl-doujinsouko.com/fam2.html
 ||bl230126pb.com^
 ||black6adv.com^
@@ -4447,6 +4448,7 @@
 ||btpian.com/static/*960.js
 ||btpian.com/static/wenquan.js
 ||btschool.net/images/*/HDYGR
+||btsgroup.cn^
 ||btsvad8.com^
 ||bttazsyk.icu^
 ||btwuji.com/jsj1/
@@ -6312,6 +6314,7 @@
 ||ettoday.net/style/hot-trip/js/travel-action.js
 ||ettoday.net^*/ad/
 ||etxjbxs.top^$third-party
+||etyusiw.top^
 ||eu-ad.sam4m.com^
 ||euadsapi.manhuaren.com^
 ||euosicjxjv.com^
@@ -6841,6 +6844,7 @@
 ||gaypornwave.com/wp-content/plugins/simple-miner-tweaks^
 ||gbc27.online^
 ||gbcnvip15.com^
+||gblxtlo.xyz^
 ||gcbflvx.cn^
 ||gcbtgh26.xyz^
 ||gcqciiqk.com^
@@ -7199,6 +7203,7 @@
 ||gucheng.com/2016/ggimg/
 ||gucheng.com/gcwad/
 ||guchihyfa.pro^
+||gueikw.xyz^
 ||guess.h.qhimg.com^
 ||guge.red^
 ||guhai.com.cn/AD/
@@ -9471,6 +9476,7 @@
 ||lknnbd.xyz^
 ||lkoqtvvajktpjsk.xyz^
 ||lkot.top^
+||lkpxzt.xyz^
 ||lkqyqwk.xyz^
 ||lkrv.top^
 ||lkuygf.top^
@@ -9899,6 +9905,7 @@
 ||mdqpkdne.xyz^
 ||mdsahkln.xyz^
 ||mdwhxw.com^
+||mdzwjra.cn^
 ||me680.com/js/*.js
 ||meadowlullaby.com^$third-party
 ||meatydime.com^$third-party
