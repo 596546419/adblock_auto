@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: CrZ0t5nggQZJF2gD9HPMiw
+! Checksum: J5vdGex0+gNOUnTq/un+Wg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240327091543
+! Version: 20240327162416
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-27 09:15:43
-! Total Count: 25954
+! Last modified: 2024-03-27 16:24:16
+! Total Count: 25957
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8783,6 +8783,7 @@
 ||juzwrl.xyz^
 ||jvjlkih.com^
 ||jvjmjt.xyz^
+||jvkqkzu.cn^
 ||jvljnb.xyz^
 ||jvmxrug.xyz^
 ||jwandla.top^
@@ -14149,6 +14150,7 @@
 ||vewdk.cyou^
 ||vexilorath.com^
 ||vezvpd.xyz^
+||vfchm.cyou^
 ||vfjsa6do.icu^
 ||vflorp.xyz^
 ||vfsdgjrr.xyz^
@@ -15619,6 +15621,7 @@
 ||zents8.top^
 ||zeookuv.xyz^
 ||zephyrlabyrinth.com^$third-party
+||zeqvqb.icu^
 ||zetcul.xyz^
 ||zetporn.com/*/custom_vast/$xmlhttprequest
 ||zetporn.com/LQMDQSMLDAZAEHERE/
