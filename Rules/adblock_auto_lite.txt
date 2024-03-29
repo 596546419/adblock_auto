@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Gnqy7fe3GxNLyRZEXvQhEA
+! Checksum: qPqu1ok4IvDJEfD08pnGtA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240329002237
+! Version: 20240329091617
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-29 00:22:37
-! Total Count: 25967
+! Last modified: 2024-03-29 09:16:17
+! Total Count: 25971
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6202,6 +6202,7 @@
 ||elisium.cn^
 ||ellingsen.cn^
 ||elonreptiloid.com^$third-party
+||elphhrj.xyz^
 ||elprput.xyz^
 ||elsbfby.com^$popup,third-party
 ||elsmom.xyz^
@@ -6295,6 +6296,7 @@
 ||eshbqn.icu^
 ||eslbahw.top^
 ||esnysd.icu^
+||esqhsm.xyz^
 ||estixfl.cn^
 ||et-code.ru^
 ||etadult.com*/images/20
@@ -8435,6 +8437,7 @@
 ||jdpm.net.cn^
 ||jdrnpei.xyz^
 ||jdwx.info/api.php?mod=ad&
+||jedlnn.xyz^
 ||jeedi.xyz^
 ||jeepyy.com^$third-party
 ||jeidd.xyz^
@@ -15085,6 +15088,7 @@
 ||xwlyfl.xyz^
 ||xwqtatnw.icu^
 ||xwsqtngwa.xyz^
+||xwvnhe.cn^
 ||xx.shaque.vip^$third-party
 ||xxdm.in/js/union/
 ||xxffo.com^*_slett.php
