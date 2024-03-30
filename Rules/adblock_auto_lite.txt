@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: jmfJLM31p2FdZwacTdO6Ow
+! Checksum: CC7JC14hS3gD7QwvhWroXQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240330002414
+! Version: 20240330091355
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-30 00:24:14
-! Total Count: 25978
+! Last modified: 2024-03-30 09:13:55
+! Total Count: 25984
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8964,6 +8964,7 @@
 ||kflybplr.xyz^
 ||kfocoq.xyz^
 ||kfpicimage.xyz^
+||kfpnqug.cn^
 ||kfvjdvjzhddhc.com^
 ||kgacp.cyou^
 ||kgcyvd.com^
@@ -9287,6 +9288,7 @@
 ||lbx777.*/css/300.js
 ||lbx777.*/css/lbxgg02
 ||lc442.com^
+||lcefsf.icu^
 ||lcid.top^
 ||lcjyll.xyz^
 ||lckjqtx.xyz^
@@ -9500,6 +9502,7 @@
 ||lleo.top^
 ||llhhbb.top^
 ||llj22.com/1.gif
+||llksja.com^
 ||llmxt.fun^
 ||llnxdx.xyz^
 ||llpuhx.xyz^
@@ -11836,6 +11839,7 @@
 ||qqyy.com/js/public_end_add.js
 ||qrirud.xyz^
 ||qrkhwe.xyz^
+||qrovwu.xyz^
 ||qrttfmo.cn^
 ||qrxmgfz.cn^
 ||qsanciy.top^
@@ -11850,6 +11854,7 @@
 ||qtienly.top^
 ||qtmojo.com^$third-party
 ||qtq632.com^
+||qtyusiy.top^
 ||qu96.com^
 ||quancuncq.xyz^
 ||quantserve.com^$object,redirect-rule=noopjs
@@ -12118,6 +12123,7 @@
 ||rock.porn/ai/s/s/im.php?ss=
 ||rockradio.com^*/blockadblock-$script,domain=rockradio.com
 ||rockstargame.su/adb_script$script
+||rofmjd.xyz^
 ||roio.top^
 ||ronbbf.xyz^
 ||ronm.top^
