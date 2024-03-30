@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Hd7JhSdZbroMM0UIhyjh9w
+! Checksum: 9I5NYM+FhbNe0hJ7VhJmuQ
 ! Title: 混合规则(自动更新)
-! Version: 20240330162316
+! Version: 20240331002301
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-30 16:23:16
-! Total Count: 137090
+! Last modified: 2024-03-31 00:23:01
+! Total Count: 137094
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -23537,6 +23537,7 @@
 ||dwabissw.com^
 ||dwadwere.xyz^
 ||dwaterverya.xyz^
+||dwbfqmz.cn^
 ||dwchenzlforever.love^
 ||dwddvpmiqis.xyz^
 ||dwelc.com^
@@ -132216,6 +132217,7 @@ zle.com$script
 ##.widget-highlight-ads
 ##.widget-qianhuiji
 ##.widget-sponsor
+##.widget-sponsor--container
 ##.widget-text-ad
 ##.widget-topadding
 ##.widget-xlxba
@@ -132916,6 +132918,7 @@ zle.com$script
 ##a[href*=".rookiego.com"]
 ##a[href*=".rrrmrm.com/"]
 ##a[href*=".saeilkorea.com/"]
+##a[href*=".sailing.ink"]
 ##a[href*=".sandebg.com/"]
 ##a[href*=".sjzbqnxx.com/"]
 ##a[href*=".sky1818.net"]
@@ -133181,6 +133184,7 @@ zle.com$script
 ##a[href*="/ppffj.me/"]
 ##a[href*="/register/?i_code="] > img
 ##a[href*="/shishangta.cn"]
+##a[href*="/shop119340084.taobao.com"]
 ##a[href*="/sm003r.tv"]
 ##a[href*="/sm010k.xyz"]
 ##a[href*="/sm033v.tv"]
