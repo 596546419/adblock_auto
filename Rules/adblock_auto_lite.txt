@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: CC7JC14hS3gD7QwvhWroXQ
+! Checksum: dAgK7fKfDMNB94LeDhX/YA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240330091355
+! Version: 20240330162327
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-30 09:13:55
-! Total Count: 25984
+! Last modified: 2024-03-30 16:23:27
+! Total Count: 25991
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4534,6 +4534,7 @@
 ||bytravel.cn/js/b_
 ||bytravel.cn/js/s_
 ||bytupkvc.xyz^
+||byuwkbv.top^
 ||byvlph.xyz^
 ||byxxxporn.com/300x250.html
 ||byzt8.top^
@@ -7526,6 +7527,7 @@
 ||hf365.com/0/14/31/00/14310068_933922.png
 ||hf365.com/0/14/60/93/14609355_921128.jpg
 ||hf365.com/0/15/64/87/15648725_922274.jpg
+||hfbfbvmjdmxc.com^
 ||hffxc.com^$third-party,script
 ||hfhytx.xyz^
 ||hfjhr.cn^
@@ -9287,6 +9289,7 @@
 ||lbprjdi.cn^
 ||lbx777.*/css/300.js
 ||lbx777.*/css/lbxgg02
+||lbyx.xyz^
 ||lc442.com^
 ||lcefsf.icu^
 ||lcid.top^
@@ -11529,6 +11532,7 @@
 ||ps123.net/MyFile/
 ||ps557.com/link/
 ||ps886.us/js/*.js
+||pseudonym.cn^
 ||psf805.xyz^$document
 ||psf805.xyz^$~third-party
 ||psroyx.icu^
@@ -11653,6 +11657,7 @@
 ||qdjimo.com/html/js/
 ||qdross.com/vip/
 ||qdtjjxr.xyz^
+||qdtzbbh.xyz^
 ||qdzyspjx.com^
 ||qejjhnq.cn^
 ||qerbert78.xyz^
@@ -14019,6 +14024,7 @@
 ||utlove02.com^$third-party
 ||utnwxhjv.xyz^
 ||utwwzqdx.xyz^
+||utxmb.cn^
 ||uu1.3gu.com^
 ||uu11881.com^
 ||uu22002.com^
@@ -15128,6 +15134,7 @@
 ||xygwh.cc/js/p
 ||xygwh.cc/js/x
 ||xyimg.net^$domain=~xy.com
+||xylhwdu.com^
 ||xylkpj.xyz^
 ||xymahuxv.xyz^
 ||xyplxx.2gks.com^$domain=9xav.cc

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: +iEIwHiYCH4XPcy/SW1nJw
+! Checksum: Hd7JhSdZbroMM0UIhyjh9w
 ! Title: 混合规则(自动更新)
-! Version: 20240330091345
+! Version: 20240330162316
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-30 09:13:45
-! Total Count: 137080
+! Last modified: 2024-03-30 16:23:16
+! Total Count: 137090
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8460,6 +8460,7 @@
 ||analytics.mbga.jp^
 ||analytics.media-proweb.de^
 ||analytics.meituan.net^
+||analytics.mercadolibre.com^
 ||analytics.midwesternmac.com^
 ||analytics.mindjolt.com^
 ||analytics.mlstatic.com^
@@ -14986,6 +14987,7 @@
 ||bytravel.cn/js/b_
 ||bytravel.cn/js/s_
 ||bytupkvc.xyz^
+||byuwkbv.top^
 ||byvhtcpfoom.com^
 ||byvlph.xyz^
 ||byvmvfllobup.com^
@@ -33220,6 +33222,7 @@
 ||hf365.com/0/15/64/87/15648725_922274.jpg
 ||hf5rbejvpwds.com^
 ||hfawdgz.cn^
+||hfbfbvmjdmxc.com^
 ||hfc195b.com^
 ||hfeoveukrn.info^
 ||hffdjxnyxckf.xyz^
@@ -41584,6 +41587,7 @@
 ||lby2kd27c.com^
 ||lbylqeravmowq.top^
 ||lbypewrshxl.com^
+||lbyx.xyz^
 ||lbzx.xyz^
 ||lc2ads.ru^
 ||lc442.com^
@@ -55582,6 +55586,7 @@
 ||pr.blogflux.com^
 ||pr.comet.yahoo.com^
 ||pr.ikovrov.ru^
+||pr.nss.netease.com^
 ||pr.rusmed.ru^
 ||pr88vhg.com^
 ||pra.praxis.nl^
@@ -56324,6 +56329,7 @@
 ||pseidpmubwu.com^
 ||psensuds.net^
 ||psestwotothr.cfd^
+||pseudonym.cn^
 ||psf805.xyz^$document
 ||psf805.xyz^$~third-party
 ||psffhzsbecs.com^
@@ -57267,6 +57273,7 @@
 ||qdross.com/vip/
 ||qdsfzz.cn^
 ||qdtjjxr.xyz^
+||qdtzbbh.xyz^
 ||qdutmef.cn^
 ||qdvducltjswp.com^
 ||qdvideo.xyz^
@@ -74075,6 +74082,7 @@
 ||utubepwhml.com^
 ||utwwzqdx.xyz^
 ||utwyyrjdwgmynu.com^
+||utxmb.cn^
 ||utywsi.cn^
 ||utzwgittihhvn.com^
 ||uu1.3gu.com^
@@ -80339,6 +80347,7 @@
 ||xyjcpcb.cn^
 ||xylaoppress.com^
 ||xylenylyetapa.uno^
+||xylhwdu.com^
 ||xylkpj.xyz^
 ||xylmdm.top^
 ||xymahuxv.xyz^
@@ -107585,6 +107594,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /afr?auid=
 /afs/ads/*
 /afu.php?$popup
+/afx_prid/*$script
 /agetsou.js
 /ahmestatic/ads/*
 /ai/s/s/js/
