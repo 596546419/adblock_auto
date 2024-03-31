@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 6YOakhdewVzijednZjJQpQ
+! Checksum: 7ufN0BqvuCIF5Q3cD6/qrQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240331162345
+! Version: 20240401002232
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-31 16:23:45
-! Total Count: 26000
+! Last modified: 2024-04-01 00:22:32
+! Total Count: 26004
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -714,6 +714,7 @@
 ||4paradigm.com^$domain=sina.com.cn
 ||4sexmail.com^
 ||4wfe3.icu^
+||4wu3gf.cn^
 ||5.ccutu.com^
 ||5.gzfenda.com^
 ||50.17.161.250/appodeal/
@@ -10599,6 +10600,7 @@
 ||niwota.com^$third-party
 ||nixqvd.xyz^
 ||njdaily.cn/templates/njdaily2014/widget/njdaily-slideAds
+||njenlz.cn^
 ||njhvalu.cn^
 ||njogejt.icu^
 ||njppuaj.cn^
@@ -15514,6 +15516,7 @@
 ||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
 ||ywg.jobui.com^
+||ywhws.cn^
 ||yx.tellenw.top^$image
 ||yx1.managershare.com^
 ||yxad.com/baidu/
@@ -24117,6 +24120,7 @@ zle.com$script
 ##a[href*="/hth908.com"]
 ##a[href*="/hthty21.app"]
 ##a[href*="/htvip21.app"]
+##a[href*="/ihezu.fans"]
 ##a[href*="/k023055.com"]
 ##a[href*="/k849.top"]
 ##a[href*="/kt169.com"]
