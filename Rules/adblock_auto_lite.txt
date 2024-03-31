@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: LY7ZM2ACRcP5KFCCrwiskQ
+! Checksum: 6YOakhdewVzijednZjJQpQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240331092253
+! Version: 20240331162345
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-31 09:22:53
-! Total Count: 25996
+! Last modified: 2024-03-31 16:23:45
+! Total Count: 26000
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7635,6 +7635,7 @@
 ||hmrwkcx.cn^
 ||hmtoday.com^$third-party
 ||hmwang.icu/skin/images/*.gif
+||hnalzlu.top^
 ||hncadh.com^
 ||hnert.okmwfq.xyz^
 ||hnfnjn.xyz^
@@ -7703,6 +7704,7 @@
 ||hppmy.cn^
 ||hprinb.xyz^
 ||hpt73.cn^$domain=9xav.cc
+||hptyp.icu^
 ||hpvl2kb.icu^
 ||hq390.xyz^
 ||hqcx.net/images/baidu.jpg
@@ -11241,6 +11243,7 @@
 ||pm.poqwua.cn^
 ||pmb*.tj.ali213.net/js/
 ||pmnct63.shop^
+||pmtrkp.icu^
 ||pmxalz.xyz^
 ||pnez8.rut6m.xyz^
 ||pnhp3x1.com^
@@ -11497,6 +11500,7 @@
 ||preitem.wshareit.com^
 ||presage.io^
 ||presselite.com/iphone/pushnotification/interstitiel_android.php
+||pressit.cn^
 ||prettyvirgin.com/images/banners/
 ||prettyvirgin.com/js/show.html
 ||prhfziq.xyz^

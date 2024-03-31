@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: wTMrd38Ksp8HVA0OG10QIA
+! Checksum: 61pYWXgy8KLncJL81mjEMg
 ! Title: 混合规则(自动更新)
-! Version: 20240331092242
+! Version: 20240331162334
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-31 09:22:42
-! Total Count: 137102
+! Last modified: 2024-03-31 16:23:34
+! Total Count: 137109
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5931,6 +5931,7 @@
 ||adsimilis.com^
 ||adsinimages.com^
 ||adsinstant.com^
+||adsinteractive-794b.kxcdn.com^
 ||adsister.com^
 ||adsixmedia.fr^
 ||adsjumbo.com^
@@ -55777,6 +55778,7 @@
 ||pressedbackfireseason.com^
 ||presselite.com/iphone/pushnotification/interstitiel_android.php
 ||pressingequation.com^
+||pressit.cn^
 ||pressize.com^
 ||pressizer.net^
 ||pressyour.com^
@@ -88086,8 +88088,8 @@ cupfox.app##.t-img-box > a[target="_blank"] > img
 cupfox.app##[class^="jsx-"] > img[src$=".gif"]
 cupfox.app#?##outer-container > .model:has(> .model-content > a[href*=".jd.com"])
 cupfox.app#?#.model:-abp-has(> .model-content > a[href*=".jd.com"])
+cupfox.app,cupfox.love,cupfox2.com,hcomic.net##.swiper
 cupfox.app,cupfox2.com##.a5-box[class^="jsx-"]
-cupfox.app,cupfox2.com,hcomic.net##.swiper
 cupfox.app,dailycoffeenews.com,zuoyesou.com##.banner-box
 curbed.com##[data-concert="prelude"]
 curioustic.com##.grey
@@ -104491,6 +104493,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /AdsAjaxRefresh.
 /AdsAsync.
 /AdsLoad.
+/AdsLoad.js
 /AdsPlugin.
 /AdsPublisher.
 /AdsRotateNEW1right.
@@ -106964,6 +106967,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adskyright.
 /adskyscraper.
 /adslide.
+/adslide.js
 /adslider-
 /adslider/*
 /adslides.
@@ -129286,6 +129290,7 @@ zle.com$script
 ##.maomi-content > a[target="_blank"]
 ##.map-ad
 ##.mar-block-ad
+##.mar-leaderboard--bottom
 ##.margin-advertisement
 ##.masthead__ad
 ##.mb-advert__incontent
@@ -131739,6 +131744,7 @@ zle.com$script
 ##.top-bar-adblock
 ##.top-box-right-ad
 ##.top-content-adplace
+##.top-dfp-wrapper
 ##.top-fbs-ad
 ##.top-fbs-ad-sticky
 ##.top-fixed-ad
@@ -133153,6 +133159,7 @@ zle.com$script
 ##a[href*="/htvip21.app"]
 ##a[href*="/huojugg.com"]
 ##a[href*="/hxzfcz.com/"]
+##a[href*="/ihezu.fans"]
 ##a[href*="/ihezu.run"]
 ##a[href*="/industrialproductsfind.com"]
 ##a[href*="/jdr29jlir.com"]
