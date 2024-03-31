@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: m0zU7rC0ifHpKRR/7jgHjA
+! Checksum: LY7ZM2ACRcP5KFCCrwiskQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240331002312
+! Version: 20240331092253
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-31 00:23:12
-! Total Count: 25992
+! Last modified: 2024-03-31 09:22:53
+! Total Count: 25996
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -657,6 +657,7 @@
 ||3pmcoohke.scriptmh.com^
 ||3pornstarmovies.com/*/*/*/js/ssu*.js^
 ||3pornstarmovies.com/ai/s/s/su.php
+||3q1lsj.cn^
 ||3qcc.com/js/bb.js
 ||3uvz5.xyz^
 ||3v7c7y.online^$third-party
@@ -4729,6 +4730,7 @@
 ||cdgtw3.guapaijia.com^
 ||cdhfvrug.xyz^
 ||cdkke.xyz^
+||cdmgac.xyz^
 ||cdmjur.xyz^
 ||cdmnlxtu.xyz^
 ||cdn*-sites.porntube.com/tb/banner/
@@ -7810,6 +7812,7 @@
 ||hvhudp.xyz^
 ||hvlitr.xyz^
 ||hvpard.xyz^
+||hvxrvef.xyz^
 ||hw-ot-ad.a.yximgs.com^
 ||hw0.com.cn^
 ||hwcdn.net^*.mp4|$domain=pornachi.com|pornchimp.com
@@ -12240,6 +12243,7 @@
 ||rycff.online^
 ||rydyvv.xyz^
 ||rydzfldt.xyz^
+||ryhkft.xyz^
 ||ryrmvd.xyz^
 ||ryvexulg.xyz^
 ||ryyuvrt.cn^

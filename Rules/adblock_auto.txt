@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 9I5NYM+FhbNe0hJ7VhJmuQ
+! Checksum: wTMrd38Ksp8HVA0OG10QIA
 ! Title: 混合规则(自动更新)
-! Version: 20240331002301
+! Version: 20240331092242
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-03-31 00:23:01
-! Total Count: 137094
+! Last modified: 2024-03-31 09:22:42
+! Total Count: 137102
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1791,6 +1791,7 @@
 ||3pmcoohke.scriptmh.com^
 ||3pornstarmovies.com/*/*/*/js/ssu*.js^
 ||3pornstarmovies.com/ai/s/s/su.php
+||3q1lsj.cn^
 ||3qcc.com/js/bb.js
 ||3qfe1gfa.de^
 ||3qpw.icu^
@@ -15897,6 +15898,7 @@
 ||cdjvd.com^
 ||cdkcaxxjyyb.xyz^
 ||cdkke.xyz^
+||cdmgac.xyz^
 ||cdmjur.xyz^
 ||cdmnlxtu.xyz^
 ||cdn*-sites.porntube.com/tb/banner/
@@ -23769,6 +23771,7 @@
 ||e0a79821ec.com^
 ||e0e5bc8f81.com^
 ||e10000.cn/Images/link_td01.gif
+||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz^
 ||e1cd662960.com^
 ||e1eacb6f88.com^
 ||e1jzk.cn^
@@ -33748,6 +33751,7 @@
 ||hn-ping*.hashnode.com^
 ||hn1l.online^
 ||hn1l.site^
+||hnalzlu.top^
 ||hnasd.com^
 ||hnbhrt.xyz^
 ||hncadh.com^
@@ -34259,6 +34263,7 @@
 ||hpsvgbrlqa.com^
 ||hpt73.cn^$domain=9xav.cc
 ||hptcwtmzuj.com^
+||hptyp.icu^
 ||hpuxrycfvo.com^
 ||hpvl2kb.icu^
 ||hpvwdkn.cn^
@@ -34723,6 +34728,7 @@
 ||hvpard.xyz^
 ||hvpguevleand.com^
 ||hvrnjftl.com^
+||hvxrvef.xyz^
 ||hw-ot-ad.a.yximgs.com^
 ||hw0.com.cn^
 ||hw6.com^
@@ -54783,6 +54789,7 @@
 ||pmssrv.mercadolivre.com.br^
 ||pmthinktank.shop^
 ||pmtkhcr.com^
+||pmtrkp.icu^
 ||pmweb.com.br^
 ||pmxalz.xyz^
 ||pmxyzqm.com^
@@ -61052,6 +61059,7 @@
 ||ryeffwlcleer.com^
 ||ryepublisher.com^
 ||rygfjv.com^
+||ryhkft.xyz^
 ||ryjhrqn.cn^
 ||rykwyoaeaamhykw.com^
 ||rylcbwg.cn^
@@ -83531,7 +83539,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 18comic.org,18comic.vip,18comic1.art,18comic2.art##div[data-height="264"][data-width="956"]
 18comic.org,18comic.vip,18comic1.art,18comic2.art##div[style^="position: fixed; top:"]
 18comic.org,18comic.vip,18comic1.art,18comic2.art,3yan.cn##img[style*="300px"]
-18comic.org,18comic.vip,18comic1.art,18comic2.art,52movieba.com,acglala.cc,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,cupfox.app,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,hmog.me,htcui.com,huan.moe,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.net,jiyingw.vip,kelatv.com,kisssub.org,kuaikan33.com,languang.co,llss.bz,meijutt.net,meijutt.tv,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,rijutv.co,souxue8.com,speedtest.cn,tingroom.com,toutiao.com,tucao.one,vpansou.com,whsir.com,xxshe.info,xxshe.xyz,youku.com,zhangxinxu.com,zhideqiang.com##a[href*=".taobao.com"]
+18comic.org,18comic.vip,18comic1.art,18comic2.art,52movieba.com,acglala.cc,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,cupfox.app,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,hmog.me,htcui.com,huan.moe,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.net,jiyingw.vip,kelatv.com,kisssub.org,kuaikan33.com,languang.co,llss.bz,meijutt.net,meijutt.tv,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,rijutv.co,souxue8.com,speedtest.cn,tingroom.com,touchgal.org,toutiao.com,tucao.one,vpansou.com,whsir.com,xxshe.info,xxshe.xyz,youku.com,zhangxinxu.com,zhideqiang.com##a[href*=".taobao.com"]
 18comic.org,18comic.vip,colamanga.com,colamanhua.com,d53px.com,dm99.me,jhycxcl.com,jm-comic1.cc,jm-comic2.cc,jmcomic1.city,jmcomic1.group,jmcomic1.win,ledlmw.com,yhdm86.com,yhdmp.net,yhpdm.com##[class$="_b"]
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win##div[style="cursor: pointer;"] > img[src*="/media/albums/"]
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win#@?#:-abp-has(>script[src*=".realsrv.com"])
@@ -98906,6 +98914,7 @@ storytohear.com,thefamilybreeze.com,thetravelbreeze.com,theworldreads.com,womens
 storytrain.info##.responsive_ad
 str8ongay.com###alfa_promo_parent
 strangesounds.org##.wp-image-281312
+strategie-bourse.com##.cadre_encadre_pub
 streamingmedia.com##.expand
 streamingrant.com###hb-strip
 streamingsites.com##.IPdetectCard
@@ -99936,6 +99945,7 @@ totsantcugat.info##.live > a[href="http://totsantcugat.info/wp-content/video.php
 totsantcugat.info##.widget_meta.widget.col-sm-3
 totsantcugat.info##[href^="https://totsantcugat.info/wp-content/"]
 totsantcugat.info##center > [href="http://totsantcugat.info/wp-content/video.php"]
+touchgal.org##a[href*=".sailing.ink"]
 toumpano.net###sp-feature
 toumpano.net###sp-right
 toumpano.net##[href="http://roz-tilefona.xbomb.net/"]
@@ -132918,7 +132928,6 @@ zle.com$script
 ##a[href*=".rookiego.com"]
 ##a[href*=".rrrmrm.com/"]
 ##a[href*=".saeilkorea.com/"]
-##a[href*=".sailing.ink"]
 ##a[href*=".sandebg.com/"]
 ##a[href*=".sjzbqnxx.com/"]
 ##a[href*=".sky1818.net"]
@@ -133184,7 +133193,6 @@ zle.com$script
 ##a[href*="/ppffj.me/"]
 ##a[href*="/register/?i_code="] > img
 ##a[href*="/shishangta.cn"]
-##a[href*="/shop119340084.taobao.com"]
 ##a[href*="/sm003r.tv"]
 ##a[href*="/sm010k.xyz"]
 ##a[href*="/sm033v.tv"]
