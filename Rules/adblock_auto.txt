@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: bnHJ+7zCA3RpizGTqe6x9Q
+! Checksum: 94xp+gX1t/rJWF/ekOp3mQ
 ! Title: 混合规则(自动更新)
-! Version: 20240401092236
+! Version: 20240401162518
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-01 09:22:36
-! Total Count: 137152
+! Last modified: 2024-04-01 16:25:18
+! Total Count: 137156
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -54956,6 +54956,7 @@
 ||polarmobile.com^
 ||poleaxefoamers.com^
 ||poleonaryprac.com^
+||polepole.cn^
 ||polflq.cn^
 ||policeair.com^
 ||policecaravanallure.com^
@@ -93970,7 +93971,8 @@ longzhu.com##.pop-up-button
 longzhu.com##.recommend-pop-up
 lookae.com##.zhongjian
 lookbook.nu##.leaderboard_container
-looperman.com,youtubelike.com###header-top
+looperman.com##.freestar
+looperman.com,sailingmagazine.net,youtubelike.com###header-top
 lordz.io###crossPromotion
 lordz.io###lordz-io_300x250
 lordz.io###lordz-io_300x250_2
@@ -97772,6 +97774,8 @@ saharareporters.com###sidebar-top
 saharareporters.com###stage-header
 saharareporters.com##.body-inject
 saigoneer.com##.bannergroup-main
+sailingmagazine.net##.divclickingdivwidget
+sailingmagazine.net##center > font
 sainsburys.co.uk#?#.pt-grid-item:-abp-has([data-test-id="citrus-label"]:-abp-contains(Sponsored))
 sainsburysmagazine.co.uk###adSlot-featuredInBlue
 sakurajav.com,sex-jav.com##.videos-list-isHome > #isLatest
