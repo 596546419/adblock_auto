@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 94xp+gX1t/rJWF/ekOp3mQ
+! Checksum: X7KHDBwua8s+jp6IxNkWxA
 ! Title: 混合规则(自动更新)
-! Version: 20240401162518
+! Version: 20240402002359
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-01 16:25:18
-! Total Count: 137156
+! Last modified: 2024-04-02 00:23:59
+! Total Count: 137159
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -38874,6 +38874,7 @@
 ||js.desiporn.tube/wovbrqqij/
 ||js.duotegame.com^
 ||js.entm.top^
+||js.evtr.nordiskemedier.dk^
 ||js.fhxiaoshuo.com^
 ||js.gdsln.ru^
 ||js.gg-baidu.xyz^
@@ -39077,6 +39078,7 @@
 ||juapp5.com/geek_image/chaopai.jpeg
 ||juaqmic.com^
 ||jubaibaic.com/xx/
+||jubbie.de^
 ||jubbkon.top^
 ||jubiitag.dk^
 ||jubileeirresponsibilityforfeit.com^
@@ -39391,6 +39393,7 @@
 ||jyt58.top^
 ||jytbxzil.com^
 ||jyuirxswk.com^
+||jyuwkba.top^
 ||jyuyjxx.cn^
 ||jyvith.xyz^
 ||jywangluo.top^
@@ -85977,6 +85980,7 @@ baltic-course.com###banner_master_top
 baltic-course.com###bannerbottom
 baltic-course.com###bannerleft
 baltic-course.com,webfail.com###bannertop
+bamxs.com,ddzzxs.com###inglestore
 bangkokpost.com##.ads-related
 bangordailynews.com##.scaip
 bangordailynews.com,michigandaily.com##.wp-block-newspack-blocks-wp-block-newspack-ads-blocks-ad-unit
@@ -88390,7 +88394,6 @@ ddys.*,ddrk.me##+js(set-constant, Object.prototype.cnobpreroll_, true)
 ddys.tv##div#kasjbgih
 ddys.tv,ddys.art,ddys.*,ddrk.me,ddys.pro,ddys2.me##div > a[href][target="_blank"] > img
 ddys.tv,ddys.art,ddys.*,ddrk.me,ddys.pro,ddys2.me##div > span > a > img
-ddzzxs.com###inglestore
 de-sexy-tube.ru,pornxs.com,tubsxxx.com##+js(no-setTimeout-if, window.location.href)
 de.as.pptv.com
 dead-frog.com###site_top
