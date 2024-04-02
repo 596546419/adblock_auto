@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: PgS/fYrmyVoUz5dP4dcgaQ
+! Checksum: 7Nz3dyzIdFxEkSzbfEbUBw
 ! Title: 混合规则(自动更新)
-! Version: 20240402092041
+! Version: 20240402162308
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-02 09:20:42
-! Total Count: 137166
+! Last modified: 2024-04-02 16:23:08
+! Total Count: 137171
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -829,6 +829,7 @@
 ||1915832424.rsc.cdn77.org^
 ||1919954591.rsc.cdn77.org^
 ||192.151.218.66^$third-party
+||192.luyouwang.com^
 ||19216811.la/net/advert
 ||1921777336.rsc.cdn77.org^
 ||19273817.com^
@@ -51988,6 +51989,7 @@
 ||ostjpig.cn^
 ||ostlon.com^
 ||ostrichrockychaos.com^
+||osusjsga.com^
 ||oswegomiting.com^
 ||oswowg.xyz^
 ||oszzxhqhfh.com^
@@ -67780,6 +67782,7 @@
 ||szmtd.cn^
 ||szmty.cn^
 ||szmxwjm.com^
+||szmyl.cn^
 ||szn0ehq.icu^
 ||sznews.com/s?z=
 ||szngisyb.xyz^
@@ -94811,6 +94814,7 @@ motortrend.com##.video-player-cls
 motortrend.com##div[data-ad-targeting]
 mover.uz###oframeplayer > [class][style^="display: block"]
 movie-censorship.com##a[href*="/out.php?"]
+movie-rush.com##iframe[src^="https://www.movie-rush.com/files/js/ad/"]
 moviechat.org##.adc
 movieclassic.net###billboard-modal
 moviefone.com##.mf-incontent
@@ -101753,6 +101757,7 @@ xuite.net##div[id^="index-ad-mid"]
 xunlei.com##.mini-pop
 xunyingwang.com###adModalLabel
 xvideo.cc##+js(set-constant, poped, true)
+xvideos.com###video-right
 xvideos.com###video-sponsor-links
 xvideos.com##[id^="ads-"]
 xvideos.com,xvideos.es##.player-video.xv-cams-block

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: k0wwJCsvriItNrLmFaB3ug
+! Checksum: d06UzGvJ4w8XdgwW5rOOxg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240402092053
+! Version: 20240402162319
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-02 09:20:53
-! Total Count: 26017
+! Last modified: 2024-04-02 16:23:19
+! Total Count: 26020
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -343,6 +343,7 @@
 ||1905.com/data/js/*.json?pwd=*?fr=videoplay_*&rand=$xmlhttprequest
 ||1909.me/upload/ad/
 ||192.151.218.66^$third-party
+||192.luyouwang.com^
 ||194.59.220.161^
 ||199.180.100.185/love44^
 ||1990tu.com/i/*.gif
@@ -10916,6 +10917,7 @@
 ||oss-cn-shanghai.aliyuncs.com/feimobileA.js
 ||ossfile001.com^
 ||ostjpig.cn^
+||osusjsga.com^
 ||oswowg.xyz^
 ||otbeksf.cn^
 ||otcdn2.auditude.com^
@@ -13188,6 +13190,7 @@
 ||szmpy.cn^
 ||szmtd.cn^
 ||szmty.cn^
+||szmyl.cn^
 ||szn0ehq.icu^
 ||sznews.com/s?z=
 ||sznj91.com^
