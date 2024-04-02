@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: biY1bsnPCRDgCjG2EmETSw
+! Checksum: k0wwJCsvriItNrLmFaB3ug
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240402002410
+! Version: 20240402092053
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-02 00:24:10
-! Total Count: 26011
+! Last modified: 2024-04-02 09:20:53
+! Total Count: 26017
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6117,6 +6117,7 @@
 ||ebscb0l.xyz^
 ||ebten.xyz^
 ||ebuqxsjq.com^
+||ebwonro.cn^
 ||ecami.xyz^
 ||ecav5.com^
 ||eccn.com/js/gg.js
@@ -8172,6 +8173,7 @@
 ||imwx.com/mobile/adconfig/
 ||imwxsu.xyz^
 ||imxsvpxe.xyz^
+||inalzlo.top^
 ||inclk.com^$popup
 ||inconclusiveaction.com^$third-party
 ||info.vip.iqiyi.com/promotion/
@@ -8812,6 +8814,7 @@
 ||jweod.xyz^
 ||jweoe.xyz^
 ||jwfesuk.cn^
+||jwhdgt.icu^
 ||jwjzf.online^
 ||jwltpv.xyz^
 ||jwronx.xyz^
@@ -10660,6 +10663,7 @@
 ||nownews.com/assets/js/setAds.js
 ||noxagile.duapp.com^
 ||npdkdb.xyz^
+||npjvgug.xyz^
 ||nplahh.xyz^
 ||npmeingm7.shop^
 ||npnpxoz.xyz^
@@ -11782,6 +11786,7 @@
 ||qkoio.cyou^
 ||qkqasu.xyz^
 ||qksapp.net/gif/
+||qkscga.xyz^
 ||qkwsqq.com^
 ||ql.uzuzuz.com^
 ||qlbbowx.xyz^
@@ -14853,6 +14858,7 @@
 ||xg6hb.xyz^
 ||xghnqq.com^
 ||xghylt.com/api.php?mod=ad&adid=
+||xgjidt.xyz^
 ||xgrcfz.xyz^
 ||xh33g.net^
 ||xhbheroq.xyz^

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: X7KHDBwua8s+jp6IxNkWxA
+! Checksum: PgS/fYrmyVoUz5dP4dcgaQ
 ! Title: 混合规则(自动更新)
-! Version: 20240402002359
+! Version: 20240402092041
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-02 00:23:59
-! Total Count: 137159
+! Last modified: 2024-04-02 09:20:42
+! Total Count: 137166
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -24131,6 +24131,7 @@
 ||ebuyy.shop^
 ||ebuzzing.com^
 ||ebuzzing.it^
+||ebwonro.cn^
 ||ebwvjkvd.com^
 ||ebz.io^
 ||ebzqyow.cn^
@@ -36106,6 +36107,7 @@
 ||inaftracker.com^
 ||inaickoo.com^
 ||inaltariaon.com^
+||inalzlo.top^
 ||inancukan.xyz^
 ||inaneamenvote.com^
 ||inaneconstellationindistinct.com^
@@ -39291,6 +39293,7 @@
 ||jwfobgoeobehy.com^
 ||jwghphm.cn^
 ||jwgihca.cn^
+||jwhdgt.icu^
 ||jwhfkj.cn^
 ||jwjdpab.cn^
 ||jwjxjuvrnkv.com^
@@ -43937,6 +43940,7 @@
 ||luxadv.com^
 ||luxbetaffiliates.com.au^
 ||luxcash.ru^
+||luxcdn.com^
 ||luxins.net^
 ||luxlnk.com^
 ||luxope.com^
@@ -49960,6 +49964,7 @@
 ||npehvrjmf.com^
 ||nphtakjpw.com^
 ||npjhdunxxfhwgtv.com^
+||npjvgug.xyz^
 ||npkzqlhtecxx.com^
 ||nplahh.xyz^
 ||nplxa.com^
@@ -57607,6 +57612,7 @@
 ||qkqasu.xyz^
 ||qkqlqjjobvkr.top^
 ||qksapp.net/gif/
+||qkscga.xyz^
 ||qksrv.cc^
 ||qksrv.net^
 ||qksrv1.com^
@@ -79500,6 +79506,7 @@
 ||xghnqq.com^
 ||xghxpvl.com^
 ||xghylt.com/api.php?mod=ad&adid=
+||xgjidt.xyz^
 ||xglryxd.cn^
 ||xgmtlmrweyasy.com^
 ||xgo.com.cn/pv.js
