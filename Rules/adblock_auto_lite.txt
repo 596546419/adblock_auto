@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: D/bU6WdsR2oUEaApCBDNoQ
+! Checksum: Yyk6lTzKxHNdxyV/VYjxww
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240403002444
+! Version: 20240403091630
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-03 00:24:44
-! Total Count: 26021
+! Last modified: 2024-04-03 09:16:30
+! Total Count: 26027
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6650,6 +6650,7 @@
 ||fptdxkm.com^
 ||fpvdrzx.xyz^
 ||fq67.top^
+||fqbjzj.xyz^
 ||fqfclmlo.xyz^
 ||fqla.top^
 ||fqmgjad.cn^
@@ -8612,6 +8613,7 @@
 ||jmydm.com/jspage/ftt.js
 ||jmylj.cn^
 ||jn060.xyz^
+||jnalzla.top^
 ||jndxsuy.xyz^
 ||jnhgm.com^
 ||jnifdlaa.top^
@@ -9197,6 +9199,7 @@
 ||kwflvcdn.000dn.com^*.flv
 ||kwivb.cn^
 ||kwongwah.com.my/wp-content/plugins/dibs_engine/js/dibs_popup.js
+||kwqnki.xyz^
 ||kwtgntyu.xyz^
 ||kx4.firstsexfilm.com^
 ||kxcdn.com^$xmlhttprequest
@@ -10480,6 +10483,7 @@
 ||naverpa-phinf.pstatic.net^
 ||navigation.api.hk.goforandroid.com/api/*/website/navigations?virtual_id=
 ||naweslt.cn^
+||nawpyd.icu^
 ||nb.zol.com.cn/detail_*.html
 ||nba55.cc^
 ||nbegame.com/nbeos/*.jpg
@@ -11989,6 +11993,7 @@
 ||ratedxbiz.com/d/
 ||ravzbd.xyz^
 ||rawindianporn.com/f_rawindianporn.com.js
+||rawmtft.cn^
 ||raxetyrw.xyz^
 ||rayjump.com/openapi/ad/
 ||rayli.com.cn^$third-party
@@ -15765,6 +15770,7 @@
 ||zhimg.com^*_600x250
 ||zhimg.com^*adx
 ||zhizhizhizhi.oss-*.aliyuncs.com^
+||zhnnaxe.xyz^
 ||zhongfujiaoyu.cn^
 ||zhongfumzzew.com^
 ||zhongkaowu.com^$third-party
