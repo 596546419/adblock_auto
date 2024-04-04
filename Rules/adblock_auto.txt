@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: gzFD2CPEwFFITh6qsz7TCw
+! Checksum: 7MnRecGm20/uEKlQkXCx1w
 ! Title: 混合规则(自动更新)
-! Version: 20240404002356
+! Version: 20240404091735
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-04 00:23:56
-! Total Count: 137463
+! Last modified: 2024-04-04 09:17:35
+! Total Count: 137484
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3080,6 +3080,7 @@
 ||88lm06.com^
 ||88lm07.com^
 ||88lm08.com^
+||88lm09.com^
 ||88lotte.com^
 ||88p2p.com^
 ||88p2p.com^$popup
@@ -20029,6 +20030,7 @@
 ||cuxiao.site^
 ||cuyynol.com^
 ||cuzsgqr.com^
+||cv-tracker.stanby.com^
 ||cvastico.com^
 ||cvbdw.xyz^
 ||cvbjctqs.xyz^
@@ -21979,6 +21981,7 @@
 ||dillsloppy.com^
 ||dilrouthoab.com^
 ||dilruwha.net^
+||dilutegulpedshirt.com^
 ||diluterwearers.com^
 ||dilutionavailstoker.com^
 ||dimcarnie.com^
@@ -24669,6 +24672,7 @@
 ||ehqnheqa.com^
 ||ehrhrrx.xyz^
 ||eht116.com^
+||ei1s7b.cn^
 ||eiadf.xyz^
 ||eic.org.cn/api/Popup?
 ||eic.org.cn^*/analytics
@@ -26681,6 +26685,7 @@
 ||fadewaves.com^$third-party
 ||fadf617f13.com^
 ||fadfussequipment.com^
+||fadhvz.xyz^
 ||fadraiph.xyz^
 ||fadrovoo.xyz^
 ||fads315.com^
@@ -30553,6 +30558,7 @@
 ||glaickoxaksy.com^
 ||glaidsurteeg.com^
 ||glaijauk.xyz^
+||glaikrolsoa.com^
 ||glaimtug.com^
 ||glaingoo.xyz^
 ||glainsee.com^
@@ -30645,6 +30651,7 @@
 ||glivupegn.com^
 ||glixaing.com^
 ||glizauvo.net^
+||gljxuxjz.com^
 ||glleadflxvn.com^
 ||gllgqjxog.com^
 ||gllmh.com/style/js/gd
@@ -40507,6 +40514,7 @@
 ||kmyyuw.xyz^$third-party
 ||kmzayrt.cn^
 ||knackseafood.com^
+||knalzld.top^
 ||knaplpdmbrbi.com^
 ||knaveavo.guru^
 ||knawelgrx.com^
@@ -43392,6 +43400,7 @@
 ||logging.carambo.la^
 ||logging.e-himart.co.kr^
 ||logging.goodgamestudios.com^
+||logging.h3z.jp^
 ||logging.je-apps.com^
 ||logging.kinhtedothi.vn^
 ||logging.prefixbox.com^
@@ -44293,6 +44302,7 @@
 ||lzkj.shop^
 ||lzls.ltd^
 ||lzmvcrp.icu^
+||lznfuab.xyz^
 ||lzngisyl.xyz^
 ||lznpcwl.xyz^
 ||lzp.plus^
@@ -51210,6 +51220,7 @@
 ||okew.top^
 ||okfgsbtmcnh.com^
 ||okfzopj.cn^
+||okiafogless.top^
 ||okienamare.com^
 ||okjxihboesueh.com^
 ||okkazeo.com/img/habillage/banner/
@@ -51470,6 +51481,7 @@
 ||one101.xyz/data/images/*.gif
 ||one6u.xyz^
 ||oneadvupfordesign.com^
+||oneadz.com^
 ||oneclck.net^
 ||oneclickpic.net^
 ||onedala.tv/uploads/banner/
@@ -53360,6 +53372,7 @@
 ||pblinq.com^
 ||pblmppbnu.com^
 ||pbmp.ali213.net/js/
+||pbmt.cloud^
 ||pbnet.ru^
 ||pbnjzwjsy.com^
 ||pboddnqjobuf.com^
@@ -55710,6 +55723,7 @@
 ||pozrwj.icu^
 ||pozzitiv.ru^
 ||pp.muzofon-online.com^
+||pp1hl.xyz^
 ||pp2ppsch1hount1hf.com^
 ||pp8.com^
 ||pp98trk.com^
@@ -60344,6 +60358,7 @@
 ||rkds5.icu^
 ||rkfodhkxmf.com^
 ||rkft2sdl8b.ru^
+||rkgbqn.icu^
 ||rkgwzfwjgk.com^
 ||rkgwzfwjgk.com^$third-party
 ||rkjnazpgfihz.com^
@@ -70384,6 +70399,7 @@
 ||tnllxd.xyz^
 ||tnlowlo.cn^
 ||tnmmfgilvrjivxk.xyz^
+||tnmpd.xyz^
 ||tnpads.xyz^
 ||tnqsnxsdt.com^
 ||tns-counter.ru^
@@ -78419,6 +78435,7 @@
 ||winwin7.com/statics/js/pos_js/
 ||winwin7.com/statics/js/user/xz.
 ||winzid.icu^
+||wioboy.xyz^
 ||wioe3quod.cyou^
 ||wipedhypocrite.com^
 ||wipeilluminationlocomotive.com^
@@ -78848,6 +78865,7 @@
 ||worldglobalssp.xyz^
 ||worldgravity.com^
 ||worldlogger.com^
+||worldlyyouth.com^
 ||worldofrest.com.ua^
 ||worldofviralnews.com^
 ||worldpraisedcloud.com^
@@ -83242,6 +83260,7 @@
 ||zz.bdstatic.com^
 ||zz123.com^$third-party
 ||zzad.com^$third-party
+||zzaqqwecd.lat^
 ||zzbaike.com/main/*-20
 ||zzbaike.com/main/arvixe
 ||zzbaike.com/main/host
@@ -83573,7 +83592,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 114la.com##.search_ad
 114la.com##.sy_ad4
 114la.com#?#.sortItem:-abp-has(> dIV[class] > .FeedADClose)
-114la.com,1688porn.tv,4tube.com,78dm.net,ansamed.info,anyporn.com,aosmark.com,baltic-course.com,camwhores.biz,camwhores.tv,cartoon-sex.tv,chinairn.com,chinanews.com.cn,dav01.com,eteenporn.com,futbol24.com,gatewaynews.co.za,gsmarena.com,jetphotos.com,karger.com,mangaku.vip,maritimejobs.com,newagebd.net,oncam.me,pervertslut.com,pornformance.com,porngun.net,pornhills.com,prohaircut.com,qncye.com,qzwb.com,railcolornews.com,rat.xxx,sexboomcams.com,silisili.in,silver.org.cn,solidot.org,theyarehuge.com,tiktits.com,titter.com,vivud.com,webanddesigners.com,wordlegame.org,ylmf.com,zbani.com##.adv
+114la.com,1688porn.tv,4tube.com,78dm.net,ansamed.info,anyporn.com,aosmark.com,baltic-course.com,camwhores.biz,camwhores.tv,cartoon-sex.tv,chinairn.com,chinanews.com.cn,dav01.com,eteenporn.com,futbol24.com,gatewaynews.co.za,gsmarena.com,idealista.com,jetphotos.com,karger.com,mangaku.vip,maritimejobs.com,newagebd.net,oncam.me,pervertslut.com,pornformance.com,porngun.net,pornhills.com,prohaircut.com,qncye.com,qzwb.com,railcolornews.com,rat.xxx,sexboomcams.com,silisili.in,silver.org.cn,solidot.org,theyarehuge.com,tiktits.com,titter.com,vivud.com,webanddesigners.com,wordlegame.org,ylmf.com,zbani.com##.adv
 114la.com,ylmf.com###GameAdv
 114la.com,ylmf.com###HDtopBar
 114la.com,ylmf.com###imgArr
@@ -84933,7 +84952,7 @@ aae3.com###menu
 aae3.com##form + center > p[align="center"]
 aae3.com,qq.com###coo_qqBrowser
 aajtakcampus.in##div[class*="ads_ads_container__"]
-aan.xxx,aeroexpo.online,agriexpo.online,bouweenpc.nl,directindustry.com,fonearena.com,frontlinesoffreedom.com,stakingrewards.com,winemag.com###header-banner
+aan.xxx,aeroexpo.online,agriexpo.online,bouweenpc.nl,directindustry.com,droidgamers.com,fonearena.com,frontlinesoffreedom.com,stakingrewards.com,winemag.com###header-banner
 aardvark.co.nz##.tinyprint
 aaread.space##div[style^="position: fixed; bottom:"]
 aaread.space,sex-gen.com##.navi
@@ -85262,8 +85281,8 @@ allnewspipeline.com###isg_add
 allnewspipeline.com##[href="http://www.sqmetals.com/"]
 allnporn.com##+js(abort-on-property-read, mmsern)
 allnurses.com##.ipsAreaBackground
-allnurses.com##.ipsSpacer_both
 allnurses.com##.medrec
+allnurses.com,dcfcfans.uk##.ipsSpacer_both
 alloldpics.com,sexygirlspics.com##.custom-spot
 alloldpics.com,sexygirlspics.com##.live-spot
 allradio.net##div[class^="GoogleAdsenseContainer_"]
@@ -85680,6 +85699,7 @@ arabianindustry.com##.da-leaderboard
 arabiaweather.com##.mpu-card
 arabiaweather.com,atlasobscura.com,bloomberg.com,forum.audiogon.com,gamesindustry.biz,news957.com,newscientist.com,usgamer.net##.leaderboard-container
 aratta-ukraine.com,drawnstories.ru,gisclub.tv,kinda.media,teremok.org.ua,webos-forums.ru###mdl_adb
+arboristsite.com,kitchenknifeforums.com,quadraphonicquad.com##.gb-sponsored-wrapper
 arcadebomb.com##.bannerext
 arcadebomb.com##.bottombox
 arcadebomb.com##.colunit1
@@ -89410,7 +89430,7 @@ eco-business.com###supporting_orgs
 ecommercetimes.com##.slink-text
 ecommercetimes.com##.slink-title
 ecommercetimes.com,ectnews.com,linuxinsider.com,macnewsworld.com,technewsworld.com##.bbframe
-economist.com##.adComponent_advert__V79Pp
+economist.com##.adComponent_advert__kPVUI
 economist.com##[class^="adComponent"]
 ecosia.org##.ecolink-search-result
 ecosia.org##div[data-test-id="mainline-result-ad"]
@@ -93717,7 +93737,6 @@ kisssub.org##a > img[src*=".0o0.ooo/"]
 kisstube.top##.footer-gg
 kissvk.com###madBlockModal,.modal-backdrop
 kit.co##.sidekit-banner
-kitchenknifeforums.com,quadraphonicquad.com##.gb-sponsored-wrapper
 kitco.com###left_square
 kitco.com##.ad_space_730
 kitco.com##.mining-banner-container
@@ -95022,6 +95041,7 @@ mondoweiss.net##.notrack
 money.163.com##.ad1200
 money.163.com#$#.finance_header { height: auto !important; }
 money.163.com#$#.finance_header_gg { display: none !important; }
+money.com##.ca-pcu-inline
 money.com##.ca-widget-inline
 money.com##[data-trk-company="rocket-mortgage-review"]
 money.yahoo.com,tw.news.yahoo.com,yahoo.com###sda-MON
@@ -95478,6 +95498,7 @@ narutofan.com###right-spon
 nashfm100.com##div[onclick*="https://deucepub.com/"]
 nasyun.com##img[width="275"]
 nasyun.com##img[width="970"]
+nation.africa##.article-collection-teaser:has(.sponsored-label)
 nationalfile.com##.wpb_wrapper > p
 nationalgeographic.com##.FrameBackgroundFull--grey
 nationalgeographic.com##.FrameBackgroundFull--grey:has(.ad-wrapper)

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: tR93xEZMRAzQEG3enr1m3Q
+! Checksum: RNelDADECNYnw8q/v0KiWA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240404002407
+! Version: 20240404091745
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-04 00:24:07
-! Total Count: 26031
+! Last modified: 2024-04-04 09:17:45
+! Total Count: 26038
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6189,6 +6189,7 @@
 ||ehfjup.xyz^$third-party
 ||ehrhrrx.xyz^
 ||eht116.com^
+||ei1s7b.cn^
 ||eiadf.xyz^
 ||eifyeldw.top^
 ||eignky.xyz^
@@ -6420,6 +6421,7 @@
 ||fadama.com^$third-party
 ||fadechildren.com^$third-party
 ||fadewaves.com^$third-party
+||fadhvz.xyz^
 ||fads315.com^
 ||fafa.tuku.com^$domain=shouchaobao.com
 ||fainaidea.com/wp-content/uploads/*/*?ver=$script,stylesheet,domain=fainaidea.com
@@ -9064,6 +9066,7 @@
 ||kmw.com/js/adshow
 ||kmy.qhwifeq.cn^
 ||kmyyuw.xyz^$third-party
+||knalzld.top^
 ||kncrya.xyz^
 ||knfhxszj.xyz^
 ||knhmgn.com^
@@ -9705,6 +9708,7 @@
 ||lzfzkedp.icu^
 ||lzk.hl.cn/lctp/
 ||lzmvcrp.icu^
+||lznfuab.xyz^
 ||lznpcwl.xyz^
 ||lzvjtxe.xyz^
 ||lzyysw.com/upload/
@@ -11495,6 +11499,7 @@
 ||poxiao.com/template/default/images/12345.js
 ||poyang.com^
 ||pozrwj.icu^
+||pp1hl.xyz^
 ||ppenid.xyz^
 ||ppjttn.xyz^
 ||pplnjoow.com^
@@ -12137,6 +12142,7 @@
 ||rkds10.icu^
 ||rkds2.icu^
 ||rkds5.icu^
+||rkgbqn.icu^
 ||rkgwzfwjgk.com^$third-party
 ||rksnqq.com^
 ||rktddv.xyz^
@@ -14601,6 +14607,7 @@
 ||winwin7.com/statics/js/pos_js/
 ||winwin7.com/statics/js/user/xz.
 ||winzid.icu^
+||wioboy.xyz^
 ||wisealty.com^
 ||wit.qq.com^$third-party
 ||wiybthm.cn^
