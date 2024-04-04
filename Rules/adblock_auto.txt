@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 7MnRecGm20/uEKlQkXCx1w
+! Checksum: vbYTwqMa/kfamshG4XJY3A
 ! Title: 混合规则(自动更新)
-! Version: 20240404091735
+! Version: 20240404162400
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-04 09:17:35
-! Total Count: 137484
+! Last modified: 2024-04-04 16:24:00
+! Total Count: 137491
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -15805,6 +15805,7 @@
 ||cbsi.com.cn/js/mlt.js
 ||cbsusiqkwqxbrmv.com^
 ||cbt.whatcounts.net^
+||cbthkumwa96.shop^
 ||cbttnmo.xyz^
 ||cbvxguwbuq.com^
 ||cbyhoe.xyz^
@@ -49744,6 +49745,7 @@
 ||nmkli.com^
 ||nmlfev.icu^
 ||nmm9i.xyz^
+||nmntgd.cn^
 ||nmqwdmtwjleb.com^
 ||nmrjnqiwocfyi.com^
 ||nmrlx.cn^
@@ -58963,6 +58965,7 @@
 ||rderstartirrelea.info^
 ||rdgdjmgll.com^
 ||rdghnhu.com^
+||rdiono.cn^
 ||rdiul.com^
 ||rdjbhghljkrca.com^
 ||rdji.top^
@@ -68030,6 +68033,7 @@
 ||szptlkj.com^$document
 ||szptlkj.com^$~third-party
 ||szptp.cn^
+||szpwg.cn^
 ||szpwh.cn^
 ||szqifu.com^
 ||szqxvo.com^
@@ -86790,6 +86794,8 @@ bloomberg.com##.canopy-container
 bloomberg.com##.dvz-v0-ad
 bloomberg.com##[class*="ad-div"]
 bloomberg.com##[class^="FullWidthAd_"]
+bloomberg.com##div[class^="media-ui-BaseAd"]
+bloomberg.com##div[class^="media-ui-FullWidthAd"]
 bloomberg.com,weatherpro.com##.leaderboard-wrapper
 blowxtube.com,chinesesexmovie.net,erogarga.com,eyerollorgasm.com,javhdporn.net,pussycatxx.com,zhentube.com###tracking-url
 bluesnews.com##.leaderboard-gutter
@@ -88459,6 +88465,7 @@ cyberleaks.to##.responsive_banner
 cyberscore.live##.wrapper-partner-rb
 cyclenews.com###pamnew
 cyclingnews.com##.related-articles-wrap
+cyclingstage.com##.desktopad
 cyclingtips.com###takeover
 cyol.com,hc360.com##div[class^="AD"]
 cyol.net##.AD960_90
@@ -107332,7 +107339,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adsm2.
 /adsmanagement/*
 /adsmanager.nsf/*
-/adsmanager/*$domain=~github.com
+/adsmanager/*$domain=~adsmanager.facebook.com|~github.com
 /adsmapping/*
 /adsmatcher-anti-adblock/*
 /adsmedia_

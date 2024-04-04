@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: RNelDADECNYnw8q/v0KiWA
+! Checksum: Cn4he2bKanzlMNQ3H8Vfpw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240404091745
+! Version: 20240404162411
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-04 09:17:45
-! Total Count: 26038
+! Last modified: 2024-04-04 16:24:11
+! Total Count: 26043
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1117,6 +1117,7 @@
 ||88lm06.com^
 ||88lm07.com^
 ||88lm08.com^
+||88lm09.com^
 ||88p2p.com^$popup
 ||88ys.cc/js/abcd.js
 ||8961.jianbihua.com^
@@ -4687,6 +4688,7 @@
 ||cbdm.weathercn.com^
 ||cbfw.cn/gonggong/chibi/cf_
 ||cbjs.baidu.com^
+||cbthkumwa96.shop^
 ||cbttnmo.xyz^
 ||cbyhoe.xyz^
 ||cc.8181zx.com^
@@ -10643,6 +10645,7 @@
 ||nmkghh.com^
 ||nmlfev.icu^
 ||nmm9i.xyz^
+||nmntgd.cn^
 ||nmssdbgmf.xyz^
 ||nmtibv.xyz^
 ||nndytv.xyz^
@@ -12023,6 +12026,7 @@
 ||rdbd.xsread.com^
 ||rdbousn.cn^
 ||rddsjx.xyz^
+||rdiono.cn^
 ||rdji.top^
 ||rdjnjz.xyz^
 ||rdpcom.com^
@@ -13548,6 +13552,7 @@
 ||tnifdlai.top^
 ||tnkfactory.com^$third-party
 ||tnllxd.xyz^
+||tnmpd.xyz^
 ||tns.simba.taobao.com^
 ||tnvnnn.xyz^
 ||to8to.com^$subdocument,third-party
