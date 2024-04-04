@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: vbYTwqMa/kfamshG4XJY3A
+! Checksum: 8Cpnp2SQDU1WmXGDrGIXDg
 ! Title: 混合规则(自动更新)
-! Version: 20240404162400
+! Version: 20240405002300
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-04 16:24:00
-! Total Count: 137491
+! Last modified: 2024-04-05 00:23:00
+! Total Count: 137494
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -58584,6 +58584,7 @@
 ||r3sub.com/posters/00698128.jpg
 ||r3sub.com^*0.gif
 ||r3wd6.cn^
+||r451.jamanetwork.com^
 ||r528e.cn^
 ||r528e.cn^$third-party
 ||r541.houstonchronicle.com^
@@ -85156,6 +85157,7 @@ ahaan.co.uk##.MuiSnackbar-anchorOriginBottomCenter
 ahaan.co.uk,emailnator.com,myip.is,scrolller.com##[href^="https://go.nordvpn.net/"]
 ahentai.top##div[style^="width:728px;height:90px"]
 ahgame.com,china.com.cn,dandanzan.com,netbardh.com,pangzitv.com,twoeggz.com###pop
+ahhhhfs.com###ri_home_slider_widget-2
 ahhhhfs.com##.site-addswarp
 ahtv.cn##body > table[style^="text-align:center; width:960px;"]
 ahtv.cn,sexbarss.net##.l1
@@ -101115,6 +101117,7 @@ walletinvestor.com##[href="https://walletinvestor.com/u/gnrATE"]
 wallpaper.com##.articleSidebar
 wallpaper.com##.site-top
 wallpaperaccess.com##[src="/continue.png"]
+wallpaperbetter.com##.dld_ad
 wallpaperflare.com##div[itemtype$="WPAdBlock"]
 wallpapers-room.com##.recommendations-468x60
 wallpapers.com##.ads-unit-fts
