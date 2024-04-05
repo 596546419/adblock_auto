@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Bm+51rnoXQFGeyPa+rZe8A
+! Checksum: nD20dWYcLybkTgq4UPplxQ
 ! Title: 混合规则(自动更新)
-! Version: 20240405091646
+! Version: 20240405162722
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-05 09:16:46
+! Last modified: 2024-04-05 16:27:22
 ! Total Count: 137530
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
@@ -68061,6 +68061,7 @@
 ||szptp.cn^
 ||szpwg.cn^
 ||szpwh.cn^
+||szpzm.cn^
 ||szqifu.com^
 ||szqxvo.com^
 ||szsbiw.xyz^
@@ -90336,8 +90337,6 @@ footballtransfertavern.com,gpfans.com###snack_ldb
 footybite.cc##div[style^="border: 2px solid "]
 footztube.com##[href^="/tp/out"]
 forbes.com###article-stream-1
-forbes.com###cta-builder
-forbes.com###featured-partners
 forbes.com##.ad-unit
 forbes.com##.cta-builder
 forbes.com##.fbs-ad--mobile-medianet-wrapper
@@ -91995,6 +91994,7 @@ homemoviestube.com##.film-item:not(#showpop)
 homepornking.com##.bbas
 homepornking.com##.bottomlc
 homerun.re,strikeout.co,vipbox.sx,vipleague.ch,vipleague.co,vipleague.is,vipleague.me##span[id][style] > div[id]:first-child:last-child
+homestuck.com###desktop_skyscraper
 hometheaterreview.com###div_block-382-13
 hometheaterreview.com###headerhorizontalad
 hometheaterreview.com###homepagehorizontalad
@@ -99863,13 +99863,13 @@ theguardian.com##.top-fronts-banner-ad-container
 thehackernews.com##.av-side-box
 thehackernews.com##.av-side-box-1
 thehackernews.com##.babsi
-thehackernews.com##.check_two
 thehackernews.com##.google-1
+thehackernews.com##.okay_two
+thehackernews.com##.pixpix
 thehackernews.com##.zoho-box
 thehackernews.com##.zoho-box-1
 thehackernews.com##[href^="https://go.thn.li/"]
 thehackernews.com##[href^="https://thn.news/"]
-thehackernews.com##div.cf.pp-2
 thehindu.com###articledivrec
 thehindu.com##.artShrEnd
 thehindu.com##.article-ad
