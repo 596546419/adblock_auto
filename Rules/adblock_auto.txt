@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 8Cpnp2SQDU1WmXGDrGIXDg
+! Checksum: Bm+51rnoXQFGeyPa+rZe8A
 ! Title: 混合规则(自动更新)
-! Version: 20240405002300
+! Version: 20240405091646
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-05 00:23:00
-! Total Count: 137494
+! Last modified: 2024-04-05 09:16:46
+! Total Count: 137530
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -568,6 +568,7 @@
 ||127.net/external/js6public126_
 ||127.net/external/js6public163_
 ||127.net/m/*/promPic.jpg
+||1274355588.rsc.cdn77.org^
 ||1287a.xyz^
 ||12999.com/JS/
 ||12a640bb5e.com^
@@ -612,6 +613,7 @@
 ||144w6.com^$document
 ||144w6.com^$~third-party
 ||146.148.85.61^
+||1472566097.rsc.cdn77.org^
 ||148dfe140d0f3d5e.com^
 ||1493c7cc8b.com^
 ||14bobo.com/js/
@@ -1081,6 +1083,7 @@
 ||21sq.org/js/downloadbanner.js
 ||21uscity.com/static/allbusiness/
 ||21uscity.com/zonelist.php
+||21wiz.com^
 ||21yq.com/mg/21yq/
 ||220.115.251.25^
 ||22081b1c58.com^
@@ -8083,6 +8086,7 @@
 ||amplayeranydwou.info^
 ||amplify.outbrain.com^
 ||amplifypixel.outbrain.com^
+||amplitude.chess.com^
 ||amplitudesheriff.com^
 ||amplitudewassnap.com^
 ||ampltd.top.gg^
@@ -10901,6 +10905,7 @@
 ||azbjjbwkewqkr.top^
 ||azblnfsuhaeuc.com^
 ||azbns.com^
+||azbobvahfokf.com^
 ||azdadf.com^
 ||azdiqsb.cn^
 ||azdxypf.cn^
@@ -14354,6 +14359,7 @@
 ||bromisescapose.com^
 ||bromoilnapalms.com^
 ||bromusic.site^
+||bronchichogset.com^
 ||broncogainer.top^
 ||bronto.com^
 ||broochambitioncopies.com^
@@ -21075,6 +21081,7 @@
 ||decencyjessiebloom.com^
 ||decencysoothe.com^
 ||decenthat.com^
+||decentpatent.com^
 ||decentpension.com^
 ||deceptionhastyejection.com^
 ||decibaraglare.com^
@@ -25682,6 +25689,7 @@
 ||estaterenderwalking.com^
 ||estatestitch.com^
 ||estatestrongest.com^
+||estatscarot.com^
 ||estatueofthea.info^
 ||esteemtalented.com^
 ||estiques.com^
@@ -28249,6 +28257,7 @@
 ||foolish-devil.pro^
 ||foolishcheek.pro^
 ||foolishcounty.pro^
+||foolishjunction.com^
 ||foolproofanatomy.com^
 ||fooluminou.review^
 ||foomaque.net^
@@ -29533,6 +29542,7 @@
 ||gangstervideoethnic.com^
 ||gangtabli.top^
 ||gangueswipes.top^
+||gangueturkery.com^
 ||ganimg.com/images/*.gif
 ||ganimgs.com/images/*.gif
 ||ganismpro.com^
@@ -30148,6 +30158,7 @@
 ||gfdrkskillso.xyz^
 ||gfghr.com^
 ||gfhkcfdqaongo.com^
+||gfjn5.xyz^
 ||gfkefmmnludbkj.com^
 ||gfkhapiuxjkspbq.xyz^
 ||gflcsiot.com^
@@ -30338,6 +30349,7 @@
 ||giaodichvidientu.com.vn^
 ||giaoji.com/Runtime/Js/
 ||giaothuongvietnhat.org^
+||giaythethaonuhcm.com^
 ||gibaivoa.com^
 ||gibbarwaiting.com^
 ||gibeleftyeuro.com^
@@ -32697,6 +32709,7 @@
 ||hasteshearses.com^
 ||hastifuhllo.top^
 ||hastyarmistice.com^
+||hatablepuleyn.com^
 ||hatagashira.com^
 ||hatapybbwxkbs.com^
 ||hatbenchmajestic.com^
@@ -33871,6 +33884,7 @@
 ||hn1l.online^
 ||hn1l.site^
 ||hnalzlu.top^
+||hnartcqab847.live^
 ||hnasd.com^
 ||hnbhrt.xyz^
 ||hncadh.com^
@@ -36002,6 +36016,7 @@
 ||imgopen.vip^
 ||imgot.info^
 ||imgot.site^
+||imgqmng.com^
 ||imgroom.net/images/*.gif
 ||imgs.cc/images/ad_
 ||imgs.cc/img/8Pl6FJY.gif
@@ -37533,6 +37548,7 @@
 ||iulftx.com^
 ||iuliglsh.space^
 ||iumboa.xyz^
+||iummqg.xyz^
 ||iumnxwvh.ink^
 ||iumtussthtygoib.com^
 ||iunnrqcmup.com^
@@ -45099,6 +45115,7 @@
 ||matomo.aksorn.com^
 ||matomo.chsc.dk^
 ||matomo.cloud^
+||matomo.cloudfront.similarweb.io^
 ||matomo.goteborgco.se^
 ||matomo.lulea.se^
 ||matomo.mindbite.cloud^
@@ -48684,6 +48701,7 @@
 ||naturalistsbumpmystic.com^
 ||naturallyedaciousedacious.com^
 ||naturaltracking.com^
+||naturewhatmotor.com^
 ||naubme.info^
 ||naucaips.com^
 ||naucaish.net^
@@ -49683,6 +49701,7 @@
 ||nkevca.cn^
 ||nkewdzp.com^
 ||nkfinsdg.com^
+||nkfith.xyz^
 ||nkgutoa.cn^
 ||nkhjioewwc.xyz^
 ||nkieuulsvvjrfh.com^
@@ -52330,6 +52349,7 @@
 ||outbrain.com^$third-party
 ||outbrainimg.com^$domain=rocketnews24.com|youpouch.com|soranews24.com
 ||outburststudying.com^
+||outbursttones.com^
 ||outchops.xyz^
 ||outclaydola.com^
 ||outdilateinterrupt.com^
@@ -58303,6 +58323,7 @@
 ||quetthetindung-vnpay.com^
 ||quetthetindungvn-thanhtoan.com^
 ||quettindung247-mpos.com^
+||queuescotman.com^
 ||quezachieve.cfd^
 ||quge66.com/jdjd/
 ||quiaresp.com^
@@ -62332,6 +62353,7 @@
 ||secretionforbearace.com^
 ||secretivestick.com^$third-party
 ||secruz.com^
+||sectarynylghai.com^
 ||secthatlead.com^
 ||sectn.xyz^
 ||sectsenior.com^
@@ -64522,6 +64544,7 @@
 ||slaughtergarageparttime.com^
 ||slaverylavatoryecho.com^
 ||slavesenviablegrammar.com^
+||slavesubmarinebribery.com^
 ||slavil.com^
 ||slayeyeshadow.com^
 ||slcgngo.cn^
@@ -64886,6 +64909,7 @@
 ||snakestanothia.xyz^
 ||snakilyglebae.com^
 ||snakro.com^
+||snalzlb.top^
 ||snammar-jumntal.com^
 ||snapcheat.app^
 ||snapdeal26.com^
@@ -67539,6 +67563,7 @@
 ||supfree.net/top.gif
 ||supfree.net/xxx/
 ||supfree.net^$xmlhttprequest
+||supgedcowxkmzr.com^
 ||suphelper.com^
 ||supied.com^
 ||supletcedintand.pro^
@@ -69665,6 +69690,7 @@
 ||thoved.com^
 ||thpte.cn^
 ||thpthuynhthuckhang.edu.vn^
+||thqgxvs.com^
 ||thraerqol.com^
 ||threatdetect.org^
 ||threatenedorientalavailable.com^
@@ -69986,6 +70012,7 @@
 ||tikiwork.net^
 ||tikixv.com^
 ||tikiy.cc^
+||tikrailrou.com^
 ||tiksgayowqln.com^
 ||tikstok.fun^
 ||tiktakz.xyz^
@@ -72960,6 +72987,7 @@
 ||tzfdc.com.cn/userfiles/flash/
 ||tzfdc.com/Images/09/flv/flv_index.js
 ||tzfdc.com/fdcSell/
+||tzgcwfvrf.com^
 ||tzgygfy.com^
 ||tzjovzs.cn^
 ||tzlit.cn^
@@ -76600,6 +76628,7 @@
 ||voxus.com.br^
 ||voyageconcise.com^
 ||voyageschoolanymore.com^
+||voyagessansei.com^
 ||voynto.com^
 ||vozer.voffka.com^
 ||vozftn.xyz^
@@ -76859,6 +76888,7 @@
 ||vuuwd.com^
 ||vuvacu.xyz^
 ||vuvcroguwtuk.com^
+||vuvnix.icu^
 ||vuvochgw.xyz^
 ||vuvoti.uno^
 ||vuvoti.xyz^
@@ -80382,6 +80412,7 @@
 ||xrn8.xyz^
 ||xroqbkk.cn^
 ||xrrhwgj.xyz^
+||xrrxodz.xyz^
 ||xrujynhcxtbsgp.com^
 ||xruolsogwsi.com^
 ||xryjyfb.cn^
@@ -80534,6 +80565,7 @@
 ||xvbjctqs.xyz^
 ||xvbnrh.xyz^
 ||xvbtdwdelhhxe.com^
+||xvbvpizetpts.com^
 ||xvderylqps.xyz^
 ||xvdifvuro.com^
 ||xveenk.com^
@@ -81672,6 +81704,7 @@
 ||yqiavtoy.com^
 ||yqingge.com/wap.js
 ||yqiyazkddb.com^
+||yqlxkzs.cn^
 ||yqlxwb.icu^
 ||yqmxfz.com^
 ||yqpalfulpst.com^
@@ -87431,6 +87464,9 @@ cheaa.com###AD002
 cheaa.com###ADText
 cheaptickets.com,ebookers.com,expedia.at,expedia.be,expedia.ca,expedia.ch,expedia.co.id,expedia.co.in,expedia.co.jp,expedia.co.kr,expedia.co.nz,expedia.co.th,expedia.co.uk,expedia.com,expedia.com.ar,expedia.com.au,expedia.com.br,expedia.com.hk,expedia.com.my,expedia.com.ph,expedia.com.sg,expedia.com.tw,expedia.com.vn,expedia.de,expedia.dk,expedia.es,expedia.fi,expedia.fr,expedia.ie,expedia.it,expedia.mx,expedia.net,expedia.nl,expedia.no,expedia.se,hoteis.com,hoteles.com,hotels.com,orbitz.com,travelocity.ca,travelocity.com,wotif.com##.uitk-card:has(.uitk-badge-sponsored)
 cheaptickets.com,ebookers.com,expedia.at,expedia.be,expedia.ca,expedia.ch,expedia.co.id,expedia.co.in,expedia.co.jp,expedia.co.kr,expedia.co.nz,expedia.co.th,expedia.co.uk,expedia.com,expedia.com.ar,expedia.com.au,expedia.com.br,expedia.com.hk,expedia.com.my,expedia.com.ph,expedia.com.sg,expedia.com.tw,expedia.com.vn,expedia.de,expedia.dk,expedia.es,expedia.fi,expedia.fr,expedia.ie,expedia.it,expedia.mx,expedia.net,expedia.nl,expedia.no,expedia.se,hoteis.com,hoteles.com,hotels.com,orbitz.com,travelocity.ca,travelocity.com,wotif.com##[data-stid="meso-similar-properties-carousel"]
+cheaptickets.com,ebookers.com,expedia.at,expedia.be,expedia.ca,expedia.ch,expedia.co.id,expedia.co.in,expedia.co.jp,expedia.co.kr,expedia.co.nz,expedia.co.th,expedia.co.uk,expedia.com,expedia.com.ar,expedia.com.au,expedia.com.br,expedia.com.hk,expedia.com.my,expedia.com.ph,expedia.com.sg,expedia.com.tw,expedia.com.vn,expedia.de,expedia.dk,expedia.es,expedia.fi,expedia.fr,expedia.ie,expedia.it,expedia.mx,expedia.net,expedia.nl,expedia.no,expedia.se,hoteis.com,hoteles.com,hotels.com,orbitz.com,travelocity.ca,travelocity.com,wotif.com##div.not_clustered[id^="uitk-eg-maps-container-"]
+cheaptickets.com,ebookers.com,expedia.at,expedia.be,expedia.ca,expedia.ch,expedia.co.id,expedia.co.in,expedia.co.jp,expedia.co.kr,expedia.co.nz,expedia.co.th,expedia.co.uk,expedia.com,expedia.com.ar,expedia.com.au,expedia.com.br,expedia.com.hk,expedia.com.my,expedia.com.ph,expedia.com.sg,expedia.com.tw,expedia.com.vn,expedia.de,expedia.dk,expedia.es,expedia.fi,expedia.fr,expedia.ie,expedia.it,expedia.mx,expedia.net,expedia.nl,expedia.no,expedia.se,hoteis.com,hoteles.com,hotels.com,orbitz.com,travelocity.ca,travelocity.com,wotif.com##div[class="uitk-spacing uitk-spacing-margin-blockstart-three"]:has(a[href*="&trackingData"])
+cheaptickets.com,ebookers.com,expedia.at,expedia.be,expedia.ca,expedia.ch,expedia.co.id,expedia.co.in,expedia.co.jp,expedia.co.kr,expedia.co.nz,expedia.co.th,expedia.co.uk,expedia.com,expedia.com.ar,expedia.com.au,expedia.com.br,expedia.com.hk,expedia.com.my,expedia.com.ph,expedia.com.sg,expedia.com.tw,expedia.com.vn,expedia.de,expedia.dk,expedia.es,expedia.fi,expedia.fr,expedia.ie,expedia.it,expedia.mx,expedia.net,expedia.nl,expedia.no,expedia.se,hoteis.com,hoteles.com,hotels.com,orbitz.com,travelocity.ca,travelocity.com,wotif.com##div[class="uitk-spacing uitk-spacing-margin-blockstart-three"]:has(a[href^="https://adclick.g.doubleclick.net/pcs/click?"])
 cheatcodes.com###ad_atf_970
 cheatcodes.com###game_details_ad
 cheatcodes.com##.ad_btf_728
@@ -89818,9 +89854,6 @@ exler.ru##.adblock-pls
 exoav.com##td > a[href]
 exoav.com,sunporno.com##+js(abort-on-property-read, exoNoExternalUI38djdkjDDJsio96)
 expats.cz##.eas
-expedia.at,expedia.be,expedia.ca,expedia.ch,expedia.co.id,expedia.co.in,expedia.co.jp,expedia.co.kr,expedia.co.nz,expedia.co.th,expedia.co.uk,expedia.com,expedia.com.ar,expedia.com.au,expedia.com.br,expedia.com.hk,expedia.com.my,expedia.com.ph,expedia.com.sg,expedia.com.tw,expedia.com.vn,expedia.de,expedia.dk,expedia.es,expedia.fi,expedia.fr,expedia.ie,expedia.it,expedia.mx,expedia.net,expedia.nl,expedia.no,expedia.se,hoteis.com,hoteles.com,hotels.com,orbitz.com,travelocity.ca,travelocity.com##div.not_clustered[id^="uitk-eg-maps-container-"]
-expedia.at,expedia.be,expedia.ca,expedia.ch,expedia.co.id,expedia.co.in,expedia.co.jp,expedia.co.kr,expedia.co.nz,expedia.co.th,expedia.co.uk,expedia.com,expedia.com.ar,expedia.com.au,expedia.com.br,expedia.com.hk,expedia.com.my,expedia.com.ph,expedia.com.sg,expedia.com.tw,expedia.com.vn,expedia.de,expedia.dk,expedia.es,expedia.fi,expedia.fr,expedia.ie,expedia.it,expedia.mx,expedia.net,expedia.nl,expedia.no,expedia.se,hoteis.com,hoteles.com,hotels.com,orbitz.com,travelocity.ca,travelocity.com##div[class="uitk-spacing uitk-spacing-margin-blockstart-three"]:has(a[href*="&trackingData"])
-expedia.at,expedia.be,expedia.ca,expedia.ch,expedia.co.id,expedia.co.in,expedia.co.jp,expedia.co.kr,expedia.co.nz,expedia.co.th,expedia.co.uk,expedia.com,expedia.com.ar,expedia.com.au,expedia.com.br,expedia.com.hk,expedia.com.my,expedia.com.ph,expedia.com.sg,expedia.com.tw,expedia.com.vn,expedia.de,expedia.dk,expedia.es,expedia.fi,expedia.fr,expedia.ie,expedia.it,expedia.mx,expedia.net,expedia.nl,expedia.no,expedia.se,hoteis.com,hoteles.com,hotels.com,orbitz.com,travelocity.ca,travelocity.com##div[class="uitk-spacing uitk-spacing-margin-blockstart-three"]:has(a[href^="https://adclick.g.doubleclick.net/pcs/click?"])
 experts-exchange.com##.eeAD
 explorecams.com##.item-row
 explorecams.com##.item-row--desktop
@@ -90311,6 +90344,7 @@ forbes.com##.fbs-ad--mobile-medianet-wrapper
 forbes.com##.fbs-ad--ntv-deskchannel-wrapper
 forbes.com##.fbs-ad--ntv-home-wrapper
 forbes.com##.inline-article-ed-placeholder
+forbes.com##.inline__zephr
 forbes.com##.mobile-sticky-ed-placeholder
 forbes.com##.ntv-loading
 forbes.com##.top-ad-container
@@ -93939,6 +93973,7 @@ laohu8.com##.top-recommend
 laowang.vip###frameYl5IOf
 laozuo.org##.s_ad125
 lapa.ninja##.col-sm-1
+laravel-news.com##.relative:has([wire\:key="article-ad-card"])
 larousse.com##.pub728x90
 las.ac.cn,worldve.com###img
 lasentinel.net##div[style^="min-height: 250px; width: 300px;"]
@@ -100167,6 +100202,7 @@ tingvoa.com##a[href*="?adid="]
 tinys.click,mdhstream.cc,serverbd247.com,cronachesalerno.it,aiimgvlog.fun,uiiumovies.net,arponag.xyz,gplastra.com,tv0800.com,coursesghar.com,mhdtvworld.org,whats-on-netflix.com,justpaste.top,rabaty-booking.pl,alttyab.net,brasilsimulatormods.com,shineads.in,movi.pk,techhelpbd.com,portalizpro.com,hayatarehber.com,dubznetwork.com,iptv-list.live,apkdelisi.net,livsavr.co,simulatormods.com,7xm.xyz,pornktubes.net,porhubvideo.com,alludemycourses.com,xiaomifirmware.net,allotech-dz.com,freepornsex.net,atikrost.com,booksrack.net,plc247.com,gbfile.com,thecustomrom.com,magesypro.pro,maccanismi.it,blog.miuiflash.com,technoflip.in,hentaiseason.com,novinhastop.com,freejav.guru,gigacourse.com,gocmod.com,nullphpscript.com,australianfrequentflyer.com.au,gaymaletubes.*,havenstreams.com,kopetnews.id,freeshib.biz,infinityblogger.in,crazytechgo.com,bithub.win,stringreveals.com,superpsx.com,7movierulz.do,apkowner.org,appsmodz.com,fusedgt.com,freewp.io,phanmemmaytinh.net,sachiepvien.net,rucore.net,latesthdmovies.*,knightnoscanlation.com,audiobooks4soul.com,vfxdownload.net,reset-scans.com,freeallcourse.com,livenewsnow.com,edunil.com,udemycoursesfree.me,kursors.lv,dubzstreams.com,cybermania.ws,globfone.com,downloadcursos.top,infofuge.com##+js(noeval-if, adsBlocked)
 tinyurl.is###stand-with
 tinyurl.is##a[href^="mailto:sportspanel4"]
+tipranks.com##.mobile_displaynone.flexccc
 tiresandparts.net##.e3lanat-layout-rotator
 tiresandparts.net##.footer_top_banner
 tiresandparts.net##.mom-e3lan

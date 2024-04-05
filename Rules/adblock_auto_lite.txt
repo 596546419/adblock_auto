@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: r1RYIJatgTZW0e+772JbIw
+! Checksum: hg1MEYVTClBM8UQ4h26QSw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240405002310
+! Version: 20240405091657
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-05 00:23:10
-! Total Count: 26044
+! Last modified: 2024-04-05 09:16:57
+! Total Count: 26050
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8353,6 +8353,7 @@
 ||iugbjkqwc.xyz^
 ||iujlwn.icu^
 ||iumboa.xyz^
+||iummqg.xyz^
 ||iuou.myadobe.cn^
 ||iuou.ysw365.com^
 ||iupian.com/mstyle/js/topinfo.js
@@ -10634,6 +10635,7 @@
 ||njxraqb.xyz^
 ||njxzwh.com/pcsoft/statics/ycgg/
 ||nkbkor.icu^
+||nkfith.xyz^
 ||nkis.nikkei.com^
 ||nkvwvx.xyz^
 ||nlfbdgr.xyz^
@@ -12821,6 +12823,7 @@
 ||smuc.cnnfootballclub.com^
 ||smxflvz.cn^
 ||smzy.com/v1/img/
+||snalzlb.top^
 ||sncop.uioozpxq.com^$all
 ||snifdlab.top^
 ||snipersex.com^
@@ -14384,6 +14387,7 @@
 ||vuntbnc.cn^$document
 ||vuntbnc.cn^$~third-party
 ||vupload.duowan.com^
+||vuvnix.icu^
 ||vuvxpf.xyz^
 ||vuwjv7sjvg7.zedporn.com^
 ||vuxxtn.xyz^
@@ -15093,6 +15097,7 @@
 ||xrkyqq.com^
 ||xrllybr.xyz^
 ||xrrhwgj.xyz^
+||xrrxodz.xyz^
 ||xs.houyi.baofeng.net^
 ||xsbdj6.com^
 ||xsfajf.xyz^
@@ -15487,6 +15492,7 @@
 ||ypwlctfk.xyz^
 ||ypyjyhny.xyz^
 ||yqingge.com/wap.js
+||yqlxkzs.cn^
 ||yqlxwb.icu^
 ||yqrta.xyz^$third-party
 ||yqspiy.xyz^
