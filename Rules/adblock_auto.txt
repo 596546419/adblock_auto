@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: cS/fhYMyvJRGTJO0cFjnUg
+! Checksum: /NR7yPmJwDh8C+bWjHVC4g
 ! Title: 混合规则(自动更新)
-! Version: 20240406162208
+! Version: 20240407002342
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-06 16:22:08
-! Total Count: 137624
+! Last modified: 2024-04-07 00:23:42
+! Total Count: 137649
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -100363,6 +100363,7 @@ toolfk.com##wavy ~ a
 tools.2345.com##._hb-box + .mod
 toolslib.net##.custom
 toolslib.net##.row > .col-md-7 > .panel-default
+top.gg##[class*="__AdContainer-"]
 top16.net##.img_wrap
 topeuropix.site,123europix.pro###closex
 topfiveforex.com###wcfloatDiv
@@ -103847,6 +103848,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 .com/*/js/8*/8*/8*/8*?r=https$third-party
 .com/*/ua.php$third-party
 .com/*/uagu.php$third-party
+.com/*=bT1zdXY1JnI9
 .com/*?key=*&submetric=$document
 .com/*?key=*&submetric=$~third-party
 .com/*_*.js?*16$third-party
@@ -104016,6 +104018,19 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 .com/sc/*?n=$script,third-party
 .com/sc/*?n=$third-party
 .com/sc/*?x=$third-party
+.com/script/a.js
+.com/script/asset.js
+.com/script/cdn.js
+.com/script/compatibility.js
+.com/script/document.js
+.com/script/file.js$third-party
+.com/script/foundation.js
+.com/script/frustration.js
+.com/script/image.js
+.com/script/mui.js
+.com/script/script.js$third-party
+.com/script/utils.js$third-party
+.com/script/xbox.js
 .com/sh/*.js$third-party
 .com/sh/back/*$third-party
 .com/sh/to/$script,third-party,xmlhttprequest
@@ -104389,6 +104404,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 .org/js/ads/
 .org/pops.js
 .org/s.php?id=$script,third-party
+.org/script/compatibility.js
 .org/topjs/
 .ph/ads/
 .php/ad/
@@ -111391,16 +111407,25 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /script/aclib.js
 /script/ad.$~script
 /script/ads_
+/script/antd.js
 /script/app_settings.js$third-party
+/script/atg.js
+/script/atga.js
 /script/awesome.js
+/script/intrf.js
+/script/ippg.js
 /script/java.php?$xmlhttprequest
 /script/naN.js
 /script/nasu.js$third-party
+/script/native_render.js
+/script/native_server.js
+/script/npa2.min.js
 /script/nrsu.js$third-party
 /script/nwsu.js
 /script/nwsu.js$third-party
 /script/oas/*
 /script/suurl4.php?$third-party
+/script/suv4r.js
 /script/ut.js?cb=$third-party
 /script/wait.php?*=$xmlhttprequest
 /scriptonline.js?uin=
@@ -114391,7 +114416,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 =affiliate_ad_viewed&
 =ajaxGetAds&type=
 =akiba_ads_
-=bT1zdXY1JnI9$third-party,xmlhttprequest
 =banners_ad&
 =big-ad-switch_
 =clkads/
@@ -133678,6 +133702,7 @@ zle.com$script
 ##a[href*="/industrialproductsfind.com"]
 ##a[href*="/jdr29jlir.com"]
 ##a[href*="/jianjianjiao.top"]
+##a[href*="/jump/next.php?r="]
 ##a[href*="/k023055.com"]
 ##a[href*="/k849.top"]
 ##a[href*="/kanxiuren.com/?"]
