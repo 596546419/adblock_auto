@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: lvCCNvI9j/8tAXX7sXZzBg
+! Checksum: 2yk/Ip3ZCKjzWbFLH28c+g
 ! Title: 混合规则(自动更新)
-! Version: 20240406002501
+! Version: 20240406091443
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-06 00:25:01
-! Total Count: 137545
+! Last modified: 2024-04-06 09:14:43
+! Total Count: 137599
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1694,6 +1694,7 @@
 ||3alian.net^$third-party
 ||3azpx.xyz^
 ||3b0df911a8.com^
+||3b1ac6ca25.com^
 ||3bc9b1b89c.com^
 ||3bfcfaa8c8.com^
 ||3bitter.com/apbk-hbonetag.js
@@ -5798,6 +5799,7 @@
 ||adsbanner.game.zing.vn^
 ||adsbar.online^
 ||adsbeard.com^
+||adsbetnet.com^
 ||adsbingo.com^
 ||adsblocker-ultra.com^
 ||adsblockersentinel.info^
@@ -6501,6 +6503,7 @@
 ||adzfun.me^
 ||adzhub.com^
 ||adziff.com^
+||adzilla.name^
 ||adzincome.in^
 ||adzintext.com^
 ||adzmarket.net^
@@ -10532,6 +10535,7 @@
 ||automateyourlist.com^
 ||automaticairplane.com^$third-party
 ||automaticallyindecisionalarm.com^
+||automenunct.com^
 ||automizely-analytics.com^
 ||autonet.com.tw/90/
 ||autoperplexturban.com^
@@ -11729,6 +11733,7 @@
 ||batterdisagreement.com^
 ||batteusp2hilenor.com^
 ||battiesnarras.com^
+||battleautomobile.com^
 ||battledninos.top^
 ||batwaxwok.site^
 ||baubogla.com^
@@ -12357,6 +12362,7 @@
 ||belboon.de^
 ||belengougha.com^
 ||belfarewesbe.info^
+||belfrycaptured.com^
 ||belfrynonfiction.com^
 ||belgir.com^
 ||belgrekblackad.com^
@@ -13140,7 +13146,6 @@
 ||bitporno.to/popup18.js
 ||bitraffic.com^
 ||bitrueexchange.com^
-||bits.avcdn.net^
 ||bitsbankuk.com^
 ||bitscn.com/js/a2
 ||bitsinflow.com^
@@ -16335,6 +16340,7 @@
 ||certified-apps.com^
 ||certifiedstarveeminent.com^
 ||cervell.io^
+||cervixskips.com^
 ||ces2007.org^
 ||cesareurope.com^
 ||ceseasons.com^
@@ -19197,6 +19203,7 @@
 ||coupteew.com^
 ||couptoug.net^
 ||courageimportancedirections.com^
+||courageousaway.com^
 ||courierembedded.com^
 ||couriree.xyz^
 ||courospederogis.com^
@@ -23219,6 +23226,7 @@
 ||drivenetwork.ru^
 ||drivenicysecretive.com^
 ||driveniq.com^
+||drivercontinentcleave.com^
 ||drivewayilluminatedconstitute.com^
 ||drivewayperrydrought.com^
 ||drivingfoot.website^
@@ -25063,6 +25071,7 @@
 ||enacttournamentcute.com^
 ||enaenasiftage.com^
 ||enahmy.xyz^
+||enalzlw.top^
 ||enamelcourage.com^
 ||enarmuokzo.com^
 ||enastamo.info^
@@ -25405,6 +25414,7 @@
 ||epotaidhdbg.com^
 ||epoun.top^
 ||epoxideouttop.com^
+||eppfquarvmzr.com^
 ||eppmedia.si^
 ||epqlidgerrnwyv.com^
 ||epresententifi.com^
@@ -26569,6 +26579,7 @@
 ||ezzmmvzleawab.top^
 ||ezzmmvzleawjq.top^
 ||ezzmmvzleayjm.top^
+||ezzmvdyyzccx.com^
 ||f*.baidu.com/it/u=*,*&fm=$third-party,domain=~hao123.com|~haokan.com|~yoojia.com
 ||f-counter.jp^
 ||f-counter.net^
@@ -26690,6 +26701,7 @@
 ||fadacaitp.com^
 ||fadama.com^$third-party
 ||fadbell.com^
+||fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz^
 ||fadechildren.com^$third-party
 ||fadegranted.com^
 ||fademployedtransactions.com^
@@ -28500,6 +28512,7 @@
 ||fp.kakaku.com^
 ||fp.nanrenwo.net^
 ||fp.techinasia.com^
+||fpad.jp^
 ||fpalarezuxj.com^
 ||fpb*.51edu.com^
 ||fpb.sohu.com^
@@ -31134,6 +31147,7 @@
 ||gomtdatacom.xyz^
 ||gonamic.de^
 ||gondwrists.life^
+||goneawaytogy.info^
 ||gonebyalongt.com^
 ||goneryacked.top^
 ||goneviral.com^
@@ -31552,6 +31566,7 @@
 ||greatlifebargains2024.com^
 ||greatlove.pro^
 ||greatlyclip.com^
+||greatmidship.com^
 ||greatnumeric.com^
 ||greatvay.xyz^
 ||greatviews.de^
@@ -32395,6 +32410,7 @@
 ||haghalra.com^
 ||haglance.com^
 ||hagnaudsate.com^
+||hagppxgjypqa.com^
 ||hagridestupose.space^
 ||hagweedtoytown.com^
 ||hahamx.cn/images/banner/
@@ -32522,6 +32538,7 @@
 ||handred.ru^
 ||handsenvious.com^
 ||handshakesexyconquer.com^
+||handsomebend.pro^
 ||handsomelyhealth.com^$third-party
 ||handsomepinchingconsultation.com^
 ||handspiketha.xyz^
@@ -37113,6 +37130,7 @@
 ||ippaxapccehjt.com^
 ||ippcodeblack.com^
 ||ippcodepink.com^
+||ippleshiswashis.info^
 ||ipprof.ru/wp-content/plugins/ad-blocking-advisor/
 ||ippscriptbear.com^
 ||ippstuet.com^
@@ -37292,6 +37310,7 @@
 ||isgow.com^
 ||ish.tumedia.no^
 ||ishanggao.com^
+||ishaweewouta.com^
 ||ishedtotigai.info^
 ||ishibeesoany.com^
 ||ishisetianxia.com/tb.js
@@ -40900,6 +40919,7 @@
 ||kskwai.com^
 ||kslbahd.top^
 ||ksnbiepnvjdi.com^
+||ksnbtmz.com^
 ||ksnignsd.xyz^
 ||ksnoownmd.fun^
 ||ksrgsc.xyz^
@@ -41376,6 +41396,7 @@
 ||lagou.com/js/cooperation/
 ||lagqmwyvqr.com^
 ||lagrys.xyz^
+||lagt.cloud^
 ||lahair.biz^
 ||laharal.com^
 ||lahemal.com^
@@ -41952,6 +41973,7 @@
 ||lecythleche.website^
 ||ledaoutrush.com^
 ||ledgesprimely.com^
+||ledgingalcaid.com^
 ||ledhatbet.com^
 ||ledinika.ru^
 ||ledni.xyz^
@@ -43439,6 +43461,7 @@
 ||logicdate.com^
 ||logicdripping.com^
 ||logicorganized.com^
+||logicschort.com^
 ||login-applecare.com^
 ||login-icloud.com^
 ||login.tracking101.com^
@@ -46419,6 +46442,7 @@
 ||missitzantiot.com^
 ||misslinkvocation.com^
 ||misslk.com^
+||misspelluptown.com^
 ||misspkl.com^
 ||misstaycedule.com^
 ||missyuan.com/sy/
@@ -47446,6 +47470,7 @@
 ||mprjoat.cn^
 ||mps-gba.de^
 ||mps.wenkuzu.com^
+||mpsauudmnwarh.com^
 ||mpsqvsylctp.com^
 ||mpstat.us^
 ||mpsuadv.ru^
@@ -50338,6 +50363,7 @@
 ||nuglegdkyjlaye.com^
 ||nugrudsu.xyz^
 ||nugxmtkydv.com^
+||nuhgpx.xyz^
 ||nui.media^
 ||nuiekka.cn^
 ||nuisancehi.com^
@@ -50915,6 +50941,7 @@
 ||odouanmhndwipg.com^
 ||odoucessu.com^
 ||odpfujlimjuk.com^
+||odpokjcucdax.com^
 ||odqicviub.com^
 ||odrgacvbl.com^
 ||odtrtadl.com^
@@ -51214,6 +51241,7 @@
 ||ojuhfoa.com^
 ||ojuhjcmhemvs.com^
 ||ojuhwc.xyz^
+||ojvpigx.xyz^
 ||ojwapnolwa.com^
 ||ojwplnqmctys.com^
 ||ojyggbl.com^
@@ -52433,6 +52461,7 @@
 ||ovariesutopia.com^
 ||ovauthalrim.com^
 ||ovbgeum.cn^
+||ovcenehu.com^
 ||ovdimin.buzz^
 ||oveechoops.xyz^
 ||ovembe.com^
@@ -53884,6 +53913,7 @@
 ||pestilenttidefilth.org^
 ||petalycnida.com^
 ||petametrics.com^
+||petasmaeryops.com^
 ||petasmaupbore.website^
 ||petasusawber.com^
 ||petchesa.net^
@@ -55124,6 +55154,7 @@
 ||poi3d.space^
 ||poiful.com/sdk/vrizeadsdk.
 ||poignantsensitivenessforming.com^
+||poilloiter.top^
 ||poinct.com^
 ||poined.com^
 ||poinsk.com^
@@ -56787,6 +56818,7 @@
 ||ptooshos.net^
 ||ptotchie.xyz^
 ||ptoubeeh.net^
+||ptouckop.xyz^
 ||ptoujaix.xyz^
 ||ptoumsid.net^
 ||ptoushoa.com^
@@ -57356,6 +57388,7 @@
 ||q*-publick.club^
 ||q-counter.com^
 ||q-stats.nl^
+||q02orc.cn^
 ||q0ibic08.cn^
 ||q0mn5t187u.ru^
 ||q0yxfvuo32.ru^
@@ -57651,6 +57684,7 @@
 ||qhskskb.com^
 ||qhsqrtva.com^
 ||qhssjyb.xyz^
+||qhstvmfehhk.com^
 ||qhttxwlecujjfc.com^
 ||qhuguzodbd.com^
 ||qhupdate.com^
@@ -58138,6 +58172,7 @@
 ||qtspkqzn.com^
 ||qtuopsqmunzo.com^
 ||qtuxulczymu.com^
+||qtuzpoopwv.com^
 ||qtyusiy.top^
 ||qtzedmrehcvpe.com^
 ||qu96.com^
@@ -58206,6 +58241,7 @@
 ||quantumpers.com^
 ||quantumws.net^
 ||quanwu.shop^
+||quanzai.xyz^
 ||quaplaytogether.com^
 ||quarantinedisappearhive.com^
 ||quarrelrelative.com^
@@ -60318,6 +60354,7 @@
 ||rippleretardfellowship.com^
 ||ripplestika.site^
 ||ripsawssalud.life^
+||ripturkidbu.com^
 ||ripvariation.com^
 ||riqmqrd.icu^
 ||riqnhxq.cn^
@@ -60482,6 +60519,7 @@
 ||rnajzp.cn^
 ||rnanlxfa.com^
 ||rnatic.com^
+||rndambipoma.com^
 ||rndchandelureon.com^
 ||rndhaunteran.com^
 ||rndmusharnar.com^
@@ -62047,6 +62085,7 @@
 ||sciencenet.cn/html/js/n
 ||sciencepoints.com^
 ||sciencerevenue.com^
+||scientific-doubt.com^
 ||scientificdimly.com^
 ||scientificsinner.com^
 ||scientistgrowl.com^
@@ -64052,6 +64091,7 @@
 ||sifyeldb.top^
 ||sige20221230.xyz^
 ||sighcrowdivorce.com^
+||sigheemibod.xyz^
 ||sighstab.com^
 ||sighsuspectshaped.com^
 ||sightercanidae.com^
@@ -73625,6 +73665,7 @@
 ||uncleffaan.com^
 ||unclehem.com^
 ||unclesnewspaper.com^
+||unclogslenis.top^
 ||uncn.jp^
 ||uncomfortable-card.com^
 ||uncommonmaintainhurt.com^
@@ -74163,6 +74204,7 @@
 ||urgefranchise.com^
 ||urgentlyfeerobots.com^
 ||urgentprotections.com^
+||urgertiddly.top^
 ||urgigan.info^
 ||urgingcolleen.uno^
 ||urgoldpie.club^
@@ -74393,6 +74435,7 @@
 ||utiq.tz.de^
 ||utiq.wa.de^
 ||utjzyutegq.com^
+||utkauo.xyz^
 ||utl-1.com^
 ||utlhaoyc.xyz^
 ||utlicyweaabdbj.xyz^
@@ -76949,6 +76992,7 @@
 ||vw66i.top^
 ||vwchbsoukeq.xyz^
 ||vwciywmidwvel.com^
+||vwcqjnqy.com^
 ||vwcsl.com^
 ||vwdtyjygxap.com^
 ||vwedfijcm.xyz^
@@ -77097,6 +77141,7 @@
 ||wa4y.com^
 ||waapadaggled.com^
 ||wabejoyrode.life^
+||wabhrkynybk.com^
 ||wachipho.net^
 ||wackeerd.com^
 ||wackotracko.com^
@@ -79610,6 +79655,7 @@
 ||xakhogiovanga92.com^
 ||xakhohangtrungbay.site^
 ||xalienstreamx.com^
+||xambxhihx.com^
 ||xameleonads.com^
 ||xammcokaho.com^
 ||xanawet.com^
@@ -82996,6 +83042,7 @@
 ||zp265.com^$third-party
 ||zp365.com/newhousered/hb-index-pop-
 ||zpbiqrovnozhn.com^
+||zpbpenn.com^
 ||zpcfnzjq.com^
 ||zpcj8.online^
 ||zpcode11.com^
@@ -87218,6 +87265,7 @@ caixin.com##.incubator
 caixinglobal.com##.pc-ad-left01
 caiyunapp.com##.active-imgContainer
 calcalistech.com##.Ctech_general_banner
+calculat.io##.calc67-container
 calculatorsoup.com###Bottom
 calculatorsoup.com###RightSidebar
 calculatorsoup.com##.pages
@@ -97970,6 +98018,8 @@ reviewgeek.com###future_Y_R_0_1
 reviewparking.com##.litespeed-loaded
 reviewparking.com##.revie-widget
 reviversoft.com##.promo_dr
+revolt.tv##.header-banner-wrapper
+revolt.tv##.leaderboard_ad
 revolution935.com##.qt-sponsor
 revolutionsoccer.net##.mls-o-adv-container
 revolver.news##.af-slim-promo
@@ -108794,7 +108844,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /cyad.
 /cyad1.
 /d/*-*-*.ap|$script,third-party
-/d3.php?x=
 /daily/ads/*
 /dall3270.js?
 /dao/dao-fel.js$domain=elitenylon.com|fetishadviser.com|fetishburg.com|highheelsmania.com|hotnylonpics.com|maturesandnylon.com|nylondolls.com|nylonglamourlegs.com|pantyhoseminx.com|pantyhosepink.com|porntb.com|uniformcunts.com
@@ -111105,7 +111154,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /pup-a9-header-bidder/*
 /purch-ad-
 /push-skin/skin.min.js
-/push/p.js?u=$third-party
+/push/p.js?
 /pushdownAd.
 /pushportal/PushPortalServer$popup,third-party
 /pushstart.aspx?$popup,third-party
@@ -111211,6 +111260,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /repeat_adv.
 /reporo_
 /report_ad.
+/report_ad.js
 /report_ad_
 /requestadvertisement.
 /requestmyspacead.
@@ -111317,8 +111367,10 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /script/aclib.js
 /script/ad.$~script
 /script/ads_
+/script/app_settings.js$third-party
 /script/awesome.js
 /script/java.php?$xmlhttprequest
+/script/naN.js
 /script/nasu.js$third-party
 /script/nrsu.js$third-party
 /script/nwsu.js
@@ -111327,7 +111379,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /script/suurl4.php?$third-party
 /script/ut.js?cb=$third-party
 /script/wait.php?*=$xmlhttprequest
-/scriptFileV2.js
 /scriptonline.js?uin=
 /scripts/AdService_
 /scripts/ad-
@@ -111450,6 +111501,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /sidead300x250.
 /sideadiframe.
 /sideads.
+/sideads.js
 /sideads/*
 /sidebar-ad-
 /sidebar-ads/*
@@ -111932,6 +111984,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /tizers.php?
 /tl.ads-
 /tm00738.bj.
+/tmbi-a9-header-
 /tmnadsense-
 /tmnadsense.
 /tmobilead.
@@ -132783,6 +132836,7 @@ zle.com$script
 ##.wp > .ad-box
 ##.wp-ads-target
 ##.wp-block-ad-slot
+##.wp-block-gamurs-ad
 ##.wp-block-tpd-block-tpd-ads
 ##.wp.a2_h
 ##.wp.a_f

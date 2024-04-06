@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: eNOspNSErsWMkRwEQBOXsA
+! Checksum: AUuc/SAqVt4/unjao/OM9g
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240406002512
+! Version: 20240406091454
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-06 00:25:12
-! Total Count: 26059
+! Last modified: 2024-04-06 09:14:54
+! Total Count: 26064
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6243,6 +6243,7 @@
 ||en8848.com.cn/js/content.
 ||en8848.com.cn/js/lianxi.js
 ||enahmy.xyz^
+||enalzlw.top^
 ||enchantingenchantment.com^$third-party
 ||endio.xyz^
 ||endolift.cn^
@@ -10716,6 +10717,7 @@
 ||ntsibo.com^
 ||nubcdaqa.xyz^
 ||nucld.xyz^
+||nuhgpx.xyz^
 ||nulltm.com/adv.js
 ||numbers.md^
 ||numerousnest.com^$third-party
@@ -10829,6 +10831,7 @@
 ||oiqdjksgpo.com^
 ||oiunga.com^
 ||ojuhwc.xyz^
+||ojvpigx.xyz^
 ||ok-tv.org/images/banner_ipone.jpg
 ||ok-tv.org/ruuc.js
 ||ok8867s.com^
@@ -11661,6 +11664,7 @@
 ||pztjlr.xyz^
 ||pzwjonv.icu^
 ||pzykrcq.cn^
+||q02orc.cn^
 ||q1.yyxwzx.com^
 ||q1gel.icu^
 ||q1zcp.com^
@@ -14079,6 +14083,7 @@
 ||usvkfwth.xyz^
 ||usxuyr.icu^
 ||utienlt.top^
+||utkauo.xyz^
 ||utlove02.com^$third-party
 ||utnwxhjv.xyz^
 ||utwwzqdx.xyz^
