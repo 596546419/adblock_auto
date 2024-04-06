@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 2yk/Ip3ZCKjzWbFLH28c+g
+! Checksum: cS/fhYMyvJRGTJO0cFjnUg
 ! Title: 混合规则(自动更新)
-! Version: 20240406091443
+! Version: 20240406162208
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-06 09:14:43
-! Total Count: 137599
+! Last modified: 2024-04-06 16:22:08
+! Total Count: 137624
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2178,6 +2178,7 @@
 ||552aaa.us^
 ||553aaa.us^
 ||5555nt.com^
+||555bbb333bbb.com^
 ||555lotte.com^
 ||555shopify.com^
 ||55706cc809.com^
@@ -6498,6 +6499,7 @@
 ||adz.mobi^
 ||adzbaba.com^
 ||adzbazar.com^
+||adzdgr-wadd2-f1d.com^
 ||adzep.com.br^
 ||adzerk.net^
 ||adzfun.me^
@@ -36001,6 +36003,8 @@
 ||img588.net/images/*.gif
 ||img599.net/images/*0x
 ||img599.net^$domain=18board.com|18p2p.com
+||img8e51zy4bg.com^
+||img8e94zy4bg.com^
 ||img999.com^$popup,domain=tt1069.com
 ||imgadsame.liba.com^
 ||imgapp.top^
@@ -40556,6 +40560,7 @@
 ||knackseafood.com^
 ||knalzld.top^
 ||knaplpdmbrbi.com^
+||knappedmurshid.com^
 ||knaveavo.guru^
 ||knawelgrx.com^
 ||kncecafvdeu.info^
@@ -44508,6 +44513,7 @@
 ||m1.vodjk.com^
 ||m1.we556.com^
 ||m100.site^
+||m1170.top^
 ||m1905.cn/afp/mdsfw.js
 ||m1905.cn/data/suspension_
 ||m1905.cn/images/vod/vod*-90.jpg
@@ -48389,6 +48395,7 @@
 ||naifshinnied.top^
 ||naiglipu.xyz^
 ||naigristoa.com^
+||naihyvz.cn^
 ||naiki.top^
 ||naimoate.xyz^
 ||naipatouz.com^
@@ -49315,6 +49322,7 @@
 ||nextgencounter.com^
 ||nextinpact.com/assets/images/autopromo-adblock-1280.jpg
 ||nextmillennium.io^
+||nextmillmedia.com^
 ||nextoptim.com^
 ||nextpay-mposruttientindung.com^
 ||nextpay-quettindung.com^
@@ -56486,6 +56494,7 @@
 ||proteographiummarcellus.com^
 ||protestgrove.com^
 ||protizer.ru^
+||proto2ad.durasite.net^
 ||protoawe.com/vast/$redirect=noop.txt,domain=hdsex.org,image,media,subdocument,stylesheet,script,xmlhttprequest,other
 ||protoawe.com^
 ||protocolburlap.com^
@@ -82437,6 +82446,7 @@
 ||zekedisco.com^
 ||zekeeksaita.com^
 ||zekkdxt.com^
+||zekzoh.icu^
 ||zel-zel-fie.com^
 ||zelatorpukka.com^
 ||zelllwrite.com^
@@ -87714,7 +87724,7 @@ chromecj.com##.topblock
 chromefk.com##.tip-alert
 chron.com,crypto-news-flash.com,greenwichtime.com,houstonchronicle.com,mysanantonio.com,seattlepi.com,sfchronicle.com,sfgate.com,thetelegraph.com,timesunion.com##.adBanner
 chron.com,greenwichtime.com,houstonchronicle.com,mysanantonio.com,seattlepi.com,sfchronicle.com,sfgate.com,thetelegraph.com,timesunion.com##.bg-gray100.mb32
-chron.com,mysanantonio.com,seattlepi.com,sfgate.com##.ar16-9
+chron.com,middletownpress.com,mysanantonio.com,seattlepi.com,sfgate.com##.ar16-9
 chron.com,seattlepi.com,sfchronicle.com,timesunion.com##[data-block-type="ad"]
 chronicle.com##.OneColumnContainer
 chronline.com##.cq-creative
@@ -89795,6 +89805,7 @@ escortdirectory.com##.ixs-govazd-item
 esdict.cn,eudic.net,frdic.com,godic.net###bodycontent > style + div[id] > :nth-child(n+2)
 esnai.com##.tlgg
 esnai.com##table[width="960"] > tbody > tr > td[height="90"]
+esports.gg###FreeStarVideoAdContainer_VCT
 esports.gg##.freestar-esports_between_articles
 esports.gg##.freestar-esports_leaderboard_atf
 esports.gg##.relative.esports-inarticle
@@ -94599,6 +94610,7 @@ macdailynews.com##.macdailynews-after-article-ad-holder
 macdaxue.com##.content > div.asb
 macfans.org###portal_block_180
 machogaytube.com,good-gay.tv,shemaleporntube.tv##.b-video-cols > .b-randoms-col
+macleans.ca##.assmbly-ad-block
 macmillandictionary.com,macmillanthesaurus.com,oxfordlearnersdictionaries.com###topslot_container
 macmusic.org##.block440Adv
 macrotrends.net###leaderboardTag
@@ -105065,6 +105077,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /RaasOffer.js
 /RainbowTGXServer/*
 /RdmAdFeed.
+/RdmAdFeed.js
 /RenderLapinBlock?
 /Runtime/Js/300_300.js
 /Runtime/Js/90_m.js
@@ -109911,6 +109924,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /index.php?m=book/ad&
 /index_ad/*
 /index_ads.
+/index_ads.js
 /indexmobilead2.
 /indexpc.html?agent=$popup,third-party
 /indexrealad.
@@ -109926,6 +109940,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /inline_ad.
 /inline_ad_
 /inline_ads.
+/inlineads.aspx
 /inlineads/*
 /inlinetextads?
 /inner-ads-
@@ -110005,6 +110020,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /jquery-ads.
 /jquery-ui.js?166$script,~third-party
 /jquery.ad.
+/jquery.ad.js
 /jquery.adi.
 /jquery.adi.js
 /jquery.adx.
@@ -110273,6 +110289,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /link?c=$image
 /link?z=$subdocument
 /linkad2.
+/linkad2.jpg
 /linkads.
 /linkadv.
 /linkadv_
@@ -110291,6 +110308,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /liveads.
 /livejasmin.$domain=~livejasmin.com
 /livejasmin2.
+/livejasmin2.jpg
 /livejasmin_
 /livejasminpopupunder.
 /load_ad?
@@ -110983,7 +111001,9 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /popunder2.
 /popunder4.
 /popunder5.
+/popunder5.js
 /popunder7.
+/popunder7.min.js
 /popunder?
 /popunderWeb-
 /popunder_
@@ -111191,6 +111211,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /rads/b/*
 /rail_ad_
 /railad.
+/railad.jpg
 /railads.
 /railsad.
 /railsad_
@@ -111239,6 +111260,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /reklama.$~stylesheet,domain=~github.com|~pracuj.pl|~reklama.cinema.sk|~reklama.grajewo.net.pl|~reklama.mariafm.ru|~reklama.ringieraxelspringer.pl|~reklama.tochka.com
 /reklama/*$domain=~github.com
 /reklama1.
+/reklama1.js
 /reklama2.
 /reklama3.
 /reklama4.
@@ -111299,8 +111321,10 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /right_ad_
 /right_ads.
 /rightad.
+/rightad.js
 /rightad/*
 /rightads.$domain=~rightads.co.uk
+/rightads.js
 /rightbanner/*
 /rightnavads.
 /rightnavadsanswer.
@@ -114367,6 +114391,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 =affiliate_ad_viewed&
 =ajaxGetAds&type=
 =akiba_ads_
+=bT1zdXY1JnI9$third-party,xmlhttprequest
 =banners_ad&
 =big-ad-switch_
 =clkads/

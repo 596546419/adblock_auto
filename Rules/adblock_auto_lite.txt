@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: AUuc/SAqVt4/unjao/OM9g
+! Checksum: wPEza8ibkwnbpUQ2RljorQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240406091454
+! Version: 20240406162218
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-06 09:14:54
-! Total Count: 26064
+! Last modified: 2024-04-06 16:22:18
+! Total Count: 26071
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -817,6 +817,7 @@
 ||54new.com*/da/
 ||552aaa.us^
 ||553aaa.us^
+||555bbb333bbb.com^
 ||5588.tv/js/piaofuImg.js
 ||5598tp.com^$domain=9xav.cc
 ||55aaee.com/detail/
@@ -3112,6 +3113,7 @@
 ||adz.mobi^
 ||adzbazar.com^$third-party
 ||adzblockersentinel.net^$popup
+||adzdgr-wadd2-f1d.com^
 ||adzerk.net^
 ||adzerk.net^$popup
 ||adzerk.net^$third-party
@@ -8138,6 +8140,8 @@
 ||img588.net/images/*.gif
 ||img599.net/images/*0x
 ||img599.net^$domain=18board.com|18p2p.com
+||img8e51zy4bg.com^
+||img8e94zy4bg.com^
 ||img999.com^$popup,domain=tt1069.com
 ||imgbaiduxz.xyz/jsjsjs/
 ||imgbaron.com/pornindian.gif
@@ -9815,6 +9819,7 @@
 ||m1.nn670.com^
 ||m1.vodjk.com^
 ||m1.we556.com^
+||m1170.top^
 ||m1905.cn/afp/mdsfw.js
 ||m1905.cn/data/suspension_
 ||m1905.cn/images/vod/vod*-90.jpg
@@ -10476,6 +10481,7 @@
 ||nai7.xyz^
 ||naiep.xyz^
 ||naifei.shop/static/banner/banner_mobile.jpg
+||naihyvz.cn^
 ||najnus.com^
 ||nakop.xyz^
 ||nalapop.com^
@@ -15719,6 +15725,7 @@
 ||zebjlt.buzz^
 ||zedo.com^
 ||zehnporn.com/img/12221.gifimg/12221.gif
+||zekzoh.icu^
 ||zents10.top^
 ||zents2.top^
 ||zents5.top^
