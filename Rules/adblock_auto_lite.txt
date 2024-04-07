@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: TM10UD6sP2Y6hWolzMeAfQ
+! Checksum: WfLj5lBwrKLOFtWil+JXpQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240407002352
+! Version: 20240407092249
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-07 00:23:52
-! Total Count: 26071
+! Last modified: 2024-04-07 09:22:49
+! Total Count: 26077
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3688,6 +3688,7 @@
 ||atwqyor.cn^
 ||aty.sohu.com/v?
 ||atyun.com/wp-content/themes/xmag/js/ad.js
+||atzhcjv.xyz^
 ||audgiqb.cn^
 ||audiomob.com^
 ||audiosexstories.net/wp-content/uploads/sam-pro-images
@@ -4066,6 +4067,7 @@
 ||bdimg.com/static/wkcore/widget/commerce/fengchao/
 ||bdimg.com/static/wkview/widget/download_after_activity_new/download_after_activity_new_
 ||bdjdpyrt.xyz^
+||bdjfea.cn^
 ||bdjiaoben.wmxa.cn^
 ||bdjj.bzr99.com^
 ||bdjj.makepolo.net^
@@ -6935,6 +6937,7 @@
 ||gfbdb1.com^
 ||gfjn5.xyz^
 ||gfpvvwf.xyz^
+||gfylyw.xyz^
 ||gg-led.com/uploadFile/uploadCompanyLogo/*.gif
 ||gg.*.com/tonglan/tonglan.js
 ||gg.0598yu.com^
@@ -10792,6 +10795,7 @@
 ||oawvsm.xyz^
 ||ob.leap.app^
 ||obdjzhq.xyz^
+||obgekjz.icu^
 ||obmenvsem.org/static/images/*banners*450x75.png
 ||obturex.com^
 ||obzthda.xyz^
@@ -14238,6 +14242,7 @@
 ||vdvcjlp.cn^
 ||ve0ke.icu^
 ||veaiyl.icu^
+||vejhln.xyz^
 ||vel7.xyz^
 ||velti.com^
 ||venea.net/web/ab_message?
@@ -14676,6 +14681,7 @@
 ||wnacg.*/w8z/
 ||wnacg.*/zec/
 ||wnacg.com/1sdfdc1/500_60-1.gif
+||wnalzle.top^
 ||wneia.iaskhot.com^
 ||wnifdlae.top^
 ||wnllmyw.xyz^
