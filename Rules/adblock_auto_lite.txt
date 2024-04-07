@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: WfLj5lBwrKLOFtWil+JXpQ
+! Checksum: EavzSRERdqtOXTzMDu08Ow
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240407092249
+! Version: 20240407162419
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-07 09:22:49
-! Total Count: 26077
+! Last modified: 2024-04-07 16:24:19
+! Total Count: 26082
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9837,6 +9837,7 @@
 ||m549z.site^
 ||m6500.top^
 ||m6690.top^
+||m6j37.xyz^
 ||m7g2v1b9.com^
 ||m7i1k.fun^
 ||m8oxd.xyz^
@@ -12511,6 +12512,7 @@
 ||seslco.xyz^
 ||sessionm.com^
 ||setn.com/js/advertisement?
+||setn.com/js/idleAD.
 ||setoniale.com^
 ||setting.rayjump.com^
 ||seutop.icu^
@@ -14297,6 +14299,7 @@
 ||vikiporn.com/plugin.js
 ||viladram.xyz^
 ||viope.cyou^
+||vioyugo.cn^
 ||vip.luanren.com/data/*.gif
 ||vip.ludu319.com^$third-party
 ||vip.min1319.com^$third-party
@@ -23458,6 +23461,7 @@ zle.com$script
 ##.js-checkad-warning
 ##.js-cui-pt-item[data-qhb]
 ##.jsv > .mobile-adv
+##.jsv-layer > .image > a[href^="http"]
 ##.ka-flo
 ##.kill-adblock-container
 ##.kjk-flo
@@ -23787,6 +23791,7 @@ zle.com$script
 ##.zhanzhang_tuijian_btn
 ##.zhedangceng_ggg
 ##.zone_wap_banner2
+##A[href*=".68hantang.com"]
 ##A[href*=".com/?Agent="]
 ##A[href="http://t.cn/A6hQCVsv"]
 ##A[href^="/e/public/ClickAd?adid="]
