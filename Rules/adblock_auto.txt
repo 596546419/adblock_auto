@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 660Yngj5nBBROWJY7VYAYQ
+! Checksum: k4vgFs4Teh6quiOzO+HqnQ
 ! Title: 混合规则(自动更新)
-! Version: 20240408091815
+! Version: 20240408162342
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-08 09:18:15
-! Total Count: 137708
+! Last modified: 2024-04-08 16:23:42
+! Total Count: 137722
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -896,6 +896,7 @@
 ||1f6f6bfb05.com^
 ||1f7eece503.com^
 ||1f7wwaex9rbh.com^
+||1f84e33459.com^
 ||1f87527dc9.com^
 ||1f98dc1262.com^
 ||1fd92n6t8.de^
@@ -20498,6 +20499,7 @@
 ||dailyporn.club/at/code.php
 ||dailyporn.club/nba/
 ||dailyportalz.jp/api/dpz/adPosts|
+||dailyssshopee.com^
 ||dailystuffall.com^
 ||dailyvids.space^
 ||daima.aixiaola.com^
@@ -21836,6 +21838,7 @@
 ||dichvucong.cvgov.com^
 ||dichvucong.dancuquocgia.net^
 ||dichvucong.dulieuquocgia.com^
+||dichvucong.govnx.com^
 ||dichvucong.hgov.cc^
 ||dichvucong.hgov.net^
 ||dichvucong.kgov.net^
@@ -21843,6 +21846,7 @@
 ||dichvucong.tgovn.cc^
 ||dichvucong.tkgov.com^
 ||dichvucong.vgovn.net^
+||dichvucong.vsgov.com^
 ||dichvucong.xgovn.net^
 ||dichvucong.zlgov.com^
 ||dichvucong.zvgov.com^
@@ -32129,6 +32133,7 @@
 ||guvnsusr.com^
 ||guvsxiex.xyz^
 ||guwait.com^
+||guwohvw.icu^
 ||guxdjfuuhey.xyz^
 ||guxedsuba.com^
 ||guxsxexlkdk.xyz^
@@ -40147,6 +40152,7 @@
 ||kgymhc.com^
 ||kgystvhlyqxnnhg.com^
 ||kh.suno.vn^
+||khach-hang-ca-nhan-vip5.com^
 ||khaelzols.com^
 ||khandragthresh.com^
 ||khangdz215.tk^
@@ -46581,6 +46587,7 @@
 ||mlclick.com^
 ||mlcuzee.cn^
 ||mldxqrntd.xyz^
+||mldzwmt.xyz^
 ||mlegyu.xyz^
 ||mlgrtn.com^
 ||mlhdmotenu.com^
@@ -48472,6 +48479,7 @@
 ||nang-cap-vip-vpbank.com^
 ||nang-han-muc-ido-vpbank.com^
 ||nang-han-muc-vip-vpbank.com^
+||nang-hang-ca-nhan-vib-mrk1.com^
 ||nang-hang-tin-dung-ca-nhan.com^
 ||nangelsaidthe.info^
 ||nanghanmuc-thetindung.com^
@@ -76430,6 +76438,7 @@
 ||vn55779p.com^
 ||vn55866shp.com^
 ||vn6315shp.com^
+||vn63251s.com^
 ||vn66733shop.com^
 ||vn667755s.com^
 ||vn66954shp.com^
@@ -77045,6 +77054,7 @@
 ||vwtqjotm.com^
 ||vwuyuahqf.com^
 ||vwvjzd.xyz^
+||vwyycnq.cn^
 ||vx2e.top^
 ||vx4n.icu^
 ||vxdgsgdsvlwz.com^
@@ -83947,8 +83957,10 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 18-comic.work,18comic.org,18comic.vip,18comic1.art,18comic2.art,jmcomic.me###guide-modal
 18-comic.work,18comic.org,18comic.vip,boylove1.mobi,jmcomic.me##.div_sticky2
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > [style*="back"]
+18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > div[style^="display: block;"]
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img + [style]
+18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+div)
 18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+script)
 18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+style)
 18-comic.work,18comic.org,18comic.vip,jmcomic.me,jmcomic1.city,jmcomic1.win#?#:-abp-has(>script+ins)
@@ -92325,6 +92337,8 @@ huya.com##.room-sidebar #public-screen-ab
 huya.com##.small-handle-tip
 huya.com##.tt[style*="1200px"]
 huya.com,ixigua.com,toutiao.com##.J_ad
+hvhbbs.com##.block[data-widget-definition="SwiperWidget"]
+hvhbbs.com##.margin-add > style + div
 hwbot.org###partner-tiles
 hwhills.com###footerbanner
 hwhills.com###sb_left_tower
