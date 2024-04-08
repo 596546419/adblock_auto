@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: vPkdRIAwGMWy6Ip9l1p0sg
+! Checksum: 7HcFjpj1cAEGZNa7FrQUTw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240408002147
+! Version: 20240408091826
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-08 00:21:47
-! Total Count: 26083
+! Last modified: 2024-04-08 09:18:26
+! Total Count: 26087
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5509,6 +5509,7 @@
 ||daynews.co/cdn-cgi/apps/
 ||daysou.com/images/huaweicloud.png
 ||dayu778.com/assets/publish/$script
+||dblijd.xyz^
 ||dbmp4.com/js/foot.
 ||dbnsd2viud.xyz^
 ||dbnwlp.xyz^
@@ -11291,6 +11292,7 @@
 ||plx.porndig.com^
 ||pm.poqwua.cn^
 ||pmb*.tj.ali213.net/js/
+||pmiskc.cn^
 ||pmnct63.shop^
 ||pmtrkp.icu^
 ||pmxalz.xyz^
@@ -11840,6 +11842,7 @@
 ||qmoxxhc.cn^
 ||qmwx4.xyz^
 ||qmwxb.com/skins/2/images/qp001.gif
+||qnalzly.top^
 ||qncye.com/ads/
 ||qnfvojfkw.xyz^
 ||qnifdlay.top^
@@ -12991,6 +12994,7 @@
 ||srnov.top^
 ||srootshare.com/otmyjs/
 ||srv.dropkickmedia.com$third-party
+||srwwce.xyz^
 ||srzpsbf.xyz^
 ||ss.ting55.com^
 ||ss.zuixinyiqi.com^
@@ -23792,7 +23796,6 @@ zle.com$script
 ##.zhanzhang_tuijian_btn
 ##.zhedangceng_ggg
 ##.zone_wap_banner2
-##A[href*=".68hantang.com"]
 ##A[href*=".com/?Agent="]
 ##A[href="http://t.cn/A6hQCVsv"]
 ##A[href^="/e/public/ClickAd?adid="]
@@ -23975,6 +23978,7 @@ zle.com$script
 ##a[href*="&campaignType=smartpop&creativeId"]
 ##a[href*=".337771.xyz"]
 ##a[href*=".337772.xyz"]
+##a[href*=".68hantang.com"]
 ##a[href*=".7wkw.com"]
 ##a[href*=".8720018.cc"]
 ##a[href*=".app003.biz"]
