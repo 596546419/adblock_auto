@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: lCZq9rCQkyB0skX3Xik+tw
+! Checksum: kFBJuq+X3XdsBFA02811aA
 ! Title: 混合规则(自动更新)
-! Version: 20240409002501
+! Version: 20240409091717
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-09 00:25:01
-! Total Count: 137749
+! Last modified: 2024-04-09 09:17:17
+! Total Count: 137793
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7866,6 +7866,7 @@
 ||alreau.com^
 ||alright.network^
 ||alrightlemonredress.com^
+||alrotdrfhsc.com^
 ||alrr.club^
 ||als-svc.nytimes.com^
 ||als.baidu.com^
@@ -13250,6 +13251,7 @@
 ||bjtel.cn^
 ||bjtengda.cn^
 ||bjtgds.xyz^
+||bjwgifte.com^
 ||bjwj2y.com/JS/LsJS.aspx
 ||bjwqqohwtgbbs.com^
 ||bjws.xyz^
@@ -13764,6 +13766,7 @@
 ||boilingcredit.com^$third-party
 ||boilingloathe.com^
 ||boilingtruce.com^
+||boilingviewed.com^
 ||boilslashtasted.com^
 ||boilwiggle.com^
 ||boinkcash.com^
@@ -19374,6 +19377,7 @@
 ||cpxinteractive.com^
 ||cpxl.golem.de^
 ||cpyjyhny.xyz^
+||cpzafxhkt.com^
 ||cqbmddliqbbp.com^
 ||cqcounter.com^
 ||cqcvjzf.cn^
@@ -22504,6 +22508,7 @@
 ||dlkoo.com/down/copy
 ||dlmewheniyv.xyz^
 ||dlmonitize.com^
+||dlngft.xyz^
 ||dlovet.cn^
 ||dlpwuggxxifidgd.com^
 ||dlqfkzykxqicn.com^
@@ -25501,6 +25506,7 @@
 ||equiptbrotula.com^
 ||equirekeither.xyz^
 ||equitydefault.com^
+||equkgm.xyz^
 ||eqvudqracrhalsg.com^
 ||eqwyym.com/js/dom.js$third-party
 ||eqyarlabvqjnl.top^
@@ -27674,6 +27680,7 @@
 ||findnewline.com^
 ||findprizesplace.life^
 ||findromanticdates.com^
+||findslofty.com^
 ||findswiftresults.com^
 ||fine-wealth.pro^
 ||finedintersection.com^
@@ -28192,6 +28199,7 @@
 ||fnuvsfyylouxwu.com^
 ||fnwbaepsbf.com^
 ||fnxkntusnd.com^
+||fnxtoiwlrgevjm.com^
 ||fnzuymy.com^
 ||fo.iphonevip.cn^
 ||fo.iphonevip.cn^$third-party
@@ -34127,6 +34135,7 @@
 ||hongshikai.com^
 ||hongteng.xyz^
 ||hongyingbbs.com/jj/
+||honitonchyazic.com^
 ||honorablehalt.com^
 ||honorableland.com^$third-party
 ||honorarybreakclank.com^
@@ -34636,6 +34645,7 @@
 ||htvixv.xyz^
 ||htwrildnk.xyz^
 ||htyrmacanbty.com^
+||htysiboswaj.com^
 ||htyusiu.top^
 ||hu.xbhy.com^
 ||hu4c.top^
@@ -35497,6 +35507,7 @@
 ||ieuhd.com^
 ||ieurop.net^
 ||ievjylvqfjry.com^
+||ievvo.xyz^
 ||iewhonhdvryu.com^
 ||iewtwo.xyz^
 ||iezptsoc.com^
@@ -36441,6 +36452,7 @@
 ||inferiorface.com^
 ||inferiorfreedom.com^
 ||inferiorkate.com^
+||inferiorlove.com^
 ||infesthazardous.com^
 ||infestpaddle.com^
 ||infindiasernment.com^
@@ -40474,6 +40486,7 @@
 ||kkosiso.com^
 ||kkpbisoyan.com^
 ||kkpgv2.xunlei.com^
+||kkqcnrk.com^
 ||kkqeqk.cn^
 ||kksapygupdp.com^
 ||kksjoa.com^
@@ -40848,6 +40861,7 @@
 ||kpiwgio.cn^
 ||kpkgkkbs.xyz^
 ||kpm.jhzpgw.com^
+||kpmose.xyz^
 ||kpougoavtxkrew.com^
 ||kppav.info^
 ||kppt.cc/zb_system/script/common.js
@@ -45316,6 +45330,7 @@
 ||mbdippex.com^
 ||mbekgac.xyz^
 ||mbepa.xyz^
+||mbewimcotjri.com^
 ||mbfhwag.xyz^
 ||mbgbomrshrecpwj.xyz^
 ||mbgufryceqkoap.com^
@@ -46162,6 +46177,7 @@
 ||mh9dskj8jg.com^
 ||mhadsd.com^
 ||mhboxleky.com^
+||mhbyzzp.com^
 ||mhdiaok.com^
 ||mhdjkx.cn^
 ||mhdlll.com^
@@ -46275,6 +46291,7 @@
 ||mignished-sility.com^
 ||migopwrajhca.com^
 ||migrantacknowledged.com^
+||migrantfarewellmoan.com^
 ||migrantspiteconnecting.com^
 ||migrationscale.com^
 ||migrationscarletquick.com^
@@ -47808,6 +47825,7 @@
 ||mufoa6k.cn^
 ||mugabedsock.website^
 ||mugantlerfloral.com^
+||mugexfxue.com^
 ||mugleafly.com^
 ||mugpothop.com^
 ||mugrikees.com^
@@ -48932,6 +48950,7 @@
 ||ndwouldmeu.info^
 ||ndxdcbgwxwqhre.com^
 ||ndyzz.com^
+||ndzoaaa.com^
 ||neads.delivery^
 ||neadwnhhis.xyz^
 ||neahbutwehavein.info^
@@ -49971,6 +49990,7 @@
 ||nondescriptnote.com^$third-party
 ||nondescripttuxedo.com^
 ||nonecoffeehousesuspicious.com^
+||nonehalides.com^
 ||nonerr.com^
 ||nonesgue.space^
 ||nonesleepbridle.com^
@@ -52089,6 +52109,7 @@
 ||ordsexecutiv.cfd^
 ||ordzimwtaa.com^
 ||oreakingoutin.info^
+||orebuthehadsta.info^
 ||orecticconchae.com^
 ||oreiletfortify.top^
 ||oremaneths.com^
@@ -52312,6 +52333,7 @@
 ||otydtuebaluf.xyz^
 ||otzovik.com/scripts/function/iri2.php?
 ||ouaker.com^
+||oubeliketh.info^
 ||oubqzcg.cn^
 ||oucaibie.net^
 ||ouchojig.xyz^
@@ -52723,6 +52745,7 @@
 ||oyvveru.cn^
 ||oyvyxj.cn^
 ||oyvyxj.cn^$third-party
+||oywzrri.com^
 ||oyxctgotabvk.com^
 ||oyxp.xyz^
 ||oyybgs.cn^
@@ -52738,6 +52761,7 @@
 ||ozgqwv.xyz^
 ||ozhbccs.cn^
 ||ozhhujt.com^
+||ozhmig.cn^
 ||ozihechzlcsgs.com^
 ||ozjga.top^
 ||ozkbdxdu.icu^
@@ -53089,6 +53113,7 @@
 ||panli.site^
 ||panmeme.com^*/common.js
 ||pannamdashee.com^
+||pannamsaluter.com^
 ||pannumregnal.com^
 ||panoz.xyz^
 ||panpan.org/js/google
@@ -54141,6 +54166,7 @@
 ||phauraur.com^
 ||phaurtuh.net^
 ||phause.com^
+||phautchiwaiw.net^
 ||phb123.com/skin/js/tongji.js
 ||phbkm.com/js/
 ||phcoal.com^
@@ -55724,6 +55750,7 @@
 ||postalfranticallyfriendship.com^
 ||postalusersneatly.com^
 ||postback.info^
+||postback1win.com^
 ||postbacks.net^
 ||postcardhazard.com^
 ||poster.weather.com.cn^
@@ -56673,6 +56700,7 @@
 ||pshtrk.com^
 ||pshtrkg.com^
 ||psi.lbesecapi.com^
+||psichoafouts.xyz^
 ||psidraul.com^
 ||psiftaugads.com^
 ||psikoofack.com^
@@ -60837,6 +60865,7 @@
 ||rounca.com^
 ||rouncepreyful.com^
 ||round-highlight.pro^
+||rounddescribe.com^
 ||roundflow.net^
 ||roundlytrabal.cfd^
 ||roundspaniardindefinitely.com^
@@ -61726,6 +61755,7 @@
 ||sakeoxidelunch.com^
 ||sakguz.icu^
 ||saktismberakes.space^
+||sakuftaurgo.com^
 ||sakura-traffic.com^
 ||sakura.goguardian.com^
 ||sakuraquant.com^
@@ -62062,6 +62092,7 @@
 ||scammereating.com^
 ||scammersupreme.com^
 ||scancemontes.com^
+||scandiaogamic.com^
 ||scannersouth.com^
 ||scanscout.com^
 ||scantlyvedette.com^
@@ -64138,6 +64169,7 @@
 ||sievynaw.space^
 ||sifang.info^
 ||sifenews.com^
+||sifnyiolzcs.com^
 ||sifomedia.se^
 ||siftscience.com^
 ||sifuglie.com^
@@ -65459,6 +65491,7 @@
 ||sotchart.net^
 ||sotchoum.com^
 ||sotetahe.pro^
+||sothiacalain.com^
 ||sottagejalur.uno^
 ||sotuktraffic.com^
 ||sotunet.com^
@@ -67866,6 +67899,7 @@
 ||sweepawejasper.com^
 ||sweepfrequencydissolved.com^
 ||sweepia.com^
+||sweet-discount.pro^
 ||sweet-marriage.pro^
 ||sweeterge.info^
 ||sweetmedia.org^
@@ -68915,6 +68949,7 @@
 ||tcuqqhj.icu^
 ||tcvmtp.xyz^
 ||tcwcs.com^
+||tcwhycdinjtgar.xyz^
 ||tcx-beacon.docs.aws.dev^
 ||tczzzlwpss.com^
 ||td-everest.biz^
@@ -70511,6 +70546,7 @@
 ||tmyzer.com^
 ||tmz.vo.llnwd.net^
 ||tmztcfp.com^
+||tnalzli.top^
 ||tnarzc.com^
 ||tnative.ru^
 ||tnc16-*.byteoversea.com^
@@ -72801,6 +72837,7 @@
 ||tuscanyaskant.com^
 ||tushwjp.icu^
 ||tuskercampe.life^
+||tuskhautein.com^
 ||tusno.com^
 ||tutphiarcox.com^
 ||tutsterblanche.com^
@@ -75369,6 +75406,7 @@
 ||venturyremove.info^
 ||venueitemmagic.com^
 ||venuewasadi.org^
+||venulaeriggite.com^
 ||venulaevavs.com^
 ||venum.top^
 ||veobeitkalson.info^
@@ -75586,6 +75624,7 @@
 ||vibvay.com^
 ||vibvayvn.com^
 ||vic-m.co^
+||vicanerly.top^
 ||vice-publishers-cdn.vice.com^
 ||vicepiter.ru^
 ||vicious-instruction.pro^
@@ -78640,6 +78679,7 @@
 ||withholdrise.com^
 ||withholdstandstill.com^
 ||withinresentful.com^
+||withinsdraco.com^
 ||withoutcontrol.com^
 ||witlayvet.com^
 ||witnessedcompany.com^
@@ -79954,6 +79994,7 @@
 ||xhbheroq.xyz^
 ||xhbshv.xyz^
 ||xhd.cn/topic/leyu-piaofu/
+||xhfitpvxqog.com^
 ||xhflovezyy.asia^
 ||xhfvljklvq.com^
 ||xhfxtqt.xyz^
@@ -90648,6 +90689,7 @@ fsylr.com##.plus_r
 ft.com,ftchinese.com##.bn-ph
 fttxt.com###txtbox a[target="_blank"]
 fttxt.com##a[href*="type"]
+ftuapps.dev##[style*="cursor: no-drop;"]
 ftv-news.com##[href="https://www.rizik.com.bd/"]
 ftv-news.com##[href^="https://www.outsourcingall.com/"]
 ftvlive.com###sidebar-one-wrapper
@@ -102809,6 +102851,7 @@ ytbbs.com###dd1
 ytbbs.com##.fend_ad
 ytbbs.com##.ftop_ad
 ytbbs.com##.ftop_ad_2016
+ytfreedownloader.com##.kl-before-header
 ytmp3.cc###a-320-50
 ytmp3.nu###i
 yts.mx##.aksdj483csd
@@ -111519,6 +111562,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /script/oas/*
 /script/suurl4.php?$third-party
 /script/suv4r.js
+/script/thankYou.js
 /script/ut.js?cb=$third-party
 /script/wait.php?*=$xmlhttprequest
 /scriptonline.js?uin=

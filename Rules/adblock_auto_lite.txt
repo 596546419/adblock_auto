@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Rc6iwekxINuOlsckjsSJiA
+! Checksum: DxvSa+Iz7bmQJoiShtKDgg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240409002512
+! Version: 20240409091728
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-09 00:25:12
-! Total Count: 26093
+! Last modified: 2024-04-09 09:17:28
+! Total Count: 26100
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5746,6 +5746,7 @@
 ||dlkoo.cc/down/copy
 ||dlkoo.com/down/$subdocument
 ||dlkoo.com/down/copy
+||dlngft.xyz^
 ||dm*.ppzuowen.com^
 ||dm*.yxlady.com^
 ||dm.17xuexiba.com^
@@ -6296,6 +6297,7 @@
 ||eqqi.cn^
 ||eqqwgw.xyz^
 ||equablekettle.com^$third-party
+||equkgm.xyz^
 ||eqwyym.com/js/dom.js$third-party
 ||er.5ykj.cn^
 ||er.5ykj.com^
@@ -7977,6 +7979,7 @@
 ||ielgag.top^
 ||iepda.xyz^
 ||iephrenhq.com^
+||ievvo.xyz^
 ||iewtwo.xyz^
 ||ifbfksf.xyz^
 ||ifbqves.cn^
@@ -9132,6 +9135,7 @@
 ||kphcrjth.xyz^
 ||kpic.pbaiyho.cn^$third-party
 ||kpm.jhzpgw.com^
+||kpmose.xyz^
 ||kppt.cc/zb_system/script/common.js
 ||kppt.cc/zhifu.jpg
 ||kpqdkg.xyz^
@@ -11000,6 +11004,7 @@
 ||oyvyxj.cn^$third-party
 ||oyxp.xyz^
 ||oyysbc.xyz^
+||ozhmig.cn^
 ||ozkbdxdu.icu^
 ||ozolei.xyz^
 ||p-behacdn.ksmobile.net^
@@ -13582,6 +13587,7 @@
 ||tmvebl.xyz^
 ||tmwbszn.icu^
 ||tmz.vo.llnwd.net^
+||tnalzli.top^
 ||tnarzc.com^
 ||tnc16-*.byteoversea.com^
 ||tnc16-alisg.isnssdk.com^
@@ -16718,6 +16724,7 @@ freesexpornhd.com##div[class^="page-conteiner"] > div[class^="content-title-"]
 freesexyindians.com##.grid-sidebar-extra
 freestore.app##.adbn2-wrap2
 frkp.lol###film > #content > span[style="color:#ff6a00;"]
+ftuapps.dev##[style*="cursor: no-drop;"]
 fuckhardporn.com##.player_ads
 fuckhardporn.com,xnxxvideoporn.com##.bot_bns
 fuckhardporn.com,xnxxvideoporn.com##.player_bn
