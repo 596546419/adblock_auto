@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: kFBJuq+X3XdsBFA02811aA
+! Checksum: guLl+ciKbtrtApWyg0pGQA
 ! Title: 混合规则(自动更新)
-! Version: 20240409091717
+! Version: 20240409162312
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-09 09:17:17
-! Total Count: 137793
+! Last modified: 2024-04-09 16:23:12
+! Total Count: 137799
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9046,6 +9046,7 @@
 ||anzu.io^
 ||anzvn.net^
 ||ao-freegeoip.herokuapp.com^
+||aoakss.com^
 ||aoalmfwinbsstec23.com^
 ||aodainusinh-cuoinam20233.weebly.com^
 ||aodaisieuvietnhi2022.weebly.com^
@@ -11072,6 +11073,7 @@
 ||b6880ffb9a.com^
 ||b6c4.top^
 ||b70f0a4569.com^
+||b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online^
 ||b719c1d1e8.com^
 ||b73uszzq3g9h.com^
 ||b76751e155.com^
@@ -60556,6 +60558,7 @@
 ||rlvvakyuipqbl.com^
 ||rlw86.cyou^
 ||rlwiupbqn.com^
+||rlxhbff.cn^
 ||rlxw.info^
 ||rm4b.top^
 ||rmagugarmk.com^
@@ -81116,6 +81119,7 @@
 ||ydcpc.com^$third-party
 ||yddbysa.xyz^
 ||yddjmpjo.xyz^
+||yddrqwq.xyz^
 ||ydenknowled.com^
 ||ydevelelasticals.info^
 ||ydfavbj.com^
@@ -87821,8 +87825,8 @@ chromecastappstips.com###fwdevpDiv0
 chromecj.com##.topblock
 chromefk.com##.tip-alert
 chron.com,crypto-news-flash.com,greenwichtime.com,houstonchronicle.com,mysanantonio.com,seattlepi.com,sfchronicle.com,sfgate.com,thetelegraph.com,timesunion.com##.adBanner
+chron.com,ctinsider.com,middletownpress.com,mysanantonio.com,seattlepi.com,sfgate.com##.ar16-9
 chron.com,greenwichtime.com,houstonchronicle.com,mysanantonio.com,seattlepi.com,sfchronicle.com,sfgate.com,thetelegraph.com,timesunion.com##.bg-gray100.mb32
-chron.com,middletownpress.com,mysanantonio.com,seattlepi.com,sfgate.com##.ar16-9
 chron.com,seattlepi.com,sfchronicle.com,timesunion.com##[data-block-type="ad"]
 chronicle.com##.OneColumnContainer
 chronline.com##.cq-creative
@@ -97660,6 +97664,8 @@ pxedt.net##.pf_dw
 py.cn##.index-advert
 py.cn##.right-pops
 py91.net##.widget_textads
+pymnts.com###bottom-ad
+pymnts.com##.pymnt_ads
 pythonthree.com##.astra-advanced-hook-7063
 pythonthree.com##.sidebar-main
 pythonworld.ru##.pythonworld-contributor
