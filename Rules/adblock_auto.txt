@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: guLl+ciKbtrtApWyg0pGQA
+! Checksum: 13EdjXv5g4c9Xk/98MHOhA
 ! Title: 混合规则(自动更新)
-! Version: 20240409162312
+! Version: 20240410002222
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-09 16:23:12
-! Total Count: 137799
+! Last modified: 2024-04-10 00:22:22
+! Total Count: 137810
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -16780,6 +16780,7 @@
 ||chichosebook.com^
 ||chicks4date.com^
 ||chicmifi.com^
+||chicoamseque.net^
 ||chicoryapp.com^
 ||chiddennibs.digital^
 ||chidir.com^
@@ -41713,6 +41714,7 @@
 ||lavufa.uno^
 ||law-lib.com/wstyle/images/gffirm.jpg
 ||lawcmabfoqal.com^
+||lawduwdtozw.com^
 ||lawful.wang^
 ||lawishkukri.com^
 ||lawsaddthoroughfare.com^
@@ -89051,6 +89053,7 @@ dict.leo.org###adv-drectangle1
 dictionary.com###dcomHomeTop-728x90
 dictionary.com##.TeixwVbjB8cchva8bDlg
 dictionary.com##[class^="AdHorizontal"]
+dictionary.com##[data-type="ad-horizontal-module"]
 dictionary.com,thesaurus.com##.fHACXxic9xvQeSNITiwH
 dictionary.com,thesaurus.com##.otd-item__bottom
 dictionary.com,thesaurus.com##aside[id$="728x90"]
@@ -94012,6 +94015,7 @@ kocpc.com.tw#$##header > nav.floated-navbar { top: 0!important; }
 koding.work#?#.sidebar > .widget_text:has(> .textwidget > .adsbygoogle)
 kohls.com###PDP_monetization_HL
 kohls.com###PMP_monetization_HL
+kohls.com###kmnsponsoredbrand-sponsored_top-anchor
 kohls.com###open-drawer
 kohls.com##li.products_grid:has(p.piq-sponsored)
 koimoi.com###inline_ad
@@ -98939,6 +98943,8 @@ skylinewebcams.com##.cam-vert
 skylinewebcams.com##.text-center.cam-light
 skyqzone.com###pop_art
 skyrock.com###pub_up
+skyscanner.ca,skyscanner.co.in,skyscanner.co.kr,skyscanner.com,skyscanner.com.au,skyscanner.com.mx,skyscanner.com.tr,skyscanner.cz,skyscanner.dk,skyscanner.es,skyscanner.it,skyscanner.jp,skyscanner.net,skyscanner.no##div[aria-label="Sponsored"]
+skyscanner.ca,skyscanner.co.in,skyscanner.co.kr,skyscanner.com,skyscanner.com.au,skyscanner.com.mx,skyscanner.com.tr,skyscanner.cz,skyscanner.dk,skyscanner.es,skyscanner.it,skyscanner.jp,skyscanner.net,skyscanner.no##div[class^="ItineraryInlinePlusWrapper_container"]
 skyscanner.com,skyscanner.net##div > a:has(div[class^="DefaultBanner_sponsorshipRow"])
 skyscanner.com,skyscanner.net##div:has(> a[data-testid="inline-brand-banner"])
 skyve.io##.ads_space
@@ -99873,6 +99879,8 @@ tekdeeps.com##.zAzfDBzdxq3
 tekno.kompas.com##.kcm
 tekno.kompas.com##.native-wrap
 teleboy.ch##.grid-col-content-leaderboard
+telegram-porn.com##.proxy-adv__container
+telegram-porn.com##.summary-adv-telNews-link
 telegraph.co.uk##.article-betting-unit-container
 telegraph.co.uk##.commercial-unit
 telegraphindia.com##.ttdadbox310
@@ -100062,6 +100070,7 @@ thehackernews.com##.av-side-box-1
 thehackernews.com##.babsi
 thehackernews.com##.google-1
 thehackernews.com##.okay_two
+thehackernews.com##.okayjon
 thehackernews.com##.pixpix
 thehackernews.com##.zoho-box
 thehackernews.com##.zoho-box-1
@@ -100174,6 +100183,7 @@ theregister.com###whitepapers
 theregister.com##.wptl
 theroanoketribune.org##div[id^="thero-"]
 theroar.com.au##.u-d-block
+thesaurus.com##.SZjJlj7dd7R6mDTODwIT
 thesaurus.com##.e1wyd5nb0
 thesaurus.com##section[data-type="ad-horizontal-module"]
 thescore.com##.Ad__container--2fhQb
@@ -134311,6 +134321,7 @@ zle.com$script
 ##a[href^="https://refpazkjixes.top/"]
 ##a[href^="https://reinstandpointdumbest.com/"]
 ##a[href^="https://s.optzsrv.com/"]
+##a[href^="https://s.zlink3.com/"]
 ##a[href^="https://s.zlinkb.com/"]
 ##a[href^="https://s.zlinkc.com/"]
 ##a[href^="https://s.zlinkd.com/"]
