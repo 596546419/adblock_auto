@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: pAinvoFFdKbgFCTnNn/S/A
+! Checksum: ci59gnIX9JpvuCo6HCVUqg
 ! Title: 混合规则(自动更新)
-! Version: 20240410162616
+! Version: 20240411002542
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-10 16:26:16
-! Total Count: 137872
+! Last modified: 2024-04-11 00:25:42
+! Total Count: 137879
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2573,6 +2573,7 @@
 ||6669667.com^
 ||666aa777bb.com^
 ||666bb777ww.com^
+||666bbb222www.com^
 ||666bbb333bbb.com^
 ||666lotte.com^
 ||666video.asia^
@@ -19266,6 +19267,7 @@
 ||cowana-adserver.de^
 ||cowbumply.com^
 ||cowerscrowers.top^
+||cowm199.com^
 ||cowmankai.com^
 ||cowscrayon.com^$third-party
 ||coxaesmooth.digital^
@@ -35446,6 +35448,7 @@
 ||ideoclick.com^
 ||idescargarapk.com^
 ||idevaffiliate.com^
+||idffhq.cn^
 ||idhorqa.cn^
 ||idiafix.com^
 ||idio.co^
@@ -46036,6 +46039,7 @@
 ||metrics.apple.com^
 ||metrics.aviasales.ru^
 ||metrics.aws.sitepoint.com^
+||metrics.baitoru.com^
 ||metrics.bangbros.com^
 ||metrics.beyondwords.io^
 ||metrics.biletino.com^
@@ -68241,6 +68245,7 @@
 ||szptlkj.com^$document
 ||szptlkj.com^$~third-party
 ||szptp.cn^
+||szpwf.cn^
 ||szpwg.cn^
 ||szpwh.cn^
 ||szpzm.cn^
@@ -70469,6 +70474,7 @@
 ||tjwzyjx.icu^
 ||tjxafmo.cn^
 ||tjxfkmlhubh.com^
+||tjxjpqa.com^
 ||tjys88.com^
 ||tk.504pk.com^
 ||tk.kaufda.de^
@@ -98795,6 +98801,7 @@ shangyexinzhi.com##.hang-baidu_adv
 shangyexinzhi.com##.img2text-adv_wrapper
 shaoxing.com.cn##.top2
 share.dmhy.org##div[align="center"] > a > img
+share.dmhy.org##div[align="center"][id] > a > img
 shareae.com##a[href^="https://aejuice.com/"]
 shareus.io##.recent-purchased
 shareus.io##.seperator-tag

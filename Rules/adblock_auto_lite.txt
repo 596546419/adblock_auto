@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 3S/unTB5GILsiSdcYmEcLg
+! Checksum: TSDMRbsd4oJpaCUzdLAYyg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240410162627
+! Version: 20240411002552
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-10 16:26:27
-! Total Count: 26109
+! Last modified: 2024-04-11 00:25:52
+! Total Count: 26113
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -934,6 +934,7 @@
 ||6669667.com^
 ||666aa777bb.com^
 ||666bb777ww.com^
+||666bbb222www.com^
 ||666bbb333bbb.com^
 ||6686bb.app^
 ||6696q.com^
@@ -5203,6 +5204,7 @@
 ||costarg.com^
 ||count.xxxssk.com^$third-party
 ||courtoyz.com^
+||cowm199.com^
 ||cowscrayon.com^$third-party
 ||cp.7y7.com^
 ||cp.jfcdns.com^
@@ -7972,6 +7974,7 @@
 ||idddlon.xyz^
 ||iddhui.com^
 ||ideng.com^$third-party
+||idffhq.cn^
 ||idns.online^
 ||idv.st/dns/bar.htm
 ||idynbff.cn^
@@ -13271,6 +13274,7 @@
 ||szptlkj.com^$document
 ||szptlkj.com^$~third-party
 ||szptp.cn^
+||szpwf.cn^
 ||szpwg.cn^
 ||szpwh.cn^
 ||szpzm.cn^
