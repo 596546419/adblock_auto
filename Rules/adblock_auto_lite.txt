@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: JKK4pzQJhwG8lwUY7tRmxA
+! Checksum: YYzgNwCtJatF+KtmOe2GPg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240410002232
+! Version: 20240410091655
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-10 00:22:32
-! Total Count: 26103
+! Last modified: 2024-04-10 09:16:55
+! Total Count: 26109
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9687,6 +9687,7 @@
 ||lvdedf.xyz^
 ||lvjtiaa.xyz^
 ||lvnlrmn.xyz^
+||lvphbj.xyz^
 ||lvrvdn.xyz^
 ||lvse.cn/output/block/html/
 ||lvse.com/9
@@ -10971,6 +10972,7 @@
 ||otcdn2.auditude.com^
 ||other.appcpi.net^
 ||otienlk.top^
+||otmebdr.cn^
 ||otwiss.xyz^
 ||otxlhpm.xyz^
 ||otzovik.com/scripts/function/iri2.php?
@@ -11656,6 +11658,7 @@
 ||pv.sohu.com^$domain=chinafund.cn
 ||pv4b.com^$popup
 ||pv966.us/js/tw.js
+||pvhjkzo.xyz^
 ||pvlnjwr.xyz^
 ||pvnzrr.xyz^
 ||pvpdbth.xyz^
@@ -11723,6 +11726,7 @@
 ||qc1.cheshipin.com^
 ||qcb2xeg.icu^
 ||qcohkm.xyz^
+||qcsvku.xyz^
 ||qcvf.ifeng.com^
 ||qd.x4399.com^
 ||qdaily.com/mount_details/pc/
@@ -12823,6 +12827,7 @@
 ||sl.al/gdrive/pic/*.gif
 ||slashlook.com/_resource/html/_bloggerAdsBottom.html
 ||slashlook.com/_resource/html/_bloggerAdsInline1.html
+||slcmvgr.icu^
 ||sleuey.xyz^
 ||slfindmarket.live^
 ||slimyseashore.com^$third-party
@@ -14029,6 +14034,7 @@
 ||unablehope.com^$third-party
 ||unaccountablepie.com^$third-party
 ||unadvisedengine.com^$third-party
+||unalzlt.top^
 ||uncs7.top^
 ||undm.qibulo.com^
 ||unecne.com/wp-content/uploads/*ad-
