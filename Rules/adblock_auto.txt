@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: i0Ks/SifmsEQX0oh7s1ttQ
+! Checksum: pAinvoFFdKbgFCTnNn/S/A
 ! Title: 混合规则(自动更新)
-! Version: 20240410091644
+! Version: 20240410162616
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-10 09:16:44
-! Total Count: 137871
+! Last modified: 2024-04-10 16:26:16
+! Total Count: 137872
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -87494,7 +87494,7 @@ canovel.com,aaanovel.com,hhhbook.com##[id*="_IM_Chat"]
 canovel.com,aaanovel.com,hhhbook.com##a[href][title][target="_blank"]
 canstar.com.au,designspiration.com,investors.com,search.genieo.com,search.installmac.com##.promoted
 canyoublockit.com##.elementor-widget-container > center > p
-caoni29.com,catchv.fooish.com,chjtx.com,dongao.com,fooish.com,jqgcw.com,sac.net.cn,sina.com.cn,sptfy.be,vuejs.org,zgsyz.com###ad
+caoni29.com,catchv.fooish.com,chjtx.com,dongao.com,fooish.com,jqgcw.com,nextdoor.com,sac.net.cn,sina.com.cn,sptfy.be,vuejs.org,zgsyz.com###ad
 caoporn.com###bottom-gg1
 caoporn.com###feadback-content
 caoporn.com##.container + #wrapper:not(.container)
@@ -96086,6 +96086,7 @@ nex-software.com##h4:has(a[href$="/reimage"])
 nextapple.com###lrec01
 nextapple.com##div[class^="na-ad-"]
 nextcity.org##.desktop-display
+nextdoor.com##.nas-container
 nextofwindows.com##.rtsidebar-cm
 nextpit.com##.np-top-deals
 nextshark.com###nextshark_com_leaderboard_top
