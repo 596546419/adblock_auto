@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: hKY+vU//AyXWc9XGAzbGcw
+! Checksum: mVgOcdxMuTi5dMfrYwsYWw
 ! Title: 混合规则(自动更新)
-! Version: 20240411162502
+! Version: 20240412002208
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-11 16:25:02
-! Total Count: 138124
+! Last modified: 2024-04-12 00:22:08
+! Total Count: 138141
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -78240,6 +78240,7 @@
 ||weewowshrinky.com^
 ||wefihob.cn^
 ||wefinexvietnam.xyz^
+||wefoonsaidoo.com^
 ||weftsgeogeny.com^
 ||wegastroky.com^
 ||wegeeraitsou.xyz^
@@ -85336,6 +85337,8 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz,jiuse970.com##.container-fluid.p-0[class*="mb-"]
 91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz,jiuse970.com##.jsv-g1
 91porny.org,jiuse.io###main > div[id^="rd"]
+91porny.org,jiuse.io##.footer + .block
+91porny.org,jiuse.io#?#.card:-abp-has(>.card-image>a[href^="http"])
 91short.com##.player-info
 91short.com##[class$="i"][style*="bottom"],[class$="h"][style*="bottom"],[class$="_b"],[class$="c"][style*="bottom"],embed[src],canvas,*[style*="fixed"][style*="bottom"][style*="display"][style*="block"][style*="vw"],img[src*="cn-chengdu.aliyuncs.com/"],a[href*=".top"] > img[src],div[class^="shortcuts-"][class$="-overlay"],a[href] > h3,[class][style*="131px"]
 91wenmi.com###xzsp
@@ -85406,7 +85409,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 9gag.com##div[style*="width: 500px; height: 281px;"]
 9gag.com##div[style="position: relative; z-index: 3; width: 640px; min-height: 202px; margin: 0px auto;"]
 9gag.com##div[style^="position: relative; z-index: 10;"]
-9gag.com,bundesliga.com,hotstar.com,scotsman.com,sport360.fit,talksport.com,the-sun.com,thescottishsun.co.uk,thesun.co.uk,thesun.ie,trademe.co.nz##.billboard
+9gag.com,blackpoolgazette.co.uk,bundesliga.com,hotstar.com,lep.co.uk,northamptonchron.co.uk,scotsman.com,shieldsgazette.com,sport360.fit,talksport.com,the-sun.com,thescottishsun.co.uk,thestar.co.uk,thesun.co.uk,thesun.ie,trademe.co.nz##.billboard
 9gag.tv##.size-728x90
 9game.cn###btInfo
 9game.cn##.guide-app-fix
@@ -88927,6 +88930,7 @@ ctvnews.ca##.election-leaderboard
 ctwant.com##.l-ad__article
 ctwant.com##.l-ad__wrapper
 ctwant.com##.m-adpopup
+cultbeauty.co.uk,dermstore.com,skinstore.com##li.sponsoredProductsList
 cults3d.com##.robots-nocontent
 cumlouder.com##.aan-promo
 cumlouder.com##.ads__block
@@ -90577,6 +90581,7 @@ filefleck.com,sadeempc.com,upload4earn.org,usersdrive.com##a[href*="javascript:"
 filehippo.com##.program-actions-header__promo
 filehippo.com##.program-description__slot
 filehippo.com#?#article.card-article:-abp-has(span.card-article__author:-abp-contains(Sponsored Content))
+filehorse.com##div[class^="dx-"][class$="-1"]
 filehorse.com##div[id^="td-"]
 fileproinfo.com###myNav
 filepuma.com##.cRight_footer
@@ -92460,6 +92465,7 @@ hog.*,sexu.*##.player-block__square
 hog.mobi,sexu.com,hog.tv##.content__body > .content__top > div > h3.content__title.title--sm
 hog.tv##a[href^="https://clickaine.com"]
 hoho.tv##[class^="hoho-ad"],[data-ad-client]
+hola.com##[id^="div-hola-slot-"]
 holiday-weather.com##.resp-leaderboard
 hollywoodreporter.com##[id^="jwplayer"]
 holymanga.net##.svl_ads_right
@@ -93881,8 +93887,6 @@ jisuxz.com##.dl_gaosu
 jitashe.org##.bc_side_250
 jitashe.org,mumujita.com##a[href*=".makeding.com/"]
 jiumodiary.com###forum-panel
-jiuse.io##.footer + .block
-jiuse.io#?#.card:-abp-has(>.card-image>a[href^="http"])
 jiuse710.com###main > div[class]:not([class*="block"]):not([class*="container"])
 jiuse710.com#?##main div.row > div.colVideoList:has(> div.video-elem > a[href][target="_blank"])
 jiyingdm.com###otherWindowBox
@@ -94243,6 +94247,7 @@ kijiji.ca##.vipAdsList-3883764342
 kijiji.ca##[data-testid="adsense-container"]
 kijiji.ca##div[class^="adChoices-"]
 kijiji.ca##div[class^="sponsored-"]
+kijiji.ca#?#[data-testid^="listing-card-list-item-"]:-abp-contains(TOP AD)
 kikinote.net##.pc_ad
 kimcartoon.li##div[style="font-size: 0; position: relative; text-align: center; margin: 10px auto; width: 300px; height: 250px; overflow: hidden;"]
 kimochi.info##.gridlove-posts > .layout-simple:has(.gridlove-archive-ad)
@@ -95551,6 +95556,8 @@ moddroid.co##a[href^="https://doodoo.love/"]
 modelhorseblab.com##img[name="js_ad"]
 modelsxxxtube.com,pornexpanse.com,pornxxxplace.com,tubesex.me,tubevintageporn.com,whitexxxtube.com,xxxadd.com###invideo_new
 modernghana.com##.quikr_banner
+modivo.at,modivo.bg,modivo.cz,modivo.de,modivo.ee,modivo.fr,modivo.gr,modivo.hr,modivo.hu,modivo.it,modivo.lt,modivo.lv,modivo.pl,modivo.ro,modivo.si,modivo.sk,modivo.ua##.display-container
+modivo.at,modivo.bg,modivo.cz,modivo.de,modivo.ee,modivo.fr,modivo.gr,modivo.hr,modivo.hu,modivo.it,modivo.lt,modivo.lv,modivo.pl,modivo.ro,modivo.si,modivo.sk,modivo.ua##.promoted-slider-wrapper
 modrinth.com##.GBBNWLJVGRHFLYVGSZKSSKNTHFYXHMBD
 modrinth.com##[href^="http://bisecthosting.com/"]
 modrinth.com##[type="banner"]
@@ -95876,6 +95883,10 @@ mydigit.cn##.view-hover[channelid="smzdm"]
 mydigit.cn,storyren.top###diyfastposttop
 mydorpie.com###imgbcont
 mydorpie.com##.rbancont
+mydown.com##.aqDownload
+mydown.com##.doubleDownload_bottom
+mydown.com##.doubleDownload_content > .middle
+mydown.com##.fc_anqDown
 mydown.com,onebox.mydown.com##.advertisement_pic
 mydown.com,onebox.mydown.com##.fcGg
 mydowndown.com##p[style="color:#ff0000;"] > a[target="_blank"]
@@ -99243,6 +99254,7 @@ skinme.cc,yuntue.com##.huodong
 skinnyms.com##.sm-above-header
 skins.be##.hint
 skins.be##.shortBioShadowB
+skinstore.com##.productSponsoredAdsWrapper
 skydy.top##.swiper-slide[style="width: 1170px;"]
 skykiwi.com##div[style^="width:1200px;height:"]
 skylinewebcams.com###hostedby
@@ -111880,6 +111892,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /script/intrf.js
 /script/ippg.js
 /script/java.php?$xmlhttprequest
+/script/jeSus.js
 /script/naN.js
 /script/nasu.js$third-party
 /script/native_render.js
@@ -134063,6 +134076,7 @@ zle.com$script
 ##a[href*="//tsyndicate.com"][href*="/click"]
 ##a[href*="//xxuudxdu.live?"]
 ##a[href*="//y3e33.top"][target="_blank"]
+##a[href*="/04816632.com/"]
 ##a[href*="/10093813.com"]
 ##a[href*="/1124024.xyz"]
 ##a[href*="/122.51.121.126:"]
@@ -137235,6 +137249,7 @@ zle.com$script
 @@||miaozhen.com^*/m.suning.
 @@||microsoft.com/translate/auth
 @@||microsofttranslator.com/translate?
+@@||minyu-net.com/parts/ad/banner/$image,~third-party
 @@||mix.sina.com.cn^
 @@||mm.maxthon.cn/ad/
 @@||mmaa99.xyz^$generichide
@@ -137403,6 +137418,7 @@ zle.com$script
 @@||s.yimg.com/ja/ap/*/jquery.$domain=hk.news.yahoo.com|hk.yahoo.com|tw.news.yahoo.com|tw.stock.yahoo.com|tw.yahoo.com
 @@||s0.wp.com/wp-content/js^$domain=gaypornwave.com
 @@||samplefan.com/img/ad/$image
+@@||sanyonews.jp/files/image/ad/okachoku.jpg$~third-party
 @@||sax.sina.com.cn/video/newimpress?
 @@||scatfap.com/scat-porn/modules/vids/misc_static/adverts.js
 @@||scorecardresearch.com/beacon.js$domain=hktvmall.com
@@ -137428,6 +137444,7 @@ zle.com$script
 @@||share.baidu.com^$script,stylesheet,domain=k73.com
 @@||share1223.com^$generichide
 @@||shijue.me/advertise/getList?
+@@||shikoku-np.co.jp/img/ad/$~third-party
 @@||shine.cn/showadcode2.asp?posid=68&
 @@||shmeea.edu.cn^$generichide
 @@||shopback.com.tw^$generichide
