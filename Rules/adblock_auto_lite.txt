@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: TSDMRbsd4oJpaCUzdLAYyg
+! Checksum: cDL3cfqRi7jhEmyn+BJKJQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240411002552
+! Version: 20240411091815
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-11 00:25:52
-! Total Count: 26113
+! Last modified: 2024-04-11 09:18:15
+! Total Count: 26119
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4336,6 +4336,7 @@
 ||bnhxxj.xyz^
 ||bnifdlav.top^
 ||bnl2bii.icu^
+||bnlbecm.xyz^
 ||bnnfvd.xyz^
 ||bnpfdzp.xyz^
 ||bnrdnx.xyz^
@@ -9123,6 +9124,7 @@
 ||kop02.com^$document
 ||kop02.com^$~third-party
 ||kopde.xyz^
+||koqjok.xyz^
 ||koqsxdpx.xyz^
 ||korewaeroi.com/fukugan_sp_3x4.html
 ||korewaeroi.com/fukugan_sp_3x4_rec.html
@@ -9401,6 +9403,7 @@
 ||lensdump.com/i/*.gif$badfilter
 ||lenvvb.xyz^
 ||leopold37.xyz^
+||lesasfp.icu^
 ||lesenjiaoyu.xyz^
 ||lestv1.icu^
 ||lestv10.icu^
@@ -9418,6 +9421,7 @@
 ||lfhdryz.xyz^
 ||lfhnzbj.xyz^
 ||lfjtiuy.cn^
+||lfrfzr.xyz^
 ||lfzk2cp.icu^
 ||lgecqrb.com^
 ||lgecqrb.com^$document
@@ -10959,6 +10963,7 @@
 ||orzx.im/Document/union/
 ||orzx.im/js/*pop
 ||os.scmpacdn.com^
+||osafsr.xyz^
 ||osancik.top^
 ||oschina.net/promotion/
 ||oschina.net/uploads/ad/
@@ -14010,6 +14015,7 @@
 ||ujappzvz.xyz^
 ||ujgf120.com^
 ||ujnkn.com^
+||ujovcb.cn^
 ||ujrspnbf.xyz^
 ||ukbbjtfp.xyz^
 ||ukjwyv.icu^
