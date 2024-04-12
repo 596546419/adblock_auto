@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Vy+3im0OOZCk8PPBiDDR9g
+! Checksum: aCbtUo5gOQYxQkqLTGkZew
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240412162348
+! Version: 20240413002320
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-12 16:23:48
-! Total Count: 26131
+! Last modified: 2024-04-13 00:23:20
+! Total Count: 26134
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4374,6 +4374,7 @@
 ||booktxt.net/js/easyAD
 ||booktxt.net/js/mangoIndexBanner.js
 ||boostads.net^
+||bootcdn.net/ajax/libs/jquery-cookie/*/jquery.cookie.$domain=zaixianjisuan.com
 ||bootcss.com/assets/js/and
 ||boplgt.icu^
 ||boqsxdpx.xyz^
@@ -11633,6 +11634,7 @@
 ||pstatp.com^$domain=5217kdy1.xyz|ahah3.com|i5qs.com
 ||pstatp.com^*/push.js
 ||pstvvb.xyz^
+||psvpromo.psvgamestudio.com^
 ||psvvzb.xyz^
 ||psychedelicarithmetic.com^$third-party
 ||psyzg.com/Public/Home/images/tuhe_240_236.gif
@@ -14892,6 +14894,7 @@
 ||xafuzcxr.xyz^
 ||xamssp.icu^
 ||xav*.icu/base/js/other.js
+||xayjbz.com/static/images/apc.
 ||xbiqu5.com/12345678.
 ||xbiqugela.com/js/basisc.
 ||xbiqugexx.com/js/jamq.
