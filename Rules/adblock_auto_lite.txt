@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: SR5psCJixd4h78snYxFW0Q
+! Checksum: yx+XhWEt+NLwF/sUvJIriw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240412002219
+! Version: 20240412091735
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-12 00:22:19
-! Total Count: 26122
+! Last modified: 2024-04-12 09:17:35
+! Total Count: 26129
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6143,6 +6143,7 @@
 ||eccn.com/js/gg.js
 ||eccn.com/js/popupad_
 ||eciea.xyz^
+||ecikmrm.icu^
 ||ecimg.tw/img/xdsys/*/layout/*/sign/channel*/ad_*.jpg
 ||eclassified.my/cp_featured
 ||ecma.bdimg.com^
@@ -9581,6 +9582,7 @@
 ||ln.tian-ting.ink^
 ||ln0.com.cn^
 ||lnaevr.fun^
+||lnalzll.top^
 ||lnhsjob.com^$third-party
 ||lnifdlal.top^
 ||lniwe.xyz^
@@ -10632,6 +10634,7 @@
 ||nfmovies.com/static/*.jpg
 ||nfmovies.com/static/*.jpg$image,redirect=1x1.gif
 ||nfmovies.com/static/210203.png
+||nfptyfk.xyz^
 ||nfuwow.com/static/nfuwow/source/front/new/images/
 ||nfydd.com/template/wap1/js/dd.js
 ||ngbthf.xyz^
@@ -13672,6 +13675,7 @@
 ||tpic.kszvmqo.cn^$third-party
 ||tpic.mhslbqk.cn^
 ||tpjmqq.com^
+||tptgvh.xyz^
 ||tptoon.com/skin/js/tjtjkk.
 ||tptp002.cfd^
 ||tpvuxt.xyz^
@@ -13881,6 +13885,7 @@
 ||tyodot.icu^
 ||tyrsn6di.icu^
 ||tyuetxt.com^
+||tyzfoej.cn^
 ||tz-68-fabb.com/qiye/
 ||tzelzfnj.xyz^
 ||tzfdc.com.cn/userfiles/flash/
@@ -14081,6 +14086,7 @@
 ||unxuoag.cn^
 ||uo12.com^
 ||uogtrmjz.xyz^
+||uohvxrvd.xyz^
 ||uojoqx.icu^
 ||uoowu.com/a/zh*.js
 ||uooyoo.com/hz/*str.js
@@ -14529,6 +14535,7 @@
 ||wanwan.sina.com.cn/third_party/
 ||wanyi.pw^
 ||waoeou.xyz^
+||waouss.xyz^
 ||wap*.m.xuehongxs.com$script
 ||wap.gonb.org/qjlm_wap.js
 ||wap.hfoyjg.cn^$third-party
