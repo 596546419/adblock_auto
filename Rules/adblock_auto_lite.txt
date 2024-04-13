@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: /xjRDVrRBu4letAyLHJheg
+! Checksum: zueixIoytlXhO6kawjyMXg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240413090433
+! Version: 20240413161814
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-13 09:04:33
-! Total Count: 26134
+! Last modified: 2024-04-13 16:18:14
+! Total Count: 26135
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -17477,6 +17477,7 @@ perverttube.com##[href="https://usasexcams.com/"]
 ph4.ru##div[style^="width: 728px; height: 90px;"]
 ph4.ru##table[width][height="90"][style]
 phimsexmoi.biz###text-2[style*="left: 0px; top: 0px;"]
+photofilters.com##.adBlocked
 photolessons.org###modal-adbmon-div
 php?ad=
 pic4you.ru,pic5you.ru##body > #bb

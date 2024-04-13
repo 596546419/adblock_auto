@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: yWaY42B3xwPOeglY4JdaSg
+! Checksum: E3BrdEBeZDxGswFmctdMJQ
 ! Title: 混合规则(自动更新)
-! Version: 20240413090422
+! Version: 20240413161803
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-13 09:04:22
+! Last modified: 2024-04-13 16:18:03
 ! Total Count: 138382
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
@@ -95024,7 +95024,6 @@ llysc.cn###fbi-top-fixed-ad
 lnd.com.cn##div[id^="wflash"]
 lnk2.cc##+js(set-constant, adblock, false)
 loblaws.ca,provigo.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca#?#.chakra-container:-abp-contains(Featured Items)
-loblaws.ca,provigo.ca,yourindependentgrocer.ca#?#.chakra-container:-abp-contains(sponsored)
 localjewishnews.com##div[class^="local-feed-banner-ads"]
 localking.com.tw###adbannerurl
 localtiger.com##.a9gy_lt
@@ -97345,6 +97344,7 @@ phonearena.com##.pa-sticky-container
 phonearena.com##.spot-sticky-container
 phoneia.com##[data-index]
 phorio.com##.partnerlogos-wrapper
+photofilters.com##.adBlocked
 photographyreview.com##.bottom-leaderboard
 photojpl.com###google01
 photolessons.org###modal-adbmon-div
