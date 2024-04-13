@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: VuCjIcywKKcjNMus6KdN/w
+! Checksum: yWaY42B3xwPOeglY4JdaSg
 ! Title: 混合规则(自动更新)
-! Version: 20240413002309
+! Version: 20240413090422
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-13 00:23:09
-! Total Count: 138373
+! Last modified: 2024-04-13 09:04:22
+! Total Count: 138382
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -13670,6 +13670,7 @@
 ||bn.take-profit.org^
 ||bn5x.net^
 ||bnagilu.com^
+||bnalzlv.top^
 ||bnb-announce.online^
 ||bnbmatrix.io^
 ||bnbvd.xyz^
@@ -15145,6 +15146,7 @@
 ||bzsiyxkvehty.com^
 ||bzthxv.xyz^
 ||bzuyxqrmndod.com^
+||bzverx.xyz^
 ||bzvhgbr.xyz^
 ||bzwo2lmwioxa.com^
 ||bzxcygmykxymcj.com^
@@ -20326,6 +20328,7 @@
 ||cytlbwfhbopqati.xyz^
 ||cytock.com^
 ||cytrd0.site^
+||cyuwkbf.top^
 ||cyvjmnu.com^
 ||cyyhkeknmbe.com^
 ||cyyjhkhgt.com^
@@ -37983,6 +37986,7 @@
 ||izlunwgx.com^
 ||izlutev.com^
 ||izlzunewumqgg.com^
+||izmiua.xyz^
 ||izmssk.xyz^
 ||izooto.com^
 ||izprqctxde.com^
@@ -53812,6 +53816,7 @@
 ||pblcpush.com^
 ||pblinq.com^
 ||pblmppbnu.com^
+||pblymbu.cn^
 ||pbmp.ali213.net/js/
 ||pbmt.cloud^
 ||pbnet.ru^
@@ -81270,6 +81275,7 @@
 ||xvvsnnciengskyx.xyz^
 ||xvwebllndr.com^
 ||xvwqdrwiyi.com^
+||xvyugqj.icu^
 ||xvzfyra.xyz^
 ||xvzophudkodln.com^
 ||xvzvqoq.xyz^
@@ -83689,6 +83695,7 @@
 ||zplayer.trk.zapps.vn^
 ||zpotkvpy.icu^
 ||zppfjh.xyz^
+||zpplsii.xyz^
 ||zpreland.com^
 ||zprelandappslab.com^
 ||zprelanding.com^
@@ -89648,12 +89655,12 @@ dissentmagazine.org##.bc_random_banner
 distractify.com##.gXgoom
 distractify.com##.obIeh
 distractify.com##.sc-jcwofb
-distractify.com,greenmatters.com,inquisitr.com,okmagazine.com,radaronline.com##.dpbdIG
-distractify.com,inquisitr.com,okmagazine.com,radaronline.com##.gwofgg
+distractify.com,greenmatters.com,inquisitr.com,okmagazine.com,qthemusic.com,radaronline.com##.dpbdIG
+distractify.com,inquisitr.com,okmagazine.com,qthemusic.com,radaronline.com##.gwofgg
 distractify.com,inquisitr.com,okmagazine.com,radaronline.com##.hTgZCF
 distractify.com,inquisitr.com,okmagazine.com,radaronline.com##.ljqtHz
 distractify.com,inquisitr.com,okmagazine.com,radaronline.com##.sc-oefIU
-distractify.com,inquisitr.com,radaronline.com##.sc-fTZrbU
+distractify.com,inquisitr.com,qthemusic.com,radaronline.com##.sc-fTZrbU
 distractify.com,inquisitr.om,okmagazine.com,radaronline.com##.bDBSfh
 distractify.com,radaronline.com##.jRAIxB
 distrowatch.com##a[href*="3cx.com"]
@@ -97064,6 +97071,8 @@ otakuusamagazine.com##.otaku_big_ad
 ottverse.com##.livevideostack-ad
 ourworldofenergy.com###sponsors_container
 out.com###sPost_Layout_Default_0_0_20_0_0_2_2
+outlook.advantis.ai##.Outlook_discoverItem__RORc6
+outlook.advantis.ai##.swiper-initialized.swiper
 outlook.live.com##.N3k7EN5vRGTrONWBPg250
 outlook.live.com##.VdboX[tabindex="0"]:has(img[src="https://res.cdn.office.net/assets/ads/adbarmetrochoice.svg"])
 outlook.live.com##._BAY1XlyQSIe6kyKPlYP
