@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: zueixIoytlXhO6kawjyMXg
+! Checksum: R2MVuC65DBEjnPhDycdiyg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240413161814
+! Version: 20240414002319
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-13 16:18:14
-! Total Count: 26135
+! Last modified: 2024-04-14 00:23:19
+! Total Count: 26142
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4320,6 +4320,7 @@
 ||bmtfka93.xyz^
 ||bmxvxl.xyz^
 ||bmyrihf.icu^
+||bnalzlv.top^
 ||bnds3.site^
 ||bnds4.site^
 ||bnds6.site^
@@ -4562,6 +4563,7 @@
 ||bzhanyy.com^*.gif
 ||bznizrhd.xyz^
 ||bzthxv.xyz^
+||bzverx.xyz^
 ||bzvhgbr.xyz^
 ||bzxvtj.xyz^
 ||bzzxyyh.xyz^
@@ -5360,6 +5362,7 @@
 ||cycyw.com/mf/
 ||cycyw.com/qdj/
 ||cyq3noz.icu^
+||cyuwkbf.top^
 ||czexrhl.cn^
 ||czouthy.cn^
 ||czresus.cn^
@@ -8408,6 +8411,7 @@
 ||iyuedu.cn.com^
 ||iyybqzv.cn^
 ||izalflh.cn^
+||izmiua.xyz^
 ||izmssk.xyz^
 ||iztwp.com/images/
 ||j.baminw.cn^
@@ -11107,6 +11111,7 @@
 ||pazz.xyz^
 ||pb.shuxigua.com^
 ||pbbhhxm.xyz^
+||pblymbu.cn^
 ||pbmp.ali213.net/js/
 ||pbtsjh.xyz^
 ||pbtxt.win^
@@ -15230,6 +15235,7 @@
 ||xvpqrydt.xyz^
 ||xvrvgod.xyz^
 ||xvudqzoa.xyz^
+||xvyugqj.icu^
 ||xvzfyra.xyz^
 ||xvzvqoq.xyz^
 ||xw.ooegpip.cn^$third-party,image
@@ -15978,6 +15984,7 @@
 ||zpiyi.com/public/js/global.js
 ||zpotkvpy.icu^
 ||zppfjh.xyz^
+||zpplsii.xyz^
 ||zpsovpgyk.xyz^
 ||zpvfsrb.xyz^
 ||zpvuugw.cn^
