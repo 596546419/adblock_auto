@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: R2MVuC65DBEjnPhDycdiyg
+! Checksum: /dbqHlzrR6Zfq+ZB+jAOXQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240414002319
+! Version: 20240414094926
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-14 00:23:19
-! Total Count: 26142
+! Last modified: 2024-04-14 09:49:26
+! Total Count: 26148
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4265,6 +4265,7 @@
 ||bjswhpy.cn^
 ||bjtel.cn^
 ||bjtgds.xyz^
+||bjxfnn.xyz^
 ||bjzankai.com^$script,third-party
 ||bkae.top^
 ||bkbbjtfp.xyz^
@@ -6893,6 +6894,7 @@
 ||gblxtlo.xyz^
 ||gcbflvx.cn^
 ||gcbtgh26.xyz^
+||gccnntq.cn^
 ||gcqciiqk.com^
 ||gcssem.xyz^
 ||gcumgu.xyz^
@@ -7892,6 +7894,7 @@
 ||hypwbv.xyz^
 ||hystericalcloth.com^$third-party
 ||hyusnisu.top^
+||hyuwkbu.top^
 ||hyz86.com^
 ||hz.shouyoutv.com^
 ||hzhyhm.com^
@@ -11787,6 +11790,7 @@
 ||qhres.com/static/4b6ab193405b6ca3.js
 ||qhres.com^*/baidu_
 ||qhssjyb.xyz^
+||qhtdmlf.xyz^
 ||qhx1h2g.com^
 ||qhxtzwf.cn^
 ||qhyy8.com/template/default_wap/html/public/img/*.gif
@@ -11957,6 +11961,7 @@
 ||qtd95fj.online^$third-party
 ||qtienly.top^
 ||qtmojo.com^$third-party
+||qtoidch.icu^
 ||qtq632.com^
 ||qtyusiy.top^
 ||qu96.com^
@@ -14038,6 +14043,7 @@
 ||ulfex.cn^$third-party
 ||ulink.cc^$third-party
 ||uljoifw.cn^
+||ulktyi.xyz^
 ||ulm-news.de/image/banners
 ||ulojlvmejkaem.xyz^
 ||ulrvkee.xyz^
