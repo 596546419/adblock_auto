@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: MIPCrrPcx6zpiCvpQHJ2Gw
+! Checksum: X2/wlVSl25JBxjNdKHWfAw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240415161955
+! Version: 20240416002332
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-15 16:19:55
-! Total Count: 26161
+! Last modified: 2024-04-16 00:23:32
+! Total Count: 26164
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4759,7 +4759,6 @@
 ||cdn-99-pic.cc^
 ||cdn-adn-*.rayjump.com^
 ||cdn-adn.rayjump.com^
-||cdn-ads.tmap.co.kr^
 ||cdn-aousoce.org/*/musoapp.js$third-party
 ||cdn-api.admost.com^
 ||cdn-cf.postitial.com^
@@ -5001,6 +5000,7 @@
 ||cijianggun.com^
 ||cilimao.*/amaod/
 ||cimg.cnyes.cool/prod/adContent/$image
+||city.tsuyama.lg.jp/common/photo/banner_ad/
 ||citysbs.com/chongqing/*/1920x179-
 ||citysbs.com/no/*/1190x60-
 ||citysbs.com/no/*/650x50-
@@ -10666,6 +10666,7 @@
 ||nieae.xyz^
 ||nifyeldc.top^
 ||nightwound.com^$third-party
+||niji-gazo.com/ads/
 ||niji-gazo.com/api/dmm/affiliate/
 ||nikopik.com/wp-content/themes/*/js/nikopik.js
 ||nilzq.xyz^
@@ -12373,6 +12374,7 @@
 ||s.*.com/pp.php?uid=$third-party
 ||s.69vj.com/assets/DIY.$image,media
 ||s.adx.opera.com^
+||s.famitsu.com/ad/movie_overlay_ad.js
 ||s.freeporncave.com^
 ||s.go.sohu.com^*/?callback=
 ||s.hisp.in^
@@ -14460,6 +14462,7 @@
 ||vrwdsvr.icu^
 ||vrxhnr.xyz^
 ||vs*.bozhou666.com^$third-party
+||vs-api.voodoo-tech.io^
 ||vs1.exo01.xyz^$image,third-party
 ||vserv.mobi^
 ||vsexshop.ru^$third-party
