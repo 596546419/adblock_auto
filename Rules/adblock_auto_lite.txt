@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: X2/wlVSl25JBxjNdKHWfAw
+! Checksum: WMvie1WD8tGwYDJNcF2Nng
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240416002332
+! Version: 20240416091704
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-16 00:23:32
-! Total Count: 26164
+! Last modified: 2024-04-16 09:17:04
+! Total Count: 26170
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3957,6 +3957,7 @@
 ||baseporno.com^
 ||batijian.com^
 ||baucdngb.xyz^
+||baucraell.com^
 ||bavde1.icu^
 ||bavde3.icu^
 ||bavei.com/img/*.png
@@ -4848,6 +4849,7 @@
 ||cfdns.vip^
 ||cfff.net^$third-party
 ||cfrtdmb.xyz^
+||cfugrnc.icu^
 ||cfx3d.xyz^
 ||cfzhushou.com^*/King_Chance_Layer.js
 ||cgbswl.icu^
@@ -7788,6 +7790,7 @@
 ||hsiaik.com^
 ||hskzoab.cn^
 ||hslbahu.top^
+||hspdiom.cn^
 ||hstbrt.xyz^
 ||hstjjg.com/show/$script
 ||hsutav.icu^
@@ -8503,6 +8506,7 @@
 ||jd.com/static/js/cpc.js
 ||jd100.com/cwmpc/
 ||jdamc.top^
+||jdbeht.xyz^
 ||jdbfknsbkldns.com^
 ||jdbstatic.com/ads/
 ||jdcnwd.com^
@@ -10975,6 +10979,7 @@
 ||oqxep.cn^
 ||oqyiapj.cn^
 ||oraporn.com^
+||orbnarb.xyz^
 ||orbsrv.com^
 ||orbxiul.xyz^
 ||orientalasianporn.com/func.js
@@ -12841,6 +12846,7 @@
 ||sjbaiduadv1.redou.com^
 ||sjbgyak.cn^
 ||sjdfuvz.cn^
+||sjgsgy.xyz^
 ||sjkdbvjksbv.com^
 ||sjks88.com/templets/default/js/mydata4.js
 ||sjzls.top^
