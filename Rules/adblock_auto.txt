@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 3OlDiplH7kWVQ5oYYXnAfw
+! Checksum: 33L56rTe7kg7Ad4MfAuGxw
 ! Title: 混合规则(自动更新)
-! Version: 20240417002405
+! Version: 20240417091724
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-17 00:24:05
-! Total Count: 139617
+! Last modified: 2024-04-17 09:17:24
+! Total Count: 139640
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -924,6 +924,7 @@
 ||1jc5t.xyz^
 ||1jpbh5iht.de^
 ||1jsskipuf8sd.com^
+||1jutu5nnx.com^
 ||1k2l3m4n5o.com^
 ||1kanz.cn^
 ||1kcx.hk^
@@ -5748,6 +5749,7 @@
 ||ads.oppomobile.com^
 ||ads.oyungemisi.com^
 ||ads.pdbarea.com^
+||ads.people-group.net^
 ||ads.periodistadigital.com^
 ||ads.phunuonline.com.vn^
 ||ads.phunusuckhoe.vn^
@@ -7395,6 +7397,7 @@
 ||ajdbwugpyjhrm.com^
 ||ajdivotdelbloab24.jio.com^
 ||ajestigie.com^
+||ajffubz.xyz^
 ||ajfkwwpo.xyz^
 ||ajfnee.com^
 ||ajghca.xyz^
@@ -17423,6 +17426,7 @@
 ||cipdn.com^
 ||ciphercapital.tech^
 ||cipledecline.buzz^
+||ciqahsejb.com^
 ||cir-smart.baidu.com^
 ||cirazi.com^
 ||circle.am^
@@ -22109,6 +22113,7 @@
 ||dghkpp.xyz^
 ||dgjyqdkxmxq.com^
 ||dgkajwnbrazepe.com^
+||dgkmdia.com^
 ||dglerduxehr.com^
 ||dgmaustralia.com^
 ||dgmaxinteractive.com^
@@ -24691,6 +24696,7 @@
 ||ebuzzing.it^
 ||ebwonro.cn^
 ||ebwvjkvd.com^
+||ebxcdn.com^
 ||ebz.io^
 ||ebzqyow.cn^
 ||ec-concier.com^
@@ -25183,6 +25189,7 @@
 ||eiderswergelt.com^
 ||eidosrebegin.com^
 ||eidphap.cn^
+||eiegkg.xyz^
 ||eiewwepb.com^
 ||eifyeldw.top^
 ||eighing.space^
@@ -25995,6 +26002,7 @@
 ||erankjkytrgh.com^
 ||eraseficins.website^
 ||erate.co.il^
+||eraudseen.xyz^
 ||eravprvvqqc.xyz^
 ||eraygc.xyz^
 ||erbiscusys.info^
@@ -32417,6 +32425,7 @@
 ||grudreeb.com^
 ||gruesome-comfortable.pro^
 ||gruffermail.com^
+||grulphaens.com^
 ||grumblecrytopless.com^
 ||grumbletonight.com^
 ||grumpy-fear.pro^
@@ -39079,6 +39088,7 @@
 ||jh3pin.com^
 ||jhcsccodbtuw.com^
 ||jhdiujyjihnw.com^
+||jhfcll.cn^
 ||jhfhdkhkh.site^
 ||jhgtf.com^
 ||jhgtffvf.com^
@@ -40287,6 +40297,7 @@
 ||jxdown.com/statics/js/all.js
 ||jxdown.com^$third-party
 ||jxeyhgw.cn^
+||jxhbpcdzcg.com^
 ||jxhcyc.com^
 ||jxhgcitcqmvv.com^
 ||jxjvtr.xyz^
@@ -40341,6 +40352,7 @@
 ||jynthelon.com^
 ||jyozavoyyykby.top^
 ||jypugepha.pro^
+||jypvzd.xyz^
 ||jyqakuufosr.com^
 ||jyqekzewvyojy.top^
 ||jyrcqzjjachlk.com^
@@ -42054,6 +42066,7 @@
 ||kyteevl.com^
 ||kytesconge.com^
 ||kytoonburlies.website^
+||kyuwkbd.top^
 ||kywtndbtqldbvp.com^
 ||kyxw9itc.xyz^
 ||kyxw9itv.club^
@@ -42607,6 +42620,7 @@
 ||lbbyft.cn^
 ||lbbzxarfoukaf.com^
 ||lbexhowxemwo.com^
+||lbfgwkxq.com^
 ||lbjc.xyz^
 ||lbjdbym.xyz^
 ||lbjxsort.xyz^
@@ -47537,6 +47551,7 @@
 ||mloxcnrt.com^
 ||mlpeqwkruffs.com^
 ||mlqq.store^
+||mlqyyucumcoxum.com^
 ||mlre.com.cn^
 ||mlrrvusoiebaox.com^
 ||mlsat04.de^
@@ -51191,6 +51206,7 @@
 ||nphtakjpw.com^
 ||npjhdunxxfhwgtv.com^
 ||npjvgug.xyz^
+||npkkpknlwaslhtp.xyz^
 ||npkzqlhtecxx.com^
 ||nplahh.xyz^
 ||nplxa.com^
@@ -57441,6 +57457,7 @@
 ||prod.fennec.atp.fox^
 ||prod.html5-ads.vk-apps.com^
 ||prod.report.nacustomerexperience.citi.com^
+||prod.uidapi.com^
 ||prod.untd.com^
 ||prodaddkarl.com^
 ||prodigiousarticulateruffian.com^
@@ -58489,6 +58506,7 @@
 ||pwbmdalngizhz.com^
 ||pwc.qktmwiq.cn^
 ||pwcuu.cn^
+||pwddhc.xyz^
 ||pwdxawuedjjj.com^
 ||pweabzcatoh.com^
 ||pwhkfd.xyz^
@@ -59186,6 +59204,7 @@
 ||qokira.uno^
 ||qomate.xyz^
 ||qomdf.top^
+||qomffnmxgwcon.com^
 ||qomuchorindownlo.xyz^
 ||qongsonw.uno^
 ||qontent.pomvideo.cc^
@@ -61010,6 +61029,7 @@
 ||repdata.usatoday.com^
 ||repealamintor.com^
 ||repeatedlyitsbrash.com^
+||repeatedlyshepherd.com^
 ||repeatloin.com^
 ||repeatresolve.com^
 ||repellentamorousrefutation.com^
@@ -61824,6 +61844,7 @@
 ||rnanlxfa.com^
 ||rnatic.com^
 ||rndambipoma.com^
+||rndcdb.xyz^
 ||rndchandelureon.com^
 ||rndhaunteran.com^
 ||rndmusharnar.com^
@@ -72990,7 +73011,6 @@
 ||tracker.zummycloud.com^
 ||tracker19875.space^
 ||tracker2.space^
-||trackerapi.ebxcdn.com^
 ||trackerapi.service.echobox.com^
 ||trackerapi.truste.com^
 ||trackerhqu.com^
@@ -76853,6 +76873,7 @@
 ||vdo.ai^
 ||vdoing.com^
 ||vdopia.com^
+||vdoqomz.icu^
 ||vdoubt.com^
 ||vdresaa.top^
 ||vdrfes.site^
@@ -79743,6 +79764,7 @@
 ||wfredir.net^
 ||wfthumty.pm^
 ||wftyehw.cn^
+||wfubtuatsa.com^
 ||wfuossjholw.com^
 ||wfutphkrendhr.com^
 ||wfuwlkgm.com^
@@ -80130,6 +80152,7 @@
 ||wigglychick.top^
 ||wiglessernes.com^
 ||wiglurto.xyz^
+||wignuxidry.net^
 ||wigsynthesis.com^
 ||wiinvent.com.vn^
 ||wiinvent.tv^

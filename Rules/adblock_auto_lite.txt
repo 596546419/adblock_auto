@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: aqT40nRkCzniQrFwrmnunA
+! Checksum: 1tqPlHavLdCIfRJDHnZ+aQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240417002416
+! Version: 20240417091735
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-17 00:24:16
-! Total Count: 26173
+! Last modified: 2024-04-17 09:17:35
+! Total Count: 26181
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3241,6 +3241,7 @@
 ||ajcode.co^
 ||ajcode.co^$third-party
 ||ajdivotdelbloab24.jio.com^
+||ajffubz.xyz^
 ||ajfkwwpo.xyz^
 ||ajghca.xyz^
 ||ajijcy.xyz^
@@ -6221,6 +6222,7 @@
 ||eht116.com^
 ||ei1s7b.cn^
 ||eiadf.xyz^
+||eiegkg.xyz^
 ||eifyeldw.top^
 ||eignky.xyz^
 ||eiqsky.xyz^
@@ -8533,6 +8535,7 @@
 ||jgstny.com^$third-party
 ||jgygtv.cn^
 ||jh16csf.com^
+||jhfcll.cn^
 ||jhkggrr.icu^
 ||jhl1993.cn^
 ||jhlazsot.icu^
@@ -8909,6 +8912,7 @@
 ||jyfw.cn/nav/cf_
 ||jygiizv.icu^
 ||jynthelon.com^
+||jypvzd.xyz^
 ||jyrd.com/statics/*/js/baizhu/
 ||jyt58.top^
 ||jyuwkba.top^
@@ -9284,6 +9288,7 @@
 ||kyplpw.com^
 ||kyq3hky.icu^
 ||kyq3xch.icu^
+||kyuwkbd.top^
 ||kzelzfnj.xyz^
 ||kzemm.com^
 ||kzepp.com^
@@ -11707,6 +11712,7 @@
 ||pw321.com/bulu/
 ||pw321.com^*.gif
 ||pwc.qktmwiq.cn^
+||pwddhc.xyz^
 ||pwhkfd.xyz^
 ||pwhtip.icu^
 ||pwnews.net/des/antiblock.js$script
@@ -12248,6 +12254,7 @@
 ||rmnsdh.xyz^
 ||rmxizma.cn^
 ||rnajhyd.xyz^
+||rndcdb.xyz^
 ||rnhqxh.com^
 ||rnkzhsi.cn^
 ||rntdqwc.xyz^
@@ -14317,6 +14324,7 @@
 ||vdggsd017.com^
 ||vdianying.cc/img/youhuiquan250.gif
 ||vdianying.cc/wp-content/plugins/wp-adblock-dedect/
+||vdoqomz.icu^
 ||vdrfes.site^
 ||vdtxlt.xyz^
 ||vdvcjlp.cn^
