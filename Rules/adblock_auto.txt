@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 33L56rTe7kg7Ad4MfAuGxw
+! Checksum: /Pf3mLg6GVwWgdtGXmFdEg
 ! Title: 混合规则(自动更新)
-! Version: 20240417091724
+! Version: 20240417162255
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-17 09:17:24
-! Total Count: 139640
+! Last modified: 2024-04-17 16:22:55
+! Total Count: 139668
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4853,6 +4853,7 @@
 ||adbxb.com^$third-party
 ||adc-js.nine.com.au^
 ||adc-serv.net^
+||adc-teasers.com^
 ||adc.9news.com.au^
 ||adc.nine.com.au^
 ||adc.streamspread.com^
@@ -20119,6 +20120,7 @@
 ||cskh-the-vpbank.com^
 ||cskh-vib-canhan.com^
 ||cskh-vib.ho-tro-tin-dung-ca-nhan.com^
+||cskh-vib.nang-han-muc-the-visa.com^
 ||cskh.onlinecrm.vn^
 ||cskhdienmayxanh.com^
 ||cskhdienmayxanhvn.com^
@@ -22310,6 +22312,7 @@
 ||dienmayxanh247.com^
 ||dienmayxanh24h.com^
 ||dienmayxanh24h.net^
+||dienmayxanh263.com^
 ||dienmayxanh268.com^
 ||dienmayxanh269.com^
 ||dienmayxanhantam.com^
@@ -27685,6 +27688,7 @@
 ||fdrgtt9edmej010.com^
 ||fdrxdr.xyz^
 ||fds-1230.cc^
+||fdsd22.com^
 ||fdsousf.cn^
 ||fdsur.com^
 ||fdtikenfxgkie.com^
@@ -33650,9 +33654,11 @@
 ||hdpornvideo.xxx/nbb/serve
 ||hdpornvideo.xxx/static/js/abb.js
 ||hdpreview.com^
+||hdsaison-app.cc^
 ||hdsaison-app.vip^
 ||hdsaison-com.cc^
 ||hdsaison-hi.cc^
+||hdsaison-vip.cc^
 ||hdsaison-vn.cc^
 ||hdsaison-vn.com^
 ||hdsaisonvn.com^
@@ -40956,6 +40962,7 @@
 ||kgyhxdh.com^
 ||kgymhc.com^
 ||kgystvhlyqxnnhg.com^
+||kh-cn-uutien-3fv-vib.com^
 ||kh.suno.vn^
 ||khach-hang-ca-nhan-vip5.com^
 ||khaelzols.com^
@@ -40967,6 +40974,7 @@
 ||khbvxhwwqckmo.com^
 ||khcn-han-muc-tin-dung-ca-nhan.com^
 ||khcn-tindung-vp.com^
+||khcn-uu-tien-3fv-vib.com^
 ||khdry.top^
 ||khdsrrwdvbgd.com^
 ||khekwufgwbl.com^
@@ -46215,6 +46223,7 @@
 ||mbepa.xyz^
 ||mbewimcotjri.com^
 ||mbfhwag.xyz^
+||mbfic-plus.com^
 ||mbgbomrshrecpwj.xyz^
 ||mbgufryceqkoap.com^
 ||mbid.marfeelrev.com^
@@ -50860,6 +50869,7 @@
 ||nnncrox.com^
 ||nnnfqegwes.xyz^
 ||nnocsin.cn^
+||nnowa.com^
 ||nnoyigqsvjud.com^
 ||nnqwe.xyz^
 ||nnrbyty.xyz^
@@ -59551,6 +59561,7 @@
 ||quaymayman.com^
 ||quayngoc.com^
 ||quayolderinstance.com^
+||quaysomediamart2024.vip^
 ||quaythuonggamefreefire.com^
 ||quaythuonggarena.com^
 ||quaythuongmembership.com^
@@ -65901,6 +65912,7 @@
 ||skfjdf.xyz^
 ||skfqxkk.cn^
 ||skfudf763-dsfew95-90fjksj.xyz^
+||skhf11.com^
 ||skhqmobc.com^
 ||skiddyteapots.com^
 ||skidfqh.xyz^
@@ -68266,6 +68278,7 @@
 ||stc-support-app-brand.zdn.vn^
 ||stc.nas.nixcdn.com^
 ||stc.ninisite.com^
+||stcard-vib.com^
 ||stcollection.moneysupermarket.com^
 ||stcvhf.com^
 ||stdirection.com^
@@ -100393,9 +100406,9 @@ sexseeimage.com##.video-block-happy
 sextb.net##.asg-overlay
 sextb.net##.network-top span
 sextb.net##.network-top span ~ a[href]:not(.login-member)
-sextb.net##.sextb_300
 sextb.net#$#body .sextb_728 { display: block !important; }
 sextb.net#$#body .sextb_728:not([id]) { position: absolute !important; left: -9999px !important; }
+sextb.net,sextb.xyz##.sextb_300
 sextfun.com###top-navbar.wrap
 sextfun.com##a[href^="http://app.oksrv.com"]
 sextgem.com##div[id][style*="z-index: 999999999;"]
@@ -112966,6 +112979,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /pop_ad.
 /pop_adfy.
 /pop_ads.
+/pop_ads.js
 /pop_camgirlcity.
 /pop_packcpm.
 /pop_under.
@@ -112983,12 +112997,15 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /popunder-
 /popunder.
 /popunder.$popup
+/popunder.min.js
 /popunder/*
 /popunder/in/click/*$popup
 /popunder1.
+/popunder1.js
 /popunder1000.js$third-party,script
 /popunder1_
 /popunder2.
+/popunder2.js
 /popunder4.
 /popunder5.
 /popunder5.js
@@ -113016,6 +113033,8 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /popup2.js
 /popup3.js
 /popup_ad.
+/popup_ad.js
+/popup_ad.php
 /popup_code.
 /popup_code.php
 /popupad/*
@@ -113252,8 +113271,14 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /reklama1.
 /reklama1.js
 /reklama2.
+/reklama2.jpg
+/reklama2.png
 /reklama3.
+/reklama3.jpg
+/reklama3.png
 /reklama4.
+/reklama4.jpg
+/reklama4.png
 /reklama5.$domain=~reklama5.mk
 /reklame/*
 /related-ads.
@@ -113522,6 +113547,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /sidead.
 /sidead/*
 /sidead1.
+/sidead1.js
 /sidead2.
 /sidead3.
 /sidead300x250.
@@ -113532,6 +113558,8 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /sidebar-ad-
 /sidebar-ads/*
 /sidebar_ad.
+/sidebar_ad.jpg
+/sidebar_ad.png
 /sidebar_ad_
 /sidebar_ads/*
 /sidebarad/*
