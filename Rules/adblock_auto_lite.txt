@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: RCN491H17xkepn4A/Lps1Q
+! Checksum: ZnbiRYBIbJyvjJVuZ50wNw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240418002533
+! Version: 20240418091712
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-18 00:25:33
-! Total Count: 26182
+! Last modified: 2024-04-18 09:17:12
+! Total Count: 26189
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -11035,6 +11035,7 @@
 ||ovykq.online^
 ||owandlk.top^
 ||owap.su^$third-party
+||oweeiyw.icu^
 ||owihyg.xyz^
 ||owkmmo.xyz^
 ||owyame.xyz^
@@ -12006,6 +12007,7 @@
 ||qunlove.com^*.gif
 ||quqtone.cn^
 ||qusfybj.cn^
+||qusrow.xyz^
 ||quwwa.top^
 ||quxiangkeji.cn^$third-party
 ||quzmtpxw.xyz^
@@ -12101,6 +12103,7 @@
 ||rayss.host^
 ||razrzh.xyz^
 ||rbbbdj.xyz^
+||rbfxoex.xyz^
 ||rbhunp.xyz^
 ||rbodwtj.icu^
 ||rbrbr88p.cn^
@@ -13279,6 +13282,7 @@
 ||synthes.vo.llnwd.net^
 ||syseen.com/content/uploadfile/*/hongbao.png
 ||sysin.org/img/promotion-
+||syuwkbb.top^
 ||sz88.oss-cn-shenzhen.aliyuncs.com^
 ||szafvjdd.icu^
 ||szbhb.cn^
@@ -13835,6 +13839,7 @@
 ||tubous.fuckandcdn.com/tubous/tubousstatic/ads/mobile/
 ||tubxporn.com/js/xp.js
 ||tubxporn.xxx/js/xp.js
+||tudxhzj.cn^
 ||tuffhf.xyz^
 ||tuhipkz.xyz^
 ||tuhzjrr.cn^
@@ -14417,6 +14422,7 @@
 ||vk923.com/img/
 ||vkandian.cn/footjs/
 ||vkandian.cn/peitu/
+||vkdgdt.xyz^
 ||vkjqbb.xyz^
 ||vkjsnvk.com^
 ||vktztp.xyz^
@@ -16070,6 +16076,7 @@
 ||zx.docin.com^
 ||zxcrr.com^
 ||zxfas56.com^
+||zxfdbr.xyz^
 ||zxgko.cn^
 ||zxjrbz.xyz^
 ||zxpgfl.xyz^
