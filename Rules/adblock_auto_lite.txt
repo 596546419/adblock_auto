@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: SA4nOSUiNj+Dac78bVx7YA
+! Checksum: xw+/8S9KTkqo46WhWMhsiw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240418162425
+! Version: 20240419002435
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-18 16:24:25
-! Total Count: 26194
+! Last modified: 2024-04-19 00:24:35
+! Total Count: 26196
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4091,6 +4091,7 @@
 ||bdm.ye-su.cn^
 ||bdmjs.xywy.com^
 ||bdnvklavbklabl.com^
+||bdpretc.cn^
 ||bdrzxp.xyz^
 ||bdsahkln.xyz^
 ||bdstatic.com/??/tb/_/diamond_mall_frs_aside_*.js
@@ -14402,6 +14403,7 @@
 ||vip.panggugu.com^
 ||vip1.loli.net/2020/02/17/A9jmsY41EwiUzou.png$domain=ddrk.me
 ||vipdage.com/wp-content/uploads/ad/
+||vipgogo123.site^
 ||vipwm.cc^
 ||vipyearha.com/uploads/20*.gif
 ||virginiasibyl.com^
