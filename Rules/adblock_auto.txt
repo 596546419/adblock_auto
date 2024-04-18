@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ROLUl/c+4uyI+YPmQQginw
+! Checksum: z4lZSVRqj3t2IBLrO3fdYg
 ! Title: 混合规则(自动更新)
-! Version: 20240418091701
+! Version: 20240418162414
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-18 09:17:01
-! Total Count: 139756
+! Last modified: 2024-04-18 16:24:14
+! Total Count: 139768
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -13743,6 +13743,7 @@
 ||blzjjrwbwvjav.top^
 ||blzz.xyz^
 ||bm-rx.atatus.com^
+||bm.h576.com^
 ||bm1717.com^
 ||bm23.com^
 ||bm3536.com^
@@ -26756,6 +26757,7 @@
 ||exceedinglydiscovered.com^
 ||excelelernody.info^
 ||excelfriendsdistracting.com^
+||excelhome.net/js/banner-
 ||excellenceads.com^
 ||excellent-closet.pro^
 ||excellent-vids.online^
@@ -49768,6 +49770,7 @@
 ||natseegirde.net^
 ||nattepush.com^
 ||nattierariosi.space^
+||natuarycomping.com^
 ||naturalhealthsource.club^
 ||naturalistsbumpmystic.com^
 ||naturallyedaciousedacious.com^
@@ -69627,6 +69630,7 @@
 ||szene-traffic.com^
 ||szfcol.com/images/wxright240.jpg
 ||szfcol.com/js/siteAd.js
+||szftg.cn^
 ||szgaikk.com^
 ||szgpmy.com/js/
 ||szhcyxtszb.com^
@@ -81816,6 +81820,7 @@
 ||xiaosdg.top^
 ||xiaoshuoyun.cn^
 ||xiaosss.ren^
+||xiaoweixiaoshuo.com/ad/
 ||xiaoxiangmovie.com^
 ||xiaoxiaozhijia.shop^
 ||xiaoxiuapp.com^
@@ -85797,7 +85802,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 18-comic.work,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > span[style*="back"]
 18-comic.work,18comic.org,18comic.vip,18comic1.art,18comic2.art,bejson.com,breakingenergy.com,epicload.com,jmcomic.me,json.cn,movieclassic.net,pianyuan.org,qixingquan.com,shine.cn##.modal-backdrop
 18-comic.work,18comic.org,18comic.vip,18comic1.art,18comic2.art,jmcomic.me###guide-modal
-18-comic.work,18comic.org,18comic.vip,boylove1.mobi,jmcomic.me##.div_sticky2
+18-comic.work,18comic.org,18comic.vip,boylov.xyz,boylove.cc,boylove1.mobi,boyloves.fun,jmcomic.me##.div_sticky2
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > [style*="back"]
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > div[style^="display: block;"]
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img
@@ -86774,6 +86779,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 90bifen.com###live > table[cellspacing="0"][cellpadding="0"]
 90bifen.com##div[id^="ShowTopAds_"]
 90bifen.com##td[bgcolor="#FFFEE0"][height="22"]
+90min.com##figure:has(> div > #mm-player-placeholder-large-screen)
 90oo.com###right > div[style^="height:60px; width:750px;"]
 90oo.com##.mtswp_scbar_ad
 90oo.com##a[href^="http"]:not([href*=".90oo."]) > img[src*="/tp/"]
@@ -88925,6 +88931,7 @@ boylov.xyz,boylove.cc,boylove.mobi,boylove.today,boylove1.cc,boylove3.cc,boylove
 boylov.xyz,boylove.cc,boylove.mobi,boylove.today,boylove1.cc,boylove3.cc,boylove5.cc,boyloves.fun,khmertimeskh.com,vdianying.cc##.swiper-wrapper
 boylov.xyz,boylove.cc,boyloves.fun##.owl-carousel
 boylov.xyz,boylove.cc,boyloves.fun##div[data-type="1"]
+boylov.xyz,boylove.cc,boyloves.fun##style + div[style="cursor: pointer; position: relative;"]
 boylove.cc###floating_page
 boylove.cc###yteggbue
 boylove.cc##.dzxvovcm
@@ -92027,8 +92034,12 @@ fcw45.com##div[id^="layui-layer"]
 fdc.com.cn##.yifangbanner
 fedex.com###shop-runner-banner-link
 fedex.com##.atTile1
+feebee.com.tw###ad_bottom_module
+feebee.com.tw###ad_mid_module
+feebee.com.tw###ad_mid_module + #item_backfill
 feebee.com.tw###afsh_bsearch_list_top
 feebee.com.tw###bottom-ad-after-search-result
+feebee.com.tw###fsa-srp-top-container
 feebee.com.tw##div[id^="afsh_"]
 feed.baidu.com##a[data-type="ec_ad"]
 feedicons.com###footerboard
@@ -92481,6 +92492,7 @@ freesexpornhd.com##div[class$="-promo-col"]
 freesexpornhd.com##div[class^="page-conteiner"] > div.e-block
 freesexpornhd.com##div[class^="page-conteiner"] > div[class^="content-title-"]
 freesexyindians.com##.grid-sidebar-extra
+freespoke.com##.home-page-message
 freestore.app##.adbn2-wrap2
 freesvg.org##.sponsored-main-detail
 freewebarcade.com##.pnum

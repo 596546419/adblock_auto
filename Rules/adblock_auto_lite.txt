@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ZnbiRYBIbJyvjJVuZ50wNw
+! Checksum: SA4nOSUiNj+Dac78bVx7YA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240418091712
+! Version: 20240418162425
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-18 09:17:12
-! Total Count: 26189
+! Last modified: 2024-04-18 16:24:25
+! Total Count: 26194
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4311,6 +4311,7 @@
 ||blxfqq.com^
 ||blz105.com/player/ad.html
 ||blzbjpg.xyz^
+||bm.h576.com^
 ||bmatgg18.xyz^
 ||bmiea.xyz^
 ||bmjs.xzw.com^
@@ -6389,6 +6390,7 @@
 ||ewrwf.com^
 ||ewzavfde.xyz^
 ||ex8.lostporntube.com^
+||excelhome.net/js/banner-
 ||excfig.xyz^
 ||exclusiveindianporn.com/f_exclusiveindianporn.com.js
 ||excnn.com/templates/anime/sexybookmark/js/popup.js
@@ -6905,6 +6907,7 @@
 ||gcbflvx.cn^
 ||gcbtgh26.xyz^
 ||gccnntq.cn^
+||gcomwx.icu^
 ||gcqciiqk.com^
 ||gcssem.xyz^
 ||gcumgu.xyz^
@@ -13292,6 +13295,7 @@
 ||szbzp.cn^
 ||szfcol.com/images/wxright240.jpg
 ||szfcol.com/js/siteAd.js
+||szftg.cn^
 ||szgpmy.com/js/
 ||szhgmd.com^
 ||szhongzi.com/js/
@@ -15050,6 +15054,7 @@
 ||xiaosaguniang.xyz^
 ||xiaoshuoyun.cn^
 ||xiaosss.ren^
+||xiaoweixiaoshuo.com/ad/
 ||xiaoxiuapp.com^
 ||xiaoy.name^
 ||xiaoyunong13.top^
