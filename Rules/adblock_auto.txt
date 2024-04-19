@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 7ERs5a0qOS6zPSm0JBeF2Q
+! Checksum: g9pW8vXXKHF7kWczWGToqw
 ! Title: 混合规则(自动更新)
-! Version: 20240419002424
+! Version: 20240419091816
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-19 00:24:24
-! Total Count: 139804
+! Last modified: 2024-04-19 09:18:16
+! Total Count: 139827
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4270,6 +4270,7 @@
 ||acecapprecarious.com^
 ||acecounter.com^
 ||acedhpcgakx.com^
+||acedirect.net^
 ||acediscover.com^
 ||acedtousles.com^
 ||aceik.xyz^
@@ -6531,6 +6532,7 @@
 ||adx.xemvtv.net^
 ||adx.xtv.vn^
 ||adx1.com^
+||adx1js.s3.amazonaws.com^
 ||adxadserv.com^
 ||adxadserv.com^$third-party
 ||adxadtracker.com^
@@ -9069,6 +9071,7 @@
 ||antlerpickedassumed.com^
 ||antlerrecordingcat.com^
 ||antlionwaldorf.com^
+||antoiew.com^
 ||antonysurface.com^
 ||antonywingraceless.com^
 ||antpedia.com/antad/
@@ -22877,6 +22880,7 @@
 ||djmss.cn^$document
 ||djmss.cn^$~third-party
 ||djmwwdrznntss.com^
+||djmwxpsijxxo.xyz^
 ||djphnuhkbjf.com^
 ||djponj.xyz^
 ||djqacscl.com^
@@ -23888,6 +23892,7 @@
 ||dti-ranker.com^
 ||dtiserv2.com^
 ||dtjhtp.xyz^
+||dtjpihv.xyz^
 ||dtkhbsictxpu.com^
 ||dtmpub.com^
 ||dtmvpkn.com^
@@ -27235,6 +27240,7 @@
 ||facebook.c0m.ltd^
 ||facebook.com/*/instream/vast.xml?*&pageurl=http*.4gtv.tv$script,xmlhttprequest,other,redirect=noopvast-2.0
 ||facebook.com/v2.6/plugins/video.$domain=storm.mg
+||facebook4288062.blogspot.com^
 ||facebook92288.blogspot.com^
 ||facebookinbox-omni-onapp.haravan.com^
 ||facebookk.life^
@@ -28868,6 +28874,7 @@
 ||foodowingweapon.com^
 ||foogpdywvrswrxl.com^
 ||fooid.xyz^
+||foojeshoops.xyz^
 ||foojimie.net^
 ||fool.ink^
 ||foolerybonded.com^
@@ -30715,6 +30722,7 @@
 ||get.cryptobrowser.site^
 ||get.davincisgold.com^
 ||get.paradise8.com^
+||get.stoplocker.com^
 ||get.thisisvegas.com^
 ||get2.fun^
 ||get35.com^
@@ -33308,6 +33316,7 @@
 ||haodewl.cn^
 ||haodong.site^
 ||haoduofangs.com^$third-party
+||haoelo.com^
 ||haofs.com/haofs/ggapi.asp
 ||haohaopao.top^
 ||haohud.cc^
@@ -33717,6 +33726,7 @@
 ||hdwvhgnisi.com^
 ||hdxjtl.xyz^
 ||hdypw.com^
+||hdzonline.pro^
 ||he2d.com^
 ||he3mero6calli4s.com^
 ||he7ll.com^
@@ -34855,6 +34865,7 @@
 ||hoodypledget.top^
 ||hooe.top^
 ||hoofexcessively.com^
+||hoofsduke.com^
 ||hoogajee.net^
 ||hooglidi.net^
 ||hoojique.xyz^
@@ -35129,6 +35140,7 @@
 ||howoverlapsuspicious.com^
 ||howploymope.com^
 ||howtubray.com^
+||hoxha.nieuwspaal.network^
 ||hoyxuuk.cn^
 ||hozatr.xyz^
 ||hozoaxan.com^
@@ -35614,6 +35626,7 @@
 ||hutajkerfvbman.com^
 ||hutanz.xyz^
 ||hutremindbond.com^
+||huuocxu.icu^
 ||huvohjvpaog.com^
 ||huwkiycoup.com^
 ||huwuftie.com^
@@ -40971,6 +40984,7 @@
 ||kgagck6.com^
 ||kgcyvd.com^
 ||kgdvs9ov3l2aasw4nuts.com^
+||kgdyoh.icu^
 ||kgeesh.site^
 ||kgelugaz.com^
 ||kgeshe.site^
@@ -40987,6 +41001,7 @@
 ||kgnpwdf.cn^$third-party
 ||kgouzrranqt.com^
 ||kgq.ink^
+||kgqcse.xyz^
 ||kgqipyttin.com^
 ||kgroundandinte.net^
 ||kgsehayyvhk.com^
@@ -51370,6 +51385,7 @@
 ||nskwqto.com^
 ||nslokxweviwqbg.com^
 ||nsmartad.com^
+||nsmpydfe.net^
 ||nsnignsc.xyz^
 ||nsnoownmc.fun^
 ||nsoimtgmnnbvi.com^
@@ -59937,6 +59953,7 @@
 ||qzynbzjrkarma.top^
 ||r-ad.linkshare.jp^
 ||r-ad.ne.jp^
+||r-q-e.com^
 ||r-tb.com^
 ||r.99waiyu.com^
 ||r.aachener-zeitung.de^
@@ -90845,6 +90862,7 @@ deviantart.com##._15LLi
 deviantart.com##._3bkGl
 deviantart.com##._3jfHP
 deviantart.com##.ytXUX
+deviantart.com##[style="width: 308px; height: 316px;"]
 dexdotexe.com##iframe[title="Top Games"]
 dexerto.com##.inline-block
 dexerto.com##div[id^="dex-ad-"]
@@ -97040,6 +97058,7 @@ minwt.com##.g-336-280
 miobt.com##.gg_canvas
 miobt.com##.gg_canvas-hidden
 miohentai.com##.new-ntv
+mir.az##.bannerreklam
 miragenews.com##.attachment-wt450_250
 miragenews.com##.hide-in-mob
 miragenews.com##.rem-i-s
@@ -97119,6 +97138,8 @@ modelsxxxtube.com,pornexpanse.com,pornxxxplace.com,tubesex.me,tubevintageporn.co
 modernghana.com##.quikr_banner
 modivo.at,modivo.bg,modivo.cz,modivo.de,modivo.ee,modivo.fr,modivo.gr,modivo.hr,modivo.hu,modivo.it,modivo.lt,modivo.lv,modivo.pl,modivo.ro,modivo.si,modivo.sk,modivo.ua##.display-container
 modivo.at,modivo.bg,modivo.cz,modivo.de,modivo.ee,modivo.fr,modivo.gr,modivo.hr,modivo.hu,modivo.it,modivo.lt,modivo.lv,modivo.pl,modivo.ro,modivo.si,modivo.sk,modivo.ua##.promoted-slider-wrapper
+modivo.it,modivo.pl,modivo.ro,modivo.cz,modivo.hu,modivo.bg,modivo.gr,modivo.de#?#.banner:-abp-contains(/Sponsorizzato|Sponsorowane|Sponsorizat|Sponzorováno|Szponzorált|Спонсорирани|Sponsored|Gesponsert/)
+modivo.it,modivo.pl,modivo.ro,modivo.cz,modivo.hu,modivo.bg,modivo.gr,modivo.de#?#.product:-abp-contains(/Sponsorizzato|Sponsorowane|Sponsorizat|Sponzorováno|Szponzorált|Спонсорирани|Sponsored|Gesponsert/)
 modrinth.com##.GBBNWLJVGRHFLYVGSZKSSKNTHFYXHMBD
 modrinth.com##[href^="http://bisecthosting.com/"]
 modrinth.com##[type="banner"]
@@ -99466,6 +99487,8 @@ probuilds.net##a[class^="dl-blitz-"]
 procrackerz.org,torrentdownload.info,freeappstorepc.com,masseurporn.com,rennlist.com,f4freesoftware.com,sadeempc.com,workingkeys.org##center > a[rel="nofollow"] > img
 procyclingstats.com##.top-cont
 producebluebook.com##[id^="BBS"]
+producthunt.com##.styles_item__hNPI1
+producthunt.com#?#.text-12:-abp-contains(Promoted)
 productreview.com.au##div[style="line-height:0"]
 proewildfire.cn##.comiis_nav ~ a
 professorweb.ru###submain > div[class^="a"][style]
