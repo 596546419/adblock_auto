@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: busZplT3DbKbVK/ve0MwYA
+! Checksum: 59Lq1uado976DCmafJlPCQ
 ! Title: 混合规则(自动更新)
-! Version: 20240419162326
+! Version: 20240420002546
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-19 16:23:27
-! Total Count: 139850
+! Last modified: 2024-04-20 00:25:46
+! Total Count: 139863
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4490,6 +4490,7 @@
 ||ad-drop.jp^
 ||ad-ettoday.cdn.hinet.net^
 ||ad-fam.com^
+||ad-files.classting.com^
 ||ad-flow.com^
 ||ad-generation.jp^
 ||ad-guardian.com^
@@ -8023,6 +8024,7 @@
 ||alxhiccwizce.com^
 ||alxmmoodltpa.com^
 ||alxsite.com^
+||aly.la^
 ||alypw.com/zb_users/plugin/ZF_tanchuang/
 ||alysson.de^
 ||alzexa.com^
@@ -15180,6 +15182,7 @@
 ||bwcdn.xyz^
 ||bwceohkom.xyz^
 ||bwdiy.cn^
+||bweriov.top^
 ||bwgmymp.com^
 ||bwinpartypartners.com^
 ||bwlcpr.xyz^
@@ -35321,6 +35324,7 @@
 ||hsumeaevly.com^
 ||hsusd.com^
 ||hsutav.icu^
+||hsvchnsvncvvd.com^
 ||hsy0616.love^
 ||hsyaoyutmz.com^
 ||hsybe0m5.site^
@@ -44187,6 +44191,7 @@
 ||log.bizlive.vn^
 ||log.bloodsugars.live^
 ||log.bunjang.co.kr^
+||log.classting.com^
 ||log.cloud.sbs.co.kr^
 ||log.codemarketing.cloud^
 ||log.collectaction.com^
@@ -67372,6 +67377,7 @@
 ||spklmis.com^
 ||spl.ztvx8.com^
 ||spl.ztvx8.com^$third-party
+||splash-ad.classting.com^
 ||splash.appsgeyser.com^
 ||splashfloating.com^
 ||splashforgodm.com^
@@ -69815,6 +69821,7 @@
 ||t.felmat.net^
 ||t.flix360.com^
 ||t.fml.rip^
+||t.gatorleads.co.uk^
 ||t.ghostboard.io^
 ||t.hypers.com.cn^
 ||t.imgur.com^
@@ -88610,11 +88617,11 @@ bilibili.com##.ad-report, .ad-floor
 bilibili.com##.adblock-tips
 bilibili.com##.banner-card
 bilibili.com##.bili-dyn-ads
+bilibili.com##.bili-video-card > div[class^="extension-tips"]
 bilibili.com##.bili-video-card:has(.bili-video-card__info--ad) > .bili-video-card__wrap
-bilibili.com##.bili-video-card:has(.bili-video-card__info--ad) > div[class^="extension-tips"]
 bilibili.com##.bili-video-card:has(.bili-video-card__info--creative-ad) > .bili-video-card__wrap
 bilibili.com##.bili-video-card__wrap > a[href^="http"]:not([href*=".bilibili.com/"])
-bilibili.com##.carousel-container > .carousel-transform > div[class^="carousel-slide"]:has(> a[href*="cm.bilibili.com"][data-target-url]:not([data-target-url*=".bilibili.com/"])) > div[class^="extension-tips"]
+bilibili.com##.carousel-container > .carousel-transform > div[class^="carousel-slide"] > div[class^="extension-tips"]
 bilibili.com##.desktop-download-tip
 bilibili.com##.eva-banner
 bilibili.com##.float-btn
@@ -92406,7 +92413,7 @@ fool.com##.show-ad-label
 football-tribe.com##div[id^="da-article-"]
 football365.com,planetf1.com,planetrugby.com##.ps-block-a
 footballtransfers.com##div[style*="min-height: 250px;"]
-footballtransfertavern.com,gpfans.com###snack_ldb
+footballtransfertavern.com,forums.bluemoon-mcfc.co.uk,gpfans.com###snack_ldb
 footybite.cc##div[style^="border: 2px solid "]
 footztube.com##[href^="/tp/out"]
 forbes.com###article-stream-1
@@ -92466,6 +92473,9 @@ forumdz.com##body .breadcrumb + center > [color="red"] > b
 forums.anandtech.com,forums.androidcentral.com,forums.pcgamer.com,forums.space.com,forums.tomsguide.com,forums.tomshardware.com,forums.whathifi.com###rightcol_top
 forums.anandtech.com,forums.androidcentral.com,forums.pcgamer.com,forums.space.com,forums.tomsguide.com,forums.tomshardware.com,forums.whathifi.com,redflagdeals.com###header_leaderboard
 forums.anandtech.com,forums.pcgamer.com,forums.tomsguide.com,forums.tomshardware.com###footer_leaderboard
+forums.bluemoon-mcfc.co.uk###snack_dmpu
+forums.bluemoon-mcfc.co.uk###snack_mpu
+forums.bluemoon-mcfc.co.uk###snack_sky
 forums.minecraftforge.net,nextdoor.com,uploadvr.com##.promo-container
 forums.pcsx2.net##div[onclick^="MyAdvertisements."]
 forums.socialmediagirls.com##.uix_nodeList > div[class="block"]:has([href^="/link-forums/"])
@@ -102391,6 +102401,7 @@ tmioe.com##.ad_single_0
 tmioe.com##.adtag + .entry-copyright
 tmioe.com##.entry-copyright
 tmioe.com##a[target="_blank"] > img[src*=".sinaimg.cn"]
+tmo.report###directad
 tmsf.com###property_listf
 tmtpost.com##.open-app
 tnaflix.com###ads-under-video_
@@ -114306,6 +114317,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /txt_adv.
 /txtad.
 /txtads/*
+/ty684.oss-
 /u-ads.
 /u/_sponsor/*
 /u/ads/*
@@ -135517,6 +135529,7 @@ zle.com$script
 ##a[href*=".apple1818.net"]
 ##a[href*=".asada-kairyo.com/"]
 ##a[href*=".asd245796.com:"]
+##a[href*=".asd252466.com:"]
 ##a[href*=".ax10a.com/"]
 ##a[href*=".ayx300.com/"]
 ##a[href*=".bd379.vip"]

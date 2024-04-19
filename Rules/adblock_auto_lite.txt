@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: SRdHuES5KKx86fxbtDFooQ
+! Checksum: xsj+8fz+0XPoxtPXcLTD0w
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240419162337
+! Version: 20240420002557
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-19 16:23:37
-! Total Count: 26196
+! Last modified: 2024-04-20 00:25:57
+! Total Count: 26207
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1573,6 +1573,7 @@
 ||ad-creatives-public.commondatastorage.googleapis.com^
 ||ad-delivery.net^
 ||ad-ettoday.cdn.hinet.net^
+||ad-files.classting.com^
 ||ad-flow.com^
 ||ad-free.info^$popup
 ||ad-guardian.com^
@@ -3399,6 +3400,7 @@
 ||alu.cn/alutg/
 ||alwaysc.com^
 ||alxanosoft.com/rk/$redirect=noop.txt,image,media,subdocument,stylesheet,script,xmlhttprequest,other
+||aly.la^
 ||alypw.com/zb_users/plugin/ZF_tanchuang/
 ||am.szhome.com^
 ||am15.net^
@@ -4532,6 +4534,7 @@
 ||bw5388.vip^
 ||bw66.cn/template/default_pc/bbs/
 ||bwandlv.top^
+||bweriov.top^
 ||bwlcpr.xyz^
 ||bwwlw.cn^
 ||bxackzj.icu^
@@ -5959,6 +5962,7 @@
 ||dstbunkfw.xyz^
 ||dswcrlf.cn^
 ||dtjhtp.xyz^
+||dtjpihv.xyz^
 ||dtnhjzl.xyz^
 ||dtscout.com^
 ||du1.bbdj.com^
@@ -7801,6 +7805,7 @@
 ||hstbrt.xyz^
 ||hstjjg.com/show/$script
 ||hsutav.icu^
+||hsvchnsvncvvd.com^
 ||hsyipos.com/template/mxone/html_tplmx/vod/*.gif
 ||hthivr.xyz^
 ||htienlu.top^
@@ -7863,6 +7868,7 @@
 ||hupu.com^*/stream.js
 ||hur.cn/AhurD/*.gif
 ||huryds.top^
+||huuocxu.icu^
 ||huxifena.cn^
 ||huxsvl.xyz^
 ||huya.com*/cache1min.
@@ -9053,12 +9059,14 @@
 ||kfvjdvjzhddhc.com^
 ||kgacp.cyou^
 ||kgcyvd.com^
+||kgdyoh.icu^
 ||kgeesh.site^
 ||kgelugaz.com^
 ||kgeshe.site^
 ||kggikf.icu^
 ||kghgmn.top^
 ||kgnpwdf.cn^$third-party
+||kgqcse.xyz^
 ||khrtac.xiangha.com^
 ||khzyojb.cn^
 ||kiees.cn/img/
@@ -11717,6 +11725,7 @@
 ||pw.xenthoril.com^$third-party
 ||pw321.com/bulu/
 ||pw321.com^*.gif
+||pwbuhb.xyz^
 ||pwc.qktmwiq.cn^
 ||pwddhc.xyz^
 ||pwhkfd.xyz^
@@ -13045,6 +13054,7 @@
 ||speedup.cyou^$third-party
 ||speee-ad.akamaized.net^
 ||spl.ztvx8.com^$third-party
+||splash-ad.classting.com^
 ||splash.appsgeyser.com^
 ||splfnok.cn^
 ||splicky.com^
@@ -24092,6 +24102,7 @@ zle.com$script
 ##a[href*=".app003.biz"]
 ##a[href*=".app003.cc"]
 ##a[href*=".asd245796.com:"]
+##a[href*=".asd252466.com:"]
 ##a[href*=".bd379.vip"]
 ##a[href*=".bet365.gdn"]
 ##a[href*=".biquge"][href*="app"]
