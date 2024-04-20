@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: xsj+8fz+0XPoxtPXcLTD0w
+! Checksum: adW8f64MGajzk6rzcjz/qA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240420002557
+! Version: 20240420091732
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-20 00:25:57
-! Total Count: 26207
+! Last modified: 2024-04-20 09:17:32
+! Total Count: 26214
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3460,6 +3460,7 @@
 ||anjneia.xyz^
 ||anjuke.com^*/ajax/business_area_search/
 ||ankangwang.com/js/info.js
+||ankczwr.icu^
 ||anoneko.com^*.*?$image
 ||anqu.com/b.js
 ||antdv.com/kaikeb
@@ -5344,6 +5345,7 @@
 ||cul.xunjiu.online^
 ||cupfox.app^$third-party
 ||cupid.iqiyi.com/mixer?
+||cupid.iqiyi.com/show2?
 ||curvycry.com^$third-party
 ||cutechin.com^$third-party
 ||cuvtnzv.cn^
@@ -7782,6 +7784,7 @@
 ||hqsexpro.com^
 ||hqzcths.cn^
 ||hrbpopp.cn^
+||hrjctx.xyz^
 ||hrjg.com.cn^$third-party
 ||hrngmf.com^
 ||hrnkdr.xyz^
@@ -10992,6 +10995,7 @@
 ||oq6ry.com^
 ||oq8.top^
 ||oqedci.xyz^$third-party
+||oqnkur.icu^
 ||oqpgq.top^
 ||oqvucp.icu^
 ||oqxep.cn^
@@ -11188,6 +11192,7 @@
 ||pdhjnz.xyz^
 ||pdjjrh.xyz^
 ||pdngnx.xyz^
+||pdnhcks.xyz^
 ||pdweigee.com^
 ||pdweoyw.cn^
 ||pdxdxl.xyz^
@@ -12403,7 +12408,6 @@
 ||s.*.com/pp.php?uid=$third-party
 ||s.69vj.com/assets/DIY.$image,media
 ||s.adx.opera.com^
-||s.famitsu.com/ad/movie_overlay_ad.js
 ||s.freeporncave.com^
 ||s.go.sohu.com^*/?callback=
 ||s.hisp.in^
@@ -14851,6 +14855,7 @@
 ||wsdwbfs.cn^
 ||wshufa.com^$third-party
 ||wslbahe.top^
+||wsoqwm.xyz^
 ||wsoxwa.xyz^
 ||wstx.com/api.php?mod=ad&
 ||wsyfsg.xyz^
@@ -14882,6 +14887,7 @@
 ||wvceki.xyz^
 ||wvtem.com^
 ||wvwl.cn^
+||wvwqywz.cn^
 ||wvyqks.xyz^
 ||ww7814.win/pic
 ||ww9874.com/asset/playerInit.js
@@ -14929,6 +14935,7 @@
 ||wyohm.xyz^
 ||wyq3rum.icu^
 ||wyqaafplm.live^
+||wyuwkbe.top^
 ||wyynike.cn^
 ||wyzq.rehuwang.com^
 ||wz3rvc.cn/*.html$document
