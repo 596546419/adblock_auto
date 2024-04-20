@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Se3Yqrvtbf8ti5oNdJwQvg
+! Checksum: 5tUY7btF3rzX/EE5Mxz3Xw
 ! Title: 混合规则(自动更新)
-! Version: 20240420162209
+! Version: 20240421002249
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-20 16:22:09
-! Total Count: 139943
+! Last modified: 2024-04-21 00:22:49
+! Total Count: 139952
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1023,6 +1023,7 @@
 ||1x5jlh.xyz^
 ||1x5jlh.xyz^$popup
 ||1x6666.com/img/
+||1xl.adopstar.uk^
 ||1xlite-208883.top^
 ||1xlite-503779.top^
 ||1xlite-510677.top^
@@ -1918,6 +1919,7 @@
 ||480image.com^
 ||480img.com^
 ||484r.com/images/flash/gallery_
+||48a16802.site^
 ||48cf8d95a3.com^
 ||48da4009ba.com^
 ||48dreams.com/player/adstype/advmaker.php
@@ -16368,7 +16370,6 @@
 ||cdn.sinam.top^
 ||cdn.smartclick.io^
 ||cdn.sophi.io^
-||cdn.sov.stream^
 ||cdn.sportlabs.online^
 ||cdn.sports-streams-online.club^
 ||cdn.sprida.se^
@@ -36479,6 +36480,7 @@
 ||ihttscqovzzb.com^
 ||ihvwak.cn^
 ||ihwdun.xyz^
+||ihwlek.com^
 ||ihzuephjxb.com^
 ||ii1.chajiaotong.com^
 ||ii3qy2.su^
@@ -38855,6 +38857,7 @@
 ||jawlookingchapter.com^
 ||jawsspecific.com^
 ||jaxxenpro.com^
+||jaychu.top^
 ||jayhou.top^
 ||jazftz.xyz^
 ||jazze.hk^
@@ -50264,6 +50267,7 @@
 ||netzwerk-ad.de^
 ||neudesicmediagroup.com^
 ||neumasham.space^
+||neural.myth.dev^
 ||neuralstemcell.com.cn/img/js.js
 ||neurinacyesis.com^
 ||neurotrack.neurolake.io^
@@ -67075,6 +67079,7 @@
 ||souvenirsflex.com^
 ||souvlatraffic.com^
 ||souyou.org^
+||sov.stream^
 ||sovereigngoesintended.com^
 ||sovereignidentificationconfirmed.com^
 ||sovism.com^
@@ -87989,6 +87994,7 @@ auto.qq.com###tips
 auto.sina.com.cn###bottomInquryBar
 auto62rus.ru,eset-key.ru,mycrib.ru,piggy-bank.online,politonline.ru,showmehow.ru##[data-type="anti-abp"]
 autoaction.com.au,snokido.com##.square
+autoblog.com##.btf-native
 autoblog.com##.gemini-native
 autocar.co.uk##.block-autocar-ads-lazyloaded-mpu2
 autocar.co.uk##.block-autocar-ads-mpu-flexible1
@@ -88604,7 +88610,7 @@ bestgirlsexy.com,nhentai.to,masahub.net##+js(abort-on-property-write, handleExce
 besthindisexstories.com###widgets-wrap-sidebar-right > #enhancedtextwidget-3
 besthindisexstories.com###widgets-wrap-sidebar-right > #enhancedtextwidget-5
 bestjavporn.com###player-container[style^="width: 300px; height: 100px;"]
-bestjavporn.com##.related-native-banner
+bestjavporn.com,javhdporn.net##.related-native-banner
 bestjavporn.com,javxxx.me,javhdporn.net###player_3x2_container_inner
 bestlifeonline.com,eatthis.com##.inline
 bestlifeonline.com,eatthis.com,hellogiggles.com##.vi-video-wrapper
@@ -89757,7 +89763,7 @@ chordify.net##.a1p2y5ib
 chortle.co.uk,coloring.ws,dltk-holidays.com,dltk-kids.com,kidzone.ws,pcsteps.com,primeraescuela.com###adBanner
 chorus.fm##.f-soc
 chosun.com##.box--bg-grey-20
-chowhound.com,glam.com,moneydigest.com,outdoorguide.com,svg.com##.before-ad
+chowhound.com,glam.com,moneydigest.com,outdoorguide.com,svg.com,wrestlinginc.com##.before-ad
 christianpost.com##.acw
 christianpost.com##.article-divider
 christianpost.com##.home-videoplayer
@@ -92504,6 +92510,7 @@ forbes.com##.top-ed-placeholder
 forbes.com##.vestpocket
 forbes.com##[data-testid="locked-top-ad-container"]
 forbes.com,nasdaq.com##.video-placeholder
+forbes.com.au##.bz-viewability-container
 forced-tube.net,hqasianporn.org##.coverup
 forebet.com##.rbannerDiv
 foreca.com##.a1sjxe3a
@@ -92672,6 +92679,7 @@ fsclzs.com###qvod
 fsdpp.cn##.sidebox > a > img
 fstoppers.com##.supportImg
 fsylr.com##.plus_r
+ft.com##pg-slot
 ft.com,ftchinese.com##.bn-ph
 fttxt.com###txtbox a[target="_blank"]
 fttxt.com##a[href*="type"]
@@ -95381,8 +95389,8 @@ javdove.com,javdove2.club,porn5f.com##.preroll-adv-popup-overlay
 javfor.tv###smac12403o0
 javfor.tv##.banner-c
 javfor.tv##.banner-top-b
-javfor.tv##.my-2.container
 javfor.tv##.text-md-center
+javfor.tv,javhub.net##.my-2.container
 javgg.net###adlink
 javgg.net##.home_iframead
 javgg.net##.home_iframead > a[target="_blank"] > img
@@ -131393,6 +131401,7 @@ zle.com$script
 ##.ht_outbrain
 ##.htl-ad
 ##.htl-ad-placeholder
+##.htl-inarticle-container
 ##.html-advertisement
 ##.html5-ad-progress-list
 ##.hw-ad--frTop
