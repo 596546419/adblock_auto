@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: adW8f64MGajzk6rzcjz/qA
+! Checksum: nB1IEH9lQA3qT6PReyBYPw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240420091732
+! Version: 20240420162220
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-20 09:17:32
-! Total Count: 26214
+! Last modified: 2024-04-20 16:22:20
+! Total Count: 26216
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1125,6 +1125,8 @@
 ||88lm07.com^
 ||88lm08.com^
 ||88lm09.com^
+||88lm10.com^
+||88lm11.com^
 ||88p2p.com^$popup
 ||88ys.cc/js/abcd.js
 ||8961.jianbihua.com^
@@ -10558,7 +10560,6 @@
 ||namesexual.com^
 ||namethatporn.com/assets/dev_popscript.js^
 ||nan-net.com/*/bbs/s/inc/$subdocument
-||nan-net.com/show/bbs/inc/pc_side_adv/
 ||nanaimostarkle.com^
 ||naned.xyz^
 ||nanfengyl.com/static/js/zdad.js
@@ -13310,6 +13311,7 @@
 ||szbzp.cn^
 ||szfcol.com/images/wxright240.jpg
 ||szfcol.com/js/siteAd.js
+||szfmr.cn^
 ||szftg.cn^
 ||szgpmy.com/js/
 ||szhgmd.com^

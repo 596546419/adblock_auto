@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: vKBX9dzg52DFerCWdQB5yg
+! Checksum: Se3Yqrvtbf8ti5oNdJwQvg
 ! Title: 混合规则(自动更新)
-! Version: 20240420091721
+! Version: 20240420162209
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-20 09:17:21
-! Total Count: 139933
+! Last modified: 2024-04-20 16:22:09
+! Total Count: 139943
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3126,6 +3126,8 @@
 ||88lm07.com^
 ||88lm08.com^
 ||88lm09.com^
+||88lm10.com^
+||88lm11.com^
 ||88lotte.com^
 ||88p2p.com^
 ||88p2p.com^$popup
@@ -49554,7 +49556,6 @@
 ||namol.xyz^
 ||namystal.com^
 ||nan-net.com/*/bbs/s/inc/$subdocument
-||nan-net.com/show/bbs/inc/pc_side_adv/
 ||nan0cns.com^
 ||nan46ysangt28eec.com^
 ||nanaimostarkle.com^
@@ -69755,6 +69756,7 @@
 ||szene-traffic.com^
 ||szfcol.com/images/wxright240.jpg
 ||szfcol.com/js/siteAd.js
+||szfmr.cn^
 ||szftg.cn^
 ||szgaikk.com^
 ||szgpmy.com/js/
@@ -89754,6 +89756,7 @@ chordify.net###campaign_banner
 chordify.net##.a1p2y5ib
 chortle.co.uk,coloring.ws,dltk-holidays.com,dltk-kids.com,kidzone.ws,pcsteps.com,primeraescuela.com###adBanner
 chorus.fm##.f-soc
+chosun.com##.box--bg-grey-20
 chowhound.com,glam.com,moneydigest.com,outdoorguide.com,svg.com##.before-ad
 christianpost.com##.acw
 christianpost.com##.article-divider
@@ -91005,10 +91008,12 @@ dictionary.com,thesaurus.com##aside[id$="728x90"]
 dictionary.com,thesaurus.com##main div[class]:has(> [data-type="ad-vertical"])
 didispace.com##.widget-wrap > p[style="text-align: left;padding-bottom: 20px;line-height: 30px;"]
 dietsinreview.com##.r_content_300x250
+digg.com##.ads-aside-rectangle
 digg.com##article.fp-vertical-story:has(a[href="/channel/digg-pick"])
 digg.com##article.fp-vertical-story:has(a[href="/channel/promotion"])
 digg.com#?#article.relative:-abp-has(div:-abp-contains(SPONSORED))
 digg.com,iplogger.org,wallhere.com,wikitechy.com##div[id^="bsa-zone_"]
+digg.com,money.com##.ca-pcu-inline
 digit.in###cubewrapid
 digit.in##.center-add
 digitalartsonline.co.uk###topLeaderContainer
@@ -97271,7 +97276,6 @@ mondoweiss.net##.notrack
 money.163.com##.ad1200
 money.163.com#$#.finance_header { height: auto !important; }
 money.163.com#$#.finance_header_gg { display: none !important; }
-money.com##.ca-pcu-inline
 money.com##.ca-widget-inline
 money.com##[data-trk-company="rocket-mortgage-review"]
 money.yahoo.com,tw.news.yahoo.com,yahoo.com###sda-MON
@@ -103574,6 +103578,7 @@ weather.com.cn##A[href*=".tmall.com"]
 weather.com.cn##A[style="position:fixed;top:220px;left:50%;margin-left: -625px"]
 weather.com.cn##div[class^="adpos"]
 weather.com.cn##div[id^="adpos"]
+weather.us##[class^="dkpw"]
 weatherbug.com##display-ad-widget
 weatheronline.co.uk##.banner_oben
 weatherpro.com##.billboard-wrapper
@@ -130782,6 +130787,7 @@ zle.com$script
 ##.goog_ad
 ##.googads
 ##.google-2ad
+##.google-2ad-m
 ##.google-ad
 ##.google-ad-160-600
 ##.google-ad-468-60
@@ -135447,6 +135453,7 @@ zle.com$script
 ##[href^="https://turtlebids.irauctions.com/"] img
 ##[href^="https://v.investologic.co.uk/"]
 ##[href^="https://wct.link/"]
+##[href^="https://wct.link/click?"]
 ##[href^="https://www.avantlink.com/click.php"] img
 ##[href^="https://www.brighteonstore.com/products/"] img
 ##[href^="https://www.cloudways.com/en/?id"]
@@ -136245,7 +136252,9 @@ zle.com$script
 ##a[href^="https://adnetwrk.com/"]
 ##a[href^="https://ads.ad4game.com/"]
 ##a[href^="https://ads.betfair.com/redirect.aspx?"]
+##a[href^="https://ads.leovegas.com/"]
 ##a[href^="https://ads.leovegas.com/redirect.aspx?"]
+##a[href^="https://ads.planetwin365affiliate.com/"]
 ##a[href^="https://ads.planetwin365affiliate.com/redirect.aspx?"]
 ##a[href^="https://adserver.adreactor.com/"]
 ##a[href^="https://adsrv4k.com/"]
@@ -136288,6 +136297,7 @@ zle.com$script
 ##a[href^="https://cam4com.go2cloud.org/"]
 ##a[href^="https://camfapr.com/landing/click/"]
 ##a[href^="https://cams.imagetwist.com/in/?track="]
+##a[href^="https://chaturbate.com/in/?"]
 ##a[href^="https://chaturbate.com/in/?tour="]
 ##a[href^="https://chaturbate.com/in/?track="]
 ##a[href^="https://chaturbate.jjgirls.com/?track="]
