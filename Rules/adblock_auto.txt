@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: HhsjPN/udlBB2amSFZ3ARw
+! Checksum: lCeDhe9ADzXpxH7z8JW71g
 ! Title: 混合规则(自动更新)
-! Version: 20240421092320
+! Version: 20240421162207
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-21 09:23:20
-! Total Count: 139978
+! Last modified: 2024-04-21 16:22:07
+! Total Count: 139983
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -58570,6 +58570,7 @@
 ||pushsight.com^
 ||pushssp.top^
 ||pushtimize.com^
+||pushtoast-a.akamaihd.net^
 ||pushtora.com^
 ||pushtorm.net^
 ||pushtutuzla.top^
@@ -92847,7 +92848,7 @@ gadgetsnow.com##.mercwapper
 gadgetsnow.com##[data-type="mtf"]
 gadgetsnow.com##div[id^="div-u-id-"]
 gadgetsnow.com,iamgujarat.com,indiatimes.com,samayam.com,vijaykarnataka.com##.colombia
-gadgetsnow.com,jezebel.com,nationaljeweler.com,pastemagazine.com,theonion.com##.dfp
+gadgetsnow.com,jezebel.com,nationaljeweler.com,pastemagazine.com,splinter.com,theonion.com##.dfp
 galacg.me##.sidebar-top
 galacg.me##a[href*="/game"]
 gamblingnewsmagazine.com##img[width="365"]
@@ -101398,6 +101399,10 @@ spin.com##div[id*="-promo-mrec-"]
 spin.ph###mrec3
 spine-health.com###block-dfptagbottomanchorads1
 splaybow.com###divPrevious:last-child
+splinter.com##.htlad-above_logo
+splinter.com##.htlad-bottom_rectangle
+splinter.com##.htlad-middle_rectangle
+splinter.com##.htlad-top_rectangle
 spoonuniversity.com###leaderboard_fixed
 spoonyexperiment.com##.cont_adv
 sporcle.com###quiz-right-rail-unit-2
