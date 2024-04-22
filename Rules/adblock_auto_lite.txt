@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: AZzS3a9TaAlga4pJa4nzYA
+! Checksum: 6bJB/6AXlNt8XHTzcitT3A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240422002317
+! Version: 20240422092029
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-22 00:23:17
-! Total Count: 26226
+! Last modified: 2024-04-22 09:20:29
+! Total Count: 26234
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6398,6 +6398,7 @@
 ||ewfsef.com^
 ||ewioud.com^
 ||ewrwf.com^
+||ewxufqs.cn^
 ||ewzavfde.xyz^
 ||ex8.lostporntube.com^
 ||excelhome.net/js/banner-
@@ -10097,6 +10098,7 @@
 ||meng.360zuowen.com^
 ||mengte.top^
 ||mephimnhat.com/vast*.xml
+||meqanhm.icu^
 ||meritiny.top^
 ||merwds.qwuidbn.com^$third-party
 ||merywf.xyz^
@@ -11364,6 +11366,7 @@
 ||playtv.com.cn/Pictuer/
 ||plbs9k.icu^
 ||pleasantpump.com^$third-party
+||plnbnd.xyz^
 ||plnrkgc.xyz^
 ||plnshao.xyz^
 ||plof69.com^
@@ -12070,6 +12073,7 @@
 ||qyun.vip/pic/*.gif
 ||qyuwkby.top^
 ||qzalsk.xyz^
+||qziuwzn.cn^
 ||qznjujv.xyz^
 ||qzone.la/Scripts/m.js
 ||qzozsa.xyz^
@@ -12287,6 +12291,7 @@
 ||rndcdb.xyz^
 ||rnhqxh.com^
 ||rnkzhsi.cn^
+||rnpkxgfp.xyz^
 ||rntdqwc.xyz^
 ||rock.porn/ai/s/s/im.php?ss=
 ||rockradio.com^*/blockadblock-$script,domain=rockradio.com
@@ -13963,6 +13968,7 @@
 ||tyodot.icu^
 ||tyrsn6di.icu^
 ||tyuetxt.com^
+||tyuwkbi.top^
 ||tyzfoej.cn^
 ||tz-68-fabb.com/qiye/
 ||tzelzfnj.xyz^
@@ -14056,6 +14062,7 @@
 ||udeztrb.cn^
 ||udiab1.jianshu.com^
 ||udjdpyrt.xyz^
+||udkpcc.xyz^
 ||udn.com.tw/upf/*_banners/BD/
 ||udn.com.tw/upf/*_banners/BD/$third-party
 ||udn.com.tw/upf/2015_money/SSI/ad/
@@ -14783,6 +14790,7 @@
 ||wjtij.top^
 ||wjwod.cyou^
 ||wkrcbszi.xyz^
+||wkrhel.icu^
 ||wkybwa.xyz^
 ||wkywrc.cn^
 ||wkzrqq.com^
