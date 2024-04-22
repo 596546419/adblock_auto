@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 0gY0KuFoP74DU7G8JoULhw
+! Checksum: V0ya289e1drsooGQznXQnw
 ! Title: 混合规则(自动更新)
-! Version: 20240422092017
+! Version: 20240422162532
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-22 09:20:17
-! Total Count: 140189
+! Last modified: 2024-04-22 16:25:32
+! Total Count: 140210
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -16862,6 +16862,7 @@
 ||champedhyps.com^
 ||chamsockhachang.com^
 ||chamsockhachhangnanghanmuctindungmsb.com^
+||chamsocthekhachang-truc-tuyen.com^
 ||chamsocthekhachhang-thang4.com.vn^
 ||chanalytics.merchantadvantage.com^
 ||chancellorharrowbelieving.com^
@@ -27829,6 +27830,7 @@
 ||fdrgtt9edmej010.com^
 ||fdrxdr.xyz^
 ||fds-1230.cc^
+||fdsd11.com^
 ||fdsd22.com^
 ||fdsousf.cn^
 ||fdsur.com^
@@ -41165,6 +41167,7 @@
 ||kh-cn-uutien-3fv-vib.com^
 ||kh.suno.vn^
 ||khach-hang-ca-nhan-vip5.com^
+||khachhangvib-canhan.com^
 ||khaelzols.com^
 ||khandragthresh.com^
 ||khangdz215.tk^
@@ -46410,6 +46413,7 @@
 ||mayule.xyz^
 ||mayuting0821.ltd^
 ||mayxanhsg.com^
+||mayxanhsupport.com^
 ||mayyadc.cfd^
 ||mazamadryest.com^
 ||mazdeansteres.digital^
@@ -50642,6 +50646,7 @@
 ||nganhanganbinh.com^
 ||nganhangbidv.com^
 ||nganhangsaigon.org^
+||nganhangsaison.org^
 ||nganhangsaokevnn.com^
 ||nganhangshopeevn.com^
 ||nganhangsk.online^
@@ -50746,6 +50751,7 @@
 ||nhantiensieutoc.com^
 ||nhantienvipay.com^
 ||nhantienvivnpay.com^
+||nhanvientiki.info^
 ||nhanvimomo2021.weebly.com^
 ||nhanziohqat.com^
 ||nhapcode-lienquan-garena.net^
@@ -66247,6 +66253,7 @@
 ||skfqxkk.cn^
 ||skfudf763-dsfew95-90fjksj.xyz^
 ||skhf11.com^
+||skhf66.com^
 ||skhqmobc.com^
 ||skiddyteapots.com^
 ||skidfqh.xyz^
@@ -67392,6 +67399,7 @@
 ||sp2.baidu.com^
 ||sp3.baidu.com^
 ||sp315693vn.com^
+||sp77888.com^
 ||sp8668vn.com^
 ||sp9hb5jy81iw.ru^
 ||spa-tracker.spapi.io^
@@ -70797,6 +70805,7 @@
 ||tdjc.shop^
 ||tdjdpyrt.xyz^
 ||tdk.petsplace.nl^
+||tdkd00.com^
 ||tdkd01.com^
 ||tdkd02.com^
 ||tdkd03.com^
@@ -72861,6 +72870,7 @@
 ||tournamentfraydirection.com^
 ||tournamentsevenhung.com^
 ||touroumu.com^
+||toutanymm.asia^
 ||toutao.pro^
 ||toutedwaeness.guru^
 ||toutheesosu.com^
@@ -74766,6 +74776,7 @@
 ||tuyendungnhanhonline.xyz^
 ||tuyendungshopee.com^
 ||tuyendungstmlazada.com^
+||tuyendungtiki2024.vn^
 ||tuyensinhgionghatvietnhi01.weebly.com^
 ||tuyiyi.com/tuyiyi/m.js
 ||tuyqiolni.cyou^
@@ -77599,6 +77610,7 @@
 ||vib.tuvan-chamsockhachhang.com^
 ||vib8-vay.com^
 ||vib84.com^
+||vibbca-nhan.com^
 ||vibber.download^
 ||vibcskh.com^
 ||vibeaconstr.onezapp.com^
@@ -78502,6 +78514,7 @@
 ||vn66733shop.com^
 ||vn667755s.com^
 ||vn66954shp.com^
+||vn68822s.com^
 ||vn6932shp.com^
 ||vn765.com^
 ||vn78223p.com^
@@ -78514,6 +78527,7 @@
 ||vn88khuyenmai.store^
 ||vnadssb.com^
 ||vnah567.com^
+||vnambzuon36sc.vip^
 ||vnbgcquiihu.xyz^
 ||vnbitcoin.cc^
 ||vnbyclsboyoya.com^
@@ -93279,6 +93293,7 @@ geekflare.com##.b-sticky-sidebar-wrapper-simple
 geekflare.com##.geekflare-core-resources
 geekflare.com##.x-article-818cc9d4
 geeksforgeeks.org##.textBasedMannualAds_2
+geeksforgeeks.org##.three90RightBarBanner
 geeksforgeeks.org##[id^="bsa-zone"]
 geeksforgeeks.org##div[id^="GFG_AD_"]
 geeksforgeeks.org,vgleaks.com###text-15
@@ -93661,6 +93676,7 @@ gptoday.net###gptoday_ros_echo_leaderboard-billboard
 gptoday.net###gptoday_ros_echo_rectangle-halfpage
 gptoday.net##.top-banner-leaderboard
 gpucheck.com##.unitBox
+gq.com##.SavingsUnitedCouponsWrapper-gPnqA-d
 gq.com##.SavingsUnitedCouponsWrapper-humLIe
 grabcad.com##[ng-if="model.asense"]
 grammar.yourdictionary.com##.revenue-placeholder
@@ -95108,7 +95124,7 @@ infowars.com##.css-1upmbem
 infowars.com##.css-1vj1npn
 infoworld.com##.brVideoContainer
 inhabitat.com##.mn-wrapper
-inkbotdesign.com##img[decoding="async"]
+inkbotdesign.com,kuramanime.lol##img[decoding="async"]
 inmywordz.com,ants.tw##.acca-block
 inoreader.com###sinner_container
 inoreader.com##.sinner_inner
@@ -96273,6 +96289,7 @@ kpw6.com###daojs
 kpzpw.com##.header-pic
 kpzpw.com##.littlebanner
 kq7.com##.J_appFromLen
+kqed.org##.components-Ad-__Ad__ad
 krapps.com##a[href^="index.php?adclick="]
 krcrtv.com,ktxs.com,wcti12.com,wcyb.com##.pageHeaderRow1
 kreationnext.com##[href^="https://www.resiproxy.net"]
@@ -96395,6 +96412,7 @@ latestdeals.co.uk##.BrD5q
 latestly.com##.lhs_adv_970x90_div
 latimes.com,sandiegouniontribune.com##.revcontent
 law.com,topcultured.com##h3
+law360.com##[style="width:100%;display:flex;justify-content:center;background-color:rgb(247, 247, 247);flex-direction:column;"]
 lawandcrime.com,mediaite.com##.o-promo-unit
 lawandcrime.com,mediaite.com##.sidebar-hook
 lawandcrime.com,themarysue.com##.promo-unit
@@ -103632,6 +103650,8 @@ waerfa.com##section > div.content > p > a[href*="taobao.com/coupon/"] > img
 waerfa.com#?#.content-area > div#content > div > div.item:has(> a:not([href*="waerfa.com/"]) > img)
 wahcricket.com##.site-mainhead
 wahm.com##.rad-links
+waifu2x.net##[style="min-height: 270px; margin: 1em"]
+waifu2x.net##[style="width: 90%;height:120px"]
 waipian1.com,waipian2.com,waipian3.com,waipian4.com,waipian5.com,waipian6.com,waipian7.com,waipian8.com,waipian9.com,waipian10.com,waipian11.com,waipian12.com,waipian13.com,waipian14.com,waipian15.com,waipian16.com,waipian17.com,waipian18.com,waipian19.com,waipian20.com,waipian21.com,waipian22.com,waipian23.com,waipian24.com,waipian25.com,waipian.com##[href^="https://at.umtrack.com"]
 waipian1.com,waipian2.com,waipian3.com,waipian4.com,waipian5.com,waipian6.com,waipian7.com,waipian8.com,waipian9.com,waipian10.com,waipian11.com,waipian12.com,waipian13.com,waipian14.com,waipian15.com,waipian16.com,waipian17.com,waipian18.com,waipian19.com,waipian20.com,waipian21.com,waipian22.com,waipian23.com,waipian24.com,waipian25.com,waipian26.com,waipian27.com,waipian28.com,waipian29.com,waipian30.com,waipian31.com,waipian32.com,waipian33.com,waipian34.com,waipian35.com,waipian36.com,waipian37.com,waipian38.com,waipian39.com,waipian40.com#$#.player-rm > a[target="_blank"] { position: absolute !important; left: -3000px !important; }
 waipian1.com,waipian2.com,waipian3.com,waipian4.com,waipian5.com,waipian6.com,waipian7.com,waipian8.com,waipian9.com,waipian10.com,waipian11.com,waipian12.com,waipian13.com,waipian14.com,waipian15.com,waipian16.com,waipian17.com,waipian18.com,waipian19.com,waipian20.com,waipian21.com,waipian22.com,waipian23.com,waipian24.com,waipian25.com,waipian26.com,waipian27.com,waipian28.com,waipian29.com,waipian30.com,waipian31.com,waipian32.com,waipian33.com,waipian34.com,waipian35.com,waipian36.com,waipian37.com,waipian38.com,waipian39.com,waipian40.com#$#a[href*=".umtrack.com/"] { position: absolute !important; left: -3000px !important; }
@@ -113585,6 +113605,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /prebid6.
 /prebid7.
 /prebid8.
+/prebid8.$script
 /prebid?
 /prebidAdcall.
 /prebidLibrary.
