@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 2MB141f8oArhwEbG1I8L+A
+! Checksum: NJ4C1qGBh89Smq1nyIBYlw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240423002407
+! Version: 20240423091905
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-23 00:24:07
-! Total Count: 26238
+! Last modified: 2024-04-23 09:19:05
+! Total Count: 26244
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3497,6 +3497,7 @@
 ||anyunwl04.com^
 ||anywlan.com/link/*.gif
 ||aoakss.com^
+||aobtwv.icu^
 ||aojeet.icu^
 ||aokkwzg.cn^
 ||aol32.cn^
@@ -6804,6 +6805,7 @@
 ||fxbcc.cyou^
 ||fxbcpr.xyz^
 ||fxeaobv.icu^
+||fxgkktj.icu^
 ||fxjnfn.xyz^
 ||fxjs.2541.com^
 ||fxkfhbn.xyz^
@@ -7205,6 +7207,7 @@
 ||gp.jstv.com^
 ||gp.zaiyunli.cn^
 ||gp123.cc/20*ad/
+||gpiagk.xyz^
 ||gposrzz.cn^
 ||gpqicw.xyz^
 ||gpqid.xyz^
@@ -9499,6 +9502,7 @@
 ||lhdlbp.xyz^
 ||lhgwcvw.cn^
 ||lhiefl.com^
+||lhmebwq.cn^
 ||lhotajl.icu^
 ||lhotajl.icu^$third-party
 ||lhtnuop.xyz^
@@ -14279,6 +14283,7 @@
 ||uysdxmo.com^
 ||uyt79.top^
 ||uyulwc.xyz^
+||uyuwkbt.top^
 ||uyydww.xyz^
 ||uz44x.xyz^
 ||uzelzfnj.xyz^
@@ -15324,6 +15329,7 @@
 ||xvilxdv.cn^
 ||xvliqsa.cn^
 ||xvorpqz.cn^
+||xvpcjl.xyz^
 ||xvpqrydt.xyz^
 ||xvrvgod.xyz^
 ||xvudqzoa.xyz^
