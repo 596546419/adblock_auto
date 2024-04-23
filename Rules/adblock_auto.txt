@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: T4o7S0HdL/CZ1VUNGvHlMg
+! Checksum: EOABvUDMF0sr7Lgrt4sFxA
 ! Title: 混合规则(自动更新)
-! Version: 20240423162348
+! Version: 20240424002352
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-23 16:23:48
-! Total Count: 140467
+! Last modified: 2024-04-24 00:23:52
+! Total Count: 140477
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -11844,6 +11844,7 @@
 ||baomitu.duapp.com/js/layer.js
 ||baopengys.vip^
 ||baosaoviet24h.net^
+||baothanhnien.top^
 ||baotienphong.net^
 ||baotrixanhvn.com^
 ||baoviet-vn.cc^
@@ -16416,6 +16417,7 @@
 ||cdn.klasseo.com^
 ||cdn.lodeo.io^
 ||cdn.logrocket.com^
+||cdn.logsnag.com^
 ||cdn.matomo.cloud^
 ||cdn.mediatradecraft.com^
 ||cdn.memo.co^
@@ -27379,6 +27381,7 @@
 ||f55f5b7e4b.com^
 ||f5e52a0d14.com^
 ||f5v1x3kgv5.com^
+||f6176563.site^
 ||f709c496d6.com^
 ||f773a03dcb.com^
 ||f775.thehour.com^
@@ -27420,6 +27423,7 @@
 ||facebook.com/*/instream/vast.xml?*&pageurl=http*.4gtv.tv$script,xmlhttprequest,other,redirect=noopvast-2.0
 ||facebook.com/v2.6/plugins/video.$domain=storm.mg
 ||facebook4288062.blogspot.com^
+||facebook62747.blogspot.com^
 ||facebook92288.blogspot.com^
 ||facebookinbox-omni-onapp.haravan.com^
 ||facebookk.life^
@@ -69656,6 +69660,7 @@
 ||superioritydiningroom.com^
 ||superiorityfriction.com^
 ||superiorsufferorb.com^
+||superjj.online^
 ||superjuryger.xyz^
 ||supermarketrestaurant.com^
 ||superonclick.com^
@@ -81750,6 +81755,7 @@
 ||wuxiann.top^
 ||wuxibus.com/Image/title
 ||wuxie419.xyz^
+||wuxingruoyin.top/public/*/plugins/
 ||wuyaw.cn^
 ||wuye3d.com^
 ||wuygmdi.cn^
@@ -85639,6 +85645,7 @@
 ||zswzri7ju3.ru^
 ||zsyk91.cn^
 ||zsyk91.cn^$third-party
+||zszhfffyd.ru^
 ||zszhln.xyz^
 ||zt-0304.cc^
 ||zt-uc-baidu.cc^
@@ -86423,6 +86430,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 18-comic.work,18comic.org,18comic.vip,18comic1.art,18comic2.art,bejson.com,breakingenergy.com,epicload.com,jmcomic.me,json.cn,movieclassic.net,pianyuan.org,qixingquan.com,shine.cn##.modal-backdrop
 18-comic.work,18comic.org,18comic.vip,18comic1.art,18comic2.art,jmcomic.me###guide-modal
 18-comic.work,18comic.org,18comic.vip,boylov.xyz,boylove.cc,boylove1.mobi,boyloves.fun,jmcomic.me##.div_sticky2
+18-comic.work,18comic.org,18comic.vip,boylov.xyz,boylove.cc,boyloves.fun,jmcomic.me##style + div[style="cursor: pointer; position: relative;"]
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > [style*="back"]
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > div[style^="display: block;"]
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img
@@ -89559,7 +89567,6 @@ boylov.xyz,boylove.cc,boylove.mobi,boylove.today,boylove1.cc,boylove3.cc,boylove
 boylov.xyz,boylove.cc,boylove.mobi,boylove.today,boylove1.cc,boylove3.cc,boylove5.cc,boyloves.fun,khmertimeskh.com,vdianying.cc##.swiper-wrapper
 boylov.xyz,boylove.cc,boyloves.fun##.owl-carousel
 boylov.xyz,boylove.cc,boyloves.fun##div[data-type="1"]
-boylov.xyz,boylove.cc,boyloves.fun##style + div[style="cursor: pointer; position: relative;"]
 boylove.cc###floating_page
 boylove.cc###yteggbue
 boylove.cc##.dzxvovcm
@@ -90967,7 +90974,7 @@ cryptocompare.com##.title-hero
 cryptodaily.co.uk##.ad-bottom-spacing
 cryptodaily.co.uk##.hbs-ad
 cryptofeeds.news,defence-industry.eu,gamenguides.com,houstonherald.com,millennial-grind.com,survivopedia.com,teslaoracle.com##.wp-block-image
-cryptofeeds.news,issuu.com,newswireni.com,power987.co.za##[height="600"]
+cryptofeeds.news,fxempire.com,issuu.com,newswireni.com,power987.co.za##[height="600"]
 cryptofeeds.news,newswireni.com,power987.co.za##img[height="600"]
 cryptofeeds.news,upfivedown.com###block-8
 cryptolovers.me##.sponsorContent
@@ -91202,7 +91209,7 @@ dailymotion.com##div[class^="DisplayAd"]
 dailymotion.com##div[class^="NewWatchingDiscovery__adSection"]
 dailymotion.com##div[class^="VideoInfo__videoInfoAdContainer"]
 dailynews.lk##.penci_topblock
-dailynews.lk,german-way.com,issuu.com,londonnewsonline.co.uk,power987.co.za,qsaltlake.com,tfetimes.com##[height="250"]
+dailynews.lk,fxempire.com,german-way.com,issuu.com,londonnewsonline.co.uk,power987.co.za,qsaltlake.com,tfetimes.com##[height="250"]
 dailynews.lk,german-way.com,londonnewsonline.co.uk,power987.co.za,qsaltlake.com,tfetimes.com##img[height="250"]
 dailynews.sina.com##.TopNav + table
 dailynewsegypt.com##.banner-250
@@ -93282,10 +93289,12 @@ fx678.com##div[class^="fx_fa_"]
 fx678.com##div[class^="hc_ad_"]
 fx678.com##div[id^="dl_"]
 fx678.com##div[id^="hta_"]
+fxempire.com###header-ads-block
 fxempire.com##.dKBfBG
 fxempire.com##.ddAwpw
 fxempire.com##.eLQRRm
 fxempire.com##.frzZuq
+fxempire.com##span[style="user-select:none"]
 fxsforexsrbijaforum.com###fa_ticker_container
 fxsforexsrbijaforum.com###pun-announcement
 fxsforexsrbijaforum.com##.module_ahlaejaba
@@ -98374,6 +98383,7 @@ nevadamagazine.com##.nevad-article-tall
 nevasport.ru##.adblock-notify
 new-kissanime.me###CvBNILUxis
 new-porn.club##+js(abort-current-script, document.attachEvent, prt)
+new-reporter.com##div[id^="mdl-elmt-"]
 new.qq.com##+js(set, SSPAd.prototype.loadAd, noopFunc)
 newagebd.net##.editorialMid
 newagebd.net##.homeSlideRightSecTwo

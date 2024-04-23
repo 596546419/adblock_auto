@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: //AygbtX2aMROTIvFs7J2w
+! Checksum: v+AdKsZwaHcwuFEC6axwHw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240423162359
+! Version: 20240424002403
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-23 16:23:59
-! Total Count: 26245
+! Last modified: 2024-04-24 00:24:03
+! Total Count: 26247
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -13279,6 +13279,7 @@
 ||superchat.live^
 ||superficialeyes.com^$third-party
 ||superfish.com^$third-party
+||superjj.online^
 ||supersonicads-a.akamaihd.net^
 ||supersonicads.com^
 ||superviseshoes.com^$third-party
@@ -14911,6 +14912,7 @@
 ||wushangzeichuan.xin^
 ||wutou20230201.live^
 ||wutsldsk.xyz^
+||wuxingruoyin.top/public/*/plugins/
 ||wuyaw.cn^
 ||wuye3d.com^
 ||wvceki.xyz^
