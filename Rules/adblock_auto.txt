@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: SSXkzK7qoLy3tnv/vPraEA
+! Checksum: T4o7S0HdL/CZ1VUNGvHlMg
 ! Title: 混合规则(自动更新)
-! Version: 20240423091854
+! Version: 20240423162348
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-23 09:18:54
-! Total Count: 140436
+! Last modified: 2024-04-23 16:23:48
+! Total Count: 140467
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3033,6 +3033,7 @@
 ||84aa71fc7c.com^
 ||84c08fdae0.com^
 ||84cd8c4d7e.com^
+||84f101d1bb.com^
 ||84mua.com^
 ||84zm8.xyz^
 ||8500.pro^
@@ -3255,6 +3256,7 @@
 ||911.cc^$third-party
 ||91160.com/nykj/f=static/v4/common/tj.js
 ||91199a.xyz^
+||9119fa4031.com^
 ||9129666tp.com^$domain=9xav.cc
 ||913mj.xyz^
 ||9159f9a13d.com^
@@ -6663,6 +6665,7 @@
 ||aerariacongoni.uno^
 ||aerbgpn.xyz^
 ||aerialmistaken.com^
+||aerialsargle.top^
 ||aeriedconcert.com^
 ||aerjnuloxlth.com^
 ||aerlwjxcrcolcpy.com^
@@ -9524,6 +9527,7 @@
 ||appdraft.link^
 ||appealinformationevent.com^
 ||appealingyouthfulhaphazard.com^
+||appealtime.com^
 ||appearancecustomerobliterate.com^
 ||appearancefingerprintabet.com^
 ||appearancegravel.com^
@@ -11300,6 +11304,7 @@
 ||b85xx.site^
 ||b88392.top^
 ||b88af87899.com^
+||b8ce2eba60.com^
 ||b8f40t2i.cn^
 ||b8pfulzbyj7h.com^
 ||b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me^
@@ -15386,6 +15391,7 @@
 ||byvtkhdxfjw.com^
 ||bywntfg.com^
 ||bywordmiddleagedpowder.com^
+||bywtdaelbjbhz.com^
 ||byxcbixzvjclxz.com^
 ||byxsmjqvjvmhxpy.xyz^
 ||byxxxporn.com/300x250.html
@@ -19919,6 +19925,7 @@
 ||crackquarrelsomeslower.com^
 ||cracktraumatic.com^
 ||cracktube.net^
+||cradspbsdarltng.com^
 ||craftkeys.com^
 ||craftsmancaptivity.com^
 ||craftsmangraygrim.com^
@@ -21509,6 +21516,7 @@
 ||dcsv33.com^
 ||dcsxv.com^
 ||dct.mango-office.ru^
+||dctkubltpbtt.com^
 ||dcuonsugikrma.com^
 ||dcvbnzss.xyz^
 ||dcvefz.xyz^
@@ -27916,6 +27924,7 @@
 ||feadbe5b97.com^
 ||feadrope.net^
 ||feakio.top^
+||fealerector.top^
 ||fearfulmint.com^$third-party
 ||fearlessfaucet.com^$third-party
 ||fearplausible.com^
@@ -32721,6 +32730,7 @@
 ||gskbzle.cn^
 ||gslejoki.xyz^
 ||gsmonitor.ru^
+||gsnqhdo.com^
 ||gsp1.baidu.com^
 ||gsqweb.cn^
 ||gsrfkrnkeaanc.xyz^
@@ -33301,6 +33311,7 @@
 ||hadesleta.com^
 ||hadeti.xyz^
 ||hadfrizzprofitable.com^
+||hadmiredinde.info^
 ||hadmvmqe.com^
 ||hadsans.com^
 ||hadsanz.com^
@@ -43424,6 +43435,7 @@
 ||lfsenmei.com^
 ||lfstmedia.com^
 ||lfsuigdrtsszog.com^
+||lftpvh.xyz^
 ||lfufujhxmy.com^
 ||lfwujowkcf.com^
 ||lfxkgdvf.com^
@@ -46319,6 +46331,7 @@
 ||marryrapidlypursuing.com^
 ||marsads.com^
 ||marshagalea.com^
+||marshakhula.top^
 ||marshwhisper.com^
 ||marspearelct.com^
 ||martafatass.pro^
@@ -51563,6 +51576,7 @@
 ||nowforfile.com^
 ||nowhereunbox.com^
 ||nowhern.com^
+||nowhisho.net^
 ||nowinteract.com^
 ||nowlooking.net^
 ||nownews.com/assets/js/setAds.js
@@ -52033,6 +52047,7 @@
 ||nzuebfy.com^
 ||nzvlpvgqsa.com^
 ||nzvpewi.cn^
+||nzwxemqwpv.com^
 ||nzydzsw.com^
 ||nzydzsw.com^$third-party
 ||nzymeedg.icu^
@@ -53131,6 +53146,7 @@
 ||onmarshtompor.com^
 ||onnasvmatrma.com^
 ||onnkloshwrh.xyz^
+||onnnuvtikmzy.com^
 ||onnrulogguyvy.com^
 ||onogxwatipyevf.com^
 ||onpluslean.com^
@@ -54221,6 +54237,7 @@
 ||ozihechzlcsgs.com^
 ||ozjga.top^
 ||ozkbdxdu.icu^
+||ozlenbl.com^
 ||ozlofsviborc.com^
 ||ozlwhampaofq.com^
 ||ozngisyk.xyz^
@@ -55594,6 +55611,7 @@
 ||pgmfuffwfl.com^
 ||pgmpsqoq.xyz^
 ||pgonews.pro^
+||pgorttohwo.info^
 ||pgpartner.com^
 ||pgpkrrk.cn^
 ||pgpufyzi.xyz^
@@ -60272,6 +60290,7 @@
 ||qylgfuikc.com^
 ||qylmbemvllllr.top^
 ||qylmbemvlloov.top^
+||qylmbemvllzrb.top^
 ||qylrihck.xyz^
 ||qymdcuco.com^
 ||qynmfgnu.xyz^
@@ -64220,6 +64239,7 @@
 ||sealine-pfuoxcbgd.netdna-ssl.com^
 ||sealine.youku.com/yk/*callback=adpagesdk$script
 ||sealinstalment.com^
+||sealkiebannets.top^
 ||seallife.club^
 ||sealthatleak.com^
 ||seamankidding.com^
@@ -66829,6 +66849,7 @@
 ||smithamenamel.com^
 ||smithumbewreck.com^
 ||smitry.com^
+||smittenkick.top^
 ||smjulynews.com^
 ||smjxarmaflpmxj.com^
 ||smlhvupprda.com^
@@ -68163,6 +68184,7 @@
 ||stackadapt.com^
 ||stackattacka.com^
 ||stackprotectnational.com^
+||staerlcmplks.xyz^
 ||staffboozerenamed.com^$document
 ||staffboozerenamed.com^$~third-party
 ||staffdollar.com^
@@ -74947,6 +74969,7 @@
 ||tuskercampe.life^
 ||tuskhautein.com^
 ||tusno.com^
+||tutorlylaggard.top^
 ||tutphiarcox.com^
 ||tutsterblanche.com^
 ||tutudao.net/js/gg*.js
@@ -88034,7 +88057,7 @@ ana-white.com###block-views-block-sponsors-block-1
 analdin.com,goodav17.com,mangovideo.pw,pornkino.cc,streamporn.pw,watchpornfree.info,xopenload.me##+js(abort-on-property-read, popunder)
 analindiantube.com,asianbeautytube.com,maturespecial.com,holloporn.com###embed__pre
 analpornpix.com##[src^="https://analpornpix.com/t/153"]
-analpornpix.com##a[href^="/go/"]
+analpornpix.com,chinanewsx.com##a[href^="/go/"]
 analsexstars.com,playallvideos.com,porn.com,pron.co,pussy.org,xxx-videosex.porn##.rmedia
 analsexstars.com,xxx-videosex.porn##.sppc
 analteen.pro,xxxhentai.net,momsextube.pro,megayoungsex.com,xxxmovies.pro,lesbiansex.pro,goodindianporn.com##.ad-on-video
@@ -88072,7 +88095,8 @@ androidauthority.com##.--_-___Yb
 androidauthority.com##.--qc
 androidauthority.com##.-Ci
 androidauthority.com##.-Yc
-androidauthority.com##._--_-___kb
+androidauthority.com##._--_-___Pb
+androidauthority.com##._--_-___ub
 androidauthority.com##.andro-in-article-sidebar-desktop-placement
 androidauthority.com##.andro-mid-article-placement
 androidauthority.com##a[data-sel="dealbar-link"]
@@ -90153,6 +90177,8 @@ chinanews.com,chinanews.com.cn###dingtong
 chinanews.com.cn###ad_right_fc1
 chinanews.com.cn##.tp_adv
 chinanews.com.cn##.wap_adv
+chinanewsx.com##.card-body > .my-3:last-child
+chinanewsx.com##.side-nav
 chinanewsx.com##a[href="/about/"]
 chinapdf.com###floatleft
 chinapdf.com###floatright
@@ -92363,6 +92389,8 @@ etherscan.io##.border-top
 etherscan.io##.dxddkdcp7wz
 etherscan.io##a[href^="https://goto.etherscan.com/"] > img
 etnet.com.cn##.firstAD
+etonline.com##.leader-inc
+etonline.com##.omni-skybox-plus-stick-placeholder
 etr.fr##.no_block
 ettoday.net###adsense-matched-content
 ettoday.net###for-ec
@@ -98355,6 +98383,7 @@ newagebd.net##[style^="float:left; width:320px;"]
 newburyportnews.com###mediumRectangle_atf
 newcartestdrive.com###static-asset-placeholder-2
 newcartestdrive.com###static-asset-placeholder-3
+newcastleworld.com##.helper__DesktopAdContainer-sc-12ggaoi-1
 newcger.com##.banner_recom
 newduba.cn###jq_youxi
 newegg.com##.item-sponsored-box
@@ -114184,6 +114213,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /script/uBlock.js
 /script/ut.js?cb=$third-party
 /script/wait.php?*=$xmlhttprequest
+/script/xxAG1.js
 /scriptonline.js?uin=
 /scripts/AdService_
 /scripts/ad-
@@ -120751,6 +120781,7 @@ zle.com$script
 ###bottom-ad-tray
 ###bottom-ad-wrapper
 ###bottom-add
+###bottom-adhesion
 ###bottom-adhesion-container
 ###bottom-ads
 ###bottom-ads-bar
