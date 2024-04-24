@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: v+AdKsZwaHcwuFEC6axwHw
+! Checksum: T4VV5jY3ycYibxrxFeFTZA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240424002403
+! Version: 20240424092053
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-24 00:24:03
-! Total Count: 26247
+! Last modified: 2024-04-24 09:20:53
+! Total Count: 26252
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -11080,6 +11080,7 @@
 ||oyksoft.com/show/b.
 ||oyotqp.icu^
 ||oyugspe.cn^
+||oyuwkbk.top^
 ||oyvyxj.cn^$third-party
 ||oyxp.xyz^
 ||oyysbc.xyz^
@@ -12051,6 +12052,7 @@
 ||qvftejz.cn^
 ||qvkjkc.xyz^
 ||qvnbjjd.xyz^
+||qvonje.cn^
 ||qvpublish.com^
 ||qvrdlvz.cn^
 ||qvrfddm.cn^
@@ -12999,6 +13001,7 @@
 ||soft.mumayi.net/js/
 ||soggyzoo.com^$third-party
 ||sogo.uc.continuefaf.top^$third-party
+||sogoks.xyz^
 ||sogou.com/GetAdv.
 ||sogou.com/amdjs/release/common/act_all_ad.
 ||sogou.com/ask?id=
@@ -15063,6 +15066,7 @@
 ||xflybplr.xyz^
 ||xfn1688.com^
 ||xfqrsjq.cn^
+||xfrahb.xyz^
 ||xfztgxt.com^
 ||xfzyun.com^
 ||xg.hbcygs518.com^$third-party
@@ -15747,6 +15751,7 @@
 ||yvbjctqs.xyz^
 ||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
+||yvwuesh.icu^
 ||ywg.jobui.com^
 ||ywhws.cn^
 ||yx.tellenw.top^$image
