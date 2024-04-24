@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: jXhzo0TYAdRsff5lvgRD3A
+! Checksum: at6N4t7bK2FABFFLVkX+yw
 ! Title: 混合规则(自动更新)
-! Version: 20240424092042
+! Version: 20240424162501
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-24 09:20:42
-! Total Count: 140513
+! Last modified: 2024-04-24 16:25:01
+! Total Count: 140528
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -63636,6 +63636,7 @@
 ||samelagura.uno^
 ||samepeqmz.com^
 ||sameplace.lol^
+||samfw.com/js/script.js
 ||samghasps.com^
 ||samhitareviser.com^
 ||samiana.com^
@@ -70249,6 +70250,7 @@
 ||szpwf.cn^
 ||szpwg.cn^
 ||szpwh.cn^
+||szpxp.cn^
 ||szpzk.cn^
 ||szpzm.cn^
 ||szqifu.com^
@@ -83699,6 +83701,8 @@
 ||yhbdrnr.cn^
 ||yhbheroq.xyz^
 ||yhdd1.com^$third-party
+||yhdemu368.shop^
+||yhderd69.shop^
 ||yhdm*.*/js/wap2-jm-ms.js$script
 ||yhdm*.com/js/wap2-jm-ms.js$script
 ||yhdm.io/bar/
@@ -88620,6 +88624,7 @@ axios-js.com###lagou-vip
 axios-js.com##.lessonlist
 axios-js.com##.recommand
 axios-js.com##.vultr-desc
+axios.com##.latestStoriesAd
 axios.com##.shortFormNativeAd
 axios.com##[data-cy="injected-promo"]
 axios.com##[data-vars-category="sidebar_promo"]
@@ -89890,6 +89895,8 @@ canada411.ca##.c411TopBanner
 canadaka.net##.boxadd
 canadianbusiness.com,macleans.ca,vidio.com,yardbarker.com###leaderboard_container
 canadianbusiness.com,torontolife.com##.sjm-dfp-wrapper
+canadianlisted.com###adcsacl
+canadianlisted.com##.pageclwideadv
 canarymedia.com##.inset-x-0
 canberratimes.com.au,examiner.com.au,theland.com.au,whoscored.com###billboard-container
 canberratimes.com.au,theland.com.au###newswell-leaderboard-container
@@ -96616,6 +96623,7 @@ ksl.com##.gfp-slot
 ksl.com##.queue:has(.sponsored)
 ksstradio.com###footer-widgets
 kt51.com,nfstar.net,xgan.cn,xxdm.in,yhdmw.com##.bottom_fixed
+ktbs.com###sticky-anchor
 ktkkt.com##.top980
 ktkkt.com##.top980a
 ktkkt.com##.vod980
@@ -96718,6 +96726,7 @@ law360.com##[style="width:100%;display:flex;justify-content:center;background-co
 lawandcrime.com,mediaite.com##.o-promo-unit
 lawandcrime.com,mediaite.com##.sidebar-hook
 lawandcrime.com,themarysue.com##.promo-unit
+laweekly.com##.law_center_ad
 lawtv.com.cn##div[style=" width:664px; height:260px;  margin-top:10px;"]
 layui.com##.layui-layer-tips
 lbcgroup.tv##.ScriptDiv
@@ -97612,6 +97621,7 @@ memedroid.com##div[id^="freestar-ad-"]
 memes.tw##.nice-box
 memexie.com##div[style^="width:9"][style$="#C8E4F0"]
 mengzhan123.com,mengzhan521.com##a[href^="http"]:not([href*="mengzhan"]) > img[src^="http"]
+mentalfloss.com##.style_k8mr7b-o_O-style_uhlm2
 mentalmars.com##.menta-target
 mercurynews.com,nssmag.com##.header-banners
 merriam-webster.com##.home-redesign-ad
@@ -100568,6 +100578,7 @@ rateherpussy.com##font[size="1"][face="Verdana"]
 ratemycourses.io##[href^="https://www.essaypal.ai"]
 ratemymelons.com##.bannus
 rateyourmusic.com##.column_filler
+rateyourmusic.com##.connatix_video
 rateyourmusic.com##.page_creative_frame
 rawindianporn.com###divtime
 rawstory.com###rawstory_front_2_container
@@ -100996,6 +101007,9 @@ scmp.com##div[data-qa="AuthorPage-HeaderAdSlotContainer"]
 scmp.com##div[data-qa="GenericArticle-MobileContentHeaderAdSlot"]
 scmp.com##div[data-qa="GenericArticle-TopPicksAdSlot"]
 scmp.com##div[data-qa="InlineAdSlot-Container"]
+scoop.co.nz###dfp-shadow
+scoop.co.nz###div-gpt-ad-1493962836337-6
+scoop.co.nz###div-gpt-ad-1510201739461-4
 scoop.co.nz###in-cont
 scoop.co.nz###rect
 scoop.co.nz##.article-left-box
@@ -104275,6 +104289,7 @@ wenxuecity.com##label[style*="darkgrey"]
 weraveyou.com##div[id^="werav-"]
 westcapenews.com###leaderboardspace
 westernjournal.com###stnvideo
+westword.com##.SurveyLinkSlideModal
 westword.com##.a65vezphb1
 westword.com##.hil28zhf1wyd
 wethegeek.com##.mfp-content

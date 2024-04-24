@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: T4VV5jY3ycYibxrxFeFTZA
+! Checksum: WBAuXOUmPB3ucyGYprB+2g
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240424092053
+! Version: 20240424162513
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-24 09:20:53
-! Total Count: 26252
+! Last modified: 2024-04-24 16:25:13
+! Total Count: 26258
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1128,6 +1128,8 @@
 ||88lm09.com^
 ||88lm10.com^
 ||88lm11.com^
+||88lm12.com^
+||88lm13.com^
 ||88p2p.com^$popup
 ||88ys.cc/js/abcd.js
 ||8961.jianbihua.com^
@@ -12490,6 +12492,7 @@
 ||same*.stockstar.com^
 ||same.chinadaily.com.cn^
 ||same.eastmoney.com^
+||samfw.com/js/script.js
 ||sangoo.top^$third-party
 ||sanme2.taisantech.com^
 ||santou20230127.live^
@@ -13377,6 +13380,7 @@
 ||szpwf.cn^
 ||szpwg.cn^
 ||szpwh.cn^
+||szpxp.cn^
 ||szpzk.cn^
 ||szpzm.cn^
 ||szsbiw.xyz^
@@ -15506,6 +15510,8 @@
 ||yh20230625tu.com^
 ||yhbheroq.xyz^
 ||yhdd1.com^$third-party
+||yhdemu368.shop^
+||yhderd69.shop^
 ||yhdm*.*/js/wap2-jm-ms.js$script
 ||yhdm*.com/js/wap2-jm-ms.js$script
 ||yhdm44.com/123.html
