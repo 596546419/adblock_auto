@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: at6N4t7bK2FABFFLVkX+yw
+! Checksum: VmNTCG7X0ho6uW/33Jtg4Q
 ! Title: 混合规则(自动更新)
-! Version: 20240424162501
+! Version: 20240425002343
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-24 16:25:01
-! Total Count: 140528
+! Last modified: 2024-04-25 00:23:43
+! Total Count: 140542
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -467,6 +467,7 @@
 ||111cn.net/js/downc*.js
 ||111supjavcom.xyz^
 ||1129555.com^
+||1129665329.rsc.cdn77.org^
 ||113-bca.online^
 ||113.105.248.169^
 ||113.17.188.*.js
@@ -670,6 +671,7 @@
 ||160.com/statics/statics/js/code_15.js
 ||1615vip.com^*.jsonp
 ||1616.net/jd/data/index/indexad.json
+||1618323023.rsc.cdn77.org^
 ||162.212.182.$subdocument
 ||1623381916.rsc.cdn77.org^
 ||162ck.com/v*.js
@@ -2909,6 +2911,7 @@
 ||7e67f4ccad.com^
 ||7e809ed7-e553-4e29-acb1-4e3c0e986562.site^
 ||7fc0966988.com^
+||7fc8.site^
 ||7ff83b4a34.com^
 ||7fkm2r4pzi.com^
 ||7fva8algp45k.com^
@@ -14710,6 +14713,7 @@
 ||bromisescapose.com^
 ||bromoilnapalms.com^
 ||bromusic.site^
+||bronchichogset.com^
 ||broncogainer.top^
 ||bronto.com^
 ||broochambitioncopies.com^
@@ -26848,6 +26852,7 @@
 ||evmnlpv.cn^
 ||evnbankcredit.info^
 ||evncredit.online^
+||evnsotpmavrwp.com^
 ||evnt.iol.it^
 ||evnvaytien.xyz^
 ||evoign.com^
@@ -42897,6 +42902,7 @@
 ||layerloop.com^
 ||layermutual.com^
 ||layerpearls.com^
+||layiaaesopic.top^
 ||layingracistbrainless.com^
 ||layoutsdaydawn.top^
 ||layuicdn.com/layer/layer.js$domain=hanjutvn.com
@@ -47709,6 +47715,7 @@
 ||minimumonwardfertilised.com^
 ||minimumpay.info^
 ||minimviolone.life^
+||miningzhizhong.top^
 ||minireklam.com^
 ||minisrclink.cool^
 ||ministryensuetribute.com^
@@ -49659,6 +49666,7 @@
 ||myyxox.icu^
 ||myzwqwe12.com^$third-party
 ||mzamin.com/advert/
+||mzcaiegjmuwfd.com^
 ||mzcd.xyz^
 ||mzelzfnj.xyz^
 ||mzgcst.mbibioe.cn^$document
@@ -59431,6 +59439,7 @@
 ||qhuguzodbd.com^
 ||qhupdate.com^
 ||qhvszsl.cn^
+||qhwyoat.com^
 ||qhx1h2g.com^
 ||qhxtzwf.cn^
 ||qhxukowjgl.com^
@@ -80498,6 +80507,7 @@
 ||whairted.xyz^
 ||whairtoa.com^
 ||whaishub.net^
+||whaivoole.com^
 ||whaiweel.com^
 ||whaixoads.xyz^
 ||whale123.com^$third-party
@@ -84828,6 +84838,7 @@
 ||zbfxzpawfeoo.com^
 ||zbgvyargb.com^
 ||zbjimg.com/static/union/
+||zbmdbhhtgry.com^
 ||zbnfhsk.com^
 ||zboac.com^
 ||zbporn.*/tri/zp.js
@@ -90171,7 +90182,7 @@ chicagotribune.com###top_article_fluid_wrapper
 chicagotribune.com###top_fluid_wrapper
 chikiporn.com,pornq.com##.thumb--adv
 chilltracking.com###blink
-chimpreports.com,collive.com,defence-industry.eu,islandecho.co.uk,locklab.com,mallorcasunshineradio.com,runwaygirlnetwork.com,spaceref.com,talkradioeurope.com,theshoesnobblog.com##.a-single
+chimpreports.com,collive.com,defence-industry.eu,islandecho.co.uk,locklab.com,mallorcasunshineradio.com,runwaygirlnetwork.com,southsideweekly.com,spaceref.com,talkradioeurope.com,theshoesnobblog.com##.a-single
 china-tubex.site##.videoAd
 china-tubex.site,de-sexy-tube.ru##.aBlock
 china.ahk.de##.b-header__banner
@@ -102233,6 +102244,7 @@ sydneytoday.com##.mygad
 sydneytoday.com##.news-list > .row > .col-xs-12
 sydneytoday.com##div[style$="-144px;top: 115px;"]
 syfy.com##.mps-container
+symbaloo.com##div[data-test="homepageBanner"]
 synacast.com
 sysin.org##img[src^="/img/promotion"]
 systutorials.com###after-content-1
@@ -104300,6 +104312,8 @@ wetpussygames.com###under728
 wetransfer.com##.wallpaper
 wezhicms.com##.activity
 wezhicms.com#?#.card-main:-abp-has(.waimai-item-img)
+wgnsradio.com##.bw-special-image
+wgnsradio.com##.bw-special-image-wrapper
 wgrr.com##a[href^="https://www.mccabelumber.com/"]
 whatcar.com##.ArticleTemplate_masthead__oY950
 whatcar.com##.ReviewHero_mastheadStyle__Bv8X0
