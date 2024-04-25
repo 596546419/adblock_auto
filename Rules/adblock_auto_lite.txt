@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: pP2GxAABqtxu/zY0JOGi2Q
+! Checksum: i3c4xJASl4cvTIPEl6FnPA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240425162602
+! Version: 20240426002417
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-25 16:26:02
-! Total Count: 26266
+! Last modified: 2024-04-26 00:24:17
+! Total Count: 26271
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1672,6 +1672,7 @@
 ||ad.leadboltapps.net^
 ||ad.leap.app^
 ||ad.lgappstv.com^
+||ad.line-scdn.net^
 ||ad.linkprice.com^$third-party
 ||ad.linksynergy.com^
 ||ad.lomadee.com^
@@ -4682,6 +4683,7 @@
 ||caoav.net/img/*.js
 ||caohv.com/mm/
 ||caoimgs.com/images/*.gif
+||caomaotongji.com^
 ||caomeixz7.xyz^
 ||caonme.xyz^
 ||caoporn.com/ggs.php
@@ -6558,6 +6560,7 @@
 ||feiln.xyz^$third-party
 ||feizl.com/images/smdd/
 ||fekpcd.icu^
+||fendeyrziz.top^
 ||fenem.top^
 ||fengyukun03.cn^
 ||fenxi.com^$third-party
@@ -8798,6 +8801,7 @@
 ||js.oh100.com^
 ||js.ruiwen.com^
 ||js.shangxueba.com^
+||js.shunqi.com^
 ||js.spreton.com^
 ||js.tianmel.xyz^
 ||js.tlt.cn/js/
@@ -10468,6 +10472,7 @@
 ||mwrf.net/images/js/*mrf.js
 ||mwrf.net/images/mrf/
 ||mwzbp.iask.com.cn^
+||mx-movie.nan-net.jp/system/s-profile/banner/mx_bottom/
 ||mx6.3pornhere.com^
 ||mxaserver.mxplay.com^
 ||mxeq.cn^

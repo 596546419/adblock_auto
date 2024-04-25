@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: LxtfezugKLooIimc2AA/yw
+! Checksum: vEQhoAX9wfWfmg0S3RTEyg
 ! Title: 混合规则(自动更新)
-! Version: 20240425162551
+! Version: 20240426002406
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-25 16:25:51
-! Total Count: 140579
+! Last modified: 2024-04-26 00:24:06
+! Total Count: 140585
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3812,6 +3812,7 @@
 ||a9able.com^
 ||a9ae7df45f.com^
 ||a9fc00b442.com^
+||aa-metrics.hotpepper.jp^
 ||aa.gushiwen.org^
 ||aa.hwigroup.com^
 ||aa.pornvideotop.com^
@@ -4652,6 +4653,7 @@
 ||ad.leap.app^
 ||ad.letmeads.com^
 ||ad.lgappstv.com^
+||ad.line-scdn.net^
 ||ad.linkprice.com^
 ||ad.linksynergy.com^
 ||ad.mail.ru^
@@ -12123,6 +12125,7 @@
 ||bcash4you.com^
 ||bcb5.com/gg/
 ||bcb9.cn^
+||bcbe.site^
 ||bcc.com.tw/imgs/adv/
 ||bcc878.com/js/abc/
 ||bccda4ab57.com^
@@ -28105,6 +28108,7 @@
 ||fencerscoelho.com^
 ||fenchylsoonish.com^
 ||fenddiscourse.com^
+||fendeyrziz.top^
 ||fenem.top^
 ||feneteko.com^
 ||feneverybodypsychological.com^
@@ -49409,6 +49413,7 @@
 ||mwyjjxcbv.com^
 ||mwylcfaa.com^
 ||mwzbp.iask.com.cn^
+||mx-movie.nan-net.jp/system/s-profile/banner/mx_bottom/
 ||mx6.3pornhere.com^
 ||mxapis.com^
 ||mxaserver.mxplay.com^
@@ -104863,6 +104868,7 @@ xiashuyun.com##div#navdown
 xiazai.zol.com.cn###downBoxGaosu > .clearfix:first-child
 xiazai.zol.com.cn###downBoxGaosu > a
 xiazai.zol.com.cn##.down-btn-yd + div[class]
+xiazai.zol.com.cn##img[alt^="AiPPT"]
 xiazaiba.com##.down-btn1
 xiazaiba.com##.down-btn2
 xiazaiba.com##.gdown-btns
