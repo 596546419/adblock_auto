@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: lkDJSsDt9TIDBj862ChjgA
+! Checksum: LxtfezugKLooIimc2AA/yw
 ! Title: 混合规则(自动更新)
-! Version: 20240425092011
+! Version: 20240425162551
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-25 09:20:11
-! Total Count: 140570
+! Last modified: 2024-04-25 16:25:51
+! Total Count: 140579
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -15878,6 +15878,7 @@
 ||caoav.net/img/*.js
 ||caohv.com/mm/
 ||caoimgs.com/images/*.gif
+||caomaotongji.com^
 ||caomeixz7.xyz^
 ||caonhanh.xyz^
 ||caonme.xyz^
@@ -40233,6 +40234,7 @@
 ||js.ruiwen.com^
 ||js.rush-member.com^
 ||js.shangxueba.com^
+||js.shunqi.com^
 ||js.spreton.com^
 ||js.stroeermediabrands.de^
 ||js.tianmel.xyz^
@@ -64637,6 +64639,7 @@
 ||seo-overview.com^
 ||seo-sport.ru^
 ||seo.arxua.com^
+||seo.compado.com^
 ||seo.linel.top^
 ||seoab.io^
 ||seobloger.ru^
@@ -76963,6 +76966,7 @@
 ||uyueread.com^
 ||uyulwc.xyz^
 ||uyuwkbt.top^
+||uywoynr.cn^
 ||uyydww.xyz^
 ||uyzdcun.cn^
 ||uz-analysis.akamaized.net^
@@ -79485,6 +79489,7 @@
 ||vyreat.icu^
 ||vyrhxfi.cn^
 ||vyriglq.cn^
+||vyrpoe.cn^
 ||vytans.com^
 ||vyule.com^
 ||vywoxptqyqgex.com^
@@ -87820,7 +87825,7 @@ afkgaming.com##.o-yqC
 afkgaming.com##.ozw5N
 afl.com.au##.c-accordion__item-officialpartners
 afr.com###stickyLeaderboard
-aframnews.com,afro.com,aurn.com,aviacionline.com,borneobulletin.com.bn,businessday.ng,businessofapps.com,chicagodefender.com,chimpreports.com,coinweek.com,collive.com,coralspringstalk.com,dailynews.co.zw,dailysport.co.uk,dallasvoice.com,defence-industry.eu,dieworkwear.com,draxe.com,gatewaynews.co.za,gayexpress.co.nz,gematsu.com,hamodia.com,islandecho.co.uk,jacksonvillefreepress.com,mediaplaynews.com,moviemaker.com,newpittsburghcourier.com,nondoc.com,one.com.mt,richmondshiretoday.co.uk,sammobile.com,savannahtribune.com,spaceref.com,talkers.com,talkradioeurope.com,thegolfnewsnet.com,waamradio.com,womensagenda.com.au##.g
+aframnews.com,afro.com,aurn.com,aviacionline.com,borneobulletin.com.bn,businessday.ng,businessofapps.com,chicagodefender.com,chimpreports.com,coinweek.com,collive.com,coralspringstalk.com,dailynews.co.zw,dailysport.co.uk,dallasvoice.com,defence-industry.eu,dieworkwear.com,draxe.com,gatewaynews.co.za,gayexpress.co.nz,gematsu.com,hamodia.com,islandecho.co.uk,jacksonvillefreepress.com,mediaplaynews.com,moviemaker.com,newpittsburghcourier.com,nondoc.com,one.com.mt,richmondshiretoday.co.uk,sammobile.com,savannahtribune.com,spaceref.com,talkers.com,talkradioeurope.com,thegolfnewsnet.com,utdmercury.com,waamradio.com,womensagenda.com.au##.g
 africanadvice.com,pspad.com,sudantribune.com,thehackernews.com##.google
 africanews.com##.right-legend
 afro.com##.a-215.g-single
@@ -96444,6 +96449,8 @@ kayak.com##[role="button"]:has([class*="ad-marking"])
 kayak.com##[role="tab"]:has([class*="sponsored"])
 kazwire.com##h3.tracking-widest
 kbb.com###contentFor_kbbAdsSimplifiedNativeAd
+kbb.com##.ads__container
+kbb.com##.ads__container-kbbLockedAd
 kbjfree.com##.relative.w-full:has(> .video-card[target="_blank"])
 kbjfree.com##.w-\[728px\]
 kbjfree.com,posemaniacs.com##.h-\[250px\]
@@ -100818,6 +100825,8 @@ rjno1.com##+js(addEventListener-defuser, error, event.target.tagName)
 rjno1.com##main > div[class^="qnb"]
 rjno1.com#$#body #aswift_1:not(#style_important) { display: block !important; }
 rkanr.com##.bill
+rlsbb.cc##[href^="https://rlsbb.cc/link.php"]
+rlsbb.ru##[href^="https://rlsbb.ru/link.php"]
 rlslog.net##div[style*="z-index:"]:first-child
 rlslog.net##div[style="padding-left:40px;"]
 road.cc###Footer-Billboard
