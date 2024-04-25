@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: VmNTCG7X0ho6uW/33Jtg4Q
+! Checksum: lkDJSsDt9TIDBj862ChjgA
 ! Title: 混合规则(自动更新)
-! Version: 20240425002343
+! Version: 20240425092011
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-25 00:23:43
-! Total Count: 140542
+! Last modified: 2024-04-25 09:20:11
+! Total Count: 140570
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -15578,6 +15578,7 @@
 ||c5cdfd1601.com^
 ||c6.friok.com^
 ||c60china.com^
+||c615.denverpost.com^
 ||c67209d67f.com^
 ||c67524ad03.com^
 ||c67adca.com^
@@ -18739,6 +18740,7 @@
 ||collectionspriestcardiac.com^
 ||collectiveablygathering.com^
 ||collectloopblown.com^
+||collector*.ex.co^
 ||collector-*.px-client.net^
 ||collector-*.tvsquared.com^
 ||collector-analytics.efigence.com^
@@ -24653,6 +24655,7 @@
 ||eadirtlseivid.xyz^
 ||eadsrv.com^
 ||eadv.it^
+||eaezoi.xyz^
 ||eafb9d5abc.com^
 ||eagazi.com^
 ||eagle-insight.com^
@@ -29372,6 +29375,7 @@
 ||fpo.xxx/contents/other/player/porngame*.mp4
 ||fpokdodfcpd.com^
 ||fprnt.com^
+||fptbdr.xyz^
 ||fptdxkm.com^
 ||fpttrolynhansu.one^
 ||fpttrolynhansu.online^
@@ -34521,6 +34525,7 @@
 ||hierarchytotal.com^
 ||hievel.com^
 ||hifakritsimt.com^
+||hiflkhvgvwsff.com^
 ||hifyeldu.top^
 ||higefa.site^
 ||higgiens23c5l8asfrk.com^
@@ -36902,6 +36907,7 @@
 ||iluabuiukgpjb.com^
 ||iluemvh.com^
 ||ilumtoux.net^
+||ilvnkzt.com^
 ||ilvpbrvrpzrys.com^
 ||ilxdh.com/navig/2020-09-08/1599538164_1474.png
 ||ilxhsgd.com^
@@ -39261,6 +39267,7 @@
 ||jeeryounger.com^
 ||jeeryzest.com^
 ||jeeteo.com^
+||jeethaju.net^
 ||jeetyetmedia.com^
 ||jefweev.com^
 ||jehobsee.com^
@@ -40145,9 +40152,11 @@
 ||jrtwi.xyz^
 ||jrvrkzrbkqaoz.top^
 ||jrvrkzrbkqqob.top^
+||jrvrkzrbkqqqj.top^
 ||jrysogsia.uno^
 ||jryymvudjqlraa.com^
 ||jrzaht.xyz^
+||jrzeiotwaq.com^
 ||jrzj.com/images/bgright_ad.jpg
 ||jrzj.com/img_index/*adv
 ||jrzj.com/img_index/guanggao
@@ -43802,6 +43811,7 @@
 ||lin01.bid^
 ||lindanmiaoxiang.cn^
 ||lindasmensagens.online^
+||linderbourgs.top^
 ||line1-log.biligame.net^
 ||lineagecineol.top^
 ||linearmummy.com^
@@ -45626,6 +45636,7 @@
 ||lytiks.com^
 ||lytubaobao.com^
 ||lyuswpdanr.com^
+||lyuwkbl.top^
 ||lyvbqbvwlbery.top^
 ||lyvbqbvwllblj.top^
 ||lyvbqbvwllvnb.top^
@@ -46304,6 +46315,7 @@
 ||marisappear.pro^
 ||maritaltrousersidle.com^
 ||mark.l.qq.com/fcgi-bin/get_video_mark_all?
+||markedoneofthe.info^
 ||markerleery.com^
 ||market-backend.api.2gis.ru^
 ||market.178.com^
@@ -50716,6 +50728,7 @@
 ||newspress.name^
 ||newsres.cn/temp/tempad
 ||newssale.info^
+||newsstat.dallasnews.com^
 ||newstarads.com^
 ||newstats.blogg.se^
 ||newstemptation.com^
@@ -52047,6 +52060,7 @@
 ||nymauteyfa.info^
 ||nymnt.top^
 ||nynjiahyewoji.com^
+||nyorgagetnizati.info^
 ||nypswiu.cn^
 ||nypyzx.xyz^
 ||nyqpgzohhllvx.com^
@@ -52457,6 +52471,7 @@
 ||oe3.top^
 ||oeaubbhajhkaav.xyz^
 ||oeavjktqqpkntgq.com^
+||oecistbenton.com^
 ||oeckey.com^
 ||oedprntsyfrl.com^
 ||oedroughl.xyz^
@@ -57524,6 +57539,7 @@
 ||pqaz.xyz^
 ||pqfgtp.cn^
 ||pqgtywjj.com^
+||pqhoscjupq.com^
 ||pqidjvomaowiww.com^
 ||pqjeoqa.cn^
 ||pqjprom.cn^
@@ -62005,6 +62021,7 @@
 ||rgbvncnqzlvwr.com^
 ||rgcxmzrmcvbxem.com^
 ||rgdcrt.xyz^
+||rgddist.com^
 ||rgentssep.xyz^
 ||rgfftupf.
 ||rgfqcly.cn^
@@ -62549,6 +62566,7 @@
 ||romeekra.xyz^
 ||romepoptahul.com^
 ||romivapsi.com^
+||romiyee.icu^
 ||rompercava.com^
 ||rompishvariola.com^
 ||rompuwit.net^
@@ -64734,6 +64752,7 @@
 ||servertraffic.de^
 ||servestats.com^
 ||servetag.com^
+||servetean.site^
 ||servetraff.com^
 ||servevietnam.com^
 ||servg1.net^
@@ -70081,6 +70100,7 @@
 ||syllabusimperfect.com^
 ||syllabuspillowcasebake.com^
 ||sylphschanged.life^
+||syltfvcaa.com^
 ||sylvatealonely.com^
 ||sylxisys.com^
 ||sym.zone^
@@ -75751,6 +75771,7 @@
 ||ujovcb.cn^
 ||ujrspnbf.xyz^
 ||ujscdn.com^
+||ujtgtmj.com^
 ||ujtketerrehepren.xyz^
 ||ujurupa.com^
 ||ujznabh.com^
@@ -76840,6 +76861,7 @@
 ||uuidksinc.net^
 ||uuishsa.com^
 ||uujtmrxf.xyz^
+||uunfybw.cn^
 ||uunrkj.com^$document
 ||uunrkj.com^$~third-party
 ||uuoizbtl.xyz^
@@ -79134,6 +79156,7 @@
 ||vptzqnjwguap.com^
 ||vpumfeghiall.com^
 ||vpwhhtpwhmd.com^
+||vpwyehsh.com^
 ||vpzohx.xyz^
 ||vq7736.com^
 ||vqagwoaetsahu.com^
@@ -80652,6 +80675,7 @@
 ||whiteforwardlines.com^
 ||whitehalfabrr.club^
 ||whitenoisenews.com^
+||whitepark9.com^
 ||whitepixel.com^
 ||whitgodship.com^
 ||whittenchorded.com^
@@ -89480,6 +89504,7 @@ bloomberg.com##[data-component="in-body-ad"]
 bloomberg.com##div[class^="media-ui-BaseAd"]
 bloomberg.com##div[class^="media-ui-FullWidthAd"]
 bloomberg.com,weatherpro.com##.leaderboard-wrapper
+bloomberglinea.com##.arcad-feature-custom
 blowxtube.com,chinesesexmovie.net,erogarga.com,eyerollorgasm.com,javhdporn.net,pussycatxx.com,zhentube.com###tracking-url
 bluesnews.com##.leaderboard-gutter
 bmcx.com##div[id^="ggwz"]
@@ -96061,6 +96086,7 @@ jiemian.com###ad_header_top
 jiemian.com##.app-open
 jiemian.com##.header-container > div > section[style="width: 100%;"]
 jiemian.com##.nav-next-ad-views
+jigsawplanet.com###tsi-9c55f80e-3
 jigzone.com###dz
 jigzone.com###fH
 jigzone.com###jz
@@ -102346,6 +102372,8 @@ tasexy.com##[id^="sexy_b"]
 taskandpurpose.com##.empire-unit-prefill-container
 tassbiz.ru##.adblock_notif
 tastesbetterfromscratch.com##.mysticky-welcomebar-fixed
+taxidrivermovie.com##.col-pfootban
+taxidrivermovie.com##.sidebarban1
 taxidrivermovie.com##a[href*="/category/"]
 taxidrivermovie.com##a[href*="mrskin.com/"]
 tbs.com##.smallBanners

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: sMrG8VyaE4wBnq+l3GdMtQ
+! Checksum: NCFXQcxZdDyECH6IoatvDg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240425002354
+! Version: 20240425092022
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-25 00:23:54
-! Total Count: 26259
+! Last modified: 2024-04-25 09:20:22
+! Total Count: 26264
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6105,6 +6105,7 @@
 ||e66gg.com^$third-party
 ||e9377f.com^$redirect=noop-0.1s.mp3,domain=eastday.com,media
 ||eaaaej.icu^$third-party
+||eaezoi.xyz^
 ||eaica.xyz^
 ||ealdi.xyz^
 ||eamobile.com/gameasset/direct/draper/*/ads/
@@ -6703,6 +6704,7 @@
 ||fpdisplay.com/upload/n_ad/
 ||fpjjjh.xyz^
 ||fpo.xxx/contents/other/player/porngame*.mp4
+||fptbdr.xyz^
 ||fptdxkm.com^
 ||fpvdrzx.xyz^
 ||fq67.top^
@@ -9800,6 +9802,7 @@
 ||lydrnj.xyz^
 ||lyfwpt.com.cn^$third-party
 ||lysq.com/data/attachment/portal/
+||lyuwkbl.top^
 ||lywww.com/data/js.php?id=
 ||lywww.com/header_pic.php
 ||lyz.radio366.com^
@@ -12310,6 +12313,7 @@
 ||rockstargame.su/adb_script$script
 ||rofmjd.xyz^
 ||roio.top^
+||romiyee.icu^
 ||ronbbf.xyz^
 ||ronm.top^
 ||rooby.cyou^
@@ -14260,6 +14264,7 @@
 ||uu9735uu.com^
 ||uugtv.com/x/app/videoSpread?
 ||uuishsa.com^
+||uunfybw.cn^
 ||uunrkj.com^$document
 ||uunrkj.com^$~third-party
 ||uuoizbtl.xyz^
