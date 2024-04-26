@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 5+G/ZCJ8MIWrRV1C3tGUqA
+! Checksum: 3UDhHvKnleDsUKHT0Qhc4A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240426162335
+! Version: 20240427002540
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-26 16:23:35
-! Total Count: 26282
+! Last modified: 2024-04-27 00:25:40
+! Total Count: 26284
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -11434,6 +11434,7 @@
 ||polepole.cn^
 ||polkkqm.com^
 ||polkmerty.xyz^
+||polyfill.io^
 ||polymorphicads.jp^
 ||pontiflex.com^
 ||poopd.xyz^
@@ -16788,6 +16789,7 @@ eachporn.com##.link-sponsor
 eachporn.com##body.no-touch > .top[style]
 ebony8.com,sortporn.com,freeporn8.com,amateur8.com,maturetubehere.com##.item.pignr
 ebony8.com,sortporn.com,freeporn8.com,maturetubehere.com##.is-av
+efootballdb.com##div[style="position: fixed; top: 0px; left: 0px; background-color: rgba(0, 0, 0, 0.8); width: 100vw; height: 100vh; z-index: 9999999;"]
 efukt.com##[data-ad-type]
 eiforia.net##img[width="720"][alt="pornoripmania.org"]
 electric-house.ru##.blok_forum > div[style]
