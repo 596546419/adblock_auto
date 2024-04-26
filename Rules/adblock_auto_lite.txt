@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: i3c4xJASl4cvTIPEl6FnPA
+! Checksum: GeTtwg+otn3MRzmg/kol9A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240426002417
+! Version: 20240426092535
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-26 00:24:17
-! Total Count: 26271
+! Last modified: 2024-04-26 09:25:35
+! Total Count: 26279
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5365,6 +5365,7 @@
 ||cvnxetmq.xyz^
 ||cvtbdap.xyz^
 ||cvudqzoa.xyz^
+||cweriof.top^
 ||cwgshkz.cn^
 ||cwmlm.com^$third-party
 ||cwolwc.xyz^
@@ -6664,6 +6665,7 @@
 ||fmre1.com^
 ||fmssoj.icu^
 ||fmvbyji.cn^
+||fmvzzh.xyz^
 ||fmzifaqi.xyz^
 ||fn9u.fun^
 ||fnbhxv.xyz^
@@ -9012,6 +9014,7 @@
 ||kantv6.com/index.php/Popularize/
 ||kanxiao.net^$third-party
 ||kaolashuwu.com/zb_users/plugin/ZF_tanchuang/
+||kaosts.com^
 ||kaoyan1v1.com/IAA/
 ||kart2ks.icu^
 ||kasiklz.cc^
@@ -9091,6 +9094,7 @@
 ||kghgmn.top^
 ||kgnpwdf.cn^$third-party
 ||kgqcse.xyz^
+||khcsvdc.icu^
 ||khrtac.xiangha.com^
 ||khzyojb.cn^
 ||kiees.cn/img/
@@ -9170,6 +9174,7 @@
 ||knjmhmk.com^
 ||knliylh.cn^
 ||knowmore.cc/style/head.js
+||knpkxgfp.xyz^
 ||knuaxfv.cn^
 ||knxvwxe.cn^
 ||knyjes.xyz^
@@ -12227,6 +12232,7 @@
 ||rest.sexypornvideo.net^
 ||restartad.com^
 ||resumes.ren^
+||retinaesprent.com^
 ||reton.free-porn-videos.org^
 ||retrieval-bd.duote.com^
 ||rett.top^
@@ -12503,6 +12509,7 @@
 ||same.chinadaily.com.cn^
 ||same.eastmoney.com^
 ||samfw.com/js/script.js
+||samoryinaner.com^
 ||sangoo.top^$third-party
 ||sanme2.taisantech.com^
 ||santou20230127.live^
@@ -15630,6 +15637,7 @@
 ||ym.oaclrst.cn^$third-party
 ||ymcdn.ymtrack6.co/ads_file/
 ||ymcdn.ymtrack6.co/offer_single_files/
+||ymcnsq.xyz^
 ||ymdxl.com^
 ||ymhyw6.lol^
 ||ymmiyun.com^
