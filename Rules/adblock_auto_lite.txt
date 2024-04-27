@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 3UDhHvKnleDsUKHT0Qhc4A
+! Checksum: PNsvUHKaFZoPzPTdGxcleA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240427002540
+! Version: 20240427091736
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-27 00:25:40
-! Total Count: 26284
+! Last modified: 2024-04-27 09:17:36
+! Total Count: 26289
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5664,6 +5664,7 @@
 ||dfjd.xyz^
 ||dfninp.xyz^
 ||dfsd22.com^
+||dfsgppz.icu^
 ||dftoutiao.com/dfpcitv/pcitv?jsonpcallback=
 ||dftoutiao.com/dfpcitv/pcitv?type=
 ||dftoutiao.com/jrdftt/static/javascript/ad/
@@ -7905,6 +7906,7 @@
 ||hw-ot-ad.a.yximgs.com^
 ||hw0.com.cn^
 ||hwcdn.net^*.mp4|$domain=pornachi.com|pornchimp.com
+||hweriou.top^
 ||hwfoct.icu^
 ||hwhacum.cn^
 ||hwhefj.xyz^
@@ -9322,6 +9324,7 @@
 ||kxmusic.top/tc/js/script.js
 ||kxxfdwt.cn^
 ||ky891.oss-*.aliyuncs.com^
+||kyaywy.xyz^
 ||kybzkiw.xyz^
 ||kycxhgrp.xyz^
 ||kydzfldt.xyz^
@@ -10852,6 +10855,7 @@
 ||nwpcptmm.xyz^
 ||nwrgdifq.xyz^
 ||nwuidsbjak.com^
+||nwxaxx.xyz^
 ||nwxs5.com/js/
 ||nxditl.xyz^
 ||nxflv.com/nxflv.js
@@ -14380,6 +14384,7 @@
 ||vazhno.ru/cdn-cgi/apps/head/*.js
 ||vbdbmqzu.com^
 ||vbgr7.cn^
+||vbutycp.cn^
 ||vbzfjh.xyz^
 ||vbzrkme.xyz^
 ||vcbppb.xyz^
