@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: OygwDkyp8nHtRJYB+El2Dw
+! Checksum: BZDXkPGFEylZtXBxzjXoYg
 ! Title: 混合规则(自动更新)
-! Version: 20240427091726
+! Version: 20240427162304
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-27 09:17:26
-! Total Count: 140664
+! Last modified: 2024-04-27 16:23:04
+! Total Count: 140678
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6180,6 +6180,7 @@
 ||adswrapme.click^
 ||adsxyz.com^
 ||adsy.mail.bg^
+||adsymptotic.com^
 ||adsync.tech^
 ||adsyou.pro^
 ||adsyst.ru^
@@ -59320,6 +59321,7 @@
 ||qcb2xeg.icu^
 ||qcbfiytngupv.com^
 ||qccoccocmedia.vn^
+||qcepqj.icu^
 ||qceyyxauc.xyz^
 ||qcffrrsyaxcccx.xyz^
 ||qcfkvespkj.com^
@@ -94846,6 +94848,7 @@ horoscopes.astro-seek.com##.vyska-sense
 hostingreviews24.com##.av_pop_modals_1
 hosty.uprwssp.org##.e10
 hot-milf.co,milffuck.fun,hotmilfporn.site###video-id_fluid_html_on_pause
+hot.co.uk,hot.com##.p-search__action-results.badge-absolute.text-div-wrap.top
 hot933hits.com###simpleimage-5
 hotcelebshome.com##.bcpsttl_name_listing
 hoteastday.com###detail_mask_ad
@@ -95851,7 +95854,9 @@ israelnationalnews.com##.home-subsections-banner
 israelnationalnews.com##.sideInf
 isso.com.cn##.right-content-div > .top-div + div
 issuu.com###playwire-video
+issuu.com##.gMUVke
 issuu.com##.jzWDOE
+issuu.com##.lbiKNr
 issuu.com##div[class*="adPlacement"]
 issuu.com##div[class*="adSkyscraper"]
 it-enginer.ru##body > #modal[style*="blur"]
@@ -95937,6 +95942,7 @@ its.porn##.desk-banners
 its.porn#?#.twocolumns > aside:not([class]):not([id]):has(> .table > div[class*="IPO-Itsporn_Native_"])
 its.porn,jizzez.net##.oneBanner
 itsatechworld.com##.topd
+itsfoss.com##a[href^="https://www.warp.dev"]
 itweb.co.za##.itw-ad
 itweb.co.za##.itw-content-zone
 itweb.co.za##.s-logos
@@ -103266,6 +103272,7 @@ toppixxx.com##.thumbad
 topservers.com##.google_slot
 topservers.com##.long_wrap
 topsmerch.com##.advertisement--6
+topsmerch.com##.advertisement-2-box
 topsmerch.com##.affix-placeholder
 topsmerch.com##.padding-50px
 topsmerch.com##.padding-top-20px.br-t
@@ -103916,6 +103923,7 @@ vdianying.cc##.xintheme-gg
 vdisk.weibo.com###ads_layer
 vedantbhoomi.com##.elementor-widget-smartmag-codes
 vedantu.com##.banner-text
+veev.to##.avb-active
 venea.net##.ag_banner
 venea.net##.ag_line
 ventoy.net###adv_titles
@@ -105779,6 +105787,8 @@ zhcw.com##.hzg60
 zhcw.com##.khdpc
 zhcw.com##.news_blanck
 zhcw.com##.tgtc
+zhcw.com##.ycxdZw
+zhcw.com##.yzjggw
 zhenbuka.com##+js(no-setTimeout-if, ad_ids)
 zhenbuka.com##.jq-toast-wrap
 zhenbuka3.com,zhenbuka2.com,bukaivip.com##+js(adjust-setTimeout, CloseAd, , 0.02)
@@ -132536,6 +132546,7 @@ zle.com$script
 ##.layeradinfo
 ##.layout-ad
 ##.layout__content-ad
+##.layout__right-ads
 ##.layout__top-ad
 ##.layout_h-ad
 ##.lazy-ad
@@ -137028,6 +137039,7 @@ zle.com$script
 ##a[href^="https://click.linksynergy.com/fs-bin/"]
 ##a[href^="https://click.linksynergy.com/fs-bin/"] > img
 ##a[href^="https://clickadilla.com/"]
+##a[href^="https://clickins.slixa.com/"]
 ##a[href^="https://clicks.pipaffiliates.com/"]
 ##a[href^="https://clixtrac.com/"]
 ##a[href^="https://clk.wrenchsound.store/"]
@@ -137064,6 +137076,7 @@ zle.com$script
 ##a[href^="https://go.admjmp.com"]
 ##a[href^="https://go.admjmp.com/"]
 ##a[href^="https://go.bbrdbr.com/"]
+##a[href^="https://go.bushheel.com/"]
 ##a[href^="https://go.cmtaffiliates.com/"]
 ##a[href^="https://go.currency.com/"]
 ##a[href^="https://go.dmzjmp.com"]
@@ -137073,6 +137086,7 @@ zle.com$script
 ##a[href^="https://go.gldrdr.com/"]
 ##a[href^="https://go.goaserv.com/"]
 ##a[href^="https://go.goasrv.com/"]
+##a[href^="https://go.grinsbest.com/"]
 ##a[href^="https://go.hpyjmp.com"]
 ##a[href^="https://go.hpyrdr.com/"]
 ##a[href^="https://go.julrdr.com/"]
