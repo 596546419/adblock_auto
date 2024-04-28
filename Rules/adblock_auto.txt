@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: znhIiPaRDFzfsOjlUzn+zw
+! Checksum: 2Yksko91Ic19qVHAuGLJhw
 ! Title: 混合规则(自动更新)
-! Version: 20240428162421
+! Version: 20240429002155
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-28 16:24:21
-! Total Count: 140903
+! Last modified: 2024-04-29 00:21:55
+! Total Count: 140906
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2296,6 +2296,7 @@
 ||58cdn.com.cn/nowater/webim/big/n_v2e722db7ca7f1458d92b7d6e57f833548.
 ||58cdn.com.cn/resource/xxzl/xxfw/
 ||58cdn.com.cn^$domain=tvyb03.com
+||58e0.site^
 ||58file.com/down/xyk.
 ||58taopinhui.com^
 ||58tg.com^$third-party
@@ -87814,8 +87815,8 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 91porn.com,its.porn##.preroll-blocker
 91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz,jiuse970.com##.container-fluid.p-0[class*="mb-"]
 91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz,jiuse970.com##.jsv-g1
-91porny.org,jiuse.io,haijiao35.com###main > div[id^="rd"]
-91porny.org,jiuse.io,haijiao35.com##.footer + .block
+91porny.org,haijiao35.com,jiuse.io###main > div[id^="rd"]
+91porny.org,haijiao35.com,jiuse.io##.footer + .block
 91porny.org,jiuse.io,haijiao35.com#?#.card:-abp-has(>.card-image>a[href^="http"])
 91short.com##.player-info
 91short.com##[class$="i"][style*="bottom"],[class$="h"][style*="bottom"],[class$="_b"],[class$="c"][style*="bottom"],embed[src],canvas,*[style*="fixed"][style*="bottom"][style*="display"][style*="block"][style*="vw"],img[src*="cn-chengdu.aliyuncs.com/"],a[href*=".top"] > img[src],div[class^="shortcuts-"][class$="-overlay"],a[href] > h3,[class][style*="131px"]
@@ -91573,6 +91574,7 @@ dailykos.com##.ad__placeholder
 dailykos.com##.story-banner-ad-placeholder
 dailymail.co.uk###promo-unit
 dailymail.co.uk###sky-right
+dailymail.co.uk##.footballco-container
 dailymail.co.uk##.mol-fe-vouchercodes-redesign
 dailymail.co.uk##.mpu_puff_wrapper
 dailymail.co.uk##.puff_pastel
@@ -132275,6 +132277,7 @@ zle.com$script
 ##.homepageAd
 ##.homepageFlexAdOuter
 ##.homepageMPU
+##.homepage__native-ad
 ##.homepage_ad_half
 ##.homepage_ads
 ##.homepage_ads_firstrow
