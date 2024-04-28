@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: nR9kNVgnM02mIibwX5jBww
+! Checksum: xO9gA2rxHjtvfkqE89ACIQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240428002147
+! Version: 20240428162432
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-28 00:21:47
-! Total Count: 26290
+! Last modified: 2024-04-28 16:24:32
+! Total Count: 26298
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8450,6 +8450,7 @@
 ||iwandlo.top^
 ||iwarship.net/wowsdb/static/img/banner.png
 ||iwatojc.cn^
+||iwerioo.top^
 ||iwwmaq.xyz^
 ||ix2.deepsexvids.com^
 ||ixstng.cn^
@@ -8991,6 +8992,7 @@
 ||kaiyiluye.com^
 ||kakakumag.com/script/mag/smartphone/fixed_bnr_area.js
 ||kalerkantho.com/banner/
+||kalmukrattail.com^
 ||kalongyyds.com^
 ||kalvin.cn/page/img/
 ||kan.cc/statics/abs/scripts/abs.
@@ -12218,6 +12220,7 @@
 ||reg.jiayuan.com^$~third-party
 ||regrfg33.com^
 ||regulatesleet.com^$third-party
+||regwiuv.cn^
 ||rehabilitatereason.com^$third-party
 ||relafp.xyz^
 ||remehealth.net^$third-party
@@ -14131,6 +14134,7 @@
 ||ugbler.icu^
 ||ugkpsi.xyz^
 ||ugpibtpk.xyz^
+||ugtbit.icu^
 ||ugvbsrbht.xyz^
 ||ugwxwy.xyz^
 ||uhjxitn.xyz^
@@ -14392,6 +14396,7 @@
 ||vcdn.biz/*_mggads/
 ||vcjczwnc.xyz^
 ||vcnpnf.xyz^
+||vcugbgu.cn^
 ||vcvbnmto.xyz^$third-party
 ||vcydyzd.icu^
 ||vdebtqm.xyz^
@@ -14445,6 +14450,7 @@
 ||vghnnh.xyz^
 ||vgjaxnuw.xyz^
 ||vgxhvt.xyz^
+||vgzytn.xyz^
 ||vhgunzr.cn^
 ||vhhxnb.xyz^
 ||vhjxrj.xyz^
@@ -14992,12 +14998,14 @@
 ||wxl0gfw.icu^
 ||wxsignin.top^
 ||wxxmt.xyz^
+||wxymag.xyz^
 ||wxzrw.com^
 ||wy213.com^$popup,third-party
 ||wyfec.cn^
 ||wyhifdpatl.com^
 ||wyiegt.icu^
 ||wyjbvoz.xyz^
+||wymqjow.icu^
 ||wymzwy.cn^
 ||wyoaij.icu^
 ||wyohm.xyz^
