@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: WRwA+8QaGgyHSXrwjoFkBg
+! Checksum: 1/mssPZkQPvplq3RFFnlrg
 ! Title: 混合规则(自动更新)
-! Version: 20240429162538
+! Version: 20240430002402
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-29 16:25:38
-! Total Count: 141047
+! Last modified: 2024-04-30 00:24:02
+! Total Count: 141053
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -15651,6 +15651,7 @@
 ||ca169a128b.com^
 ||ca1dbc5563.com^
 ||ca30f.top^
+||ca3d.site^
 ||ca3m6ari9rllo.com^
 ||ca4psell23a4bur.com^
 ||ca548318cc.com^
@@ -68514,6 +68515,7 @@
 ||ssliivuqpm.ru^
 ||ssllink.net^
 ||sslph.com^
+||ssm.codes^
 ||ssmprmp.com^
 ||ssnignsb.xyz^
 ||ssnn.net^*-200-250.jpg
@@ -99544,7 +99546,7 @@ orgasm.com##.horizontal-banner-module
 originalindianporn.com,wowindianporn.com,6japaneseporn.com##.center-place > .bns-place-ob > .bn-place
 orlandoweekly.com,sacurrent.com##.fdn-interstitial-slideshow-block
 orschlurch.net##.amazon-wrapper
-orschlurch.net,tetris.com##[href^="https://amzn.to/"]
+orschlurch.net,photorumors.com,tetris.com##[href^="https://amzn.to/"]
 orsoon.com###new-actentry
 orteil.dashnet.org###smallSupport
 osbot.org###ipsLayout_footer
@@ -99864,6 +99866,7 @@ photolessons.org###modal-adbmon-div
 photonics.com##.BOX_CarouselAd
 photopea.com##.flexrow > div[style^="padding-top:"]
 photopea.com##[href*=".ivank.net"]
+photorumors.com##[href="https://topazlabs.com/ref/70/"]
 php.cn##.close_id
 php.cn##.layui-show > UL > .top-img
 php.cn##.zwwad
@@ -121788,6 +121791,7 @@ zle.com$script
 ###divFoldersAd
 ###divFooterAd
 ###divFooterAds
+###divSponAds
 ###divSponsoredLinks
 ###divStoryBigAd1
 ###divThreadAdBox
@@ -121993,6 +121997,7 @@ zle.com$script
 ###frameAd
 ###frameS8CyqB
 ###frameTextAd2
+###frmSponsAds
 ###front-ad-cont
 ###front-page-ad
 ###front-page-advert
@@ -125900,6 +125905,7 @@ zle.com$script
 ##.ad-slot-box
 ##.ad-slot-container
 ##.ad-slot-container-1
+##.ad-slot-desktop
 ##.ad-slot-full-width
 ##.ad-slot-header
 ##.ad-slot-horizontal
