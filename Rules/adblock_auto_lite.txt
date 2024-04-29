@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: KhSRT109/4BSS/AIrRRPeg
+! Checksum: 6Mz0gnx/+UMCdkLDtasKCQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240429002206
+! Version: 20240429092015
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-29 00:22:06
-! Total Count: 26298
+! Last modified: 2024-04-29 09:20:15
+! Total Count: 26304
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4545,6 +4545,7 @@
 ||bwandlv.top^
 ||bweriov.top^
 ||bwlcpr.xyz^
+||bwuwirv.cn^
 ||bwwlw.cn^
 ||bxackzj.icu^
 ||bxbyll.xyz^
@@ -8114,6 +8115,7 @@
 ||iiwoqm.xyz^
 ||ijgbuj.xyz^
 ||ijinshan.com/images/gk/game
+||ijmxco.xyz^
 ||ijvla.cn^
 ||ik123.com/js/dd.js
 ||ikafan.com/js/novel.js
@@ -8919,6 +8921,7 @@
 ||jwandla.top^
 ||jweod.xyz^
 ||jweoe.xyz^
+||jwerioa.top^
 ||jwfesuk.cn^
 ||jwhdgt.icu^
 ||jwjzf.online^
@@ -11775,6 +11778,7 @@
 ||pw321.com^*.gif
 ||pwbuhb.xyz^
 ||pwc.qktmwiq.cn^
+||pwcegau.icu^
 ||pwddhc.xyz^
 ||pwhkfd.xyz^
 ||pwhtip.icu^
@@ -14563,6 +14567,7 @@
 ||vptz1*.xyz/1*.html$document
 ||vptz1*.xyz/1*.html$~third-party
 ||vpzohx.xyz^
+||vqbzpv.xyz^
 ||vrdxznr.xyz^
 ||vreephay.com^
 ||vrivslffndepxqd.xyz^
@@ -15727,6 +15732,7 @@
 ||ypvtw.com^
 ||ypwlctfk.xyz^
 ||ypyjyhny.xyz^
+||yqdnad.icu^
 ||yqingge.com/wap.js
 ||yqlxkzs.cn^
 ||yqlxwb.icu^

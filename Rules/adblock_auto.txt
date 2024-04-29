@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 2Yksko91Ic19qVHAuGLJhw
+! Checksum: PohnN8nDGTna2WZvWIg7TA
 ! Title: 混合规则(自动更新)
-! Version: 20240429002155
+! Version: 20240429092004
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-29 00:21:55
-! Total Count: 140906
+! Last modified: 2024-04-29 09:20:04
+! Total Count: 140932
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7053,6 +7053,7 @@
 ||ageandinone.xyz^
 ||ageaskedfurther.com^
 ||agefans.top/js/wap2-jm-ms.js
+||agehaeamilhfv.com^
 ||agelastbypast.top^
 ||agency2.ru^
 ||agency360.io^
@@ -9726,6 +9727,7 @@
 ||aq7ua5ma85rddeinve.com^
 ||aq869.name^$document
 ||aq869.name^$~third-party
+||aqaggxmhabf.com^
 ||aqburrae.xyz^
 ||aqbusmueljfy.com^
 ||aqc.gucheng.com^
@@ -15047,6 +15049,7 @@
 ||builfico.de^
 ||builthousefor.com^
 ||builthuosefor.com^
+||builtinintriguingchained.com^
 ||builtinproceeding.com^
 ||buimg.com^$domain=kisssub.org
 ||bujaguppplfy.xyz^
@@ -15336,6 +15339,7 @@
 ||bwsvftq.cn^
 ||bwtsrv.com^
 ||bwunebnqdu.com^
+||bwuwirv.cn^
 ||bwvqjqmlkezjk.top^
 ||bwvqjqmlkezkl.top^
 ||bwwlw.cn^
@@ -21827,6 +21831,7 @@
 ||deeplearning.red^
 ||deepmetrix.com^
 ||deepnewsjuly.com^
+||deeppinche.top^
 ||deeppquiz.ru^
 ||deepprostore.com^
 ||deeprootedladyassurance.com^
@@ -23245,6 +23250,7 @@
 ||dm1.guanwawa.com^
 ||dm1.zjydt.com^
 ||dm590.com/piao/
+||dmabpmokxcgm.com^
 ||dmakingbyth.com^
 ||dmanalytics1.com^
 ||dmayindallmypi.com^
@@ -25551,6 +25557,7 @@
 ||ejrigxesvg.com^
 ||ejsfnpjxc.com^
 ||ejsgxapv.xyz^
+||ejuiashsateam.info^
 ||ejuiashsateampl.info^
 ||ejunshi.com^
 ||ejvdfssdj.com^
@@ -25641,6 +25648,7 @@
 ||elevateamongstelitist.com^
 ||elevatedidentify.com^
 ||elevatedperimeter.com^
+||elewasgiwiththi.info^
 ||elfcoexistbird.com^
 ||elfinsande.website^
 ||elfnxscnmtao.com^
@@ -29135,6 +29143,7 @@
 ||foguroli.pro^
 ||fogvnoq.com^
 ||foheltou.com^
+||fohikrs.com^
 ||fohvutgi.com^
 ||foigtiqvikc.xyz^
 ||foirkrt.icu^
@@ -31201,6 +31210,7 @@
 ||gfvip08as.com^
 ||gfvip09aa.com^
 ||gfvip09at.com^
+||gfwvrltf.xyz^
 ||gfxa.sheetmusicplus.com^
 ||gfxjjpo.cn^
 ||gfxkxbai.com^
@@ -33468,6 +33478,7 @@
 ||haghalra.com^
 ||haglance.com^
 ||hagnaudsate.com^
+||hagnutrient.com^
 ||hagppxgjypqa.com^
 ||hagridestupose.space^
 ||hagweedtoytown.com^
@@ -36893,6 +36904,7 @@
 ||ijkqwopm.xyz^
 ||ijlnbonvfr.com^
 ||ijmrburud.com^
+||ijmxco.xyz^
 ||ijnuhb.top^
 ||ijorecepous.com^
 ||ijquery11.com^
@@ -39446,6 +39458,7 @@
 ||jeqxuvv.icu^
 ||jergocast.com^
 ||jeribpupiled.com^
+||jerimpob.net^
 ||jerjrqqzmzkzy.top^
 ||jerkarmlesspuppy.com^
 ||jerkisle.com^
@@ -40749,6 +40762,7 @@
 ||jweod.xyz^
 ||jweoe.xyz^
 ||jweqtiikcx.com^
+||jwerioa.top^
 ||jwfesuk.cn^
 ||jwfobgoeobehy.com^
 ||jwghphm.cn^
@@ -41496,6 +41510,7 @@
 ||khophanmem24h.com^
 ||khoslo.com^
 ||khovang.click^
+||khrrnhjuhdjvx.com^
 ||khrtac.xiangha.com^
 ||khuanynodefado.com^
 ||khufaw2.com^
@@ -42139,6 +42154,7 @@
 ||koushen.xyz^
 ||koustouk.net^
 ||koutobey.net^
+||kovhhlbbgs.com^
 ||kovla.com^
 ||koxcsmmcealss.com^
 ||koxqdviupg.xyz^
@@ -46277,6 +46293,7 @@
 ||makemyvids.com^
 ||makesembezzlementconsume.com^
 ||makethebusiness.com^
+||makeupenumerate.com^
 ||makingbookworm.com^
 ||makingdevil.com^
 ||makingnude.com^
@@ -49962,6 +49979,7 @@
 ||nacontent.pro^
 ||nadajotum.com^
 ||nadjustifygas.com^
+||nadjyiyolmxfea.com^
 ||nadruphoordy.xyz^
 ||nads.io^
 ||naetoris.pw^
@@ -49982,6 +50000,7 @@
 ||nahsfl.xyz^
 ||nai7.xyz^
 ||naiadexports.com^
+||naiantcapling.com^
 ||naicoapt.com^
 ||naiep.xyz^
 ||naifason.xyz^
@@ -51884,6 +51903,7 @@
 ||nr7.us^
 ||nrc.tapas.net^
 ||nrcqqpjx.xyz^
+||nrecitnr.com^
 ||nreg.world^
 ||nretholas.com^
 ||nrfhbd.xyz^
@@ -58477,6 +58497,7 @@
 ||prpops.com^
 ||prpops.com^$third-party
 ||prpopss.com^
+||prqbdfmzjs.com^
 ||prre.ru^
 ||prscripts.com^
 ||prscripts.com^$third-party
@@ -59239,6 +59260,7 @@
 ||pwbmdalngizhz.com^
 ||pwbuhb.xyz^
 ||pwc.qktmwiq.cn^
+||pwcegau.icu^
 ||pwcuu.cn^
 ||pwddhc.xyz^
 ||pwdxawuedjjj.com^
@@ -67427,6 +67449,7 @@
 ||soduso.com/js/4
 ||soduso.com/js/sat.js
 ||soduso.com/js/so.js
+||sodytykcbgpkw.com^
 ||soeverbabi.com^
 ||sofcryingfo.xyz^
 ||sofcryingforanyt.com^
@@ -79430,6 +79453,7 @@
 ||vpzohx.xyz^
 ||vq7736.com^
 ||vqagwoaetsahu.com^
+||vqbzpv.xyz^
 ||vqcjmtorgexlxpg.xyz^
 ||vqcuzypju.com^
 ||vqdjcy.com^
@@ -82982,6 +83006,7 @@
 ||xkrnud.icu^
 ||xksdqikwbwat.com^
 ||xksqb.com^
+||xktxemf.com^
 ||xkueeqyzz.com^
 ||xkwwnle.com^
 ||xkyn.com/imgs/js/al.js
@@ -84610,6 +84635,7 @@
 ||ypyjyhny.xyz^
 ||yqakcdg.cn^
 ||yqblutkjhx.com^
+||yqdnad.icu^
 ||yqeuu.com^
 ||yqgjq.com^
 ||yqgmvxufpkr.com^
