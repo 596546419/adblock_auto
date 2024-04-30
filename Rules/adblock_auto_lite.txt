@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: I211mlt7JSjPUUjBeUZTzQ
+! Checksum: OeaQmp+6brk56t5Bzarf6g
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240430002413
+! Version: 20240430091850
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-30 00:24:13
-! Total Count: 26305
+! Last modified: 2024-04-30 09:18:50
+! Total Count: 26310
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5462,6 +5462,7 @@
 ||daddq.cn^
 ||dadms.cn^
 ||dadwu.cn^
+||dadxnl.xyz^
 ||dadzz.cn^
 ||daede.cn^
 ||daeis.cn^
@@ -6110,6 +6111,7 @@
 ||e66gg.com^$third-party
 ||e9377f.com^$redirect=noop-0.1s.mp3,domain=eastday.com,media
 ||eaaaej.icu^$third-party
+||eabvmue.cn^
 ||eaezoi.xyz^
 ||eaica.xyz^
 ||ealdi.xyz^
@@ -8337,6 +8339,7 @@
 ||ipprof.ru/wp-content/plugins/ad-blocking-advisor/
 ||iprefer.com.tw^$third-party
 ||ipryes.top^
+||ipsoazr.icu^
 ||ipssn.haffo*.com^$third-party
 ||ipssss.com^
 ||iptv444.com/ad-
@@ -14304,6 +14307,7 @@
 ||uuxfznnf.xyz^
 ||uuzsfpju.xyz^
 ||uuzwvqc.cn^
+||uvklgw.xyz^
 ||uvpqrydt.xyz^
 ||uwandlt.top^
 ||uwants.com/dfp_forum.php?au=Uwants_Web_
@@ -15415,6 +15419,7 @@
 ||xxniln.xyz^
 ||xxooos.com/mm/
 ||xxp123.live^
+||xxsmad1.com^
 ||xxtalp.xyz^
 ||xxxvipporno.com^
 ||xxxxtube-porn.com/helper/tos.js
