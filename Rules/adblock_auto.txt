@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: GFjAWztPbf5Oc4zMnJGx7A
+! Checksum: IT/rQgRsSdevCI4ejaD1gw
 ! Title: 混合规则(自动更新)
-! Version: 20240430162438
+! Version: 20240501002532
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-30 16:24:38
-! Total Count: 141125
+! Last modified: 2024-05-01 00:25:32
+! Total Count: 141148
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4584,6 +4584,7 @@
 ||ad.3dnews.ru^
 ||ad.52av.one^
 ||ad.52av.tv^
+||ad.886112.xyz^
 ||ad.886644.com^
 ||ad.a-ads.com^
 ||ad.abema.io^
@@ -8824,6 +8825,7 @@
 ||analytics.vanillaforums.com^
 ||analytics.vedantu.com^
 ||analytics.vendemore.com^
+||analytics.verfacto.com^
 ||analytics.viblo.asia^
 ||analytics.videocloud.top^
 ||analytics.vietnamfinance.vn^
@@ -9328,6 +9330,7 @@
 ||api*.amplitude.com^
 ||api*.batmobi.net^
 ||api*.batmobil.net^
+||api*.bidmachine.io^
 ||api-*.bidmachine.io^
 ||api-*.hismarttv.com^
 ||api-a.ganjingworld.com/*/adsserver/get-vast-xml/
@@ -20774,6 +20777,7 @@
 ||cyan92010.com^
 ||cyberanalytics.nl^
 ||cybernetentertainment.com^
+||cybershieldfortress.buzz^
 ||cybersugardrew.com^
 ||cybertronads.com^
 ||cybkit.com^
@@ -24455,6 +24459,7 @@
 ||dwstatic.com^*/sidebar.js
 ||dwtkuzo.cn^
 ||dwvbfnqrbif.com^
+||dwvxmfscptajtll.com^
 ||dwwboxlnrlek.xyz^
 ||dwwjlvpja.com^
 ||dwwpofwebdwm.com^
@@ -26736,6 +26741,7 @@
 ||europagerank.com^
 ||europe-discounts.com^
 ||europe-west1-bonnier-big-data.cloudfunctions.net^
+||europe-west1-sonorous-dragon-276210.cloudfunctions.net^
 ||europeanurinebanana.com^
 ||europefreeze.com^
 ||europertsticke.site^
@@ -59435,6 +59441,7 @@
 ||pxxcyni.cn^
 ||pxxnejx.xyz^
 ||pxyrmsodhctqifm.com^
+||pxyympkyvqc.com^
 ||pxzkqq.com^
 ||pxzrlf.xyz^
 ||py.cn/src/img/pyy/
@@ -63031,6 +63038,7 @@
 ||rotumal.com^
 ||rotundfetch.com^
 ||rou.video/_next/static/chunks/pages/fuli-
+||rou.video/js/exo.js
 ||rou1.xyz^
 ||rou3.xyz^
 ||roucoutaivers.com^
@@ -64771,6 +64779,7 @@
 ||securely-send.com^
 ||securemoney.ru^
 ||securemvt.apple.com^
+||securenetguardian.top^
 ||securepaths.com^
 ||securepubads.g.doubleclick.net/pagead/$image,redirect-rule=1x1.gif
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=line.me,important
@@ -65136,6 +65145,7 @@
 ||servetraff.com^
 ||servevietnam.com^
 ||servg1.net^
+||servh.net^
 ||service-api.accesstrade.vn^
 ||service.adlinknetwork.vn^
 ||service.trustpid.com^
@@ -65802,6 +65812,7 @@
 ||shoopaean.com^
 ||shoopaem.com^
 ||shoopency.com^
+||shoopsee.net^
 ||shoopusahealth.com^
 ||shoopvv.com^
 ||shoosse.com^
@@ -67512,7 +67523,6 @@
 ||sobesed.com^
 ||sobnineteen.com^
 ||sobowapso.com^
-||sobreatsesuyp.com^
 ||sobt8.org/Public/static/js/common.js
 ||socadvnet.com^
 ||socalledattestation.com^
@@ -76792,6 +76802,7 @@
 ||uorhlwm.com^
 ||uorlsblg.cyou^
 ||uorwogwlbwtk.xyz^
+||uosxdmk.cn^
 ||uosyhthogsaavr.com^
 ||uosyiozyu.com^
 ||uotksykpmkcd.com^
@@ -87383,6 +87394,9 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 360kuai.com##.novel_galery_icon
 360kuai.com##.taskbar
 360kuai.com,hao.360.com###cangbao_redbags
+365scores.com##div[class^="all-scores-container_ad_placeholder_"]
+365scores.com##div[class^="bookmakers-review-widget_"]
+365scores.com##div[class^="games-predictions-widget_container_"]
 365xuet.com##.cd-items
 368015.xyz##div[style="height:60px;width:100%;"]
 36dm.club,36dm.com,acgsou.com##.clear.text_center
@@ -88671,12 +88685,11 @@ androidauthority.com##.---___0f
 androidauthority.com##.---___Mb
 androidauthority.com##.---___mh
 androidauthority.com##.---___nb
-androidauthority.com##.--_-___Yb
 androidauthority.com##.--qc
 androidauthority.com##.-Ci
 androidauthority.com##.-Yc
 androidauthority.com##._--_-___Pb
-androidauthority.com##._--_-___ub
+androidauthority.com##._--_-___Qb
 androidauthority.com##.andro-in-article-sidebar-desktop-placement
 androidauthority.com##.andro-mid-article-placement
 androidauthority.com##a[data-sel="dealbar-link"]
@@ -95217,6 +95230,7 @@ hmoe.one#?#.widget_text > .inn-sidebar__widget:has(> .poi-panel__header > .poi-p
 hmoe.one,hmoe.moe##a[href^="https://item.taobao.com"]
 hmoe12.com##.poi-container > div > a[href^="https://www.hmoe12.com/wp-admin/admin-ajax.php?action="][target="_blank"]
 hmoeh.com##+js(set-constant, google_tag_data, {})
+hmoeh.com##div[class] > div[class]:has(> a[href] > img[src^="https://ad."])
 hmog.me##.ml_ad_widget
 hmog.me##.side_widget:last-child
 hmog.me##a[href^="http://www.masadora.net/"]
@@ -101378,6 +101392,8 @@ roosterteeth.com##.vjs-marker
 roseindia.net##.col-md-4
 roseindia.net##.tutorialsstaticdata
 rottentomatoes.com##.leaderboard_wrapper
+rou.video##.grid > div[class^="col-span"]:has(> div[class] > div[id^="ts_ad_native"])
+rou.video##.grid > div[class^="col-span"]:has(> div[class] > ins)
 rouman5.com##.fixed-bottom
 rouman5.com##a[href*=".tapdb.net"]
 rouman5.com#?#.col-md-4 > div.row:has(> div.col > div[style] > ins[id])
@@ -104153,6 +104169,8 @@ unitconversion.org###iright
 unitconversion.org##a[href="../noads.html"]
 unite-db.com###ds_lb1
 unite-db.com###ds_lb2
+unite.pvpoke.com###nitro-unite-sidebar-left
+unite.pvpoke.com###nitro-unite-sidebar-right
 unixmen.com##.banners_home
 unknowncheats.me###bab
 unknowncheats.me##[href="https://securecheats.com/"]
@@ -126091,10 +126109,12 @@ zle.com$script
 ##.ad-top-billboard-init
 ##.ad-top-box-right
 ##.ad-top-container
+##.ad-top-desktop
 ##.ad-top-featured
 ##.ad-top-in
 ##.ad-top-lboard
 ##.ad-top-left
+##.ad-top-mobile
 ##.ad-top-mpu
 ##.ad-top-padding
 ##.ad-top-rectangle
@@ -130663,6 +130683,7 @@ zle.com$script
 ##.c-inblog_ad
 ##.c-main-header__ad
 ##.c-news-feed-ads
+##.c-pageArticleSingle_bottomAd
 ##.c-partner-articles
 ##.c-posts__ad
 ##.c-prebid
@@ -131520,6 +131541,7 @@ zle.com$script
 ##.fed-part-case > .ads-img
 ##.fed-play-advs
 ##.feed-ad
+##.feed-ad-wrapper
 ##.feed-item[data-ad]
 ##.ff-ads
 ##.fh_ad_microbuttons
@@ -134710,6 +134732,7 @@ zle.com$script
 ##.section-home-news__ad
 ##.section-sponsor
 ##.section-subheader > .section-hotel-prices-header
+##.section-widget-ad
 ##.section_AD
 ##.section_ad
 ##.section_ad_left

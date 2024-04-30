@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Ja1qYZpAzDSHjoQ2Yi8nlA
+! Checksum: zQZZK1Z6gfYNYmXm6nKU5g
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240430162449
+! Version: 20240501002543
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-04-30 16:24:49
-! Total Count: 26313
+! Last modified: 2024-05-01 00:25:43
+! Total Count: 26317
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1610,6 +1610,7 @@
 ||ad.22betpartners.com^$popup
 ||ad.52av.one^
 ||ad.52av.tv^
+||ad.886112.xyz^
 ||ad.a-ads.com^
 ||ad.about.co.kr^
 ||ad.aceplanet.co.kr^
@@ -3514,6 +3515,7 @@
 ||apdfmhp.cn^
 ||api*.batmobi.net^
 ||api*.batmobil.net^
+||api*.bidmachine.io^
 ||api-*.bidmachine.io^
 ||api-a.ganjingworld.com/*/adsserver/get-vast-xml/
 ||api-a.op-mobile.opera.com^
@@ -12353,6 +12355,7 @@
 ||rotondelibya.com^
 ||rottenray.com^$third-party
 ||rou.video/_next/static/chunks/pages/fuli-
+||rou.video/js/exo.js
 ||roughharmony.com^$third-party
 ||rouman5.com/a2/*.gif
 ||rouman5.com/cps/*.gif
@@ -14235,6 +14238,7 @@
 ||uoowu.com/a/zh*.js
 ||uooyoo.com/hz/*str.js
 ||uoqsxdpx.xyz^
+||uosxdmk.cn^
 ||uowfag.xyz^
 ||up.qingdaonews.com/up/$object,script
 ||upaiyun.com/system/post_tile/new_web_banners/
