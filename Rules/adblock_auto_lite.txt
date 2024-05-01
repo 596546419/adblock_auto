@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: zQZZK1Z6gfYNYmXm6nKU5g
+! Checksum: oG4zq/8xHsE6oMzHoxKO6w
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240501002543
+! Version: 20240501092419
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-01 00:25:43
-! Total Count: 26317
+! Last modified: 2024-05-01 09:24:19
+! Total Count: 26323
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4957,6 +4957,7 @@
 ||chinaqking.com/images/newPage/JLW.jpg
 ||chinaqking.com/images/qkw/jobApply1.jpg
 ||chinasexq.com/js/tpgg
+||chinaslauras.com^
 ||chinatimes.com/Scripts/bennerad.
 ||chinatruck.org/index.php?m=poster&
 ||chinaxinge.com/gif3/
@@ -5370,6 +5371,7 @@
 ||cvudqzoa.xyz^
 ||cweriof.top^
 ||cwgshkz.cn^
+||cwiuhtp.icu^
 ||cwmlm.com^$third-party
 ||cwolwc.xyz^
 ||cwrxgb.icu^
@@ -8026,6 +8028,7 @@
 ||ickd.cn/mobile/js/touch
 ||icnkr.com/cnkradv/
 ||icnkr.com/data/attachment/portal/
+||icqeou.xyz^
 ||icvsleec.xyz^
 ||icwnix.icu^
 ||icws.jb51.net/good/arc2019.js
@@ -8674,6 +8677,7 @@
 ||jiupaozi.com^
 ||jiutou20230210.live^
 ||jiuyuntian3.cn/vs.php?id=
+||jivvjl.xyz^
 ||jixiangxianbao.cn^$document
 ||jixiangxianbao.cn^$~third-party
 ||jixmlx.xyz^
@@ -13351,6 +13355,7 @@
 ||swandlb.top^
 ||swelen.com^
 ||swelteringsmile.com^$third-party
+||sweriob.top^
 ||swicgq.xyz^
 ||switchadhub.com^
 ||swoole.com/_images/kundian
@@ -14530,6 +14535,7 @@
 ||vkandian.cn/footjs/
 ||vkandian.cn/peitu/
 ||vkdgdt.xyz^
+||vkguvyg.cn^
 ||vkjqbb.xyz^
 ||vkjsnvk.com^
 ||vktztp.xyz^

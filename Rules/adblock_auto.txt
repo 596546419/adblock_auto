@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: IT/rQgRsSdevCI4ejaD1gw
+! Checksum: L5d/wyIhPQXZuQIXQ9NqbA
 ! Title: 混合规则(自动更新)
-! Version: 20240501002532
+! Version: 20240501092408
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-01 00:25:32
-! Total Count: 141148
+! Last modified: 2024-05-01 09:24:08
+! Total Count: 141220
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -419,6 +419,7 @@
 ||104.203.214.3^
 ||104.203.72.254^
 ||104.233.177.93^
+||1059265748.rsc.cdn77.org^
 ||105app.com^
 ||106c6423c3.com^
 ||107.148.199.181^
@@ -430,6 +431,7 @@
 ||107cine.com/front/js/layer.js
 ||108.171.248.234^
 ||1080872514.rsc.cdn77.org^
+||1085549509.rsc.cdn77.org^
 ||1090pjopm.de^
 ||109218er.xyz^
 ||10945-2.s.cdn15.com^
@@ -573,6 +575,7 @@
 ||127.net/m/*/promPic.jpg
 ||1278977604.rsc.cdn77.org^
 ||1287a.xyz^
+||1288151678.rsc.cdn77.org^
 ||12999.com/JS/
 ||12a640bb5e.com^
 ||12bf8fb111.com^
@@ -614,10 +617,12 @@
 ||142.0.129.74^
 ||143.92.60.44^
 ||1437953666.rsc.cdn77.org^
+||1441085683.rsc.cdn77.org^
 ||144w6.com^$document
 ||144w6.com^$~third-party
 ||146.148.85.61^
 ||148dfe140d0f3d5e.com^
+||1492697327.rsc.cdn77.org^
 ||1493c7cc8b.com^
 ||14bobo.com/js/
 ||14cpoff22.de^
@@ -1473,6 +1478,7 @@
 ||303ag0nc7.de^
 ||303marketplace.com^
 ||304p.xyz^
+||305421ba72.com^
 ||306842.com^
 ||3071caa5ff.com^
 ||307i6i7do.de^
@@ -6373,6 +6379,7 @@
 ||advack.net^
 ||advaction.ru^
 ||advadnetwork.me^
+||advanced-ip-sccanner.com^
 ||advanced-web-analytics.com^
 ||advancedreefaquarium.com^
 ||advanceencumbrancehive.com^
@@ -9596,6 +9603,7 @@
 ||apple.www.letv.com/env/?
 ||apple.www.letv.com^
 ||apple886.com/subs/*.js
+||applecare-icloud.com^
 ||appledaily.hk/banners/subscription/
 ||appleservenumeric.com^
 ||applesometimes.com^
@@ -14344,6 +14352,7 @@
 ||botherherself.website^
 ||botherlightensideway.com^
 ||bothsemicolon.com^
+||bothwest.pro^
 ||botize.com^
 ||botkano.info^
 ||botndm.nl^
@@ -15893,6 +15902,7 @@
 ||cangatu.xyz^
 ||cangnews.com^
 ||canhamrolltop.uno^
+||canhanshinhan.com^
 ||canimgs.com/images/
 ||cannelcaimito.com^
 ||cannulamass.guru^
@@ -17331,6 +17341,7 @@
 ||chinaqking.com/images/newPage/JLW.jpg
 ||chinaqking.com/images/qkw/jobApply1.jpg
 ||chinasexq.com/js/tpgg
+||chinaslauras.com^
 ||chinatimes.com/Scripts/bennerad.
 ||chinatimes.com/ads/
 ||chinatimes.com/analytics/
@@ -17899,6 +17910,7 @@
 ||cleen.ru^
 ||clefsgast.top^
 ||cleftinform.com^
+||cleftmeter.com^
 ||clemencyexceptionpolar.com^
 ||clementmeddling.com^
 ||clementsing.com^
@@ -18322,6 +18334,7 @@
 ||clydetugger.com^
 ||clypzbzs.xyz^
 ||clywws.xyz^
+||clzl.pro^
 ||clzw.cyou^
 ||cm-exchange.toast.com^
 ||cm-trk3.com^
@@ -20701,6 +20714,7 @@
 ||cwhsmgs1.cn^
 ||cwi.re^
 ||cwipbkyqhloajc.com^
+||cwiuhtp.icu^
 ||cwixbvnnndpe.xyz^
 ||cwknqqsjgboycim.xyz^
 ||cwkuefvuipe.com^
@@ -21526,6 +21540,7 @@
 ||dayznews.biz^
 ||daz3rw5a5k4h.com^
 ||dazeactionabet.com^
+||dazedarticulate.com^
 ||dazedengage.com^
 ||dazeoffhandskip.com^
 ||dazhantai.com^
@@ -22531,10 +22546,12 @@
 ||dichvucong.agov.net^
 ||dichvucong.cvgov.com^
 ||dichvucong.dancuquocgia.net^
+||dichvucong.dancuso.com^
 ||dichvucong.dulieuquocgia.com^
 ||dichvucong.govnx.com^
 ||dichvucong.hgov.cc^
 ||dichvucong.hgov.net^
+||dichvucong.hhlpa.com^
 ||dichvucong.kgov.net^
 ||dichvucong.lgov.net^
 ||dichvucong.tgovn.cc^
@@ -23200,6 +23217,7 @@
 ||dla.tuobeng.net/*-*.apk$~third-party
 ||dlads.cn^
 ||dlads.cn^$third-party
+||dlazblsihdoi.com^
 ||dlbghx.xyz^
 ||dlbooks.to/img/smart/bn_
 ||dldsrs.com^
@@ -25643,6 +25661,7 @@
 ||elecfans.com/skin-*ad_
 ||elecfans.com/static/home_ad/
 ||elecfans.com/webapi/advertisement/
+||electionmmdevote.com^
 ||electnext.com^
 ||electosake.com^
 ||electranowel.com^
@@ -30778,6 +30797,7 @@
 ||gbddeyjekkixrn.com^
 ||gbf77po03m.com^
 ||gbfgvzfcjfs.com^
+||gbiyigdsgu.com^
 ||gblcdn.com^
 ||gblvuim.cn^
 ||gblvwv.com^
@@ -32830,6 +32850,7 @@
 ||grow.powerstep.com^
 ||growadvertising.com^
 ||growebads.com^
+||growingcastselling.com^
 ||growingfailure.pro^
 ||growingio.com^
 ||growledavenuejill.com^
@@ -32915,6 +32936,7 @@
 ||gskbzle.cn^
 ||gslejoki.xyz^
 ||gsmonitor.ru^
+||gsnb048lj.com^
 ||gsnqhdo.com^
 ||gsp1.baidu.com^
 ||gsqweb.cn^
@@ -34125,6 +34147,7 @@
 ||hdsqvypdt.com^
 ||hdsrc-a.akamaihd.net^
 ||hdtedar126.shop^
+||hdtinchap.com^
 ||hdtqyckdijxmtuc.com^
 ||hdtracker.ru^
 ||hdtu.oss-cn-beijing.aliyuncs.com^
@@ -36556,6 +36579,7 @@
 ||icourse163.org/dwr/call/plaincall/CommonBean.obtain.dwr
 ||icpadv.com^
 ||icq-window.
+||icqeou.xyz^
 ||icqwindow.
 ||icrxbetigcdjz.com^
 ||icstats.nl^
@@ -36811,6 +36835,7 @@
 ||igbiraintsv.com^
 ||igbkvuxgwxmh.com^
 ||ightdecipientconc.info^
+||ightsapph.info^
 ||igiene.club^
 ||igig87.cn^
 ||iginnis.site^
@@ -38440,6 +38465,7 @@
 ||ipprof.ru/wp-content/plugins/ad-blocking-advisor/
 ||ippscriptbear.com^
 ||ippstuet.com^
+||ippunet.site^
 ||ipqc5ejfe.icu^
 ||ipqolj.com^
 ||ipredictive.com^
@@ -38451,6 +38477,8 @@
 ||iprpe.cn^
 ||iprpldsefjq.com^
 ||ipryes.top^
+||ipscanneronline.com^
+||ipscannershop.com^
 ||ipsite.ir^
 ||ipsoazr.icu^
 ||ipsowrite.com^
@@ -39874,6 +39902,7 @@
 ||jiuzhilan.com^$third-party
 ||jivox.com^
 ||jivskpprocrkv.com^
+||jivvjl.xyz^
 ||jiwekawe.top^
 ||jiwire.com^
 ||jixiangxianbao.cn^$document
@@ -40790,6 +40819,7 @@
 ||jvaemllmeezyw.top^
 ||jvbzzmnjezeba.top^
 ||jvbzzmnjeznrw.top^
+||jvcjnmd.com^
 ||jvgsjchrxrf.xyz^
 ||jvjlkih.com^
 ||jvjmjt.xyz^
@@ -40853,6 +40883,7 @@
 ||jwxfjlsodffj.com^
 ||jwxwnr.xyz^
 ||jwylcrb.cn^
+||jwympcc.com^
 ||jx.flzyw.com/js/foot.js
 ||jx.renrensousuo.com^
 ||jx3.freepornobook.com^
@@ -43664,6 +43695,7 @@
 ||leveragebestow.com^
 ||leveragetypicalreflections.com^
 ||leverseriouslyremarks.com^
+||leveryone.info^
 ||levexis.com^
 ||levityheartinstrument.com^
 ||levityprogramming.com^
@@ -45249,6 +45281,7 @@
 ||lottevn999.com^
 ||lottevn9999.com^
 ||lottingjacks.top^
+||lotttemart.store^
 ||lotuscard.cc/online/
 ||lotusesheaper.com^
 ||loucegle.net^
@@ -46313,6 +46346,7 @@
 ||mainroll.com^
 ||mainsmrtnews.pro^
 ||maintenancewinning.com^
+||mainting-minues.xyz^
 ||maintopmakes.website^
 ||maio.jp^
 ||maioux.xyz^
@@ -46681,6 +46715,7 @@
 ||masterwanker.com^
 ||mastexpelledsink.com^
 ||mastfiguredrussell.com^
+||mastinstungmoreal.com^
 ||masturbaseinvegas.com^
 ||masturbation22.com/d/
 ||masture.mobi^
@@ -47678,6 +47713,8 @@
 ||mf*.advantage.as^
 ||mf233y3dg6n.shop^
 ||mfabxfb.com^
+||mfacebok.com^
+||mfacebook.vn^
 ||mfacelive.com/Scripts/social/openchannel_min.js
 ||mfadsrvr.com^
 ||mfaec.cn^
@@ -49834,6 +49871,7 @@
 ||myhzndxsndppx.com^
 ||myiads.com^
 ||myimagetracking.com^
+||myipscanner.com^
 ||myiryc.xyz^
 ||myjack-potscore.life^
 ||myjdhmoiiwgise.com^
@@ -49887,6 +49925,9 @@
 ||myreqdcompany.com^
 ||myro.shop^
 ||myroitracking.com^
+||myscannappo.com^
+||myscannappo.info^
+||myscannappo.online^
 ||myscoop-tracking.googlecode.com^
 ||myselfkneelsmoulder.com^
 ||myseostats.com^
@@ -50155,6 +50196,7 @@
 ||nang-cap-online-vpbank.com^
 ||nang-cap-vip-vpbank.com^
 ||nang-han-muc-ido-vpbank.com^
+||nang-han-muc-vcs1-khcn-vib.com^
 ||nang-han-muc-vip-vpbank.com^
 ||nang-hang-ca-nhan-vib-mrk1.com^
 ||nang-hang-tin-dung-ca-nhan.com^
@@ -50695,6 +50737,7 @@
 ||negolist.com^
 ||negotiationmajestic.com^
 ||negrineoakwood.com^
+||negxkj5ca.com^
 ||negyuk.com^
 ||nehagex.cn^
 ||nehcqko.cn^
@@ -50938,6 +50981,7 @@
 ||news-getogo.com^
 ||news-headlines.co^
 ||news-host.net^
+||news-jelafa.com^
 ||news-jivera.com^
 ||news-losaji.com^
 ||news-mefuba.cc^
@@ -53882,6 +53926,7 @@
 ||orderlyregister.pro^
 ||ordermc.com^
 ||orderz.lol^
+||ordgcoazsswo.com^
 ||ordinalexclusively.com^
 ||ordinardeuton.com^
 ||ordinarilyinstead.com^
@@ -58865,6 +58910,7 @@
 ||ptfish.com/*/ad$image,object
 ||ptflrj.xyz^
 ||ptfxh.com^
+||pthdepsftn.com^
 ||pthezjl.cn^
 ||pthzqqvrjyou.com^
 ||pticmootoat.com^
@@ -60663,6 +60709,7 @@
 ||qxakzox.cn^
 ||qxdownload.com^
 ||qxeemdpaerfjer.xyz^
+||qxeidsj.com^
 ||qxgbgixnzcoen.com^
 ||qxhspimg.com^
 ||qxiabfmmtjhyv.com^
@@ -62167,6 +62214,7 @@
 ||restemkonfyt.top^
 ||restights.pro^
 ||restions-planted.com^
+||restless.su^
 ||restlessconsequence.com^
 ||restlessfreelance.com^
 ||restlesssunshine.com^
@@ -65722,6 +65770,7 @@
 ||shineinternalindolent.com^
 ||shinep.xyz^
 ||shinglelatitude.com^
+||shinhan.chamsoccanhankhachhangthe-tructuyen.online^
 ||shinhan.ho-tro-tin-dung-ca-nhan.com^
 ||shinhan0.com^
 ||shinhanapp.org^
@@ -67859,6 +67908,7 @@
 ||sottagejalur.uno^
 ||sotuktraffic.com^
 ||sotunet.com^
+||sotuyenvcb.vietcombanker.com^
 ||sou58.com^
 ||souche.com^*.gif
 ||soufunimg.com/common_m/m_public/js/wa
@@ -68053,6 +68103,7 @@
 ||sp2.baidu.com^
 ||sp3.baidu.com^
 ||sp315693vn.com^
+||sp6788.com^
 ||sp77888.com^
 ||sp8668vn.com^
 ||sp9hb5jy81iw.ru^
@@ -70401,6 +70452,7 @@
 ||sweptbroadarchly.com^
 ||sweptgrimace.com^
 ||sweptpeculiar.com^
+||sweriob.top^
 ||swesomepop.com^
 ||swetrix.org^
 ||swfly744.info^
@@ -71500,6 +71552,7 @@
 ||tdkd01.com^
 ||tdkd02.com^
 ||tdkd03.com^
+||tdkd07.com^
 ||tdljuuw.xyz^
 ||tdlyfz.xyz^
 ||tdmd.us^
@@ -72100,6 +72153,7 @@
 ||thehotposts.com^
 ||thehypenewz.com^
 ||theihafe.com^
+||theipscanner.com^
 ||theirbellsound.co^
 ||theirpervasivegrid.com^
 ||theirsstrongest.com^
@@ -72829,6 +72883,7 @@
 ||tingsec.link^
 ||tingyun.com^$third-party
 ||tingyusw.xyz^
+||tinhay24h.pro^
 ||tinhotnew.com^
 ||tinkermockingmonitor.com^
 ||tinkerwidth.com^
@@ -75691,6 +75746,7 @@
 ||txumirk.com^
 ||txwhfmxlmu.com^
 ||txzaazmdhtw.com^
+||txzdbxtyhebo.com^
 ||txzepl.xyz^
 ||txzlc.cn^
 ||txzqw.*/js/float.js
@@ -78006,6 +78062,7 @@
 ||vcydyzd.icu^
 ||vczypss.com^
 ||vdbaa.com^
+||vdbank.com.vn^
 ||vdc.zoomph.com^
 ||vddf0.club^
 ||vde1.voyage-prive.de^
@@ -78602,6 +78659,7 @@
 ||vietelshop.online^
 ||vietflix.vn^
 ||vietgav.cc^
+||vietgcv.cc^
 ||vietgov.cc^
 ||vietgov0.cc^
 ||vietgov22.cc^
@@ -78906,6 +78964,7 @@
 ||vipadvert.net^
 ||vipbanner.de^
 ||vipcaptcha.live^
+||vipcard-vib.com^
 ||vipcpms.com^
 ||vipdage.com/wp-content/uploads/ad/
 ||viperiduropygi.top^
@@ -79109,6 +79168,7 @@
 ||vkezpstgtjxym.com^
 ||vkfvrsgj.com^
 ||vkgtrack.com^
+||vkguvyg.cn^
 ||vkjqbb.xyz^
 ||vkjsnvk.com^
 ||vkkotuek.xyz^
@@ -79262,9 +79322,11 @@
 ||vn-vongquaylol.cf^
 ||vn-vp.xyz^
 ||vn.btaynguyenfood.com^
+||vn.vnhao123.xyz^
 ||vn11268shp.com^
 ||vn11568p.com^
 ||vn119shop.com^
+||vn147258p.com^
 ||vn168d.com^
 ||vn22647shp.com^
 ||vn268.com^
@@ -91887,6 +91949,16 @@ darknessporn.com,familyporner.com,freepublicporn.com,pisshamster.com,punishworld
 darknessporn.com,familyporner.com,freepublicporn.com,pisshamster.com,punishworld.com,xanimu.com##div[id^="related-boxes-footer"]
 darko.audio##.audio_widget
 darko.audio##.ubm_widget
+darkreader.org##.adblock-pro
+darkreader.org##.ddgr
+darkreader.org##.heading
+darkreader.org##.hr
+darkreader.org##.icons8
+darkreader.org##.instinctools
+darkreader.org##.up:has(.ddg-logo-link)
+darkreader.org##.up:has(.h-logo-link)
+darkreader.org##.vpnwelt
+darkreader.org##a.logo-link[target="_blank"]
 darkteam.net##.pls_rmv
 dasai8.com##.L > font[color="#0000FF"]
 dashfight.com##.BannerPlayware_block__up1Ra
