@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: LRcknFqupyotRd6OfhLUYw
+! Checksum: 4ijB+ffKvQvFQkn+v7PvkA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240502091848
+! Version: 20240502162433
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-02 09:18:48
-! Total Count: 26327
+! Last modified: 2024-05-02 16:24:33
+! Total Count: 26333
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6412,6 +6412,7 @@
 ||ewandlw.top^
 ||ewefbeu.cn^$document
 ||ewefbeu.cn^$~third-party
+||eweriow.top^
 ||ewfsef.com^
 ||ewioud.com^
 ||ewjhic.cn^
@@ -8881,6 +8882,7 @@
 ||jstucdn.com/g3/
 ||jswz8.com/images/
 ||jsx.luyouwang.com^
+||jsxwfb.xyz^
 ||jsyefc.com^
 ||jszavs1.com^
 ||jsztl.com/img/particular/tbyhq.jpg
@@ -14142,6 +14144,7 @@
 ||udnfunlife.com/mall/cus/cat/OutWebAd.do
 ||udpdmeb.cn^
 ||udsahkln.xyz^
+||udxhzqg.cn^
 ||udykkl.cn^
 ||ue8im.com^
 ||uebipacy.xyz^
@@ -14244,12 +14247,14 @@
 ||uogtrmjz.xyz^
 ||uohvxrvd.xyz^
 ||uojoqx.icu^
+||uoosqk.xyz^
 ||uoowu.com/a/zh*.js
 ||uooyoo.com/hz/*str.js
 ||uoqsxdpx.xyz^
 ||uosxdmk.cn^
 ||uowfag.xyz^
 ||up.qingdaonews.com/up/$object,script
+||upailek.cn^
 ||upaiyun.com/system/post_tile/new_web_banners/
 ||upasiansex.com^
 ||uphcrjth.xyz^
@@ -14631,6 +14636,7 @@
 ||vuvxpf.xyz^
 ||vuwjv7sjvg7.zedporn.com^
 ||vuxxtn.xyz^
+||vuyibsm.icu^
 ||vv1.pyhfxdm.cn^
 ||vvdzucs.cn^
 ||vvlhrz.xyz^
