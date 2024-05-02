@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: mlMyYzjqjoKlALKGBgS66g
+! Checksum: in1fG11AKcoAN/Se+S1l+A
 ! Title: 混合规则(自动更新)
-! Version: 20240502002401
+! Version: 20240502091837
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-02 00:24:01
-! Total Count: 141227
+! Last modified: 2024-05-02 09:18:37
+! Total Count: 141259
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -490,6 +490,7 @@
 ||116bea31bf.com^
 ||1170555.com^
 ||1173384488.rsc.cdn77.org^
+||1175980934.rsc.cdn77.org^
 ||118.107.47.88^
 ||118114.cn^$third-party
 ||1187531871.rsc.cdn77.org^
@@ -641,6 +642,7 @@
 ||154.212.147.231^
 ||154.22.214.2^
 ||154.7.80.158^
+||1543481067.rsc.cdn77.org^
 ||154886c13e.com^
 ||1556048427.rsc.cdn77.org^
 ||1558334541.rsc.cdn77.org^
@@ -4752,6 +4754,7 @@
 ||ad.xiaomi.com^
 ||ad.xrea.com^
 ||ad.yemeksepeti.com^
+||ad.yieldmanager.com^
 ||ad.youku.com/vp?
 ||ad.youku.com^
 ||ad.zijieapi.com^
@@ -14145,6 +14148,7 @@
 ||bolijiupingchang.com^
 ||bolivarmaltol.website^
 ||bollenhurkle.com^
+||bollyocean.com^
 ||bolofoak.net^
 ||boloingopulent.guru^
 ||boloptrex.com^
@@ -17930,6 +17934,7 @@
 ||cleverwebserver.com^
 ||clevi.com^
 ||clevv.com^
+||clewmcpaex.com^
 ||clewxc.com/xd3/
 ||clfwrobtgqferh.xyz^
 ||clfxjrlui.com^
@@ -27182,6 +27187,7 @@
 ||exebid.ru^
 ||execuri.com^
 ||executecomicswhale.com^
+||executionago.com^
 ||executiontoothache.com^
 ||executivetumult.com^
 ||exefprtna.com^
@@ -28244,6 +28250,7 @@
 ||femalehasslegloss.com^
 ||femalesunderpantstrapes.com^
 ||femefaih.com^
+||femetrics.grammarly.io^
 ||femin.online^
 ||femininetextmessageseducing.com^
 ||femoafoo.com^
@@ -40597,6 +40604,7 @@
 ||jswww.net^
 ||jswz8.com/images/
 ||jsx.luyouwang.com^
+||jsxwfb.xyz^
 ||jsyd139.com^$third-party
 ||jsyefc.com^
 ||jsyrynq.com^
@@ -45381,6 +45389,7 @@
 ||loyeesihighlyreco.info^
 ||lozengevandalismexaminer.com^
 ||lp-preview.net^
+||lp.spac.me^
 ||lp247p.com^
 ||lp4.io^
 ||lpaehxw.cn^
@@ -48015,6 +48024,7 @@
 ||mini.hao123.com^
 ||miniast.com^
 ||miniaturechain.pro^
+||miniaturecomfortable.com^
 ||miniatureoffer.pro^
 ||minidoc.ru^
 ||minigamemomo.net^
@@ -52017,6 +52027,7 @@
 ||nqhataamn.xyz^
 ||nqhqpq.cn^
 ||nqisabwtfbm.com^
+||nqkdocgce.com^
 ||nqmfmnmqysei.com^
 ||nqn7la7.de^
 ||nqnggnsc.fun^
@@ -53061,6 +53072,7 @@
 ||oijkse.com^
 ||oijmds.com^
 ||oijorfkfwtdswv.xyz^
+||oilierelixir.com^
 ||oiljomy.xyz^
 ||oillesssris.guru^
 ||oilskinvulvar.digital^
@@ -53598,6 +53610,7 @@
 ||oogroopt.com^
 ||oohaussa.com^
 ||ooivkrkudanjrpk.com^
+||ooivmtvmxpqwf.com^
 ||oojitsoo.net^
 ||oojjsa.com^
 ||ookresit.net^
@@ -56797,6 +56810,7 @@
 ||pl.connatix.com^
 ||pl520.com^$third-party
 ||pla-tk.flipkart.net^
+||placardcapitalistcalculate.com^
 ||placeholder.treeum.net^
 ||placeiq.com^
 ||placemypixel.com^
@@ -58705,6 +58719,7 @@
 ||psaiptoh.net^
 ||psairees.net^
 ||psairtoo.com^
+||psaiwaxaib.net^
 ||psaizeemit.com^
 ||psaksegh.xyz^
 ||psalmexceptional.com^
@@ -59429,6 +59444,7 @@
 ||pwcegau.icu^
 ||pwcuu.cn^
 ||pwddhc.xyz^
+||pwdhstaih.com^
 ||pwdxawuedjjj.com^
 ||pweabzcatoh.com^
 ||pwhkfd.xyz^
@@ -59745,6 +59761,7 @@
 ||qectme.xyz^
 ||qedeczzdt.com^
 ||qehaxkl.cn^
+||qehjsjdubamsrt.com^
 ||qehwgbwjmjvq.xyz^
 ||qeildfuznofnlq.com^
 ||qejjhnq.cn^
@@ -61365,6 +61382,7 @@
 ||realssp.co.kr^
 ||realtime-bid.com^
 ||realtime-profiling.datarize.ai^
+||realtimeanalytics.yext.com^
 ||realtimely.io^
 ||realtimewebstats.net^
 ||realtracker.com^
@@ -63419,6 +63437,7 @@
 ||rtyufo.com^
 ||rtyznd.com^
 ||rtzblzfgzqw.com^
+||rtzbpsy.com^
 ||rtzhao.site^
 ||ru4.com^
 ||ru6sapasgs8tror.com^
@@ -67364,6 +67383,7 @@
 ||smittenkick.top^
 ||smjulynews.com^
 ||smjxarmaflpmxj.com^
+||smkezc.com^
 ||smlhvupprda.com^
 ||smljmp.com^
 ||smlmupi.cn^
@@ -69152,6 +69172,7 @@
 ||stats.ibtimes.co.in^
 ||stats.ibtimes.co.uk^
 ||stats.img2go.com^
+||stats.indianpornempire.com^
 ||stats.inergizedigitalmedia.com^
 ||stats.ipmgroup.be^
 ||stats.itsol.it^
@@ -69379,6 +69400,7 @@
 ||steamtraffic.com^
 ||steamunlocked.one^
 ||stedsous.xyz^
+||steefaulrouy.xyz^
 ||steel-bedroom.pro^
 ||steelcn.cn/img/bj_*_146_315.jpg
 ||steelhousemedia.com^
@@ -71561,6 +71583,7 @@
 ||tdljuuw.xyz^
 ||tdlyfz.xyz^
 ||tdmd.us^
+||tdmrfw.com^
 ||tdqhlowkhxeohe.com^
 ||tdrtqjbifwl.com^
 ||tds.bid^
@@ -72114,6 +72137,7 @@
 ||thebestgame2020.com^
 ||thebestlinks.com^
 ||thebestoffersintheweb.com^
+||thecalokas.com^
 ||thecarconnections.com^
 ||thecatmachine.com^
 ||thechapnganhang-24h.com^
@@ -76112,6 +76136,7 @@
 ||uduhytyllobm.com^
 ||udxdkdirwabx.com^
 ||udykkl.cn^
+||udzpel.com^
 ||ue.flipboard.com^
 ||ue3jfw.com^
 ||ue4.store^
@@ -76857,6 +76882,7 @@
 ||uommwhqyefutlp.com^
 ||uongsona.uno^
 ||uongsono.uno^
+||uoosqk.xyz^
 ||uoowu.com/a/zh*.js
 ||uooyoo.com/hz/*str.js
 ||uoqsxdpx.xyz^
@@ -76877,6 +76903,7 @@
 ||up.qingdaonews.com/up/$object,script
 ||up4u.me^
 ||upaicpa.com^
+||upailek.cn^
 ||upaiyun.com/system/post_tile/new_web_banners/
 ||upaiyun.com/wp-content/uploads/2016/12/wenzhangyouce
 ||upalytics.com^
@@ -79906,6 +79933,7 @@
 ||vuwmkymwbipd.com^
 ||vuwmxjusucnh.com^
 ||vuxxtn.xyz^
+||vuyibsm.icu^
 ||vuyngptxhjtmdn.com^
 ||vuzxgvjt.com^
 ||vv.7vid.net^
@@ -81749,6 +81777,7 @@
 ||wmgocya.cn^
 ||wmgtr.com^
 ||wmhwptmsvx.com^
+||wmiahgohlf.com^
 ||wmip.ru^
 ||wmirk.ru^
 ||wmk0099.xyz^
@@ -83210,6 +83239,7 @@
 ||xjs.lol^
 ||xjsq.xyz^
 ||xjsx.lol^
+||xjupijxdt.xyz^
 ||xjwcnvnqdm.com^
 ||xjwrq.com^
 ||xjxbdh.xyz^
@@ -85572,6 +85602,7 @@
 ||zeepteestaub.com^
 ||zeeshech.net^
 ||zeeshith.net^
+||zeewhaih.com^
 ||zefmsbu.cn^
 ||zefusgk.com^
 ||zegnoaft.com^
@@ -86907,7 +86938,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 126.com,163.com##.gWel-promt
 1280wnam.com##a[href^="http://www.milwaukeezoo.org/visit/animals/"]
 1280wnam.com##a[href^="https://wistatefair.com/fair/tickets/"]
-12news.com,9news.com,9to5google.com,9to5mac.com,aad.org,advfn.com,all3dp.com,allaboutcookies.org,allnovel.net,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,biznews.com,bolavip.com,businessinsider.com,cbs8.com,cc.com,ccjdigital.com,computerworld.com,coomer.party,coomer.su,dailytrust.com,delish.com,driven.co.nz,ecr.co.za,electrek.co,empireonline.com,engineeringnews.co.za,equipmentworld.com,etcanada.com,footyheadlines.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,globalspec.com,gmanetwork.com,grammarbook.com,hbr.org,howstuffworks.com,huffpost.com,insidehook.com,insider.com,intouchweekly.com,kemono.party,kemono.su,khou.com,koat.com,ktvu.com,lifeandstylemag.com,macstories.net,mail.com,mangakakalot.app,memuplay.com,metro.us,metrophiladelphia.com,minecraftforum.net,miningweekly.com,mixed-news.com,mobilesyrup.com,modernhealthcare.com,msnbc.com,my9nj.com,myfitnesspal.com,namemc.com,nbcnews.com,newrepublic.com,newtalk.tw,nzherald.co.nz,oneesports.gg,opb.org,outkick.com,papermag.com,phbzj.com,physiology.org,pics-x.com,pinflix.com,pixiv.net,punchng.com,qns.com,realsport101.com,reason.com,refinery29.com,roadandtrack.com,scroll.in,sdhentai.com,seattletimes.com,slideshare.net,songkick.com,sportskeeda.com,thebaltimorebanner.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,themarketherald.ca,tmz.com,toofab.com,tool.lu,uploadvr.com,urlgalleries.net,usmagazine.com,vanguardngr.com,wildtangent.com,wogx.com,worldsoccertalk.com,wral.com##.ad-container
+12news.com,9news.com,9to5google.com,9to5mac.com,aad.org,advfn.com,all3dp.com,allaboutcookies.org,allnovel.net,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,biznews.com,bolavip.com,businessinsider.com,cbs8.com,cc.com,ccjdigital.com,computerworld.com,coomer.party,coomer.su,dailytrust.com,delish.com,driven.co.nz,ecr.co.za,electrek.co,empireonline.com,engineeringnews.co.za,equipmentworld.com,etcanada.com,fastcompany.com,footyheadlines.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,globalspec.com,gmanetwork.com,grammarbook.com,hbr.org,howstuffworks.com,huffpost.com,insidehook.com,insider.com,intouchweekly.com,kemono.party,kemono.su,khou.com,koat.com,ktvu.com,lifeandstylemag.com,macstories.net,mail.com,mangakakalot.app,memuplay.com,metro.us,metrophiladelphia.com,minecraftforum.net,miningweekly.com,mixed-news.com,mobilesyrup.com,modernhealthcare.com,msnbc.com,my9nj.com,myfitnesspal.com,namemc.com,nbcnews.com,newrepublic.com,newtalk.tw,nzherald.co.nz,oneesports.gg,opb.org,outkick.com,papermag.com,phbzj.com,physiology.org,pics-x.com,pinflix.com,pixiv.net,punchng.com,qns.com,realsport101.com,reason.com,refinery29.com,roadandtrack.com,scroll.in,sdhentai.com,seattletimes.com,slideshare.net,songkick.com,sportskeeda.com,thebaltimorebanner.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,themarketherald.ca,tmz.com,toofab.com,tool.lu,uploadvr.com,urlgalleries.net,usmagazine.com,vanguardngr.com,wildtangent.com,wogx.com,worldsoccertalk.com,wral.com##.ad-container
 12tomatoes.com###footboard
 12tomatoes.com,allwomenstalk.com,bloomberg.com,datpiff.com,logotv.com,newcartestdrive.com,news.sky.com,news.tvguide.co.uk,onthesnow.ca,onthesnow.co.nz,onthesnow.co.uk,onthesnow.com,onthesnow.com.au,penny-arcade.com,postyourpuss.com,publishersweekly.com,skysports.com,stuff.tv,thedrinknation.com,theserverside.com,whitepages.ae###leaderboard
 131458.com###header_gg
@@ -88243,6 +88274,7 @@ abcnews.go.com##div[style^="min-height: 90px"]
 abcnews.go.com,edarabia.com##.leaderboard-970
 abcya.com##.a-leader
 abcya.com##.a-skyscraper
+ablesci.com##.able-container-body-right > div.fly-panel:has(> div[style="text-align: center; padding: 5px"] > img[src$="-alipay-hongbao.png"])
 ablesci.com##.fly-panel img[src*="-alipay-autumn-hongbao.png"]
 ablesci.com#?#.able-container-body-right > .fly-panel:has(> div > img[src*="-alipay-autumn-hongbao.png"])
 ablogtowatch.com##.ebay-placement
