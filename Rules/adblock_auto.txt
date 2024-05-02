@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: zqJHinFCPM0kH9yqvB29ww
+! Checksum: N0msDe261F7CvxMGmV2iVA
 ! Title: 混合规则(自动更新)
-! Version: 20240502162422
+! Version: 20240503002408
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-02 16:24:22
-! Total Count: 141262
+! Last modified: 2024-05-03 00:24:08
+! Total Count: 141285
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5965,6 +5965,7 @@
 ||adsensedetective.com^
 ||adsenseguard.com^
 ||adser.io^
+||adserv2.suumo.jp^
 ||adserve.com^
 ||adserve.donanimhaber.com^
 ||adserve.ph^
@@ -10470,6 +10471,7 @@
 ||atlggfy.cn^
 ||atlhjtmjrj.com^
 ||atljkcq.cn^
+||atlxpstsf.com^
 ||atm.youku.com^
 ||atmalinks.com^
 ||atmasroofy.com^
@@ -16405,6 +16407,7 @@
 ||cdn*-sites.porntube.com/tb/banner/
 ||cdn*.swaxis.com^
 ||cdn-99-pic.cc^
+||cdn-ad.wtzw.com^
 ||cdn-adn-*.rayjump.com^
 ||cdn-adn.rayjump.com^
 ||cdn-ads.thesaigontimes.vn^
@@ -27515,6 +27518,7 @@
 ||f.sen.seg.br^
 ||f0657e4fd5.com^
 ||f07neg4p.de^
+||f090.site^
 ||f092680893.com^
 ||f0eba64ba6.com^
 ||f1.06ps.com^
@@ -32531,6 +32535,7 @@
 ||gqubkbuinx.com^
 ||gqusbheifyoqubu.com^
 ||gqvdcek.cn^
+||gr.hdream.cfd^
 ||gr0z6.xyz^
 ||gr3hjjj.pics^
 ||gr8y7z1xaq30.com^
@@ -37799,6 +37804,7 @@
 ||ingeniousestateinvolving.com^
 ||ingenioustech.biz^
 ||ingest.make.rvapps.io^
+||ingest.make.rvohealth.com^
 ||ingforanythinga.com^
 ||ingforthemoonheap.com^
 ||ingigalitha.com^
@@ -44767,6 +44773,7 @@
 ||log-upload-os.hoyoverse.com^
 ||log-upload-os.mihoyo.com^
 ||log-upload.mihoyo.com^
+||log-verify.mob.com^
 ||log-vietnamplus-vn.cdn.ampproject.org^
 ||log.247post.vn^
 ||log.51changdu.com^
@@ -44913,6 +44920,7 @@
 ||log.snow.me^
 ||log.snssdk.com^
 ||log.strm.yandex.ru^
+||log.suumo.jp^
 ||log.tagtic.cn^
 ||log.talkie-ai.com^
 ||log.tapchimattran.vn^
@@ -45058,6 +45066,7 @@
 ||logs-partners.coupang.com^
 ||logs.1cdn.vn^
 ||logs.51cto.com^
+||logs.8thwall.com^
 ||logs.amap.com^
 ||logs.animaapp.com^
 ||logs.browser-intake-datadoghq.eu^
@@ -45837,6 +45846,7 @@
 ||lxlncklnikihc.com^
 ||lxmwfqqvyvmsxlw.com^
 ||lxmyfbscsllxl.com^
+||lxnkuie.com^
 ||lxpcyvnejhrp.com^
 ||lxqcgj.com^
 ||lxrhw.xyz^
@@ -49693,6 +49703,7 @@
 ||mvusq.xyz^
 ||mvuvjalhykrxhj.xyz^
 ||mvvhwabeshu.xyz^
+||mvwkysam.com^
 ||mvwslulukdlux.xyz^
 ||mvxz.com/bar3.js
 ||mvxz.com/boximg/
@@ -52177,6 +52188,7 @@
 ||ntxviewsinterfu.info^
 ||ntyrt.top^
 ||nuanqipian.pw^
+||nubbieraristae.com^
 ||nubcdaqa.xyz^
 ||nubseech.com^
 ||nuclav.com^
@@ -57954,6 +57966,7 @@
 ||pqulqqpmx.com^
 ||pqxbcydpv.xyz^
 ||pqxyqq.com^
+||pqzjki.cn^
 ||pr-agent.jp^
 ||pr-chart.com^
 ||pr-chart.de^
@@ -64913,6 +64926,7 @@
 ||sefu8j.com/index.php?m=poster&
 ||sefulheadde.info^
 ||seg.sharethis.com^
+||segment-api.goodrx.com^
 ||segment-cdn.producthunt.com^
 ||segment.com^
 ||segment.io^
@@ -67170,6 +67184,7 @@
 ||slivmux.com^
 ||slivz.com^
 ||slizindy.top^
+||sljvpjtavn.com^
 ||slkdfg.com^
 ||slkdnlkfnskl.com^
 ||slkkbnsgn.com^
@@ -73232,6 +73247,7 @@
 ||tnlowlo.cn^
 ||tnmmfgilvrjivxk.xyz^
 ||tnmpd.xyz^
+||tnnpozuqdhes.com^
 ||tnpads.xyz^
 ||tnqsnxsdt.com^
 ||tns-counter.ru^
@@ -82242,6 +82258,7 @@
 ||wrotov.com^
 ||wrotus.com^
 ||wrpsouf.cn^
+||wrqtcoxjw.com^
 ||wrrzje.com^
 ||wrtjojn.xyz^
 ||wru795e.cn^
@@ -85960,6 +85977,7 @@
 ||zingshop.net^
 ||zinipx.xyz^
 ||zinrora.pw^
+||zion-telemetry-nonprod.api.cnn.io^
 ||zion-telemetry.api.cnn.io^
 ||zion.qbo.intuit.com^
 ||zipakrar.com^
@@ -87755,6 +87773,9 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 5184.com##.fixed_bgg
 5184.com##.fixed_bgg2
 5184.com##.gg600
+51cg1.com,h3ugz0.arwiotgiy.com,h3ugz1.biyuhcltj.com,h3ugz2.lrjhvntu.net,h3ugz3.ogvoxarpd.com,h3ugz4.uovxifzj.com,h3uaz0.ogvoxarpd.com##.horizontal-banner
+51cg1.com,h3ugz0.arwiotgiy.com,h3ugz1.biyuhcltj.com,h3ugz2.lrjhvntu.net,h3ugz3.ogvoxarpd.com,h3ugz4.uovxifzj.com,h3uaz0.ogvoxarpd.com##.post-card-ads
+51cg1.com,h3ugz0.arwiotgiy.com,h3ugz1.biyuhcltj.com,h3ugz2.lrjhvntu.net,h3ugz3.ogvoxarpd.com,h3ugz4.uovxifzj.com,h3uaz0.ogvoxarpd.com##article:has(> a > div.post-card > div[style^="background-image: url(\"data:image/gif;base64"])
 51credit.com###leftLayerDown
 51credit.com##.credit-box
 51credit.com##.main-r-ka
@@ -97814,6 +97835,7 @@ lzacg.one##.content-layout .zib-widget > .textwidget > a[target="blank"]
 lzacg.one##.sidebar .zib-widget > .textwidget > a[target="blank"]
 lzacg.one#?#.content-layout .zib-widget:has(> .textwidget:only-child > a[target="blank"])
 lzacg.one#?#.sidebar .zib-widget:has(> .textwidget:only-child > a[target="blank"])
+lzcfz2.com##body > div.wp.cl
 lzdcctv.cn##.ac_pc
 lzdcctv.cn##.focusmo + table
 lzdcctv.cn##.widget_ssr > a > img
@@ -101152,6 +101174,7 @@ quora.com##.dom_annotate_ad_promoted_answer
 quora.com##.dom_annotate_ad_text_ad
 quora.com##.promoted_answer_wrapper
 quora.com##.spacing_log_question_page_ad
+quora.com#?#.q-sticky:-abp-contains(Advertisement)
 qwant.com###resultsShoppingList
 qwant.com##.is-sidebar:has(a[data-testid="advertiserAdsLink"])
 qwant.com##.result--ext
