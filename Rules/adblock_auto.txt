@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Kx3+W7l/KvUvmTx6tZqgcA
+! Checksum: uhJPxQ5Q/M8uuJUAAObh9Q
 ! Title: 混合规则(自动更新)
-! Version: 20240503162317
+! Version: 20240504002508
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-03 16:23:17
-! Total Count: 141321
+! Last modified: 2024-05-04 00:25:08
+! Total Count: 141334
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8217,6 +8217,7 @@
 ||ameowli.com^
 ||amerzbj.cn^
 ||amesgraduatel.xyz^
+||amethyst.zappos.com^
 ||amexcadrillon.com^
 ||amfennekinom.com^
 ||amg133180.com^
@@ -24995,6 +24996,7 @@
 ||ebanking.wiopm.com^
 ||ebankingshopee.vn^
 ||ebannertraffic.com^
+||ebaticalfel.com^
 ||ebayclassifiedsgroup.com^
 ||ebayget.cc^
 ||ebayobjects.com.au^
@@ -36722,6 +36724,7 @@
 ||iecetun.cn^
 ||iecjqkiawvifx.com^
 ||ieda.live^
+||iedprivatedqu.com^
 ||iedtalruy.com^
 ||ieememberhima.xyz^
 ||ieeod0.com^$popup
@@ -59809,6 +59812,7 @@
 ||qerkbejqwzvvo.top^
 ||qerkbejqwzvyw.top^
 ||qerusgreyt.com^
+||qescaen.com^
 ||qetdpyialxousr.com^
 ||qetskupch581.shop^
 ||qetskupyka61.shop^
@@ -62690,6 +62694,7 @@
 ||ringermuggish.com^
 ||ringexpressbeach.com^
 ||ringier-advertising.ch^
+||ringingneo.com^
 ||ringsempty.com^
 ||ringsrecord.com^
 ||ringtonepartner.com^
@@ -63744,6 +63749,7 @@
 ||rxatodtvt.com^
 ||rxcjedhdf.com^
 ||rxeosevsso.com^
+||rxfygd.cn^
 ||rxglvcowb.com^
 ||rxgvwht.com^
 ||rxlidz.ink^
@@ -66542,6 +66548,7 @@
 ||sickoaji.com^
 ||sicleclarets.com^
 ||sicongyyds.com^
+||sid.nordstrom.com^
 ||sidanarchy.com^
 ||sidanarchy.net^
 ||sidebyx.com^
@@ -69685,6 +69692,7 @@
 ||stovoori.net^
 ||stowamends.com^
 ||stowjupnkwlic.com^
+||stownrusis.com^
 ||stpd.cloud^
 ||stpeopleshouldthi.com^
 ||stpmgo.com^
@@ -88503,7 +88511,7 @@ aguitar.cn,guitarchina.com,mansurfer.com##.headerbanner
 ah-me.com,gaygo.tv##.flirt-block
 ah123z.com,ahzwx.com##script + div[style]
 ahaan.co.uk##.MuiSnackbar-anchorOriginBottomCenter
-ahaan.co.uk,emailnator.com,myip.is,scrolller.com##[href^="https://go.nordvpn.net/"]
+ahaan.co.uk,emailnator.com,myip.is,scrolller.com,whereto.stream##[href^="https://go.nordvpn.net/"]
 ahentai.top##div[style^="width:728px;height:90px"]
 ahgame.com,china.com.cn,dandanzan.com,netbardh.com,pangzitv.com,twoeggz.com###pop
 ahhhhfs.com###ri_home_slider_widget-2
@@ -94941,6 +94949,8 @@ hao.360.com###pushbar-festival
 hao.360.com###tmall-full-screen
 hao.360.com###top-nav
 hao.360.com##.licai-right
+hao.360.com##.right-nav-bar-hd
+hao.360.com##div[id^="rightBottom_"]
 hao.360.com#?#.cube-container div.cube-mod:has(span.adMark)
 hao.360.com#?#.cube-list-recommend > div.cube-mod.cpc-card > div.cube-bd > div.cube-card > div.dh-cpcad-container:upward(div.cube-mod.cpc-card)
 hao.360.com#?#.cube-mod:-abp-has(.dh-cpcad-container)
@@ -97505,6 +97515,8 @@ learnersdictionary.com##.abl-m0-t160-d160
 learnersdictionary.com##.abl-m0-t300-d300
 learninginfo.org##table[width="346"]
 leechyscripts.com##div[class^="chp_ads_block_modal"]
+leetcode.com##.group\/ads
+leetcode.com##.lc-ads__241X
 legacy.com##.displayOverlay1
 legit.ng##.c-adv--video-placeholder
 legit.ng,tuko.co.ke##.c-adv
@@ -97802,6 +97814,8 @@ lowes.com###lws_hp_recommendations_belowimage_1
 lowes.com##.lws_pdp_recommendations_sponsored
 lowfuelmotorsport.com##.ads-stats
 lowtoxlife.com##.openpay-footer
+lpl.qq.com,v.qq.com##+js(set-constant, CreativePlayerwebPlugin.AD_EVENT.AD_DESTROY, '')
+lpl.qq.com,v.qq.com##+js(set-constant, CreativePlayerwebPlugin.AD_EVENT.AD_LOAD_START, '')
 lqz.cn###ad_index
 lr-club.com##a[href="https://adblockplus.org/ru/faq_basics#disable"]
 lrt.lt##.article-content__inline-block
@@ -104462,8 +104476,6 @@ v.baidu.com,v.duba.com##div[id*="categoryPageColumn"]
 v.ifeng.com##.keyword
 v.pptv.com###video-download-game
 v.qq.com###iwan-gamependant-page
-v.qq.com##+js(set-constant, CreativePlayerwebPlugin.AD_EVENT.AD_DESTROY, '')
-v.qq.com##+js(set-constant, CreativePlayerwebPlugin.AD_EVENT.AD_LOAD_START, '')
 v.qq.com##.game-switch-ad
 v.qq.com##.module-image[style*="width:1100px;"]
 v.qq.com##.module-image[style*="width:1240px;"]
@@ -105243,6 +105255,7 @@ worldtimezone.com##.spon-menu
 worldtimezone.com##table[width="472"]
 worldtribune.com###text-101
 worldve.com###fdkDiv
+worldviewweekend.com##.block--advertisement
 wormate.io###loa831pibur0w4gv
 woshipm.com##.article--heroAd
 woshipm.com##.article-bottomAd
