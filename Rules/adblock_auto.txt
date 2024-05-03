@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: VsUpJYEE4Evs0iSKtz5KJw
+! Checksum: Kx3+W7l/KvUvmTx6tZqgcA
 ! Title: 混合规则(自动更新)
-! Version: 20240503092139
+! Version: 20240503162317
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-03 09:21:39
-! Total Count: 141315
+! Last modified: 2024-05-03 16:23:17
+! Total Count: 141321
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -11734,7 +11734,6 @@
 ||bamahseines.com^
 ||bambao.lol^
 ||bambarmedia.com^
-||bamgosu.site^
 ||ban-host.ru^
 ||ban.bhol.co.il^
 ||ban.mirorgazma.ru^
@@ -13328,6 +13327,7 @@
 ||bihaipack.com^
 ||bihake.com^
 ||bihunekus.com^
+||bihussufoob.net^
 ||biiepofl.xyz^
 ||bijiangqing.com^
 ||bijitsoa.com^
@@ -57894,6 +57894,7 @@
 ||poxcgxylozny.com^
 ||poxiao.com/template/default/images/12345.js
 ||poxykhakis.com^
+||poxypicine.com^
 ||poyang.cn^$third-party
 ||poyang.com^
 ||poyqmngbxwsvnav.xyz^
@@ -61284,6 +61285,7 @@
 ||rcxysoj.cn^
 ||rcyl-uni.com^
 ||rcyzsh.icu^
+||rczudr.xyz^
 ||rd.alice.it^
 ||rd.autohome.com.cn^
 ||rdance.cn^
@@ -62685,6 +62687,7 @@
 ||rincipledecli.info^
 ||rinddelusional.com^
 ||ringashewasfl.info^
+||ringermuggish.com^
 ||ringexpressbeach.com^
 ||ringier-advertising.ch^
 ||ringsempty.com^
@@ -73827,6 +73830,7 @@
 ||tqrjlqt.com^
 ||tqrznqs.cn^
 ||tqsrtyqpoeyp.com^
+||tquspo.com^
 ||tquvbfl.com^
 ||tqvnzj.xyz^
 ||tqwxtglpr.com^
@@ -82483,6 +82487,7 @@
 ||wwclickgo.com^
 ||wwclickserv.club^
 ||wwemleypftdook.com^
+||wwerioe.top^
 ||wwfx.xyz^
 ||wwgate.ru^
 ||wwgdwl.com^
@@ -84345,7 +84350,6 @@
 ||yghua.com^$third-party
 ||ygkwjd.xyz^
 ||ygljaph.cn^
-||ygosu.com^
 ||ygq.ink^
 ||ygqrki.xyz^
 ||ygshu.com/js/h
@@ -99137,8 +99141,8 @@ netfly.*,netfly.tv##.container-slide
 netfly.*,netfly.tv##.content > div > [style="display: flex; flex-direction: column;width: 100%;"]
 netfly.fun##.player-box-main ~ [style^="display: flex; justify-content: space-between;"]
 netfly.fun#?#.content > div:not([class]):has(> [style="display: flex; justify-content: space-between; width: 100%;"])
-netfly.fun,netfly.tv##.banner[href^="http"]
-netfly.fun,netfly.tv##[style^="display: flex;"]
+netfly.fun,netfly.tv,netflytv.xyz##.banner[href^="http"]
+netfly.fun,netfly.tv,netflytv.xyz##[style^="display: flex;"]
 netfly.lol##[style^="display: flex; justify-content:"]
 netfly.lol,netfly.tv##.module-tglist
 nettiauto.com,nettikaravaani.com,nettikone.com,nettimarkkina.com,nettimokki.com,nettimoto.com,nettivene.com,nettivuokraus.com###huge_banner
@@ -102112,6 +102116,7 @@ shuba.life##img[height][src^="https://shuba.life/static/banners/placeholders/"]
 shulink.com##.er_g
 shuowan.com##.side_flash
 shushudu.com##[style*="width:"][style*="100%"],[style*="width:"][style*="99%"],[width*="99%"],[width*="100%"],div[class][style*="display: block;"][style*="131px;"],div[class][style*="width: 100%;"][style*="131px;"],div[class][style*="z-index: 2147483646;"][style*="131px"],div[class][style*="position: fixed;"][style*="131px"]
+si.com###mmvid
 si.com##.l-inline.m-detail--feature-container
 si.com##.m-balloon-header--spacer
 siasat.com###tie-block_3274
@@ -123079,6 +123084,7 @@ zle.com$script
 ###mpu1_parent
 ###mpu2
 ###mpu2_container
+###mpu2_parent
 ###mpuAd
 ###mpuAdvert
 ###mpuAdvertDesk3

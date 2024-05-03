@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 7uhTeWzoDRt42PYhxbXv4A
+! Checksum: JUfV0ivDTXH3BJlMS02poA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240503092150
+! Version: 20240503162328
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-03 09:21:50
-! Total Count: 26335
+! Last modified: 2024-05-03 16:23:28
+! Total Count: 26341
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6666,6 +6666,7 @@
 ||fluhmmr.cn^
 ||flurry.cachefly.net^
 ||flurry.com^
+||fluxy.cn^
 ||flygo.ru^
 ||flyingsexul.space^
 ||flyzy2005.com/wp-content/*/bandwagonhost-top.
@@ -6886,6 +6887,7 @@
 ||galacg.me/wp-content/uploads/*750x
 ||galaxymedia.xyz/app/images/banner.gif
 ||galleries-pornstar.com/thumb_top/
+||gamdus.xyz^
 ||game.eroge.xyz/*.gif
 ||game333.net/aainset/
 ||game8.jp/assets/smart_phone/ads/
@@ -11014,6 +11016,7 @@
 ||online.rayjump.com/openapi/ads
 ||onlineapi.youappi.com^
 ||onlineporno.fun^$third-party
+||onosyej.icu^
 ||onx8.com/theme/tange/add/
 ||onx8.com/zb_users/theme/ydgreen/style/ad/
 ||onxtxdm.xyz^
@@ -12202,6 +12205,7 @@
 ||rcnithgm.xyz^
 ||rcnldz.xyz^
 ||rcyzsh.icu^
+||rczudr.xyz^
 ||rd.autohome.com.cn^
 ||rdbd.xsread.com^
 ||rdbousn.cn^
@@ -13839,6 +13843,7 @@
 ||tqdpqq.com^
 ||tqjqripb.xyz^
 ||tqrznqs.cn^
+||tquspo.com^
 ||tqvnzj.xyz^
 ||tqytqdrq.icu^
 ||tqznjujv.xyz^
@@ -15002,6 +15007,7 @@
 ||ww9874.com/asset/playerInit.js
 ||wwads.cn^$third-party
 ||wwandle.top^
+||wwerioe.top^
 ||wwgqqq.com^
 ||wwhsxwow.xyz^
 ||wwjtdjj.cn^
