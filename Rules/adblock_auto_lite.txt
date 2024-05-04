@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Bfbc8c5srOPleI6xbeieew
+! Checksum: /pxVyjXHIzBuO/t7V418VQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240504002519
+! Version: 20240504091838
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-04 00:25:19
-! Total Count: 26344
+! Last modified: 2024-05-04 09:18:38
+! Total Count: 26349
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3791,6 +3791,7 @@
 ||azhibo.*/media/aimg/*.gif
 ||azhibo.*images/leisu.png
 ||aziekg.xyz^
+||azkrya.xyz^
 ||azureedge.net/wp-content/cache/minify/3c6d7.js
 ||azureedge.net/wp-content/cache/minify/d2299.js
 ||azureedge.net/wp-content/uploads/*-AD0
@@ -6454,6 +6455,7 @@
 ||eypqbjju.xyz^
 ||eyq3nog.icu^
 ||eyusky.net/weixin-img/zhifubao.jpg
+||eyuwkbw.top^
 ||eyuyao.com/yyad/
 ||eyyqwd.icu^
 ||ezacci.xyz^
@@ -7720,6 +7722,7 @@
 ||hladalliance.com^
 ||hlbbn6ii.icu^
 ||hldwdz.xyz^
+||hlegsdh.icu^
 ||hlnr9q.icu^
 ||hlstlyy.com^$third-party
 ||hltkl.fun^
@@ -12347,6 +12350,7 @@
 ||rltdxt.com/files/h5/
 ||rlw86.cyou^
 ||rlxhbff.cn^
+||rmbvzh.xyz^
 ||rmduuv.icu^
 ||rmhfrtnd.com^$third-party
 ||rmipoz.com/dp.js
@@ -12450,6 +12454,7 @@
 ||runmang.vip/img/
 ||runnergamesch.com/*/BasCount/adAll
 ||runoob.com/images/re/
+||rupmlh.cn^
 ||ruqwgb.icu^
 ||rusnext.ru/advar.js$script
 ||ruten.com.tw/js/gads_
