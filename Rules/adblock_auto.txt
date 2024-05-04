@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 6rDNB+txjRUY/X/hc8LPmA
+! Checksum: w6b0gXzbormxtiGQIOVr7A
 ! Title: 混合规则(自动更新)
-! Version: 20240504162152
+! Version: 20240505002307
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-04 16:21:52
-! Total Count: 141348
+! Last modified: 2024-05-05 00:23:07
+! Total Count: 141352
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -170,6 +170,7 @@
 ||055g.com^
 ||056opui.com^
 ||0573fang.com/ads/
+||05751c.site^
 ||0575bbs.com/js/float.js
 ||0575bbs.com/updateimeags/
 ||0577.la^
@@ -90176,7 +90177,7 @@ bloomberg.com##[class^="FullWidthAd_"]
 bloomberg.com##[data-component="in-body-ad"]
 bloomberg.com##div[class^="media-ui-BaseAd"]
 bloomberg.com##div[class^="media-ui-FullWidthAd"]
-bloomberg.com,weatherpro.com##.leaderboard-wrapper
+bloomberg.com,weatherpro.com,wordfinder.yourdictionary.com##.leaderboard-wrapper
 bloomberglinea.com##.arcad-feature-custom
 blowxtube.com,chinesesexmovie.net,erogarga.com,eyerollorgasm.com,javhdporn.net,pussycatxx.com,zhentube.com###tracking-url
 bluesnews.com##.leaderboard-gutter
@@ -94558,7 +94559,7 @@ goldprice.org,silverprice.org##[href^="https://www.jmbullion.com/"] img
 golf.com##.golf-ad
 golfchannel.com##.gc-mps-ad
 golfdigest.com##.o-ArticleRecirc
-golflink.com,grammar.yourdictionary.com##.ui-advertisement
+golflink.com,grammar.yourdictionary.com,yourdictionary.com##.ui-advertisement
 golfmagic.com,kbb.com,thisismoney.co.uk##.sticky-container
 golfweather.com##.ox300x250
 golfworkoutprogram.com##.lasso-container
@@ -98644,9 +98645,12 @@ motortrend.com##._2I-e5
 motortrend.com##._2IzhW
 motortrend.com##._2UIiN
 motortrend.com##._2xd_t
+motortrend.com##.cls-helper-250-90-250
+motortrend.com##.lg\:min-h-\[90px\]
 motortrend.com##.parent-video-player-cls
 motortrend.com##.video-player-cls
 motortrend.com##div[data-ad-targeting]
+motortrend.com,mumsnet.com##.min-w-\[300px\]
 mover.uz###oframeplayer > [class][style^="display: block"]
 movie-censorship.com##a[href*="/out.php?"]
 movie-rush.com##iframe[src^="https://www.movie-rush.com/files/js/ad/"]
@@ -98817,7 +98821,6 @@ mumbaiporn.com##.hor-spots-bl
 mumbrella.com.au##.bannerSide
 mumbrella.com.au##.featureBanner
 mumsnet.com##.lg\:w-billboard
-mumsnet.com##.min-w-\[300px\]
 mumu.163.com##.pic-con
 musescore.com###ad_cs_12219747_300_250
 musescore.com###ad_cs_12219747_728_90
@@ -137720,6 +137723,7 @@ zle.com$script
 ##a[href^="https://datingoffers30.info/"]
 ##a[href^="https://disobediencecalculatormaiden.com/"]
 ##a[href^="https://dl-protect.net/"]
+##a[href^="https://eergortu.net/"]
 ##a[href^="https://engine.blueistheneworanges.com/"]
 ##a[href^="https://engine.flixtrial.com/"]
 ##a[href^="https://engine.phn.doublepimp.com/"]
