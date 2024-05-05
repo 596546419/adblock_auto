@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ENduAVz+eck0h3WeGj9pEA
+! Checksum: 9nf84jtiAQjrGef0PN2Kow
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240505162234
+! Version: 20240506002419
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-05 16:22:34
-! Total Count: 26359
+! Last modified: 2024-05-06 00:24:19
+! Total Count: 26365
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -821,6 +821,7 @@
 ||552aaa.us^
 ||553aaa.us^
 ||555bbb333bbb.com^
+||555bbb555www.com^
 ||5588.tv/js/piaofuImg.js
 ||5598tp.com^$domain=9xav.cc
 ||55aaee.com/detail/
@@ -5220,6 +5221,7 @@
 ||content-settings.com^$third-party
 ||content.zbporn.com^
 ||contextualadv.com^
+||cooann.top^
 ||cool.sunporno.com^
 ||coolaler.com/index_ads/
 ||coolfenxi.com^
@@ -9157,6 +9159,7 @@
 ||kkbbjtfp.xyz^
 ||kkeojk.xyz^
 ||kkisoo.com^
+||kkjhgfds.top^
 ||kkjshsj.com^
 ||kkkaii.cn^
 ||kkkjpg-522.cc^$third-party
@@ -10153,6 +10156,7 @@
 ||meng.360zuowen.com^
 ||mengte.top^
 ||mephimnhat.com/vast*.xml
+||mepupr486.top^
 ||meqanhm.icu^
 ||mercor.cn^
 ||meritiny.top^
@@ -24068,6 +24072,7 @@ zle.com$script
 ##A[href*=".com/?Agent="]
 ##A[href="http://t.cn/A6hQCVsv"]
 ##A[href^="/e/public/ClickAd?adid="]
+##IMG[src*=".meiyida.tv/"]
 ##[ad_display_dot]
 ##[ad_dot_url]
 ##[class$="-ad-box"]
@@ -24365,6 +24370,7 @@ zle.com$script
 ##a[href*=".youxi142.com"]
 ##a[href*=".ysmdhk.com/"]
 ##a[href*=".zcxnbj.com/"]
+##a[href*=".zxzja.com/"]
 ##a[href*="//ad.doubleclick.net"]
 ##a[href*="//adclick.g.doubleclick.net"]
 ##a[href*="//adultfriendfinder.com"]
