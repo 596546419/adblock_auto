@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: pCNPKlaishMa8KkcFZeOUA
+! Checksum: OlC3G5W58Q9yuNszIfBtQg
 ! Title: 混合规则(自动更新)
-! Version: 20240506092049
+! Version: 20240506162500
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-06 09:20:49
-! Total Count: 141850
+! Last modified: 2024-05-06 16:25:00
+! Total Count: 141890
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2935,6 +2935,7 @@
 ||7dvd.ru^
 ||7e67f4ccad.com^
 ||7e809ed7-e553-4e29-acb1-4e3c0e986562.site^
+||7ee4c0f141.com^
 ||7fc0966988.com^
 ||7fc8.site^
 ||7ff83b4a34.com^
@@ -3785,6 +3786,7 @@
 ||a317654204.com^
 ||a32a.com.cn^
 ||a32a.com.cn^$third-party
+||a32fc87d2f.com^
 ||a356ff8a25.com^
 ||a3595ccd38.com^
 ||a39fa0bea6.com^
@@ -13224,6 +13226,7 @@
 ||bhnmkauncgr.com^
 ||bhny.asia^
 ||bhovnhvpq.com^
+||bhozjskhzfdkh.com^
 ||bhpprfk.cn^
 ||bhqfnuq.com^
 ||bhs4.com^
@@ -13540,6 +13543,7 @@
 ||bissonbunging.com^
 ||bissonprevoid.website^
 ||bistigaleod.life^
+||biswcmtgrnk.com^
 ||bit-ad.com^
 ||bitadv.co^
 ||bitauto.com/bglog.gif?
@@ -15662,6 +15666,7 @@
 ||c0.adalyser.com^
 ||c00.adobe.com^
 ||c00f653366.com^
+||c019154d29.com^
 ||c01d3ac9cb.com^
 ||c0594.com^
 ||c0ae703671.com^
@@ -17000,6 +17005,7 @@
 ||cgovyjnmdtauwdhek.com^
 ||cgqmss.xyz^
 ||cgqwgv.icu^
+||cgsjaulupnd.com^
 ||cgskqg.com^
 ||cguospfen.com^
 ||cgupialoensa.com^
@@ -25473,6 +25479,7 @@
 ||eepsoumt.com^
 ||eepsukso.com^
 ||eeptempy.xyz^
+||eeptoabs.com^
 ||eeptushe.xyz^
 ||eepw.com.cn/event/action/rightbd/microchip*.js
 ||eepw.com.cn/pub/js/TopFullScreen.js
@@ -35572,6 +35579,7 @@
 ||hoosgowhandbow.com^
 ||hooterwas.com^
 ||hootravinedeface.com^
+||hoovendamsite.top^
 ||hoowooze.net^
 ||hoowuliz.com^
 ||hopbeduhzbm.com^
@@ -41229,6 +41237,7 @@
 ||jywangluo.top^
 ||jywczbx.com^
 ||jyxfvp.xyz^
+||jyxrdfxli.com^
 ||jyzkut.com^
 ||jz5u.com/public/js/t$script
 ||jz5u.com/public/new/
@@ -44491,6 +44500,7 @@
 ||lipsate.com^
 ||lipsn.ru^
 ||liqenoftcgfqw.com^
+||liqikxqpx.com^
 ||liquidapprovaltar.com^
 ||liquidatelusciousharriet.com^
 ||liquidfire.mobi^
@@ -47819,6 +47829,7 @@
 ||meritiny.top^
 ||merligopotlid.com^
 ||mermenmanzil.life^
+||meropeafrown.top^
 ||merrrrrry.top^
 ||merry-hearing.pro^
 ||merryindecisionremained.com^
@@ -51736,6 +51747,7 @@
 ||ninetypastime.com^
 ||ninetyreguli.com^
 ||ningbojipiao.com^
+||ningdblukzqp.com^
 ||ningme.ru^
 ||ningmengzhibo.com/ement/beforeSearchEment.action
 ||ningsiy.xin^
@@ -52489,6 +52501,7 @@
 ||ntxiru.com^
 ||ntxviewsinterfu.info^
 ||ntyrt.top^
+||nuanceslimli.top^
 ||nuanqipian.pw^
 ||nubbieraristae.com^
 ||nubcdaqa.xyz^
@@ -53899,6 +53912,7 @@
 ||onx8.com/theme/tange/add/
 ||onx8.com/zb_users/theme/ydgreen/style/ad/
 ||onxtxdm.xyz^
+||onychinferous.top^
 ||onzeage.cfd^
 ||onznwiocrrim.com^
 ||oo00.biz^
@@ -55472,6 +55486,7 @@
 ||paroasse.xyz^
 ||parolropmo.com^
 ||parolropmo.xyz^
+||paronymtethery.com^
 ||parrable.com^
 ||parrecleftne.com^
 ||parrecleftne.xyz^
@@ -57264,6 +57279,7 @@
 ||player.stats.live-video.net^
 ||player.tabooporns.com^$popup
 ||playeranyd.org^
+||playeranydwo.info^
 ||playerseo.club^
 ||playerstrivefascinated.com^
 ||playertraffic.com^
@@ -59980,6 +59996,7 @@
 ||qatuaad.cn^
 ||qauksl.icu^
 ||qawbaxcpeku.com^
+||qawzwkvlebqaz.top^
 ||qawzwkvlebzaw.top^
 ||qaydqvuzmu.com^
 ||qaylocbaxunnav.com^
@@ -60032,6 +60049,7 @@
 ||qcb2xeg.icu^
 ||qcbfiytngupv.com^
 ||qccoccocmedia.vn^
+||qceedrcwar.com^
 ||qcepqj.icu^
 ||qceyyxauc.xyz^
 ||qcffrrsyaxcccx.xyz^
@@ -61792,6 +61810,7 @@
 ||rebindskayoes.com^
 ||rebrea.com^
 ||rebrew-foofteen.com^
+||rebsouvaih.com^
 ||rebunb.xyz^
 ||rebursteaseful.com^
 ||rebuxoos.xyz^
@@ -62551,6 +62570,7 @@
 ||resistsarcasm.com^
 ||resistshy.com^
 ||resizerlooch.com^
+||resktdahcyqgu.xyz^
 ||resnaulum.com^
 ||resniks.pro^
 ||resnikscdn.pro^
@@ -64684,6 +64704,7 @@
 ||sawalinitwits.com^
 ||sawanincreasein.info^
 ||saweatherco.com^
+||saweathercock.info^
 ||sawfishdiapsid.com^
 ||sawfluenttwine.com^
 ||sawmontlookups.com^
@@ -71725,6 +71746,7 @@
 ||tanseb.com/vads/
 ||tanshan.site^
 ||tantialcottish.xyz^
+||tantisnits.top^
 ||tantiterhalac.xyz^
 ||tantohoggism.com^
 ||tantoporno.com^
@@ -74024,6 +74046,7 @@
 ||torajaimbrium.top^
 ||torattatachan.com^
 ||torbit.com^
+||torcheszocalo.top^
 ||torchtrifling.com^
 ||torflegorb.com^
 ||torgdom.biz^
@@ -74228,6 +74251,7 @@
 ||tpx.tesseradigital.com^
 ||tpydhykibbz.com^
 ||tpyerxzn.xyz^
+||tpyfixoqbo.com^
 ||tpyxplkcap.top^
 ||tpzatf.xyz^
 ||tpzzdrxnp.com^
@@ -77915,6 +77939,7 @@
 ||uwayemfogibbgh.xyz^
 ||uwdspsh.cn^
 ||uwdvcn.com^
+||uweriot.top^
 ||uwerpyh.cn^
 ||uwfcqtdb.xyz^
 ||uwfxvvm.cn^
@@ -78769,6 +78794,7 @@
 ||versionlatticecheek.com^
 ||versionsfordisplay.com^
 ||versionslent.com^
+||verstug.cn^
 ||versusconsole.com^
 ||vertelka.ru^
 ||vertical-leap.co.uk^
@@ -80561,6 +80587,7 @@
 ||vzttq.brfvyrrp.com^$all
 ||vzufzah.com^
 ||vzvvifw.cn^
+||vzzramqlfb.com^
 ||w*statistics.info^
 ||w-m-w.net^
 ||w.anmeihe.cn^
@@ -81696,6 +81723,7 @@
 ||whiboubs.com^
 ||whiceega.com^
 ||whichav.*/qq/qq.js
+||whickazoxy.top^
 ||whickgiunta.com^
 ||whicus.com^
 ||whifflehumeral.guru^
@@ -83445,6 +83473,7 @@
 ||xfbdmmcydxt.com^
 ||xfbeobsutqtndp.com^
 ||xfcpdigfsx.xyz^
+||xfdmihlzrmks.com^
 ||xfdqxfpm.cn^
 ||xfguylptuqw.com^
 ||xfhgstxcytiu.com^
@@ -91288,7 +91317,7 @@ cheatcodes.com###game_details_ad
 cheatcodes.com##.ad_btf_728
 check-host.net###hostings
 check-host.net##.ard_z
-check-host.net##.pr-e-lative
+check-host.net##.ra-elative
 check-host.net##.thold10xr
 check-host.net##[title="DDOS-Guard"]
 check-host.net##img[style="width: 700px"]
@@ -99012,6 +99041,7 @@ mobile01.com#$#.modal-backdrop { display: none!important; }
 mobile01.com#?#.l-articlePage:has(> .l-articlePage__author .c-authorInfo__id > a[href^="/marketstore.php?"])
 mobilescout.com###banner_squaredef
 mobilesyrup.com##.ad-goes-here
+mobilesyrup.com##.sidebarSponsoredAd
 mobygames.com##.lifesupport-header
 moddb.com##.nextmediaboxtop
 moddroid.co##a[href^="https://doodoo.love/"]
@@ -99540,6 +99570,9 @@ nationalworld.com##.Dailymotion__Inner-sc-gmjr3r-1
 nationalworld.com##.bfQGof
 nationalworld.com,scotsman.com##.dmpu-item
 nationtalk.ca##.partner-slides
+nationthailand.com##.ads-billboard
+nationthailand.com##.ads-inarticle-2
+nationthailand.com##.light-box-ads
 nativenewsonline.net##.eb-visible
 nativeplanet.com##span[class^="oiad-txt"]
 natural-cosmetology.ru##body > div[style*="background-color:#ff0000;color:#ffffff;"]
@@ -111153,6 +111186,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads/taboola/*
 /ads/tags?
 /ads/takeovers/*
+/ads/targeted|
 /ads/targeting.
 /ads/text/*
 /ads/third-
@@ -113961,7 +113995,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /img/ad-
 /img/ad.
 /img/ad/*
-/img/ad/*$image
+/img/ad/*$~xmlhttprequest
 /img/ad_$domain=~kazi.co.jp|~rakuten.co.jp
 /img/ads/*$domain=~save.ca
 /img/adv.
@@ -114038,6 +114072,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /index.php/Statistics/ads_show?
 /index.php?m=book/ad&
 /index_ad/*
+/index_ad/*$image
 /index_ads.
 /index_ads.js
 /indexmobilead2.
@@ -115182,6 +115217,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /pp-ad.
 /ppd_ads.
 /ppd_ads_
+/prbt/v1/ads/?
 /prebid-js-
 /prebid-min-
 /prebid-pro.
@@ -115284,8 +115320,10 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /pubfig.js
 /pubfig.min.js
 /public/ad/*
+/public/ad/*$image
 /public/ad?
 /public/ads/*
+/public/ads/*$image
 /public/ads_
 /public/adv/*
 /public/imgbed/gg/*
@@ -115438,6 +115476,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /responsive-ad-
 /responsive-ads.
 /responsive/ad_
+/responsive/ad_$subdocument
 /responsive_ads.
 /responsive_ads.js
 /responsive_dfp.
@@ -115765,6 +115804,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /sl/assetlisting/?
 /slafc.js
 /slide_in_ads_
+/slide_in_ads_close.gif
 /slideadverts/*
 /slideinad.
 /slideoutad.
