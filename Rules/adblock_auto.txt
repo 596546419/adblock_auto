@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: OlC3G5W58Q9yuNszIfBtQg
+! Checksum: hKiuKV3gtxXq93LftRV0xg
 ! Title: 混合规则(自动更新)
-! Version: 20240506162500
+! Version: 20240507002644
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-06 16:25:00
-! Total Count: 141890
+! Last modified: 2024-05-07 00:26:44
+! Total Count: 141894
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6496,6 +6496,7 @@
 ||advertronic.io^
 ||advertserve.com^
 ||advertshot.ru^
+||advertsource.co.uk^
 ||advertstar.ru^
 ||advertstream.com^
 ||adverttulimited.biz^
@@ -11427,6 +11428,7 @@
 ||b9645fef65.com^
 ||b97.yahoo.co.jp^
 ||b99.yahoo.co.jp^
+||b9f25b.site^
 ||b9f4882bac.com^
 ||ba-content.de^
 ||ba01520b8b.com^
@@ -49873,6 +49875,7 @@
 ||munilf.com^
 ||munpracticalwh.info^
 ||munsterduke.com^
+||muntfd62.shop^
 ||muntiglesia.com^
 ||muoizbtl.xyz^
 ||muoo.xyz^
@@ -98384,8 +98387,8 @@ lzacg.one##.content-layout .zib-widget > .textwidget > a[target="blank"]
 lzacg.one##.sidebar .zib-widget > .textwidget > a[target="blank"]
 lzacg.one#?#.content-layout .zib-widget:has(> .textwidget:only-child > a[target="blank"])
 lzacg.one#?#.sidebar .zib-widget:has(> .textwidget:only-child > a[target="blank"])
-lzcfz2.com##body > .cl.wp
 lzcfz2.com##body > div.wp.cl
+lzcfz2.com,lzcfz7.xyz##body > .cl.wp
 lzdcctv.cn##.ac_pc
 lzdcctv.cn##.focusmo + table
 lzdcctv.cn##.widget_ssr > a > img
@@ -126041,6 +126044,7 @@ zle.com$script
 ##.ad-box1
 ##.ad-box2
 ##.ad-box3
+##.ad-box:not(#ad-banner):not(:empty)
 ##.ad-box_h
 ##.ad-boxamp-wrapper
 ##.ad-boxbottom

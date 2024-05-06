@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: FP463L7MOsYLr52+eCoxqw
+! Checksum: pNDAhzjxORgNAWxfU73uog
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240506162511
+! Version: 20240507002655
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-06 16:25:11
-! Total Count: 26371
+! Last modified: 2024-05-07 00:26:55
+! Total Count: 26372
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -10484,6 +10484,7 @@
 ||multporn.net/fern*_pen.js
 ||multporn.net/frunti_punti_lad.js
 ||mundanenail.com^$third-party
+||muntfd62.shop^
 ||muoizbtl.xyz^
 ||murdyq.com^
 ||musdga.xyz^
