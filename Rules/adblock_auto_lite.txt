@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 9nf84jtiAQjrGef0PN2Kow
+! Checksum: UmlV2PxRxvWRasZzamqHrQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240506002419
+! Version: 20240506092100
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-06 00:24:19
-! Total Count: 26365
+! Last modified: 2024-05-06 09:21:00
+! Total Count: 26369
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7644,6 +7644,7 @@
 ||hfwld.cn^
 ||hgehse.site^
 ||hgf8hck.com^
+||hgfutf.xyz^
 ||hghjks2.com^
 ||hgiaef.site^
 ||hgiafe.site^
@@ -7861,6 +7862,7 @@
 ||httpwwwdcom.com/js/aaa/
 ||htubzpb.cn^
 ||htvixv.xyz^
+||hty9m.cn^
 ||htyusiu.top^
 ||huaerdadi.com^$third-party
 ||huaiduoduo.info/Runtime/js/
@@ -13393,6 +13395,7 @@
 ||sx.fakjkwp.cn^
 ||sxakca.xyz^
 ||sxeimg.com/u/20191108/13082210.gif
+||sxoejoc.icu^
 ||sxtnpzd.xyz^
 ||sxundrh.cn^
 ||syiwgwsqwngrdw.xyz^
@@ -15870,6 +15873,7 @@
 ||yxdown.com/cj/
 ||yxdown.com/zt/zt/js/zt.js
 ||yxgfcj.com^$third-party
+||yxgqgq.xyz^
 ||yximgs.com/bs2/adcarsku/sku1563a96c-38ca-4563-a4b5-522208113126.
 ||yximgs.com/bs2/adcarsku/sku9c0e68cc-2f12-4e47-a340-a7293ee88c88.
 ||yxptcrss.xyz^
@@ -24072,7 +24076,6 @@ zle.com$script
 ##A[href*=".com/?Agent="]
 ##A[href="http://t.cn/A6hQCVsv"]
 ##A[href^="/e/public/ClickAd?adid="]
-##IMG[src*=".meiyida.tv/"]
 ##[ad_display_dot]
 ##[ad_dot_url]
 ##[class$="-ad-box"]
@@ -25122,6 +25125,7 @@ zle.com$script
 ##img[src*=".c-ctrip.com"][style="width:100%;height:70px;"]
 ##img[src*=".jd.com"][style="width:100%;height:70px;"]
 ##img[src*=".meituan.net"][style="width:100%;height:70px;"]
+##img[src*=".meiyida.tv/"]
 ##img[src*=".qpic.cn"][width="980"][height="80"]
 ##img[src*=".secureserver.net/"][src*=".gif"],img[src*=".secureserver.net/"][src*="960x"],img[src*=".secureserver.net/"][src*="960_"]
 ##img[src*=".sinaimg."][style="width:1025px;height:80px"]
