@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: EKwolWGsvwVsCmN11K6SXw
+! Checksum: mrscdAzkxamly0EOivuBLQ
 ! Title: 混合规则(自动更新)
-! Version: 20240507092038
+! Version: 20240507162403
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-07 09:20:38
-! Total Count: 141937
+! Last modified: 2024-05-07 16:24:03
+! Total Count: 141944
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8622,6 +8622,7 @@
 ||analytics.gameforge.de^
 ||analytics.gamesdrive.net^
 ||analytics.gen.shield.monitoringservice.co^
+||analytics.genial.ly^
 ||analytics.getshogun.com^
 ||analytics.githubassets.com^
 ||analytics.global.sky.com^
@@ -59937,6 +59938,7 @@
 ||pzcrwml.cn^
 ||pzd.rakuten.co.jp^
 ||pzeazgmwem.com^
+||pzfqzv.xyz^
 ||pzgbqbk.com^
 ||pzjizsyf.icu^
 ||pzlxnd.xyz^
@@ -70477,6 +70479,7 @@
 ||suicidechapterspartnership.com^
 ||suilingxian.cn^
 ||suirtan.com^
+||suitablepartner.life^
 ||suitbelongingoccasion.com^
 ||suitcasessheriffpilgrim.com^
 ||suite*.linximpulse.net^
@@ -90328,7 +90331,7 @@ beincrypto.com##.ad-post-right-sidebar-1
 beincrypto.com##.ad-post-right-sidebar-2
 beincrypto.com##.cont-wrapper
 beincrypto.com##.sponsored-badge
-beincrypto.com,bitcoinist.com,captainaltcoin.com,coincodex.com,coinpaprika.com,coinspeaker.com,crypto-news-flash.com,cryptonews.com,cryptonewsz.com,cryptopolitan.com,insidebitcoins.com,philnews.ph,techreport.com##[class*="clickout-"]
+beincrypto.com,bitcoinist.com,captainaltcoin.com,coincodex.com,coinpaprika.com,coinspeaker.com,crypto-news-flash.com,cryptonews.com,cryptonewsz.com,cryptopolitan.com,insidebitcoins.com,news.bitcoin.com,philnews.ph,techreport.com##[class*="clickout-"]
 bejson.com##.alert-dismissable
 bejson.com##.t-small-margin > ul:first-child
 bejson.com##.xf2-gg-left
@@ -98411,6 +98414,7 @@ luoqiuzw.com##.show-app2
 lushstories.com##.horizhide
 lusongsong.com###main > center
 lustgalore.com##.opac_bg
+luxa.org##.MuiContainer-root:has(> ins.adsbygoogle)
 luxweb.lu###imu
 luyixian.cn,pcgamebenchmark.com##.side
 lvmama.com###centerDialog
@@ -99774,6 +99778,7 @@ news.baidu.com##.recommend-animate
 news.baidu.com##.recommend-mask
 news.baidu.com##.swipe-backflow-container
 news.baidu.com#?#.index-list-item:-abp-has(.tip-time:-abp-contains(广告))
+news.bitcoin.com##.sc-cpornS
 news.china.com.cn##.Wrapper > div[style]
 news.cn2che.com##.banner01
 news.ebc.net.tw###marquee-box
@@ -101941,6 +101946,7 @@ rebelnews.com##.rn_widgets_content
 rebelnews.com##[href^="https://rebelne.ws/"]
 rebelnews.com##[href^="https://www.eventbrite.com/"]
 rebooo.com###gong
+recipes.timesofindia.com##.flipkartbanner
 recipesandcooker.com##.pbl
 recombu.com##.takeover-right
 recordbate.com##.image-box
@@ -137560,6 +137566,7 @@ zle.com$script
 ##a[href$="ky9402.com"]
 ##a[href*="&Ad_ID="]
 ##a[href*="&campaignType=smartpop&creativeId"]
+##a[href*="&maxads="]
 ##a[href*=".05bq.com/"]
 ##a[href*=".08an.com/"]
 ##a[href*=".123ch.cn"]
