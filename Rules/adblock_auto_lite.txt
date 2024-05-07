@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: pNDAhzjxORgNAWxfU73uog
+! Checksum: bglg1AQEXMe85QknkteKxQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240507002655
+! Version: 20240507092049
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-07 00:26:55
-! Total Count: 26372
+! Last modified: 2024-05-07 09:20:49
+! Total Count: 26377
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7812,12 +7812,14 @@
 ||hpt73.cn^$domain=9xav.cc
 ||hptyp.icu^
 ||hpvl2kb.icu^
+||hpy9w.cn^
 ||hq390.xyz^
 ||hqcx.net/images/baidu.jpg
 ||hqcx.net/index.php?m=poster&
 ||hqdlhgx.cn^
 ||hqdoor.com/Web/
 ||hqgearb.icu^
+||hqhspv.xyz^
 ||hqjstd.xyz^
 ||hqol.cn/up/ad/
 ||hqporn.su/myvids/
@@ -9155,6 +9157,7 @@
 ||kjjjusb.xyz^
 ||kjos.vo.llnwd.net^
 ||kjrspnbf.xyz^
+||kjubky.xyz^
 ||kjugr.xyz^
 ||kjvaqbyebqarl.top^
 ||kjvnfhdgb.com^
@@ -9806,6 +9809,7 @@
 ||lv-play.com/web/adv/list
 ||lv.myapks.com^
 ||lvdedf.xyz^
+||lveodaz.icu^
 ||lvjtiaa.xyz^
 ||lvnlrmn.xyz^
 ||lvphbj.xyz^
@@ -11129,6 +11133,7 @@
 ||owandlk.top^
 ||owap.su^$third-party
 ||oweeiyw.icu^
+||oweriok.top^
 ||owihyg.xyz^
 ||owkmmo.xyz^
 ||owyame.xyz^
