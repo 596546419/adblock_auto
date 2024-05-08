@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Y3HnVu1E1aICzNms5BJjAw
+! Checksum: s0Wkjx2yC84vLpMvjxiVbg
 ! Title: 混合规则(自动更新)
-! Version: 20240508002258
+! Version: 20240508090655
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-08 00:22:58
-! Total Count: 141967
+! Last modified: 2024-05-08 09:06:55
+! Total Count: 142017
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -582,6 +582,7 @@
 ||1278977604.rsc.cdn77.org^
 ||1287a.xyz^
 ||1288151678.rsc.cdn77.org^
+||1299757727.rsc.cdn77.org^
 ||12999.com/JS/
 ||12a640bb5e.com^
 ||12bf8fb111.com^
@@ -650,6 +651,7 @@
 ||154.212.147.231^
 ||154.22.214.2^
 ||154.7.80.158^
+||1541233801.rsc.cdn77.org^
 ||1543481067.rsc.cdn77.org^
 ||1548164934.rsc.cdn77.org^
 ||154886c13e.com^
@@ -3830,6 +3832,7 @@
 ||a6dc99d1a8.com^
 ||a6lxbeui.ru^
 ||a6vv9o.online^
+||a700fb9c8d.com^
 ||a7165aaaf6.com^
 ||a718917a44.com^
 ||a75-10-so.ssl.cdn13.com^
@@ -10164,6 +10167,7 @@
 ||asecv.xyz^
 ||asecw.xyz^
 ||aseegrib.com^
+||aseluosldtabi.com^
 ||asemolgaa.com^
 ||asemskull.com^
 ||aserverstats.com^
@@ -15504,6 +15508,7 @@
 ||bycxhgrp.xyz^
 ||bydcczwmxyd.com^
 ||bydcxdy.cn^
+||bydebd.xyz^
 ||bydurantr.com^
 ||bydusclopsa.com^
 ||bydzfldt.xyz^
@@ -15753,6 +15758,7 @@
 ||c78zf.xyz^
 ||c7d263f5d8.com^
 ||c7ee346412.com^
+||c7vw6cxy7.com^
 ||c8.net.ua^
 ||c81.ipanocloud.com^
 ||c83cf15c4f.com^
@@ -17063,6 +17069,7 @@
 ||chaiphuy.com^
 ||chaiptefee.com^
 ||chaiptut.xyz^
+||chaipungie.xyz^
 ||chairgaubsy.com^
 ||chairmansmile.com^
 ||chairwaydenew.site^
@@ -17823,6 +17830,7 @@
 ||cixaxuyu.xyz^
 ||cizare.xyz^
 ||cizion.com^
+||cizzwykcug.com^
 ||cj-cy.com^
 ||cj7g.top^
 ||cja-1223.cc^
@@ -26392,6 +26400,7 @@
 ||eoseurlingeringonl.xyz^
 ||eoseurlingeringont.com.ua^
 ||eotglx.top^
+||eoucxzw.icu^
 ||eoveukrnme.info^
 ||eoweridus.com^
 ||eownouncillors.info^
@@ -28594,6 +28603,7 @@
 ||ffortyimagist.com^
 ||ffpp.xyz^
 ||ffqtjwwhupcg.com^
+||ffqvjpkwe.com^
 ||ffrxlhuwvyldpk.com^
 ||ffrywcxaewmpp.com^
 ||ffsewzk.com^
@@ -29336,6 +29346,7 @@
 ||fnitw.xyz^
 ||fnkio.cyou^
 ||fnkyyrgraizy.com^
+||fnlojkpbe.com^
 ||fnmfaoac.xyz^
 ||fnnmnupevx.com^
 ||fnnzr.cn^
@@ -30526,6 +30537,7 @@
 ||fz2c.top^
 ||fz8g.top^
 ||fzamtef.com^
+||fzasx.cn^
 ||fzbkgni.cn^
 ||fzbm.com/bbs/static/js/bma.js
 ||fzckwij.cn^
@@ -31077,6 +31089,7 @@
 ||gdbyxgjbkgv.com^
 ||gdcytv.cn^*.gif
 ||gddrio.com^
+||gdecording.info^
 ||gdecordingholo.info^
 ||gdeslon.ru^
 ||gdfp.gifshow.com^
@@ -31341,6 +31354,7 @@
 ||get35.com^
 ||get4click.ru^
 ||getadfinity.com^
+||getadjacent.com^
 ||getadx.com^
 ||getadzuki.com^
 ||getaim.info^
@@ -33843,6 +33857,7 @@
 ||halal.ad^
 ||halct.cn^
 ||halerugeogeny.com^
+||half-concert.pro^
 ||halfhaled.com^
 ||halflyfiscal.com^
 ||halfpriceozarks.com^
@@ -34272,6 +34287,7 @@
 ||hc360.com/list/iframe_end_textadv.shtml
 ||hc360.com/security/201409/201409021830024990.jpg
 ||hcbbsoss.oss-cn-hangzhou.aliyuncs.com^*-banner
+||hcbjuiira.com^
 ||hcbjwt.com^
 ||hcckkyoo.com^
 ||hcdjy.xyz^
@@ -34748,6 +34764,7 @@
 ||heukwasanasosett.info^
 ||heusysianedu.com^
 ||hevc.site^
+||hevdnzqu.com^
 ||hevinauw.net^
 ||hevuabv.cn^
 ||hewalleges.guru^
@@ -36109,6 +36126,7 @@
 ||huanqiu.com/statics/*/dist/js/detected_block.js
 ||huanqiucdn.cn/huanqiu/js/www/common/detected_block.
 ||huapuzs.com^
+||huapydce.xyz^
 ||huaren.us/Adverts/
 ||huaren.us/banners/
 ||huaren.us/bbs_ads/
@@ -43799,6 +43817,7 @@
 ||leefosto.com^
 ||leegaroo.xyz^
 ||leeleo.top^$third-party
+||leeptoadeesh.net^
 ||leesecobourg.com^
 ||leesymvlvck.xyz^
 ||leetaipt.net^
@@ -44319,6 +44338,7 @@
 ||liivhntsu.com^
 ||lijb.site^
 ||lijit.com^
+||lijybcfgnjh.com^
 ||likdie.com^
 ||likeads.com^
 ||likebaiduthikhoanhkhacgiadinh.weebly.com^
@@ -46100,6 +46120,7 @@
 ||lwcsytn.cn^
 ||lwdcnz.xyz^
 ||lwddrhp.cn^
+||lweriol.top^
 ||lwfcipd.cn^
 ||lwgadm.com^
 ||lwghtbqqmbxiet.com^
@@ -47283,6 +47304,7 @@
 ||mbvfawgcsnukb.com^
 ||mbvlmx.com^
 ||mbvlmz.com^
+||mbvndisplay.site^
 ||mbvsm.com^
 ||mbww.com^
 ||mbxsku.cn^
@@ -47546,6 +47568,7 @@
 ||mediatebrazenmanufacturer.com^
 ||mediategenericburden.com^
 ||mediation-tracking.prd.mz.internal.unity3d.com^
+||mediation.unity3d.com^
 ||mediative.ca^
 ||mediative.com^
 ||mediatoday.ru^
@@ -48061,6 +48084,7 @@
 ||mfaec.cn^
 ||mfagqah.cn^
 ||mfav88.com/yinzi/
+||mfbarfvjk.com^
 ||mfbjifwyieopx.com^
 ||mfceqvxjdownjm.xyz^
 ||mfcewkrob.com^
@@ -48991,6 +49015,7 @@
 ||moera.xyz^
 ||moerats.com/usr/affpc/
 ||moes3quba.cyou^
+||moetconfisk.top^
 ||moevideo.biz^
 ||mofettecalmed.com^
 ||mofox.com^
@@ -52196,6 +52221,7 @@
 ||nostrilsdisappearedconceited.com^
 ||nostrilsunwanted.com^
 ||nostromedia.com^
+||nosuhplhkvvza.com^
 ||not-only.info^
 ||notablechemistry.pro^
 ||notablyassn.digital^
@@ -52401,6 +52427,7 @@
 ||nr-data.net^
 ||nr.static.mmcdn.com^
 ||nr7.us^
+||nrbqgf.cn^
 ||nrc.tapas.net^
 ||nrcqqpjx.xyz^
 ||nrecitnr.com^
@@ -52800,7 +52827,6 @@
 ||nzydzsw.com^
 ||nzydzsw.com^$third-party
 ||nzymeedg.icu^
-||o-iab.mediation.unity3d.com^
 ||o-oo.ooo^
 ||o.027eat.com^
 ||o.60sk.ru^
@@ -54789,6 +54815,7 @@
 ||overdonealthough.com^
 ||overdonereciprocalimpure.com^
 ||overduerebukeloyal.com^
+||overduerole.com^
 ||overestimateoption.com^
 ||overestimateyearly.com^
 ||overfatberiber.digital^
@@ -55308,6 +55335,7 @@
 ||pajinse.top^
 ||pajirosandal.com^
 ||pajons.live^
+||pajtll.xyz^
 ||pakbanners.com^
 ||pakenta.xyz^
 ||palabrapiquero.website^
@@ -58130,6 +58158,7 @@
 ||poshhateful.com^
 ||poshsenseless.com^
 ||poshsplitdr.com^
+||poshyouthfulton.com^
 ||positionavailreproach.com^
 ||positioner.info^
 ||positiveaveinsist.com^
@@ -60494,6 +60523,7 @@
 ||qmbnkdh.cn^
 ||qmbpmdeq.xyz^
 ||qmdllqv.cn^
+||qmgria.cn^
 ||qmhffrogjeca.com^
 ||qmoxxhc.cn^
 ||qmpartner.vip^
@@ -63747,6 +63777,7 @@
 ||rsuuc.com^
 ||rsvkfwth.xyz^
 ||rsvvfx.xyz^
+||rswhowishedto.info^
 ||rsxocgqnu.com^
 ||rsyawvcbmthnfr.com^
 ||rsykksw.cn^
@@ -64169,6 +64200,7 @@
 ||rxtgbihqbs99.com^
 ||rxthdr.com^
 ||rxuwtiv.cn^
+||rxvej.com^
 ||rxyggrq.cn^
 ||rxys.cn^
 ||ryanfrqxjl.com^
@@ -66017,6 +66049,7 @@
 ||shaledpaidle.com^
 ||shallarchbishop.com^
 ||shallotuncord.com^
+||shallowtwist.pro^
 ||shalomitll.top^
 ||shalse.com^
 ||shameless-sentence.pro^
@@ -66083,6 +66116,7 @@
 ||shareresults.com^
 ||sharesceral.uno^
 ||sharethrough.com^
+||shareusads.com^
 ||sharevault.cloud^
 ||shareweeknews.com^
 ||sharieta.com^
@@ -67761,7 +67795,6 @@
 ||smarterhq.io^
 ||smarterremarketer.net^
 ||smartfarming.cn^
-||smartframe.io^
 ||smartgalaxy.finance^
 ||smartico.one^
 ||smartinfomarketing.ru^
@@ -69681,6 +69714,7 @@
 ||stats.mituyu.com^
 ||stats.mos.ru^
 ||stats.mpthemes.net^
+||stats.myserverhome.de^
 ||stats.nebula.fi^
 ||stats.netbopdev.co.uk^
 ||stats.netdriven.com^
@@ -70935,6 +70969,7 @@
 ||swanbxca.com^
 ||swandlb.top^
 ||swansinksnow.com^
+||swapsprediet.top^
 ||swarfsfitters.com^
 ||swarmpush.com^
 ||swarthymacula.com^
@@ -72273,6 +72308,7 @@
 ||telemetry.navigatorapp.net^
 ||telemetry.phenixrts.com^
 ||telemetry.reembed.com^
+||telemetry.smartframe.io^
 ||telemetry.soundcloud.com^
 ||telemetry.swe.quicinc.com^
 ||telemetry.tableausoftware.com^
@@ -74696,6 +74732,7 @@
 ||tracker.shanon-services.com^
 ||tracker.shopclues.com^
 ||tracker.smart-bdash.com^
+||tracker.smartframe.io^
 ||tracker.smartseminar.jp^
 ||tracker.softcube.com^
 ||tracker.sqreemtech.com^
@@ -80028,6 +80065,7 @@
 ||voc.com.cn/adsClick/
 ||voc.com.cn/js/xc/
 ||voc.com.cn/static/web/js/creattwo11.js
+||vocablyheir.top^
 ||vocaivie.xyz^
 ||vocalconferencesinister.com^
 ||vocalickopjes.com^
@@ -82187,6 +82225,7 @@
 ||wishmayvaganti.website^
 ||wishoblivionfinished.com^
 ||wishoutergrown.com^
+||wismog.xyz^
 ||wister.biz^
 ||wistfulassign.com^
 ||wistfulcomet.com^
@@ -82322,6 +82361,7 @@
 ||wltsgqnblq.com^
 ||wltt.xyz^
 ||wlvkzwqjlyzvr.top^
+||wlwbjjphtza.com^
 ||wlxww.com/html/analytics/
 ||wlyfiii.com^
 ||wlyxhdffvgz.com^
@@ -92775,6 +92815,7 @@ deviantart.com##._3jfHP
 deviantart.com##.ytXUX
 deviantart.com##[style="width: 308px; height: 316px;"]
 dexdotexe.com##iframe[title="Top Games"]
+dexerto.com##.external\:bg-custom-ad-background
 dexerto.com##.inline-block
 dexerto.com##div[id^="dex-ad-"]
 dexerto.com##div[id^="jwplayer_"]
@@ -93420,6 +93461,7 @@ eboblack.com,teenxy.com##.out_lnk
 ebony8.com,maturetubehere.com##.pignr
 ebony8.com,sortporn.com,freeporn8.com,amateur8.com,maturetubehere.com##.item.pignr
 ebook-searcher.com##.w-100
+ecaytrade.com##.leatherboard
 ecaytrade.com##.promo-processed
 eccn.com###sem_online
 eco-business.com###supporting_orgs
@@ -93590,6 +93632,8 @@ emulatorgames.net##.site-unit-lg
 emumax.com##.tbanner
 en8848.com.cn##.list_adv
 enca.com###block-views-block-sponsored-block-1
+encycarpedia.com###baa
+encycarpedia.com##.cac
 encyclopedia.com###block-trustme-rightcolumntopad
 endocrineweb.com,practicalpainmanagement.com##.block-oas
 endtimeheadlines.org##.endti-widget
@@ -99494,8 +99538,10 @@ mydrivers.com##div[style="width:728px;height:90px; margin: auto; padding-top: 5p
 mydrivers.com##div[style^="position:fixed;left:50%;bottom:200px;"]
 mydrivers.com##div[style^="width:728px; height:90px;"]
 mydrivers.com##div[style^="width:890px;height:100px;"]
+mydrivers.com#?#.newslist > li:has(> span:contains(广 告))
 mydrivers.com#?#div[class^="news_info"] > ul.newslist > li:has(> span:contains(广告))
 mydrivers.com#?#li:-abp-has(>.titl+.t:-abp-contains(广告))
+mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(广 告))
 mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(广告))
 mydrivers.com,pujia8.com###recommend
 mydrivers.com,taizhou.com.cn##.duilian2
@@ -103314,6 +103360,7 @@ sportsplanetmag.com##.adshow
 sportsv.net##.adv01
 sportsv.net##.box.ad
 sporttery.cn###newDiv
+spotifydown.com##.semi-transparent
 sprouts.com#?#li.product-wrapper:-abp-has(span:-abp-contains(Sponsored))
 spy.com##.multiple-products
 spy.com##.todays-top-deals-widget
@@ -104042,7 +104089,10 @@ theinertia.com##.inertia-ad-label
 theinertia.com##.inertia-ad-top
 theiphoneappreview.com##.frame
 theiphoneappreview.com##.widget_links
+thejakartapost.com##.expandable-bottom-sticky
 thejakartapost.com##.the-brief
+thejakartapost.com##.tjp-ads
+thejakartapost.com##.tjp-placeholder-ads
 thejavmost.com###poster
 thejc.com##.banner__
 thejc.com##.banner__article
@@ -116908,7 +116958,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 ://ads.
 ://ads.$domain=~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.bigbom.com|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.dollartree.com|~ads.elcarado.com|~ads.gambinoslot.com|~ads.google.com|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kazakh-zerno.net|~ads.lapalingo.com|~ads.listonic.com|~ads.lordlucky.com|~ads.magalu.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.mst.dk|~ads.nc|~ads.nimses.com|~ads.nipr.ac.jp|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.route.cc|~ads.safi-gmbh.ch|~ads.sk|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.taboola.com|~ads.tiktok.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.watson.ch|~ads.xtribeapp.com|~ads.yahoosmallbusiness.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
 ://ads.$popup,domain=~smartnews.com
-://ads.$~image,domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.cafebazaar.ir|~ads.colombiaonline.com|~ads.comeon.com|~ads.cs.washington.edu|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.finance|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kazakh-zerno.net|~ads.kifli.hu|~ads.knuspr.de|~ads.lapalingo.com|~ads.listonic.com|~ads.lollipod.de|~ads.magalu.com|~ads.mba|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.nc|~ads.nimses.com|~ads.nipr.ac.jp|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.rohlik.cz|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.twitter.com|~ads.typepad.jp|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.watson.ch|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
+://ads.$~image,domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.business.bell.ca|~ads.cafebazaar.ir|~ads.colombiaonline.com|~ads.comeon.com|~ads.cs.washington.edu|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.finance|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kazakh-zerno.net|~ads.kifli.hu|~ads.knuspr.de|~ads.lapalingo.com|~ads.listonic.com|~ads.lollipod.de|~ads.magalu.com|~ads.mba|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.nc|~ads.nimses.com|~ads.nipr.ac.jp|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.rohlik.cz|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.twitter.com|~ads.typepad.jp|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.watson.ch|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
 ://ads2.
 ://adv.$domain=adv.asahi.com|~adv.asahi.com|~adv.bet|~adv.blue|~adv.chunichi.co.jp|~adv.cincsys.com|~adv.co.it|~adv.cpa-api.ru|~adv.cryptonetlabs.it|~adv.derfunke.at|~adv.design|~adv.digimatix.ru|~adv.ec|~adv.ee|~adv.gg|~adv.hokkaido-np.co.jp|~adv.kompas.id|~adv.lack-girl.com|~adv.mcr.club|~adv.michaelgat.com|~adv.msk.ru|~adv.neosystem.co.uk|~adv.peronihorowicz.com.br|~adv.rest|~adv.ru|~adv.tools|~adv.trinet.ru|~adv.ua|~adv.vg|~adv.vn.ua|~adv.works|~adv.yomiuri.co.jp|~advancedradiology.com|~advids.co|~erti.se|~escreverdireito.com|~farapp.com|~forex-tv-online.com|~pracuj.pl|~r7.com|~typeform.com|~welaika.com
 ://adv.$popup,domain=~adv.kompas.id|~adv.lack-girl.com

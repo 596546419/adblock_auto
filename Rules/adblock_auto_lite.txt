@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: VeTLi03KZCGIQ+/CEgUiMA
+! Checksum: 66C0n8M+2bFNX9TxD3iebw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240508002309
+! Version: 20240508090706
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-08 00:23:09
-! Total Count: 26378
+! Last modified: 2024-05-08 09:07:06
+! Total Count: 26385
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4565,6 +4565,7 @@
 ||by4d.com/love/
 ||bycxhgrp.xyz^
 ||bydcxdy.cn^
+||bydebd.xyz^
 ||bydzfldt.xyz^
 ||byjdg.xyz^$third-party
 ||byjykj.xyz^
@@ -6331,6 +6332,7 @@
 ||eol.cn/js/global/jQuery_ads.js
 ||eoof.net/PicZone/qzgg
 ||eopad.cyou^
+||eoucxzw.icu^
 ||epebuk.xyz^
 ||epoid.xyz^
 ||epom.com^
@@ -6848,6 +6850,7 @@
 ||fyexyd.icu^
 ||fytpft.xyz^
 ||fyvpzn.xyz^
+||fzasx.cn^
 ||fzbm.com/bbs/static/js/bma.js
 ||fzcsd33.com^
 ||fzd3.com/gg/
@@ -9823,6 +9826,7 @@
 ||lw881.com/public/js/gw.js
 ||lwandll.top^
 ||lwdcnz.xyz^
+||lweriol.top^
 ||lwhffh.xyz^
 ||lwide.xyz^
 ||lwksxs.com^$third-party
@@ -10119,6 +10123,7 @@
 ||media.porn.com/system/files/images/*.gif
 ||medialand.ru^
 ||mediate-ios-*.hyprmx.com^
+||mediation.unity3d.com^
 ||mediav.com^$third-party,domain=~dev.360.cn|~g.360.cn
 ||medsci.cn/aimgs/$script
 ||medsci.cn/images/wyg.jpg
@@ -10853,6 +10858,7 @@
 ||nqdufv.xyz^
 ||nqfrhd.xyz^
 ||nqoxurf.icu^
+||nrbqgf.cn^
 ||nrfhbd.xyz^
 ||nrj.fr/nrj?Page=/rg.fake&
 ||nrsfh.com/neirong/
@@ -10925,7 +10931,6 @@
 ||nzrovf.xyz^
 ||nzydzsw.com^$third-party
 ||nzymeedg.icu^
-||o-iab.mediation.unity3d.com^
 ||o.027eat.com^
 ||o.hotsextube.tv^
 ||o.jy135.com^
@@ -11205,6 +11210,7 @@
 ||painsko.com^$third-party
 ||paintpear.com^$third-party
 ||pajhvd.xyz^
+||pajtll.xyz^
 ||pan.baidu.com/act/api/activityentry?
 ||panc.cc/uploads/hongbao.png
 ||panda.kdnet.net^
@@ -14905,6 +14911,7 @@
 ||winzid.icu^
 ||wioboy.xyz^
 ||wisealty.com^
+||wismog.xyz^
 ||wit.qq.com^$third-party
 ||wiybthm.cn^
 ||wj.jiancai365.cn^
