@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: s0Wkjx2yC84vLpMvjxiVbg
+! Checksum: RyQzpHykLlB1G8KWAUqQgg
 ! Title: 混合规则(自动更新)
-! Version: 20240508090655
+! Version: 20240508162223
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-08 09:06:55
-! Total Count: 142017
+! Last modified: 2024-05-08 16:22:23
+! Total Count: 142028
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -10325,6 +10325,7 @@
 ||assetize.com^
 ||assets.adfenix.com^
 ||assets.datarize.ai^
+||assets.etus.digital^
 ||assets.harafunnel.com^
 ||assets.heylink.com^
 ||assets.msn.cn/bundles/v1/microsoftNews/latest/placement-manager.*.js$domain=microsoftnews.msn.cn
@@ -19728,6 +19729,7 @@
 ||corycj.top^
 ||corymbszinzar.com^
 ||cos.ap-*.myqcloud.com^$third-party
+||cosiequiapo.com^
 ||cosmatitacker.top^
 ||cosmeticlevy.com^
 ||cosmeticsgenerosity.com^
@@ -32067,6 +32069,7 @@
 ||gloufteglouw.com^
 ||gloumsee.net^
 ||gloumsie.net^
+||glounugeepse.xyz^
 ||glouseer.net^
 ||gloushekra.com^
 ||gloussowu.xyz^
@@ -45112,9 +45115,11 @@
 ||log.baodatviet.vn^
 ||log.baodauthau.vn^
 ||log.baogialai.com.vn^
+||log.baolaocai.vn^
 ||log.baomoi.com^
 ||log.baonghean.vn^
 ||log.baophapluat.vn^
+||log.baovanhoa.vn^
 ||log.beecost.com^
 ||log.beecost.vn^
 ||log.bizlive.vn^
@@ -59536,6 +59541,7 @@
 ||puerq.com^
 ||puerty.com^
 ||puffexies.com^
+||puffingtiffs.com^
 ||puffnetwork.com^
 ||pugdisguise.com^
 ||pugehjjxdr.xyz^
@@ -92858,12 +92864,15 @@ dict.cn##.search-right-ad7
 dict.leo.org###adv-drectangle1
 dictionary.com###dcomHomeTop-728x90
 dictionary.com##.TeixwVbjB8cchva8bDlg
+dictionary.com##.wotd-widget__ad
 dictionary.com##[class^="AdHorizontal"]
 dictionary.com##[data-type="ad-horizontal-module"]
+dictionary.com,thesaurus.com##.SZjJlj7dd7R6mDTODwIT
 dictionary.com,thesaurus.com##.fHACXxic9xvQeSNITiwH
 dictionary.com,thesaurus.com##.otd-item__bottom
 dictionary.com,thesaurus.com##aside[id$="728x90"]
 dictionary.com,thesaurus.com##main div[class]:has(> [data-type="ad-vertical"])
+dictionary.com,thesaurus.com#?#[class] > p:-abp-contains(Advertisement)
 didispace.com##.widget-wrap > p[style="text-align: left;padding-bottom: 20px;line-height: 30px;"]
 dietsinreview.com##.r_content_300x250
 digg.com##.ads-aside-rectangle
@@ -104183,7 +104192,6 @@ theregister.com###whitepapers
 theregister.com##.wptl
 theroanoketribune.org##div[id^="thero-"]
 theroar.com.au##.u-d-block
-thesaurus.com##.SZjJlj7dd7R6mDTODwIT
 thesaurus.com##.e1wyd5nb0
 thesaurus.com##section[data-type="ad-horizontal-module"]
 thescore.com##.Ad__container--2fhQb
@@ -132753,6 +132761,7 @@ zle.com$script
 ##.gamezebo_ad
 ##.gamezebo_ad_info
 ##.gb-ad-top
+##.gb_area_ads
 ##.gbl_adstruct
 ##.gbl_advertisement
 ##.gc-deck--is-ad
@@ -134507,6 +134516,7 @@ zle.com$script
 ##.netshelter-ad
 ##.network-ad-two
 ##.new-ad-box
+##.new-ad-leaderboard-header-desk
 ##.new-ads-scroller
 ##.newArv_2nd_adv_blk
 ##.newHeaderAd
@@ -134992,6 +135002,7 @@ zle.com$script
 ##.primis-ad-wrap
 ##.primis-custom
 ##.primis-player
+##.primis-player-container
 ##.primis-player__container
 ##.primis-video
 ##.primis-video-player
