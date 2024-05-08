@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Vmz3Y05oExZq5X3ecLCVnQ
+! Checksum: SKiWl3oYhtDp64L1S0Xn7Q
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240508162234
+! Version: 20240509002519
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-08 16:22:34
-! Total Count: 26386
+! Last modified: 2024-05-09 00:25:19
+! Total Count: 26389
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8212,6 +8212,7 @@
 ||img.jygdb.com^$script,third-party
 ||img.lancdn.com/*-top-banner-
 ||img.mengzhan28.top^$third-party
+||img.mikudm.net/img01/MP3/GG/20240415_CPS_960X75_general.gif
 ||img.scupio.com$domain=briian.com
 ||img.scupio.com/js/ad.js
 ||img.sex169.info^*.gif
@@ -12016,6 +12017,7 @@
 ||qlogo1.store.qq.com^
 ||qlspx.com:$third-party
 ||qm6ef.xyz^
+||qmbdta.cn^
 ||qmgria.cn^
 ||qmoxxhc.cn^
 ||qmwx4.xyz^
@@ -12388,6 +12390,7 @@
 ||rnpkxgfp.xyz^
 ||rntdqwc.xyz^
 ||rnzmynh.cn^
+||robudpw.cn^
 ||rock.porn/ai/s/s/im.php?ss=
 ||rockradio.com^*/blockadblock-$script,domain=rockradio.com
 ||rockstargame.su/adb_script$script
