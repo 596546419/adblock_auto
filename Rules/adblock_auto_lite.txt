@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: SKiWl3oYhtDp64L1S0Xn7Q
+! Checksum: PFwZw8idEot29hjhd17v2w
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240509002519
+! Version: 20240509092014
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-09 00:25:19
-! Total Count: 26389
+! Last modified: 2024-05-09 09:20:14
+! Total Count: 26393
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8473,6 +8473,7 @@
 ||iuou.myadobe.cn^
 ||iuou.ysw365.com^
 ||iupian.com/mstyle/js/topinfo.js
+||iuqasw.xyz^
 ||iuu3j.xyz^
 ||iuvssgh.cn^
 ||ivbgpax.cn^
@@ -10805,6 +10806,7 @@
 ||njxraqb.xyz^
 ||njxzwh.com/pcsoft/statics/ycgg/
 ||nkbkor.icu^
+||nkbpft.xyz^
 ||nkfith.xyz^
 ||nkis.nikkei.com^
 ||nkvwvx.xyz^
@@ -11431,6 +11433,7 @@
 ||pkjmmn.icu^
 ||pkk1.zuimeiniwo.com^
 ||pkkylyx.xyz^
+||pklujb.xyz^
 ||pknrnj.xyz^
 ||pkvs.com/public/300/
 ||pkvs.com/public/as.js
@@ -15331,6 +15334,7 @@
 ||xmcimg.com/js/m.js
 ||xmi1.top^
 ||xmjajv.xyz^
+||xmkmryu.icu^
 ||xmnkgi.cn^
 ||xmrc.com.cn/net/info/html/
 ||xmsflzmygw.com^
