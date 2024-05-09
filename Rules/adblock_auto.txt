@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: xGCDpSQ0rvAZrolhfSrOlw
+! Checksum: 4xVdDN4at36hX682Vt5cjw
 ! Title: 混合规则(自动更新)
-! Version: 20240509092002
+! Version: 20240509162358
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-09 09:20:02
-! Total Count: 142061
+! Last modified: 2024-05-09 16:23:58
+! Total Count: 142071
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -17510,6 +17510,7 @@
 ||chirppronounceaccompany.com^
 ||chissaibsgirls.com^
 ||chitbillety.website^
+||chitchooms.net^
 ||chitika.com^
 ||chitika.net^
 ||chitsnooked.com^
@@ -88066,7 +88067,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 2ip.me,2ip.ua##.alert-mess > .row
 2j0.cn##table[style="margin-bottom: 10px;width:100%;text-align:center;font-weight:700;background-color: #ffffff;"]
 2merkato.com,2mfm.org,aps.dz,armyrecognition.com,beginlinux.com,botswanaguardian.co.bw,cbn.co.za,dailynews.co.tz,digitalmediaworld.tv,eprop.co.za,finchannel.com,forums.limesurvey.org,i-programmer.info,jiagle.com,killerdirectory.com,limesurvey.org,pamplinmedia.com,radiolumiere.org,rapidtvnews.com,southfloridagaynews.com,thepatriot.co.bw,usedcarnews.com##.bannergroup
-2oceansvibe.com###skin
+2oceansvibe.com,pocketgamer.biz###skin
 2oceansvibe.com,speedcafe.com,travelweekly.com##.partners
 2pass.co.uk##.column_right
 2pass.co.uk##[href="bicycle-insurance.htm"]
@@ -90431,6 +90432,7 @@ benxiang.com##.ad_ld
 benxiang.com##.w-hot-link-txt
 benyixiwang.com##p img[src*=".dlssyht.cn/u/"][title]
 benyixiwang.com#?#p:-abp-has(a[href="http://www.sm9166.com"])
+benzinga.com##.video-player-wrapper
 benzinga.com##div[class^="GoogleAdBlock_"]
 bernama.com##a[class^="banner_photo_"]
 bescore.com,jlmhk.com,ok.porn,pornhat.com##.bn
@@ -96655,6 +96657,7 @@ imagebam.com###aad-header-3
 imagebam.com###cs-link
 imagebam.com###inter > [src]
 imagebam.com,vipergirls.to##a[href^="https://www.mrporngeek.com/"]
+imagecolorpicker.com##.flex div[class$="w-full"].grid
 imagetopdf.com,pdfkit.com,pdftoimage.com,topdf.com,webpconverter.com##div[class^="ha"]
 imagetotext.info##.adv_text
 imagetotext.info##.bg-light.mt-2.text-center
@@ -103697,6 +103700,7 @@ talksms.com##.righttd
 tametimes.co.za##.white-background
 tampafp.com##._ning_outer
 tampermonkey.net##[src^="data:image"]
+tandfonline.com##.pb-ad
 tangdoucdn.com##+js(nano-setInterval-booster, .s--, , 0.02)
 tangdoucdn.com##+js(set-constant, Object.prototype.ad_switch, 0)
 tangrenjie.tv##div[class$="_acmsd"] > a[target="_blank"] > img
@@ -104233,6 +104237,7 @@ thestreamable.com##.d-md-flex
 thestreet.com##.is-video-footer-enabled
 thestreet.com##.m-balloon-header
 thestreet.com##.m-video-unit
+thestudentroom.co.uk##div[id^="wallpaper-panel-"] ~ div[class] div[class^="custom-"]:has(> *[data-freestar-ad])
 thesun.co.uk##.dpa-slot
 thetealmango.com##div[style^="margin: 8px auto; text-align:"]
 thetechpoint.org##.navigation-banner
@@ -109297,6 +109302,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /RainbowTGXServer/*
 /RdmAdFeed.
 /RdmAdFeed.js
+/RealMedia/ads/adstream_
 /RenderLapinBlock?
 /Runtime/Js/300_300.js
 /Runtime/Js/90_m.js
@@ -112324,7 +112330,9 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /affiliate-portal-
 /affiliate.linker/*
 /affiliate/ad/*
+/affiliate/ad/*$image
 /affiliate/ads/*
+/affiliate/ads/*$image
 /affiliate/banner/*
 /affiliate/banners/*
 /affiliate/banners/*$image
@@ -112592,6 +112600,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /banner/adv/*
 /banner/adv_
 /banner/affiliate/*
+/banner/affiliate/*$image,subdocument
 /banner/alma2.jpg
 /banner/amazon/*
 /banner/hit?
@@ -114872,6 +114881,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /nativeads.
 /nativeads.js
 /nativeads/*
+/nativeads/script/*
 /nativeads_v2/*$domain=its.sex|jav4tv.com|oksex.tv|sexjav.org|sexjav.tv|xhentai.tv
 /nativebanner/ane-native-banner.js
 /nav-ad-
