@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Z/OSInNgwuQQWHNP2SxflA
+! Checksum: R5/4K897qXEAkVM/i5PipA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240509162409
+! Version: 20240510002510
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-09 16:24:09
-! Total Count: 26395
+! Last modified: 2024-05-10 00:25:10
+! Total Count: 26397
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3628,6 +3628,7 @@
 ||arbbj6.com^
 ||area51.porn/sw.js
 ||arejug.xyz^
+||areyoutherenow.com^
 ||arhnuin.xyz^
 ||ariqye.xyz^
 ||ark.le.com/s?vid=
@@ -9252,6 +9253,8 @@
 ||koudaiyundong.com^$third-party
 ||kovvild.com^
 ||koyi.pub/wp-content/plugins/dh-anti-adblocker/
+||koyso.com/static/js/abc.
+||koyso.com/z-
 ||koyuod.xyz^
 ||kozhyf.icu^
 ||kpbqlqv.cn^
@@ -11494,7 +11497,6 @@
 ||polepole.cn^
 ||polkkqm.com^
 ||polkmerty.xyz^
-||polyfill.io^
 ||polymorphicads.jp^
 ||pontiflex.com^
 ||poopd.xyz^
