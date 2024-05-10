@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 009NzOkcu5DyI9iBS3jQGQ
+! Checksum: qThhqp3AzLob5Nn8auPvZA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240510092059
+! Version: 20240510162412
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-10 09:20:59
-! Total Count: 26405
+! Last modified: 2024-05-10 16:24:12
+! Total Count: 26409
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1132,6 +1132,7 @@
 ||88lm11.com^
 ||88lm12.com^
 ||88lm13.com^
+||88lm15.com^
 ||88p2p.com^$popup
 ||88ys.cc/js/abcd.js
 ||8961.jianbihua.com^
@@ -10299,6 +10300,7 @@
 ||mmead.xyz^
 ||mmeimh.xyz/static/100.
 ||mmeimh.xyz/static/images/
+||mmgap.cn^
 ||mmiedf.xyz^
 ||mmn811.top^
 ||mmnc87.shop^
@@ -13186,6 +13188,7 @@
 ||speechlessexpandinglaser.com^
 ||speedporn.net/iamfront.js
 ||speedporn.net/wp-content/themes/retrotube/nex1.js
+||speedtest.cn/api/v2/show
 ||speedtest.cn/api/v2/show?
 ||speedtest.cn/assets/images/ce_
 ||speedup.cyou^$third-party
@@ -15843,6 +15846,7 @@
 ||ysdm*.ys137.com.cn^
 ||yshlor.icu^
 ||ysm.ezprice.net^$third-party
+||yssryr.cn^
 ||ysx8.vip^$third-party
 ||ysxs8.vip/js/bd_top.js
 ||ysxs8.vip/js/play_db.js

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Ecy5Ppbt2UWAI5UAr1aZXQ
+! Checksum: 7uP7md9+XYANz7SBhidCew
 ! Title: 混合规则(自动更新)
-! Version: 20240510092048
+! Version: 20240510162401
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-10 09:20:48
-! Total Count: 142139
+! Last modified: 2024-05-10 16:24:01
+! Total Count: 142147
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3179,6 +3179,7 @@
 ||88lm11.com^
 ||88lm12.com^
 ||88lm13.com^
+||88lm15.com^
 ||88lotte.com^
 ||88p2p.com^
 ||88p2p.com^$popup
@@ -68829,6 +68830,7 @@
 ||speedporn.net/iamfront.js
 ||speedporn.net/wp-content/themes/retrotube/nex1.js
 ||speedsupermarketdonut.com^
+||speedtest.cn/api/v2/show
 ||speedtest.cn/api/v2/show?
 ||speedtest.cn/assets/images/ce_
 ||speedtracker.de^
@@ -85667,6 +85669,7 @@
 ||ysnxszyrxdzp.com^
 ||ysont.cn^
 ||yspecjbjmcub.com^
+||yssryr.cn^
 ||ysstnh.com^
 ||ysuchtjhwasp.info^
 ||yswphit.cn^
@@ -91001,7 +91004,11 @@ bravotube.net,bravoteens.com,pornoaffe.com,hd-pornos.net##.vjs-overlay
 brazz-girls.com##[href^="/Site/Brazzers/"]
 brazzers-hdx.club##.adblck
 breakingbelizenews.com,cardealermagazine.co.uk,headfonics.com,igorslab.de,landline.media,mikesmoneytalks.ca,pornlib.com,sundayworld.co.za,theroanokestar.com,visualcapitalist.com##a[href*="/linkout/"]
+breakingdefense.com###skin-clickthrough
+breakingdefense.com###top-header
+breakingdefense.com##.pre-footer-menu
 breakingdefense.com##.sponsored-inline
+breakingdefense.com,medcitynews.com##.sidebar__top-sticky
 breakingnews.ie##.custom-mpu-container
 breakingnews.ie##.p-2.bg-gray-100
 breakingnews.ie,canberratimes.com.au,theland.com.au##.py-2.bg-gray-100
@@ -104225,6 +104232,7 @@ thepointsguy.com##.beam-card-feature
 thepointsguy.com##.favorite-cards
 thepointsguy.com##.showBb
 thepointsguy.com##[aria-label="Advertisement"]
+thepopverse.com##.autoad
 theporn.cc##.gg-config
 theporn.cc##.toolbar-gg
 theporn.cc##.video_playr_sider
