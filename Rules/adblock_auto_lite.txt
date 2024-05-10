@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: R5/4K897qXEAkVM/i5PipA
+! Checksum: 009NzOkcu5DyI9iBS3jQGQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240510002510
+! Version: 20240510092059
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-10 00:25:10
-! Total Count: 26397
+! Last modified: 2024-05-10 09:20:59
+! Total Count: 26405
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6294,6 +6294,7 @@
 ||eltdeh.top^
 ||eltrafiko.com^
 ||eluocs.xyz^
+||elvirassb.com^
 ||emailservcesonline.site^
 ||emcoper.com^
 ||emdcadvertise.eastmoney.com^
@@ -7654,6 +7655,7 @@
 ||hghjks2.com^
 ||hgiaef.site^
 ||hgiafe.site^
+||hgidskiu.top^
 ||hgjjk45.com^
 ||hgpdoa.cn^
 ||hgsly.buzz^
@@ -7905,6 +7907,7 @@
 ||huimee.net^
 ||huimg.cn/e/hd.e.wap.
 ||huishij.net^
+||huiyunbei.com^
 ||huizu100.com/data/attachment/portal/
 ||hujunhao.name^
 ||hulichuang.mobi^
@@ -10501,6 +10504,7 @@
 ||multporn.net/frunti_punti_lad.js
 ||mundanenail.com^$third-party
 ||muntfd62.shop^
+||muntswe58.shop^
 ||muoizbtl.xyz^
 ||murdyq.com^
 ||musdga.xyz^
@@ -11911,6 +11915,7 @@
 ||qetskupch581.shop^
 ||qetskupyka61.shop^
 ||qeuckn.icu^
+||qfaaokr.icu^
 ||qfblqq.com^
 ||qfdtqq.com^
 ||qgfzb.com^$document
@@ -14210,6 +14215,7 @@
 ||ufz.doesxyz.com^
 ||ugbler.icu^
 ||ugkpsi.xyz^
+||ugolue.xyz^
 ||ugpibtpk.xyz^
 ||ugtbit.icu^
 ||ugvbsrbht.xyz^
@@ -15448,6 +15454,7 @@
 ||xukang09.cn^
 ||xukou.net^
 ||xulizui6.com^
+||xunsfr.xyz^
 ||xunsu.cc/js/indexbottom.js
 ||xunyugong.xyz/sitejs/xunyugong.js
 ||xuoizbtl.xyz^
@@ -16274,6 +16281,7 @@
 ||zwdtvx.xyz^
 ||zwfkxb.xyz^
 ||zwxxcb.icu^
+||zwzdjb.xyz^
 ||zx.docin.com^
 ||zxcrr.com^
 ||zxfas56.com^

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: lvm1oVtfz5YEpugJF70TNA
+! Checksum: Ecy5Ppbt2UWAI5UAr1aZXQ
 ! Title: 混合规则(自动更新)
-! Version: 20240510002500
+! Version: 20240510092048
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-10 00:25:00
-! Total Count: 142106
+! Last modified: 2024-05-10 09:20:48
+! Total Count: 142139
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -521,6 +521,7 @@
 ||1202647672.rsc.cdn77.org^
 ||1202liutiao.xyz^
 ||1203555.com^
+||1204491360.rsc.cdn77.org^
 ||1205020224.rsc.cdn77.org^
 ||1205qitiao2022.xyz^
 ||12086.net^
@@ -858,6 +859,7 @@
 ||19528681.com^
 ||195315.com/storage/tpl/tj.js
 ||1954342903.rsc.cdn77.org^
+||1957648849.rsc.cdn77.org^
 ||1969301294.rsc.cdn77.org^
 ||1969321160.rsc.cdn77.org^
 ||19719197.com^
@@ -1729,6 +1731,7 @@
 ||39.net/js/wt.js
 ||39.net/test/k.js
 ||391k.com/pc/gg/
+||39268ea911.com^
 ||395b8c2123.com^
 ||3975lm.com^$third-party
 ||3987.com/all_site/
@@ -4209,6 +4212,7 @@
 ||abtaurosa.club^
 ||abtest.mistat.xiaomi.com^
 ||abtest.swrve.com^
+||abtrcker.com^
 ||abtyroguean.com^
 ||abtyroguer.com^
 ||abuleiasafflow.com^
@@ -4248,6 +4252,7 @@
 ||academyenrage.com^
 ||acala-bridge.com^
 ||acalraiz.xyz^
+||acam-2.com^
 ||acaox.com^
 ||acaoz.com^
 ||acaussee.net^
@@ -8251,6 +8256,7 @@
 ||amendablepartridge.com^
 ||amendablesloppypayslips.com^
 ||amendsgeneralize.com^
+||amendsrecruitingperson.com^
 ||amenityleisurelydays.com^
 ||amenityremorse.com^
 ||ameofmuki.info^
@@ -14504,6 +14510,7 @@
 ||boustahe.com^
 ||bousyshock.com^
 ||bouwehee.xyz^
+||bouwhaici.net^
 ||bovategunrack.cfd^
 ||bovemtou.xyz^
 ||bovhzz.xyz^
@@ -25964,6 +25971,7 @@
 ||eluocs.xyz^
 ||elusiveanxiouslyruns.com^
 ||eluviabattler.com^
+||elvirassb.com^
 ||elwcchbwtnohia.com^
 ||elwmvjuit.xyz^
 ||elxont.com^
@@ -29699,6 +29707,7 @@
 ||fouharoa.com^
 ||foulageyamshik.life^
 ||fouleewu.net^
+||foulfurnished.com^
 ||foullypellate.space^
 ||founcedaimen.top^
 ||foundationhorny.com^
@@ -33747,6 +33756,7 @@
 ||habitueflasque.com^
 ||habkjav.cn^
 ||hablvsmnr.com^
+||habovethecit.info^
 ||habovethecity.info^
 ||habovethecityon.info^
 ||habrasysteleii.xyz^
@@ -34877,6 +34887,7 @@
 ||hgiaef.site^
 ||hgiafe.site^
 ||hgibbei.cyou^
+||hgidskiu.top^
 ||hgijycxp.com^
 ||hgirsxsgetv.com^
 ||hgjjk45.com^
@@ -36235,6 +36246,7 @@
 ||huiying.shop^
 ||huiyuangang.cc^
 ||huiyueting.com^
+||huiyunbei.com^
 ||huiyutz.cn^
 ||huizai.top^
 ||huizeyoupin.com^
@@ -41829,6 +41841,7 @@
 ||kf3.xyz^
 ||kf94.club^
 ||kfareputfeab.org^
+||kfbdnyeelfxctc.com^
 ||kfc.com.cn^$popup,domain=iqiyi.com
 ||kfckcu.xyz^
 ||kfctds59.shop^
@@ -42926,6 +42939,7 @@
 ||kvyyyde.cn^
 ||kw3y5otoeuniv7e9rsi.com^
 ||kwadakesd.cyou^
+||kwbgmufi.com^
 ||kwbmkwej.com^
 ||kwcmrfb.cn^
 ||kwdgudw.cn^
@@ -48710,6 +48724,7 @@
 ||mmfudtmtjx.com^
 ||mmfusheng.com^
 ||mmgads.com^
+||mmgap.cn^
 ||mmi.bemobile.ua^
 ||mmiedf.xyz^
 ||mmismm.com^
@@ -49944,6 +49959,7 @@
 ||munsterduke.com^
 ||muntfd62.shop^
 ||muntiglesia.com^
+||muntswe58.shop^
 ||muoizbtl.xyz^
 ||muoo.xyz^
 ||mupads.de^
@@ -52396,6 +52412,7 @@
 ||nplahh.xyz^
 ||nplxa.com^
 ||npmeingm7.shop^
+||npmgfyajejhlde.com^
 ||npnbwfpftjpqwc.com^
 ||npnpxoz.xyz^
 ||npnzfri.xyz^
@@ -53988,6 +54005,7 @@
 ||onx8.com/zb_users/theme/ydgreen/style/ad/
 ||onxtxdm.xyz^
 ||onychinferous.top^
+||onzazqarhmpi.com^
 ||onzeage.cfd^
 ||onznwiocrrim.com^
 ||oo00.biz^
@@ -54349,6 +54367,7 @@
 ||orclrul.com^
 ||ordbzeokdxku.com^
 ||ordealsreannoy.top^
+||orderedbewhore.com^
 ||orderfritter.com^
 ||orderlydividepawn.com^
 ||orderlymall.pro^
@@ -54421,6 +54440,7 @@
 ||orldwhoisquite.com^
 ||orldwhoisquite.org^
 ||orldwhoisquiteh.info^
+||orlotalers.com^
 ||orlowedonhisdhilt.info^
 ||ormolustuke.top^
 ||ornery-animal.pro^
@@ -55754,6 +55774,7 @@
 ||paughtyrostrum.com^
 ||pauhoano.com^
 ||paujudih.xyz^
+||paularrears.com^
 ||paulastroid.com^
 ||paulcorrectfluid.com^
 ||paulinruntime.digital^
@@ -60234,6 +60255,7 @@
 ||qewylqmaqezzj.top^
 ||qezpjlp.cn^
 ||qf1d.top^
+||qfaaokr.icu^
 ||qfblqq.com^
 ||qfcdgy.cn^
 ||qfdn3gyfbs.com^
@@ -63196,6 +63218,7 @@
 ||riverpush.com^
 ||riversingratitudestifle.com^
 ||rivetrearrange.com^
+||rivmuvlnu.com^
 ||rivne.space^
 ||riweeboo.com^
 ||rixaka.com^
@@ -73268,6 +73291,7 @@
 ||tifstudiousyo.info^
 ||tifybecausingp.com^
 ||tifyeldi.top^
+||tigainareputaon.info^
 ||tigerpush.net^
 ||tightendescendantcuddle.com^
 ||tighterinfluenced.com^
@@ -75238,6 +75262,7 @@
 ||trafficbroker.com^
 ||trafficby.net^
 ||trafficcost.ru^
+||trafficdecisions.com^
 ||trafficdok.com^
 ||trafficengine.net^
 ||trafficfabrik.com^
@@ -76804,6 +76829,7 @@
 ||uglyp.club^
 ||uglypath.pro^
 ||ugnlaigt.fun^
+||ugolue.xyz^
 ||ugopkl.com^
 ||ugostlyhewo.xyz^
 ||ugpibtpk.xyz^
@@ -84229,6 +84255,7 @@
 ||xrllybr.xyz^
 ||xrn8.xyz^
 ||xroqbkk.cn^
+||xrpikxtnmvcm.com^
 ||xrrhwgj.xyz^
 ||xrrxodz.xyz^
 ||xrujynhcxtbsgp.com^
@@ -84361,6 +84388,7 @@
 ||xunjiu.online^
 ||xunlei.com/api/stat/rt/js?
 ||xunren.club^
+||xunsfr.xyz^
 ||xunsilu.com^
 ||xunsu.cc/js/indexbottom.js
 ||xunyugong.xyz/sitejs/xunyugong.js
@@ -86817,6 +86845,7 @@
 ||zoiqrudc.com^
 ||zoizfaodz.com^
 ||zojyob.icu^
+||zokaukree.net^
 ||zokbywpncgqrq.com^
 ||zol-img.com.cn/ad/
 ||zol-img.com.cn/detail/js/module/app-download-float/script.js
@@ -87139,6 +87168,7 @@
 ||zwwlaasbezg.com^
 ||zwxxcb.icu^
 ||zwyhucpmoov.com^
+||zwzdjb.xyz^
 ||zx.docin.com^
 ||zx123.cn/templates/zx123cs/theme-2015/js/right_xh.js
 ||zxcbaby.ru^
@@ -112712,6 +112742,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /banners/aff.
 /banners/affil/*
 /banners/affiliate/*
+/banners/affiliate/*$image
 /banners/affiliates/*
 /banners/ffadult/*
 /banners/promo/*
@@ -113828,6 +113859,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /globaladprostyles.
 /globalads-
 /globalbannerad.
+/globals_ps_afc.js
 /gmu-download.oss-
 /gogl_detector$script,domain=meddaily.ru|newsru.com
 /gonggao/gg.js
@@ -115313,6 +115345,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /plugins/wp-moreads/*$~stylesheet
 /plugins/wp125/*$~stylesheet
 /plugins/wp_actionpop/*
+/plugins/wp_pro_ad_system/templates/*
 /plugins_ads_
 /plus/ad_
 /pm_ads/*
@@ -116798,7 +116831,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /wp-srv/ad/*
 /wp_ad_250_
 /wp_pro_ad_system/*
-/wp_pro_ad_system/templates/*
 /wpadgu-
 /wpadgu-adblock.js
 /wpadgu-clicks.js
@@ -128988,6 +129020,7 @@ zle.com$script
 ##.ads-outer
 ##.ads-panel
 ##.ads-parent
+##.ads-pholder
 ##.ads-placeholder
 ##.ads-placeholder-inside
 ##.ads-placeholder-wrapper
