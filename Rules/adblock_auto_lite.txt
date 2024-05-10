@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: qThhqp3AzLob5Nn8auPvZA
+! Checksum: 6bAWbHJHaUd65hc1QcGt8A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240510162412
+! Version: 20240511002539
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-10 16:24:12
-! Total Count: 26409
+! Last modified: 2024-05-11 00:25:39
+! Total Count: 26412
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3909,6 +3909,7 @@
 ||baidu.com/xpage/interface/structrec?
 ||baidu.com^$domain=pos.baidu.com
 ||baidu.com^$subdocument,domain=dm5.com|dm5.hk
+||baidu.com^*/directad?
 ||baidu.com^*/getrelatedbusiness?
 ||baidu.com^*/interface/ad?
 ||baidu1.cardbaobao.com^
@@ -5780,6 +5781,7 @@
 ||djponj.xyz^
 ||djs.baomihua.com^
 ||djxpnuo.xyz^
+||djxzk.top^
 ||dk45h.icu^
 ||dkcwnsu.xyz^
 ||dkjwbv.xyz^
@@ -8026,6 +8028,7 @@
 ||iamcdn.net/players/player*.*mins.js$important,script,domain=kmo.to|freeplayervideo.com|playhydrax.com|hydracdn.*|hydrax.*|player-cdn.com|abysscdn.com
 ||iamcdn.net/players/playera.dmins.js$important,script,domain=kmo.to|freeplayervideo.com|playhydrax.com|hydracdn.*|hydrax.*|player-cdn.com|abysscdn.com
 ||iamcdn.net/players/playhydraxs.min.js$important,script,domain=kmo.to|freeplayervideo.com|playhydrax.com|hydracdn.*|hydrax.*|player-cdn.com|abysscdn.com
+||iaosua.com^
 ||iaozwe.xyz^
 ||iapolo.com/myjs/
 ||iask.ca/img/*.gif
