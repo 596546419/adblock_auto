@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: f42qbQHNMTPpjYWaEoVIMA
+! Checksum: 2jWCtGkhE6rBu+IGeb2c7g
 ! Title: 混合规则(自动更新)
-! Version: 20240511002528
+! Version: 20240511091948
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-11 00:25:28
-! Total Count: 142169
+! Last modified: 2024-05-11 09:19:48
+! Total Count: 142186
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1909,6 +1909,7 @@
 ||4399.com/loadimg/loading.htm
 ||4399sj.com^*/mask-ad
 ||43bb528775.com^
+||43sjmq3hg.com^
 ||43t53c9e.de^
 ||44180055.cn^
 ||44288fa514.com^
@@ -15392,6 +15393,7 @@
 ||buyu1234.com^$~third-party
 ||buyu9*.com^$document
 ||buyu9*.com^$~third-party
+||buyvisblog.com^
 ||buywords.de^
 ||buzffovvq.com^
 ||buzzadexchange.com^
@@ -18071,6 +18073,7 @@
 ||cleverads.vn^
 ||cleveritics.com^
 ||cleverjump.org^
+||clevernesscolloquial.com^
 ||clevernesswood.com^
 ||clevernet.vn^
 ||clevernt.com^
@@ -25172,7 +25175,6 @@
 ||ebanking.wiopm.com^
 ||ebankingshopee.vn^
 ||ebannertraffic.com^
-||ebaticalfel.com^
 ||ebayclassifiedsgroup.com^
 ||ebayget.cc^
 ||ebayobjects.com.au^
@@ -28503,6 +28505,7 @@
 ||fepgdpebyr.com^
 ||fepmpify.xyz^
 ||fepseqdkfyfjc.com^
+||feptbh.xyz^
 ||feqvfgfqe.com^
 ||fer2oxheou4nd.com^
 ||feralopponentplum.com^
@@ -41293,6 +41296,7 @@
 ||jypvzd.xyz^
 ||jyqakuufosr.com^
 ||jyqekzewvyojy.top^
+||jyqkijp.icu^
 ||jyrcqzjjachlk.com^
 ||jyrd.com/statics/*/js/baizhu/
 ||jyrfbtmbuqeaeo.com^
@@ -44743,6 +44747,7 @@
 ||liximomo.top^
 ||lixitetlienquan.com^
 ||lixnirokjqp.com^
+||lixonj.xyz^
 ||lixsbdifa.com^
 ||lixuhwuwychupbd.com^
 ||liyiyue.xyz^
@@ -54517,6 +54522,7 @@
 ||osmost.com^
 ||osmoticchalah.com^
 ||osmousavosets.com^
+||osmzym.xyz^
 ||osnignsk.xyz^
 ||osnoownmk.fun^
 ||osoirux.com^
@@ -61172,6 +61178,7 @@
 ||qwdbsjnql.com^
 ||qwe.qrrgv.space^
 ||qwe0231141.bj.bcebos.com^
+||qweqd.cn^
 ||qwerfdx.com^
 ||qwerioy.top^
 ||qwertize.com^
@@ -62302,6 +62309,7 @@
 ||reingod.com^
 ||reinstandpointdumbest.com^
 ||reinvigorate.net^
+||reissue2871.xyz^
 ||reitbokgona.com^
 ||reitingas.lt^
 ||reitingi.lv^
@@ -70222,7 +70230,6 @@
 ||stovoori.net^
 ||stowamends.com^
 ||stowjupnkwlic.com^
-||stownrusis.com^
 ||stpd.cloud^
 ||stpeopleshouldthi.com^
 ||stpmgo.com^
@@ -78076,6 +78083,7 @@
 ||uwayemfogibbgh.xyz^
 ||uwdspsh.cn^
 ||uwdvcn.com^
+||uweqsrwoey.com^
 ||uweriot.top^
 ||uwerpyh.cn^
 ||uwfcqtdb.xyz^
@@ -88712,7 +88720,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 6park.com##table[width="89%"][height="60"]
 6parknews.com##.other_list_ad
 6parknews.com#?##d_list > ul > li:-abp-has(a[href^="http"]:not([href*="6parknews"]))
-6yit.com,captainaltcoin.com,dailyboulder.com,freedesignresources.net,hentaiblue.com,lostintechnology.com,ripplecoinnews.com,utahgunexchange.com,uuvps.com,webkinznewz.ganzworld.com##.widget_text
+6yit.com,captainaltcoin.com,dailyboulder.com,freedesignresources.net,hentaiblue.com,lostintechnology.com,pornifyme.com,ripplecoinnews.com,utahgunexchange.com,uuvps.com,webkinznewz.ganzworld.com##.widget_text
 703804.com##.hotad
 7060.la,bimiacg.net,bimiacg4.net,bimiacg5.net,dodoge.me,kuwo.cn,weather.com.cn##.tuiguang
 717dyw.com##.qptp + *,.vdgd + *,.qpgd + *,a > video
@@ -103476,6 +103484,10 @@ sssam.com##+js(set-constant, ads, '')
 sstv.pw##.container > a > img[style="width: 100%;"]
 ssyoutube.com##.b-widget-left
 ssyy.ee##.container > a[target="_blank"] > img
+stackabuse.com###ad-snigel-1
+stackabuse.com###ad-snigel-2
+stackabuse.com###ad-snigel-3
+stackabuse.com###ad-snigel-4
 stackoverflow.com##.clc-cp-lb
 stackoverflow.com##.js-sidebar-zone
 stadiumtalk.com##.story-section-inStory-inline
@@ -111274,6 +111286,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads/iframe
 /ads/im2.
 /ads/image/*
+/ads/image/*$image
 /ads/images/*
 /ads/images/*$image,domain=~eoffcn.com
 /ads/imbox-
@@ -111422,6 +111435,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads/vertical/*
 /ads/vg/*
 /ads/video/*
+/ads/video/controller.php
 /ads/video_
 /ads/view.
 /ads/view.php
@@ -112382,6 +112396,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /aff.htm
 /aff/ads_
 /aff/banners/*
+/aff/banners/*$image
 /aff/images/*
 /aff/images/*$image
 /aff_ad?$popup
@@ -112421,6 +112436,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /affiliate_base/banners/*
 /affiliate_link.js
 /affiliateads/*
+/affiliateads/*$image
 /affiliatebanner/*
 /affiliatebanners/*
 /affiliateimages/*
@@ -114878,6 +114894,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /mod_ablockdetector/*
 /mod_ad/*
 /mod_ijoomla_adagency_zone/*
+/mod_ijoomla_adagency_zone/*$~xmlhttprequest
 /mod_pagepeel_banner/*
 /modalad.
 /module-ads-html-$script
@@ -114890,7 +114907,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /modules/adv/*
 /modules/dfp/*
 /modules/doubleclick/*
-/modules/mod_ijoomla_adagency_zone/*$~xmlhttprequest
 /modules/video/player/nuevo/midroll.php?
 /modules_ads.
 /momsads.
@@ -115279,6 +115295,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /petrol-ad-
 /pfe/current/*
 /pfe/current/*$script,third-party
+/pfe/current/*$third-party
 /pfpadv.
 /pgad.
 /pge/?s=$third-party
@@ -115350,7 +115367,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /plugins/ad.
 /plugins/adrotate-pro/*
 /plugins/adrotate/*
-/plugins/adrotate/library/*
+/plugins/adrotate/*$script
 /plugins/ads-
 /plugins/ads/*
 /plugins/adsanity-

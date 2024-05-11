@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 6bAWbHJHaUd65hc1QcGt8A
+! Checksum: wv3ge80yVe2ib6FtFEVqsw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240511002539
+! Version: 20240511091959
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-11 00:25:39
-! Total Count: 26412
+! Last modified: 2024-05-11 09:19:59
+! Total Count: 26417
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6595,6 +6595,7 @@
 ||fenxiangdashi.com/Res/js/detail_
 ||fenxiangdashi.com/img/banner/
 ||fepmpify.xyz^
+||feptbh.xyz^
 ||fernandou.online^
 ||ferriesendless.com^
 ||festaporno.com^$third-party
@@ -9001,6 +9002,7 @@
 ||jygiizv.icu^
 ||jynthelon.com^
 ||jypvzd.xyz^
+||jyqkijp.icu^
 ||jyrd.com/statics/*/js/baizhu/
 ||jyt58.top^
 ||jyuwkba.top^
@@ -9670,6 +9672,7 @@
 ||liweiling.xyz^
 ||liwupuba.com/livead/
 ||lixiangmo.com^
+||lixonj.xyz^
 ||ljhbhy.cn^
 ||ljnrjt.xyz^
 ||ljpbtjq.xyz^
@@ -11124,6 +11127,7 @@
 ||oschina.net/uploads/cooperation/
 ||osisk.com^
 ||oslbahk.top^
+||osmzym.xyz^
 ||oss-ap-southeast-1.aliyuncs.com/js/copy.js
 ||oss-cn-shanghai.aliyuncs.com/feimobileA.js
 ||ossfile001.com^
@@ -12160,6 +12164,7 @@
 ||qwblog.cn/localfile/20200612230036.gif
 ||qwdbsjnql.com^
 ||qwe0231141.bj.bcebos.com^
+||qweqd.cn^
 ||qwerioy.top^
 ||qwesaz.com^
 ||qwfbiujsknjk.com^
