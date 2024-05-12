@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: alvW+nTnjxYVBJU71TazyA
+! Checksum: zEHpYBZC173gJAjEtmktXw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240512002332
+! Version: 20240512092651
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-12 00:23:32
-! Total Count: 26422
+! Last modified: 2024-05-12 09:26:51
+! Total Count: 26429
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3636,6 +3636,7 @@
 ||ariqye.xyz^
 ||ark.le.com/s?vid=
 ||ark.letv.com/s?
+||arkkcu.xyz^
 ||arnhhwo.xyz^
 ||arpg2.com^
 ||arqvm.cn^
@@ -5386,6 +5387,7 @@
 ||cvudqzoa.xyz^
 ||cweriof.top^
 ||cwgshkz.cn^
+||cwgucvm.icu^
 ||cwiuhtp.icu^
 ||cwmlm.com^$third-party
 ||cwolwc.xyz^
@@ -6629,6 +6631,7 @@
 ||fhglcpf.icu^
 ||fhtfnb.xyz^
 ||fhvbhx.xyz^
+||fhvzrr.xyz^
 ||fidelius.cn^
 ||fifqjp.xyz^
 ||fijipic.xyz^
@@ -6719,6 +6722,7 @@
 ||fopksr.icu^
 ||forestwo1f.ltd^
 ||foreveryoung.gz01.bdysite.com^
+||forrzp.xyz^
 ||fortxfq.cn^
 ||forum.lowyat.net/random-mobile.php
 ||fotao9.com^
@@ -8619,6 +8623,7 @@
 ||jfnkjr.xyz^
 ||jg1668.com^$third-party
 ||jgblvt.xyz^
+||jgidskia.top^
 ||jgmywh.icu^
 ||jgsajfggv.xyz^
 ||jgstny.com^$third-party
@@ -9716,6 +9721,7 @@
 ||lmnpd.xyz^
 ||lmrhhn.xyz^
 ||lmtnfl.xyz^
+||lmvotk.cn^
 ||lmx7.com^
 ||lmxiqf.icu^
 ||ln.tian-ting.ink^
@@ -10329,6 +10335,7 @@
 ||mnnmnn.com^
 ||mnorkc.xyz^
 ||mnpbxjq.cn^
+||mnpzrgz.xyz^
 ||mnrrk.com/yuhe/ote/js/pcgg.js
 ||mnvxdkd.xyz^
 ||mnwor.xuanlishi.com^
