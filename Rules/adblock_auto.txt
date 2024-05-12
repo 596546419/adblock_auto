@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: /YSOHTeR8O5xEsf7U5ZeCw
+! Checksum: QamjCup8ciL3HvjghcNMJg
 ! Title: 混合规则(自动更新)
-! Version: 20240512092640
+! Version: 20240512162340
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-12 09:26:40
-! Total Count: 142234
+! Last modified: 2024-05-12 16:23:40
+! Total Count: 142235
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -59957,6 +59957,7 @@
 ||pwsk11.com^
 ||pwsk88.com^
 ||pwssuj.com^
+||pwuxnr.cn^
 ||pwwghcyzsn.info^
 ||pwwqkppwqkezqer.site^
 ||pwxerujvl.com^
@@ -95389,7 +95390,7 @@ gosexpod.com##div[class^="zzz-on-video"]
 gosexpod.com##div[style="height:36px;text-align:right"]
 gostream.site##.content-kuss
 gosunoob.com##.vntsvideocontainer
-gosunoob.com,indianexpress.com,liaoningmovie.net,matrixcalc.org,roblox.com,spotify.com,video.laxd.com,wccftech.com##.ads-container
+gosunoob.com,indianexpress.com,liaoningmovie.net,matrixcalc.org,phys.org,roblox.com,spotify.com,video.laxd.com,wccftech.com##.ads-container
 goterriers.com##.sticky-footer
 gotgayporn.com###ss_bar
 gotgayporn.com##.bottom-af-block
