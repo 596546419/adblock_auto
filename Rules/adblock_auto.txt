@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: WF7kBDg8OaqNrIQ0eo2mHw
+! Checksum: jp+Y9tBEdaD1Iect30arqg
 ! Title: 混合规则(自动更新)
-! Version: 20240513162602
+! Version: 20240514002623
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-13 16:26:02
-! Total Count: 143527
+! Last modified: 2024-05-14 00:26:23
+! Total Count: 143555
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1957,6 +1957,7 @@
 ||480image.com^
 ||480img.com^
 ||484r.com/images/flash/gallery_
+||485728.xyz^
 ||48a16802.site^
 ||48cf8d95a3.com^
 ||48da4009ba.com^
@@ -10249,6 +10250,7 @@
 ||asdf1.online^
 ||asdf1.site^
 ||asdfasdasd9987.co^
+||asdfdr.cfd^
 ||asdffe22.com^
 ||asdpoi.com^
 ||asdqslnqmwwkc.com^
@@ -14154,6 +14156,7 @@
 ||bmgipyr.com^
 ||bmhenchlyica.xyz^
 ||bmiea.xyz^
+||bmjidc.xyz^
 ||bmjlzyjwwmbyr.top^
 ||bmjlzyjwwmwaw.top^
 ||bmjlzyjwwmwyk.top^
@@ -22893,6 +22896,7 @@
 ||dfxvkgz.xyz^
 ||dfyl.eeeeehfghrq555^$document
 ||dfyl.eeeeehfghrq555^$~third-party
+||dfyui8r5rs.click^
 ||dfzv25.com^
 ||dg2255.com^
 ||dgafgadsgkjg.top^
@@ -25079,6 +25083,7 @@
 ||dyburu.com^
 ||dybvjiclmsbpxq.com^
 ||dybz44.com/js/html
+||dyccdk.xyz^
 ||dyckwtcmyb.xyz^
 ||dycxkj.cn^
 ||dydab.com^
@@ -29794,6 +29799,7 @@
 ||fmzxing.pw^
 ||fn9u.fun^
 ||fnasmpygwa.com^
+||fnaycb.com^
 ||fnbauniukvi.com^
 ||fnbhxv.xyz^
 ||fncash.com^
@@ -30852,6 +30858,7 @@
 ||fusionwishful.com^
 ||fuskoqvoaprjr.com^
 ||fusoidactuate.com^
+||fusrv.com^
 ||fussboden-elsenhans.de^
 ||fussy-highway.pro^
 ||fussytarbet.space^
@@ -31851,7 +31858,6 @@
 ||get35.com^
 ||get4click.ru^
 ||getadfinity.com^
-||getadjacent.com^
 ||getadx.com^
 ||getadzuki.com^
 ||getaim.info^
@@ -58502,6 +58508,7 @@
 ||pokiespedule.guru^
 ||pokingtrainswriter.com^
 ||pokitom.com^
+||pokjhgrs.click^
 ||pokomopunkin.top^
 ||pokoran.com^
 ||pokreess.com^
@@ -86684,6 +86691,7 @@
 ||yohavemix.live^
 ||yohioo.com^
 ||yohnoirs.com^
+||yoibbka.com^
 ||yoiqacw.cn^
 ||yojanaarabic.life^
 ||yokeeroud.com^
@@ -88110,6 +88118,7 @@
 ||zml-apm-prd.dbv4.noncd.db.de^
 ||zmlled.cn^
 ||zmomo.cc^
+||zmonei.com^
 ||zmwbrza.com^
 ||zn46.com/images/*0x
 ||znaptag.com^
@@ -92825,7 +92834,7 @@ chemistwarehouse.com.au##.category-product-mrec
 chemistwarehouse.com.au##.rm__campaign-product__slider-item
 chemistwarehouse.com.au##[data-rm-beacon-state]
 chengdu.cn##.pop_box
-chengdu.cn,eprice.com.tw,oeeee.com,ofweek.com,setn.com##div[class^="ad-"]
+chengdu.cn,eprice.com.tw,natgeomedia.com,oeeee.com,ofweek.com,setn.com##div[class^="ad-"]
 cheshi.com##.ad_980105
 cheshi.com##div[id^="ad_pos_"]
 chess.com###medium-rectangle-atf-ad
@@ -101072,6 +101081,7 @@ narutofan.com###right-spon
 nashfm100.com##div[onclick*="https://deucepub.com/"]
 nasyun.com##img[width="275"]
 nasyun.com##img[width="970"]
+natgeomedia.com##div[id^="AD-970x250"]
 nation.africa##.article-collection-teaser:has(.sponsored-label)
 nationalfile.com##.wpb_wrapper > p
 nationalgeographic.com##.FrameBackgroundFull--grey
@@ -101325,11 +101335,13 @@ newser.com###divMobileHeaderAd
 newser.com###divStoryBigAd1
 newser.com###divWhizzcoRightRail
 newser.com###headerAdSection
+newser.com##.TaboolaP1P2
 newser.com##.divNColAdRepeating
 newser.com##.fiavur2
 newser.com##.fs-sticky-footer
 newser.com##.fu4elsh1yd
 newser.com##div[style="min-height:398px;"]
+newser.com##div[style^="display:inline-block;width:728px;"]
 newsfirst.lk###sponsored-content-1
 newshub.co.nz###island-unit-2
 newshub.co.nz##[data-belt-widget]
@@ -105409,6 +105421,7 @@ thedailymash.co.uk,thepoke.co.uk,thetab.com###ad-sidebar-1
 thedailymash.co.uk,thepoke.co.uk,thetab.com###ad-sidebar-2
 thedailymash.co.uk,thepoke.co.uk,thetab.com###ad-sidebar-3
 thedailymash.co.uk,thepoke.co.uk,thetab.com###ad-sidebar-4
+thedailystar.net###dsspHS
 thedailyusnews.com##.theda-id-1
 thedailyusnews.com##.theda-id-2
 thedailyusnews.com##.theda-id-3
@@ -105477,14 +105490,18 @@ theguardian.com##.top-fronts-banner-ad-container
 thehackernews.com##.av-side-box
 thehackernews.com##.av-side-box-1
 thehackernews.com##.babsi
+thehackernews.com##.boxside
+thehackernews.com##.dog_two
 thehackernews.com##.google-1
 thehackernews.com##.okay_two
 thehackernews.com##.okayjon
 thehackernews.com##.pixpix
+thehackernews.com##.sidebar2
 thehackernews.com##.zoho-box
 thehackernews.com##.zoho-box-1
 thehackernews.com##[href^="https://go.thn.li/"]
 thehackernews.com##[href^="https://thn.news/"]
+thehackernews.com##div.rocking
 thehindu.com###articledivrec
 thehindu.com##.artShrEnd
 thehindu.com##.article-ad
@@ -106933,6 +106950,7 @@ wccftech.com##.bg-horizontal
 wccftech.com##.bg-horizontal-2
 wccftech.com##.bg-square
 wccftech.com##.bg-square-mobile
+wccftech.com##.bg-square-mobile-without-bg
 wccftech.com##.bg-vertical
 wccftech.com##.main-background-wrap
 wccftech.com##.mb-11
@@ -114926,6 +114944,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /external/ad.
 /external/ad/*
 /external/ads/*
+/external/ads/*$image
 /external_ad?
 /external_ads.
 /externalad.
@@ -115504,6 +115523,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /image/ads_
 /image/adv/*
 /image/affiliate/*
+/image/affiliate/*$image
 /image/sponsors/*
 /image_ads/*
 /imageads/*
@@ -116227,8 +116247,10 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /module/ads/*
 /module/adsview/*
 /modules/ad/*
+/modules/ad/*$~xmlhttprequest
 /modules/ad_
 /modules/ads/*
+/modules/ads/*$~xmlhttprequest
 /modules/adv/*
 /modules/dfp/*
 /modules/doubleclick/*
@@ -116666,6 +116688,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /pix/ads/*$image
 /pixel/puclc?
 /pixel/pure
+/pixel/pure$~xmlhttprequest
 /pixel/purs?
 /pixel/purst?
 /pixel/sbe?
@@ -116691,6 +116714,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /plg_adbutlerads/*
 /plugin.php?id=popad_7ree&
 /plugin/ad/*
+/plugin/ad/*$script
 /plugins/ad-ace/assets/js/coupons.js
 /plugins/ad-ace/assets/js/slot-slideup.js
 /plugins/ad-ace/includes/shoppable-images/*
@@ -116858,6 +116882,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /prebid_ver.js
 /prebidjs/*
 /prebidlink/*
+/prebidlink/*$script
 /prebidtest.
 /predictad.
 /prehead/ads_
@@ -116940,6 +116965,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /public/js/ad/*
 /publicidad.$~object,~stylesheet
 /publicidad/*
+/publicidad/*$~xmlhttprequest
 /publicidad_$~stylesheet
 /publicidade.
 /publicidade/*
@@ -117392,6 +117418,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /skin/ad/*$image,script
 /skin/ad3/*
 /skin/adv/*
+/skin/adv/*$~xmlhttprequest
 /skin/ecms082/images/kf-
 /skin/footer.$domain=iimanhua.cc|iimh.net
 /skin/header.$domain=iimanhua.cc|iimh.net
@@ -118034,6 +118061,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /videoadroll.
 /videoads.
 /videoads/*
+/videoads/*$~xmlhttprequest
 /videoadv-
 /videoadv.
 /videojs.ads-
