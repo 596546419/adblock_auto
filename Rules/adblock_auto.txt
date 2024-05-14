@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: s4NsJDp3ZDvLNjxo/Yp8Gw
+! Checksum: 4XICRH7/92+5gPDRc0Y2lw
 ! Title: 混合规则(自动更新)
-! Version: 20240514162605
+! Version: 20240515002617
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-14 16:26:05
-! Total Count: 143597
+! Last modified: 2024-05-15 00:26:17
+! Total Count: 143614
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -12630,6 +12630,7 @@
 ||beacon.klm.com^
 ||beacon.kmi-us.com^
 ||beacon.lycos.com^
+||beacon.nc-net.or.jp^
 ||beacon.netflix.com^
 ||beacon.nuskin.com^
 ||beacon.qq.com^
@@ -15977,6 +15978,7 @@
 ||ca548318cc.com^
 ||ca72472d7aee.com^
 ||ca9246.xyz^
+||caa2c4.xyz^
 ||caaie.xyz^
 ||caajol.icu^
 ||caanalytics.com^
@@ -34007,6 +34009,7 @@
 ||gusleelurg.top^
 ||gussame.com^
 ||gussbkpr.website^
+||gussiessmutchy.com^
 ||gussimsosurvey.space^
 ||gustdertrum.com^
 ||gustilyoblate.uno^
@@ -44789,6 +44792,7 @@
 ||lhbrkotf.xyz^
 ||lhdlbp.xyz^
 ||lhdmihaby.xyz^
+||lhe-beacon.team-rec.jp^
 ||lhecbmq.com^
 ||lheoutn.com^
 ||lhgwcvw.cn^
@@ -62057,6 +62061,7 @@
 ||qwrwawwmblwbb.top^
 ||qwrwawwmblybj.top^
 ||qwsad.com^
+||qwsanan.top^
 ||qwtag.com^
 ||qwvqbeqwbrabj.top^
 ||qwvvoaykyrbj.top^
@@ -91917,6 +91922,7 @@ bikeroar.com##[href^="https://www.roaradventures.com/"]
 bilibili.com###b_app_link
 bilibili.com###fixed_app_download
 bilibili.com###slide_ad + .ad-report
+bilibili.com##+js(spoof-css, .__adblockhidden > a, display, block)
 bilibili.com##.activity-slider[style="width: 1220px;"]
 bilibili.com##.ad-e1
 bilibili.com##.ad-f
@@ -91925,11 +91931,9 @@ bilibili.com##.ad-report, .ad-floor
 bilibili.com##.adblock-tips
 bilibili.com##.banner-card
 bilibili.com##.bili-dyn-ads
-bilibili.com##.bili-video-card > div[class^="extension-tips"]
 bilibili.com##.bili-video-card:has(.bili-video-card__info--ad) > .bili-video-card__wrap
 bilibili.com##.bili-video-card:has(.bili-video-card__info--creative-ad) > .bili-video-card__wrap
 bilibili.com##.bili-video-card__wrap > a[href^="http"]:not([href*=".bilibili.com/"])
-bilibili.com##.carousel-container > .carousel-transform > div[class^="carousel-slide"] > div[class^="extension-tips"]
 bilibili.com##.desktop-download-tip
 bilibili.com##.eva-banner
 bilibili.com##.float-btn
@@ -91960,8 +91964,10 @@ bilibili.com##div[style*="height:"][data-loc-id]
 bilibili.com##span[style*="height:"][data-loc-id]
 bilibili.com#$#.bili-video-card:has(.bili-video-card__info--ad) > .bili-video-card__skeleton { visibility: visible !important; }
 bilibili.com#$#.bili-video-card:has(.bili-video-card__info--creative-ad) > .bili-video-card__skeleton { visibility: visible !important; }
+bilibili.com#$?#.bili-video-card > div[class]:only-child:matches-css(before, content: /Adblock/) { remove: true; }
 bilibili.com#$?#.bili-video-card:has(.bili-video-card__info--ad) > .bili-video-card__skeleton { visibility: visible !important; }
 bilibili.com#$?#.bili-video-card:has(.bili-video-card__info--creative-ad) > .bili-video-card__skeleton { visibility: visible !important; }
+bilibili.com#$?#.carousel-container > .carousel-transform > div[class^="carousel-slide"] > div[class]:only-child:matches-css(before, content: /Adblock/) { remove: true; }
 bilibili.com#$?#.container > div.floor-single-card:has(> div.skeleton) { remove: true; }
 bilibili.com#$?#.ex-card-common:has(.gg-icon) { remove: true; }
 bilibili.com#$?#.van-slide > .item:has(.bypb-icon) { remove: true; }
@@ -92370,6 +92376,7 @@ breitbart.com###HavDW
 breitbart.com##.a-wrapper
 brenz.net###rndBanner
 brickset.com##.admin.buy
+brighteon.com##[href^="https://ams.brighteon.com/"]
 brighteon.com##[href^="https://support.brighteon.com/"]
 briian.com###main > div[style="width:100%; height:auto; margin: 5px 0 15px; background:#FFFFFF; text-align:center; padding:7px 0 10px 4px;"]
 briian.com###post-wrapper div[style^="width:"][style*="height: auto; background"]
@@ -100049,6 +100056,9 @@ m.thepaper.cn##.bot_banner
 m.thepaper.cn##.index_footer_banner__Mcr_R
 m.thepaper.cn##.toutiao
 m.thepaper.cn##[class*="index_details_ad"]
+m.thewire.in##.ad_20
+m.thewire.in##.advert_text1
+m.thewire.in##.header_adcode
 m.toutiao.com##.recommendation-container + div[class]
 m.tribunnews.com##.reserved-topmedium
 m.tvsou.com,tvsou.com##.sogou-temp-hidden
@@ -102443,6 +102453,7 @@ pons.com##.parallax-container
 pooletown.co.uk##a[href^="https://www.easyfundraising.org.uk"]
 popart.hk###slideshow
 popbee.com,spele.nl##.adblocker
+popdaily.com.tw##div[class^="ad-delimiter-"]
 popsci.com,thedrive.com##.empire-below_content__desktop__articles-prefill-container
 popsci.com,thedrive.com##.empire-content__desktop__articles-prefill-container
 popsci.com,thedrive.com##.empire-header__desktop__article-prefill-container
@@ -106512,6 +106523,7 @@ upornia.com,upornia.tube##.wcccswvsyvk
 upornia.com,upornia.tube##.wssvkvkyyee
 upornia.tube##.voiscscttnn
 uproxx.com###upx-mm-player-wrap
+upsangel.com##a[href="https://upsangel.com/check/surfsharkvpn/"]
 upworthy.com###upworthyFreeStarVideoAdContainer
 upworthy.com##.freestar-in-content
 upworthy.com##.upworthy_infinite_scroll_ad
@@ -113043,6 +113055,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adsdaqsky_
 /adsdelivery.
 /adsdelivery/*
+/adsdelivery/*$subdocument
 /adsdfp/*
 /adsdk/*
 /adsdm.
@@ -113820,6 +113833,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /affiliatebanners/*
 /affiliateimages/*
 /affiliates/banner
+/affiliates/banner$image
 /affiliateserver.
 /affiliatetags/*
 /affiliatewiz/*
@@ -114094,6 +114108,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /banner_ad_
 /banner_ads.
 /banner_ads/*
+/banner_ads/*$~xmlhttprequest,domain=~clickbd.com
 /banner_ads_
 /banner_adv/*
 /banner_dfp.
@@ -114972,6 +114987,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /export/ltv_popup.php
 /exports/tour/*$third-party
 /exports/tour_20/*
+/exports/tour_20/index.php
 /ext/adform-
 /ext/ads/*
 /ext/prebid
@@ -115644,6 +115660,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /img/adv.
 /img/adv/*
 /img/aff/*
+/img/aff/*$image
 /img/banners/*$domain=fullporn.online|tmail.gg|mega4upload.com
 /img/bbsad/*
 /img/hgame/*_1280x
@@ -116665,6 +116682,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /peel.php?
 /peel/?webscr=
 /peel1.js
+/peel_ads.js
 /peel_ads/*
 /peelad.
 /peelad/*
@@ -116784,7 +116802,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /plugins/wp-moreads/*$~stylesheet
 /plugins/wp125/*$~stylesheet
 /plugins/wp_actionpop/*
-/plugins/wp_pro_ad_system/templates/*
 /plugins_ads_
 /plus/ad_
 /pm_ads/*
@@ -118279,6 +118296,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /wp-srv/ad/*
 /wp_ad_250_
 /wp_pro_ad_system/*
+/wp_pro_ad_system/templates/*$script,stylesheet
 /wpadgu-
 /wpadgu-adblock.js
 /wpadgu-clicks.js
@@ -118438,7 +118456,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /zcvisitor/*$popup
 /zedo_
 /zergbid.
-/zergnet_ad/*
 /zhidiy_m_ad_
 /zp-redirect?$popup
 /zz/*_box2.txt
