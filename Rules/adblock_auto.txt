@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: jp+Y9tBEdaD1Iect30arqg
+! Checksum: 0OykjqPXENc35VpxUI66EA
 ! Title: 混合规则(自动更新)
-! Version: 20240514002623
+! Version: 20240514092059
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-14 00:26:23
-! Total Count: 143555
+! Last modified: 2024-05-14 09:20:59
+! Total Count: 143587
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -10828,6 +10828,7 @@
 ||audtd.com^
 ||aueajkn.cn^
 ||auerkbo.cn^
+||auesk.cfd^
 ||aufdgvwd.com^
 ||aufeeque.com^
 ||auficxqpyfgcd.xyz^
@@ -17216,6 +17217,7 @@
 ||cfts1tifqr.com^
 ||cfubdjsolbs.com^
 ||cfugrnc.icu^
+||cfusionsys.com^
 ||cfx3d.xyz^
 ||cfxkluv.cn^
 ||cfzhushou.com^*/King_Chance_Layer.js
@@ -19653,6 +19655,7 @@
 ||conquerleaseholderwiggle.com^
 ||conquestafloat.com^
 ||conquestdrawers.com^
+||conscienciaecompletude.com^
 ||consciouschairs.com^$third-party
 ||consciouscheese.com^$third-party
 ||consciousdirt.com^$third-party
@@ -22876,6 +22879,7 @@
 ||dfpdz.top^
 ||dfprljx.xyz^
 ||dfpstitialtag.com^
+||dfryzh.xyz^
 ||dfsd22.com^
 ||dfsdkkka.com^
 ||dfsgppz.icu^
@@ -24495,6 +24499,7 @@
 ||drctcldfffwr.com^
 ||dreadbreakupsomeone.com^
 ||dreadfullyclarifynails.com^
+||dreadfulprofitable.com^
 ||dreadluckdecidedly.com^
 ||dreadshavingmammal.com^
 ||dreamaquarium.com^
@@ -33484,6 +33489,7 @@
 ||greenxf.com/js/2019/
 ||greenxiazai.com/d/js/v/
 ||greeter.me^
+||greeterracked.com^
 ||greetham.net^
 ||greetpanda.org^
 ||greetzebra.com^$third-party
@@ -35182,6 +35188,7 @@
 ||helpingnauseous.com^
 ||helplessdanpavilion.com^
 ||helpsetup.ru/home/solnisko.php
+||helseeftie.net^
 ||hemaglnkrvdcgxe.com^
 ||hembrandsteppe.com^
 ||hemenindir.to^
@@ -40995,6 +41002,7 @@
 ||jmqmbsn.cn^
 ||jmqrogtmvfo.com^
 ||jmrnews.pro^
+||jmt7mbwce.com^
 ||jmtbmqchgpw.xyz^
 ||jmtbyiohpgugcsk.com^
 ||jmty.jp/s/geniee/
@@ -41279,6 +41287,7 @@
 ||jqueryoi.com^
 ||jqueryserve.org^
 ||jqueryserver.com^
+||jquturir.com^
 ||jqvajfvs.xyz^
 ||jqwsldso.com^
 ||jrbbavbmwmleb.top^
@@ -41291,6 +41300,7 @@
 ||jrhsjmwtrwiam.com^
 ||jrilbcd.com^
 ||jrilkvjehrjlri.com^
+||jriravntivf.com^
 ||jrj.com.cn/h5Ad?
 ||jrj.com.cn/s?z=
 ||jrjimg.cn/ad/
@@ -41899,6 +41909,7 @@
 ||jyt58.top^
 ||jytbxzil.com^
 ||jyuirxswk.com^
+||jyuskb.cn^
 ||jyuwkba.top^
 ||jyuyjxx.cn^
 ||jyvith.xyz^
@@ -45111,6 +45122,7 @@
 ||link2thesafeplayer.click^
 ||link8x.xyz^
 ||linkads.me^
+||linkadvdirect.com^
 ||linkbox.to/temp/popunder.js$script,important
 ||linkbuddies.com^
 ||linkchangesnow.com^
@@ -47166,6 +47178,7 @@
 ||m8oxd.xyz^
 ||m8ppac2on0xy.com^
 ||m9d6p03.com^
+||m9w6ldeg4.xyz^
 ||ma-code.ru^
 ||ma-code.ru^$third-party
 ||ma-static.ru^
@@ -52997,6 +53010,7 @@
 ||nothingunit.com^$third-party
 ||nothycantyo.com^
 ||noticebroughtcloud.com^
+||noticedbibi.com^
 ||notifcationpushnow.com^
 ||notifer.co.in^
 ||notification-list.com^
@@ -53195,6 +53209,7 @@
 ||nroqwfqwcdtb.xyz^
 ||nrqppdgnhaagjq.com^
 ||nrrdxyauavkdrc.com^
+||nrs6ffl9w.com^
 ||nrsfh.com/neirong/
 ||nrunmoldy.com^
 ||nrvbadypy.com^
@@ -53454,6 +53469,7 @@
 ||nvudvvaecq.com^
 ||nvuwqcfdux.xyz^
 ||nvvmslfqowhkkv.com^
+||nvvqrv.xyz^
 ||nvwanyyds.com^
 ||nvxcvyfedg.com^
 ||nvzcoggh.com^
@@ -54699,6 +54715,7 @@
 ||onmantineer.com^
 ||onmarketer.net^
 ||onmarshtompor.com^
+||onmstgh.icu^
 ||onnasvmatrma.com^
 ||onnkloshwrh.xyz^
 ||onnnuvtikmzy.com^
@@ -59120,6 +59137,7 @@
 ||poxiao.com/template/default/images/12345.js
 ||poxykhakis.com^
 ||poxypicine.com^
+||poxyrevise.com^
 ||poyang.cn^$third-party
 ||poyang.com^
 ||poyqmngbxwsvnav.xyz^
@@ -60794,6 +60812,7 @@
 ||pxrs6.cn^
 ||pxsscerwyeiucg.com^
 ||pxsunbsd.com^
+||pxtjfmv.xyz^
 ||pxtrkr.com^
 ||pxx.tnklrs.cn^
 ||pxx.tnklrs.cn^$third-party
@@ -64315,6 +64334,7 @@
 ||robindefensivedancing.com^
 ||robloxviet.vn^
 ||robotadserver.com^
+||roboticourali.com^
 ||robotrenamed.com^
 ||robsbogsrouse.com^
 ||robsedgeone.com^
@@ -66986,6 +67006,7 @@
 ||sgg.southcn.com^
 ||sghehllds.com^
 ||sghmvum.cn^
+||sgidskib.top^
 ||sgihava.com^
 ||sgk.xyz/static/js/pc.js
 ||sglahyea.xyz^
@@ -68566,6 +68587,7 @@
 ||skmtyaw.cn^
 ||sknkwpvrkz.com^
 ||skogrkrfxmy.com^
+||skohssc.cfd^
 ||skolvortex.com^
 ||skoovyads.com^
 ||skroutza.skroutz.gr^
@@ -79433,6 +79455,7 @@
 ||v.shopify.com^
 ||v.sssgbw.cn^
 ||v.sssgbw.cn^$third-party
+||v.strosin.biz^
 ||v.taiqingjiu.com/syjpc/$domain=api.xiaomingming.org
 ||v.tgslww.cn^
 ||v.tgslww.cn^$third-party
@@ -83073,6 +83096,7 @@
 ||whauglorga.com^
 ||whaulaul.net^
 ||whaulids.com^
+||whaunsockou.xyz^
 ||whaurgoopou.com^
 ||whautsis.com^
 ||whaxanso.net^
@@ -83258,6 +83282,7 @@
 ||whootascots.com^
 ||whootkhankah.com^
 ||whoppercreaky.com^
+||whoptoorsaub.com^
 ||whorlysenior.top^
 ||whosailedbe.xyz^
 ||whosclickingwho.com^
@@ -85581,6 +85606,7 @@
 ||xsjh002.xyz^
 ||xsjyun.cn^
 ||xskctff.com^
+||xsknvlmjvrdqo.com^
 ||xskttd5d.com^
 ||xsqfyvsc.com^
 ||xsrs.com^
@@ -86891,6 +86917,7 @@
 ||ypdfpvwxwxkkga.com^
 ||ypdronhu.xyz^
 ||ypffkbpq.xyz^
+||ypgjkk.xyz^
 ||ypgpjvfv.xyz^
 ||yphdrphx.xyz^
 ||yping.online^
@@ -87022,6 +87049,7 @@
 ||ytlhsmwu.com^
 ||ytlkmy.cn^
 ||ytndjaefvan.xyz^
+||ytnkdhmtdubhk.com^
 ||ytop8.com^
 ||ytoworkwi.org^
 ||ytpae.xyz^
@@ -95046,6 +95074,7 @@ english-hindi.net##div[style="height:250px !important; background:#ccc;"]
 english.nv.ua##.nts-video-wrapper
 englishclub.com###adhed
 englishclub.com##[href^="https://www.wordupapp.co/"]
+enjoy4fun.com###fake-ads-dom
 enjoyfuck.com,fuckgonzo.com,pornokeep.com##.advmnt
 enjoymore.fun##a[href*="urlto.pw"]
 enorth.com.cn##div[class^="guanggao"]
@@ -107113,6 +107142,7 @@ wenku8.net###adv300
 wenwen.sogou.com##.recommend-list
 wenwen.sogou.com##.sgui-hint.sgui-item
 wenxuecity.com###adt
+wenxuecity.com###gg_multitext
 wenxuecity.com###marquee
 wenxuecity.com###morehealth-banner-1
 wenxuecity.com##+js(set-constant, adsbygoogle, noopFunc)
@@ -116245,6 +116275,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /module-ads-html-$script
 /module-ads/*
 /module/ads/*
+/module/ads/*$~xmlhttprequest
 /module/adsview/*
 /modules/ad/*
 /modules/ad/*$~xmlhttprequest
@@ -139872,6 +139903,7 @@ zle.com$script
 ##a[href^="https://albionsoftwares.com/"]
 ##a[href^="https://app.kmtgsopq.com?agentId="][target="_blank"]
 ##a[href^="https://athletedurable.com/"]
+##a[href^="https://auesk.cfd/"]
 ##a[href^="https://ausoafab.net/"]
 ##a[href^="https://awentw.com/"]
 ##a[href^="https://aweptjmp.com/"]

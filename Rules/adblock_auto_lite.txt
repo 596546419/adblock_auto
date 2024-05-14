@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Cenn80wDGkAMjoj2i+Mngg
+! Checksum: mRasGccyr+tkaPYMOl2+3A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240514002635
+! Version: 20240514092110
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-14 00:26:35
-! Total Count: 27683
+! Last modified: 2024-05-14 09:21:10
+! Total Count: 27690
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5991,6 +5991,7 @@
 ||dflkndkzf.com^
 ||dfninp.xyz^
 ||dfprljx.xyz^
+||dfryzh.xyz^
 ||dfsd22.com^
 ||dfsgppz.icu^
 ||dftoutiao.com/dfpcitv/pcitv?jsonpcallback=
@@ -9580,6 +9581,7 @@
 ||jyqkijp.icu^
 ||jyrd.com/statics/*/js/baizhu/
 ||jyt58.top^
+||jyuskb.cn^
 ||jyuwkba.top^
 ||jyvith.xyz^
 ||jyxfvp.xyz^
@@ -11602,6 +11604,7 @@
 ||nvjqtz.xyz^
 ||nvsheng.com/js/gg.js
 ||nvswnur.cn^
+||nvvqrv.xyz^
 ||nvwanyyds.com^
 ||nwandlc.top^
 ||nwecd.xyz^
@@ -11754,6 +11757,7 @@
 ||online.rayjump.com/openapi/ads
 ||onlineapi.youappi.com^
 ||onlineporno.fun^$third-party
+||onmstgh.icu^
 ||onosyej.icu^
 ||onx8.com/theme/tange/add/
 ||onx8.com/zb_users/theme/ydgreen/style/ad/
@@ -12642,6 +12646,7 @@
 ||pwuxnr.cn^
 ||px.adhigh.net^
 ||pxrs6.cn^
+||pxtjfmv.xyz^
 ||pxx.tnklrs.cn^$third-party
 ||pxxcyni.cn^
 ||pxxnejx.xyz^
@@ -13793,6 +13798,7 @@
 ||sgeth7.icu^
 ||sgeth9.icu^
 ||sgg.southcn.com^
+||sgidskib.top^
 ||sgk.xyz/static/js/pc.js
 ||sglahyea.xyz^
 ||sgoijw.com^$third-party
@@ -17088,6 +17094,7 @@
 ||ypcngw.xyz^
 ||ypdronhu.xyz^
 ||ypffkbpq.xyz^
+||ypgjkk.xyz^
 ||ypkxahje.xyz^
 ||ypoiea.xyz^
 ||yporn.tv/grqoqoswxd.php
