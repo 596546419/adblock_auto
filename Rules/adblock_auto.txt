@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Xg5/y3SpOA1o8hTOn1exrg
+! Checksum: 05b9GkrI928/rcgtr8vbYQ
 ! Title: 混合规则(自动更新)
-! Version: 20240515092201
+! Version: 20240515162507
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-15 09:22:01
-! Total Count: 143642
+! Last modified: 2024-05-15 16:25:07
+! Total Count: 143663
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3730,6 +3730,7 @@
 ||a.tvsou.com^
 ||a.tyncar.com^
 ||a.ucoz.net^
+||a.viethu.com^
 ||a.vtvdigital.vn^
 ||a.wanzhuang.com^
 ||a.wifi33.com^
@@ -9568,6 +9569,9 @@
 ||api.sec.miui.com^
 ||api.setting.intl.miui.com^
 ||api.share.mob.com^
+||api.subiz.com.vn^
+||api.subiz.net^
+||api.subiz.xyz^
 ||api.taboola.com/*/recommendations.get^
 ||api.taboola.com/*/recommendations.multiple-get^
 ||api.telemetry.watchabc.go.com^
@@ -9617,6 +9621,7 @@
 ||apiszapp.com^
 ||apiv2.moengage.com^
 ||apiv2.tiin.vn^
+||apiv4.subiz.com^
 ||apjiangte.com^
 ||apk-01.oss-cn-beijing.aliyuncs.com/dp/
 ||apk.tw/static/js/showpic.js
@@ -9678,6 +9683,7 @@
 ||app.senaobz.cc^
 ||app.shopimind.com^
 ||app.ssp.yahoo.com^
+||app.subiz.com.vn^
 ||app.tippp.io^
 ||app.titsx.com^
 ||app.truconversion.com^
@@ -53463,6 +53469,7 @@
 ||nuucmzuc.com^
 ||nuvedu.xyz^
 ||nuxdwjicbg.com^
+||nuxwlc.cn^
 ||nuyhvoshqnbkrg.com^
 ||nuyqiolnc.cyou^
 ||nuzuki.com^
@@ -60376,6 +60383,7 @@
 ||pubianmending.space^
 ||pubimageboard.com^
 ||publi.atresmediapublicidad.com^
+||public-gcs.subiz-cdn.com^
 ||public.adgger.jp^
 ||public.app.autohome.com.cn^
 ||public.porn.fr^
@@ -70704,6 +70712,7 @@
 ||static.rqmob.com/sa^
 ||static.stat.truthlyanalytics.com^
 ||static.step.dk^
+||static.subiz.com^
 ||static.surfe.pro/js/net.js$script,redirect-rule=noopjs
 ||static.surfe.pro/js/net.js$xmlhttprequest,redirect-rule=nooptext
 ||static.terratraf.io^
@@ -72718,6 +72727,7 @@
 ||ta.toprework.vn^
 ||ta.trs.cn^
 ||ta.trs.cn^$third-party
+||ta20k.xyz^
 ||ta3nfsordd.com^
 ||taaqhr6axacd2um.com^
 ||taaqxpyicjlgv.com^
@@ -79999,6 +80009,7 @@
 ||vccyb.ltd^
 ||vcdc.com^
 ||vcdn.biz/*_mggads/
+||vcdn.subiz-cdn.com^
 ||vcdpuyl.com^
 ||vcgdfvbvfxq.com^
 ||vch.voyage-prive.ch^
@@ -83414,6 +83425,9 @@
 ||widget.shopstyle.com^
 ||widget.socialmart.ru^
 ||widget.sparrow.ru^
+||widget.subiz.com^
+||widget.subiz.net^
+||widget.subiz.xyz^
 ||widget.tippebannere.no^
 ||widget.utinet.ru^
 ||widget.zenback.jp^
@@ -83435,6 +83449,7 @@
 ||widgets.spklw.com^
 ||widgets.tree.com^
 ||widgets.trustedshops.com^
+||widgetv4.subiz.com^
 ||widjet.analnoe.tv^
 ||widore.com^
 ||widow5blackfr.com^
@@ -97264,6 +97279,7 @@ hellenicshippingnews.com##.bigbanner
 hellmoms.com,xbabe.com,xcum.com,hellporno.com##iframe[src^="/_a_xb/"]
 hellocare.com.au##.post-wrapper__portrait-ads
 hellogiggles.com##.karma_unit
+hellomagazine.com##.-variation-bannerinferior
 hellomagazine.com##.-variation-megabanner
 hellomagazine.com##.-variation-robainferior
 hellomagazine.com##.-variation-robapaginas
@@ -99361,6 +99377,7 @@ km.com##.downloadApp
 kmbb70.com###publicIndexBanner
 kmf.com##.g-kmf-906banner
 kmplayer.com##.dim-layer
+kmzu.com##.sticky-footer-promo-container
 knowmore.cc##.ins
 knowyourmeme.com##.combo-wrapper
 knowyourmeme.com##.header-unit-wrapper
@@ -100636,6 +100653,9 @@ mobilescout.com###banner_squaredef
 mobilesyrup.com##.ad-goes-here
 mobilesyrup.com##.sidebarSponsoredAd
 mobygames.com##.lifesupport-header
+moco360.media##.broadstreet-story-ad-text
+moco360.media##.bs_zones
+moco360.media,protocol.com##.tag-sponsored
 moddb.com##.nextmediaboxtop
 moddroid.co##a[href^="https://doodoo.love/"]
 modelhorseblab.com##img[name="js_ad"]
@@ -103053,7 +103073,6 @@ proprivacy.com##.summary-footer-cta
 proprofs.com##.firstadd
 propublica.org##.bb-ad
 protocol.com###sHome_0_0_3_0_0_5_1_0_2
-protocol.com##.tag-sponsored
 protrumpnews.com##.enhanced-text-widget:has(span.pre-announcement)
 protrumpnews.com##[href^="https://www.twc.health/"]
 provideocoalition.com##.hero-promotions
@@ -114158,6 +114177,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /bannerads-
 /bannerads.
 /bannerads/*
+/bannerads/*$~xmlhttprequest,domain=~coldwellbankerhomes.com
 /banneradsajax.
 /banneradsgenerator.
 /banneradverts/*
@@ -117945,6 +117965,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /tmnadsense.
 /tmobilead.
 /tncms/ads/*
+/tncms/ads/*$script
 /tnt.ads.
 /to8to_pc/chunks/slide_and_popup_
 /toggleAds.

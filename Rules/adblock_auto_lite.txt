@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: +y0F3HqJJhldO6AkzPEw9w
+! Checksum: vYFv5SMROHh7DFD1CaWW1g
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240515092213
+! Version: 20240515162518
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-15 09:22:13
-! Total Count: 27700
+! Last modified: 2024-05-15 16:25:18
+! Total Count: 27702
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -11605,6 +11605,7 @@
 ||nuttyorganization.com^$third-party
 ||nuubi.cyou^
 ||nuucmzuc.com^
+||nuxwlc.cn^
 ||nuyqiolnc.cyou^
 ||nvdtdsd.xyz^
 ||nvjqtz.xyz^
@@ -14646,6 +14647,7 @@
 ||t6.china-xian.com^
 ||t7z.cupid.iqiyi.com^
 ||t984kfjt37kjdh.wdach.com^$domain=pianba.net
+||ta20k.xyz^
 ||tabooporn.tv^$domain=63290r.com
 ||tad.suning.com^
 ||tae0t.site^
