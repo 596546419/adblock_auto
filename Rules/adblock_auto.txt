@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 4XICRH7/92+5gPDRc0Y2lw
+! Checksum: Xg5/y3SpOA1o8hTOn1exrg
 ! Title: 混合规则(自动更新)
-! Version: 20240515002617
+! Version: 20240515092201
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-15 00:26:17
-! Total Count: 143614
+! Last modified: 2024-05-15 09:22:01
+! Total Count: 143642
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -212,6 +212,7 @@
 ||079301eaff0975107716716fd1cb0dcd.com^
 ||0798ls.com^
 ||07a1624bd7.com^
+||07dy.cc^
 ||07e197.site^
 ||07wr439dfait.top^
 ||07xm.fun^
@@ -6686,6 +6687,7 @@
 ||adxfire.com^
 ||adxfire.in^
 ||adxfire.net^
+||adxhand.name^
 ||adxiaozi.com^$third-party
 ||adxion.com^
 ||adxite.com^
@@ -8373,6 +8375,7 @@
 ||amnruvbmeoqp.com^
 ||amnsreiuojy.ru^
 ||amntx1.net^
+||amnwpircuomd.com^
 ||amoad.com^
 ||amobee.com^
 ||amoddishor.com^
@@ -14744,6 +14747,7 @@
 ||bptssoahsfoz.com^
 ||bptxcg.xyz^
 ||bpwwsusgb.com^
+||bpxbzps.xyz^
 ||bpxcqxonbmn.com^
 ||bpyerxzn.xyz^
 ||bpztsxx.com^
@@ -15041,6 +15045,7 @@
 ||bromisescapose.com^
 ||bromoilnapalms.com^
 ||bromusic.site^
+||bromusic3s.site^
 ||bronchichogset.com^
 ||broncogainer.top^
 ||bronto.com^
@@ -26029,6 +26034,7 @@
 ||eghnmj.xyz^
 ||eghnybyvn.com^
 ||eghyahl.cn^
+||egidskiw.top^
 ||egiontheh.cfd^
 ||egipsbvlgn.xyz^
 ||egjubfeteywvi.com^
@@ -35423,6 +35429,7 @@
 ||hgbnr.com^
 ||hgbvtax.cn^
 ||hgcbvpjswabie.xyz^
+||hgcgnfe.icu^
 ||hgcmnews.pro^
 ||hgdpllko.com^
 ||hgearlpfbm.top^
@@ -35808,6 +35815,7 @@
 ||hjrwwwlqcovom.com^
 ||hjshal.com^
 ||hjtedf.xyz^
+||hjuswoulvp.xyz^
 ||hjxajf.com^
 ||hjyovlwtevwdjy.com^
 ||hk-pub.com/forum/images/2009/gifbanner
@@ -39900,6 +39908,7 @@
 ||iwantusingle.com^
 ||iwarship.net/wowsdb/static/img/banner.png
 ||iwatojc.cn^
+||iwaxurhebkn.com^
 ||iwdapjojrylh.xyz^
 ||iwdvvoc.cn^
 ||iwe.ktvgv.com^
@@ -42202,6 +42211,7 @@
 ||kbbrptv.xyz^
 ||kbctii.xyz^
 ||kbevcidiiqwa.com^
+||kbexos.xyz^
 ||kbkewkjlqjqzr.top^
 ||kbkilog.cn^
 ||kbknujjtpnqq.com^
@@ -49046,6 +49056,7 @@
 ||milljeanne.com^
 ||millsurfaces.com^
 ||millustry.top^
+||milteept.xyz^
 ||miltlametta.com^
 ||miludata.com^
 ||miluwo.com^
@@ -49656,7 +49667,10 @@
 ||mobilelog.upqzfile.com^
 ||mobilelog.ws.pho.to^
 ||mobilemaps-pa.googleapis.com/google.internal.mothership.maps.mobilemaps.ads.v1.MobileMapsAdsService/ListPromotedPinAds^
+||mobileoffers-7-j-download.com^
 ||mobileoffers-ac-download.com^
+||mobileoffers-dld-download.com^
+||mobileoffers-downloadapp-a.com^
 ||mobileoffers-ep-download.com^
 ||mobilepreviouswicked.com^
 ||mobilerevenu.com^
@@ -50027,6 +50041,7 @@
 ||moonheappyr.com^
 ||moonicorn.network^
 ||moonjahaphodal.com^
+||moonjscdn.info^
 ||moonoafy.net^
 ||moonovernegril.com^
 ||moonprocessed.com^
@@ -51278,6 +51293,7 @@
 ||naipsouz.net^
 ||naiptouy.com^
 ||nairapp.com^
+||naisepsaige.com^
 ||naiskosungueal.top^
 ||naisoops.net^
 ||naitheeque.com^
@@ -59973,6 +59989,7 @@
 ||proxyporn.info/proxyporn-info-p0p.js
 ||prplad.com^
 ||prplads.com^
+||prpmdp.xyz^
 ||prpops.com^
 ||prpops.com^$third-party
 ||prpopss.com^
@@ -61457,6 +61474,7 @@
 ||qnlranvabrnq.top^
 ||qnmtqq.com^
 ||qnmvqdl.cn^
+||qnp16tstw.com^
 ||qnqzbfgg.com^
 ||qnrscbotmsj.com^
 ||qnsb.com/news/index.php?m=poster&
@@ -62614,6 +62632,7 @@
 ||rcyl-uni.com^
 ||rcyzsh.icu^
 ||rczudr.xyz^
+||rd-cdnp.name^
 ||rd.alice.it^
 ||rd.autohome.com.cn^
 ||rdance.cn^
@@ -70391,6 +70410,7 @@
 ||stack-sonar.com^
 ||stackadapt.com^
 ||stackattacka.com^
+||stackmultiple.com^
 ||stackprotectnational.com^
 ||staerlcmplks.xyz^
 ||staffboozerenamed.com^$document
@@ -71883,6 +71903,7 @@
 ||sunmartkj.cn^
 ||sunmedia.net^
 ||sunmedia.tv^
+||sunmediaads.com^
 ||sunmomo.me^
 ||sunmomo88.com^
 ||sunnycategoryopening.com^
@@ -80287,6 +80308,7 @@
 ||vfvad.top^
 ||vfvdsati.com^
 ||vfvvhywsdons.com^
+||vfxrpl.xyz^
 ||vfzfrx.xyz^
 ||vfzqtgr.com^
 ||vg4u8rvq65t6.com^
@@ -83763,6 +83785,7 @@
 ||wmbuilr.cn^
 ||wmcasher.ru^
 ||wmcdn.net^$domain=liyuans.com
+||wmcdpt.com^
 ||wmclickz.ru^
 ||wmdymnqzhbo.com^
 ||wmdzefk.com^
@@ -87847,6 +87870,7 @@
 ||zhengliyqq.com^
 ||zhengtong.link^
 ||zhengxiaoliu.top^
+||zhengzhou12.top^
 ||zhenjiang365.cn/*/ad_
 ||zhenxinbuhaoba.com^$document
 ||zhenxinbuhaoba.com^$~third-party
@@ -89002,7 +89026,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 1337x.to###ldn7de0e493c51600d52011ec86418a260314c1d4a1
 1337x.to###vpnvpn2
 1337x.to##[href="/netflixPromo728.php"]
-1337x.to,9jaflaver.com,alaskapublic.org,allkeyshop.com,analyticsinsight.net,ancient-origins.net,animeidhentai.com,arabtimesonline.com,asura.gg,biblestudytools.com,bitcoinworld.co.in,carmag.co.za,cnx-software.com,coingolive.com,cryptoslate.com,csstats.gg,digitallydownloaded.net,domaingang.com,dotesports.com,downturk.net,forum.ragezone.com,fresherslive.com,gizmochina.com,glitched.online,glodls.to,guidedhacking.com,hackernoon.com,hlstester.com,hubcloud.day,indishare.org,kaas.am,katfile.com,khmertimeskh.com,linkhub.icu,litecoin-faucet.com,mbauniverse.com,mediaite.com,mgnetu.com,myreadingmanga.info,newsfirst.lk,nexter.org,owaahh.com,parkablogs.com,pastemytxt.com,premiumtimesng.com,railcolornews.com,resultuniraj.co.in,retail.org.nz,ripplesnigeria.com,rtvonline.com,ryuugames.com,sashares.co.za,sofascore.com,thinknews.com.ng,timesuganda.com,totemtattoo.com,trancentral.tv,ultshare.com,vumafm.co.za,wccftech.com,yeyeboyz.net,yugatech.com,zmescience.com##[href*="bit.ly/"]
+1337x.to,9jaflaver.com,alaskapublic.org,allkeyshop.com,analyticsinsight.net,ancient-origins.net,animeidhentai.com,arabtimesonline.com,asura.gg,biblestudytools.com,bitcoinworld.co.in,carmag.co.za,cnx-software.com,coingolive.com,cryptoslate.com,csstats.gg,digitallydownloaded.net,digitbin.com,domaingang.com,dotesports.com,downturk.net,forum.ragezone.com,fresherslive.com,gizmochina.com,glitched.online,glodls.to,guidedhacking.com,hackernoon.com,hlstester.com,hubcloud.day,indishare.org,kaas.am,katfile.com,khmertimeskh.com,linkhub.icu,litecoin-faucet.com,mbauniverse.com,mediaite.com,mgnetu.com,myreadingmanga.info,newsfirst.lk,nexter.org,owaahh.com,parkablogs.com,pastemytxt.com,premiumtimesng.com,railcolornews.com,resultuniraj.co.in,retail.org.nz,ripplesnigeria.com,rtvonline.com,ryuugames.com,sashares.co.za,sofascore.com,thinknews.com.ng,timesuganda.com,totemtattoo.com,trancentral.tv,ultshare.com,vumafm.co.za,wccftech.com,yeyeboyz.net,yugatech.com,zmescience.com##[href*="bit.ly/"]
 1337x.to,duplichecker.com##img[src*="data:image"]
 1337x.to,unblockit.boo##a[href*="/netflix"]
 139.196.80.247$document
@@ -91922,7 +91946,6 @@ bikeroar.com##[href^="https://www.roaradventures.com/"]
 bilibili.com###b_app_link
 bilibili.com###fixed_app_download
 bilibili.com###slide_ad + .ad-report
-bilibili.com##+js(spoof-css, .__adblockhidden > a, display, block)
 bilibili.com##.activity-slider[style="width: 1220px;"]
 bilibili.com##.ad-e1
 bilibili.com##.ad-f
@@ -94080,6 +94103,7 @@ dasai8.com##.L > font[color="#0000FF"]
 dashfight.com##.BannerPlayware_block__up1Ra
 dashnet.org###support
 datacenterdynamics.com,fansshare.com,hairboutique.com,iconarchive.com,imagetwist.com,klz9.com,memecenter.com,neoseeker.com,news18.com,paultan.org,thejournal-news.net,unexplained-mysteries.com,windsorite.ca,xtra.com.my##div[style*="width:300px"]
+datagenetics.com###dgsidebar
 dataguru.cn###popDiv
 dataguru.cn,qianlima.com###bg
 datamation.com,esecurityplanet.com,eweek.com,serverwatch.com,webopedia.com###inline-top
@@ -100505,6 +100529,7 @@ might.net##.fat-container
 mikanani.me##a[href][onclick*="'ad'"] > img[src^="/images/Masha/"]
 milf-porn.xxx#?#.main-content:has(> div.main-container > div.webcamitems)
 milf-porn.xxx,pornwhite.com,teenpornvideo.xxx,thisvid.com,vikiporn.com##.bottom-spots
+milffox.com##.signup
 milfporn8.com,ymlporn7.net##.vid-ave-pl
 military.china.com##.item_list > .medialist
 military.china.com##.slide_doubleimg > .baiBox
@@ -105683,6 +105708,8 @@ thestockmarketwatch.com##.adSpotPad
 thestranger.com##.fish-butter
 thestreamable.com###promo-signup-bottom-sheet
 thestreamable.com##.d-md-flex
+thestreet.com##.csw-ae-wide
+thestreet.com##.is-fallback-player
 thestreet.com##.is-video-footer-enabled
 thestreet.com##.m-balloon-header
 thestreet.com##.m-video-unit
@@ -120870,6 +120897,7 @@ _advertising/$domain=~advertising.scoop.co.nz
 _advertising_header.
 _advertising_iframe.
 _advertisment.
+_advertisment.$~xmlhttprequest
 _advertorial.
 _advertorial/
 _advertorial3.

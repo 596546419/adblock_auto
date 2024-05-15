@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: iwi538Oxx3rsOvv4f/6ztg
+! Checksum: +y0F3HqJJhldO6AkzPEw9w
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240515002628
+! Version: 20240515092213
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-15 00:26:28
-! Total Count: 27692
+! Last modified: 2024-05-15 09:22:13
+! Total Count: 27700
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -69,6 +69,7 @@
 ||073img.com/*/|
 ||0755rc.com^$third-party
 ||0776.red^
+||07dy.cc^
 ||07xm.fun^
 ||08088.top^
 ||0885.net^$third-party
@@ -4563,6 +4564,7 @@
 ||bphcrjth.xyz^
 ||bpimg.com/4851/19f7543667f26682.jpg
 ||bplrpf.xyz^
+||bpxbzps.xyz^
 ||bpyerxzn.xyz^
 ||bpztsxx.com^
 ||bqdyqq.com^
@@ -6601,6 +6603,7 @@
 ||efvsyhbf.xyz^
 ||efyt6.com^$third-party
 ||egadfe.xyz^
+||egidskiw.top^
 ||egipsbvlgn.xyz^
 ||eglizqf.cn^
 ||egywbps748.shop^
@@ -8170,6 +8173,7 @@
 ||hfk7j.top^
 ||hfresgtyytjncvvh.com^
 ||hfwld.cn^
+||hgcgnfe.icu^
 ||hgehse.site^
 ||hgf8hck.com^
 ||hgfutf.xyz^
@@ -9657,6 +9661,7 @@
 ||kbayke.xyz^
 ||kbbrptv.xyz^
 ||kbctii.xyz^
+||kbexos.xyz^
 ||kbomku.xyz^
 ||kbzs88.com^
 ||kc.gouchezj.com^
@@ -12558,6 +12563,7 @@
 ||proudprose.com^$third-party
 ||proxyporn.info/o.php
 ||proxyporn.info/proxyporn-info-p0p.js
+||prpmdp.xyz^
 ||prtlth.xyz^
 ||przbzr.xyz^
 ||ps123.net/MyFile/
@@ -15762,6 +15768,7 @@
 ||vfsdgjrr.xyz^
 ||vfsvv1.com^
 ||vfvad.top^
+||vfxrpl.xyz^
 ||vfzfrx.xyz^
 ||vgao.xyz/images/*.gif
 ||vggg5.space^
@@ -17391,6 +17398,7 @@
 ||zhenben.cc/2000/
 ||zhengjie.com/a_d?
 ||zhengliyqq.com^
+||zhengzhou12.top^
 ||zhenjiang365.cn/*/ad_
 ||zhenxinbuhaoba.com^$document
 ||zhenxinbuhaoba.com^$~third-party
