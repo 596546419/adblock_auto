@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: qiqu4NB9KynE/xw2sB28fg
+! Checksum: 96nMTVWTPC6Sgbf1P3KYwg
 ! Title: 混合规则(自动更新)
-! Version: 20240516002443
+! Version: 20240516092137
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-16 00:24:43
-! Total Count: 143681
+! Last modified: 2024-05-16 09:21:37
+! Total Count: 143706
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2459,6 +2459,7 @@
 ||5y9nfpes.52pk.com^
 ||5ydj.com/images/banner/
 ||5z0d3.cyou^
+||6-partner.com^
 ||6.cn/coop/pub/getRand.php?
 ||60.190.139.164^
 ||6001628d3d.com^
@@ -4638,6 +4639,7 @@
 ||ad-serve.b-cdn.net^
 ||ad-server.co.za^
 ||ad-serverparc.nl^
+||ad-service.shop^
 ||ad-serving.de^
 ||ad-site55.net^
 ||ad-spire.net^
@@ -11422,6 +11424,7 @@
 ||azqqloblawabm.top^
 ||azqqloborwwba.top^
 ||azskk.com^
+||azsqkrc.icu^
 ||aztecash.com^
 ||aztool.org^
 ||azukgee.cn^
@@ -14782,6 +14785,7 @@
 ||bqlhwrgxoedsm.com^
 ||bqnggnsv.fun^
 ||bqnmxza.cn^
+||bqnxff.xyz^
 ||bqpvduxtfhwsd.com^
 ||bqqvmupmcnjnbv.com^
 ||bqrkubs.cn^
@@ -20110,6 +20114,7 @@
 ||counter-kostenlos.info^
 ||counter-kostenlos.net^
 ||counter-treff.de^
+||counter-zaehler.de^
 ||counter.1gb.ru^
 ||counter.1i.kz^
 ||counter.24h.com.vn^
@@ -22723,6 +22728,7 @@
 ||destc8.icu^
 ||destinationoralairliner.com^
 ||destinedsponsornominate.com^
+||destinysfavored.xyz^
 ||destinyssa.com^
 ||destroyedspear.com^
 ||destructionhybrids.com^
@@ -28463,6 +28469,7 @@
 ||fantasticdiet.pro^
 ||fantasticgap.pro^
 ||fantasticsmash.com^$third-party
+||fantecio.com^
 ||fantodsshrug.com^
 ||fantuan.name^
 ||fanydourer.com^
@@ -28525,6 +28532,7 @@
 ||fashou.wang^
 ||faspox.com^
 ||fassknolls.top^
+||fast-counter.net^
 ||fast-hunter.com^
 ||fast-redirecting.com^
 ||fast-thinking.co.uk^
@@ -31353,6 +31361,7 @@
 ||ganon.yahoo.com^
 ||gansudaily.com.cn/2017zt/images/*gg
 ||gaoai.wang^
+||gaochen12.top^
 ||gaofen.com/source/plugin/gaofen_ad/
 ||gaofuwu.org/js/dd.js
 ||gaofuwu.org/js/dd2.js
@@ -31676,6 +31685,7 @@
 ||geede.info^
 ||geedoovu.net^
 ||geegg.wang^
+||geegleshoaph.com^
 ||geekbang.org/public/serving/
 ||geekpark.net/api/v1/ads
 ||geeksundigne.com^
@@ -35587,6 +35597,7 @@
 ||highfalutinroom.com^$third-party
 ||highjackclients.com^
 ||highjournalistbargain.com^
+||highlevelbite.com^
 ||highlypersevereenrapture.com^
 ||highlyrecomemu.info^
 ||highmaidfhr.com^
@@ -53667,6 +53678,7 @@
 ||oacfxrqghamyaq.com^
 ||oachailo.net^
 ||oackoubs.com^
+||oackoulimtoo.com^
 ||oaclrst.cn^
 ||oadaheba.net^
 ||oadrojoa.net^
@@ -55852,6 +55864,7 @@
 ||oysterexhalereview.com^
 ||oysterfoxfoe.com^
 ||oyugspe.cn^
+||oyuvcqmqjyrqd.com^
 ||oyuwkbk.top^
 ||oyvveru.cn^
 ||oyvyxj.cn^
@@ -59730,6 +59743,7 @@
 ||professionalsly.com^
 ||professionalswebcheck.com^
 ||professmeeting.com^
+||professorrevealingoctopus.com^
 ||professtrespass.com^
 ||proffering.xyz
 ||proffering.xyz^
@@ -60595,6 +60609,7 @@
 ||pushanishe.com^
 ||pushanya.net^
 ||pusharest.com^
+||pushatomic.com^
 ||pushazam.com^
 ||pushazer.com^
 ||pushbaddy.com^
@@ -73616,6 +73631,7 @@
 ||tembetachasmic.guru^
 ||tembetanymil.com^
 ||temksrtd.net^
+||temp.twicomi.com^
 ||tempbugs.com^
 ||tempeorek.org^
 ||temperacaimans.com^
@@ -82118,6 +82134,7 @@
 ||wabejoyrode.life^
 ||wabhrkynybk.com^
 ||wachipho.net^
+||wacisi.xyz^
 ||wackeerd.com^
 ||wackotracko.com^
 ||wacoloather.top^
@@ -83077,6 +83094,7 @@
 ||wgchrrammzv.com^
 ||wgdacc.com^
 ||wghzbgmjpyig.com^
+||wgidskie.top^
 ||wgkggub.com^
 ||wglbx.ltd^
 ||wgnlaige.fun^
@@ -84222,6 +84240,7 @@
 ||wqzqoobqpubx.com^
 ||wqzyxxrrep.com^
 ||wr.yiyouliao.com^
+||wranalytics.wildrocket.io^
 ||wrangleprickly.com^
 ||wrapdime.com^
 ||wrappeddimensionimpression.com^
@@ -93931,6 +93950,8 @@ cyberdaily.au###mm-azk560023-zone
 cyberdaily.au,investordaily.com.au,mortgagebusiness.com.au##.b-topLeaderboard
 cyberleaks.to##.responsive_banner
 cyberscore.live##.wrapper-partner-rb
+cycleexif.com,dayanzai.me,thespoken.cc,yuepuwang.com##.topban
+cycleexif.com,thespoken.cc##[style="margin-bottom: 25px;"]
 cyclenews.com###pamnew
 cyclingnews.com##.related-articles-wrap
 cyclingstage.com##.desktopad
@@ -94146,7 +94167,6 @@ dayanzai.me##.down_show_intro_first_box
 dayanzai.me##.rban1
 dayanzai.me##.stopban
 dayanzai.me,guidingtech.com##.at1
-dayanzai.me,yuepuwang.com##.topban
 daydaycook.com##.ad-mask
 daydayin.com###adbn_UMU
 dayoo.com###ad-xl
@@ -105730,6 +105750,7 @@ thesouthafrican.com##[class^="SiteHeader__AdvertisementWrapper-"]
 thespec.com,wellandtribune.ca##.polarAds
 thespike.gg##.siderail_ad_right
 thespinoff.co.nz##.supporters-block
+thespoken.cc##[href^="https://www.amazon.com/"]
 thestar.co.uk##.gOoqzH
 thestar.com###sticky-ad-2
 thestar.com.my##.med-rec
@@ -112744,6 +112765,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads/index-
 /ads/index.
 /ads/index/*
+/ads/index/*$~xmlhttprequest,domain=~kuchechina.com
 /ads/index_
 /ads/indexmarket.
 /ads/indexsponsors/*
@@ -116290,7 +116312,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /media/ads/*$image
 /media/adv/*
 /media/fitad/*
-/media/plg_adbutlerads/*
 /mediaAd.
 /media_ads/*
 /media_ads/*$image
@@ -116832,6 +116853,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /players/ads.
 /pledgead.
 /plg_adbutlerads/*
+/plg_adbutlerads/*$script,stylesheet
 /plugin.php?id=popad_7ree&
 /plugin/ad/*
 /plugin/ad/*$script
@@ -139953,6 +139975,7 @@ zle.com$script
 ##a[href^="http://yunbofangbt."]
 ##a[href^="https://1betandgonow.com/"]
 ##a[href^="https://1startfiledownload1.com/"]
+##a[href^="https://6-partner.com/"]
 ##a[href^="https://81ac.xyz/"]
 ##a[href^="https://STaRTgamINg.net/tienda/"]
 ##a[href^="https://STaRtgAmInG.net/tienda/"]
@@ -140266,6 +140289,8 @@ zle.com$script
 ##a[href^="https://www.bet365.com/"][href*="affiliate="]
 ##a[href^="https://www.brazzersnetwork.com/landing/"]
 ##a[href^="https://www.cgkjvip.com"]
+##a[href^="https://www.dating-finder.com/?ai_d="]
+##a[href^="https://www.dating-finder.com/signup/?ai_d="]
 ##a[href^="https://www.dql2clk.com/"]
 ##a[href^="https://www.endorico.com/Smartlink/"]
 ##a[href^="https://www.financeads.net/tc.php?"]

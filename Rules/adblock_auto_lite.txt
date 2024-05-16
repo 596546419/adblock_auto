@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 1W5j0vqBew/tZQYwyUypRQ
+! Checksum: 86WAXFG2MhCefT2+pEJnyw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240516002455
+! Version: 20240516092149
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-16 00:24:55
-! Total Count: 27704
+! Last modified: 2024-05-16 09:21:49
+! Total Count: 27709
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3892,6 +3892,7 @@
 ||azhibo.*images/leisu.png
 ||aziekg.xyz^
 ||azkrya.xyz^
+||azsqkrc.icu^
 ||azureedge.net/wp-content/cache/minify/3c6d7.js
 ||azureedge.net/wp-content/cache/minify/d2299.js
 ||azureedge.net/wp-content/uploads/*-AD0
@@ -4579,6 +4580,7 @@
 ||bqiapp.com/api/config/ad?
 ||bqjqripb.xyz^
 ||bqnmxza.cn^
+||bqnxff.xyz^
 ||bqsxqq.com^
 ||bqtwbx.xyz^
 ||bqxexj.xyz^
@@ -7398,6 +7400,7 @@
 ||ganjituiguang.ganji.com^
 ||gansudaily.com.cn/2017zt/images/*gg
 ||gaoai.wang^
+||gaochen12.top^
 ||gaofen.com/source/plugin/gaofen_ad/
 ||gaofuwu.org/js/dd.js
 ||gaofuwu.org/js/dd2.js
@@ -16000,6 +16003,7 @@
 ||w9uz2f.cn^$document
 ||w9uz2f.cn^$~third-party
 ||wa.kuwo.cn/lyrics/img/kwgg/
+||wacisi.xyz^
 ||wacowla.com/wp-content/plugins/popover/js/
 ||waggishpig.com^$third-party
 ||wai69.com/js/baidu/
@@ -16150,6 +16154,7 @@
 ||wfpjeul.cn^
 ||wfqgfaa.cn^
 ||wftyehw.cn^
+||wgidskie.top^
 ||wgzgzmu.cn^
 ||whafwl.com^
 ||whbn.xyz^
