@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 86WAXFG2MhCefT2+pEJnyw
+! Checksum: SOdfcEe7GemoeoAvUVCPFw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240516092149
+! Version: 20240516162038
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-16 09:21:49
-! Total Count: 27709
+! Last modified: 2024-05-16 16:20:38
+! Total Count: 27711
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6279,6 +6279,7 @@
 ||dporn.com/edraovnjqohv/
 ||dporn.com/tpnxa/
 ||dpxynh.xyz^
+||dpzplb.xyz^
 ||dq95d35.com^$third-party
 ||dqazwsxd.xyz^
 ||dqcgkpp.icu^
@@ -7199,6 +7200,7 @@
 ||franticroof.com^$third-party
 ||frantictrail.com^$third-party
 ||frcykpk.cn^
+||fredum.cn^
 ||free-cdn.oss-cn-shanghai.aliyuncs.com^
 ||freecamsexposed.com^$popup
 ||freedidi.com/wp-content/plugins/death-luhubaoyu/

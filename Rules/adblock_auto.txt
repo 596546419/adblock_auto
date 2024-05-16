@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 96nMTVWTPC6Sgbf1P3KYwg
+! Checksum: b+4TBoMeGfL6M8rt44nLVA
 ! Title: 混合规则(自动更新)
-! Version: 20240516092137
+! Version: 20240516162027
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-16 09:21:37
-! Total Count: 143706
+! Last modified: 2024-05-16 16:20:27
+! Total Count: 143710
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -24406,6 +24406,7 @@
 ||dpstack.com^
 ||dpxynh.xyz^
 ||dpyaxzpudhp.com^
+||dpzplb.xyz^
 ||dq3e.top^
 ||dq8c.top^
 ||dq95d35.com^$third-party
@@ -30369,6 +30370,7 @@
 ||frecklessfrecklesscommercialeighth.com^
 ||fredblclronvyt.com^
 ||fredmoresco.com^
+||fredum.cn^
 ||free-cdn.oss-cn-shanghai.aliyuncs.com^
 ||free-counter.co.uk^
 ||free-counter.com^
@@ -90574,7 +90576,7 @@ agar.io###agar-io_300x250
 age.tv,agedm.org##+js(noeval-if, devtoolsDetector)
 agentm.tw##.gpt-ad-slot
 agirls.aotter.net##.row > div.col.hidden a[href^="https://supr.one/"]
-agmov.com,huaban.com,racingtv.com,twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion,viptube.com,wral.com##.promotion
+agmov.com,huaban.com,racingtv.com,twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion,viptube.com,wral.com,x.com##.promotion
 agoda.com#?#.PropertyCardItem:-abp-has(div:-abp-contains(Promoted))
 agoda.com,yahoo.com##div[id^="ads-"]
 aguitar.cn##.banner7
@@ -95958,6 +95960,7 @@ frankspeech.com##.bunny-banner
 frdic.com,godic.net##a[onclick*="/ads/"]
 frdl.to##.img-fluid
 free-icon-rainbow.com###ad_responsive
+free-proxy-list.net##.alert-fpl.dark
 free.com.tw,isekaiscan.com,miloserdov.org,playstore.pw###custom_html-11
 free.com.tw,kanonitv.net,medievalists.net,twinsyang.net###custom_html-7
 freeaddresscheck.com,freecallerlookup.com,freecarrierlookup.com,freeemailvalidator.com,freegenderlookup.com,freeiplookup.com,freephonevalidator.com###offers
@@ -106384,18 +106387,18 @@ twitter.com##.promoted-trend
 twitter.com##.promoted-tweet[data-disclosure-type="issue"]
 twitter.com##.promoted-tweet[data-disclosure-type="political"]
 twitter.com##.promoted-tweet[data-disclosure-type="promoted"]
-twitter.com##.tweet:has(.promo)
-twitter.com##article[data-testid="tweet"]:has(path[d$="10H8.996V8h7v7z"])
-twitter.com##div[data-testid="UserCell"]:has(path[d$="10H8.996V8h7v7z"])
-twitter.com##div[data-testid="cellInnerDiv"] > div > div[class] > div[class][data-testid="placementTracking"]
-twitter.com##div[data-testid="eventHero"]:has(path[d$="10H8.996V8h7v7z"])
-twitter.com##div[data-testid="placementTracking"]:has(div[data-testid$="-impression-pixel"])
-twitter.com##div[data-testid="trend"]:has(path[d$="10H8.996V8h7v7z"])
 twitter.com#?#h2[role="heading"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสมพนธ|परचरत|বজঞপত|تشہیر شدہ|مروج|تبلیغی|מקודם/)
-twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##.promoted-account
-twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##.stream-item-group-start[label="promoted"]
-twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##a[href*="src=promoted_trend_click"]
-twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##a[href*="src=promoted_trend_click"] + div
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion,x.com##.promoted-account
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion,x.com##.stream-item-group-start[label="promoted"]
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion,x.com##a[href*="src=promoted_trend_click"]
+twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion,x.com##a[href*="src=promoted_trend_click"] + div
+twitter.com,x.com##.tweet:has(.promo)
+twitter.com,x.com##article[data-testid="tweet"]:has(path[d$="10H8.996V8h7v7z"])
+twitter.com,x.com##div[data-testid="UserCell"]:has(path[d$="10H8.996V8h7v7z"])
+twitter.com,x.com##div[data-testid="cellInnerDiv"] > div > div[class] > div[class][data-testid="placementTracking"]
+twitter.com,x.com##div[data-testid="eventHero"]:has(path[d$="10H8.996V8h7v7z"])
+twitter.com,x.com##div[data-testid="placementTracking"]:has(div[data-testid$="-impression-pixel"])
+twitter.com,x.com##div[data-testid="trend"]:has(path[d$="10H8.996V8h7v7z"])
 twpkinfo.com###div_close_cf
 txahz.com###archy_ad2
 txtbook.com.cn##.ledu-advWrap
@@ -136388,6 +136391,7 @@ zle.com$script
 ##.p-ads-billboard
 ##.p-ads-rec
 ##.p-post-ad
+##.p-post-ad:not(html):not(body)
 ##.p2_right_ad
 ##.p75_sidebar_ads
 ##.pAdsBlock2
