@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: b+4TBoMeGfL6M8rt44nLVA
+! Checksum: mSbY1THN3EBI8MHhFcWFpw
 ! Title: 混合规则(自动更新)
-! Version: 20240516162027
+! Version: 20240517002422
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-16 16:20:27
-! Total Count: 143710
+! Last modified: 2024-05-17 00:24:22
+! Total Count: 143718
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1999,6 +1999,7 @@
 ||4dsbanner.net^
 ||4dsply.com^
 ||4dtrk.com^
+||4e04f7.xyz^
 ||4e0622e316.com^
 ||4e55.xyz^
 ||4e645c7cf2.com^
@@ -17151,6 +17152,7 @@
 ||ceremonyavengeheartache.com^
 ||cerfbup.xyz^
 ||cergbtb36.shop^
+||cergbwa97.shop^
 ||cerillosuncup.guru^
 ||cerjmlcauynwxe.com^
 ||cermetszanonia.com^
@@ -36478,6 +36480,7 @@
 ||howoverlapsuspicious.com^
 ||howploymope.com^
 ||howtubray.com^
+||hoxdotye.icu^
 ||hoxha.nieuwspaal.network^
 ||hoyxuuk.cn^
 ||hozatr.xyz^
@@ -36495,6 +36498,7 @@
 ||hpfbiu.com^
 ||hpggroup.net^
 ||hpgmkbt.icu^
+||hphvd.cn^
 ||hpiekt.cn^
 ||hpilhooxcjh.com^
 ||hpiuyyxdbmzykh.com^
@@ -48880,6 +48884,7 @@
 ||mggzah.icu^
 ||mghkpg.com^
 ||mgid.com^
+||mgidskix.top^
 ||mgjgqztw.com^
 ||mgjnmfhyis.xyz^
 ||mglsk.com^
@@ -67018,6 +67023,7 @@
 ||sfinwoyxjx.xyz^
 ||sfixretarum.com^
 ||sfjmj.com^
+||sfkldbkldgdgh.com^
 ||sfnfpddbql.com^
 ||sfnmt.com/dq/
 ||sforourcompa.org^
@@ -70101,6 +70107,7 @@
 ||spoonsilk.com^$third-party
 ||spoonsleopard.com^
 ||spoonsubqueries.com^
+||spoor-api.ft.com^
 ||sporedfryhum.com^
 ||sporontbrushes.com^
 ||sport205.club^
@@ -70340,6 +70347,7 @@
 ||ssdtour.com^
 ||ssedonthep.info^
 ||ssery.com^
+||ssestherssa.com^
 ||ssgg.chazidian.com^
 ||ssh.*.com^*!$script,third-party
 ||ssiapawz.com^
@@ -78337,6 +78345,7 @@
 ||um29.com^$third-party
 ||um5xcgngmart.xyz^
 ||um9.top^
+||umami.is^
 ||umami.nordiskehandel.cloud^
 ||umbel.com^
 ||umbersurf.top^
@@ -95960,7 +95969,6 @@ frankspeech.com##.bunny-banner
 frdic.com,godic.net##a[onclick*="/ads/"]
 frdl.to##.img-fluid
 free-icon-rainbow.com###ad_responsive
-free-proxy-list.net##.alert-fpl.dark
 free.com.tw,isekaiscan.com,miloserdov.org,playstore.pw###custom_html-11
 free.com.tw,kanonitv.net,medievalists.net,twinsyang.net###custom_html-7
 freeaddresscheck.com,freecallerlookup.com,freecarrierlookup.com,freeemailvalidator.com,freegenderlookup.com,freeiplookup.com,freephonevalidator.com###offers
