@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: mSbY1THN3EBI8MHhFcWFpw
+! Checksum: Rmwy8A6le7f9oQ0ccTCZSg
 ! Title: 混合规则(自动更新)
-! Version: 20240517002422
+! Version: 20240517092138
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-17 00:24:22
-! Total Count: 143718
+! Last modified: 2024-05-17 09:21:38
+! Total Count: 143766
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -852,6 +852,7 @@
 ||19216811.la/net/advert
 ||1921777336.rsc.cdn77.org^
 ||19273817.com^
+||1933201447.rsc.cdn77.org^
 ||1934671980.rsc.cdn77.org^
 ||194.59.220.161^
 ||194ac5b0e3.com^
@@ -873,6 +874,7 @@
 ||1990tu.com^
 ||1990tu.com^$third-party
 ||1991482557.rsc.cdn77.org^
+||1998469069.rsc.cdn77.org^
 ||1999019.com^
 ||199aaa.us^
 ||19bk5lo5q2.com^
@@ -3196,6 +3198,7 @@
 ||88p2p.com^
 ||88p2p.com^$popup
 ||88rpg.net^
+||88tm6.cc^
 ||88vin.shop^
 ||88ys.cc/js/abcd.js
 ||88ysg.com^$third-party
@@ -4376,6 +4379,7 @@
 ||acdcmarimo.com^
 ||acdhahqc.com^
 ||acdn01.vidox.net^
+||acdn923132475.com^
 ||acdnpro.com^
 ||ace.naver.com^
 ||aceadsys.net^
@@ -8838,6 +8842,7 @@
 ||analytics.oyorooms.com^
 ||analytics.paddle.com^
 ||analytics.pagefly.io^
+||analytics.palitra.ge^
 ||analytics.pancake.vn^
 ||analytics.pangle-ads.com^
 ||analytics.partcommunity.com^
@@ -14100,6 +14105,7 @@
 ||blue-rain.com.cn^
 ||blue.fox8.com^
 ||blue.thehill.com^
+||blue99703.com^
 ||blueadvertise.com^
 ||blueberryastronomy.com^
 ||bluecava.com^
@@ -20504,6 +20510,7 @@
 ||cratecamera.com^$third-party
 ||crateralbumcarlos.com^
 ||craterwhsle.com^
+||crateshoover.com^
 ||craveidentificationanoitmentanoitment.com^
 ||crawlclocks.com^$third-party
 ||crawledlikely.com^
@@ -22329,6 +22336,7 @@
 ||dedicationflamecork.com^
 ||deductionadjacentwatchful.com^
 ||deductionkeepingbabysitter.com^
+||deductionobtained.com^
 ||dedukicationan.info^
 ||deebcards-themier.com^
 ||deebwcnanjmegdv.com^
@@ -26891,6 +26899,7 @@
 ||epjwugocpvan.xyz^
 ||epmf4.cn^
 ||epmfjjabhfwgkun.com^
+||epnjbpnncucp.com^
 ||epnjoyriuyxg.xyz^
 ||epnredirect.ru^
 ||epnt.ebay.com^
@@ -27749,6 +27758,7 @@
 ||exampleshake.com^$third-party
 ||examplesusagefeedback.com^
 ||exampulsate.com^
+||examsupdatesupple.com^
 ||exapxl.de^
 ||exasperationdashed.com^
 ||exasperationplotincarnate.com^
@@ -29852,6 +29862,7 @@
 ||fnrbulqws.com^
 ||fnrrm2fn1njl1.com^
 ||fntphihy.com^
+||fnuimuuifssv.com^
 ||fnuvsfyylouxwu.com^
 ||fnwbaepsbf.com^
 ||fnxkntusnd.com^
@@ -30079,6 +30090,7 @@
 ||forgoesthalli.uno^
 ||forgoodplay.com^
 ||forgotingolstono.com^
+||forhavingartistic.info^
 ||forjoiyvid.online^
 ||forjoiyvid.site^
 ||forjoiyvid.space^
@@ -30231,6 +30243,7 @@
 ||fp.kakaku.com^
 ||fp.nanrenwo.net^
 ||fp.techinasia.com^
+||fp27ee.wac.systemcdn.net^
 ||fpad.jp^
 ||fpalarezuxj.com^
 ||fpb*.51edu.com^
@@ -31592,6 +31605,7 @@
 ||gcfynlyvab.com^
 ||gcgggct.cn^
 ||gcihkyd.cn^
+||gcjzuzldn.com^
 ||gckkxvpbhhlx.com^
 ||gcm.ksmobile.com^
 ||gcm.ksmobile.net^
@@ -34104,6 +34118,7 @@
 ||gwen.insertcoin.se^
 ||gwf0.icu^
 ||gwfcpecnwwtgn.xyz^
+||gwggiroo.com^
 ||gwhllcipky.com^
 ||gwide.xyz^
 ||gwivqo.xyz^
@@ -35970,6 +35985,7 @@
 ||hndhas.com^
 ||hndshop.cn^
 ||hnert.okmwfq.xyz^
+||hnfljokqhc.com^
 ||hnfnjn.xyz^
 ||hnfxty.cn^
 ||hngezj.com^
@@ -37802,6 +37818,7 @@
 ||ihhii.xyz^
 ||ihhmh.com/mg/show
 ||ihhqwaurke.com^
+||ihi.flowplayer.com^
 ||ihjtrncfoha.com^
 ||ihlurin.cn^
 ||ihmbpow.cn^
@@ -38034,6 +38051,7 @@
 ||ilumtoux.net^
 ||ilvnkzt.com^
 ||ilvpbrvrpzrys.com^
+||ilvqyya.cn^
 ||ilxdh.com/navig/2020-09-08/1599538164_1474.png
 ||ilxhsgd.com^
 ||ilxkwlhqo.com^
@@ -38098,6 +38116,7 @@
 ||imathematica.org^
 ||imatrk.net^
 ||imatue.com^
+||imawwq.xyz^
 ||imbalmscashews.com^
 ||imbgrfywnol.com^
 ||imbikh.icu^
@@ -40621,6 +40640,7 @@
 ||jgidskia.top^
 ||jgmywh.icu^
 ||jgnlaiga.fun^
+||jgntjtyf.icu^
 ||jgpvgjtldgocob.com^
 ||jgqaoipkohsln.com^
 ||jgqflgggex.com^
@@ -42950,6 +42970,7 @@
 ||kltxw.xyz^
 ||kluauvass.com^
 ||klufjdo.com^
+||kluxeruntrend.top^
 ||klwhuci.cn^
 ||klxwe.xyz^
 ||klyhw.xyz^
@@ -43511,6 +43532,7 @@
 ||kunzhang.name^
 ||kuoizbtl.xyz^
 ||kupharlutetia.com^
+||kupmpypt.com^
 ||kupona.de^
 ||kuqekpfj.com^
 ||kuqgrelpiamw.com^
@@ -48915,6 +48937,7 @@
 ||mhadsd.com^
 ||mhboxleky.com^
 ||mhbyzzp.com^
+||mhcfsjbqw.com^
 ||mhdiaok.com^
 ||mhdjkx.cn^
 ||mhdlll.com^
@@ -49424,6 +49447,7 @@
 ||mlt01.com^
 ||mltmjevd.xyz^
 ||mltunxdmrv.com^
+||mluemlmxn.com^
 ||mlumlio.cn^
 ||mluptwapaj.com^
 ||mlvgxzenoiz.com^
@@ -51765,6 +51789,7 @@
 ||nchte.com^
 ||nchxzmhr.com^
 ||ncjpbv.xyz^
+||nclljn.xyz^
 ||ncmxwhf.icu^
 ||ncoadbwagfvsdya.com^
 ||ncoeqz.today^
@@ -52505,6 +52530,7 @@
 ||niceelitdating.top^
 ||nicelinks.site/ad-block-
 ||nicelocaldates.com^
+||nicelyinformant.com^
 ||nicelyporeengine.com^
 ||nicerisle.com^
 ||nicesearches.com^
@@ -53245,6 +53271,7 @@
 ||nrbqgf.cn^
 ||nrc.tapas.net^
 ||nrcqqpjx.xyz^
+||nrcykmnukb.com^
 ||nrecitnr.com^
 ||nreg.world^
 ||nretholas.com^
@@ -53311,6 +53338,7 @@
 ||nstat.headlines.pw^
 ||nster.net^
 ||nstoodthestatu.com^
+||nstoodthestatu.info^
 ||nstracking.com^
 ||nsuchasricew.com^
 ||nsultingcoe.net^
@@ -53587,6 +53615,7 @@
 ||nxxyjn.com^
 ||nxyerol.cn^
 ||ny5159.com^$third-party
+||ny77jj.washingtonpost.com^
 ||nyaa.*/static/js/ccheck.js
 ||nyaa.fun/static/js/*_costcheck_a.js
 ||nyaasokuvip.net/wp-content/uploads/*/ad_manga_
@@ -54907,6 +54936,7 @@
 ||opapxq.com^
 ||opatacarnal.top^
 ||opbandit.com^
+||opbllqzsmfoxq.com^
 ||opcharizardon.com^
 ||opchikoritar.com^
 ||opclauncheran.com^
@@ -55662,6 +55692,7 @@
 ||overestimateoption.com^
 ||overestimateyearly.com^
 ||overfatberiber.digital^
+||overfixaphakic.top^
 ||overgalladean.com^
 ||overheadnell.com^
 ||overheadplough.com^
@@ -61196,6 +61227,7 @@
 ||qgfwets.cn^
 ||qgfzb.com^$document
 ||qgfzb.com^$~third-party
+||qgidskiy.top^
 ||qgisjfmwhhsmfe.com^
 ||qgjapp.com^
 ||qgl27.xyz^
@@ -65905,6 +65937,7 @@
 ||sc126.com^
 ||sc4mh.cn^
 ||scaakxxobpp.com^
+||scabbienne.com^
 ||scabtauter.uno^
 ||scadnet.com^
 ||scadsstar.com^
@@ -73219,6 +73252,7 @@
 ||tarnifotum.com^
 ||taroads.com^
 ||tarokbien.com^
+||tarotaffirm.com^
 ||tarpitbar.com^
 ||tarqk5.com^
 ||tarresdiptych.top^
@@ -75927,6 +75961,7 @@
 ||track.unidata.ai^
 ||track.untd.com^
 ||track.uppromote.com^
+||track.us.org^
 ||track.veedio.it^
 ||track.venatusmedia.com^
 ||track.vio.edu.vn^
@@ -77678,6 +77713,7 @@
 ||txie.club^
 ||txjhmbn.com^
 ||txlidi.ink^
+||txmeeqz.icu^
 ||txmsw.mobi^
 ||txnhmdvka.com^
 ||txnnhz.cn^
@@ -78371,6 +78407,7 @@
 ||ummnam.xyz^
 ||umnstoodthe.com^
 ||umoughtcallm.com^
+||umoxomv.icu^
 ||umpirectx.top^
 ||umplmoht.com^
 ||umplohzn.com^
@@ -79581,6 +79618,7 @@
 ||vacant-writer.com^
 ||vacationambulancekin.com^
 ||vacationinvolve.com^
+||vacationmonday.com^
 ||vacationsoot.com^
 ||vaccinationinvalidphosphate.com^
 ||vaccinationwear.com^
@@ -82892,6 +82930,7 @@
 ||weeklideals.com^
 ||weeklyimplement.pro^
 ||weekslw.com^
+||weemofee.com^
 ||weepingheartache.com^
 ||weepingpretext.com^
 ||weeprobbery.com^
@@ -84907,6 +84946,7 @@
 ||xchina.pro/upload/ad/
 ||xchina.tv/upload/ad/
 ||xcholvbc.xyz^
+||xciajfjrufu.com^
 ||xcjcy.pro^
 ||xcjwq.world^
 ||xckj0623.com^
@@ -85028,6 +85068,7 @@
 ||xfiebjkmpp.com^
 ||xfileload.com^
 ||xfimwjibh.top^
+||xfipcmwcqrglvn.com^
 ||xfkujwt.cn^
 ||xflsj.com^
 ||xflybplr.xyz^
@@ -85308,6 +85349,7 @@
 ||xjfbhxp.com^
 ||xjfyx.com^
 ||xjhjtz.cn^
+||xjincmbrulchml.xyz^
 ||xjjjqlkjlrhqyh.com^
 ||xjjkxcg.cn^
 ||xjkhaow.com^
@@ -88270,6 +88312,7 @@
 ||zogoluggers.com^
 ||zogrepsili.com^
 ||zohdfd.xyz^
+||zoilistfrowzly.com^
 ||zoiqrudc.com^
 ||zoizfaodz.com^
 ||zojyob.icu^
@@ -105336,6 +105379,10 @@ technologypep.com##.main-container-wrap > div[class$="-bg"]
 technologypep.com##.main-container-wrap > div[id][class][style*="opacity"]
 technologyreview.com##div[class^="headerTemplate__leaderboardRow-"]
 technoob.info,crazyporn.xxx##+js(abort-on-property-write, adConfig)
+techonthenet.com##.c79ee2c9
+techonthenet.com##.e388ecbd
+techonthenet.com##.e72e4713
+techonthenet.com#?#div[class] > p:-abp-contains(Advertisements)
 techopedia.com##.footer_inner_ads
 techopedia.com##.header_inner_ads
 techopedia.com##.techo-adlabel
@@ -140231,6 +140278,7 @@ zle.com$script
 ##a[href^="https://safesurfingtoday.com/"][href*="?skip="]
 ##a[href^="https://see.kmisln.com/"]
 ##a[href^="https://serve.awmdelivery.com/"]
+##a[href^="https://sexynearme.com/"]
 ##a[href^="https://slkmis.com/"]
 ##a[href^="https://snowdayonline.xyz/"]
 ##a[href^="https://softwa.cfd/"]

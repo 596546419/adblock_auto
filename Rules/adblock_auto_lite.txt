@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: FhGa2tjqVimQvY/XBPyU/w
+! Checksum: 4oKuDf+8mpnuXQu9eC4eMw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240517002433
+! Version: 20240517092149
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-17 00:24:33
-! Total Count: 27713
+! Last modified: 2024-05-17 09:21:49
+! Total Count: 27722
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8360,6 +8360,7 @@
 ||hozatr.xyz^
 ||hpcwwd.com^
 ||hpgmkbt.icu^
+||hphvd.cn^
 ||hpjzpn.xyz^
 ||hppmy.cn^
 ||hprinb.xyz^
@@ -8724,6 +8725,7 @@
 ||illinvention.com^$third-party
 ||illustriousoatmeal.com^$third-party
 ||ilph0.icu^
+||ilvqyya.cn^
 ||ilxdh.com/navig/2020-09-08/1599538164_1474.png
 ||im*-tub-ru.yandex.net^$domain=russian-porn.ru
 ||im.51yaliesha.com^$third-party
@@ -8753,6 +8755,7 @@
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima.js,important,domain=linetv.tw
 ||imasdk.googleapis.com^
 ||imasdk.googleapis.com^$xmlhttprequest,redirect-rule=noop.txt
+||imawwq.xyz^
 ||imbikh.icu^
 ||imedown.info/03.jpg
 ||imedown.info^*.gif
@@ -10876,6 +10879,7 @@
 ||mg21.com/wp-content/uploads/ad/
 ||mgage.com^
 ||mggzah.icu^
+||mgidskix.top^
 ||mgsm.pl/js/get*AdsMobile.xhtml
 ||mgzjin.cn^$third-party
 ||mh3666.com^*.jsonp
@@ -11380,6 +11384,7 @@
 ||ncgqmzm.cn^
 ||nchxzmhr.com^
 ||ncjpbv.xyz^
+||nclljn.xyz^
 ||ncmxwhf.icu^
 ||ncrkff.xyz^
 ||ncyksuw.xyz^
@@ -12741,6 +12746,7 @@
 ||qfdtqq.com^
 ||qgfzb.com^$document
 ||qgfzb.com^$~third-party
+||qgidskiy.top^
 ||qgl27.xyz^
 ||qgrnyis.cn^
 ||qguwoq.cn^$third-party
@@ -13803,6 +13809,7 @@
 ||sfg11rr.com^
 ||sfgprze.cn^$document
 ||sfgprze.cn^$~third-party
+||sfkldbkldgdgh.com^
 ||sfnmt.com/dq/
 ||sfqyck.xyz^
 ||sfsft.com/ckplayer/1config.js
@@ -14295,6 +14302,7 @@
 ||sscefsol.com^
 ||ssdfgq7.com^
 ||ssdtour.com^
+||ssestherssa.com^
 ||ssgg.chazidian.com^
 ||ssh.*.com^*!$script,third-party
 ||ssjv1.com/dm/
@@ -15288,6 +15296,7 @@
 ||txahz.com/static/image/tp/
 ||txbhhh.xyz^
 ||txcv68f.com^
+||txmeeqz.icu^
 ||txphjl.xyz^
 ||txzepl.xyz^
 ||txzqw.*/js/float.js
