@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Rmwy8A6le7f9oQ0ccTCZSg
+! Checksum: AHpg/XoYuj+wawUme08JoQ
 ! Title: 混合规则(自动更新)
-! Version: 20240517092138
+! Version: 20240517162426
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-17 09:21:38
-! Total Count: 143766
+! Last modified: 2024-05-17 16:24:26
+! Total Count: 143773
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2698,6 +2698,7 @@
 ||682891.com^
 ||684d203fe1.com^
 ||6863fd0afc.com^
+||68646f.xyz^
 ||6868edu.com^
 ||68710266.com^
 ||6888i.top^
@@ -20444,6 +20445,7 @@
 ||cqnpfyb.cn^
 ||cqpczsu.cn^
 ||cqpiumcjacb.com^
+||cqpph.cn^
 ||cqqmwkkkfntjr.com^
 ||cqqwe2pea.xyz^
 ||cqrvwq.com^
@@ -90983,7 +90985,7 @@ androidforums.com###messageList > .messageList
 androidpolice.com##.w-pencil-banner
 androidpolice.com,constructionreviewonline.com,cryptobriefing.com,dereeze.com,tyretradenews.co.uk##.ai-track
 androidsage.com##.code-block-9
-androidsage.com,cryptoreporter.info,ets2.lt,geekdashboard.com,geekspin.co,getdroidtips.com,kanonitv.net,streamtelly.com,techpp.com,whats-on-netflix.com##.code-block-1
+androidsage.com,cookingwithdog.com,cryptoreporter.info,ets2.lt,geekdashboard.com,geekspin.co,getdroidtips.com,kanonitv.net,streamtelly.com,techpp.com,whats-on-netflix.com##.code-block-1
 androidsage.com,patriotfetch.com,scienceabc.com##.code-block-5
 androidtrends.com,backthetruckup.com,bingehulu.com,streamsgeek.com,techcentral.co.za,trendstorys.com,vedantbhoomi.com##.a-wrap
 androidweblog.com##.cgdyh > [data-adid]
@@ -94010,6 +94012,7 @@ cyclenews.com###pamnew
 cyclingnews.com##.related-articles-wrap
 cyclingstage.com##.desktopad
 cyclingtips.com,mirror.co.uk###takeover
+cyclonis.com##.has-banner
 cyol.com,hc360.com##div[class^="AD"]
 cyol.net##.AD960_90
 cyprus-mail.com##div[id^="cypru-"]
@@ -100146,11 +100149,12 @@ m.mydrivers.com##.share
 m.mydrivers.com##div[style$="px 0px 0px 0px;text-align:center;"]
 m.mylust.com##.topb-100
 m.mylust.com##.topb-250
-m.nivod4.tv,m.nivod5.tv,m.nivod7.tv,m.nivod8.tv###hellBoy > li:not([track-by]) > img
-m.nivod4.tv,m.nivod5.tv,m.nivod7.tv,m.nivod8.tv###video-container + ul[style^="width:"] > li > img
-m.nivod4.tv,m.nivod5.tv,m.nivod7.tv,m.nivod8.tv#?##hellBoy > li[track-by="$index"] > div[style] > .show-div:has(> .show-card > .update-play:contains(/^AD$/))
-m.nivod4.tv,m.nivod5.tv,m.nivod7.tv,m.nivod8.tv#?#.slider-group > .nut-swiper > .nut-swiper-inner > .nut-swiper-item:has(> .swiper-page > span:contains(/^AD/))
-m.nivod8.tv,m.nivod7.tv,m.nivod5.tv,m1.nivod.tv,m.nivod4.tv##+js(evaldata-prune, entity.commercial)
+m.nivod4.tv,m.nivod5.tv,m.nivod7.tv,m.nivod8.tv,m.nivod9.tv###hellBoy > li:not([track-by]) > img
+m.nivod4.tv,m.nivod5.tv,m.nivod7.tv,m.nivod8.tv,m.nivod9.tv###video-container + ul[style^="width:"] > li > img
+m.nivod4.tv,m.nivod5.tv,m.nivod7.tv,m.nivod8.tv,m.nivod9.tv#?##hellBoy > li[track-by="$index"] > div[style] > .show-div:has(> .show-card > .update-play:contains(/^AD$/))
+m.nivod4.tv,m.nivod5.tv,m.nivod7.tv,m.nivod8.tv,m.nivod9.tv#?#.slider-group > .nut-swiper > .nut-swiper-inner > .nut-swiper-item:has(> .swiper-page > span:contains(/^AD/))
+m.nivod9.tv,m.nivod8.tv,m.nivod7.tv,m.nivod4.tv,m.nivod5.tv##.v-ad
+m.nivod9.tv,m.nivod8.tv,m.nivod7.tv,m.nivod5.tv,m1.nivod.tv,m.nivod4.tv##+js(evaldata-prune, entity.commercial)
 m.nownews.com##a[href^="http://ad1.nownews.com"]
 m.nownews.com,m.rugbynetwork.net##.ui-footer-fixed
 m.qidian.com###fixBoxs, #read_app_download
@@ -100403,6 +100407,7 @@ marketscreener.com###zppMiddle2
 marketscreener.com###zppRight2
 marketscreener.com##.bas
 marketscreener.com##.hPubRight2
+marketsfarm.com##.gfm-ad-network-ad
 marketwatch.com##.container--sponsored
 marketwatch.com##.cxense-loading
 marketwatch.com##.imonaid_context
@@ -101061,6 +101066,7 @@ my0832.com##.xx_div
 myabandonware.com##.i528
 myabandonware.com##div[class^="m1"]
 myanimelist.net##._unit
+myanimelist.net##.border_top
 myanimelist.net##.mal-kkk-unit
 myanimelist.net##.side-koukoku
 myanimelist.net##[src*="/c/img/images/event/"]
@@ -101173,6 +101179,7 @@ myptt.cc##p[style="padding:0;margin: 5px 0;color:#ff0000;"] > a[href][target="_b
 mypunepulse.com##.n2-padding
 mypunepulse.com,optimyz.com##.widget_smartslider3
 myqqjd.com###advert_widget
+myqqjd.com##.cms-news-normal-box > article:has(span.merge-cat > a[href$="/activity/"])
 myqqjd.com##.qz-box
 myqqjd.com##aside[id^="sponsor-"]
 myreadingmanga.info##a[href^="https://www.dlsite.com/"]
@@ -101680,20 +101687,20 @@ niutuku.com###downAD1
 niutuku.com##.listAD
 niutuku.com##.sideAD
 niutuku.com,sina.cn##.bannerAD
-nivod4.tv,nivod5.tv,nivod7.tv,nivod8.tv##+js(set-constant, detailParams.is_ad_play, false)
-nivod4.tv,nivod5.tv,nivod7.tv,nivod8.tv##.nav-ads
+nivod4.tv,nivod5.tv,nivod7.tv,nivod8.tv,nivod9.tv##+js(set-constant, detailParams.is_ad_play, false)
+nivod4.tv,nivod5.tv,nivod7.tv,nivod8.tv,nivod9.tv##+js(set-constant, pageData.__banners.0.commercial.jumpUrl, '')
+nivod4.tv,nivod5.tv,nivod7.tv,nivod8.tv,nivod9.tv##+js(set-constant, pageData.__banners.0.commercial.mediaUrl, '')
+nivod4.tv,nivod5.tv,nivod7.tv,nivod8.tv,nivod9.tv##+js(set-constant, pageData.__banners.0.commercial.title, '')
+nivod4.tv,nivod5.tv,nivod7.tv,nivod8.tv,nivod9.tv##+js(set-constant, pageData.__banners.1.commercial.jumpUrl, '')
+nivod4.tv,nivod5.tv,nivod7.tv,nivod8.tv,nivod9.tv##+js(set-constant, pageData.__banners.1.commercial.mediaUrl, '')
+nivod4.tv,nivod5.tv,nivod7.tv,nivod8.tv,nivod9.tv##+js(set-constant, pageData.__banners.1.commercial.title, '')
+nivod4.tv,nivod5.tv,nivod7.tv,nivod8.tv,nivod9.tv##.nav-ads
+nivod4.tv,nivod5.tv,nivod7.tv,nivod8.tv,nivod9.tv##a.focus_title_inner[href*=".ad_click"]
+nivod4.tv,nivod5.tv,nivod7.tv,nivod8.tv,nivod9.tv#$?#.img-list > .img-item:has(> a[href*=".ad_click"]) { remove: true; }
+nivod4.tv,nivod5.tv,nivod7.tv,nivod8.tv,nivod9.tv#$?#a.focus_title_inner[href*=".ad_click"] { remove: true; }
 nivod4.tv,nivod5.tv,nivod8.tv##.qy20-h-carousel__li:nth-child(-n+2)
-nivod5.tv,nivod4.tv##+js(set-constant, pageData.__banners.0.commercial.jumpUrl, '')
-nivod5.tv,nivod4.tv##+js(set-constant, pageData.__banners.0.commercial.mediaUrl, '')
-nivod5.tv,nivod4.tv##+js(set-constant, pageData.__banners.0.commercial.title, '')
-nivod5.tv,nivod4.tv##+js(set-constant, pageData.__banners.1.commercial.jumpUrl, '')
-nivod5.tv,nivod4.tv##+js(set-constant, pageData.__banners.1.commercial.mediaUrl, '')
-nivod5.tv,nivod4.tv##+js(set-constant, pageData.__banners.1.commercial.title, '')
-nivod5.tv,nivod4.tv##.img-list > .img-item:has(> a[href*=".ad_click"])
-nivod5.tv,nivod4.tv##a.focus_title_inner[href*=".ad_click"]
-nivod5.tv,nivod4.tv#$?#.img-list > .img-item:has(> a[href*=".ad_click"]) { remove: true; }
-nivod5.tv,nivod4.tv#$?#a.focus_title_inner[href*=".ad_click"] { remove: true; }
 nivod5.tv,nivod4.tv#?#.img-list > .img-item:has(> a[href*=".ad_click"])
+nivod9.tv,nivod8.tv,nivod7.tv,nivod5.tv,nivod4.tv##.img-list > .img-item:has(> a[href*=".ad_click"])
 nizarstream.com,doods.pro,dooood.com,dood.yt,dood.re,dood.wf,dood.la,dood.pm,dood.so,dood.to,dood.watch,dood.ws,60fps.xyz,nowagoal2.xyz,strtapewithadblock.*,player.bizzstreams2u.xyz,tutelehd.net,strtapeadblocker.art,strtapeadblocker.*,metx.me,starlive.xyz,aeblender.com,aileen-novel.online,ytstvmovies.xyz,javhay.net,mrunblock.*,hentaitube.online,ustream.to,freepornxxxhd.com,givemenflstreams.com,givemenbastreams.com,givememmastreams.com,givemeredditstreams.com,shinden.pl,ozporno.com,area51deportiva.com,xxxfree.watch,linksly.co,mhometheater.com##+js(abort-current-script, String.fromCharCode, constructor)
 nlc.gov.cn###lovexin12xx
 nme.com###taboola-below-article
@@ -118691,7 +118698,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 ://ads.$popup,domain=~smartnews.com
 ://ads.$~image,domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.business.bell.ca|~ads.cafebazaar.ir|~ads.colombiaonline.com|~ads.comeon.com|~ads.cs.washington.edu|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.finance|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kazakh-zerno.net|~ads.kifli.hu|~ads.knuspr.de|~ads.lapalingo.com|~ads.listonic.com|~ads.lollipod.de|~ads.magalu.com|~ads.mba|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.nc|~ads.nimses.com|~ads.nipr.ac.jp|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.rohlik.cz|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.twitter.com|~ads.typepad.jp|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.watson.ch|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
 ://ads2.
-://adv.$domain=adv.asahi.com|~adv.asahi.com|~adv.bet|~adv.blue|~adv.chunichi.co.jp|~adv.cincsys.com|~adv.co.it|~adv.cpa-api.ru|~adv.cryptonetlabs.it|~adv.derfunke.at|~adv.design|~adv.digimatix.ru|~adv.ec|~adv.ee|~adv.gg|~adv.hokkaido-np.co.jp|~adv.kompas.id|~adv.lack-girl.com|~adv.mcr.club|~adv.michaelgat.com|~adv.msk.ru|~adv.neosystem.co.uk|~adv.peronihorowicz.com.br|~adv.rest|~adv.ru|~adv.tools|~adv.trinet.ru|~adv.ua|~adv.vg|~adv.vn.ua|~adv.works|~adv.yomiuri.co.jp|~advancedradiology.com|~advids.co|~erti.se|~escreverdireito.com|~farapp.com|~forex-tv-online.com|~pracuj.pl|~r7.com|~typeform.com|~welaika.com
+://adv.$domain=adv.asahi.com|~adv.asahi.com|~adv.bet|~adv.blue|~adv.chunichi.co.jp|~adv.cincsys.com|~adv.co.it|~adv.cpa-api.ru|~adv.cryptonetlabs.it|~adv.derfunke.at|~adv.design|~adv.digimatix.ru|~adv.ec|~adv.ee|~adv.gg|~adv.hokkaido-np.co.jp|~adv.kompas.id|~adv.lack-girl.com|~adv.mcr.club|~adv.mcu.edu.tw|~adv.michaelgat.com|~adv.msk.ru|~adv.neosystem.co.uk|~adv.peronihorowicz.com.br|~adv.rest|~adv.ru|~adv.tools|~adv.trinet.ru|~adv.ua|~adv.vg|~adv.vn.ua|~adv.works|~adv.yomiuri.co.jp|~advancedradiology.com|~advids.co|~erti.se|~escreverdireito.com|~farapp.com|~forex-tv-online.com|~pracuj.pl|~r7.com|~typeform.com|~welaika.com
 ://adv.$popup,domain=~adv.kompas.id|~adv.lack-girl.com
 ://affiliate.$third-party
 ://affiliates.$third-party
