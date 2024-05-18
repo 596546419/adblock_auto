@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: QzsZGb2ZvjVN6tp1lklT8w
+! Checksum: eegbN04qLeNCIXUDYSw6SA
 ! Title: 混合规则(自动更新)
-! Version: 20240518162232
+! Version: 20240519002327
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-18 16:22:32
-! Total Count: 143824
+! Last modified: 2024-05-19 00:23:27
+! Total Count: 143828
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1085,6 +1085,7 @@
 ||2048hd1.com/js/tc.js
 ||204st.us^
 ||205.209.138.102^
+||20519a.xyz^
 ||2066401308.com^
 ||206ads.com^
 ||206solutions.com^
@@ -97861,6 +97862,7 @@ hupu.com##.topPub
 hupu.com##.voice-ad300-250
 hupu.com##.voteIndex
 hupu.com##DIV[class^="game-center-"]
+hupu.com##div[class*="-banner_"]
 hupu.com##div[class*="ad200-200"]
 hupu.com##div[class*="ad240-200"]
 hupu.com##div[class*="ad728-90"]
@@ -103178,6 +103180,7 @@ proboards.com###gravity-stories-1
 probuilds.net##.welcome-bnr
 probuilds.net##a[class^="dl-blitz-"]
 procrackerz.org,torrentdownload.info,freeappstorepc.com,masseurporn.com,rennlist.com,f4freesoftware.com,sadeempc.com,workingkeys.org##center > a[rel="nofollow"] > img
+procyclingstats.com##.mob-ad
 procyclingstats.com##.top-cont
 producebluebook.com##[id^="BBS"]
 producthunt.com##.styles_item__hNPI1
@@ -103581,6 +103584,7 @@ rankedboost.com##.Article-A-Align
 rankedboost.com##.above-article-section
 ranker.com###BLOG_AD_SLOT_1
 ranker.com##.relatedInline_container__Ux4lS
+ranobes.top##.free-support-top
 rapidgatorporn.net##.full-block > center > [href][target="_blank"] > img
 rapidsave.com##.alert.col-md-offset-2
 rappler.com##.rappler-ad-container
