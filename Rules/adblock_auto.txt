@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 3VwtmCdc2r9V/hc7lITzlw
+! Checksum: Kyp86gf/H/+ygxK0YH3P+Q
 ! Title: 混合规则(自动更新)
-! Version: 20240518002348
+! Version: 20240518092100
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-18 00:23:48
-! Total Count: 143791
+! Last modified: 2024-05-18 09:21:00
+! Total Count: 143815
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3470,6 +3470,7 @@
 ||999aa666bb.com^
 ||999bb222ww.com^
 ||999d.com^$third-party
+||999db.cn^
 ||999lotte.com^
 ||999meiju.com/js/tj
 ||999pro.top^
@@ -17540,6 +17541,7 @@
 ||cheddaramusias.life^
 ||cheebetoops.com^
 ||cheecmou.com^
+||cheeghek.xyz^
 ||cheekobsu.com^
 ||cheekysleepyreproof.com^
 ||cheelroo.net^
@@ -20490,6 +20492,7 @@
 ||crackquarrelsomeslower.com^
 ||cracktraumatic.com^
 ||cracktube.net^
+||crackyunfence.com^
 ||cradspbsdarltng.com^
 ||crafthenry.com^$third-party
 ||craftkeys.com^
@@ -21619,6 +21622,7 @@
 ||daibu.me^
 ||daicagrithi.com^
 ||daichoho.com^
+||daichukoah.net^
 ||daicoaky.net^
 ||daikeethoo.com^
 ||daikersscrim.website^
@@ -32269,6 +32273,7 @@
 ||giliakmisdaub.com^
 ||gilinstruggle.org^
 ||gilledwebeye.life^
+||gillnetstold.com^
 ||gillpwiul.com^
 ||gillsapp.com^
 ||gillsisabellaunarmed.com^
@@ -37613,7 +37618,6 @@
 ||idwystdnvb.com^
 ||idy666.com^
 ||idydlesswale.info^
-||idyllicjazz.com^
 ||idynbff.cn^
 ||ie3wisa4.com^
 ||ie8eamus.com^
@@ -45469,6 +45473,7 @@
 ||ljbwzlmzlzbkm.top^
 ||ljcsrrrhvu.com^
 ||ljdlgunextreyk.xyz^
+||ljdofz.xyz^
 ||ljfncdojjuorjxu.com^
 ||ljggc.com^
 ||ljhbhy.cn^
@@ -46891,6 +46896,7 @@
 ||lwhyihajamafu.com^
 ||lwide.xyz^
 ||lwjdefxsrithve.com^
+||lwjje.com^
 ||lwjvyd.com^
 ||lwksxs.com^$third-party
 ||lwlagvxxyyuha.xyz^
@@ -50407,6 +50413,7 @@
 ||mqaqtwkbwcqty.xyz^
 ||mqarrenothanca.xyz^
 ||mqcjqjhy.com^
+||mqcoycx.icu^
 ||mqdeeisghdpd.xyz^
 ||mqjeut5.com^
 ||mqjqripb.xyz^
@@ -56385,6 +56392,7 @@
 ||paradoxfactor.com^$third-party
 ||paragraphdisappointingthinks.com^
 ||paragraphopera.com^
+||parallax.askmediagroup.com^
 ||parallelbulb.com^$third-party
 ||parallelgds.store^
 ||paralyzedepisodetiny.com^
@@ -62461,6 +62469,7 @@
 ||ramp.purch.com^
 ||rampantwork.com^$third-party
 ||rampirepubis.uno^
+||rampjs-cdn.system1.com^
 ||rampmention.com^
 ||rampmetrics.com^
 ||ramtakeout.com^
@@ -62538,6 +62547,7 @@
 ||rapidshookdecide.com^
 ||rapidstats.net^
 ||rapidtrk.net^
+||rapingdistil.com^
 ||rapolok.com^
 ||rapt.com^
 ||raptapee.com^
@@ -66681,6 +66691,7 @@
 ||sentimentalclient.pro^
 ||sentimenthypocrisy.com^
 ||sentimentsvarious.com^
+||sentinelbi.com^
 ||sentinelp.com^
 ||sentrapromosi.com^
 ||sentry.alaatv.com^
@@ -69202,6 +69213,7 @@
 ||sniperlog.ru^
 ||snipersex.com^
 ||sniphub.com^
+||snipishdements.com^
 ||snippystowstool.com^
 ||snippyteevee.com^
 ||snitchgutsdainty.com^
@@ -73928,6 +73940,7 @@
 ||tget.me^
 ||tgfqtwlwts.com^
 ||tggsd07.com^
+||tgidskii.top^
 ||tgjdbx.xyz^
 ||tgknt.com^
 ||tgktw.xyz^
@@ -75008,6 +75021,7 @@
 ||tk.kaufda.de^
 ||tk.mediacategory.com^
 ||tk.meinprospekt.de^
+||tk.pathmonk.com^
 ||tk.promit.ru^
 ||tk0x1.com^
 ||tk668.com^
@@ -77719,6 +77733,7 @@
 ||txfhfdd.cn^
 ||txgeszx.com^
 ||txgg2022bisheng.com^
+||txhfgwgkwt7.asia^
 ||txhrnluuyt.com^
 ||txie.club^
 ||txjhmbn.com^
@@ -79506,6 +79521,7 @@
 ||uyjxzvu.com^
 ||uym11.xyz^
 ||uymahuxv.xyz^
+||uyohyy.xyz^
 ||uyojnhqeipyb.xyz^
 ||uypsmaxzejvpqx.com^
 ||uyq3ruf.icu^
@@ -82918,6 +82934,7 @@
 ||weddingeeos.com^$third-party
 ||wedflossbecause.com^
 ||wedgeac.com^
+||wedgedgeoduck.com^
 ||wedgierbirsit.com^
 ||wednesdaygranddadlecture.com^
 ||wednesdaynaked.com^
@@ -86045,6 +86062,7 @@
 ||xyrkotsqhaf.com^
 ||xyryjt.xyz^
 ||xysgfqnara.xyz^
+||xytcboyz.icu^
 ||xytom.com^
 ||xyvjkdec.com^
 ||xywy.com/gk?a=
@@ -88396,6 +88414,7 @@
 ||zoxkljeicxi.com^
 ||zoykzjaqaajrj.top^
 ||zozolilla.com^
+||zozwnv.xyz^
 ||zp0737.com^
 ||zp1999.online^
 ||zp265.com^$third-party
@@ -89865,7 +89884,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 4c.cn##div[id^="mid_ad"]
 4c.cn##div[id^="top_ad"]
 4chan.org###abc-cnt
-4chan.org,americaoutloud.com,analyticsindiamag.com,autoaction.com.au,cryptoreporter.info,dafont.com,forexmt4indicators.com,gamblingnewsmagazine.com,irishcatholic.com,tntribune.com,tryorthokeys.com##[width="728"]
+4chan.org,americaoutloud.com,analyticsindiamag.com,artificialintelligence-news.com,autoaction.com.au,cryptoreporter.info,dafont.com,forexmt4indicators.com,gamblingnewsmagazine.com,irishcatholic.com,tntribune.com,tryorthokeys.com##[width="728"]
 4chan.org,boards.4chan.org,boards.4channel.org##.danbo-slot
 4dayweek.io##.notadvert-tile-wrapper
 4f.to,furbooru.org###imagespns
@@ -96622,6 +96641,8 @@ ghxi.com##.entry-content > div[style^="position:"]
 ghxi.com##div[style^="padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index"]
 ghxi.com#$#.wpcom_ad_wrap { position: absolute !important; left: -3000px !important; }
 ghxi.com,mcdulll.com,pixnet.net##div[id*="-ad-"]
+giantfood.com,martinsfoods.com##[aria-label^="Sponsored"]
+giantfood.com,martinsfoods.com##[data-product-id]:has(.flag_label--sponsored)
 giantfreakinrobot.com###playwire-homepage-takeover-leaderboard
 giantfreakinrobot.com##.pw-leaderboard-atf-container
 giantfreakinrobot.com##.pw-leaderboard-btf-container
@@ -106072,6 +106093,7 @@ titanwolf.org##.col-md-4 > .card-raised > .card-body
 tj.xinhuanet.com##.xhdf_num1_col3
 tlanyan.me###id_ad_field
 tld-list.com##div.row > .text-center > .ib
+tlgrm.eu##.channel-card--promoted
 tmall.com###J_BottomSmartBanner
 tmall.com###J_Recommend
 tmall.com##.app-download-popup
@@ -123255,6 +123277,8 @@ zle.com$script
 ###adslot5
 ###adslot6
 ###adslot7
+###adslot_1
+###adslot_2
 ###adslot_left
 ###adslot_rect
 ###adslot_top

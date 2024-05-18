@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: llVKv9LIF6wmU5/Y86Akyg
+! Checksum: z5SLw4jJz3Q3HweKxL1/+Q
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240518002359
+! Version: 20240518092112
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-18 00:23:59
-! Total Count: 27726
+! Last modified: 2024-05-18 09:21:12
+! Total Count: 27734
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1265,6 +1265,7 @@
 ||999aa666bb.com^
 ||999bb222ww.com^
 ||999d.com^$third-party
+||999db.cn^
 ||999meiju.com/js/tj
 ||999pro.top^
 ||999xs.com/*/1xhtml?
@@ -10299,6 +10300,7 @@
 ||lixonj.xyz^
 ||lizardslaugh.com^$third-party
 ||lizijing12.top^
+||ljdofz.xyz^
 ||ljhbhy.cn^
 ||ljnrjt.xyz^
 ||ljpbtjq.xyz^
@@ -11131,6 +11133,7 @@
 ||mpymea.xyz^
 ||mq.d6s3mov.cn^$third-party
 ||mq65.top^
+||mqcoycx.icu^
 ||mqjeut5.com^
 ||mqjqripb.xyz^
 ||mql5.com/rq?
@@ -14845,6 +14848,7 @@
 ||tgcfmh.com^
 ||tgdopodk.com^
 ||tggsd07.com^
+||tgidskii.top^
 ||tgjdbx.xyz^
 ||tgryfh.xyz^
 ||tgvgzt.xyz^
@@ -15300,6 +15304,7 @@
 ||txahz.com/static/image/tp/
 ||txbhhh.xyz^
 ||txcv68f.com^
+||txhfgwgkwt7.asia^
 ||txmeeqz.icu^
 ||txphjl.xyz^
 ||txzepl.xyz^
@@ -15659,6 +15664,7 @@
 ||uydzfldt.xyz^
 ||uym11.xyz^
 ||uymahuxv.xyz^
+||uyohyy.xyz^
 ||uyq3ruf.icu^
 ||uysdxmo.com^
 ||uyt79.top^
@@ -16832,6 +16838,7 @@
 ||xyplxx.2gks.com^$domain=9xav.cc
 ||xyqmy.xyz^
 ||xyryjt.xyz^
+||xytcboyz.icu^
 ||xywy.com/gk?a=
 ||xywy.com/zhixing/
 ||xyzyqq.com^
@@ -17551,6 +17558,7 @@
 ||zoukankan.com^$csp=script-src 'self' * 'unsafe-eval'
 ||zouqiuyyds.com^
 ||zoute.cyou^
+||zozwnv.xyz^
 ||zp0737.com^
 ||zpcj8.online^
 ||zpgjz.com/cdn/new1/4.gif
