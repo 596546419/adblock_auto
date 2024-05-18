@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Kyp86gf/H/+ygxK0YH3P+Q
+! Checksum: QzsZGb2ZvjVN6tp1lklT8w
 ! Title: 混合规则(自动更新)
-! Version: 20240518092100
+! Version: 20240518162232
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-18 09:21:00
-! Total Count: 143815
+! Last modified: 2024-05-18 16:22:32
+! Total Count: 143824
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -603,6 +603,7 @@
 ||1338999.com^
 ||134.73.54.252^
 ||1342a.com/js/jquery.js
+||1350c3.xyz^
 ||136.0.56.196^
 ||1368999.com^
 ||137.175.69.92^
@@ -24697,6 +24698,7 @@
 ||ds3.biz^
 ||ds7hds92.de^
 ||ds9e.top^
+||dsa22.com^
 ||dsandmaroons.com^
 ||dsas.danawa.com^
 ||dsb.yahoo.co.jp^
@@ -47911,7 +47913,9 @@
 ||matomo.cloudfront.similarweb.io^
 ||matomo.goteborgco.se^
 ||matomo.lulea.se^
+||matomo.menshealth.de^
 ||matomo.mindbite.cloud^
+||matomo.motorpresse.de^
 ||matomo.quan.hoabinh.vn^
 ||matomo.shoppersguide.com.ph^
 ||matomo.similarweb.io^
@@ -48986,6 +48990,7 @@
 ||miamribud.com^
 ||mianbao99.com/a/mianbao
 ||mianwww.com/wp-content/uploads/2014/05/insigmaedu1.gif
+||mianyaojsj.com^
 ||miaolejieshui.cn^
 ||miaorentang.xyz^
 ||miaoshangmanhua.com/template/pc/skin01/images/250_250.
@@ -77733,7 +77738,9 @@
 ||txfhfdd.cn^
 ||txgeszx.com^
 ||txgg2022bisheng.com^
+||txhfgwgkwt*.asia^
 ||txhfgwgkwt7.asia^
+||txhfgwgkwt8.asia^
 ||txhrnluuyt.com^
 ||txie.club^
 ||txjhmbn.com^
@@ -88887,7 +88894,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 100bt.com##.aolasidebar__ad1
 100ec.cn##.detail_top_ad
 100ksw.com###ad_move_sg
-100percentfedup.com,180gadgets.com,247media.com.ng,academicful.com,addapinch.com,alltechnerd.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,asurascans.com,australiangeographic.com.au,autodaily.com.au,bigleaguepolitics.com,borncity.com,boxingnews24.com,browserhow.com,charlieintel.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,coincodecap.com,conservativebrief.com,cookingwithdog.com,corrosionhour.com,crimereads.com,cryptobriefing.com,cryptopotato.com,cryptoreporter.info,cryptoslate.com,dafontfree.io,dailynewshungary.com,dcenquirer.com,dexdotexe.com,dorohedoro.online,epicdope.com,eurweb.com,exeo.app,fandomwire.com,fap-nation.com,firstsportz.com,flickeringmyth.com,flyingmag.com,freemagazines.top,fyptt.to,gadgetinsiders.com,gamegill.com,gameinfinitus.com,gamertweak.com,gatewaynews.co.za,geekdashboard.com,getdroidtips.com,goodyfeed.com,greekreporter.com,hard-drive.net,hdmovies4u.live,hollywoodinsider.com,hollywoodunlocked.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,japaneseasmr.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,jujustukaisen.com,libertyunlocked.com,linuxfordevices.com,lithub.com,mb.com.ph,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,nationalfile.com,nintendoeverything.com,notalwaysright.com,nsw2u.com,organicfacts.net,patriotfetch.com,premiumtimesng.com,protrumpnews.com,pureinfotech.com,quickanswer.blog,redrightvideos.com,reneweconomy.com.au,reptilesmagazine.com,respawnfirst.com,rezence.com,roadaheadonline.co.za,rok.guide,sciencenotes.org,sdnews.com,simscommunity.info,small-screen.co.uk,storypick.com,streamingbetter.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techpp.com,techrounder.com,techviral.net,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,thewincentral.com,trendingpolitics.com,trendingpoliticsnews.com,twistedvoxel.com,videogamer.com,vjmedia.com.hk,walletinvestor.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,win.gg,wisden.com,wnd.com,zerohanger.com##.code-block
+100percentfedup.com,180gadgets.com,247media.com.ng,academicful.com,addapinch.com,alltechnerd.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,asurascans.com,australiangeographic.com.au,autodaily.com.au,bigleaguepolitics.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,charlieintel.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,coincodecap.com,conservativebrief.com,cookingwithdog.com,corrosionhour.com,crimereads.com,cryptobriefing.com,cryptopotato.com,cryptoreporter.info,cryptoslate.com,dafontfree.io,dailynewshungary.com,dcenquirer.com,dexdotexe.com,dorohedoro.online,epicdope.com,eurweb.com,exeo.app,fandomwire.com,fap-nation.com,firstsportz.com,flickeringmyth.com,flyingmag.com,freemagazines.top,fyptt.to,gadgetinsiders.com,gamegill.com,gameinfinitus.com,gamertweak.com,gatewaynews.co.za,geekdashboard.com,getdroidtips.com,goodyfeed.com,greekreporter.com,hard-drive.net,hdmovies4u.live,hollywoodinsider.com,hollywoodunlocked.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,japaneseasmr.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,jujustukaisen.com,libertyunlocked.com,linuxfordevices.com,lithub.com,mb.com.ph,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,nationalfile.com,nintendoeverything.com,notalwaysright.com,nsw2u.com,organicfacts.net,patriotfetch.com,premiumtimesng.com,protrumpnews.com,pureinfotech.com,quickanswer.blog,redrightvideos.com,reneweconomy.com.au,reptilesmagazine.com,respawnfirst.com,rezence.com,roadaheadonline.co.za,rok.guide,sciencenotes.org,sdnews.com,simscommunity.info,small-screen.co.uk,storypick.com,streamingbetter.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techpp.com,techrounder.com,techviral.net,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,thewincentral.com,trendingpolitics.com,trendingpoliticsnews.com,twistedvoxel.com,videogamer.com,vjmedia.com.hk,walletinvestor.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,win.gg,wisden.com,wnd.com,zerohanger.com##.code-block
 101.ru##.showMessageAdBlock
 1010dy3.com###arBRyGHxuDYU
 1010dy3.com##.text-center[style]
@@ -92539,6 +92546,7 @@ briian.com##.sidebar-widget-area > #custom_html-6
 briian.com##div[class^="hentry-gad-mobile"]
 brila.net,cgmagonline.com,cycling.today,gayexpress.co.nz,theyeshivaworld.com,thisisanfield.com##.td-banner-wrap-full
 brisbanetimes.com.au,smh.com.au,theage.com.au,watoday.com.au###articlePartnerStories
+brisbanetimes.com.au,smh.com.au,theage.com.au,watoday.com.au##[class] > :has(> .adWrapper)
 brisbanetimes.com.au,smh.com.au,watoday.com.au##._2gSkZ
 britannica.com##.bc-article-inline-dialogue
 britannica.com,merriam-webster.com##.abl
@@ -104110,6 +104118,7 @@ seattlepi.com##.hnpad-Inline
 seattlepi.com##.pt40
 seattlepi.com##.y100.package
 seattlepride.org##.section_sponsorship
+seattletimes.com##.st-theticket-promo
 seattleweekly.com#?#.marketplace-row:-abp-contains(Sponsored)
 secretchicago.com##.google-ad-manager-ads-header
 secretchicago.com##.smn-new-gpt-ad

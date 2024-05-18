@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: z5SLw4jJz3Q3HweKxL1/+Q
+! Checksum: vHPZ9YDhbkobZbhhiIB4UQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240518092112
+! Version: 20240518162244
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-18 09:21:12
-! Total Count: 27734
+! Last modified: 2024-05-18 16:22:44
+! Total Count: 27738
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6323,6 +6323,7 @@
 ||drydrum.com^$third-party
 ||drzgtli.com^
 ||ds1.kaijia.com^
+||dsa22.com^
 ||dsbfpt.xyz^
 ||dsbjdeh.cn^
 ||dsbqvj.xyz^
@@ -10898,6 +10899,7 @@
 ||mhzftye.xyz^
 ||mi.gdt.qq.com^
 ||mianbao99.com/a/mianbao
+||mianyaojsj.com^
 ||miaoshangmanhua.com/template/pc/skin01/images/250_250.
 ||miaozhen.com^$third-party
 ||micaitu.net/js/dibu.js
@@ -15304,7 +15306,9 @@
 ||txahz.com/static/image/tp/
 ||txbhhh.xyz^
 ||txcv68f.com^
+||txhfgwgkwt*.asia^
 ||txhfgwgkwt7.asia^
+||txhfgwgkwt8.asia^
 ||txmeeqz.icu^
 ||txphjl.xyz^
 ||txzepl.xyz^
