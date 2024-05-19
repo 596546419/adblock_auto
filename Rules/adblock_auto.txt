@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: HhCnX7ES3ThMPnuzMVz6pw
+! Checksum: y3yXjoeUWga/ANiVC6om8A
 ! Title: 混合规则(自动更新)
-! Version: 20240519162300
+! Version: 20240520002340
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-19 16:23:00
-! Total Count: 143850
+! Last modified: 2024-05-20 00:23:40
+! Total Count: 143856
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2513,6 +2513,7 @@
 ||62mao.com/52
 ||63007.com:82/haodxi.js
 ||6318537ccc.com^
+||634369.xyz^
 ||6347032d45.com^
 ||6399tp.com^
 ||63ef.com^*.js
@@ -25865,6 +25866,7 @@
 ||edwate.com^
 ||edwfdhkgnx.com^
 ||edxfquupejhbrey.com^
+||edzwmobmj.com^
 ||edzyhx.cn^
 ||ee-softs.com^
 ||ee.32z8d.cn^
@@ -102025,6 +102027,7 @@ onemanhua.com##div[id^="rn_ad_native"]
 onenews.vip
 onepagerules.com##.wp-container-6.wp-block-columns
 onetransistor.eu##a[onclick][target="_blank"]
+online-convert.com##.banner-ad-size
 online-translator.com###rightAdvBlock
 online-translator.com##.mddlAdvBlock
 online-xxxmovies.com##.middle-spots
@@ -105197,6 +105200,7 @@ stuff.tv##.c-ad--mpu-bottom
 stuff.tv##.c-ad--mpu-top
 stuff.tv##.c-ad--rightpageskin
 stuff.tv##.c-freestar-video-ad__container
+stupiddope.com##.text-6
 stylecraze.com##.fx-flying-carpet
 stylist.co.uk##.css-17xu4dw
 stylist.co.uk##.css-1fz837r
@@ -108212,7 +108216,9 @@ yam.com##div[id^="adgshp"]
 yamibo.com##a[href*="xqsp.club"]
 yamol.tw##.panel[style="text-align:left;width:100%;padding:0px;background-color:white"]
 yandex.by,yandex.com,yandex.com.tr,yandex.eu,yandex.fr,yandex.kz,yandex.net,yandex.ru,yandex.ua,yandex.uz##div[id^="yandex_ad"]
+yandex.com##.AdvOffers
 yandex.com##.DirectFeature
+yandex.com##li[class$="_card"]:has(a[href^="https://yandex.com/search/_crpd/"])
 yandex.kz,yandex.ru,yandex.com,yandex.fr,yandex.com.tr,yandex.ru,yandex.by,yandex.eu,yandex.net,yandex.uz,yandex.ua##.ImagesTouchViewer-DirectSkeleton.SimpleSkeleton
 yandex.kz,yandex.ru,yandex.com,yandex.fr,yandex.com.tr,yandex.ru,yandex.by,yandex.eu,yandex.net,yandex.uz,yandex.ua##.i-bem.justifier__incut_fixed
 yandex.kz,yandex.ru,yandex.com,yandex.fr,yandex.com.tr,yandex.ru,yandex.by,yandex.eu,yandex.net,yandex.uz,yandex.ua##.images-viewer-content2__behavioral-direct
@@ -115876,7 +115882,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /img/ad-
 /img/ad.
 /img/ad/*
-/img/ad/*$~xmlhttprequest
+/img/ad/*$~xmlhttprequest,domain=~weblio.jp
 /img/ad_$domain=~kazi.co.jp|~rakuten.co.jp
 /img/ads/*$domain=~save.ca
 /img/adv.
