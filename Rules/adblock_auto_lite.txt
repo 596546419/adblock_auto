@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ZtcO3wOSQ16+1CocnCDxSw
+! Checksum: 9WNAh3kafNLpfQD2kLkXkw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240519002339
+! Version: 20240519092646
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-19 00:23:39
-! Total Count: 27738
+! Last modified: 2024-05-19 09:26:46
+! Total Count: 27744
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1266,6 +1266,7 @@
 ||999bb222ww.com^
 ||999d.com^$third-party
 ||999db.cn^
+||999fb.cn^
 ||999meiju.com/js/tj
 ||999pro.top^
 ||999xs.com/*/1xhtml?
@@ -7164,6 +7165,7 @@
 ||fortunatemark.com^$third-party
 ||fortxfq.cn^
 ||forum.lowyat.net/random-mobile.php
+||foscvbu.icu^
 ||fotao9.com^
 ||fotaxf.xyz^
 ||fotoable.com/Advertise/
@@ -10353,6 +10355,7 @@
 ||lniwe.xyz^
 ||lnnjnv.xyz^
 ||lnpqqq.com^
+||lnxkrd.xyz^
 ||lnxpdj.xyz^
 ||lnzjlr.xyz^
 ||lnzqw.net/js/
@@ -10433,6 +10436,7 @@
 ||lsnzxzy1.com/Runtime/js/psData.js
 ||lsr62.qtd95fj.online^$third-party
 ||ltbyw.top/data/images/*.gif
+||ltfpbp.xyz^
 ||lthmfx.xyz^
 ||ltienll.top^
 ||ltkbyfd.icu^
@@ -11903,6 +11907,7 @@
 ||owyame.xyz^
 ||ox8.topsexhdvideos.com^
 ||oxkyaq.xyz^
+||oxmvcg.xyz^
 ||oxrvfsi.xyz^
 ||oxvlxwz.xyz^
 ||oyfnkle.cn^
@@ -15450,6 +15455,7 @@
 ||uflybplr.xyz^
 ||ufz.doesxyz.com^
 ||ugbler.icu^
+||ugidskit.top^
 ||ugkpsi.xyz^
 ||ugolue.xyz^
 ||ugpibtpk.xyz^

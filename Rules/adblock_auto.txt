@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: eegbN04qLeNCIXUDYSw6SA
+! Checksum: +YK4XpT9QSnZwPQ24wOEqQ
 ! Title: 混合规则(自动更新)
-! Version: 20240519002327
+! Version: 20240519092634
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-19 00:23:27
-! Total Count: 143828
+! Last modified: 2024-05-19 09:26:34
+! Total Count: 143846
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1646,6 +1646,7 @@
 ||354664.top^
 ||3562wsgkbcm.xyz^
 ||35722e75b1.com^
+||357dbd24e2.com^
 ||35kds.com^
 ||35vc.com^
 ||35volitantplimsoles5.com^
@@ -3473,6 +3474,7 @@
 ||999bb222ww.com^
 ||999d.com^$third-party
 ||999db.cn^
+||999fb.cn^
 ||999lotte.com^
 ||999meiju.com/js/tj
 ||999pro.top^
@@ -19695,6 +19697,7 @@
 ||consciouschairs.com^$third-party
 ||consciouscheese.com^$third-party
 ||consciousdirt.com^$third-party
+||consciousness2.fun^
 ||consciousnessmost.com^
 ||consciousslice.com^
 ||consecutionwrigglesinge.com^
@@ -26836,6 +26839,7 @@
 ||eofemms.cn^
 ||eofripvanwin.org^
 ||eofst.com^
+||eoftheappyrinc.info^
 ||eogaeapolaric.com^
 ||eol.cn/e_busi/
 ||eol.cn/e_images/gk/jnc
@@ -27368,6 +27372,7 @@
 ||eu.thtk.temu.com^
 ||euadsapi.manhuaren.com^
 ||euahvyde.xyz^
+||euauosx.xyz^
 ||euavokhqrxhteot.com^
 ||eucing.com^
 ||eucleidclarty.cfd^
@@ -28512,6 +28517,7 @@
 ||fapmeth.com^
 ||fapp.pw^
 ||fappwopyaw.com^
+||fapstered.com^
 ||faptdsway.ru^
 ||faquanya.com/weixin/
 ||faquirrelot.com^
@@ -29837,6 +29843,7 @@
 ||fmkqhwrfvs.com^
 ||fmnetwork.nl^
 ||fmocscbstnhbq.com^
+||fmoqabrwef.com^
 ||fmorugnmnihrcv.com^
 ||fmpub.net^
 ||fmre1.com^
@@ -30197,6 +30204,7 @@
 ||foryanmachan.com^
 ||forzslodge.com^
 ||forzubatr.com^
+||foscvbu.icu^
 ||fosiecajeta.com^
 ||fositeth.com^
 ||fossagetentie.top^
@@ -33805,6 +33813,7 @@
 ||gt.duowan.com^
 ||gt.yy.com^
 ||gt091102204euc.click^
+||gt5tiybvn.com^
 ||gta5moneygen.online^
 ||gtags.net^
 ||gtbdhr.com^
@@ -34071,6 +34080,7 @@
 ||gussimsosurvey.space^
 ||gustdertrum.com^
 ||gustilyoblate.uno^
+||gutazngipaf.com^
 ||gutchauzaugh.com^
 ||gutjfeskwfk.xyz^
 ||gutobtdagruw.com^
@@ -45698,6 +45708,7 @@
 ||lnvabjwmrlmzb.top^
 ||lnwow.co/1.
 ||lnwow.net/1.gif
+||lnxkrd.xyz^
 ||lnxpdj.xyz^
 ||lnyajvutvvirw.xyz^
 ||lnzjlr.xyz^
@@ -46629,6 +46640,7 @@
 ||ltedinncreasuke.org^
 ||ltengronsa.com^
 ||lteyrcwpoh.xyz^
+||ltfpbp.xyz^
 ||lthmfx.xyz^
 ||ltht.tech^
 ||lthwsj.com^
@@ -50534,6 +50546,7 @@
 ||msgtag.com^
 ||mshago.com^
 ||mshues.com^
+||msidxwkjfqbrq.com^
 ||msiogo.xyz^
 ||msjj.tech^
 ||mskjtggjwix.com^
@@ -55882,6 +55895,7 @@
 ||oxmoonlint.com^
 ||oxmqzeszyo.com^
 ||oxmun.com^
+||oxmvcg.xyz^
 ||oxneww.co^
 ||oxnhhswdzwam.com^
 ||oxrm.com^$third-party
@@ -61210,6 +61224,7 @@
 ||qetskupyka61.shop^
 ||qeuckn.icu^
 ||qewylqmaqezzj.top^
+||qezehqcicx.com^
 ||qezpjlp.cn^
 ||qf1d.top^
 ||qfaaokr.icu^
@@ -73308,6 +73323,7 @@
 ||tastenfts.com^
 ||tasterscaltha.com^
 ||tastesnake.com^$third-party
+||tastesnlynotqui.info^
 ||tastesscalp.com^
 ||tastierxyphoid.com^
 ||tasty-election.com^
@@ -73580,6 +73596,7 @@
 ||tecuil.com^
 ||ted.dailymail.co.uk^
 ||teddedskeich.com^
+||teddersbeys.com^
 ||teddynineteenthpreoccupation.com^
 ||tedious-weight.pro
 ||tediousbear.com^$third-party
@@ -78198,6 +78215,7 @@
 ||ughhimtoy.com^
 ||ughtcallmeocapl.xyz^
 ||ughzfjx.com^
+||ugidskit.top^
 ||ugkmihh.cn^
 ||ugkmjojhgtqcohf.com^
 ||ugkpsi.xyz^
@@ -93341,7 +93359,6 @@ cnbeta.com###cb_share > .fl
 cnbeta.com###job_box
 cnbeta.com###right1
 cnbeta.com###upcoming_box
-cnbeta.com##.article-global
 cnbeta.com##.article-topic
 cnbeta.com##.cb-help
 cnbeta.com##.cbhelp
@@ -93373,6 +93390,7 @@ cnbeta.com#?#.item:-abp-has(> dL > a[href^="https://ad.doubleclick.net/"])
 cnbeta.com#?#.item:-abp-has(> dl > dt > a[href*=".greatroma.com"])
 cnbeta.com#?#.item:-abp-has(> dl > dt > a[href^="http://click.aliyun.com/"])
 cnbeta.com#?#.items-area > .item:-abp-has(> dl > dt > a[href^="http"]:not([href*="cnbeta."]))
+cnbeta.com,cnbeta.com.tw##.article-global
 cnbeta.com,cnbeta.com.tw##.cbv:not(#cb_share)
 cnbeta.com,cnbeta.com.tw##.tks
 cnbeta.com,cnbeta.com.tw,qudong.com##a[href*=".ctyun."]
