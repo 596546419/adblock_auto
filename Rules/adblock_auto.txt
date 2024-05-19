@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: +YK4XpT9QSnZwPQ24wOEqQ
+! Checksum: HhCnX7ES3ThMPnuzMVz6pw
 ! Title: 混合规则(自动更新)
-! Version: 20240519092634
+! Version: 20240519162300
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-19 09:26:34
-! Total Count: 143846
+! Last modified: 2024-05-19 16:23:00
+! Total Count: 143850
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8617,6 +8617,7 @@
 ||analytics.appsbnet.com.br^
 ||analytics.appservice.tech^
 ||analytics.archive.org^
+||analytics.arvika.se^
 ||analytics.asiatech.ir^
 ||analytics.atlassian.com^
 ||analytics.audioeye.com^
@@ -102407,6 +102408,7 @@ phillyvoice.com##.article-sponsor-sticky
 phillyvoice.com##.native-sponsor
 phimsexmoi.biz###text-2[style*="left: 0px; top: 0px;"]
 phone-book.tw##+js(remove-node-text, script, yumayishop)
+phonearena.com##.announcements
 phonearena.com##.heading-deal
 phonearena.com##.pa-sticky-container
 phonearena.com##.spot-sticky-container
@@ -105413,6 +105415,7 @@ tech-latest.com##.tdi_102_e06
 tech-latest.com##[href="https://tech-latest.com/go/nordvpn"]
 tech.hindustantimes.com##.ProductAffilateWrapper
 tech.hindustantimes.com##.adsHeight720x90
+tech.hindustantimes.com##.amazonWidget
 tech.hindustantimes.com##.m-to-add
 tech.hindustantimes.com##.primeDay
 tech.hindustantimes.com##.sponsoredBox
@@ -136480,6 +136483,7 @@ zle.com$script
 ##.onethirdadholder
 ##.onf-ad
 ##.online-ad
+##.online-ad-container
 ##.oovvuu-embed-player
 ##.opaAd
 ##.opd_adsticky
