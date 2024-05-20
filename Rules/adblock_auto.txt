@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: y3yXjoeUWga/ANiVC6om8A
+! Checksum: QfeHCqUzxernZreCu8mHvQ
 ! Title: 混合规则(自动更新)
-! Version: 20240520002340
+! Version: 20240520092214
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-20 00:23:40
-! Total Count: 143856
+! Last modified: 2024-05-20 09:22:14
+! Total Count: 143865
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5927,6 +5927,7 @@
 ||ads.salemall.vn^
 ||ads.samsung.com^
 ||ads.senmanga.com^
+||ads.seovietnam.pro^
 ||ads.sexier.com^$popup
 ||ads.sexyland.vn^
 ||ads.sibernetworks.com^
@@ -7601,6 +7602,7 @@
 ||ajjkmoyjlbjj.top^
 ||ajjwuunaxq.com^
 ||ajkcdpm.cn^
+||ajkggo.xyz^
 ||ajkjbcjbaaaed.com^
 ||ajkjbcjbaaaed.com^$third-party
 ||ajkzd9h.com^
@@ -43782,6 +43784,7 @@
 ||kzknjdlalls.com^
 ||kzngisyd.xyz^
 ||kznizrhd.xyz^
+||kzpizjp.cn^
 ||kzprugp.xyz^
 ||kzt2afc1rp52.com^
 ||kzuxlydg.icu^
@@ -54267,6 +54270,7 @@
 ||oghqvffmnt.com^
 ||oghub.io^
 ||ogicatius.com^
+||ogidskik.top^
 ||ogkfuw.xyz^
 ||ogle-0740lb.com^
 ||oglooque.com^
@@ -73478,6 +73482,7 @@
 ||tdfkidmyynbqu.com^
 ||tdgtkqtluuhjcfw.com^
 ||tdhlmto.cn^
+||tdhnxf.xyz^
 ||tdid.m.qq.com^
 ||tdjc.shop^
 ||tdjdpyrt.xyz^
@@ -86533,6 +86538,7 @@
 ||yhhnjg.com^
 ||yhhrtgltcfta.com^
 ||yhilnc.cn^
+||yhimpnr.icu^
 ||yhjccj.cn^
 ||yhjh04.com^
 ||yhjhjwy.com^
@@ -95427,6 +95433,7 @@ euronews.com##.m-object:has(.m-object__sponsored-quote)
 euronews.com##.qa-dfpLeaderBoard
 europeangaming.eu###mvp-leader-wrap > a[href^="https://www.softswiss.com/"]
 europeanpharmaceuticalreview.com##.europ-fixed-footer
+eurosport.com##.reform-top-container
 euroweeklynews.com###banner-970
 euroweeklynews.com##[data-revive-zoneid]
 euroxxx.net,theneworleanstribune.com###block-15
@@ -108218,6 +108225,8 @@ yamol.tw##.panel[style="text-align:left;width:100%;padding:0px;background-color:
 yandex.by,yandex.com,yandex.com.tr,yandex.eu,yandex.fr,yandex.kz,yandex.net,yandex.ru,yandex.ua,yandex.uz##div[id^="yandex_ad"]
 yandex.com##.AdvOffers
 yandex.com##.DirectFeature
+yandex.com##div[aria-label="Ad"]
+yandex.com##div[data-name="adWrapper"]
 yandex.com##li[class$="_card"]:has(a[href^="https://yandex.com/search/_crpd/"])
 yandex.kz,yandex.ru,yandex.com,yandex.fr,yandex.com.tr,yandex.ru,yandex.by,yandex.eu,yandex.net,yandex.uz,yandex.ua##.ImagesTouchViewer-DirectSkeleton.SimpleSkeleton
 yandex.kz,yandex.ru,yandex.com,yandex.fr,yandex.com.tr,yandex.ru,yandex.by,yandex.eu,yandex.net,yandex.uz,yandex.ua##.i-bem.justifier__incut_fixed

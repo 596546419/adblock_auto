@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: zZHJJOri7tdUY2Jsw9OWDg
+! Checksum: VhKJg5LFHB4Q7uSkd1+HCQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240520002352
+! Version: 20240520092225
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-20 00:23:52
-! Total Count: 27744
+! Last modified: 2024-05-20 09:22:25
+! Total Count: 27748
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3301,6 +3301,7 @@
 ||ajfkwwpo.xyz^
 ||ajghca.xyz^
 ||ajijcy.xyz^
+||ajkggo.xyz^
 ||ajkjbcjbaaaed.com^
 ||ajkjbcjbaaaed.com^$third-party
 ||ajtdumo.cn^$third-party
@@ -10005,6 +10006,7 @@
 ||kzepp.com^
 ||kzeww.com^
 ||kznizrhd.xyz^
+||kzpizjp.cn^
 ||kzprugp.xyz^
 ||kzuxlydg.icu^
 ||l.qq.com/lview?
@@ -11724,6 +11726,7 @@
 ||ofkcww.xyz^
 ||ofweek.com/pop/ad/
 ||og.zyzjpx.cn^$third-party
+||ogidskik.top^
 ||ogkfuw.xyz^
 ||ogmjhve.cn^
 ||ogouawc.cn^
@@ -16981,6 +16984,7 @@
 ||yhgpuxim.xyz^
 ||yhgumcr.xyz^
 ||yhhnjg.com^
+||yhimpnr.icu^
 ||yhjh04.com^
 ||yhlpshi.xyz^
 ||yhlzadr.xyz^
