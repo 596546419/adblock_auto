@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Jtb6lnujOgim111kuP3Blg
+! Checksum: 9SJ76WQbrZmLamJezkG8OA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240520162538
+! Version: 20240521002546
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-20 16:25:38
-! Total Count: 27750
+! Last modified: 2024-05-21 00:25:46
+! Total Count: 27752
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3875,6 +3875,7 @@
 ||ax1x.com/2020/06/14/NSoyHe.png
 ||ax1x.com^$domain=caibaojian.com|hktvyb.com|zzvips.com
 ||ax7fv.space^
+||axa123.com^
 ||axhfeum.xyz^
 ||axiomaticalley.com^$third-party
 ||axiomaticanger.com^$third-party
@@ -10410,6 +10411,7 @@
 ||loveshang.com/api.php?mod=ad&adid=custom_
 ||lovespenhas.com^
 ||lowlocket.com^$third-party
+||lozmtk.cn^
 ||lp3tdqle.com^$third-party
 ||lppgjf.xyz^
 ||lpxmall.com^
