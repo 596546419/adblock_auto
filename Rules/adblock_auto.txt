@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: QfeHCqUzxernZreCu8mHvQ
+! Checksum: PlU5nomXml66WaJwdQcCTQ
 ! Title: 混合规则(自动更新)
-! Version: 20240520092214
+! Version: 20240520162527
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-20 09:22:14
-! Total Count: 143865
+! Last modified: 2024-05-20 16:25:27
+! Total Count: 143878
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -72993,6 +72993,7 @@
 ||tags.soloway.ru^
 ||tagsadvancenative-glb8iionio2cozc.netdna-ssl.com^
 ||tagsrvcs.com^
+||tagtoo.co^$third-party
 ||tagtracking.vibescm.com^
 ||tagtray.com^
 ||tagun.xyz^
@@ -78737,6 +78738,7 @@
 ||units.knotch.it^
 ||unitsympathetic.com^
 ||unityads.unity3d.com^
+||universal.wgplayer.com^
 ||universalappend.com^
 ||universalbooklet.com^
 ||universaldatedimpress.com^
@@ -84293,6 +84295,7 @@
 ||wpadmngr.com^
 ||wpadmngr.com^$third-party,important
 ||wparcunnv.xyz^
+||wpb.wgplayer.com^
 ||wpbeyqjfg.com^
 ||wpcgyoyq.com^
 ||wpcjyxwdsu.xyz^
@@ -90551,6 +90554,7 @@ academictorrents.com###carbon
 academictorrents.com##[src^="/pic/sponsors/"]
 acc39.com##.player_ggw
 accessnow.org##.alert-banner
+accessonline.com##.article__content__desktop_banner
 accesswdun.com##.ad-slider-block
 accesswdun.com##a[href^="https://tinyurl.com"] > img
 accuradio.com###pl_leaderboard
@@ -91040,7 +91044,8 @@ androidauthority.com##.--qc
 androidauthority.com##.-Ci
 androidauthority.com##.-Yc
 androidauthority.com##._--_-___Pb
-androidauthority.com##._--_-___Qb
+androidauthority.com##._--_-___Yb
+androidauthority.com##._--_-___Zb
 androidauthority.com##.andro-in-article-sidebar-desktop-placement
 androidauthority.com##.andro-mid-article-placement
 androidauthority.com##a[data-sel="dealbar-link"]
@@ -93595,6 +93600,7 @@ coingape.com##.SponserdBtn
 coingape.com##.desktopds
 coingape.com##.dfd
 coingape.com##.diplay-m-ad
+coingape.com##.image-ads
 coingape.com##.stcikyright
 coingape.com,dailyboulder.com,townflex.com##.quads-location
 coingax.com###wcfloatDiv4
@@ -96188,8 +96194,8 @@ ftv-news.com##[href^="https://www.outsourcingall.com/"]
 ftvlive.com###sidebar-one-wrapper
 ftvlive.com##.sqs-block-image-link
 ftvnews.com.tw##div[id^="div_gpt_"]
-ftw.usatoday.com,mmajunkie.usatoday.com###acm-ad-tag-lawrence_dfp_desktop_arkadium
-ftw.usatoday.com,mmajunkie.usatoday.com###acm-ad-tag-lawrence_dfp_desktop_arkadium_after_share
+ftw.usatoday.com,mmajunkie.usatoday.com,usatoday.com###acm-ad-tag-lawrence_dfp_desktop_arkadium
+ftw.usatoday.com,mmajunkie.usatoday.com,usatoday.com###acm-ad-tag-lawrence_dfp_desktop_arkadium_after_share
 fububu.com###wendibu
 fuckhardporn.com##.player_ads
 fuckhardporn.com,xnxxvideoporn.com##.bot_bns
@@ -97666,6 +97672,7 @@ hog.tv##a[href^="https://clickaine.com"]
 hoho.tv##[class^="hoho-ad"],[data-ad-client]
 hola.com##[id^="div-hola-slot-"]
 holiday-weather.com##.resp-leaderboard
+hollywoodreporter.com##.above-header-ad
 hollywoodreporter.com##[id^="jwplayer"]
 holymanga.net##.svl_ads_right
 home-assistant-guide.com##.gb-container-429fcb03
@@ -101103,6 +101110,7 @@ musescore.com###ad_cs_12219747_728_90
 musescore.com##.js-musescore-hb-728--wrapper
 music-news.com###buy-tickets
 music-news.com,thebeet.com##.amazon
+music.wandhi.com##.google-auto-placed
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.uz##body > div[style^="min-height"] > .notify
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.uz##body > div[style^="min-height"] > .notify *
 muslimobserver.com##.add2
@@ -105424,6 +105432,7 @@ teamrock.com##.grid-container-300x250
 tech-latest.com##.lates-art-top
 tech-latest.com##.tdi_102_e06
 tech-latest.com##[href="https://tech-latest.com/go/nordvpn"]
+tech.co##.vc_col-sm-4
 tech.hindustantimes.com##.ProductAffilateWrapper
 tech.hindustantimes.com##.adsHeight720x90
 tech.hindustantimes.com##.amazonWidget
@@ -105512,6 +105521,7 @@ techspot.com##.billboard_placeholder_min
 techspot.com##.blu
 techspot.com##.google-ad
 techspot.com##.oneText
+techspot.com##.onejob
 techspree.net##.hustle-popup
 techug.com##.mug
 techug.com##a[href*="/222.html"]
@@ -105693,6 +105703,7 @@ thedailyusnews.com##.theda-id-3
 thedailyusnews.com##.theda-id-4
 thedalesreport.com##.cap-container
 thedigitalfix.com##.ot-widget-banner
+thediplomat.com##.td-ad-container--labeled
 thedirect.com##.pw-in-article-container
 thedirect.com##.pw-ph-leaderboard
 thedirect.com##.pw-ph-sky
@@ -106260,6 +106271,7 @@ totsantcugat.info##.live > a[href="http://totsantcugat.info/wp-content/video.php
 totsantcugat.info##.widget_meta.widget.col-sm-3
 totsantcugat.info##[href^="https://totsantcugat.info/wp-content/"]
 totsantcugat.info##center > [href="http://totsantcugat.info/wp-content/video.php"]
+touchdownwire.usatoday.com###ad--home-well-wrapper
 touchgal.org##a[href*=".sailing.ink"]
 toumpano.net###sp-feature
 toumpano.net###sp-right
@@ -107119,6 +107131,7 @@ walterfootball.com###top_S
 walterfootball.com###wf_brow_box
 wan.douyu.com
 wanderlustcrew.com###fpub-popup
+wandhi.com##+js(no-fetch-if, /googlesyndication\.com|doubleclick\.net/)
 wandhi.com##.table img
 wandhi.com##.table-bordered
 wandhi.com##.unit-100
