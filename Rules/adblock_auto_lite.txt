@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 9SJ76WQbrZmLamJezkG8OA
+! Checksum: vCw8gHlYF1G6C8/QZzjeag
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240521002546
+! Version: 20240521092135
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-21 00:25:46
-! Total Count: 27752
+! Last modified: 2024-05-21 09:21:35
+! Total Count: 27760
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4495,6 +4495,7 @@
 ||bnhtml.com^
 ||bnhxxj.xyz^
 ||bnifdlav.top^
+||bnjovv.xyz^
 ||bnl2bii.icu^
 ||bnlbecm.xyz^
 ||bnnfvd.xyz^
@@ -4827,6 +4828,7 @@
 ||c9ql2.com^
 ||c9r05q.com^
 ||ca.yangshengtv.com^
+||ca2686564a.com^
 ||caaie.xyz^
 ||caajol.icu^
 ||caardinal.com^
@@ -9597,6 +9599,7 @@
 ||jy.zhongxues.com^
 ||jy135.com/js/pubuliu.
 ||jy135.com^$third-party
+||jy147a.com^
 ||jyewkb.icu^
 ||jyfw.cn/gonggong/jiayu/cf_
 ||jyfw.cn/nav/cf_
@@ -10185,6 +10188,7 @@
 ||lgecqrb.com^
 ||lgecqrb.com^$document
 ||lgecqrb.com^$~third-party
+||lgidskil.top^
 ||lgmi.com/ggimg/
 ||lgmi.com/left_right_
 ||lgmi.com/right_ys
@@ -11240,6 +11244,7 @@
 ||mvcat.com/wx/follow.js
 ||mvevgi.xyz^
 ||mvgucp.com^
+||mvirkw.xyz^
 ||mvng.cn^
 ||mvo.g45td.xyz^
 ||mvpqrydt.xyz^
@@ -13099,6 +13104,7 @@
 ||rawindianporn.com/f_rawindianporn.com.js
 ||rawmtft.cn^
 ||raxetyrw.xyz^
+||rayajmp.icu^
 ||rayjump.com/openapi/ad/
 ||rayli.com.cn^$third-party
 ||rayss.host^
@@ -15810,6 +15816,7 @@
 ||vexilorath.com^
 ||vezvpd.xyz^
 ||vfchm.cyou^
+||vfgajrk.cn^
 ||vfjsa6do.icu^
 ||vflorp.xyz^
 ||vfsdgjrr.xyz^
@@ -25090,6 +25097,7 @@ zle.com$script
 ##.hlol_ad
 ##.homepage > .wp-none1
 ##.hongbao_hd
+##.horizontal-banner
 ##.house-ads
 ##.hp_textlink_ad
 ##.html5-ad-progress-list
