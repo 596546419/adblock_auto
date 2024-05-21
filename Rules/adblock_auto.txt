@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: qTEze5aLpqr7u2DARndWEg
+! Checksum: 2AI1qWF50K2dw02INrVBdg
 ! Title: 混合规则(自动更新)
-! Version: 20240521092124
+! Version: 20240521162431
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-21 09:21:24
-! Total Count: 144276
+! Last modified: 2024-05-21 16:24:31
+! Total Count: 144288
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2407,6 +2407,7 @@
 ||5f450dbe81.com^
 ||5f6dmzflgqso.com^
 ||5f6efdfc05.com^
+||5fd6bc.xyz^
 ||5fet4fni.de^
 ||5fz.cc/t/aimg/tao
 ||5fzd.com/gg/
@@ -24518,6 +24519,7 @@
 ||dpdcinlfynhg.xyz^
 ||dpdnav.com^
 ||dpe5t.space^
+||dpedrt.xyz^
 ||dpfchqsiksjuyjc.xyz^
 ||dphpycbr.com^
 ||dphunjimnkyadh.com^
@@ -50658,6 +50660,7 @@
 ||mppmnetwork.com^
 ||mppqellliovkuqi.com^
 ||mppwqimwfkrkpx.com^
+||mpqgoircwb.com^
 ||mpraven.org^
 ||mpression.net^
 ||mprhrvnxppdxci.com^
@@ -76594,6 +76597,7 @@
 ||tracking.chilipiper.com^
 ||tracking.cirrusinsight.com^
 ||tracking.conduit.com^
+||tracking.cosme.net^
 ||tracking.cystack.net^
 ||tracking.dagensmedia.se^
 ||tracking.dagensmedicin.se^
@@ -92274,6 +92278,7 @@ barnstormers.com##.banner_rh
 barrettsportsmedia.com###mvp-wallpaper
 barrettsportsmedia.com##[href="https://www.jimcutler.com"]
 barrons.com##.RenderBlock__AdWrapper-sc-1vrmc5r-0
+barrons.com##.adWrapperTopLead
 barrons.com##.barrons-body-ad-placement
 barrons.com##.standard__AdWrapper-sc-14sjre0-6
 barrons.com##div[class^="BarronsTheme--adWrapper"]
@@ -94491,6 +94496,7 @@ cztv.com##.right_box
 cztv.com##.vivo
 cztv.com,technical.city##div[class^="banner_"]
 czx.to###vdl_ctnr
+czys.top#?#.swiper-slide:-abp-has(.coveimg[src*=".gif"])
 czzy01.com#?#.swiper-wrapper > div.swiper-slide:has(> a[href^="https://"])
 d.wanfangdata.com.cn##.wfPubAcc
 d123movies.to##.mobile-btn > div
@@ -96415,6 +96421,7 @@ formula1.com##.js-promo-item
 fortune.com###Leaderboard0
 fortune.com###RightRailFlex_Articles0
 fortune.com##.homepage:has(> div[id^="InStream"])
+fortune.com##[class]:has(> #Leaderboard0)
 fortunechina.com##.pinglunmask
 fortunechina.com##.pinglunwindow
 forum.blackhairmedia.com##img[src*="/?AdID="]
@@ -97129,6 +97136,7 @@ glamourvanity.com##.wdt_gads
 glanceoflife.com##.ads_margin
 glennbeck.com###sPost_0_0_5_0_0_9_0_1_2_0
 glennbeck.com###sPost_Default_Layout_0_0_6_0_0_9_0_1_2_0
+globalconstructionreview.com###cm-jobs-block-inner
 globalnews.ca##.c-ad
 globalnews.ca##.c-adChoices
 globalnews.ca##.c-flyers
@@ -104091,6 +104099,7 @@ rebelnews.com##.rn_widgets_content
 rebelnews.com##[href^="https://rebelne.ws/"]
 rebelnews.com##[href^="https://www.eventbrite.com/"]
 rebooo.com###gong
+receive-sms.cc##.content-adsense
 recipes.timesofindia.com##.flipkartbanner
 recipesandcooker.com##.pbl
 recombu.com##.takeover-right
@@ -110563,6 +110572,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 .kkilivf.cn/*.html$~third-party
 .la/8WaadBLH/*.js
 .la/style/vue.js?v=
+.land/ad/*.gif
 .lazyad-
 .lazyload-ad-
 .lazyload-ad.
@@ -131971,6 +131981,7 @@ zle.com$script
 ##.adv-4
 ##.adv-468-60
 ##.adv-468x60
+##.adv-6park
 ##.adv-700
 ##.adv-728
 ##.adv-728-90
@@ -132849,6 +132860,7 @@ zle.com$script
 ##.aoa_overlay
 ##.ap-ad-block
 ##.apadam-ads
+##.apd-footer
 ##.ape-ads-container
 ##.apexAd
 ##.apiAdMarkerAbove
