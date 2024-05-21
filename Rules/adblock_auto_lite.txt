@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ri/Wwhzsrq9+Z7Bf2mbmjA
+! Checksum: dMB9v64RFrOcXa9GqbUFpg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240521162443
+! Version: 20240522002447
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-21 16:24:43
-! Total Count: 27763
+! Last modified: 2024-05-22 00:24:47
+! Total Count: 27777
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -826,6 +826,7 @@
 ||553aaa.us^
 ||555bbb333bbb.com^
 ||555bbb555www.com^
+||555bbb777www.com^
 ||5588.tv/js/piaofuImg.js
 ||5598tp.com^$domain=9xav.cc
 ||55aaee.com/detail/
@@ -933,6 +934,7 @@
 ||6528fdyngk.xyz^
 ||658bbb.us^
 ||66.fmx.cn/js/
+||66308888.com^
 ||6633091.com^$document
 ||6633091.com^$~third-party
 ||6651tp.com^
@@ -943,6 +945,7 @@
 ||666bb777ww.com^
 ||666bbb222www.com^
 ||666bbb333bbb.com^
+||666bbb888www.com^
 ||6686bb.app^
 ||6696q.com^
 ||6699fa.cn/imagestb/
@@ -957,6 +960,7 @@
 ||6789.net^$third-party
 ||6888i.top^
 ||688aaa.us^
+||692881.com^
 ||693836.com^$popup
 ||6969aa.cn^
 ||69adu.com/bootstrap.
@@ -1002,6 +1006,7 @@
 ||76xh.com/skin/zxf/js/*Out.js
 ||76xh.com/skin/zxf/js/ad
 ||775mz.com/js/jquery.js
+||777aa888bb.com^
 ||777aa999aa.com^
 ||777bb111ww.com^
 ||777bbb222bbb.com^
@@ -1107,6 +1112,8 @@
 ||8861202.com^
 ||8881img.com^
 ||8886i.top^
+||888aa111bb.com^
+||888aa222bb.com^
 ||888bb111ww.com^
 ||888bb555ww.com^
 ||888bb666cc.com^
@@ -4076,6 +4083,7 @@
 ||baofeng.com/images/yiqi
 ||baojia.steelcn.cn/images/$object
 ||baoliny.com/js/jing.js
+||baomidou.com/_astro/CheckAdBlocked.*.js
 ||baomihua.com/yy/
 ||baomitu.duapp.com/js/layer.js
 ||bapdkgmvn.xyz^
@@ -6616,6 +6624,7 @@
 ||effirst.com^$third-party
 ||efgh.5lu.com^
 ||efmtsw.xyz^
+||efs604.top^
 ||efvsyhbf.xyz^
 ||efyt6.com^$third-party
 ||egadfe.xyz^
@@ -10965,6 +10974,7 @@
 ||mitbbs.*/servicedata/static_ad.php
 ||mitbbs.ca/ad_
 ||mitbbs.com/ad_
+||mito03.top^
 ||mittencattle.com^$third-party
 ||miwifi.com^*ads/
 ||mixadvert.com^
@@ -11203,6 +11213,7 @@
 ||mtime.cn/tg/
 ||mtnwxhjv.xyz^
 ||mtrcss.com^
+||mttpsy6666.cc^
 ||mtu.hlkcowp.cn^
 ||mtur.xkmnbt.xyz^
 ||mtwmuy.xyz^
@@ -16045,6 +16056,7 @@
 ||w3xue.com/js/pro541.js
 ||w4jz.top^
 ||w51t.com^$subdocument
+||w7044.com^
 ||w80n.fun^
 ||w94.1qlgi.top^
 ||w9f1r.top^
@@ -17208,6 +17220,7 @@
 ||ytvrtrya.xyz^
 ||yu.dlxxjsh.top^
 ||yuanbao777.com/download/*.gif
+||yuanpinghengkangfuyouxiangongsi.top^
 ||yuanpinghengkangfuyouxiangongsi.top^$domain=9xav.cc
 ||yuanxiaa.cn^
 ||yuanxiab.cn^
@@ -26011,6 +26024,7 @@ zle.com$script
 ##a[href^="/hy-"][ontouchstart]
 ##a[href^="/redirect?tid="]
 ##a[href^="/template/1/html/ad/"]
+##a[href^="http"] > img[height="60px"][src*="imgsrc.baidu.com"]
 ##a[href^="http"] > img[src*="pic.rmb.bdstatic.com/"][src$=".gif"]
 ##a[href^="http"][onclick^="setCookie"][style^="width:100%;height:100"]
 ##a[href^="http://2kkfof.vip"]
