@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: nEA8s3HIdwtvl4fO5iztWw
+! Checksum: 4TAFSKqLarN1v9dJnqrSVQ
 ! Title: 混合规则(自动更新)
-! Version: 20240522002436
+! Version: 20240522092205
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-22 00:24:36
-! Total Count: 144310
+! Last modified: 2024-05-22 09:22:05
+! Total Count: 144337
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -468,6 +468,7 @@
 ||11111.host^
 ||1111supjavcom.xyz^
 ||11129.com/800X80
+||1116c5.xyz^
 ||1117977646.rsc.cdn77.org^
 ||1118cctv.ltd^
 ||111cn.net/gg_ad/
@@ -8746,6 +8747,7 @@
 ||analytics.elegela.net^
 ||analytics.elegela.us^
 ||analytics.elle.se^
+||analytics.emol.com^
 ||analytics.enjoymobiserver.com^
 ||analytics.erepublic.com^
 ||analytics.evgcdn.net^
@@ -15777,6 +15779,7 @@
 ||bxikceucv.com^
 ||bxjhlhk.xyz^
 ||bxlidv.ink^
+||bxlmrl.xyz^
 ||bxly.xyz^
 ||bxmpcfzlllej.com^
 ||bxnxdlb.xyz^
@@ -17690,6 +17693,7 @@
 ||chengoassa.com^
 ||chengtongled.com/gg/
 ||chengtu.com/api.php?mod=ad&adid=
+||chengzijianzhan.cc^$third-party,subdocument
 ||chenhaishan.info^
 ||chenhao.name^
 ||chenjiayu.cn/gg.js
@@ -18123,6 +18127,7 @@
 ||cipdn.com^
 ||ciphercapital.tech^
 ||cipledecline.buzz^
+||cippusforebye.com^
 ||ciqahsejb.com^
 ||cir-smart.baidu.com^
 ||cirazi.com^
@@ -21011,6 +21016,7 @@
 ||cstoeydbhdgrlp.com^
 ||csvejabtxsccr.xyz^
 ||csvlgqsanwry.com^
+||csylief.top^
 ||csztzc.com^
 ||cszz.ru^
 ||ct.capterra.com^
@@ -22919,6 +22925,7 @@
 ||deude.ltd^
 ||deupfpxwdzxs.com^
 ||deutsche-mittelstands-nachrichten.de/wp-content/wptouch-data/include/js/dmn_interstitial_mobile.js
+||dev-analytics-cf.bigcrunch.com^
 ||dev-checkmoneypayment-mpos.com^
 ||dev.appboy.com^
 ||dev2pub.com^
@@ -26395,6 +26402,7 @@
 ||elaterconditin.info^
 ||elaterconditing.info^
 ||elatorfatback.com^
+||elb.the-ozone-project.com^
 ||elbowfixes.com^
 ||elbowrevolutionary.com^
 ||elbowsmouldoral.com^
@@ -27285,6 +27293,7 @@
 ||escortlarbul.com^
 ||escortso.com^
 ||escthermae.com^
+||esculicturbans.com^
 ||esculinconsent.top^
 ||escy55gxubl6.com^
 ||esdcubited.uno^
@@ -31430,6 +31439,7 @@
 ||galileesubvii.digital^
 ||galiowen.com^
 ||galjwnhotubfg.com^
+||galleonpiotine.com^
 ||galleries-pornstar.com/thumb_top/
 ||galleyssleeps.top^
 ||galliestorpify.com^
@@ -32779,6 +32789,7 @@
 ||gloognoogrix.com^
 ||gloogruk.com^
 ||gloolrey.com^
+||glooltoora.net^
 ||gloomfabricgravy.com^
 ||gloomilybench.com^
 ||gloomilychristian.com^
@@ -33207,6 +33218,7 @@
 ||gomnlt.com^
 ||gomtdata.com^
 ||gomtdatacom.xyz^
+||gonairoomsoo.xyz^
 ||gonamic.de^
 ||gondolagnome.com^$third-party
 ||gondwrists.life^
@@ -39223,6 +39235,7 @@
 ||institutepigeonsfinger.com^
 ||instituteplump.com^
 ||institutionenrapturebags.com^
+||instopvials.com^
 ||instore.biz^
 ||instraffic.com^
 ||instreamatic.com^
@@ -43960,6 +43973,7 @@
 ||kymirasite.pro^
 ||kymllnoudhkiht.com^
 ||kymnelboloman.com^
+||kyokglm.icu^
 ||kyplpw.com^
 ||kyq3hky.icu^
 ||kyq3xch.icu^
@@ -43968,6 +43982,7 @@
 ||kyrj.xyz^
 ||kyrkoskatten.se^
 ||kyrkskatt.se^
+||kytbxcl.cn^
 ||kyteblowzed.com^
 ||kyteevl.com^
 ||kytesconge.com^
@@ -50167,6 +50182,7 @@
 ||molypsigry.pro^
 ||momclumsycamouflage.com^
 ||momdljpsn.com^
+||momecubane.com^
 ||momentarilyhalt.com^
 ||momentincorrect.com^
 ||momentumgreenhouseexpert.com^
@@ -58061,6 +58077,7 @@
 ||pidzlp.xyz^
 ||pieceresponsepamphlet.com^
 ||piecreatefragment.com^
+||pienbitore.com^
 ||pieproficientcurve.com^
 ||piercedlugs.com^
 ||piercepavilion.com^
@@ -63534,6 +63551,7 @@
 ||refparjhob.top^
 ||refpasrasw.world^
 ||refpaxfbvjlw.top^
+||refractfunkia.com^
 ||refractionius.com^
 ||refraingene.com^
 ||refraintupaiid.com^
@@ -64349,6 +64367,7 @@
 ||rhetoricalveil.com^$third-party
 ||rhhmaq.com^
 ||rhighest.cfd^
+||rhinioncappers.com^
 ||rhinocerosobtrusive.com^
 ||rhinoseo.com^
 ||rhjcnfypo.com^
@@ -64786,6 +64805,7 @@
 ||robsedgeone.com^
 ||robsedgeone.xyz^
 ||robspabah.com^
+||robssukey.com^
 ||robudpw.cn^
 ||robunderstanding.com^
 ||robustbelieve.com^$third-party
@@ -65932,6 +65952,7 @@
 ||sahandkeightg.xyz^
 ||sahara.work^
 ||saheckas.xyz^
+||sahqoo.com^
 ||saiceezu.xyz^
 ||saifcrack.com^
 ||saikeela.net^
@@ -76551,6 +76572,7 @@
 ||tracking-api-4lasu2nlcq-ew.a.run.app^
 ||tracking-api.hotmart.com^
 ||tracking-api.mangopulse.net^
+||tracking-api.passeidireto.com^
 ||tracking-api.sub100.com.br^
 ||tracking-config-service.glority.com^
 ||tracking-live.kr3m.com^
@@ -83182,6 +83204,7 @@
 ||webbannons.ntm.eu^
 ||webbplatsanalys.goteborg.se^
 ||webbymendole.com^
+||webc2s.pubgw.yahoo.com^
 ||webcampromo.com^
 ||webcampromotions.com^
 ||webcare.byside.com^
@@ -86933,6 +86956,7 @@
 ||yhdm44.com/123.html
 ||yhdongman.xyz/piao/
 ||yhgameofmu.xyz^
+||yhgfoe.xyz^
 ||yhgpuxim.xyz^
 ||yhgumcr.xyz^
 ||yhhnjg.com^
@@ -95130,8 +95154,9 @@ douploads.net##a[href^="https://href.li/?"]
 doupocangqiong1.com,ibiquges.info,ishuquge.com##div[style="margin:10px auto;width: 930px;height: 250px;"]
 douxie.com##.ndxBanner
 douxie.com##.ndxChdjBox
+douyin.com###videoSideBar iframe
 douyin.com#?##douyin-right-container > div[class] > div[class]:has(> ul[class] > li[class] > a[href][target="_blank"] + div:contains(广告))
-douyin.com#?#.page-recommend-container:-abp-has(span[style^="background"]:-abp-contains(广告))
+douyin.com#?#.xgplayer>div[class]:-abp-has(svg[height="16"][width="30"])
 douyu.com###js-fix-download
 douyu.com###js-live-room-recommend
 douyu.com###js-room-activity
@@ -102234,6 +102259,7 @@ nordot.app##.main__ad
 nordstrom.com#?#.ivm_G:-abp-contains(Sponsored)
 nordstrom.com#?#article:has(.Yw5es:-abp-contains(Sponsored))
 northcountrypublicradio.org###business
+northernvirginiamag.com##.website-header__ad--leaderboard
 nosubjectlosangeles.com,richardvigilantebooks.com##a[href^="https://rebrand.ly/"]
 notateslaapp.com##.jeffdlwlxpqi
 notateslaapp.com##.mod-sponsors
@@ -143653,6 +143679,7 @@ zle.com$script
 @@||ssports.com/images/resources/web/live/js/LiveAds.js
 @@||sssbozh.com^$generichide
 @@||stapewithadblock.monster^$generichide
+@@||static.admysports.com/hb/site/als/hb_allosurf.js$domain=allosurf.net
 @@||static.adsafeprotected.com/favicon.ico$domain=tf1info.fr
 @@||static.anyporn.com/bravoplayer/custom/anyporncom/scripts/bpcc.js
 @@||static.anyporn.com/bravoplayer/fluidplayer.js

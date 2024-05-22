@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: dMB9v64RFrOcXa9GqbUFpg
+! Checksum: tCYQiS6hbvONZt+bTBG90g
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240522002447
+! Version: 20240522092217
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-22 00:24:47
-! Total Count: 27777
+! Last modified: 2024-05-22 09:22:17
+! Total Count: 27785
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4738,6 +4738,7 @@
 ||bxackzj.icu^
 ||bxbyll.xyz^
 ||bxjhlhk.xyz^
+||bxlmrl.xyz^
 ||bxnxdlb.xyz^
 ||bxoiksm.xyz^
 ||bxw666.com/storage/*.gif
@@ -5133,6 +5134,7 @@
 ||chengdu.cn/acts/phoneqss/openCornerWin/
 ||chengtongled.com/gg/
 ||chengtu.com/api.php?mod=ad&adid=
+||chengzijianzhan.cc^$third-party,subdocument
 ||chenhaishan.info^
 ||chenjiayu.cn/gg.js
 ||chenyuzhou1.cn^
@@ -5625,6 +5627,7 @@
 ||css.zmjm.com^
 ||cssqt.com/a/images/indexsd.gif
 ||cssqt.com/a/images/right
+||csylief.top^
 ||ctags.cn/9/j2.js
 ||ctanet.cn/aqq/JS/
 ||ctc.weather.com.cn^
@@ -10011,9 +10014,11 @@
 ||kyjwtxei.xyz^
 ||kykqss.xyz^
 ||kymahuxv.xyz^
+||kyokglm.icu^
 ||kyplpw.com^
 ||kyq3hky.icu^
 ||kyq3xch.icu^
+||kytbxcl.cn^
 ||kyuwkbd.top^
 ||kzelzfnj.xyz^
 ||kzemm.com^
@@ -13539,6 +13544,7 @@
 ||safeporno.com^
 ||saffronrefuge.com^$third-party
 ||sagcyq.xyz^
+||sahqoo.com^
 ||sailsuit.com^$third-party
 ||sairy.cyou^
 ||sakguz.icu^
@@ -17005,6 +17011,7 @@
 ||yhdm*.com/js/wap2-jm-ms.js$script
 ||yhdm44.com/123.html
 ||yhdongman.xyz/piao/
+||yhgfoe.xyz^
 ||yhgpuxim.xyz^
 ||yhgumcr.xyz^
 ||yhhnjg.com^
@@ -27706,6 +27713,7 @@ zle.com$script
 @@||sexwebvideo.me/js/advertising.js
 @@||shahid.mbc.net^$generichide
 @@||sports.ru^*/adfox.$xmlhttprequest
+@@||static.admysports.com/hb/site/als/hb_allosurf.js$domain=allosurf.net
 @@||static.adsafeprotected.com/favicon.ico$domain=tf1info.fr
 @@||static.anyporn.com/bravoplayer/custom/anyporncom/scripts/bpcc.js
 @@||static.anyporn.com/bravoplayer/fluidplayer.js
