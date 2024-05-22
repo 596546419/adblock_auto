@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 4UiHaeNHARjJ8rr+/ZKRDA
+! Checksum: K1b2bjkNIsJ1oNdpQNrroQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240522162811
+! Version: 20240523002642
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-22 16:28:11
-! Total Count: 27791
+! Last modified: 2024-05-23 00:26:42
+! Total Count: 27794
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5885,6 +5885,7 @@
 ||dcba.zle.com^
 ||dcdf4.com^
 ||dcdglb.xyz^
+||dceuhnpc57.shop^
 ||dciep.xyz^
 ||dcnjc4.com^
 ||dcnytdpke.xyz^
@@ -8433,6 +8434,7 @@
 ||hsutav.icu^
 ||hsvchnsvncvvd.com^
 ||hsyipos.com/template/mxone/html_tplmx/vod/*.gif
+||hsylieu.top^
 ||hthivr.xyz^
 ||htienlu.top^
 ||htqyy.com/kiees/
@@ -13889,6 +13891,7 @@
 ||shandian.biz/wp-content/themes/inove/js/comment.js
 ||shang.hlgnet.com/code/
 ||shangqun.com/webforms/embed/
+||shangwenchao4.cn^
 ||shangxueba.com/ask/images/woxiaoyun.jpg
 ||shanhaimiwenlu.com/sh
 ||shanvezhu.com^
