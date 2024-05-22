@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: tCYQiS6hbvONZt+bTBG90g
+! Checksum: 4UiHaeNHARjJ8rr+/ZKRDA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240522092217
+! Version: 20240522162811
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-22 09:22:17
-! Total Count: 27785
+! Last modified: 2024-05-22 16:28:11
+! Total Count: 27791
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1220,6 +1220,7 @@
 ||92f2m.top^
 ||92g7x.com^$document
 ||92g7x.com^$~third-party
+||92ghai.com/zz/
 ||92ph.cn^
 ||92uq.com/Ads/
 ||933m.com/1.js
@@ -17364,6 +17365,7 @@
 ||zbxtcwi.xyz^
 ||zbzbzb.xyz^
 ||zc173.com/173fee/
+||zca31.com^
 ||zcaijing.com/images/
 ||zcbfjd.xyz^
 ||zcck60eqyw.world^
@@ -25265,6 +25267,7 @@ zle.com$script
 ##.partialViewSlider-outerwrapper
 ##.pasuAD
 ##.pause-ad
+##.pc-layout-content > .pc-ads
 ##.pccb > .ng-star-inserted
 ##.pcd_ad
 ##.pcgg
@@ -25482,6 +25485,7 @@ zle.com$script
 ##.xstui-content__acc
 ##.xzbox-gh
 ##.y.mtw[style="padding: 0px 10px;"]
+##.ya-normal-box-done
 ##.yuepa-list
 ##.yuepa-warp
 ##.zhanzhang_tuijian_btn
@@ -25937,6 +25941,7 @@ zle.com$script
 ##a[href*="://4"][href*="/vod."]
 ##a[href*="://mgzs.cdn.bcebos.com/"]
 ##a[href*=":10443/"] > img[src$="gif"]
+##a[href*=":6001/entry/register"]
 ##a[href*=":7888/?register="]
 ##a[href*=":8701/?register="]
 ##a[href*="?adCode="][target="_blank"]
@@ -26278,6 +26283,7 @@ zle.com$script
 ##div[class^="is_"] > a > img[referrerpolicy="no-referrer"]
 ##div[class^="main-content"] > div[class^="ad-"][class$="wrap"]
 ##div[class^="mobile-jsv"] > div[class^="mobile-jsv-content"]
+##div[class^="module-"] > a[href="/index/voddetail.html?id=1"]
 ##div[class^="native-ad-"]
 ##div[class^="popup-t"][class*="open"][class*="-icon"]
 ##div[class^="popup-t"][style^="display:"]

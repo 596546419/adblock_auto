@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 4TAFSKqLarN1v9dJnqrSVQ
+! Checksum: 1q2qWbTk6zWzenOhUuRNUQ
 ! Title: 混合规则(自动更新)
-! Version: 20240522092205
+! Version: 20240522162800
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-22 09:22:05
-! Total Count: 144337
+! Last modified: 2024-05-22 16:28:00
+! Total Count: 144351
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -88122,6 +88122,7 @@
 ||zbzbzzz.top^
 ||zc.adswizz.com^
 ||zc173.com/173fee/
+||zca31.com^
 ||zcaadfl.com^
 ||zcaijing.com/images/
 ||zcbfjd.xyz^
@@ -90010,7 +90011,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 2345.com#?#.pic:-abp-has(a[href^="http://g.wan."])
 2345.com,duanwenxue.com###topHf
 247checkers.com###feature-ad-holder
-247media.com.ng,abmedia.io,aboutcrypto.info,appinn.com,appleworld.today,athleticsillustrated.com,businessaccountingbasics.co.uk,captainaltcoin.com,carrotchou.blog,circuitbasics.com,closerweekly.com,coincodecap.com,cozyberries.com,crickhabari.com,dbknews.com,deshdoaba.com,foreverconscious.com,glitched.online,granitegrok.com,intouchweekly.com,kashmirreader.com,kkfm.com,landiannews.com,laoliublog.cn,lifeandstylemag.com,londonnewsonline.co.uk,marqueesportsnetwork.com,mensjournal.com,nikonrumors.com,patriotfetch.com,pctechmag.com,prajwaldesai.com,raspians.com,robinhoodnews.com,rok.guide,rsbnetwork.com,showbiz411.com,sportsspectrum.com,stacyknows.com,thecatholictravelguide.com,theoverclocker.com,thethaiger.com,ubuntu101.co.za,wakingtimes.com,washingtonmonthly.com,webscrypto.com,wgow.com,wgowam.com,wlevradio.com,woniuyulew.com,xingkbjm.com,zhain8.com##.widget_media_image
+247media.com.ng,abmedia.io,aboutcrypto.info,appinn.com,appleworld.today,athleticsillustrated.com,businessaccountingbasics.co.uk,captainaltcoin.com,carrotchou.blog,circuitbasics.com,closerweekly.com,coincodecap.com,cozyberries.com,crickhabari.com,dbknews.com,deshdoaba.com,foreverconscious.com,glitched.online,granitegrok.com,intouchweekly.com,kashmirreader.com,kkfm.com,landiannews.com,laoliublog.cn,levittownnow.com,lifeandstylemag.com,londonnewsonline.co.uk,marqueesportsnetwork.com,mensjournal.com,nikonrumors.com,patriotfetch.com,pctechmag.com,prajwaldesai.com,raspians.com,robinhoodnews.com,rok.guide,rsbnetwork.com,showbiz411.com,sportsspectrum.com,stacyknows.com,thecatholictravelguide.com,theoverclocker.com,thethaiger.com,ubuntu101.co.za,wakingtimes.com,washingtonmonthly.com,webscrypto.com,wgow.com,wgowam.com,wlevradio.com,woniuyulew.com,xingkbjm.com,zhain8.com##.widget_media_image
 247mirror.com,365economist.com,bridewired.com,dailybee.com,drgraduate.com,historictalk.com,mvpmode.com,news-opossumsauce.com,parentmood.com,theecofeed.com,thefunpost.com,visualchase.com,wackojaco.com##.ya-slot
 247solitaire.com,247spades.com##div[class^="aspace-"]
 247sports.com##.minutely-wrapper
@@ -90018,7 +90019,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 247wallst.com###smartasset
 24en.com##.article_part_top
 24en.com##A[href*="/ClickAd?"]
-24fm.ps,datingscammer.info,kayifamily.net,news365.co.za##.stream-item
+24fm.ps,datingscammer.info,kayifamily.net,news365.co.za,xboxera.com##.stream-item
 24h.pchome.com.tw,find.ruten.com.tw##.site_evt
 24k99.com##.jy_24k99_suspended_ad
 24k99.com,fx168.com##.ny2018_txtLink
@@ -90049,7 +90050,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 27ka.cn,agedbeauty.net,data18.com,imgdrive.net,pornpics.com,pornpics.de,vipergirls.to##a[href*="/go/"]
 28188.com,28188.net,yxad.com###nav
 28hse.com###floating_left_div
-2b2t.online,caixinglobal.com,chicagobusiness.com,chronicle.co.zw,dailymaverick.co.za,dailytarheel.com,duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion,dunyanews.tv,english.newstracklive.com,fifplay.com,freebmd.org.uk,fux.com,gotporn.com,hbr.org,herald.co.zw,infoq.com,irishtimes.com,lawandcrime.com,libhunt.com,motherjones.com,msn.com,naval-technology.com,pornerbros.com,porntube.com,reviewjournal.com,runemate.com,saashub.com,samedicalspecialists.co.za,sogou.com,sportsbusinessjournal.com,statnews.com,stocksnap.io,timeslive.co.za,trends.gab.com,tubedupe.com,videezy.com##.sponsored
+2b2t.online,caixinglobal.com,chicagobusiness.com,chronicle.co.zw,dailymaverick.co.za,dailytarheel.com,duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion,dunyanews.tv,english.newstracklive.com,fifplay.com,freebmd.org.uk,fux.com,gotporn.com,hbr.org,herald.co.zw,infoq.com,irishtimes.com,lawandcrime.com,libhunt.com,motherjones.com,msn.com,naval-technology.com,pornerbros.com,porntube.com,reviewjournal.com,runemate.com,saashub.com,samedicalspecialists.co.za,sogou.com,sportsbusinessjournal.com,statnews.com,stocksnap.io,thedp.com,timeslive.co.za,trends.gab.com,tubedupe.com,videezy.com##.sponsored
 2c2.website,2p8.space,adultgao.com,caopop.com,caoporn.com,caouoo.com,caox.cc,gao1.cc,h3e.pw,h3y.pw,k88.club,me88.pw,p5p.space,se88.space,t2p.space,tb001.xyz,te88.pw,vwan.xyz,xhao1.com##div[style="margin-top:5px;margin-bottom:5px;"]:first-child
 2chcn.com,afrivibes.net,airplaydirect.com,americaoutloud.com,bigeye.ug,completesports.com,cryptomining-blog.com,cryptoreporter.info,dotsauce.com,espnrichmond.com,flsentinel.com,forexmt4indicators.com,freedomhacker.net,gamblingnewsmagazine.com,gameplayinside.com,goodcarbadcar.net,kenyabuzz.com,kiwiblog.co.nz,mature.community,mature.mom,mature.studio,mauitime.com,milf.community,milf.mom,milf.plus,milf.sexy,mkvcage.com,movin100.com,mycolumbuspower.com,naijaloaded.com.ng,newzimbabwe.com,onislandtimes.com,ouo.press,pornhub.com,pornhubthbh7ap3u.onion,portlandphoenix.me,punchng.com,radiobiz.co.za,reviewparking.com,robhasawebsite.com,sacobserver.com,seguintoday.com,sports.sexy,theinsider.ug,themediaonline.co.za,theolivepress.es,therep.co.za,thewillnigeria.com,tntribune.com,up-4ever.net,waamradio.com,wantedinafrica.com,wantedinrome.com,wschronicle.com##img[width="300"]
 2conv.com##.fixed_banner
@@ -90896,6 +90897,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 9miao.com###deanrlc22
 9s102.xyz###main > .container-fluid.mb-3 > .row > .col-sm .alert
 9s102.xyz##.jsv > .container-fluid.mb-0 > .row > .col-sm > a[target="_blank"]
+9to5linux.com##.block-widget
 9to5linux.com##.widget:has([href$=".php"])
 9to5linux.com,acommunity.com.tw,anoopcnair.com,apkmirror.com,askpython.com,beckernews.com,bizpacreview.com,boxingnews24.com,browserhow.com,constructionreviewonline.com,crankers.com,gotrip.hk,hard-drive.net,hentaidude.xxx,journeybytes.com,maxblizz.com,net-load.com,nmplus.hk,planetanalog.com,roadaheadonline.co.za,theamericantribune.com,weekendhk.com,windowslatest.com,yugatech.com##.ai_widget
 9to5mac.com##.single-custom-post-ad
@@ -91206,7 +91208,7 @@ aiyuke.com##.index_app_down_ad
 aizhan.com###all_text_content
 aizhan.com###home_text_content
 aizhan.com,helensburghadvertiser.co.uk,the-gazette.co.uk##.btn
-ajc.com,bostonglobe.com##.arc_ad
+ajc.com,bostonglobe.com,daytondailynews.com,journal-news.com,springfieldnewssun.com##.arc_ad
 akiba-online.com##[href^="https://filejoker.net/invite"]
 al-monitor.com##.region--after-content
 al-monitor.com##.region--header-banner
@@ -91812,6 +91814,7 @@ atptour.com##.iab-wrapper
 atyun.com###r_banner > ul > li > a[href^="http"]:not([href*="atyun."])
 atyun.com,rrjc.com##.coupletbox
 auctionzip.com##.az-header-ads-container
+audacy.com##.component--google-ad-manager
 audi-sport.net,beermoneyforum.com,forums.sailinganarchy.com,geekdoing.com,sportfishingbc.com,studentdoctor.net##.samBannerUnit
 audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
 audiobacon.net##.audio-widget.et_pb_widget
@@ -92303,6 +92306,7 @@ baofeng.com##.ad-bar-l
 baofeng.com##.ad-bar-r
 baofeng.com##.ad-pop-wrap
 baofeng.com##.play-ads
+baomidou.com##.sidebar-content > astro-island
 baomidou.com##.sidebar-slot-top
 baomidou.com,docsmall.com,nodejs.cn##+js(set-constant, _AdBlockInit, noopFunc)
 bar-planb.com,hakibavuong.com###player_dev
@@ -94484,7 +94488,7 @@ cupfox.app##.t-img-box > a[target="_blank"] > img
 cupfox.app##[class^="jsx-"] > img[src$=".gif"]
 cupfox.app#?##outer-container > .model:has(> .model-content > a[href*=".jd.com"])
 cupfox.app#?#.model:-abp-has(> .model-content > a[href*=".jd.com"])
-cupfox.app,cupfox.love,cupfox2.com,hcomic.net##.swiper
+cupfox.app,cupfox.love,cupfox2.com,hcomic.net,olevod.com##.swiper
 cupfox.app,cupfox2.com##.a5-box[class^="jsx-"]
 cupfox.app,dailycoffeenews.com,zuoyesou.com##.banner-box
 curbed.com##[data-concert="prelude"]
@@ -104610,7 +104614,9 @@ seattlepi.com##.hnpad-Inline
 seattlepi.com##.pt40
 seattlepi.com##.y100.package
 seattlepride.org##.section_sponsorship
-seattletimes.com##.st-theticket-promo
+seattletimes.com##.H0FqVZjh86HAsl61ps5e
+seattletimes.com##.stn-player
+seattletimes.com##.tall-rect
 seattleweekly.com#?#.marketplace-row:-abp-contains(Sponsored)
 secretchicago.com##.google-ad-manager-ads-header
 secretchicago.com##.smn-new-gpt-ad
@@ -107473,6 +107479,10 @@ voiranime.com###mg_vd
 volcore.xyz##.avd1
 volcore.xyz##.avd2
 vox.com##.l-leaderboard-slot
+vox.com##.l66a0c1k
+vox.com##.l66a0c1n
+vox.com##.l66a0c1p
+vox.com##[data-concert="leaderboard_top_tablet_desktop"]
 vpnmentor.com##.side-top-vendors-wrap
 vpornvideos.com###mn-container
 vpsdx.cn,vpsdx.com##.span4 > a > img
@@ -137112,6 +137122,7 @@ zle.com$script
 ##.pb-slot-container
 ##.pbs__player
 ##.pc-ad
+##.pc-layout-content > .pc-ads
 ##.pc_acmsd
 ##.pcads_widget
 ##.pccb > .ng-star-inserted
@@ -139582,6 +139593,7 @@ zle.com$script
 ##.y-ads
 ##.y-ads-wide
 ##.y.mtw[style="padding: 0px 10px;"]
+##.ya-normal-box-done
 ##.yaAds
 ##.yad-sponsored
 ##.yahooAd
@@ -140428,6 +140440,7 @@ zle.com$script
 ##a[href*="://4"][href*="/vod."]
 ##a[href*="://mgzs.cdn.bcebos.com/"]
 ##a[href*=":10443/"] > img[src$="gif"]
+##a[href*=":6001/entry/register"]
 ##a[href*=":7888/?register="]
 ##a[href*=":8701/?register="]
 ##a[href*="?adCode="][target="_blank"]
@@ -141210,6 +141223,7 @@ zle.com$script
 ##div[class^="kiwi-ad-wrapper"]
 ##div[class^="main-content"] > div[class^="ad-"][class$="wrap"]
 ##div[class^="mobile-jsv"] > div[class^="mobile-jsv-content"]
+##div[class^="module-"] > a[href="/index/voddetail.html?id=1"]
 ##div[class^="native-ad-"]
 ##div[class^="popup-t"][class*="open"][class*="-icon"]
 ##div[class^="popup-t"][style^="display:"]
