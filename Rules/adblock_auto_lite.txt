@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: kBw8v74B4f1Tr2dyqxYz7g
+! Checksum: I975yfWrjJbIwJWAyw/A6w
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240523162439
+! Version: 20240524002639
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-23 16:24:39
-! Total Count: 27804
+! Last modified: 2024-05-24 00:26:39
+! Total Count: 27807
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5135,7 +5135,7 @@
 ||chengdu.cn/acts/phoneqss/openCornerWin/
 ||chengtongled.com/gg/
 ||chengtu.com/api.php?mod=ad&adid=
-||chengzijianzhan.cc^$third-party,subdocument
+||chengzijianzhan.cc^$subdocument,third-party
 ||chenhaishan.info^
 ||chenjiayu.cn/gg.js
 ||chenyuzhou1.cn^
@@ -7171,6 +7171,7 @@
 ||foizico.cn^
 ||fol9v.xyz^
 ||followborder.com^$third-party
+||fonfn.com^
 ||fontke.com/custom/
 ||foodmate.net/file/script/A
 ||fooid.xyz^
@@ -15473,6 +15474,7 @@
 ||udajswf.cn^
 ||udb3n.icu^
 ||udeztrb.cn^
+||udheansv.com^
 ||udiab1.jianshu.com^
 ||udjdpyrt.xyz^
 ||udkpcc.xyz^
@@ -25698,6 +25700,7 @@ zle.com$script
 ##a[href*=".biquge"][href*="app"]
 ##a[href*=".blueyoko.com/"]
 ##a[href*=".bright.cn/?utm_"]
+##a[href*=".bsy3.xyz"]
 ##a[href*=".buscandolaidea.com/"]
 ##a[href*=".bvftxy.com/"]
 ##a[href*=".cc:"] > img[src]
@@ -25903,6 +25906,7 @@ zle.com$script
 ##a[href*="/dsf66.cc"]
 ##a[href*="/dsf71.cc"]
 ##a[href*="/dsf88.cc"]
+##a[href*="/entry/register"][href*="i_code"]
 ##a[href*="/h91.tv"]
 ##a[href*="/hgcool360.top"]
 ##a[href*="/hgcoolaa.top"]
@@ -25954,7 +25958,6 @@ zle.com$script
 ##a[href*="://4"][href*="/vod."]
 ##a[href*="://mgzs.cdn.bcebos.com/"]
 ##a[href*=":10443/"] > img[src$="gif"]
-##a[href*=":6001/entry/register"]
 ##a[href*=":7888/?register="]
 ##a[href*=":8701/?register="]
 ##a[href*="?adCode="][target="_blank"]

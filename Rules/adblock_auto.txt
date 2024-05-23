@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: K1HnzBLp77VJx913wqmdiw
+! Checksum: 0FCqEEnjWRiJibEX1sxknw
 ! Title: 混合规则(自动更新)
-! Version: 20240523162427
+! Version: 20240524002628
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-23 16:24:27
-! Total Count: 144731
+! Last modified: 2024-05-24 00:26:28
+! Total Count: 144746
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -16231,6 +16231,7 @@
 ||c8d2c12c98.com^
 ||c8f9398ccd.com^
 ||c917ed5198.com^
+||c950.chronicle.com^
 ||c991aea613.com^
 ||c993.westport-news.com^
 ||c9cc.icu^
@@ -16453,6 +16454,7 @@
 ||camprime.com^
 ||camptrck.com^
 ||campxanh.info^
+||cams.gratis^
 ||camsbanner.wtfgroup.co^
 ||camschat.net^
 ||camsense.com^
@@ -17855,7 +17857,7 @@
 ||chengoassa.com^
 ||chengtongled.com/gg/
 ||chengtu.com/api.php?mod=ad&adid=
-||chengzijianzhan.cc^$third-party,subdocument
+||chengzijianzhan.cc^$subdocument,third-party
 ||chenhaishan.info^
 ||chenhao.name^
 ||chenjiayu.cn/gg.js
@@ -23721,6 +23723,7 @@
 ||dirtrecurrentinapptitudeinapptitude.com^
 ||dirty-messenger.com^
 ||dirty-tinder.com^
+||dirty.games^
 ||dirtyasmr.com^
 ||dirtysuspension.com^
 ||disaaf.com^
@@ -28660,6 +28663,7 @@
 ||fadf617f13.com^
 ||fadfussequipment.com^
 ||fadhvz.xyz^
+||fadingsulphur.com^
 ||fadraiph.xyz^
 ||fadrovoo.xyz^
 ||fads315.com^
@@ -30339,6 +30343,7 @@
 ||fondnessbrokestreet.com^
 ||fondnessverge.com^
 ||foneclick.com.br^
+||fonfn.com^
 ||fonnishcranked.com^
 ||fontainsuny.club^
 ||fontdeterminer.com^
@@ -30420,6 +30425,7 @@
 ||forearmthrobjanuary.com^
 ||forebypageant.com^
 ||forecast.lemonde.fr^
+||forecast.nouvelobs.com^
 ||forecasttiger.com^$third-party
 ||foreelementarydome.com^
 ||foreflucertainty.com^
@@ -69281,6 +69287,7 @@
 ||sjolcdkqwiybh.xyz^
 ||sjoy7rq.cn^
 ||sjpoxe6.com^
+||sjsabb.com^
 ||sjsmartcontent.org^
 ||sjtactic.com^
 ||sjtbhdeakgsgr.com^
@@ -71580,6 +71587,7 @@
 ||statistika.lv^
 ||statistx.com^
 ||statok.net^
+||statorkumyk.com^
 ||statossy.com^
 ||statowl.com^
 ||statpipe.ru^
@@ -78856,6 +78864,7 @@
 ||udfwwbkxremv.xyz^
 ||udgpjfdzxrvecn.com^
 ||udgrbq.malwarebytes.com^
+||udheansv.com^
 ||udiab1.jianshu.com^
 ||udifvi.cn^
 ||udinugoo.com^
@@ -96179,6 +96188,11 @@ eroticmv.com,xfantazy.com,analdin.com,xtits.com,sexu.com,javrave.club,mangamelon
 erry.one,hikaritube.com,poyopara.com#?#iframe[src^="https://pokoran.com/ad/"]:upward(1)
 escortbook.com###ebsponAxDS
 escortdirectory.com##.ixs-govazd-item
+escortnews.eu,topescort.com##.blogBanners
+escortnews.eu,topescort.com##.fBanners
+escortnews.eu,topescort.com##.link-buttons-container
+escortnews.eu,topescort.com##.newbottom-fbanners
+escortnews.eu,topescort.com##.topBanners
 esdict.cn,eudic.net,frdic.com,godic.net###bodycontent > style + div[id] > :nth-child(n+2)
 esnai.com##.tlgg
 esnai.com##table[width="960"] > tbody > tr > td[height="90"]
@@ -122357,7 +122371,6 @@ zle.com$script
 |.gif$domain=fashangji.com
 |about:blank#$popup,domain=22pixx.xyz|adblockstrtape.link|animepahe.com|aniwave.to|bitporno.com|cdnqq.net|clipconverter.cc|dailyuploads.net|dood.la|dood.so|dood.to|dood.video|dood.watch|dood.ws|doodcdn.com|flashx.net|fmovies.to|gospeljingle.com|hqq.tv|imagetwist.com|kissanime-ru.ws|mixdrop.bz|mixdrop.ch|mixdrop.sx|mp4upload.com|mstream.xyz|onlystream.tv|playtube.ws|popads.net|powvideo.net|powvldeo.cc|putlocker.style|run-syndicate.com|sdmoviespoint.online|spcdn.cc|strcloud.link|streamani.net|streamsb.net|streamtape.cc|streamtape.com|streamtape.site|strtape.cloud|strtape.tech|strtapeadblock.club|strtapeadblock.me|strtpe.link|tapecontent.net|turboimagehost.com|upstream.to|uptostream.com|uptostream.eu|uptostream.fr|uptostream.link|userload.co|vev.red|vevo.io|vidcloud.co|videobin.co|videowood.tv|vidoza.net|voe.sx|vortez.net|vshare.eu|vumoo.to|waaw.to|watchserieshd.tv
 |c.blue.*.com^|
-|mailgun.org^
 |piwik.
 ~Prebid.js
 ! →→→→通配符规则 结束←←←← !
@@ -140383,6 +140396,7 @@ zle.com$script
 ##a[href*=".bj-lingan.com/"]
 ##a[href*=".blueyoko.com/"]
 ##a[href*=".bright.cn/?utm_"]
+##a[href*=".bsy3.xyz"]
 ##a[href*=".btwuji.cc"]
 ##a[href*=".bucd.icu"]
 ##a[href*=".bucd.top"]
@@ -140724,6 +140738,7 @@ zle.com$script
 ##a[href*="/dsf66.cc"]
 ##a[href*="/dsf71.cc"]
 ##a[href*="/dsf88.cc"]
+##a[href*="/entry/register"][href*="i_code"]
 ##a[href*="/ftyvrfy05.com"]
 ##a[href*="/g3656.com:"]
 ##a[href*="/h91.tv"]
@@ -140820,7 +140835,6 @@ zle.com$script
 ##a[href*="://4"][href*="/vod."]
 ##a[href*="://mgzs.cdn.bcebos.com/"]
 ##a[href*=":10443/"] > img[src$="gif"]
-##a[href*=":6001/entry/register"]
 ##a[href*=":7888/?register="]
 ##a[href*=":8701/?register="]
 ##a[href*="?adCode="][target="_blank"]
@@ -141664,6 +141678,7 @@ zle.com$script
 ##div[id^="ads250_250-widget-"]
 ##div[id^="ads300_100-widget-"]
 ##div[id^="ads300_250-widget-"]
+##div[id^="ads300_600-widget-"]
 ##div[id^="adspot-"]
 ##div[id^="adv-"].adv
 ##div[id^="advads_ad_"]
