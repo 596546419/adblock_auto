@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: lJkJFAk1l/YgIbj825AeiA
+! Checksum: K1HnzBLp77VJx913wqmdiw
 ! Title: 混合规则(自动更新)
-! Version: 20240523092116
+! Version: 20240523162427
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-23 09:21:16
-! Total Count: 144724
+! Last modified: 2024-05-23 16:24:27
+! Total Count: 144731
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2866,6 +2866,7 @@
 ||7540.com^$third-party
 ||754480bd33.com^
 ||75625358935.com^
+||7608d5.xyz^
 ||7618590057.com^
 ||76236osm1.ru^
 ||76416dc840.com^
@@ -9159,6 +9160,7 @@
 ||analytics.vedantu.com^
 ||analytics.vendemore.com^
 ||analytics.verfacto.com^
+||analytics.vg^
 ||analytics.viblo.asia^
 ||analytics.videocloud.top^
 ||analytics.vietnamfinance.vn^
@@ -40415,6 +40417,7 @@
 ||iwanad.baidu.com^
 ||iwandlo.top^
 ||iwansf.com^
+||iwanshang*.asia^
 ||iwanshang8.asia^
 ||iwanttodeliver.com^
 ||iwantuonly.com^
@@ -90756,7 +90759,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 4spaces.org,fuliba.net,fuliba2023.net,fuliba23.net,uliba.net,ypojie.com##.widget_ui_orbui
 4sysops.com,9to5linux.com,app-how-to-use-it.com,arcjav.com,backthetruckup.com,catcountry941.com,cnx-software.com,corrosionhour.com,corvetteblogger.com,dailyveracity.com,dcrainmaker.com,droidwin.com,dvdgayporn.com,faqforge.com,fastestvpns.com,fuliba2020.net,fuliba2021.net,fuliba2023.net,gamingonphone.com,gizmochina.com,guides.wp-bullet.com,hardwaretimes.com,hotcelebshome.com,iwatchsouthparks.com,jav.guru,javcrave.com,landiannews.com,laoliublog.cn,macsources.com,mangasy.com,metalsucks.net,mmoculture.com,nasaspaceflight.com,nbagaffer.net,openloading.com,planetofreviews.com,prepperwebsite.com,psdly.com,pussycatxx.com,quickanswer.blog,robloxhackscripts.com,ruyo.net,sashares.co.za,scienceabc.com,scienceandliteracy.org,survivopedia.com,taradinhos.com,techdows.com,techiecorner.com,techjuice.pk,theblueoceansgroup.com,thecinemaholic.com,thetaiwantimes.com,thinkcivics.com,tooxclusive.com,torrentfreak.com,trackalerts.com,trendingpoliticsnews.com,uliba.net,vrhotporn.top,winandmac.com,xscholarship.com,zhujiceping.com,zouaw.com##.widget_custom_html
 4teachers.org###banner-wrapper
-4thsight.xyz,aceofhacking.com,briian.com,buildsometech.com,collegelearners.com,dpfantasy.org,eftm.com,firesticktricks.com,floxblog.com,gfxdrug.com,historicseries.com,hotcelebshome.com,hutporner.com,indiansexbazar.com,jav1080.com,laweekly.com,newtechworld.net,nicekkk.com,pennbookcenter.com,sakurajav.com,sonixgvn.net,streamempire.cc,tecmint.com,tmioe.com,watchseinfeld.com,watchtheoffice.cc,zonegfx.com###custom_html-4
+4thsight.xyz,aceofhacking.com,briian.com,buildsometech.com,collegelearners.com,dpfantasy.org,eftm.com,firesticktricks.com,floxblog.com,gfxdrug.com,godisageek.com,historicseries.com,hotcelebshome.com,hutporner.com,indiansexbazar.com,jav1080.com,laweekly.com,newtechworld.net,nicekkk.com,pennbookcenter.com,sakurajav.com,sonixgvn.net,streamempire.cc,tecmint.com,tmioe.com,watchseinfeld.com,watchtheoffice.cc,zonegfx.com###custom_html-4
 4tube.com###main-jessy-grid
 4tube.com##.cpp
 4tube.com##.footer-la-jesi
@@ -92824,7 +92827,7 @@ belloflostsouls.net#?#span.text-secondary:-abp-contains(Advertisement)
 belloflostsouls.net,ginx.tv,op.gg,theloadout.com##.vm-placement
 bendibao.com###wxbox
 bendibao.com,gz.bendibao.com##.content_r_ad300
-bendsource.com,buzzfeed.com,federalnewsnetwork.com,imgur.io,iotworldtoday.com,le.com,lonelyplanet.com,sevendaysvt.com,styleweekly.com,tasty.co,tucsonweekly.com##.Ad
+bendsource.com,buzzfeed.com,federalnewsnetwork.com,gamedeveloper.com,imgur.io,iotworldtoday.com,le.com,lonelyplanet.com,sevendaysvt.com,styleweekly.com,tasty.co,tucsonweekly.com##.Ad
 bentoneveningnews.com,dailyregister.com,dailyrepublicannews.com,duquoin.com,randolphcountyheraldtribune.com###billBoardATF
 benxiang.com##.ad_duilian
 benxiang.com##.ad_ld
@@ -94319,6 +94322,7 @@ cnxz.cn##[class*="-ad"]
 cnyes.com###full_ad-popup
 cnyes.com###full_ad-screen
 cnyes.com##a[data-proj-ga-category="FloatingBTN"]
+cnys.tv##+js(set-constant, config.group, '')
 co188.com##.suspen
 coachhuey.com##a[href^="https://www.hudl.com"]
 cochranenow.com,discoverhumboldt.com,portageonline.com,swiftcurrentonline.com##.inline-billboard
@@ -95530,6 +95534,7 @@ doupocangqiong1.com,ibiquges.info,ishuquge.com##div[style="margin:10px auto;widt
 douxie.com##.ndxBanner
 douxie.com##.ndxChdjBox
 douyin.com###videoSideBar iframe
+douyin.com###videoSideBar:-abp-has(div:-abp-contains(/商品|商家|退款|店铺/))
 douyin.com#?##douyin-right-container > div[class] > div[class]:has(> ul[class] > li[class] > a[href][target="_blank"] + div:contains(广告))
 douyin.com#?#.xgplayer>div[class]:-abp-has(svg[height="16"][width="30"])
 douyu.com###js-fix-download
@@ -108485,6 +108490,7 @@ wsj.com##.w27771
 wsj.com##.wsj-ad-label
 wsj.com##[aria-label="Sponsored Offers"]
 wsj.com##div[class*="WSJTheme--adWrapper"]
+wss://*/api/wss/GetNotReadCount$third-party
 wst.tv##.footer-logos
 wsvn.com###leader_1
 wtatennis.com##.footer-sponsors
@@ -122335,6 +122341,7 @@ waust.at
 wcdnct.inter.71edge.com/videos/other/*.f4v
 weizhenwx.com
 wpadmngr.com
+wss://*/api/wss/GetNotReadCount$third-party
 xelements.cn
 xhtml?$domain=kanshu8.net
 xhtml?%22+$script,third-party
