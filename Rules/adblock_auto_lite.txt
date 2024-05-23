@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: K1b2bjkNIsJ1oNdpQNrroQ
+! Checksum: Ghjb///uNHrZyS09VLhP6w
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240523002642
+! Version: 20240523092127
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-23 00:26:42
-! Total Count: 27794
+! Last modified: 2024-05-23 09:21:27
+! Total Count: 27803
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6326,6 +6326,7 @@
 ||dramaticdirection.com^$third-party
 ||dreamycanyon.com^$third-party
 ||dressexpansion.com^$third-party
+||dreuaxk.icu^
 ||drfvtgbyk.xyz^
 ||drfvtgbyk.xyz^$third-party
 ||dripappliance.com^$third-party
@@ -9032,6 +9033,7 @@
 ||isoffss.com^
 ||isso.com.cn/club/adv
 ||isso.com.cn^*/A-D/
+||isylieo.top^
 ||iszbxqps.com^
 ||it165.net/index.php?m=poster&
 ||it610.com/views/front/js/special/
@@ -9101,6 +9103,7 @@
 ||ivykiosk.com^$third-party
 ||iwanad.baidu.com^
 ||iwandlo.top^
+||iwanshang8.asia^
 ||iwarship.net/wowsdb/static/img/banner.png
 ||iwatojc.cn^
 ||iwerioo.top^
@@ -9239,6 +9242,7 @@
 ||jhkggrr.icu^
 ||jhl1993.cn^
 ||jhlazsot.icu^
+||jhnnnb.xyz^
 ||jhpbtp.xyz^
 ||jhpxlyd.cn^
 ||jhvchv.xyz^
@@ -9766,6 +9770,7 @@
 ||kgdyoh.icu^
 ||kgeesh.site^
 ||kgelugaz.com^
+||kgeqsu.xyz^
 ||kgeshe.site^
 ||kggikf.icu^
 ||kghgmn.top^
@@ -9845,6 +9850,7 @@
 ||kmr.wdjptto.cn^
 ||kmu.gwmrb.cn^
 ||kmw.com/js/adshow
+||kmwclt.xyz^
 ||kmy.qhwifeq.cn^
 ||kmyyuw.xyz^$third-party
 ||knalzld.top^
@@ -11273,6 +11279,7 @@
 ||mvxz.com/img/
 ||mw6.me/images/*.gif
 ||mwandlx.top^
+||mweriox.top^
 ||mwfyab.icu^
 ||mwqucr.icu^
 ||mwrf.net/images/js/*mrf.js
@@ -11763,6 +11770,7 @@
 ||oh100.com/js/pubuliu.
 ||ohdvafp.xyz^
 ||ohmpyq.xyz^
+||ohncc.cn^
 ||ohopao.xyz^
 ||ohoyao.com^
 ||oiewpw.com^
@@ -15427,6 +15435,7 @@
 ||u2676.com^
 ||u26u.com^$popup,third-party
 ||u2tu4.icu^
+||u2w95z.xyz^
 ||u33011.com^
 ||u33022.com^
 ||u55011.com^
