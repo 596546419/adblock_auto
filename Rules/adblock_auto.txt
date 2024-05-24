@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: QSJoh7uoyCp1Dh6qBn1YTA
+! Checksum: Qp0AzBAonAhpyKuACwNjrA
 ! Title: 混合规则(自动更新)
-! Version: 20240524162435
+! Version: 20240525002312
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-24 16:24:35
-! Total Count: 144771
+! Last modified: 2024-05-25 00:23:12
+! Total Count: 144787
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7544,6 +7544,9 @@
 ||aiadvi.com^
 ||aiai123.cc/js/*.js
 ||aibing.cc/vip/img/gou.gif
+||aiboav.vip/wp-content/uploads/*/3aaa-
+||aiboav.vip/wp-content/uploads/ad/
+||aiboav.vip/wp-content/uploads/uu-chat/*.gif
 ||aibsgc.com^
 ||aibwjqpo.xyz^
 ||aichuangfu.cn/jquery/
@@ -12613,6 +12616,7 @@
 ||bc16fd1a7f.com^
 ||bc5c04eefb.com^
 ||bc84617c73.com^
+||bc98ad.xyz^
 ||bcae944449.com^
 ||bcajjtbzmdrl.com^
 ||bcaquzxajka.com^
@@ -38972,6 +38976,7 @@
 ||inbornsodcharms.com^
 ||inbound-analytics.pixlee.co^
 ||inbound-analytics.pixlee.com^
+||inbound-step.heavenmedia.com^
 ||inbowedkittled.top^
 ||inbowedtroak.top^
 ||inboxtag.com^
@@ -44338,6 +44343,7 @@
 ||l74co.xyz^
 ||l7ghj.xyz^
 ||l7kuyg.site^
+||l7u3kf.cn^
 ||l80ays.com^
 ||l90.xyz^
 ||l936.expressnews.com^
@@ -46530,6 +46536,7 @@
 ||log.tinnhac.com^
 ||log.tinnhanhchungkhoan.vn^
 ||log.tinxe.vn^
+||log.tossinvest.com^
 ||log.tpns.gz2.tencent.com^
 ||log.tpns.tencent.com^
 ||log.trackingio.com^
@@ -47577,6 +47584,7 @@
 ||lyztdz.com^
 ||lyzvbjmeybyqj.top^
 ||lz-pub-ads.com^
+||lzbgeg.com^
 ||lzcgsbe.cn^
 ||lzd2024.com^
 ||lzehcdb.cn^
@@ -59975,6 +59983,7 @@
 ||pqxyqq.com^
 ||pqzjki.cn^
 ||pr-agent.jp^
+||pr-bh.ybp.yahoo.com^
 ||pr-chart.com^
 ||pr-chart.de^
 ||pr-linktausch.de^
@@ -71315,6 +71324,7 @@
 ||startd0wnload22x.com^
 ||startede.com^
 ||starterblackened.com^
+||startfinishthis.com^
 ||starti.pl^
 ||startlemanipulativedamaging.com^
 ||startmode.biz^
@@ -82679,6 +82689,8 @@
 ||vsmyhky.cn^
 ||vsnoon.com^$third-party
 ||vsnpfmoxb.xyz^
+||vsping-*.myqcloud.com/ggw/
+||vsping.com/website/adLinks?
 ||vsping.com/website/ads?
 ||vst.dfn-network.pro^
 ||vst.sibnet.ru^
@@ -85149,6 +85161,7 @@
 ||wqweiog.xyz^
 ||wqyloitd.cn^
 ||wqzjfsmudvpct.com^
+||wqzmed.cn^
 ||wqzqoobqpubx.com^
 ||wqzyxxrrep.com^
 ||wr.yiyouliao.com^
@@ -91235,7 +91248,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 939394.xyz##div[style*="position: fixed;"]
 939394.xyz##img[src*=".xyz"][src*=".gif"]
 939394.xyz##img[src^="/"]
-939394.xyz##img[src^="\\"]
 939394.xyz#?#:-abp-properties(/fixed|data/)
 939394.xyz#?#a:-abp-has(img[src*=".alicdn."])
 939394.xyz#?#a:-abp-has(img[src*="/ddimg/"])
@@ -91882,7 +91894,9 @@ androidauthority.com##._--_-___Zb
 androidauthority.com##.andro-in-article-sidebar-desktop-placement
 androidauthority.com##.andro-mid-article-placement
 androidauthority.com##a[data-sel="dealbar-link"]
+androidauthority.com##div:not([class]) > div[class^="_--_-___"]:has(> div[data-ad-type="leaderboard_atf"])
 androidauthority.com,britannica.com,courthousenews.com,diabetesjournals.org,imgmak.com,imgse.com,infobel.com,kuioo.com,linkedin.com,pilot007.org,radiotimes.com,soundguys.com,x13x.space##.ad-banner
+androidauthority.com,efukt.com##[data-ad-type]
 androidcentral.com,crackberry.com,imore.com,technobuffalo.com,thrifter.com,windowscentral.com##.header-top-alert-bar
 androidcentral.com,imore.com##.no-amazon
 androidcommunity.com,techworm.net##.td-header-rec-wrap
@@ -93416,8 +93430,8 @@ briian.com##.sidebar-widget-area > #custom_html-6
 briian.com##div[class^="hentry-gad-mobile"]
 brila.net,cgmagonline.com,cycling.today,gayexpress.co.nz,theyeshivaworld.com,thisisanfield.com##.td-banner-wrap-full
 brisbanetimes.com.au,smh.com.au,theage.com.au,watoday.com.au###articlePartnerStories
-brisbanetimes.com.au,smh.com.au,theage.com.au,watoday.com.au##[class*=" "] > [class*=" "]:has(> [class] > .adWrapper)
-brisbanetimes.com.au,smh.com.au,watoday.com.au##._2gSkZ
+brisbanetimes.com.au,smh.com.au,theage.com.au,watoday.com.au##._2gSkZ
+brisbanetimes.com.au,smh.com.au,theage.com.au,watoday.com.au##._34z61
 britannica.com##.bc-article-inline-dialogue
 britannica.com,merriam-webster.com##.abl
 britannicaenglish.com##.WordFromSponsor_content_enToar
@@ -96012,7 +96026,6 @@ efu.com.cn##.banners-top-x2
 efu.com.cn##.zs_banner_a
 efu.com.cn##div[class*="banner-"]
 efukt.com##.media_below_container
-efukt.com##[data-ad-type]
 egame.qq.com##.lurk-dialog
 egame.qq.com##.pop-widget
 egamersworld.com##.styles_bb__hb10X
@@ -98916,7 +98929,6 @@ ifeng.com##.ad1000_2
 ifeng.com##.ad1000_box
 ifeng.com##.ad200-2
 ifeng.com##.adR01
-ifeng.com##.ad_01
 ifeng.com##.ad_04
 ifeng.com##.ad_09
 ifeng.com##.ad_12
@@ -99021,6 +99033,7 @@ ifeng.com#?#div[class^="index_yaowen_center"] div[class^="index_news_list_"]:has
 ifeng.com#?#div[class^="titleImg-"]:-abp-has(span[class^="source-"]:-abp-contains(推广))
 ifeng.com,qq.com###advert
 ifeng.com,sohu.com##.ad950
+ifeng.com,vsping.com##.ad_01
 ifeng.com,~mall.ifeng.com##A[href*="mall.ifeng.com"]
 ifenpaidy.com###new_a
 ifenpaidy.com##.btn-copy + .btn
@@ -101268,8 +101281,7 @@ manhuagui.com##.gg_728
 manhuagui.com##.gg_950
 manhuagui.com##.w250 > .mt10[style="width: 300px; height: 250px;"]
 manhuaplus.com##[href^="https://manhuaplussoulland.onelink.me/"]
-manhwabtt.com##.reading-control > [style^="display: flex"]
-manhwabtt.com##.reading-detail > .page-chapter:has(> img[src^="https://image.mangabtt.com//Upload/Content/images/chapter/"]):not(#page_0)
+manhwabtt.com##[style$="min-height: 250px;"]
 manhwaindo.id##.blox
 maniacdev.com##.c4
 manilastandard.net##.custom-banner-customize
@@ -107921,6 +107933,7 @@ vsbattles.com##.vsb_sticky
 vscode.one###flamelab-convo-widget
 vscode.one##._flamelab-ad
 vsping.com##.cell > span > a[href]:not([href*=".vsping.com"])
+vsping.com##div[style^="border-radius: 10px; box-shadow"]
 vsuda.cn,wstimes.cn##.piaofu-left
 vsuda.cn,wstimes.cn##.piaofu-right
 vuejs.org###special-sponsor
@@ -133273,6 +133286,7 @@ zle.com$script
 ##.ahe-ad
 ##.ahe-adsticky
 ##.ai-top-ad-outer
+##.aiboav-ads
 ##.aisle-ad
 ##.aisoad
 ##.ajax_ad
@@ -133495,6 +133509,8 @@ zle.com$script
 ##.aside_ad_large
 ##.aside_banner_ads
 ##.aside_google_ads
+##.aspace-300x169
+##.aspace-300x250
 ##.assis-adlabel
 ##.assort-ad
 ##.async-ad-container

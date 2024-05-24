@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: bOci0ROb/HW1F2GR+qG4WQ
+! Checksum: IZeAqa+qX190kNNvez5F2Q
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240524162446
+! Version: 20240525002323
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-24 16:24:46
-! Total Count: 27815
+! Last modified: 2024-05-25 00:23:23
+! Total Count: 27823
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3263,6 +3263,9 @@
 ||ai.bioon.com^
 ||aiai123.cc/js/*.js
 ||aibing.cc/vip/img/gou.gif
+||aiboav.vip/wp-content/uploads/*/3aaa-
+||aiboav.vip/wp-content/uploads/ad/
+||aiboav.vip/wp-content/uploads/uu-chat/*.gif
 ||aichuangfu.cn/jquery/
 ||aidmat.icu^
 ||aifei0755.net/123/
@@ -10054,6 +10057,7 @@
 ||l5kt1.icu^
 ||l74co.xyz^
 ||l7ghj.xyz^
+||l7u3kf.cn^
 ||l80ays.com^
 ||labadena.com^$third-party
 ||labgpz.xyz^
@@ -16013,6 +16017,8 @@
 ||vserv.mobi^
 ||vsexshop.ru^$third-party
 ||vsnoon.com^$third-party
+||vsping-*.myqcloud.com/ggw/
+||vsping.com/website/adLinks?
 ||vsping.com/website/ads?
 ||vsthouse.ru/a-detector/
 ||vswswlz.icu^
@@ -16382,6 +16388,7 @@
 ||wqnwdjjc.xyz^
 ||wqvbuj.icu^
 ||wqweiog.xyz^
+||wqzmed.cn^
 ||wr.yiyouliao.com^
 ||wrapstretch.com^$third-party
 ||wreckvolcano.com^$third-party
@@ -24866,6 +24873,7 @@ zle.com$script
 ##.adx_center
 ##.afc_popup
 ##.affTpllay[style]
+##.aiboav-ads
 ##.alert_windows > .q-card__actions > a
 ##.amp-ad container
 ##.amp-ad-container
