@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 0FCqEEnjWRiJibEX1sxknw
+! Checksum: 6yT2NE/Ltz/+FF1CISRLzA
 ! Title: 混合规则(自动更新)
-! Version: 20240524002628
+! Version: 20240524092212
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-24 00:26:28
-! Total Count: 144746
+! Last modified: 2024-05-24 09:22:12
+! Total Count: 144763
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3467,6 +3467,7 @@
 ||9738624519.com^
 ||973e017e67.com^
 ||975.vn^
+||977878.xyz^
 ||978655.online^
 ||97927e3b4d.com^
 ||9795x.com^
@@ -11389,6 +11390,7 @@
 ||awecrptjmp.com^
 ||aweighmica.top^
 ||aweinkbum.com^
+||awejmp.com^
 ||awelsorsulte.com^
 ||awembd.com^
 ||awemdia.com^
@@ -29893,6 +29895,7 @@
 ||fkjdz.cyou^
 ||fkjsjwbs.xyz^
 ||fkkse.com^
+||fklgndklbngg.com^
 ||fkllodaa.com^
 ||fknrtpp.cn^
 ||fkodq.com^
@@ -41868,6 +41871,7 @@
 ||jrofvedr.xyz^
 ||jrolyrlkjyeqw.top^
 ||jrpkizae.com^
+||jrpolj.xyz^
 ||jrqmkrggfwd.xyz^
 ||jrqwfdkksamx.com^
 ||jrrryblqkaejw.top^
@@ -42087,6 +42091,7 @@
 ||jsxwfb.xyz^
 ||jsyd139.com^$third-party
 ||jsyefc.com^
+||jsyliea.top^
 ||jsyrynq.com^
 ||jsyzw132.com^
 ||jszavs1.com^
@@ -51145,6 +51150,7 @@
 ||mt34iofvjay.com^
 ||mt4v4.com^
 ||mt66g.com^
+||mt67.net^
 ||mtabdil.com^
 ||mtag.mman.kr^
 ||mtawcy.xyz^
@@ -56223,6 +56229,7 @@
 ||outgateniceish.com^
 ||outglowkeysets.guru^
 ||outgrinuntold.com^
+||outheelrelict.com^
 ||outherunrid.digital^
 ||outhulem.net^
 ||outkisslahuli.com^
@@ -76949,6 +76956,7 @@
 ||tracking.atreemo.com^
 ||tracking.audio.thisisdax.com^
 ||tracking.avestatidning.com^
+||tracking.b-cdn.net^
 ||tracking.bababam.com^
 ||tracking.bandypuls.se^
 ||tracking.banner.g6.zing.vn^
@@ -77143,6 +77151,7 @@
 ||tracking.pornhd.com^
 ||tracking.practicefusion.com^
 ||tracking.prd.mz.internal.unity3d.com^
+||tracking.prepr.io^
 ||tracking.prismpartner.smt.docomo.ne.jp^
 ||tracking.purchasely.io^
 ||tracking.rapidape.com^
@@ -82391,6 +82400,7 @@
 ||volts.shopping.naver.com^
 ||volumedpageboy.com^
 ||voluminoussoup.pro^
+||volumntime.com^
 ||voluntarilylease.com^
 ||voluntarilystink.com^
 ||volunteerboutique.com^
@@ -85113,6 +85123,7 @@
 ||wpshsdk.com^$third-party
 ||wpsmcns.com^
 ||wpu.sh^
+||wpuiuwh.icu^
 ||wpunativesh.com^
 ||wpush.org^
 ||wpushorg.com^
@@ -85230,6 +85241,7 @@
 ||wsapi-global.master.live^
 ||wsapi.master.live^
 ||wsbnk.com^
+||wscewc.xyz^
 ||wschao.xyz^
 ||wsdd11.com^
 ||wsdfame.com^
@@ -87305,6 +87317,7 @@
 ||ygfjy.top^
 ||ygfytomneijjj.com^
 ||yggkzs.cn^
+||ygh5.cn^
 ||yghua.com^$third-party
 ||ygkwjd.xyz^
 ||ygljaph.cn^
@@ -97210,6 +97223,7 @@ gamepix.com##div[id^="gpx-banner"]
 gameplanet.co.nz##.avt-mr
 gameplanet.co.nz##.avt-placement
 gamepressure.com###baner-outer
+gamepressure.com##.ad-2020-rec-alt-mob
 gamepressure.com,guides.gamepressure.com##.if-no-baner
 gamepur.com##.wp-block-dotesports-affiliate-button
 gamer.com.tw###BH-bigbanner
@@ -98297,6 +98311,7 @@ hellporno.net##span[id^="HT-TAB-"]
 hellporno.net,bravoporn.com,alphaporno.com,sex3.com,crocotube.com,bravoteens.com,zedporn.com,hellmoms.com,tubewolf.com,xbabe.com,hellporno.com,xcum.com,anyporn.com##+js(set-constant, vastEnabled, false)
 helpnetsecurity.com##.mbw
 helpnetsecurity.com##.widgetized_wrapper
+helpnetsecurity.com##[data-origin][style]
 helpsetup.ru##.veramoy
 helpwithwindows.com###desc
 hentai-cosplays.com,hentai-img.com,porn-images-xxx.com###display_image_detail > span
@@ -103520,6 +103535,8 @@ popdaily.com.tw##div[class^="ad-delimiter-"]
 popsci.com,thedrive.com##.empire-below_content__desktop__articles-prefill-container
 popsci.com,thedrive.com##.empire-content__desktop__articles-prefill-container
 popsci.com,thedrive.com##.empire-header__desktop__article-prefill-container
+popularmechanics.com##[class] > :has(> #article-marketplace-horizontal)
+popularmechanics.com##[class] > :has(> #gpt-ad-vertical-bottom)
 porn*.com/bees.js|
 porn*.me/bees.js|
 porn*.net/bees.js|
