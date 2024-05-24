@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 6yT2NE/Ltz/+FF1CISRLzA
+! Checksum: QSJoh7uoyCp1Dh6qBn1YTA
 ! Title: 混合规则(自动更新)
-! Version: 20240524092212
+! Version: 20240524162435
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-24 09:22:12
-! Total Count: 144763
+! Last modified: 2024-05-24 16:24:35
+! Total Count: 144771
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1712,6 +1712,7 @@
 ||365xuet.com/assets/web/js/main.jsr_
 ||366226193c.com^
 ||367207f60c.com^
+||369bgrec.top^
 ||369c83119d.com^
 ||36b7ca5028.com^
 ||36dfsa.com^
@@ -56954,6 +56955,7 @@
 ||pannamdashee.com^
 ||pannamsaluter.com^
 ||pannumregnal.com^
+||panorama.wixapps.net^
 ||panoramicbutter.com^$third-party
 ||panoz.xyz^
 ||panpan.org/js/google
@@ -80051,6 +80053,7 @@
 ||uslsxe.com^
 ||usltmus.cn^
 ||uslycoloursewo.com^
+||usmgoxe.cn^
 ||usmhimw.cn^
 ||usnczrq.cn^
 ||usnese.com^
@@ -92849,7 +92852,7 @@ belloflostsouls.net#?#span.text-secondary:-abp-contains(Advertisement)
 belloflostsouls.net,ginx.tv,op.gg,theloadout.com##.vm-placement
 bendibao.com###wxbox
 bendibao.com,gz.bendibao.com##.content_r_ad300
-bendsource.com,buzzfeed.com,federalnewsnetwork.com,gamedeveloper.com,imgur.io,iotworldtoday.com,le.com,lonelyplanet.com,sevendaysvt.com,styleweekly.com,tasty.co,tucsonweekly.com##.Ad
+bendsource.com,buzzfeed.com,darkreading.com,federalnewsnetwork.com,gamedeveloper.com,imgur.io,iotworldtoday.com,le.com,lonelyplanet.com,sevendaysvt.com,styleweekly.com,tasty.co,tucsonweekly.com##.Ad
 bentoneveningnews.com,dailyregister.com,dailyrepublicannews.com,duquoin.com,randolphcountyheraldtribune.com###billBoardATF
 benxiang.com##.ad_duilian
 benxiang.com##.ad_ld
@@ -93413,7 +93416,7 @@ briian.com##.sidebar-widget-area > #custom_html-6
 briian.com##div[class^="hentry-gad-mobile"]
 brila.net,cgmagonline.com,cycling.today,gayexpress.co.nz,theyeshivaworld.com,thisisanfield.com##.td-banner-wrap-full
 brisbanetimes.com.au,smh.com.au,theage.com.au,watoday.com.au###articlePartnerStories
-brisbanetimes.com.au,smh.com.au,theage.com.au,watoday.com.au##[class] > :has(> .adWrapper)
+brisbanetimes.com.au,smh.com.au,theage.com.au,watoday.com.au##[class*=" "] > [class*=" "]:has(> [class] > .adWrapper)
 brisbanetimes.com.au,smh.com.au,watoday.com.au##._2gSkZ
 britannica.com##.bc-article-inline-dialogue
 britannica.com,merriam-webster.com##.abl
@@ -101265,6 +101268,8 @@ manhuagui.com##.gg_728
 manhuagui.com##.gg_950
 manhuagui.com##.w250 > .mt10[style="width: 300px; height: 250px;"]
 manhuaplus.com##[href^="https://manhuaplussoulland.onelink.me/"]
+manhwabtt.com##.reading-control > [style^="display: flex"]
+manhwabtt.com##.reading-detail > .page-chapter:has(> img[src^="https://image.mangabtt.com//Upload/Content/images/chapter/"]):not(#page_0)
 manhwaindo.id##.blox
 maniacdev.com##.c4
 manilastandard.net##.custom-banner-customize
@@ -107851,6 +107856,8 @@ vipthz.com###fwin_content_imc_attachad [style="WIDTH: 100%; padding-left:10px;"]
 virginradio.co.uk##div[class^="css-"]:has(> .ad-outline)
 virtuagirlgirls.com###DynamicBackgroundWrapper
 visualcapitalist.com##.visua-target
+vitalmtb.com##.desktop-header-ad
+vitalmtb.com##.v-ad-slot
 viu.com##div[data-marker-title="undefined"]
 viu.com##div[id^="info"]
 viva.co.nz##.big-banner
@@ -131016,6 +131023,7 @@ zle.com$script
 ##.adb-def
 ##.adb-detect.simple-alert-boxes
 ##.adb-enabled
+##.adb-top
 ##.adbTrkWt
 ##.adback
 ##.adban

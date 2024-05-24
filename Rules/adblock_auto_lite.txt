@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: xZP3eoFNsY2eJj8PQvzQJg
+! Checksum: bOci0ROb/HW1F2GR+qG4WQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240524092224
+! Version: 20240524162446
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-24 09:22:24
-! Total Count: 27812
+! Last modified: 2024-05-24 16:24:46
+! Total Count: 27815
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -588,6 +588,7 @@
 ||360yield.com^
 ||365kl.net/data/attachment/portal/
 ||365rich.cn/ba.aspx
+||369bgrec.top^
 ||36dm.club/javascripts/apsidemoot.js
 ||36gv.com^
 ||36img.com/ad/
@@ -7118,6 +7119,7 @@
 ||fkf5.com/public/js/static.js
 ||fkhxlz.xyz^
 ||fkjsjwbs.xyz^
+||fklgndklbngg.com^
 ||fl6n.com/adtop/
 ||flakyfeast.com^$third-party
 ||flameuncle.com^$third-party
@@ -15664,6 +15666,7 @@
 ||uslsjwnk.xyz^
 ||uslsxe.com^
 ||usltmus.cn^
+||usmgoxe.cn^
 ||usp1.baidu.com^
 ||ustv123.com/images/axd.js
 ||usualt.com^$third-party,important
