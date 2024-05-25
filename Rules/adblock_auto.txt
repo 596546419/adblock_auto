@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: h/h2LFl4zSe7TxDB7LX1bw
+! Checksum: fxR9kkjkmlI1NULV0SDW9g
 ! Title: 混合规则(自动更新)
-! Version: 20240525162410
+! Version: 20240526002324
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-25 16:24:10
-! Total Count: 144814
+! Last modified: 2024-05-26 00:23:24
+! Total Count: 144839
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3826,6 +3826,7 @@
 ||a1.twtym.com^
 ||a1.yaozui.com^
 ||a1.zhanzhang.net^
+||a11d3c1b4d.com^
 ||a11k.com^
 ||a14net.com^
 ||a14refresh.com^
@@ -4229,6 +4230,7 @@
 ||abqdgu.xyz^
 ||abqjst.com^
 ||abqmfewisf.com^
+||abqnupogcwhi.com^
 ||abrasivematch.com^
 ||abrhydona.com^
 ||abridebouch.com^
@@ -5483,6 +5485,7 @@
 ||adlatch.com^
 ||adlayer.net^
 ||adleads.com^
+||adleap.jp^
 ||adlegend.com^
 ||adless.io^
 ||adlhxwb.xyz^
@@ -10408,6 +10411,7 @@
 ||artisticcount.pro^
 ||artistictastesnly.info^
 ||artistperhapscomfort.com^
+||artistspipe.top^
 ||artlessdeprivationunfriendly.com^
 ||artlessdevote.com^
 ||artonsbewasand.com^
@@ -11636,6 +11640,7 @@
 ||azkcqs.com^
 ||azkrya.xyz^
 ||azkwwrerlejqv.top^
+||azlmizbvgjfe.com^
 ||azmjosvecyye.com^
 ||azmnp.com^
 ||azmsmufimw.com^
@@ -16342,6 +16347,7 @@
 ||cahf4eed.mooo.com^
 ||cahvpbsikxvvm.xyz^
 ||cai110.com/js/2
+||cai75tp.com^
 ||caibaojian.com/d/uploads/*/atop-
 ||caibaojian.com/d/uploads/*0-
 ||caibtwnpvta.xyz^
@@ -16560,6 +16566,7 @@
 ||caperedlevi.com^
 ||capetumbledcrag.com^
 ||caphaiks.com^
+||caphrizing.com^
 ||caphyon-analytics.com^
 ||capitalistblotbits.com^
 ||capitalistlukewarmdot.com^
@@ -19796,6 +19803,7 @@
 ||compound-swap.com^
 ||comprehendbighearted.com^
 ||comprehendpaying.com^
+||comprehensive3x.fun^
 ||comprehensiveunconsciousblast.com^
 ||compresshumpenvious.com^
 ||compresssavvydetected.com^
@@ -23273,6 +23281,7 @@
 ||dfzv25.com^
 ||dg2255.com^
 ||dgafgadsgkjg.top^
+||dgamapxs.com^
 ||dgaoz.com^
 ||dgayibf.icu^
 ||dgbaozhuang.cn^
@@ -23372,6 +23381,7 @@
 ||diamax.hk^
 ||diametercurl.com^
 ||diametersunglassesbranch.com^
+||diamiu.com/wp-content/uploads/1200-200.
 ||diamondmodapk.com^
 ||diamondtraff.com^
 ||dian.brecm.xyz^
@@ -24106,6 +24116,7 @@
 ||dkswptmwowowp.xyz^
 ||dktoo.site^
 ||dkudnwb.cn^
+||dkuekrwiwr.com^
 ||dkvakldvnsv.com^
 ||dkvuey.xyz^
 ||dkxobcs.cn^
@@ -26201,6 +26212,7 @@
 ||edwate.com^
 ||edwfdhkgnx.com^
 ||edxfquupejhbrey.com^
+||edzuahkymbureo.com^
 ||edzwmobmj.com^
 ||edzyhx.cn^
 ||ee-softs.com^
@@ -27146,6 +27158,7 @@
 ||envious-low.com^
 ||enviouscredentialdependant.com^
 ||enviousforegroundboldly.com^
+||enviousinevitable.com^
 ||enviouspipe.com^
 ||enviousroom.pro^
 ||enviousshape.com^
@@ -38966,6 +38979,7 @@
 ||inanepercyfinancially.com^
 ||inanityacromia.life^
 ||inanitystorken.com^
+||inappropriate2.fun^
 ||inappropriateoutdoorsconfiguration.com^
 ||inapps.appsflyer.com^
 ||inareputaonforha.com^
@@ -44200,6 +44214,7 @@
 ||kxjanwkatrixltf.xyz^
 ||kxji.com^$third-party
 ||kxkqqycs.xyz^
+||kxkqxdgp.com^
 ||kxla.xyz^
 ||kxlidd.ink^
 ||kxm1b0u.com^
@@ -53752,6 +53767,7 @@
 ||notionfoggy.com^
 ||notionsshrivelcustomer.com^
 ||notionstayed.com^
+||notjdyincro.com^
 ||notonthebedsheets.com^
 ||notorietycheerypositively.com^
 ||notorietynoblemanproposition.com^
@@ -63235,6 +63251,7 @@
 ||rapidtrk.net^
 ||rapingdistil.com^
 ||rapolok.com^
+||rappjsps.com^
 ||rapt.com^
 ||raptapee.com^
 ||raptingy.net^
@@ -65503,6 +65520,7 @@
 ||rrkky.top^
 ||rrll.love^
 ||rrmlejvyqebk.top^
+||rrnhilainbjii.com^
 ||rrobbybvvbybj.top^
 ||rrolqae.com^
 ||rronsep.com^
@@ -72534,6 +72552,7 @@
 ||suchcesusar.org^
 ||suchmaschinen-ranking-hits.de^
 ||suchroused.com^
+||suckae.xyz^
 ||suckfaintlybooking.com^
 ||suclj.xyz^
 ||sucloud.xyz/js/tou.js
@@ -83471,6 +83490,7 @@
 ||wclsylk.cn^
 ||wcltbpbnlf.com^
 ||wcmcs.net^
+||wcnhhqqueu.com^
 ||wcnmd.top^
 ||wcnndaazbwmane.com^
 ||wco.crownpeak.com^
@@ -89090,6 +89110,7 @@
 ||zjgjzzy.online^
 ||zjgzp4z9.club^
 ||zjgzp4z9.xyz^
+||zjhebfwr.com^
 ||zjjhfc.com/js/zt.js
 ||zjjlhvo.xyz^
 ||zjjrlx4.com^
@@ -96093,6 +96114,7 @@ electronicshub.org,net-load.com###text-25
 element-plus.gitee.io##.sidebar > .page-content
 element-plus.gitee.io,element-plus.org##.toc-content > .m-t-16px
 element-plus.gitee.io,element-plus.org##aside > .page-content
+element-plus.org##.page-content-main-a
 element-plus.org##.toc-content > div[style="margin-top:16px;"]
 element-plus.org##aside > .page-content-main
 elephanttube.world##.bottom-block
@@ -104137,6 +104159,8 @@ progressillinois.com,slitaz.org###sponsor
 projectorcentral.com##.addDiv2
 projectorcentral.com##.addDiv3
 prokerala.com##.adm-unit
+promocodie.com##.afc-container
+promocodie.com##.afs-wrapper
 propertyfinderph.com##.banners-wrapper
 propertyshark.com###google-ads-directoryViewRight
 proporn.cc#?#.c-denomination > div > h2:contains(Advertis)
@@ -132002,6 +132026,7 @@ zle.com$script
 ##.ads_middle-container
 ##.ads_middle_container
 ##.ads_mobile
+##.ads_mobile_vert
 ##.ads_mpu
 ##.ads_outer
 ##.ads_outline

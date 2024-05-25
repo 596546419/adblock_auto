@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: an2IsGuMYuoJxHPuOT2t9A
+! Checksum: aEKlQ3hcXfa0W7s+qurJTQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240525162421
+! Version: 20240526002335
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-25 16:24:21
-! Total Count: 27829
+! Last modified: 2024-05-26 00:23:35
+! Total Count: 27832
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4856,6 +4856,7 @@
 ||cads.scalemonk.com^
 ||cafe-latte.myshoplus.com^
 ||cai110.com/js/2
+||cai75tp.com^
 ||caibaojian.com/d/uploads/*/atop-
 ||caibaojian.com/d/uploads/*0-
 ||caider.fun^
@@ -6054,6 +6055,7 @@
 ||dhxrop.com^
 ||dhxrxn.xyz^
 ||di2y21.top/jian/jiansshu.js
+||diamiu.com/wp-content/uploads/1200-200.
 ||dian.brecm.xyz^
 ||dian500.com^$third-party
 ||dianassb.com^
@@ -6744,6 +6746,7 @@
 ||entertainingeyes.com^$third-party
 ||enthusiasticdad.com^$third-party
 ||entry.baidu.com/rp/home?
+||enviousinevitable.com^
 ||enviousshape.com^$third-party
 ||enviousthread.com^$third-party
 ||eo.sdahxz.xyz^$third-party
