@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: DohPwaLGVgmOfWQyCTHdxA
+! Checksum: h/h2LFl4zSe7TxDB7LX1bw
 ! Title: 混合规则(自动更新)
-! Version: 20240525092039
+! Version: 20240525162410
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-25 09:20:39
-! Total Count: 144808
+! Last modified: 2024-05-25 16:24:10
+! Total Count: 144814
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -510,6 +510,7 @@
 ||1199279496.rsc.cdn77.org^
 ||119xiazai.com^$subdocument
 ||11a5ade414a6a4b9969685db9e96b193.com^
+||11c7a3.xyz^
 ||11f1b925c4.com^
 ||11g1ip22h.de^
 ||11img.com/ad/
@@ -9593,6 +9594,7 @@
 ||aodepuo.cn^
 ||aofppecbmordq.com^
 ||aofzkovajqti.com^
+||aogk88.asia^
 ||aogkfujgtmfwp.xyz^
 ||aoihaizo.xyz^
 ||aojeet.icu^
@@ -43943,6 +43945,7 @@
 ||kswiwxupqa.com^
 ||ksxb.ltd^
 ||ksykbucea.com^
+||ksylied.top^
 ||ksyompbwor.xyz^
 ||ksyrium0014.com^
 ||kszc.j1evtmx.xyz^
@@ -49681,6 +49684,7 @@
 ||milk.supertool.stunnermedia.com^
 ||milk.yesky.com.cn^
 ||milkejusd.website^
+||milksquadronsad.com^
 ||milkygoodness.xyz^
 ||milkywaynewspaper.com^
 ||millennialmedia.com^
@@ -96143,6 +96147,7 @@ engadget.com###ldrBoardAd
 engadget.com###outstreamPlayer-inArticle
 engadget.com##.Mih\(90px\)
 engadget.com##.Py\(30px\).Bgc\(engadgetGhostWhite\)
+engadget.com##.Td\(n\).Bdbc\(engadgetGutter\).Py\(40px\)
 engadget.com##.da-container
 engadget.com##.inline-emphasis
 engadget.com##.related-content-lazyload
@@ -106167,6 +106172,7 @@ superlife.ca##.sidebar-ad-zone
 supjav.com##.simpleToast
 supplychainbrain.com##.right-rail-sponsors
 supportdap.online##.td-post-content > a[rel="nofollow"] > img
+surfline.com###sl-header-ad
 surfline.com##.quiver-google-dfp
 surfwap.com##.ahblock2
 surinenglish.com##.publiTop
