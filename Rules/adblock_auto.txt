@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Qp0AzBAonAhpyKuACwNjrA
+! Checksum: DohPwaLGVgmOfWQyCTHdxA
 ! Title: 混合规则(自动更新)
-! Version: 20240525002312
+! Version: 20240525092039
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-25 00:23:12
-! Total Count: 144787
+! Last modified: 2024-05-25 09:20:39
+! Total Count: 144808
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8197,6 +8197,7 @@
 ||allobarpepped.uno^
 ||allocatelacking.com^
 ||allodiafeveret.life^
+||allodsubussu.com^
 ||alloha.tv^
 ||allosponsor.com^
 ||allotnegate.com^
@@ -8848,6 +8849,7 @@
 ||analytics.contents.by-fw.jp^
 ||analytics.convertlanguage.com^
 ||analytics.cookiefirst.dev^
+||analytics.cosmonova.net^
 ||analytics.crazygames.com^
 ||analytics.crea.ca^
 ||analytics.daasrv.net^
@@ -13201,6 +13203,7 @@
 ||belstat.fr^
 ||belstat.nl^
 ||beltarklate.live^
+||beltwaythrust.com^
 ||beludicolor.com^
 ||belwrite.com^
 ||belyyeusy.com^
@@ -38072,6 +38075,7 @@
 ||ie3wisa4.com^
 ||ie8eamus.com^
 ||ieamsbpzu.com^
+||ieapak.xyz^
 ||ieatlu.xyz^
 ||iebsmqevw.com^
 ||iecetun.cn^
@@ -40687,6 +40691,7 @@
 ||jakescribble.com^
 ||jakeycorkage.digital^
 ||jakid.xyz^
+||jalapamaro.com^
 ||jaletemetia.com^
 ||jalewaads.com^
 ||jaloppystudy.life^
@@ -42422,6 +42427,7 @@
 ||jxpjltwdeu.com^
 ||jxpqjztcprvvb.com^
 ||jxpxzxf.cn^
+||jxqdl.cn^
 ||jxtejf.xyz^
 ||jxtest.bolecdn.com/player/*.gif
 ||jxuhurp.icu^
@@ -51305,6 +51311,7 @@
 ||mujkdna.xyz^
 ||mukhtarproving.com^
 ||mukjozy.cn^
+||mulaukso.com^
 ||mulberryay.com^
 ||mulberrydoubloons.com^
 ||mulberryresistoverwork.com^
@@ -55588,6 +55595,7 @@
 ||opdowvamjv.com^
 ||opealleven.com^
 ||opeanresultanc.com^
+||opeanresultancete.info^
 ||opeci.cyou^
 ||opeem.cyou^
 ||opefaq.com^
@@ -55818,6 +55826,7 @@
 ||oralmaliciousmonday.com^
 ||oranegfodnd.com^
 ||orangeads.fr^
+||orangeclickmedia.com^
 ||orangeconsoleclairvoyant.com^
 ||orangeoperation.com^$third-party
 ||oranges88.com^
@@ -56294,6 +56303,7 @@
 ||ouveelsa.xyz^
 ||ouvrestance.com^
 ||ouvyil.com^
+||ouwhejoacie.xyz^
 ||ouwmdvd.cn^
 ||ouxutong.com^
 ||ouxvgihpkjfkhs.xyz^
@@ -58427,6 +58437,7 @@
 ||pikedhelloed.com^
 ||pikepreviousi.com^
 ||pikrumsi.net^
+||piksrie.icu^
 ||pikzor.com^
 ||pilaffskoniga.com^
 ||pilaryhurrah.com^
@@ -63341,6 +63352,7 @@
 ||rbqlbolklrvmk.top^
 ||rbrbr88p.cn^
 ||rbrightscarletcl.info^
+||rbrmhz.xyz^
 ||rbrv9.cn^
 ||rbrvifibj.com^
 ||rbrxg.com^
@@ -74575,6 +74587,7 @@
 ||terttalkinhitin.pro^
 ||tescoshop.shop^
 ||teslaamg.obs.cn-east-3.myhuaweicloud.com^
+||tesousefulhead.info^
 ||tessratans.com^
 ||tesswithoughcle.com^
 ||test-studio.ru^
@@ -78759,6 +78772,7 @@
 ||uadexchange.com^
 ||uads.cc^
 ||uads.digital^
+||uads.guru^
 ||uads.info^
 ||uads.pw^
 ||uads.space^
@@ -79154,6 +79168,7 @@
 ||ulmoyc.com^
 ||ulmpyqgfqkffe.com^
 ||ulmujev.com^
+||ulnaswotter.top^
 ||ulngjwvbhyyfkum.com^
 ||ulnhlnsw.com^
 ||ulnidkdlaxclpo.com^
@@ -79826,6 +79841,7 @@
 ||upsidesheminee.com^
 ||upsight.com^
 ||upskittyan.com^
+||upspewsafener.com^
 ||upspinarakor.com^
 ||upstagecarvers.cfd^
 ||upstandhurls.website^
@@ -91235,6 +91251,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 92wy.com##.adhengfu
 9312.net##.pop-up
 939394.xyz##.allBg > div[style="display: block;"]
+939394.xyz##.j_m_ad
 939394.xyz##.j_r_w
 939394.xyz##.j_r_w + a
 939394.xyz##.wrap.mb8.mt5 ~ div[class]:not(.outer)
@@ -91243,6 +91260,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 939394.xyz##a[href^="/"]:not([href*="."]) > img[src*=".gif"]
 939394.xyz##a[href^="/"][href$=".html"] > img[src*=".gif"]:not([data-original])
 939394.xyz##a[style="display: block;"]
+939394.xyz##body > table:first-child img
 939394.xyz##div[class] > div:not([class]):not([id])
 939394.xyz##div[id^="left_layer"]
 939394.xyz##div[style*="position: fixed;"]
@@ -100481,6 +100499,9 @@ krnb.com###inner-footer
 kroger.com##.AutoGrid-cell:has(.ProductCard-tags > div > span[data-qa="featured-product-tag"])
 kroger.com##a[title^="Advertisement:"]
 krunker.io###aHolder
+krunker.io###streamContainer
+krunker.io###topLeftAdHolder
+krunker.io###topRightAdHolder
 ks.js.cn##.height200
 ks.js.cn##.height60
 ks.js.cn##.height70
