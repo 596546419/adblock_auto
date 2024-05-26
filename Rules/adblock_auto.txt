@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: u7ObG6yv394ATxtYZKszxQ
+! Checksum: W4GECVzOln1BpW4OhTa3mA
 ! Title: 混合规则(自动更新)
-! Version: 20240526162326
+! Version: 20240527002443
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-26 16:23:26
-! Total Count: 144872
+! Last modified: 2024-05-27 00:24:43
+! Total Count: 144894
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3477,6 +3477,7 @@
 ||978655.online^
 ||97927e3b4d.com^
 ||9795x.com^
+||97b448.xyz^
 ||97d73lsi.com^
 ||97e4ef7bf5.com^
 ||98.126.219.*/ads/
@@ -14091,6 +14092,7 @@
 ||bjjnovsnejwm.com^
 ||bjmama.net/a/spc_
 ||bjmantis.net^
+||bjmilicshimxym.com^
 ||bjornecoydog.com^
 ||bjpvbufsxjhvq.com^
 ||bjpwv.com^
@@ -20379,6 +20381,7 @@
 ||cosyroom.biz^
 ||cosysuppressed.com^
 ||cotalles.com^
+||cotatholt.net^
 ||cotchaug.com^
 ||coticoffee.com^
 ||cotingavintry.website^
@@ -22490,6 +22493,7 @@
 ||dd0122893e.com^
 ||dd1.diymianmo.com^
 ||dd112233dd.com^
+||dd2270.xyz^
 ||dd5889a9b4e234dbb210787.com^
 ||dd6364.com/js/777/
 ||dd667788dd.com^
@@ -22675,6 +22679,7 @@
 ||dedcrfvdj.xyz^
 ||deddsunland.com^
 ||dedfearingles.info^
+||dedfearinglestp.info^
 ||dedicatedmedia.com^
 ||dedicatednetworks.com^
 ||dedicatedsummarythrone.com^
@@ -26574,6 +26579,7 @@
 ||ejjek.top^
 ||ejktj.com^
 ||ejnjapw.cn^
+||ejnrvilfilnz.com^
 ||ejolul.xyz^
 ||ejpzqnqwcszfsz.com^
 ||ejrigxesvg.com^
@@ -31831,6 +31837,7 @@
 ||gapp1.com^
 ||gappiertransfd.top^
 ||gapscult.com^
+||gaptooju.net^
 ||gaqscipubhi.com^
 ||gaquxe8.site^
 ||garacy.cn^
@@ -49222,6 +49229,7 @@
 ||mentrandi.com^
 ||mentswithde.com^
 ||mentxviewsinte.info^
+||mentxviewsinterf.info^
 ||menu.metu.vn^
 ||menui.xyz^
 ||menuoverridemotherhood.com^
@@ -55524,6 +55532,7 @@
 ||oobitsou.net^
 ||oobuwjnlljbah.com^
 ||oocie.cn^
+||oocsutvtggeuu.com^
 ||oocxefrgn.com^
 ||oodcd.cn/pan/config/ad.json
 ||oodcd.cn/pan/config/copy.
@@ -61063,6 +61072,7 @@
 ||ptoagnin.xyz^
 ||ptoahaistais.com^
 ||ptoajait.net^
+||ptoakooph.net^
 ||ptoaltie.com^
 ||ptoangir.com^
 ||ptoapouk.com^
@@ -65029,6 +65039,7 @@
 ||rkgnmwre.site^
 ||rkgwzfwjgk.com^
 ||rkgwzfwjgk.com^$third-party
+||rkifguxul.com^
 ||rkjnazpgfihz.com^
 ||rkkhuwl.cn^
 ||rknwwtg.com^
@@ -69792,6 +69803,7 @@
 ||smatr.icu^
 ||smatr.net^
 ||smbx8.net^
+||smctmxdeoz.com^
 ||smearedbin.com^
 ||smearincur.com^
 ||smeartoassessment.com^
@@ -75287,6 +75299,7 @@
 ||thusqhlt.com^
 ||thussr.com^
 ||thutes.com^
+||thuthoock.net^
 ||thutsish.xyz^
 ||thutucnhangiai2022.com^
 ||thutucnhantien-tunuocngoai.weebly.com^
@@ -86643,6 +86656,7 @@
 ||xqzwtvjkjj.com^
 ||xqzzl1l.cn^
 ||xr-tds.com^
+||xragnfrjhiqep.xyz^
 ||xray.mail.ru^
 ||xrb0owc.icu^
 ||xrcembm.cn^
@@ -87444,6 +87458,7 @@
 ||yhlvgpqsr.com^
 ||yhlzadr.xyz^
 ||yhmeinv.com/mh/
+||yhmhbnzz.com^
 ||yhnvgdkw.xyz^
 ||yholvajpu.com^
 ||yhomrdh.com^
@@ -88383,6 +88398,7 @@
 ||yzc35326.top^
 ||yzcpgadw.icu^
 ||yzdh44.com/js/
+||yzerabwdkpaee.com^
 ||yzfrapd.xyz^
 ||yzgid.cn^
 ||yziwoidi.icu^
@@ -99634,6 +99650,9 @@ iqiyi.com##a[href*=".banggo."]
 iqiyi.com##a[href*=".oppo."]
 iqiyi.com##a[id^="100000"]
 iqiyi.com##div[class^="ad-piclist-"]
+iqiyi.com##div[class^="video-slide_normal"]>a[href^="http"]:not([href*="iqiyi.com"]) div[class^="video-slide_row"]
+iqiyi.com##div[class^="video-slide_normal"]>a[href^="http"]:not([href*="iqiyi.com"])>div>img
+iqiyi.com##div[class^="video-slide_threeImagePages"]>a[href^="http"]:not([href*="iqiyi.com"])>div
 iqiyi.com##div[data-adzone],#block-V
 iqiyi.com##div[id^="div_theatre"]
 iqiyi.com##div[style^="z-index: 4200; position: absolute; left:"]
@@ -100948,8 +100967,11 @@ live94today.com##.js-demo-avd
 livecamrips.com###live-cam
 livecharts.co.uk##.banner_long
 livejournal.com##.allbanners
+livejournal.com##.mdspost-aside__item--banner
 livejournal.com##.pagewide-wrapper
 livejournal.com##.xhtml_banner
+livejournal.com##[class*="categories"] + div[class]:has(> [class*="-commercial"])
+livejournal.com##[style$="width: 300px;"]
 livejournal.com##div[data-google-query-id]
 livelaw.in###news_on_exit
 livelaw.in##.modal_wrapper_frame
@@ -112469,7 +112491,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad/images/*$domain=~studiocalling.it
 /ad/images/*$image,domain=~studiocalling.it
 /ad/img/*
-/ad/img/*$image,domain=~jiji.com
+/ad/img/*$image,domain=~eki-net.com|~jiji.com
 /ad/imp?
 /ad/index.
 /ad/index/*
