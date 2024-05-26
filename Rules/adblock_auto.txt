@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: RS+giWbxzefOiM+d2OM+WQ
+! Checksum: u7ObG6yv394ATxtYZKszxQ
 ! Title: 混合规则(自动更新)
-! Version: 20240526092810
+! Version: 20240526162326
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-26 09:28:10
-! Total Count: 144868
+! Last modified: 2024-05-26 16:23:26
+! Total Count: 144872
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1675,6 +1675,7 @@
 ||360.cn/int/getadurls?
 ||360.cn/popup/popinfo/
 ||360114.xyz^
+||3601880.xyz^
 ||36060.xyz^
 ||360600.xyz^
 ||360640.com^
@@ -2396,6 +2397,7 @@
 ||5ca59a669a.com^
 ||5caa478343.com^
 ||5cbbdb4434.com^
+||5ceea3.xyz^
 ||5cf8606941.com^
 ||5d2d04464c.com^
 ||5d63ec2d2f.com^
@@ -55512,6 +55514,7 @@
 ||onwekdebd.xyz^
 ||onx8.com/theme/tange/add/
 ||onx8.com/zb_users/theme/ydgreen/style/ad/
+||onxeacj.cn^
 ||onxtxdm.xyz^
 ||onychinferous.top^
 ||onzazqarhmpi.com^
@@ -93455,9 +93458,9 @@ bqprime.com##.story-base-template-m__vuukle-ad__g1YBt
 brainyquote.com##.bq_ad_320x250_multi
 bramptonguardian.com###tncms-region-global-container-bottom
 bramptonguardian.com##.adSlot___3IQ8M
-bramptonguardian.com,guelphmercury.com,insideottawavalley.com,niagarathisweek.com,therecord.com,thespec.com,thestar.com,wellandtribune.ca##.adLabelWrapper
+bramptonguardian.com,guelphmercury.com,insideottawavalley.com,niagarafallsreview.ca,niagarathisweek.com,thepeterboroughexaminer.com,therecord.com,thespec.com,thestar.com,wellandtribune.ca##.adLabelWrapper
 bramptonguardian.com,guelphmercury.com,insideottawavalley.com,thestar.com##.polarBlock
-bramptonguardian.com,insideottawavalley.com,therecord.com,thestar.com,wellandtribune.ca##.adLabelWrapperManual
+bramptonguardian.com,insideottawavalley.com,niagarafallsreview.ca,thepeterboroughexaminer.com,therecord.com,thestar.com,wellandtribune.ca##.adLabelWrapperManual
 brandingmag.com##.add-wrap
 brandsoftheworld.com##.seedling
 bravoporn.com##.content > .wrap ~  div.headline > p
@@ -105119,6 +105122,7 @@ secretmine.net###main-content > br
 secretmine.net##div[id^="secre-"]
 securenetsystems.net##.bannerPrerollArea
 security.org##.banner-img-container
+securityaffairs.com##.add-banner
 seehd.so##.header_wrap + .tac + table[align="center"]
 seeklogo.com###panelAdShutterStockPromo
 seeklogo.com##.centerAdsWp
