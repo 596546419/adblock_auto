@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: aEKlQ3hcXfa0W7s+qurJTQ
+! Checksum: TjMZnnGlTXduSlACwnWhTg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240526002335
+! Version: 20240526092821
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-26 00:23:35
-! Total Count: 27832
+! Last modified: 2024-05-26 09:28:21
+! Total Count: 27837
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8625,6 +8625,7 @@
 ||iask.cn^*/qiye.
 ||iask.cn^*commercial.
 ||iask.cn^*model.
+||ibaglhc.icu^
 ||ibf.tw/js/jquery.blockUI.js
 ||ibgksw.xyz^
 ||ibjaknom.com^
@@ -9631,6 +9632,7 @@
 ||jxtest.bolecdn.com/player/*.gif
 ||jxuhurp.icu^
 ||jxvyrv.xyz^
+||jxwqu.cn^
 ||jy.zhongxues.com^
 ||jy135.com/js/pubuliu.
 ||jy135.com^$third-party
@@ -14400,6 +14402,7 @@
 ||sspstatic.1905.com/static/selling.js
 ||sss777.net/Alove-A/
 ||sssvd.china.com^
+||ssylieb.top^
 ||ssyy881.com/zz/
 ||st-fly.b-cdn.net^
 ||st.ipornia.com^$third-party
@@ -15658,6 +15661,7 @@
 ||uqrcuxp.cn^
 ||uqueae.xyz^
 ||uqwbcm.xyz^
+||uqydcs.xyz^
 ||uraseszincy.com^
 ||urccncd.xyz^
 ||urgayporn.com/bn/
@@ -17603,6 +17607,7 @@
 ||zlncvn.xyz^
 ||zlongad.com^$third-party
 ||zlp6s.pw^$third-party
+||zltndp.xyz^
 ||zlvlciv.xyz^
 ||zlyhslx.icu^
 ||zlyk.com/Runtime/Js/footer.js

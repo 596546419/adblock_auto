@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: fxR9kkjkmlI1NULV0SDW9g
+! Checksum: RS+giWbxzefOiM+d2OM+WQ
 ! Title: 混合规则(自动更新)
-! Version: 20240526002324
+! Version: 20240526092810
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-26 00:23:24
-! Total Count: 144839
+! Last modified: 2024-05-26 09:28:10
+! Total Count: 144868
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -482,6 +482,7 @@
 ||1134555.com^
 ||1136999.com^
 ||1138555.com^
+||1139724980.rsc.cdn77.org^
 ||113aa22d76.com^
 ||1147112108.rsc.cdn77.org^
 ||114com.cc^
@@ -631,6 +632,7 @@
 ||13p76nnir.de^
 ||13txt.net/js/ssgdd.
 ||1413879490.rsc.cdn77.org^
+||1417571542.rsc.cdn77.org^
 ||1419560424.rsc.cdn77.org^
 ||141h.com/data/attachment/noblock/cf/
 ||142.0.129.74^
@@ -7376,6 +7378,7 @@
 ||agkn.com^
 ||agl001.bid^
 ||agl002.online^
+||agl003.com^
 ||agle21xe2anfddirite.com^
 ||aglocobanners.com^
 ||agloogly.com^
@@ -11865,6 +11868,7 @@
 ||backseatrunners.com^
 ||backssensorunreal.com^
 ||backstagedeputy.com^
+||backstory.ebay.
 ||backupcelebritygrave.com^
 ||backuprabbit.com^
 ||backwardkneesencroach.com^
@@ -17285,6 +17289,7 @@
 ||cdnware.com^
 ||cdnware.io^
 ||cdnweb3.pages.dev^
+||cdojukbtib.com^
 ||cdolhlwq.xyz^
 ||cdosagebreakfast.com^
 ||cdp.asia^
@@ -20032,6 +20037,7 @@
 ||constructionrejection.com^
 ||constructivesmoking.com^
 ||constructpoll.com^
+||constructpreachystopper.com^
 ||construment.com^
 ||consukultinge.info^
 ||consukultingeca.com^
@@ -26123,6 +26129,7 @@
 ||edge.quantserve.com^
 ||edgeads.org^
 ||edgeadx.net^
+||edgetrksvc.ebay.
 ||edgevertise.com^
 ||edgiercooley.guru^
 ||edgrmtracking.com^
@@ -34161,6 +34168,7 @@
 ||grumpyslayerbarton.com^
 ||grumrionzgu.com^
 ||grunoaph.net^
+||gruntremoved.com^
 ||grupkxfhi.com^
 ||gruponn.com^
 ||grurawho.com^
@@ -34549,6 +34557,7 @@
 ||gvzsrqp.com^
 ||gw069.com^
 ||gw1jvhs.com^
+||gw2cddpt2hao.asia^
 ||gwaaz.cn^
 ||gwallet.com^
 ||gwbgqrxlelrjsi.com^
@@ -37854,6 +37863,7 @@
 ||ib-ibi.com^
 ||ib.snssdk.com^
 ||iba.feedblitz.com^
+||ibaglhc.icu^
 ||ibankingdigital.com^
 ||ibankingshopee.vn^
 ||ibanner.de^
@@ -38317,6 +38327,7 @@
 ||ihtckcitkr.com^
 ||ihtqqws.cn^
 ||ihttscqovzzb.com^
+||ihuumdkdjskud.com^
 ||ihvwak.cn^
 ||ihwdun.xyz^
 ||ihwlek.com^
@@ -42450,6 +42461,7 @@
 ||jxuu.online^
 ||jxvilsjyrh.com^
 ||jxvyrv.xyz^
+||jxwqu.cn^
 ||jxybgyu.com^
 ||jxyy.site^
 ||jy.zhongxues.com^
@@ -61534,6 +61546,7 @@
 ||pvrtx.net^
 ||pvsxzlb.com^
 ||pvtest.zol.com.cn^
+||pvtqllwgu.com^
 ||pvtypsgueyqey.com^
 ||pvwtkxcpsrcsd.com^
 ||pvx.autohome.com.cn^
@@ -63091,6 +63104,7 @@
 ||radxcomm.com^
 ||raekq.online^
 ||raeoaxqxhvtxe.xyz^
+||raepkiknkyxuuc.com^
 ||raeturghttcou.com^
 ||raffleinsanity.com^
 ||rag3ca7t5amubr8eedffin.com^
@@ -63272,6 +63286,7 @@
 ||rarseene.com^
 ||rasahick.space^
 ||rascalbygone.com^
+||rashbarnabas.com^
 ||rashlyblowfly.com^
 ||rashtiprimomo.com^
 ||raspberryamusingbroker.com^
@@ -63293,6 +63308,7 @@
 ||rationalan.pro^
 ||rationalizedalton.com^
 ||ratioregarding.com^
+||ratiosincl.com^
 ||ratke.biz^
 ||rattedropenrigh.xyz^
 ||rattoninsects.top^
@@ -66784,6 +66800,7 @@
 ||scdienmayxanh.com^
 ||scenbe.com^
 ||scenerynatives.com^
+||scenescrockery.com^
 ||scenespathreconciliation.com^
 ||scenistgracy.life^
 ||sceno.ru^
@@ -71231,6 +71248,7 @@
 ||ssuijiuyv.com^
 ||ssurvey2you.com^
 ||ssvnshop.com^
+||ssylieb.top^
 ||ssyy881.com/zz/
 ||ssznrs.com^
 ||st-*.dynamicyield.com^
@@ -79924,6 +79942,7 @@
 ||uqueae.xyz^
 ||uquholhm.cn^
 ||uqwbcm.xyz^
+||uqydcs.xyz^
 ||uqykjig.cn^
 ||uqymady.cn^
 ||urambled.com^
@@ -84748,6 +84767,7 @@
 ||wlr8yw8.cn^
 ||wlrjy.com/assets/images/*.gif
 ||wlrjy.com/assets/images/tuidc.png
+||wlrkcefll.com^
 ||wlsynmle.fun^
 ||wltsgqnblq.com^
 ||wltt.xyz^
@@ -89189,6 +89209,7 @@
 ||zlreqxe.xyz^
 ||zlsynmlq.fun^
 ||zlsyuulq.cam^
+||zltndp.xyz^
 ||zlujomk.cn^
 ||zlvlciv.xyz^
 ||zlx.com.br^
@@ -124491,6 +124512,9 @@ zle.com$script
 ###adv_wallpaper
 ###adv_wallpaper2
 ###adv_wrap_hh
+###advads_ad_widget-18
+###advads_ad_widget-19
+###advads_ad_widget-8
 ###adver
 ###adver-top
 ###adver1
@@ -135098,6 +135122,12 @@ zle.com$script
 ##.dynamicad2
 ##.e-ad
 ##.e-advertise
+##.e3lan
+##.e3lan-top
+##.e3lan-widget-content
+##.e3lan300-100
+##.e3lan300-250
+##.e3lan300_250-widget
 ##.eaa-ad
 ##.eads
 ##.easy-ads
@@ -141771,7 +141801,6 @@ zle.com$script
 ##div[id^="ads250_250-widget-"]
 ##div[id^="ads300_100-widget-"]
 ##div[id^="ads300_250-widget-"]
-##div[id^="ads300_600-widget-"]
 ##div[id^="adspot-"]
 ##div[id^="adv-"].adv
 ##div[id^="advads_ad_"]
