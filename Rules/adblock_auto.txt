@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 1l+aSlECNVt8QOHmVGFLaQ
+! Checksum: ANXwSqUtQsu8Q3xAaHKzgQ
 ! Title: 混合规则(自动更新)
-! Version: 20240527162529
+! Version: 20240528002413
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-27 16:25:29
-! Total Count: 144917
+! Last modified: 2024-05-28 00:24:13
+! Total Count: 144927
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3179,6 +3179,7 @@
 ||884329.com^
 ||884352.com^
 ||88448.com/images/appkai980x100.gif
+||884de19f2b.com^
 ||885741.com^
 ||885842.com^
 ||8861198.com^
@@ -11096,6 +11097,7 @@
 ||auhbjjvbx.com^
 ||auhjyihlbhvvkv.com^
 ||auhpaewvbgwjr.com^
+||auisaoa.top^
 ||aujooxoo.com^
 ||aukalerim.com^
 ||aukana.jp^
@@ -13894,6 +13896,7 @@
 ||bincatracs.com^
 ||bincun.xyz^
 ||bineukdwithmef.info^
+||bing001.shop^
 ||bingoocy.com^
 ||bingtuo.mobi^
 ||binh-chonthang7.weebly.com^
@@ -30695,6 +30698,7 @@
 ||fpdbccngiujp.com^
 ||fpdisplay.com/templates/default/js/palyflash_
 ||fpdisplay.com/upload/n_ad/
+||fpelfyeesuoivy.com^
 ||fpgedsewst.com^
 ||fphbwyonnk.com^
 ||fphjeyqs.com^
@@ -53478,6 +53482,7 @@
 ||nlsynmlc.fun^
 ||nltsvf.xyz^
 ||nlvgxr.xyz^
+||nlvwdlnhfnnw.com^
 ||nlwjdxsa.com^
 ||nlyekvc.cn^
 ||nlyxqpeo.com^
@@ -93791,6 +93796,7 @@ capetownmagazine.com###top-leader-wrapper
 capitalfm.com,m.youku.com,radiox.co.uk,smoothradio.com,xxxporn.pics##.download
 capsulenz.com,dexdotexe.com,ssbcrack.com,thecoinrise.com##.td_spot_img_all
 caq98i.top##+js(abort-on-property-read, alertadmodal)
+car16.com##.modal-overlay
 carandclassic.co.uk##.ebayRSS
 carbuzz.com##.cb-video-ad-block
 cardealermagazine.co.uk,rule34.xxx##.desktop
@@ -96508,7 +96514,7 @@ f2dsex1.com##.private-entertain
 f2dsex1.com##a[href="https://kf2828.com/"]
 f2dsex1.com##div.link
 f2movies.to,fmovies.ps,fmoviesto.cc,hdtoday.tv,movies2watch.tv,moviesjoy.to,myflixer.to,myflixertv.to###gift-top
-f95zone.to##.p-body-content > .samAlignCenter
+f95zone.to##.samAlignCenter
 f95zone.to##a[href^="https://candy.ai/"]
 f95zone.to##a[href^="https://www.deepswap.ai"]
 f95zone.to,pornhub.com,pornhubpremium.com,redtube.com##a[href^="https://ads.trafficjunky.net/"]
@@ -97074,7 +97080,7 @@ freebitz.xyz##.BannerContainer
 freebitz.xyz##.BannerContainerScrapper
 freebitz.xyz##.BannerMain
 freebunker.com,imagesnake.com,imgcarry.com,pornbus.org###introOverlayBg
-freecomiconline.me,lordmanga.com,mangahentai.me,mangaread.org,manytoon.com,readfreecomics.com##.c-top-sidebar
+freecomiconline.me,lordmanga.com,mangahentai.me,manytoon.com,readfreecomics.com##.c-top-sidebar
 freeconvert.com##.ads-in-page
 freecourseweb.com###text-20
 freedesignresources.net##.top-cat-ads
@@ -101382,6 +101388,7 @@ mangamiso.net##.extraHeight
 manganatos.com,mangareader.cc,pianyuan.org###myModal
 manganelo.com##[href^="https://oackoubs.com/"]
 manganelo.com##[src^="/ads/"]
+mangaread.org###custom_html-48
 mangareader.net##.c10
 mangarockteam.com,nitroscans.com##.c-top-second-sidebar
 mangas-raw.com##center > div[style]
@@ -108784,6 +108791,7 @@ xanimeporn.com##+js(abort-on-property-read, openpopup)
 xanimeporn.com#?##sidebar > .sidebar-widget:has(> .widget-title > span:contains(/^Sponsor$/))
 xanimu.com,familyporner.com,darknessporn.com,freepublicporn.com,pisshamster.com,punishworld.com##div[id^="before-list-boxes-mobile-singl"]
 xanimu.com,familyporner.com,darknessporn.com,freepublicporn.com,pisshamster.com,punishworld.com##div[id^="inside-video-boxes-mobile"]
+xasiat.com##.top:has(> [data-zoneid])
 xbabe.com##.bnnrs-aside
 xbeibeix.com##+js(no-setTimeout-if, /\.height\(\) == 0|adsbygoogle/)
 xbgame.net#$#.download .content-area > div[class] { background-image: none !important; }
@@ -111404,6 +111412,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 .top/?invite=$~third-party
 .top/?token=*&screen_*=*&ref=$third-party
 .top/ad-
+.top/ad/
 .top/ads/
 .top/appinstall.js$third-party,script
 .top/cuid/?
@@ -140916,6 +140925,7 @@ zle.com$script
 ##a[href*="/h91.tv"]
 ##a[href*="/hgcool360.top"]
 ##a[href*="/hgcoolaa.top"]
+##a[href*="/hgsfhgsfa.top"]
 ##a[href*="/hhybd.wiki"]
 ##a[href*="/htbet1536.com"]
 ##a[href*="/hth104.com/"]

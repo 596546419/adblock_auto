@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: kg2QTsdXplDLKuzAdEtSCA
+! Checksum: 7bIn/1sxqgLfq8lYv/4/vw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240527162541
+! Version: 20240528002424
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-27 16:25:41
-! Total Count: 27846
+! Last modified: 2024-05-28 00:24:24
+! Total Count: 27851
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3822,6 +3822,7 @@
 ||audiosexstories.net/wp-content/uploads/sam-pro-images
 ||aueajkn.cn^
 ||auerkbo.cn^
+||auisaoa.top^
 ||aukllsq.cn^
 ||auntants.com^$third-party
 ||aup34.xyz^
@@ -4396,6 +4397,7 @@
 ||bilibilijj.com/image/right_bottom.gif
 ||billowybead.com^$third-party
 ||bimiacg*.net/template/JOELEO/asset/js/jquery.leeleo.js
+||bing001.shop^
 ||binqriksc.com^
 ||bio-equip.com/dimg/
 ||bio-equip.com/dimgs/
@@ -7222,6 +7224,7 @@
 ||fpbsnc.com/Runtime/js/psData.js
 ||fpdisplay.com/templates/default/js/palyflash_
 ||fpdisplay.com/upload/n_ad/
+||fpelfyeesuoivy.com^
 ||fpjjjh.xyz^
 ||fpo.xxx/contents/other/player/porngame*.mp4
 ||fptbdr.xyz^
@@ -11603,6 +11606,7 @@
 ||nlrsbd.xyz^
 ||nltsvf.xyz^
 ||nlvgxr.xyz^
+||nlvwdlnhfnnw.com^
 ||nmdotj.xyz^
 ||nmkghh.com^
 ||nmlfev.icu^
@@ -25949,6 +25953,7 @@ zle.com$script
 ##a[href*="/h91.tv"]
 ##a[href*="/hgcool360.top"]
 ##a[href*="/hgcoolaa.top"]
+##a[href*="/hgsfhgsfa.top"]
 ##a[href*="/htbet1536.com"]
 ##a[href*="/hth104.com/"]
 ##a[href*="/hth107.com/"]
