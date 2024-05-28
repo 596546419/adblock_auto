@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: QiRsb0JutSJuIna7BKGULA
+! Checksum: IdvAzq2NVFXCuKhAvJ0fLA
 ! Title: 混合规则(自动更新)
-! Version: 20240528092232
+! Version: 20240528162645
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-28 09:22:32
-! Total Count: 144949
+! Last modified: 2024-05-28 16:26:45
+! Total Count: 144951
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -41401,6 +41401,7 @@
 ||jinxiyue.com/seo.js$script
 ||jinxrussian.com^
 ||jinyici.com/qq.js
+||jinzige.cn^
 ||jinzpeng.cn^
 ||jioads.akamaized.net^
 ||jioed.cyou^
@@ -99014,6 +99015,7 @@ icon-icons.com##.apu
 icon-icons.com##.apu-mixed-packs
 icon-icons.com##.istock-container
 iconfinder.com##.istockphoto-placeholder
+icons8.com##.carbon-card-ad__loader
 icook.tw##.amp-parallax-ad
 icook.tw##.recipe-ad-placeholder
 icourse163.org##.promotion-banner-wrapper
