@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: G6omPCqaVmMFJxBIusvd3Q
+! Checksum: m07hFUwywWgS0zX2laCZrg
 ! Title: 混合规则(自动更新)
-! Version: 20240529162628
+! Version: 20240530002601
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-29 16:26:28
-! Total Count: 144976
+! Last modified: 2024-05-30 00:26:01
+! Total Count: 145007
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6166,6 +6166,7 @@
 ||adsandcomputer.com^
 ||adsapi.manhuaren.com^
 ||adsapi.snapchat.com^
+||adsarcade.com^
 ||adsassets-ipv6.waze.com^
 ||adsassets.waze.com^
 ||adsassure.com^
@@ -11815,6 +11816,7 @@
 ||b8pfulzbyj7h.com^
 ||b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me^
 ||b90.yahoo.co.jp^
+||b903c2.xyz^
 ||b91.yahoo.co.jp^
 ||b92.yahoo.co.jp^
 ||b9282.vip^
@@ -19524,6 +19526,7 @@
 ||collect.babybus.com^
 ||collect.banggood.com^
 ||collect.bannercrowd.net^
+||collect.biomedcentral.com^
 ||collect.blishtech.co^
 ||collect.breakit.se^
 ||collect.chaordicsystems.com^
@@ -21245,6 +21248,7 @@
 ||csylief.top^
 ||csztzc.com^
 ||cszz.ru^
+||ct.beslist.nl^
 ||ct.capterra.com^
 ||ct.corpusapp.com^
 ||ct.eid.co.nz^
@@ -27337,6 +27341,7 @@
 ||eprjyvjhmtpbo.xyz^
 ||epro.sogou.com^
 ||eproof.com^
+||eproof.drudgereport.com^
 ||eprxasz.cn^
 ||eps-analyzer.de^
 ||epsauthoup.com^
@@ -28594,6 +28599,7 @@
 ||f-log-test.grammarly.io^
 ||f.convertkit.com^
 ||f.doodlemobile.com:8080/feature_server_v3/
+||f.revotas.com^
 ||f.sen.seg.br^
 ||f0657e4fd5.com^
 ||f07neg4p.de^
@@ -34086,6 +34092,7 @@
 ||gripehealth.com^
 ||grippertureen.space^
 ||gripping-bread.com^
+||gripspigyard.com^
 ||grirault.net^
 ||grirtouy.com^
 ||gristleupanaya.com^
@@ -37072,6 +37079,7 @@
 ||hpyjmp.com^
 ||hpyrdr.com^
 ||hpyue.com^
+||hpzktd.xyz^
 ||hpzosbx.cn^
 ||hq1.appsflyer.com^
 ||hq390.xyz^
@@ -43017,6 +43025,7 @@
 ||kepler-37b.com^
 ||keppendragoon.top^
 ||keptafd.cn^
+||keptoojals.xyz^
 ||keqiao.pw^
 ||keqvfip.cn^
 ||keraclya.com^
@@ -46456,6 +46465,7 @@
 ||log.247post.vn^
 ||log.51changdu.com^
 ||log.adap.tv^
+||log.affiliate.rakuten.co.jp^
 ||log.ahamo.com^
 ||log.aimtell.com^
 ||log.ajunews.com^
@@ -51699,6 +51709,7 @@
 ||mybetterck.com^
 ||mybetterdl.com^
 ||mybettermb.com^
+||mybgrea97.shop^
 ||mybjx.net/theme/default/js/common/bjx_service_
 ||mybjx.net/theme/default/js/common/duilianchn.js
 ||mybloglog.com^
@@ -52426,6 +52437,7 @@
 ||navigateiriswilliam.com^
 ||navigation.api.hk.goforandroid.com/api/*/website/navigations?virtual_id=
 ||navigationconcept.com^
+||navigator-analytics.tweakwise.com^
 ||navilytics.com^
 ||navrcholu.cz^
 ||navywilyoccur.com^
@@ -56019,6 +56031,7 @@
 ||orldwhoisquiteh.info^
 ||orlotalers.com^
 ||orlowedonhisdhilt.info^
+||ormolusapiary.com^
 ||ormolustuke.top^
 ||ornery-animal.pro^
 ||ornismolal.top^
@@ -57401,6 +57414,7 @@
 ||pausingeoedb.com.ua^
 ||pausingeoedwe.xyz^
 ||paussidsipage.com^
+||pausteegohoa.net^
 ||pauwhajo.xyz^
 ||pauzajoo.net^
 ||pauzooty.xyz^
@@ -64963,6 +64977,7 @@
 ||rimeseized.com^
 ||rimfranklyscaffold.com^
 ||riminghoggoofy.com^
+||rimoseantdom.com^
 ||rimwigckagz.com^
 ||rinc.ink^
 ||rinceaskedase.com^
@@ -69702,6 +69717,7 @@
 ||slopeac.com^
 ||slopeaota.com^
 ||slopesoap.com^$third-party
+||slopingunrein.com^
 ||sloppycalculator.com^$third-party
 ||sloppyearthquake.com^$third-party
 ||sloppyegotistical.com^
@@ -71604,6 +71620,7 @@
 ||static-tracking.klaviyo.com^
 ||static.accesstrade.vn^
 ||static.adconnect.vn^
+||static.affiliate.rakuten.co.jp^
 ||static.affiliatly.com^
 ||static.aio.media^
 ||static.analytics-site.com^
@@ -86503,6 +86520,7 @@
 ||xmkmryu.icu^
 ||xml-api.online^
 ||xml-clickurl.com^
+||xml.affiliate.rakuten.co.jp^
 ||xmladserver.com^
 ||xmlapiclickredirect.com^
 ||xmlapiclickredirect10102022.com^
@@ -92355,6 +92373,7 @@ athlonsports.com,bringmethenews.com,meidastouch.com,si.com,thestreet.com,videoga
 atishmkv.site###idbannerplayer
 atlantatribune.com,barrettsportsmedia.com,footballleagueworld.co.uk,ioncinema.com,marijuanamoment.net,ripplecoinnews.com,srilankamirror.com,tribune.net.ph###mvp-leader-wrap
 atlanticsuperstore.ca,fortinos.ca,loblaws.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
+atlanticsuperstore.ca,fortinos.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca##.block-wrapper:has(.element-header__sponsoredLabel)
 atlanticsuperstore.ca,fortinos.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca#?#[data-testid="card"]:-abp-contains(sponsored)
 atlasobscura.com##.ad-site-top-full-width
 atlasobscura.com##.advertisement-disclaimer
@@ -92474,6 +92493,8 @@ autosport.com,motorsport.com##.ms-hapb
 autostraddle.com##.end-of-article-ads
 autotrader.co.uk##li:has(section[data-testid="trader-seller-listing"] > span[data-testid="FEATURED_LISTING"])
 autotrader.co.uk##li:has(section[data-testid="trader-seller-listing"] > span[data-testid="PROMOTED_LISTING"])
+autotrader.com##.col-xs-12.col-sm-4:has([data-cmp="inventorySpotlightListing"])
+autotrader.com##[data-cmp="alphaShowcase"]
 av.movie##.adss-160x600
 av.movie##.pop-up-a
 av1868.com###totalStationAD
@@ -101065,6 +101086,7 @@ livescores.biz##.make-a-bet_wrap
 livescores.biz##.top-bk
 livesoccertv.com##.desktop-ad-container
 livestreamfails.com###oranum_livefeed_container_0
+livetv.sx##tr[height] ~ tr > td[colspan][height][bgcolor="#000000"]
 liveuamap.com##.passby
 lkong.com##.lkong-ads
 llifle.com###ad_blocker_found
@@ -102513,6 +102535,7 @@ new-kissanime.me###CvBNILUxis
 new-porn.club##+js(abort-current-script, document.attachEvent, prt)
 new-reporter.com##div[id^="mdl-elmt-"]
 new.qq.com##+js(set, SSPAd.prototype.loadAd, noopFunc)
+new.qq.com,v.qq.com,www.qq.com##+js(json-prune, ads)
 newagebd.net##.editorialMid
 newagebd.net##.homeSlideRightSecTwo
 newagebd.net##.postPageRightInTop
@@ -105084,6 +105107,9 @@ sbs.com.au##div.css-1wbfa8
 sbstatesman.com##div[id^="sbsta-"]
 scalemates.com###avph
 scalemates.com##.bwx.hrspb
+scamrate.com##.m-t-0
+scamrate.com##.m-t-3
+scamrate.com##[style="max-width: 728px;"]
 scamwarners.com##.subheader:has(> ins.adsbygoogle)
 scanboat.com###content > .margin-tb-25
 scantrad.net##.adbon
@@ -106976,7 +107002,13 @@ thestreet.com##.m-balloon-header
 thestreet.com##.m-video-unit
 thestudentroom.co.uk##.custom-jucdap
 thestudentroom.co.uk##div[data-freestar-ad]
+thesun.co.uk###article-footer div[id*="-ads-"]
+thesun.co.uk##.article-sidebar .widget-sticky:has([class*="ad_widget"])
 thesun.co.uk##.dpa-slot
+thesun.co.uk##.section-sponsorship-wrapper-article
+thesun.co.uk##.section-sponsorship-wrapper-section
+thesun.co.uk##.sun-grid-container:has([class*="ad_widget"])
+thesun.co.uk##[data-aspc="newBILL"]
 thetealmango.com##div[style^="margin: 8px auto; text-align:"]
 thetechpoint.org##.navigation-banner
 thethaiger.com###custom_html-12
@@ -107901,7 +107933,6 @@ v.qq.com##.slider_item[href^="http"]:not([href*=".qq."])
 v.qq.com##a[href*=".renrendai.com"]
 v.qq.com##a[href*=".vip.com"]
 v.qq.com##a[href*="amway.com.cn"]
-v.qq.com,new.qq.com##+js(json-prune, ads)
 v.shensgo.com##body > div[id][class*="animated"][style*="position"][style*="z-index"]
 v.shensgo.com##brde[id][style*="height"]
 v.smtcdns.com/defaultts.tc.qq.com/
