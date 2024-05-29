@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: jcP+4OSPZOc/ZsfgSJTwzg
+! Checksum: JkrwtGrk9MgjuKCWr+SqBA
 ! Title: 混合规则(自动更新)
-! Version: 20240529002442
+! Version: 20240529092559
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-29 00:24:42
-! Total Count: 144958
+! Last modified: 2024-05-29 09:25:59
+! Total Count: 144977
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6945,6 +6945,7 @@
 ||ae064ae81c.com^
 ||ae1a1e258b8b016.com^
 ||ae888vip.com^
+||aeaw.cn^
 ||aeb92e4b9d.com^
 ||aebwmemfebks.xyz^
 ||aec40f9e073ba6.com^
@@ -10314,6 +10315,7 @@
 ||arkosicginkgo.digital^
 ||arkunexpectedtrousers.com^
 ||arlbper.cn^
+||arleavannya.com^
 ||arlime.com^
 ||arlyreven.top^
 ||armamentsummary.com^
@@ -15457,6 +15459,7 @@
 ||bs777.net^$third-party
 ||bs7li.cn^
 ||bsanciv.top^
+||bsantycbjnf.com^
 ||bsanvietnam.online^
 ||bsaq5.cn^
 ||bsbaswq.cn^
@@ -15532,6 +15535,7 @@
 ||btjbppltrdpyjsj.com^
 ||btjpdvqocspo.com^
 ||btkat.com/style/l.js
+||btkwlsfvc.com^
 ||btloader.com^
 ||btmao.cc/Public/yd/
 ||btmovi.in/static/js/xf.js
@@ -17340,8 +17344,10 @@
 ||ce-global-track-*.amazonaws.com^
 ||ce.wlaoc.cn^
 ||ce.wlaoc.cn^$third-party
+||ce.x-opt.io^
 ||ce2c208e9f.com^
 ||ce33m7.com^
+||ce357c.xyz^
 ||cea9d3d4f74fb831.com^
 ||ceai.xyz^
 ||ceamtaaprhha.xyz^
@@ -20217,6 +20223,7 @@
 ||coodawei.cn^
 ||cooeyeddarbs.com^
 ||coofumberty.digital^
+||coogauwoupto.com^
 ||coogoocy.com^
 ||coogumak.com^
 ||coojaiku.com^
@@ -37326,6 +37333,7 @@
 ||hue2a.com^
 ||hueadsxml.com^
 ||huehinge.com^
+||hufaztjist.com^
 ||huffson-delivery.com^
 ||hufkzv.xyz^
 ||hugelyantony.com^
@@ -44532,6 +44540,7 @@
 ||lajjuqamcwax.com^
 ||lajouly.com^
 ||lake.joongang.co.kr^
+||lake.studydrive.net^
 ||lakequincy.com^
 ||lakfbvoskxlc.com^
 ||lakmus.xyz^
@@ -46869,6 +46878,7 @@
 ||looksmartppc.com^
 ||looksthrilled.com^
 ||lookszone.ru^
+||looktotheright.com^
 ||looktt.xyz^
 ||lookujie.net^
 ||lookup-domain.com^
@@ -50248,6 +50258,7 @@
 ||mnhknds.com^
 ||mnhncf.cn^
 ||mnifdlax.top^
+||mninoq.xyz^
 ||mniumlapsers.com^
 ||mnjhrleahonkq.com^
 ||mnjxvtknnlai.com^
@@ -51073,6 +51084,7 @@
 ||mq.d6s3mov.cn^$third-party
 ||mq65.top^
 ||mqabjtgli.xyz^
+||mqaoweu.icu^
 ||mqaqtwkbwcqty.xyz^
 ||mqarrenothanca.xyz^
 ||mqcjqjhy.com^
@@ -63949,6 +63961,7 @@
 ||refilmsbones.top^
 ||refinedads.com^
 ||refineminx.top^
+||refinerfiery.com^
 ||reflectingscoopcourse.com^
 ||reflectionseldomnorth.com^
 ||reflectionsidewalk.com^
@@ -74483,6 +74496,7 @@
 ||tehgfn.xyz^
 ||tehous.com^
 ||tehras.com^
+||teiankythes.top^
 ||teicdn.com^
 ||teiidsfortune.com^
 ||teinlbw.com^
@@ -88137,6 +88151,7 @@
 ||ysemblyjusting.info^
 ||ysesials.net^
 ||ysgekq.xyz^
+||yshhfig.com^
 ||yshlor.icu^
 ||ysjkbk.com^
 ||ysjwj.com^
@@ -89703,6 +89718,7 @@
 ||zxqiwe.cn^
 ||zxr9gpxf7j.com^
 ||zxrcfw.com^
+||zxrfzxb.com^
 ||zxse43.com^
 ||zxsmxt.com^
 ||zxtkfvm.cn^
@@ -95459,6 +95475,7 @@ dianyingim.com,dyxs11.com##.popup-tips
 dianyingim.com,dyxs11.com,waipian5.com##.shortcuts-mobile-overlay
 dicebreaker.com,rockpapershotgun.com##.primis_wrapper
 dict.baidu.com##.tran-download-ad
+dict.cc###adrig
 dict.cc###rectcompactbot
 dict.cc###recthome
 dict.cc###recthomebot
@@ -106236,6 +106253,7 @@ streetinsider.com###bottom_ad_fixed
 streetsblog.org##.Sponsorship_articleBannerWrapper__wV_1S
 strikeout.co,vipbox.sx,vipleague.co,vipleague.is##div[style="display: block;"]
 stripes.com###FeatureAd
+stripes.com###MidPageAd
 stripes.com##.ahm-rotd
 stripes.com##.min-h90
 stroi-help.ru##.alert_warn
@@ -106304,6 +106322,7 @@ supjav.com##.simpleToast
 supplychainbrain.com##.right-rail-sponsors
 supportdap.online##.td-post-content > a[rel="nofollow"] > img
 surfline.com###sl-header-ad
+surfline.com##.AdBlock_modal__QwIcG
 surfline.com##.quiver-google-dfp
 surfwap.com##.ahblock2
 surinenglish.com##.publiTop
