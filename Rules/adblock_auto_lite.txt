@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: QxSmljNxH6/i973WlhtmUw
+! Checksum: xjFghXUzIy1av2h0Bo7APw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240530002613
+! Version: 20240530092311
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-30 00:26:13
-! Total Count: 27864
+! Last modified: 2024-05-30 09:23:11
+! Total Count: 27868
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7126,6 +7126,7 @@
 ||fjisu.*/js/huimi.js
 ||fjlqqc.com/common/api/v1.0/slot-code/
 ||fjnsnt.xyz^
+||fjqcqdr.icu^
 ||fjtroip.cn^
 ||fjttbkoxer.xyz^
 ||fjxstt.xyz^
@@ -13031,6 +13032,7 @@
 ||qslbahy.top^
 ||qsmdeyz.cn^$third-party
 ||qsptv.com/tpl/newstyle/js/extension.js
+||qsyliey.top^
 ||qtciam.xyz^
 ||qtd95fj.online^$third-party
 ||qtienly.top^
@@ -17369,6 +17371,7 @@
 ||yzcpgadw.icu^
 ||yzdh44.com/js/
 ||yzfrapd.xyz^
+||yzgbsg.xyz^
 ||yzgid.cn^
 ||yziwoidi.icu^
 ||yzjihang.cn^
@@ -17547,6 +17550,7 @@
 ||zhenben.cc/2000/
 ||zhengjie.com/a_d?
 ||zhengliyqq.com^
+||zhengwei3.top^
 ||zhengzhou12.top^
 ||zhenjiang365.cn/*/ad_
 ||zhenxinbuhaoba.com^$document
