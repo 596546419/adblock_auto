@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: xjFghXUzIy1av2h0Bo7APw
+! Checksum: 5ndVNp7mzZosKRQnnrPcyQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240530092311
+! Version: 20240530162613
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-30 09:23:11
-! Total Count: 27868
+! Last modified: 2024-05-30 16:26:13
+! Total Count: 27871
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -12344,6 +12344,7 @@
 ||plx.porndig.com^
 ||pm.poqwua.cn^
 ||pmb*.tj.ali213.net/js/
+||pmblrt.xyz^
 ||pmiskc.cn^
 ||pmnct63.shop^
 ||pmtrkp.icu^
@@ -13291,6 +13292,7 @@
 ||restructureinvention.com^$third-party
 ||resumes.ren^
 ||retinaesprent.com^
+||retintsmillion.com^
 ||reton.free-porn-videos.org^
 ||retrieval-bd.duote.com^
 ||retrievemint.com^$third-party
@@ -17501,6 +17503,7 @@
 ||zexfzson.icu^
 ||zf4.top^
 ||zfcdirf.icu^
+||zfcoin.cn^
 ||zfehvv.xyz^
 ||zffymmdg.com^
 ||zfkjrm.xyz^

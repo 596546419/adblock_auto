@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: IrbKioC/lfPgUPPV2eiv/A
+! Checksum: gPh3YypebxD9qGap8vhi3Q
 ! Title: 混合规则(自动更新)
-! Version: 20240530092300
+! Version: 20240530162601
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-30 09:23:00
-! Total Count: 145040
+! Last modified: 2024-05-30 16:26:01
+! Total Count: 145053
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4665,6 +4665,7 @@
 ||ad-*.cos.accelerate.myqcloud.com^$third-party
 ||ad-1258444056.cos.accelerate.myqcloud.com^
 ||ad-adapex.io^
+||ad-adblock.com^
 ||ad-admin.vnay.vn^
 ||ad-api-log.colopl.jp^
 ||ad-api.band.us^
@@ -39532,6 +39533,7 @@
 ||instadrama.site^
 ||instaflrt.com^
 ||instahookups5.com^
+||install-adblockers.com^
 ||install-adblocking.com^
 ||install-check.com^
 ||install-extension.com^
@@ -59244,6 +59246,7 @@
 ||pm8lw.xyz^
 ||pmaosrgeieft.com^
 ||pmb*.tj.ali213.net/js/
+||pmblrt.xyz^
 ||pmbox.biz^
 ||pmc1201.com^
 ||pmcppla.cn^
@@ -64629,6 +64632,7 @@
 ||retinaebiaxal.guru^
 ||retinaesprent.com^
 ||retinaspealer.com^
+||retintsmillion.com^
 ||retinueabash.com^
 ||retinuedisposablerecuperate.com^
 ||retinuegigoh.com^
@@ -88934,6 +88938,7 @@
 ||zezvty.com^
 ||zf4.top^
 ||zfcdirf.icu^
+||zfcoin.cn^
 ||zfeaubp.com^
 ||zfehvv.xyz^
 ||zferral.com^
@@ -93603,6 +93608,8 @@ bravotube.net##a[href^="/cs/"]
 bravotube.net,bravoteens.com,pornoaffe.com,hd-pornos.net##.vjs-overlay
 brazz-girls.com##[href^="/Site/Brazzers/"]
 brazzers-hdx.club##.adblck
+breakingbelizenews.com##.break-target
+breakingbelizenews.com##.break-widget
 breakingbelizenews.com,cardealermagazine.co.uk,headfonics.com,igorslab.de,landline.media,mikesmoneytalks.ca,pornlib.com,sundayworld.co.za,theroanokestar.com,visualcapitalist.com##a[href*="/linkout/"]
 breakingdefense.com###skin-clickthrough
 breakingdefense.com###top-header
@@ -93615,7 +93622,9 @@ breakingnews.ie,canberratimes.com.au,theland.com.au##.py-2.bg-gray-100
 breastcancer.org,emojipedia.org##div[class^="AdContainer"]
 breathofthewild-link.com#?#div[id^="cc-matrix-"] > div.j-htmlCode:has(> ins.adsbygoogle)
 breitbart.com###HavDW
+breitbart.com###accontainer
 breitbart.com##.a-wrapper
+breitbart.com##.acadnotice
 brenz.net###rndBanner
 brickset.com##.admin.buy
 brighteon.com##[href^="https://ams.brighteon.com/"]
@@ -94715,6 +94724,7 @@ collive.com##.spu-box
 collive.com,kissanimefree.tv##.spu-bg
 colombiareports.com,filmschoolrejects.com,gonglue.us,hentai7.top,hongkongfp.com,kocpc.com.tw,phoneia.com,sarkarideals.com,weatherboy.com###custom_html-6
 color-hex.com##.margin10
+coloradotimesrecorder.com##.adSidebar
 colors-newyork.com,ipeenk.com,kill-the-hero.com,landiannews.com,omnicoreagency.com,realpornclip.com,rehabilitationrobotics.net,wdwnt.com###block-2
 colourlovers.com###ga-above-footer
 colourlovers.com###ga-below-header
@@ -99958,6 +99968,7 @@ jagranjosh.com##[class*="_BodyAd_"]
 jagranjosh.com##iframe[title^="YouTube"]
 jagranjosh.com,stadiumastro.com##.Ads
 jaitoutcompris.com###antiBlock
+jambase.com##.sense-headin
 jamendo.com##.col_extra
 jamieoliver.com##.top-avocado
 jandan.net###random-ads
@@ -108683,6 +108694,7 @@ wjbc.com##a[href^="https://www.farmweeknow.com/rfd_radio/"]
 wjunction.com##a[href^="https://xpornium.net/"]
 wjx.cn###ctl01_ContentPlaceHolder1_divProMsg
 wlevradio.com##a[href^="https://omny.fm/shows/just-start-the-conversation"]
+wlky.com##.article-content--body-text > .article-content--body-wrapper-side-floater:has(> .ad-rectangle)
 wltmv.com##.box_xf
 wmav.pw,wmsj.pw##[class^="asb-"]
 wmtips.com##.a3f17
@@ -138472,6 +138484,7 @@ zle.com$script
 ##.rw-advert
 ##.rwSideAd
 ##.rw_ad
+##.rwdArticleInnerAdBlock
 ##.rwdArticleOuterAdBlock
 ##.s-ad
 ##.s-ads
