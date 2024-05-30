@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: gPh3YypebxD9qGap8vhi3Q
+! Checksum: AZsjQIK9LD4FCDYy23Kwgw
 ! Title: 混合规则(自动更新)
-! Version: 20240530162601
+! Version: 20240531002529
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-30 16:26:01
-! Total Count: 145053
+! Last modified: 2024-05-31 00:25:29
+! Total Count: 145099
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -250,6 +250,7 @@
 ||0b19760679.com^
 ||0b73f85f92.com^
 ||0b7741a902.com^
+||0b85c2f9bb.com^
 ||0c6dd161e9.com^
 ||0cdn.xyz^
 ||0cf.io^
@@ -10934,6 +10935,7 @@
 ||atris.xyz^
 ||atrociouspsychiatricparliamentary.com^
 ||atrocityfingernail.com^
+||atropaimitant.top^
 ||ats.auction.co.kr^
 ||ats.otto.de^
 ||atsabwhkox.com^
@@ -16265,6 +16267,7 @@
 ||c615.denverpost.com^
 ||c67209d67f.com^
 ||c67524ad03.com^
+||c677.wisn.com^
 ||c67adca.com^
 ||c6890.cn^
 ||c6890.cn^$third-party
@@ -17540,6 +17543,7 @@
 ||cfasync.tk^
 ||cfateu.xyz^
 ||cfaxidtm.site^
+||cfb98a.xyz^
 ||cfboo.com^
 ||cfcd10eebb.com^
 ||cfcloudcdn.com^
@@ -19114,6 +19118,7 @@
 ||cmmeglobal.com^
 ||cmnepalslma.com^
 ||cmntjzf.cn^
+||cmoa.pro^
 ||cmp-cdn.ghostery.com^
 ||cmp.datasign.co^
 ||cmp.dreamlab.pl^
@@ -25700,6 +25705,7 @@
 ||e3inu.space^
 ||e3ol.com/inc/
 ||e437040a9a.com^
+||e459.kcci.com^
 ||e46271be93.com^
 ||e499799158.com^
 ||e4f820396d.com^
@@ -25747,6 +25753,7 @@
 ||e9377f.com^$rewrite=abp-resource:blank-mp3,domain=eastday.com
 ||e954669112.com^
 ||e98c4a21c0.com^
+||e993.wlky.com^
 ||e9c1khhwn4uf.com^
 ||ea.auchantelecom.fr^
 ||ea.aujourdhui.com^
@@ -27268,6 +27275,7 @@
 ||eopa5tepa.icu^
 ||eopad.cyou^
 ||eopleshouldt.info^
+||eopleshouldthink.info^
 ||eopogliguemvf.com^
 ||eopudxnabotrlsx.com^
 ||eoqctcsvskqlz.com^
@@ -28644,6 +28652,7 @@
 ||f2svgmvts.com^
 ||f2zd.com^
 ||f3551539d6565853.com^
+||f361.wvtm13.com^
 ||f3663618ff.com^
 ||f3abc0d1b3.com^
 ||f3f202565b.com^
@@ -30070,6 +30079,7 @@
 ||flavourdinerinadmissible.com^
 ||flavourforgave.com^
 ||flavoursomewherefertilised.com^
+||flaw.cloud^
 ||flawenormouslyattractive.com^
 ||flawerosion.com^
 ||flaweyesight.com^
@@ -34772,6 +34782,7 @@
 ||h.imedia.cz^
 ||h.online-metrix.net^
 ||h.seznam.cz^
+||h019.wtae.com^
 ||h031.familydollar.com^
 ||h04.xyz^
 ||h06.xyz^
@@ -36385,6 +36396,7 @@
 ||hjkkindwould.xyz^
 ||hjklq.com^
 ||hjmjmywncskyt.com^
+||hjmnfdab.com^
 ||hjnjjcw.xyz^
 ||hjpqt.cn^
 ||hjprhubzqgw.com^
@@ -40193,6 +40205,7 @@
 ||isanikcieontak.xyz^
 ||isanikcieontap.com.ua^
 ||isaombank.com^
+||isatonabench.com^
 ||isawthenews.com^
 ||isbnrs.com^
 ||isbnyzpunkx.com^
@@ -40689,6 +40702,7 @@
 ||j05.xyz^
 ||j1.piaobing.com^
 ||j158.hearstmediact.com^
+||j178.wmur.com^
 ||j198.registercitizen.com^
 ||j1oxqq05ry.ru^
 ||j1p6w.xyz^
@@ -42630,6 +42644,7 @@
 ||k-analytix.com^
 ||k-img.com/script/fixed_bnr_area.js$domain=s.kakaku.com
 ||k.streamrail.com^
+||k030.koco.com^
 ||k0lksy.xyz^
 ||k0r2eokjm6.ru^
 ||k1.dancihu.com^
@@ -47909,6 +47924,7 @@
 ||m7g2v1b9.com^
 ||m7i1k.fun^
 ||m81jmqmn.ru^
+||m886.kmbc.com^
 ||m8oxd.xyz^
 ||m8ppac2on0xy.com^
 ||m9d6p03.com^
@@ -51630,6 +51646,7 @@
 ||mwikpepfiw.com^
 ||mwirawdrexp.com^
 ||mwjkteucypb.com^
+||mwkusgotlzu.com^
 ||mwmqtisxndbjdr.com^
 ||mwmxyurgupy.com^
 ||mwogldx.top^
@@ -56088,6 +56105,7 @@
 ||orzx.im/js/*pop
 ||os.scmpacdn.com^
 ||osafsr.xyz^
+||osageafresh.com^
 ||osalwqv.cn^
 ||osancik.top^
 ||osangauh.net^
@@ -56826,6 +56844,7 @@
 ||p63899vn.com^
 ||p64gk2yhba0p.com^
 ||p6qf8cqa0.com^
+||p769.wgal.com^
 ||p7ivj09f.xyz^
 ||p7lvj09f.shop^
 ||p8u.hinet.net^
@@ -57694,6 +57713,7 @@
 ||peanutsfuscin.com^
 ||peanutsurrogatesurrogate.com^
 ||pearedcall.xyz^
+||pearldiver.io^
 ||pearledbolo.life^
 ||pearlhereby.com^
 ||pearlrip.com^
@@ -59049,6 +59069,7 @@
 ||plausible.scimago.es^
 ||plausible.simplelogin.io^
 ||plausible.vucar.vn^
+||plausible.webfokus.no^
 ||plausiblecable.com^$third-party
 ||plausiblecdn.co^
 ||plausibleio.workers.dev^
@@ -61656,6 +61677,7 @@
 ||pw.lpsxssm.com^
 ||pw.lpsxssm.com^$third-party
 ||pw.xenthoril.com^$third-party
+||pw2ct1.asia^
 ||pw321.com/bulu/
 ||pw321.com^*.gif
 ||pwbmdalngizhz.com^
@@ -61810,6 +61832,7 @@
 ||q49q7g0n7gra.su^
 ||q4ee.top^
 ||q4v3c.site^
+||q511.wpbf.com^
 ||q5e40b17ii.ru^
 ||q6gub.website^
 ||q6idnawboy7g.com^
@@ -63115,6 +63138,7 @@
 ||r0wa9z6t8t.ru^
 ||r20.club^
 ||r202cop.xyz^
+||r255.wmtw.com^
 ||r2b2.io^
 ||r2d2.aotter.net^
 ||r3oodleaw5au4ssir.com^
@@ -66328,6 +66352,7 @@
 ||s7tu.com/images/*.gif
 ||s7w53.icu^
 ||s8.pw^$third-party
+||s811.ketv.com^
 ||s83ovp6qyhco.com^
 ||s8bbs.com/ad/
 ||s8bbs.com/g.php?
@@ -72579,6 +72604,7 @@
 ||styletrackstable.com^
 ||styleui.ru^
 ||stylewhiskerscreepy.com^
+||stylish-airport.com^
 ||stylishar.com^
 ||stylliyote.com^
 ||styrianauf.com^
@@ -73710,6 +73736,7 @@
 ||t5lxz7dtq4iz.com^
 ||t5wm.cc^
 ||t6.china-xian.com^
+||t733.wjcl.com^
 ||t7cp4fldl.com^
 ||t7z.cupid.iqiyi.com^
 ||t810.ctpost.com^
@@ -78027,6 +78054,7 @@
 ||troublesomeleerycarry.com^
 ||troutgorgets.com^
 ||troutrequires.com^
+||trovo-tag.com^
 ||trowingpaba.website^
 ||troxa.xyz^
 ||trp69.top^
@@ -78845,6 +78873,7 @@
 ||u0082.com^
 ||u0083.com^
 ||u05.xyz^
+||u082.wapt.com^
 ||u09.xyz^
 ||u1.2048sj.com^
 ||u1.20q.cn^
@@ -78893,6 +78922,7 @@
 ||u55011.com^
 ||u55022.com^
 ||u566.chron.com^
+||u578.wlwt.com^
 ||u595sebqih.com^
 ||u5e.com^
 ||u5fsqf.com^
@@ -78916,6 +78946,7 @@
 ||u927.sfgate.com^
 ||u939.colgate.com^
 ||u97jr.xyz^
+||u999.wcvb.com^
 ||u9axpzf50.com^
 ||u9dytt.com^
 ||ua.indianexpress.com^
@@ -79389,6 +79420,7 @@
 ||umengacs.m.taobao.com^
 ||umengjmacs.m.taobao.com^
 ||umentrandings.xyz^
+||umescomymanda.info^
 ||umexalim.com^
 ||umfsyvnufa.com^
 ||umhfrtu.cn^
@@ -80579,6 +80611,7 @@
 ||v.vgbhujklp.xyz^
 ||v.vl404.cn^
 ||v00ske77693f.com^
+||v066.wxii12.com^
 ||v09.xyz^
 ||v0cf.xyz^
 ||v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me^
@@ -80595,6 +80628,7 @@
 ||v1gyb.xyz^
 ||v1sts.me^$image,redirect-rule=1x1.gif
 ||v20.cnnd.vn^
+||v225.ksbw.com^
 ||v28games2fan.com^
 ||v2cigs.com^
 ||v2mlemerald.com^
@@ -83159,6 +83193,7 @@
 ||w010w.com.cn^$subdocument
 ||w020.newmilfordspectrum.com^
 ||w11.zhongkaohelp.com^
+||w110.kcra.com^
 ||w14s58toxo.su^
 ||w18.9939.com^
 ||w1jesu6.package12.com^
@@ -84110,6 +84145,7 @@
 ||wesell.co.il^
 ||weshsofoij.xyz^
 ||wesicuros.com^
+||wesmallproclaim.com^
 ||wesmuqjisx.com^
 ||west.bidtellect.com^
 ||west.cn/vcp/getJScode/
@@ -87145,6 +87181,7 @@
 ||y.21haodianmt.com^$third-party
 ||y.photoint.net^
 ||y.ruosi6.cn^
+||y000.wyff4.com^
 ||y0o1g.cn^
 ||y1.junshitt.com^
 ||y1.spreton.com^
@@ -89440,6 +89477,7 @@
 ||zongheng.com/upload/recommend/game/
 ||zononi.com^
 ||zontera.com^
+||zontgohjw.com^
 ||zonupiza.com^
 ||zonureflakier.uno^
 ||zonyff.xyz^
@@ -91334,8 +91372,8 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 7k7k.com##.page-right-side-btns-img-link
 7k7k.com##.pendant
 7k7k.com,autocarindia.com##.skin-link
+7mm001.com,7mm003.cc,7mmtv.sx##.set_height_250
 7mm001.com,7mmtv.sx##.a-d-block
-7mm001.com,7mmtv.sx##.set_height_250
 7mmtv.sx##.player-overlay
 7mmtv.sx,adultdeepfakes.com,missav.com,missav123.com,missav789.com,missav888.com,thisav.com,yourlust.com##[class^="root--"]
 7mmtv.tv###mvspan_2_s_k_i_p
@@ -99400,6 +99438,7 @@ imsa.com,nascar.com##.nascar-ad-container
 imx.to##a[href^="https://camonster.com/"]
 imydl.com###enhancedtextwidget-5
 imydl.com##div[id*="banner"]
+imyfone.com##.magicmic-banner-2024
 in-porn.com,inporn.com##.jw-channel-btn.nopop
 in-porn.com,inporn.com##.wrapper[style="min-width: 0px;"] > section[style="padding: 12px;"]
 in-porn.com,sextu.com,mrgay.tube,xmilf.com,blackporn.tube,bdsmx.tube,inporn.com##.video__wrapper > div.wrapper.headline
@@ -99968,6 +100007,10 @@ jagranjosh.com##[class*="_BodyAd_"]
 jagranjosh.com##iframe[title^="YouTube"]
 jagranjosh.com,stadiumastro.com##.Ads
 jaitoutcompris.com###antiBlock
+jambase.com##.affixed-sidebar-adzzz
+jambase.com##.jb-homev3-sense-sidebar-wrap
+jambase.com##.sense-300x250
+jambase.com##.sense-970x250
 jambase.com##.sense-headin
 jamendo.com##.col_extra
 jamieoliver.com##.top-avocado
@@ -100627,6 +100670,7 @@ klyingshi.net##.row > div.url-card:has(> div.url-body span.badge-danger)
 klz9.com,mn4u.net,napuzba.com##div[style^="width:336px"]
 km.com##.downloadApp
 kmbb70.com###publicIndexBanner
+kmbc.com,wlky.com##.article-content--body-wrapper-side-floater
 kmf.com##.g-kmf-906banner
 kmplayer.com##.dim-layer
 kmzu.com##.sticky-footer-promo-container
@@ -106041,6 +106085,7 @@ sosad123.com##div > div[id]:has(img[src*=".xyz/"])
 sosg.net###postlist + .cc
 sostav.ru###rek_blocker
 sou-yun.cn###ads_index_2
+sou.com###ad_wrapper_cpc_conversation-comment-right
 soufun.com##.danmu_inbox
 soundofhope.org###itb_ads_catfish
 soundofhope.org##.itb_ads
@@ -106167,6 +106212,7 @@ sportskeeda.com###video-player-container--
 sportskeeda.com##.primis-player-container
 sportskeeda.com##.vidazoo-player-container
 sportsplanetmag.com##.adshow
+sportsrec.com##.inline-parent-container
 sportsv.net##.adv01
 sportsv.net##.box.ad
 sporttery.cn###newDiv
@@ -108694,7 +108740,6 @@ wjbc.com##a[href^="https://www.farmweeknow.com/rfd_radio/"]
 wjunction.com##a[href^="https://xpornium.net/"]
 wjx.cn###ctl01_ContentPlaceHolder1_divProMsg
 wlevradio.com##a[href^="https://omny.fm/shows/just-start-the-conversation"]
-wlky.com##.article-content--body-text > .article-content--body-wrapper-side-floater:has(> .ad-rectangle)
 wltmv.com##.box_xf
 wmav.pw,wmsj.pw##[class^="asb-"]
 wmtips.com##.a3f17
@@ -140195,6 +140240,7 @@ zle.com$script
 ##.widget_joblo_complex_ad
 ##.widget_long_ads_widget
 ##.widget_newspack-ads-widget
+##.widget_njads_single_widget
 ##.widget_ok_zergnet_widget
 ##.widget_openxwpwidget
 ##.widget_plugrush_widget
