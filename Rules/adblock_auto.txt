@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: x1TtRdRowVHKFFnvSkbL2w
+! Checksum: KBfiXVfZqfmiTDhq6e00Iw
 ! Title: 混合规则(自动更新)
-! Version: 20240531162549
+! Version: 20240601002549
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-31 16:25:49
-! Total Count: 145134
+! Last modified: 2024-06-01 00:25:49
+! Total Count: 145142
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -200,6 +200,7 @@
 ||070880.com^
 ||0722fc.com/index/index.php?/ajax/get_adv/
 ||0722fc.com/index/tools/js.php
+||072551.xyz^
 ||072c4580e8.com^
 ||073img.com/*/|
 ||073img.com^$subdocument
@@ -17166,6 +17167,7 @@
 ||cdn.logrocket.com^
 ||cdn.logsnag.com^
 ||cdn.matomo.cloud^
+||cdn.mcnn.pl^
 ||cdn.mdigital.co.il^
 ||cdn.mediatradecraft.com^
 ||cdn.memo.co^
@@ -58025,6 +58027,7 @@
 ||persianrank.ir^
 ||persianstat.com^
 ||persianstat.ir^
+||persicrejolt.com^
 ||persistarcticthese.com^
 ||persistbrittle.com^
 ||persistentadequate.com^
@@ -62808,6 +62811,7 @@
 ||queergatewayeasier.com^
 ||queersodadults.com^
 ||queersynonymlunatic.com^
+||queerygenets.com^
 ||queiajowan.com^
 ||quellaplentyresolute.com^
 ||quellbustle.com^
@@ -63154,6 +63158,7 @@
 ||r.z3.fm^
 ||r023m83skv5v.com^
 ||r0wa9z6t8t.ru^
+||r1.ati.su^
 ||r20.club^
 ||r202cop.xyz^
 ||r255.wmtw.com^
@@ -77516,6 +77521,7 @@
 ||tracksrv.zdf.de^
 ||trackstracker.com^
 ||tracksystem.online^
+||trackszn.median.eu^
 ||tracktds.com^
 ||tracktds.live^
 ||tracktilldeath.club^
@@ -100229,6 +100235,7 @@ jin10.com###J_wdgg_t
 jin10.com##.jin-popularize
 jin10.com##.l-main > div > .jin-timeline
 jin10.com##.l-main > div > div[class^="jin-"] > .jin-timeline > div[class^="jin-1"]
+jin10.com##.side-module-2
 jin10.com##.top-ad
 jin10.com##div[id^="J_wdgg_"]
 jin10.com#?#.jin-timeline:-abp-has(.jin-tag)
@@ -101507,6 +101514,7 @@ mail.126.com,mail.163.com##div[id$="_BannerDiv"]
 mail.126.com,mail.163.com##div[id$="_FooterDiv"]
 mail.126.com,mail.163.com##div[id$="_succAd"]
 mail.126.com,mail.163.com##div[id^="_mail_popup_"]
+mail.aol.com##li:has(a[data-test-id="pencil-ad-messageList"])
 mail.com##.blocks-3
 mail.com##.indeed
 mail.com##.partner-container
