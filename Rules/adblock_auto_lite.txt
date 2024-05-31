@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: GXFT2Y5/cVmDsvcrNN/BIw
+! Checksum: 5KHaUpdxqSBa1GCG4rrCzQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240531002541
+! Version: 20240531092341
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-31 00:25:41
-! Total Count: 27872
+! Last modified: 2024-05-31 09:23:41
+! Total Count: 27879
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4353,6 +4353,7 @@
 ||bfdcuy9.com^
 ||bfgtfxd.com^
 ||bfjk360.com^
+||bfjsliv.top^
 ||bfjszxzfvf.com^
 ||bflybplr.xyz^
 ||bfpgf.com/wp-content/uploads/2015/08/360dxs.jpg
@@ -6023,6 +6024,7 @@
 ||dffrahax.com^
 ||dffy.com/static/popUp.
 ||dfg6.top^
+||dfgfdffg.cn^
 ||dfghaqea.xyz^
 ||dfgpifa.com^
 ||dfgsdfgr.xyz^$document
@@ -6504,6 +6506,7 @@
 ||e.hnr.cn/choose/view/
 ||e.qq.com^
 ||e.sexbule.xxx^
+||e.so.com/search/pcnew?
 ||e0514.com/do/js.
 ||e0514.com/gglist/
 ||e0575.cn/js/corea/jquery.popup.js
@@ -10051,6 +10054,7 @@
 ||kybzkiw.xyz^
 ||kycxhgrp.xyz^
 ||kydzfldt.xyz^
+||kyemwo.xyz^
 ||kygso.com/js/lrtk.js
 ||kyikdee.cn^
 ||kyjwtxei.xyz^
@@ -15717,6 +15721,7 @@
 ||usualt.com^$third-party,important
 ||usvkfwth.xyz^
 ||usxuyr.icu^
+||usyliet.top^
 ||utienlt.top^
 ||utkauo.xyz^
 ||utlove02.com^$third-party
@@ -16914,6 +16919,7 @@
 ||xw.ooegpip.cn^$third-party,image
 ||xwbspx.xyz^
 ||xwbxsw.com/js/app_wap.
+||xwdjnj.xyz^
 ||xwdsp.com^
 ||xwlnhw.com^
 ||xwlyfl.xyz^
@@ -17018,6 +17024,7 @@
 ||yc444.cn^
 ||yccz.net/xml/
 ||ycgkol.icu^
+||ycgmnpp.icu^
 ||ycgy8888.com^
 ||ychkujj.cn^
 ||yclxrj.top^$third-party
