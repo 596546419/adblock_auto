@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: XZSa2YW/t9qQlbbOXjlUhQ
+! Checksum: x1TtRdRowVHKFFnvSkbL2w
 ! Title: 混合规则(自动更新)
-! Version: 20240531092329
+! Version: 20240531162549
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-05-31 09:23:29
-! Total Count: 145129
+! Last modified: 2024-05-31 16:25:49
+! Total Count: 145134
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -97927,6 +97927,8 @@ goal.com##div[class^="open-web-ad_"]
 goal.com,runningserver.com,thisislondon.co.uk##.commercial
 gobankingrates.com##.bestbanks-slidein
 gobankingrates.com##.rate-table-header
+gocomics.com##.gc-deck--is-ad
+gocomics.com##.gc-top-advertising
 godbolt.org###ces
 godisageek.com,ssbcrack.com,thisiscolossal.com,vgleaks.com###text-11
 goforporn.com##.direction
@@ -102371,6 +102373,8 @@ mydrivers.com##.news_left > div[style*="height:"]
 mydrivers.com##.news_n + div[style*="height"]
 mydrivers.com##.news_xg + style + div
 mydrivers.com##.taobao_tab
+mydrivers.com##.vwE9JmqU
+mydrivers.com##.yTv3AMqP
 mydrivers.com##.zcdf ~ div[style]
 mydrivers.com##a[href*=".ashx?to="]
 mydrivers.com##a[href*=".dangbei.com"]
@@ -102387,6 +102391,7 @@ mydrivers.com#?#div[class^="news_info"] > ul.newslist > li:has(> span:contains(�
 mydrivers.com#?#li:-abp-has(>.titl+.t:-abp-contains(广告))
 mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(/广*告/))
 mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(广告))
+mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(推广))
 mydrivers.com,pujia8.com###recommend
 mydrivers.com,taizhou.com.cn##.duilian2
 mydrivers.com,wmzhe.com##a[href*=".jd.com/"]
