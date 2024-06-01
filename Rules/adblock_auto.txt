@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: KBfiXVfZqfmiTDhq6e00Iw
+! Checksum: 6jMeLULMhkcI59nQVtItxQ
 ! Title: 混合规则(自动更新)
-! Version: 20240601002549
+! Version: 20240601092748
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-01 00:25:49
-! Total Count: 145142
+! Last modified: 2024-06-01 09:27:48
+! Total Count: 145198
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -607,6 +607,7 @@
 ||1312907885.rsc.cdn77.org^
 ||131458.com/union/
 ||13199960a1.com^
+||1324827002.rsc.cdn77.org^
 ||1328f.com/js/jquery.js
 ||13322.com/newIndex/ad/
 ||1338999.com^
@@ -645,9 +646,11 @@
 ||144w6.com^$~third-party
 ||146.148.85.61^
 ||1473763790.rsc.cdn77.org^
+||1482434718.rsc.cdn77.org^
 ||148dfe140d0f3d5e.com^
 ||1492697327.rsc.cdn77.org^
 ||1493c7cc8b.com^
+||1498195232.rsc.cdn77.org^
 ||14bobo.com/js/
 ||14cpoff22.de^
 ||14f72e5e3d.com^
@@ -903,6 +906,7 @@
 ||1aqi93ml4.de^
 ||1b14e0ee42d5e195c9aa1a2f5b42c710.com^
 ||1b264a0ca0.com^
+||1b32caa655.com^
 ||1b3tmfcbq.de^
 ||1b73a49a1b.com^
 ||1b8873d66e.com^
@@ -1223,6 +1227,7 @@
 ||23img.com^*/qomnyi.
 ||23jgiy.com^
 ||23kmm.com^$third-party
+||23oct2023.site^
 ||23qb.com/ak
 ||23qb.com/skin/style
 ||23qb.com/skin/xiu.js
@@ -2817,6 +2822,7 @@
 ||6park.com^$subdocument,badfilter
 ||6ped2nd3yp.com^
 ||6qu5dcmyumtw.com^
+||6rn05mmbct.ru^
 ||6sc.co^
 ||6shuge.com^
 ||6slb0.cyou^
@@ -3844,6 +3850,7 @@
 ||a1.zhanzhang.net^
 ||a11d3c1b4d.com^
 ||a11k.com^
+||a11ybar.com^
 ||a14net.com^
 ||a14refresh.com^
 ||a14tdsa.com^
@@ -8422,6 +8429,7 @@
 ||alwhichhereal.com^
 ||alwhichhereallyw.com^
 ||alwingulla.com^
+||alwsbnvialll.com^
 ||alwubrhkxgqdiw.com^
 ||alxanosoft.com/rk/$redirect=noop.txt,image,media,subdocument,stylesheet,script,xmlhttprequest,other
 ||alxbgo.com^
@@ -9523,6 +9531,7 @@
 ||antiquariangerm.com^
 ||antiquitytissuepod.com^
 ||antiredcessant.com^
+||antirgiocub.com^
 ||antirobotsystem.com^
 ||antisicollyba.top^
 ||antivi.xyz^
@@ -13798,6 +13807,7 @@
 ||biettainhimua2.wixsite.com^
 ||biettaitihonvietnam2021.weebly.com^
 ||biffinberendo.com^
+||bifnosblfdpslg.xyz^
 ||biforinslogs.life^
 ||biftoast.com^
 ||bifyeldv.top^
@@ -18385,11 +18395,13 @@
 ||cision.com^
 ||cisiwa.site^
 ||ciststoquets.space^
+||citadelpathstatue.com^
 ||citatumpity.com^
 ||citemesabourer.xyz^
 ||citersbugre.digital^
 ||citi-vietnam.com^
 ||citivay.org^
+||citizenhid.com^
 ||citizenshadowrequires.com^
 ||citrusad.com^
 ||citrusad.net^
@@ -18931,6 +18943,7 @@
 ||clnk.me^
 ||clnxfwyxyedh.com^
 ||cloba.xyz^
+||clobberprocurertightwad.com^
 ||clockwisefamilyunofficial.com^
 ||clockwiseleaderfilament.com^
 ||clodsplit.com^
@@ -22468,6 +22481,7 @@
 ||dbncp.com^
 ||dbnsd2viud.xyz^
 ||dbnwlp.xyz^
+||dbnxlpbtoqec.com^
 ||dbooksbysecon.com^
 ||dbplygoi.com^
 ||dbpxivi.xyz^
@@ -24579,6 +24593,7 @@
 ||donutfulfilherd.com^
 ||donyandmark.xyz^
 ||doobaupu.xyz^
+||doobuphoo.com^
 ||doochoor.xyz^
 ||doodlelegitimatebracelet.com^
 ||doodlemobile.com/feature_server/fullScreen/get.php
@@ -27694,6 +27709,7 @@
 ||et.educationdynamics.com^
 ||et.nytimes.com^
 ||et.twyn.com^
+||et5k413t.rest^
 ||etadult.com*/images/20
 ||etahub.com^
 ||etahub.com^$third-party
@@ -28412,6 +28428,7 @@
 ||exploittonlets.com^
 ||explorads.com^
 ||explore-123.com^
+||explore-site.com^
 ||exploreannihilationquicker.com^
 ||explorecomparison.com^
 ||exploredefinitely.com^
@@ -29170,6 +29187,7 @@
 ||fccinteractive.com^
 ||fccomvn.com^
 ||fcdqlnmsoi.com^
+||fcepahafyq.com^
 ||fcgmoas.cn^
 ||fcgphtr.cn^
 ||fcgxidqwcx.xyz^
@@ -29245,6 +29263,7 @@
 ||fdsd22.com^
 ||fdsousf.cn^
 ||fdsur.com^
+||fdswrgg.cn^
 ||fdtikenfxgkie.com^
 ||fdtrjz.xyz^
 ||fdubbogbean.guru^
@@ -30892,6 +30911,7 @@
 ||free-fire.shop^
 ||free-website-hit-counters.com^
 ||free-website-statistics.com^
+||free.ovl.me^
 ||free3dgame.xyz^
 ||freeadd.me^
 ||freeavalanche.ru^
@@ -34684,6 +34704,7 @@
 ||gxdzfyg.com^
 ||gxeireojvtfoq.com^
 ||gxemtes.xyz^
+||gxfuwkgsp.com^
 ||gxgbvmg.cn^
 ||gxgrrrovnlgjcv.xyz^
 ||gxgu9gktreso.com^
@@ -36255,6 +36276,7 @@
 ||himselfthoughtless.com^
 ||himselves.com^
 ||himselvesobr.club^
+||himunpracticalwh.info^
 ||hinaprecent.info^
 ||hinavvogha.com^
 ||hindervoting.com^
@@ -36396,6 +36418,7 @@
 ||hjfile.cn/site/hj-lzs/
 ||hjfile.cn/site/js/pop_gift_plugin.js
 ||hjfonyiuo.com^
+||hjgapllydic.com^
 ||hjgd.ltd^
 ||hjgkr0g.xyz^
 ||hjgrc.xyz^
@@ -36673,6 +36696,7 @@
 ||hojecynwe.com^
 ||hokarsoud.com^
 ||hokierloopy.digital^
+||holahupa.com^
 ||holdenthusiastichalt.com^
 ||holder.com.ua^
 ||holdhostel.space^
@@ -37735,6 +37759,7 @@
 ||hyloistmithan.com^
 ||hylomysslipper.digital^
 ||hymenicpirn.com^
+||hymenvapour.com^
 ||hymnarypoking.com^
 ||hynahyqq.xyz^
 ||hynteroforion.com^
@@ -38552,6 +38577,7 @@
 ||ikouthaupi.com^
 ||ikrail.com^
 ||ikrauteri.life^
+||ikrvvsliwar.com^
 ||ikrweb.cn^
 ||ikstatic.cn^*.gif
 ||iktree.xyz^
@@ -41011,6 +41037,7 @@
 ||jcpcfopwcae.com^
 ||jcpclick.com^
 ||jcqueawk.xyz^
+||jcqvfuztbvryk.com^
 ||jcrb.com/ZYW$subdocument
 ||jcreje.com^
 ||jcrnbnw.com^
@@ -43963,6 +43990,7 @@
 ||kq7it3c6.xyz^
 ||kq7k.icu^
 ||kqbrgl.icu^
+||kqduogttdmryguw.com^
 ||kqhi97lf.de^
 ||kqiivrxlal.xyz^
 ||kqirf.xyz^
@@ -47709,6 +47737,7 @@
 ||lyricspartnerindecent.com^
 ||lyrtyvqnbkknt.xyz^
 ||lysim-lre.com^
+||lysjpqhhzve.com^
 ||lysq.com/data/attachment/portal/
 ||lyssapebble.com^
 ||lythonefa.com^
@@ -49637,6 +49666,7 @@
 ||mgjnmfhyis.xyz^
 ||mglsk.com^
 ||mglvfetiub.com^
+||mgmuye.xyz^
 ||mgnlaigx.fun^
 ||mgowec.xyz^
 ||mgrattedropenrigh.xyz^
@@ -49883,6 +49913,7 @@
 ||mineraltip.com^
 ||minero.pw^
 ||minescripts.info^
+||minessetion.info^
 ||minewhat.com^
 ||minexmr.stream^
 ||mingchacn.top^
@@ -54844,6 +54875,7 @@
 ||odoscope.com^
 ||odouanmhndwipg.com^
 ||odoucessu.com^
+||odourcowspeculation.com^
 ||odpfujlimjuk.com^
 ||odpokjcucdax.com^
 ||odqicviub.com^
@@ -56571,6 +56603,7 @@
 ||ovexui.xyz^
 ||ovfjiktdr.com^
 ||ovfvkfc.xyz^
+||ovgjveaokedo.xyz^
 ||ovgzbnjj.com^
 ||ovhacmobpval.com^
 ||ovhkfewhyqiz.com^
@@ -57792,6 +57825,7 @@
 ||peeringinvasion.com^
 ||peerius.com^
 ||peesopit.net^
+||peesteso.xyz^
 ||peethach.com^
 ||peethobo.com^
 ||peevishaboriginalzinc.com^
@@ -60941,6 +60975,7 @@
 ||prunesupgraderadiator.com^
 ||prutosom.com^
 ||pruwwox.com^
+||prvc.io^
 ||prvsz4pe.micpn.com^
 ||prwave.info^
 ||prx.wayfair.com^
@@ -63589,6 +63624,7 @@
 ||rd-cdnp.name^
 ||rd.alice.it^
 ||rd.autohome.com.cn^
+||rdairclewestoratesa.info^
 ||rdance.cn^
 ||rdbd.xsread.com^
 ||rdbousn.cn^
@@ -66716,6 +66752,7 @@
 ||satisfactionpredictmusic.com^
 ||satisfactionretirechatterbox.com^
 ||satisfactorilyfigured.com^
+||satisfied-tour.pro^
 ||satisfycork.com^$third-party
 ||satisfyingshow.com^$third-party
 ||satisfyingspark.com^$third-party
@@ -67153,6 +67190,8 @@
 ||sda.seesaa.jp^
 ||sda.seksohub.com^
 ||sda.tamdiem247.com^
+||sdarot-il.org^
+||sdarot.cc^
 ||sdarotil.top^
 ||sdasasyydd.com^
 ||sdata.wiley.com^
@@ -69825,6 +69864,7 @@
 ||sltbjrf.cn^
 ||sltle.icu^
 ||sltracl.com^
+||sltraffic.com^
 ||sltvhyjthx.com^
 ||slubbermunch.com^
 ||sluccju.com^
@@ -71342,6 +71382,7 @@
 ||ssedonthep.info^
 ||ssery.com^
 ||ssestherssa.com^
+||sseudorassb.com^
 ||ssgg.chazidian.com^
 ||ssh.*.com^*!$script,third-party
 ||ssiapawz.com^
@@ -72260,6 +72301,7 @@
 ||stimtavy.net^
 ||stimulateartificial.com^
 ||stimulatemosque.com^
+||stimulatinggrocery.pro^
 ||stimulatingsneeze.com^$third-party
 ||stingeantonia.com^
 ||stinglackingrent.com^
@@ -74740,6 +74782,7 @@
 ||teowa.cyou^
 ||teqcdnk.cn^
 ||terabigyellowmotha.info^
+||terabox.app/api/ad/
 ||terabox.com/api/ad/
 ||terabytemedia.com^
 ||teracent.net^
@@ -81432,6 +81475,7 @@
 ||vexedkindergarten.com^
 ||vexevutus.com^
 ||vexilorath.com^
+||vexolinu.com^
 ||vextjoexig.com^
 ||vezetmne.ru^
 ||vezizey.xyz^
@@ -83060,6 +83104,7 @@
 ||vuruzy.xyz^
 ||vuryua.ru^
 ||vusrabieg.com^
+||vutjnt.xyz^
 ||vuukle.net^
 ||vuuwd.com^
 ||vuvacu.xyz^
@@ -84912,6 +84957,7 @@
 ||wkpewkejefefhm.com^
 ||wkpfgjbmd.com^
 ||wkqcnkstso.com^
+||wkqqdchbbz.com^
 ||wkrcbszi.xyz^
 ||wkrhel.icu^
 ||wksrx.cn^
@@ -85622,6 +85668,7 @@
 ||wurqaz.com^
 ||wurstsmikael.life^
 ||wuruigroup.com^
+||wurwhydimo.com^
 ||wushangzeichuan.xin^
 ||wussucko.com^
 ||wusuliriver.com^
@@ -85698,6 +85745,7 @@
 ||wwgqqq.com^
 ||wwhnjrg.com^
 ||wwhsxwow.xyz^
+||wwicnmksxd.com^
 ||wwija.com^
 ||wwjtdjj.cn^
 ||wwkedpbh4lwdmq16okwhiteiim9nwpds2.com^
@@ -86361,6 +86409,7 @@
 ||xiexingcun.com/tyong.js
 ||xiezhong.club^
 ||xiezhuo038.cn^
+||xigfqlwsbbtx.com^
 ||xigrtoai.com^
 ||xihuangdushu.com^
 ||xihufe.com^
@@ -86503,6 +86552,7 @@
 ||xjxbdh.xyz^
 ||xjzyhp.xyz^
 ||xk3b.top^
+||xkaovzjasjw.com^
 ||xkbbjtfp.xyz^
 ||xkbgqducppuan.xyz^
 ||xkbinj.xyz^
@@ -89598,6 +89648,7 @@
 ||zqfbsrldaeawna.com^
 ||zqfcndk.com^
 ||zqg315a.cn^
+||zqgixxp.icu^
 ||zqiew.xyz^
 ||zqizn.com^
 ||zqksqsjupnb.com^
@@ -108869,6 +108920,7 @@ wrestlingnews.co###mvp-head-top
 wrestlingnews.co###text-38
 writerscafe.org###header_pay
 writerscafe.org##.pay
+ws://*/api/wss/GetNotReadCount$third-party
 wsj.com###coupon-links
 wsj.com###in_ad_col_b
 wsj.com###saving-united-coupon-list
@@ -122730,6 +122782,7 @@ waust.at
 wcdnct.inter.71edge.com/videos/other/*.f4v
 weizhenwx.com
 wpadmngr.com
+ws://*/api/wss/GetNotReadCount$third-party
 wss://*/api/wss/GetNotReadCount$third-party
 xelements.cn
 xhtml?$domain=kanshu8.net
@@ -141000,6 +141053,7 @@ zle.com$script
 ##a[href*="//baidujkdjklvvsbvk.com"]
 ##a[href*="//bitizm.pojuko.buzz/"]
 ##a[href*="//buhlvp.pojuko.buzz/"]
+##a[href*="//daichoho.com/"]
 ##a[href*="//go.admjmp.com/"]
 ##a[href*="//go.bbrdbr.com/"]
 ##a[href*="//go.cambaddies.com/"]
@@ -141504,6 +141558,7 @@ zle.com$script
 ##a[href^="https://engine.flixtrial.com/"]
 ##a[href^="https://engine.phn.doublepimp.com/"]
 ##a[href^="https://engine.trackingdesks.com/"]
+##a[href^="https://explore-site.com/"]
 ##a[href^="https://fastestvpn.com/lifetime-special-deal?a_aid="]
 ##a[href^="https://fc.lc/ref/"]
 ##a[href^="https://femglobal.app/"]
@@ -141593,6 +141648,7 @@ zle.com$script
 ##a[href^="https://lnkxt.bannerator.com/"]
 ##a[href^="https://lobimax.com/"]
 ##a[href^="https://loboclick.com"]
+##a[href^="https://loboclick.com/"]
 ##a[href^="https://losingoldfry.com/"]
 ##a[href^="https://m.do.co/c/"] > img
 ##a[href^="https://maymooth-stopic.com/"]

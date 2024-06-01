@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: veMiB6cfslVynWV+wRr2Vw
+! Checksum: cMx9XfTYIfdHwlURUwisZQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240601002600
+! Version: 20240601092759
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-01 00:26:00
-! Total Count: 27879
+! Last modified: 2024-06-01 09:27:59
+! Total Count: 27884
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7034,6 +7034,7 @@
 ||fdfghgfdd.yunqishi.net^
 ||fdhnsr56.shop^
 ||fdrxdr.xyz^
+||fdswrgg.cn^
 ||fdtrjz.xyz^
 ||fdytdc.xyz^
 ||feakio.top^
@@ -10960,6 +10961,7 @@
 ||mgage.com^
 ||mggzah.icu^
 ||mgidskix.top^
+||mgmuye.xyz^
 ||mgsm.pl/js/get*AdsMobile.xhtml
 ||mgzjin.cn^$third-party
 ||mh3666.com^*.jsonp
@@ -14410,6 +14412,7 @@
 ||ssdfgq7.com^
 ||ssdtour.com^
 ||ssestherssa.com^
+||sseudorassb.com^
 ||ssgg.chazidian.com^
 ||ssh.*.com^*!$script,third-party
 ||ssjv1.com/dm/
@@ -16084,6 +16087,7 @@
 ||vuntbnc.cn^$document
 ||vuntbnc.cn^$~third-party
 ||vupload.duowan.com^
+||vutjnt.xyz^
 ||vuvnix.icu^
 ||vuvxpf.xyz^
 ||vuwjv7sjvg7.zedporn.com^
@@ -17703,6 +17707,7 @@
 ||zpvuugw.cn^
 ||zpzlbv.xyz^
 ||zq.lansedir.com^
+||zqgixxp.icu^
 ||zqwlkj.cn^
 ||zqzq*.com:*/da.aspx
 ||zrakpxsf.com^
