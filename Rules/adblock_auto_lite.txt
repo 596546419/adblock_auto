@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: xhGc/DFrPB/+RBcbSflsgA
+! Checksum: DzLNtqH0/dVEmrzvIze8AA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240601162500
+! Version: 20240602002313
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-01 16:25:00
-! Total Count: 27887
+! Last modified: 2024-06-02 00:23:13
+! Total Count: 27889
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3213,6 +3213,7 @@
 ||aerbgpn.xyz^
 ||aeucyo.xyz^
 ||af29.com/banner/
+||af9dc9.xyz^
 ||afafevk.com^
 ||afdunaui.com^
 ||afenjkopoqwm.com^$third-party
@@ -7764,6 +7765,7 @@
 ||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices_gpt.js,important,domain=ukr.net
 ||googlevideo.com/videoplayback?$media,redirect=noop-1s.mp4,domain=safeframe.googlesyndication.com
 ||googlevideo.com/videoplayback?$xmlhttprequest,redirect=noop.txt,domain=safeframe.googlesyndication.com
+||goole20.shop^
 ||goopi.cyou^
 ||goproxy.cc/api.php
 ||gorgeousground.com^$third-party

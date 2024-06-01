@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 9sKsN18XwYb59V4/NGHAuA
+! Checksum: GUNJbwfSLVEfxCys9rTTQw
 ! Title: 混合规则(自动更新)
-! Version: 20240601162449
+! Version: 20240602002301
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-01 16:24:49
-! Total Count: 145202
+! Last modified: 2024-06-02 00:23:01
+! Total Count: 145216
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7029,6 +7029,7 @@
 ||af.tosho-trading.co.jp^
 ||af29.com/banner/
 ||af91c27a8e.com^
+||af9dc9.xyz^
 ||afafevk.com^
 ||afahivar.com^
 ||afahivar.coom^
@@ -13695,6 +13696,7 @@
 ||bhnjwmega.com^
 ||bhnmkauncgr.com^
 ||bhny.asia^
+||bhohazozps.com^
 ||bhovnhvpq.com^
 ||bhozjskhzfdkh.com^
 ||bhpprfk.cn^
@@ -19725,6 +19727,7 @@
 ||combinationpalmwhiskers.com^
 ||combinedexterior.com^
 ||combineencouragingutmost.com^
+||combinestronger.com^
 ||combitly.com^
 ||combo-omni.haravan.com^
 ||combotag.com^
@@ -20315,6 +20318,7 @@
 ||cooperativepassenger.com^
 ||coordinatedbedroom.com^$third-party
 ||coordinatedcoat.com^$third-party
+||coordinatereopen.com^
 ||cooserdozens.top^
 ||cooshouz.xyz^
 ||coostujina.com^
@@ -26493,6 +26497,7 @@
 ||egadfe.xyz^
 ||egadvertising.com^
 ||egafopmtv.xyz^
+||egalitysarking.com^
 ||egallsylvate.com^
 ||egamingonline.com^
 ||egamiplatform.tv^
@@ -27016,6 +27021,7 @@
 ||enclearmooch.com^
 ||enclforlane.com^
 ||enclosedsponge.com^
+||enclosedswoopbarnacle.com^
 ||encloseprecious.com^
 ||encodehelped.com^
 ||encodeinflected.com^
@@ -28713,6 +28719,7 @@
 ||f84add7c62.com^
 ||f853150605ccb.com^
 ||f857.hearstmediatx.com^
+||f8a070.xyz^
 ||f8be4be498.com^
 ||f8dy.tv/template/m1938/js/b
 ||f8dy.tv/template/m1938/js/foot.js
@@ -30508,6 +30515,7 @@
 ||footnote.com^
 ||footprintdns.com^
 ||footprintlive.com^
+||footprintsfurnish.com^
 ||footprintssoda.com^
 ||footprintswarming.com^
 ||footstepnoneappetite.com^
@@ -31628,6 +31636,7 @@
 ||fznpq.com^
 ||fznxvf.xyz^
 ||fzpchome.com/txt/$script
+||fzpzrqou.icu^
 ||fzszuvb.com^
 ||fztimyc.cn^
 ||fztmn.top^
@@ -33664,6 +33673,7 @@
 ||googlevideo.com/videoplayback?$xmlhttprequest,redirect=noop.txt,domain=safeframe.googlesyndication.com
 ||goohimom.net^
 ||goolaptaugab.com^
+||goole20.shop^
 ||goomaphy.com^
 ||goon.ru^
 ||gooo.al^
@@ -63912,6 +63922,7 @@
 ||record.kuai.xunlei.com^
 ||record.rizk.com^
 ||recordbutter.com^$third-party
+||recordedthereby.com^
 ||recordercrush.com^
 ||recordervesttasting.com^
 ||recordingadventurouswildest.com^
@@ -72949,6 +72960,7 @@
 ||sumids.com^
 ||summaryjustlybouquet.com^
 ||summaryvalued.com^
+||summer-notifications.com^
 ||summer5188.com^
 ||summerboycottrot.com^
 ||summercovert.com^
@@ -92386,6 +92398,7 @@ apnews.com##div[class^="Component-adTitle-"]
 apnews.com##div[class^="Component-dfp-"]
 apnews.com##div[class^="Component-placeholderWrapper-"]
 apnews.com##div[class^="Component-rectanglePlaceholderWrapper-"]
+apnews.com,arabiaweather.com,atlasobscura.com,bloomberg.com,forum.audiogon.com,gamesindustry.biz,news957.com,newscientist.com,usgamer.net##.leaderboard-container
 apotelyt.com##.cu8ucFitaCon
 apotelyt.com##.cuLinkLoad
 apotelyt.com##.sdbrUnitFlex100a
@@ -92440,7 +92453,6 @@ ar15.com##[href^="/forums/transfers.html"]
 ar15.com,armageddonexpo.com,audiforums.com,element-plus.org,f1gamesetup.com,ferrarichat.com,hotrodhotline.com,jaguarforums.com,pypi.org,smashingmagazine.com,thebugle.co.za,waamradio.com,wbal.com,webtorrent.io##.sponsors
 arabianindustry.com##.da-leaderboard
 arabiaweather.com##.mpu-card
-arabiaweather.com,atlasobscura.com,bloomberg.com,forum.audiogon.com,gamesindustry.biz,news957.com,newscientist.com,usgamer.net##.leaderboard-container
 aratta-ukraine.com,drawnstories.ru,gisclub.tv,kinda.media,teremok.org.ua,webos-forums.ru###mdl_adb
 arboristsite.com,kitchenknifeforums.com,quadraphonicquad.com##.gb-sponsored-wrapper
 arcadebomb.com##.bannerext
@@ -93279,6 +93291,7 @@ bigpixel.cn,itbaoku.cn,jkpan.cc,yaociyuan.bid##+js(set-constant, killads, true)
 bigporn.top,xporno.tv##div[class^="block_ads_"]
 bigpuzzle.ru##td[valign="top"][width="200px"][height="600"] > div[style]
 bigpuzzle.ru##td[valign="top"][width="240px"][height="600"]
+bigthink.com##.wrapper-connatixPlayspace
 bigtitsgallery.net##.classifiedAd
 bigtitslust.com,ebony8.com,freeporn8.com,lesbian8.com,maturetubehere.com,shemalesin.com###player_add
 bigtitslust.com,sortporn.com##.pignr.item
@@ -99650,6 +99663,7 @@ inquirer.net##a[href^="https://ruby.inquirer.net/"]
 insauga.com##.proper-content-dynamic
 insidebitcoins.com##.banner-cta-wrapper
 insidebitcoins.com##.c-FloatingPrompt
+insideevs.com##.minutely_video_wrap
 insideevs.com,motor1.com##.apb
 insidehighered.com##.pane-dfp
 insidemydream.com##.afxshop
@@ -102160,15 +102174,12 @@ motortrend.com##._2I-e5
 motortrend.com##._2IzhW
 motortrend.com##._2UIiN
 motortrend.com##._2xd_t
-motortrend.com##.cls-helper-250-90-250
-motortrend.com##.justify-center.flex-col
-motortrend.com##.lg\:min-h-\[90px\]
-motortrend.com##.min-h-\[120px\]
+motortrend.com##.justify-center:has(.nativo-news)
+motortrend.com##.mb-6:has([data-ad="true"])
 motortrend.com##.parent-video-player-cls
 motortrend.com##.video-player-cls
-motortrend.com##[data-id="dtc-widget-marketplace-banner"]
+motortrend.com##[data-ids="AdContainer"]
 motortrend.com##div[data-ad-targeting]
-motortrend.com,mumsnet.com##.min-w-\[300px\]
 mover.uz###oframeplayer > [class][style^="display: block"]
 movie-censorship.com##a[href*="/out.php?"]
 movie-rush.com##iframe[src^="https://www.movie-rush.com/files/js/ad/"]
@@ -102339,6 +102350,7 @@ mumbaiporn.com##.hor-spots-bl
 mumbrella.com.au##.bannerSide
 mumbrella.com.au##.featureBanner
 mumsnet.com##.lg\:w-billboard
+mumsnet.com##.min-w-\[300px\]
 mumu.163.com##.pic-con
 musescore.com###ad_cs_12219747_300_250
 musescore.com###ad_cs_12219747_728_90
@@ -103700,6 +103712,8 @@ phuketwan.com###bannersTop
 physicsandmathstutor.com###PMT_PDF_Top
 physicsandmathstutor.com###PMT_Top
 physicsworld.com##.corporate-partners
+physicsworld.com##.key-suppliers
+physicsworld.com##.mpu-300x250
 pianba.net###jiedoubanban
 pianba.net###jinjisheshe
 pianba.tv,pianba.net##.play-btn > a[target="_blank"]
@@ -108985,7 +108999,6 @@ www.le.com###full_Column_small
 www.le.com###rightBottomPop
 www.lofter.com###appdownloadbanner
 www.mgtv.com##.m-headgg
-www.motortrend.com##.min-h-\[90px\]
 www.mp4er.com##div[data-id*="slide-0"]
 www.mp4er.com##div[style*="z-index:999"][style*="position: fixed"]
 www.mydrivers.com###weixin_box
@@ -113936,6 +113949,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adreadytractions.
 /adrec.$domain=~adrec.paris-sorbonne.fr
 /adreclaim-
+/adrecover.js
 /adrectanglebanner?
 /adrefresh-
 /adrefresh.
