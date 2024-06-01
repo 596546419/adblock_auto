@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: cMx9XfTYIfdHwlURUwisZQ
+! Checksum: xhGc/DFrPB/+RBcbSflsgA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240601092759
+! Version: 20240601162500
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-01 09:27:59
-! Total Count: 27884
+! Last modified: 2024-06-01 16:25:00
+! Total Count: 27887
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5547,6 +5547,7 @@
 ||cpdronhu.xyz^
 ||cped7.xyz^
 ||cpffkbpq.xyz^
+||cpgou.cn^
 ||cpkxahje.xyz^
 ||cpm.cm.kankan.com^
 ||cpmlwhra.xyz^
@@ -6382,6 +6383,7 @@
 ||dspczg.pw^
 ||dspmnt.autohome.com.cn^
 ||dspunion.com^
+||dssdfsf.cn^
 ||dstbekdf.xyz^
 ||dstbunkfw.xyz^
 ||dswcrlf.cn^
@@ -25584,6 +25586,7 @@ zle.com$script
 ##.zone_wap_banner2
 ##A[href*=".com/?Agent="]
 ##A[href="http://t.cn/A6hQCVsv"]
+##A[href="javascript:;"][onclick^="todkjermyd"]
 ##A[href^="/e/public/ClickAd?adid="]
 ##[ad_display_dot]
 ##[ad_dot_url]

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 6jMeLULMhkcI59nQVtItxQ
+! Checksum: 9sKsN18XwYb59V4/NGHAuA
 ! Title: 混合规则(自动更新)
-! Version: 20240601092748
+! Version: 20240601162449
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-01 09:27:48
-! Total Count: 145198
+! Last modified: 2024-06-01 16:24:49
+! Total Count: 145202
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -20729,6 +20729,7 @@
 ||cpffkbpq.xyz^
 ||cpfwffke.com^
 ||cpgo.xyz^
+||cpgou.cn^
 ||cpkxahje.xyz^
 ||cpl1.ru^
 ||cplayer.pw^
@@ -25177,6 +25178,7 @@
 ||dspultra.com^
 ||dspunion.com^
 ||dspxxy.com^
+||dssdfsf.cn^
 ||dssdr.top^
 ||dssdv.com^
 ||dssh.shop^
@@ -92226,7 +92228,7 @@ androidpolice.com,constructionreviewonline.com,cryptobriefing.com,dereeze.com,ty
 androidsage.com##.code-block-9
 androidsage.com,cookingwithdog.com,cryptoreporter.info,ets2.lt,geekdashboard.com,geekspin.co,getdroidtips.com,kanonitv.net,streamtelly.com,techpp.com,whats-on-netflix.com##.code-block-1
 androidsage.com,patriotfetch.com,scienceabc.com##.code-block-5
-androidtrends.com,backthetruckup.com,bingehulu.com,streamsgeek.com,techcentral.co.za,trendstorys.com,vedantbhoomi.com##.a-wrap
+androidtrends.com,backthetruckup.com,bingehulu.com,buffalorising.com,streamsgeek.com,techcentral.co.za,trendstorys.com,vedantbhoomi.com##.a-wrap
 androidweblog.com##.cgdyh > [data-adid]
 andscape.com##.ad-incontent-wrapper
 anews.com.tr##.adControl
@@ -98911,6 +98913,7 @@ homo.xxx##.footer.spot
 homo.xxx##.spot.column
 honglingjin.co.uk##.rs-side-ads
 hope1032.com.au##.s-supported-by
+horoscope.com##.top-slot
 horoscopes.astro-seek.com##.vyska-sense
 hostingreviews24.com##.av_pop_modals_1
 hosty.uprwssp.org##.e10
@@ -102449,8 +102452,8 @@ mydrivers.com#?#.newslist > li:has(> span:contains(广 告))
 mydrivers.com#?#div[class^="news_info"] > ul.newslist > li:has(> span:contains(广告))
 mydrivers.com#?#li:-abp-has(>.titl+.t:-abp-contains(广告))
 mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(/广*告/))
+mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(/推*广/))
 mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(广告))
-mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(推广))
 mydrivers.com,pujia8.com###recommend
 mydrivers.com,taizhou.com.cn##.duilian2
 mydrivers.com,wmzhe.com##a[href*=".jd.com/"]
@@ -140486,6 +140489,7 @@ zle.com$script
 ##AMP-AD
 ##A[href*=".com/?Agent="]
 ##A[href="http://t.cn/A6hQCVsv"]
+##A[href="javascript:;"][onclick^="todkjermyd"]
 ##A[href^="/e/public/ClickAd?adid="]
 ##DFP-AD
 ##[ad_display_dot]
