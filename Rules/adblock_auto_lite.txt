@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: DzLNtqH0/dVEmrzvIze8AA
+! Checksum: M2HI4mlwXHQmAiUBXp2IAg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240602002313
+! Version: 20240602092828
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-02 00:23:13
-! Total Count: 27889
+! Last modified: 2024-06-02 09:28:28
+! Total Count: 27898
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5825,6 +5825,7 @@
 ||daiporno.com^$third-party
 ||daiwofei2019.top^
 ||dajiadu8.com/17.js
+||dajiahao9.top^
 ||dajiazhao.com/login/reg.js
 ||dakang-energy.com^
 ||daliantong.com.cn^$third-party
@@ -6134,6 +6135,7 @@
 ||divcss5.com*/liping/
 ||divehope.com^$third-party
 ||divergentoffer.com^$third-party
+||divxrj.xyz^
 ||diwok.cyou^
 ||dixyporn.com/include/
 ||diyifanwen.com/siteimages/jiqiren
@@ -7392,6 +7394,7 @@
 ||fzlol.com/images/$script
 ||fznxvf.xyz^
 ||fzpchome.com/txt/$script
+||fzpzrqou.icu^
 ||fztyrv.xyz^
 ||fzxiaoshuo.com/source/
 ||g-years.com/gy/
@@ -11089,6 +11092,7 @@
 ||mnnmnn.com^
 ||mnorkc.xyz^
 ||mnpbxjq.cn^
+||mnpkxgfp.xyz^
 ||mnpzrgz.xyz^
 ||mnrrk.com/yuhe/ote/js/pcgg.js
 ||mnvxdkd.xyz^
@@ -11962,6 +11966,7 @@
 ||ostjpig.cn^
 ||osusjsga.com^
 ||oswowg.xyz^
+||osyliek.top^
 ||otbeksf.cn^
 ||otcdn2.auditude.com^
 ||other.appcpi.net^
@@ -13121,6 +13126,7 @@
 ||qyuimi.xyz^
 ||qyun.vip/pic/*.gif
 ||qyuwkby.top^
+||qywbslk.top^
 ||qzalsk.xyz^
 ||qziuwzn.cn^
 ||qznjujv.xyz^
@@ -14324,6 +14330,7 @@
 ||southmoney.com^*/Inc/
 ||soutubot.moe/static/airport
 ||sowlettuce.com^$third-party
+||sowsuwm.icu^
 ||sozi.cn/images/tj/downad
 ||sozi.cn/images/tj/hukead.gif
 ||sozi.cn/images/tj/szdown
@@ -15908,6 +15915,7 @@
 ||verseballs.com^$third-party
 ||verstug.cn^
 ||veta.naver.com^
+||vevhjj.xyz^
 ||vewdk.cyou^
 ||vexilorath.com^
 ||vezvpd.xyz^
@@ -17295,6 +17303,7 @@
 ||ys630.com^$third-party
 ||ysdm*.ys137.com.cn^
 ||yshlor.icu^
+||yskicm.xyz^
 ||ysm.ezprice.net^$third-party
 ||yssryr.cn^
 ||ysx8.vip^$third-party

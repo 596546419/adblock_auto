@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: GUNJbwfSLVEfxCys9rTTQw
+! Checksum: nDi6CdV+HzpsYolIY4DDIQ
 ! Title: 混合规则(自动更新)
-! Version: 20240602002301
+! Version: 20240602092817
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-02 00:23:01
-! Total Count: 145216
+! Last modified: 2024-06-02 09:28:17
+! Total Count: 145244
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8476,6 +8476,7 @@
 ||amateurhub.cam^
 ||amateurporn.net^$third-party
 ||amattepush.com^
+||amatvip36sc.cc^
 ||amaumomt.com^
 ||amavalet.com^
 ||amazinelistrun.pro^
@@ -8503,6 +8504,7 @@
 ||amazonaws.com^*/abb-msg.js$domain=hardocp.com
 ||amazonbig.asia^
 ||amazonclix.com^
+||amazonl3.com^
 ||amazonlogistics.jp^
 ||amazononline.xyz/mp4/*.mp4$redirect=noop-0.1s.mp3,domain=iyingshi7.tv|localmv1.com,media
 ||amazononline.xyz/mp4/*.mp4$redirect=noopmp3-0.1s,domain=iyingshi7.tv|localmv1.com
@@ -16316,6 +16318,7 @@
 ||c9tt3jj.top^
 ||c9xv.xyz^
 ||ca-api.cafe24data.com^
+||ca-nhan-vpb.com^
 ||ca.cbsi.com.cn/rpv?
 ||ca.cydp5.com^
 ||ca.video-cdn.net^
@@ -17697,6 +17700,7 @@
 ||chamsocthekhachang-truc-tuyen.com^
 ||chamsocthekhachhang-thang4.com.vn^
 ||chamsocthekhachhang-thang4.online^
+||chamsocthekhachhang-uudai-tructuyen.com^
 ||chanalytics.merchantadvantage.com^
 ||chancellorharrowbelieving.com^
 ||chancellorstocky.com^
@@ -21925,6 +21929,7 @@
 ||da.rosrabota.ru^
 ||da066d9560.com^
 ||da29e6b8-f018-490f-b25f-39a887fc95e7.xyz^
+||da6555.com^
 ||da77842b9c.com^
 ||daadr.cn^
 ||daailynews.com^
@@ -22076,6 +22081,7 @@
 ||dajiadu8.com/17.js
 ||dajiafacai923.xyz^
 ||dajiafacai926.xyz^
+||dajiahao9.top^
 ||dajiazhao.com/login/reg.js
 ||dajiurlgcfvgpt.com^
 ||dakang-energy.com^
@@ -24119,6 +24125,7 @@
 ||divorceseed.com^
 ||divortrelict.top^
 ||divscripty.net^
+||divxrj.xyz^
 ||diwok.cyou^
 ||dixhqjgbatpg.com^
 ||diximedia.es^
@@ -43314,6 +43321,7 @@
 ||khuyenmaitanthu.com^
 ||khuyenmaivangonline.club^
 ||khuyenmaivimomo.weebly.com^
+||khvib-canhan.com^
 ||khvphqpsl.com^
 ||khzyojb.cn^
 ||kiaughsviner.com^
@@ -48790,6 +48798,7 @@
 ||mbbankmn.com^
 ||mbbankn.com^
 ||mbbffn.online^
+||mbcanhan-cskh.com^
 ||mbdfidszzlo.com^
 ||mbdippex.com^
 ||mbdkb.com^
@@ -48798,6 +48807,7 @@
 ||mbewimcotjri.com^
 ||mbfhwag.xyz^
 ||mbfic-plus.com^
+||mbfn-fic.com^
 ||mbgbomrshrecpwj.xyz^
 ||mbgufryceqkoap.com^
 ||mbid.marfeelrev.com^
@@ -49742,6 +49752,7 @@
 ||mianwww.com/wp-content/uploads/2014/05/insigmaedu1.gif
 ||mianyaojsj.com^
 ||miaolejieshui.cn^
+||miaoniter.com^
 ||miaorentang.xyz^
 ||miaoshangmanhua.com/template/pc/skin01/images/250_250.
 ||miaouedcrevass.com^
@@ -50379,6 +50390,7 @@
 ||mnogodiva.ru^
 ||mnorkc.xyz^
 ||mnpbxjq.cn^
+||mnpkxgfp.xyz^
 ||mnpool.cn^
 ||mnptinibfbv.com^
 ||mnpzrgz.xyz^
@@ -56251,6 +56263,7 @@
 ||osusjsga.com^
 ||oswegomiting.com^
 ||oswowg.xyz^
+||osyliek.top^
 ||oszlnxwqlc.com^
 ||oszzxhqhfh.com^
 ||ot.jizy.cn^
@@ -58305,6 +58318,7 @@
 ||phastoag.com^
 ||phatchoa.net^
 ||phatqualienminh2015.weebly.com^
+||phattai247.com^
 ||phattai6666.com^
 ||phattaimomo.com^
 ||phauckoo.xyz^
@@ -63141,6 +63155,7 @@
 ||qyuwkby.top^
 ||qyvklvjejrmkz.top^
 ||qyvklvjejrmwo.top^
+||qywbslk.top^
 ||qywjvlaoyrzqw.top^
 ||qyxwfe.com^
 ||qz15.top^
@@ -68627,6 +68642,7 @@
 ||shopee1.org^
 ||shopee103.vip^
 ||shopee122.vip^
+||shopee123.vip^
 ||shopee130.vip^
 ||shopee132.vip^
 ||shopee14.com^
@@ -70599,6 +70615,7 @@
 ||sophus3.com^
 ||sopital.com^
 ||soppe68.com^
+||soppe68.shop^
 ||sopper68.com^
 ||sopr-api.cian.ru^
 ||sopulit.top^
@@ -70718,6 +70735,7 @@
 ||sowfairytale.com^
 ||sowlettuce.com^$third-party
 ||sowp.cloud^
+||sowsuwm.icu^
 ||soxscc.org/wsc/
 ||soyjlnfatgxpfd.com^
 ||soysapslad.com^
@@ -70850,6 +70868,7 @@
 ||sp.zanesvilletimesrecorder.com^
 ||sp0.baidu.com^
 ||sp1.baidu.com^
+||sp15569p.com^
 ||sp2.baidu.com^
 ||sp3.baidu.com^
 ||sp315693vn.com^
@@ -71991,6 +72010,7 @@
 ||stats.olark.com^
 ||stats.online-convert.com^
 ||stats.opoloo.de^
+||stats.osd.vn^
 ||stats.otempo.com.br^
 ||stats.ozwebsites.biz^
 ||stats.pandora.com^
@@ -74487,6 +74507,7 @@
 ||tdkd03.com^
 ||tdkd07.com^
 ||tdkd08.com^
+||tdkt01.com^
 ||tdljuuw.xyz^
 ||tdlyfz.xyz^
 ||tdmd.us^
@@ -75820,6 +75841,7 @@
 ||tinbuadserv.com^
 ||tinchap-nganhang.online^
 ||tinchap-techcombank.store^
+||tinchaphd.com^
 ||tinchapluong-techcombank.xyz^
 ||tinchapvcb-vn.com^
 ||tinchapvietcombank24h.com^
@@ -76706,6 +76728,7 @@
 ||tp1jcgl644jk.com^
 ||tp4sul.jwzd.com.cn^
 ||tpa7.iahorro.com^
+||tpb-vayuudai.com^
 ||tpbank-com.com^
 ||tpbank-hanoi.com^
 ||tpbank-vaynhanh.com^
@@ -76716,6 +76739,7 @@
 ||tpbankdonxuan.click^
 ||tpbankn.com^
 ||tpbankvn.com^
+||tpbankvn.workplace.com^
 ||tpbankvnvn.com^
 ||tpbansk.com^
 ||tpbid.com^
@@ -81482,6 +81506,7 @@
 ||veuuulalu.xyz^
 ||vevatom.com^
 ||vevebiendaovietnam2022.weebly.com^
+||vevhjj.xyz^
 ||vevqlgmmkgu.com^
 ||vewdk.cyou^
 ||vexacion.com^
@@ -82621,6 +82646,7 @@
 ||vnshoping.com^
 ||vnsshoppe.com^
 ||vntiki.shop^
+||vntiki11.com^
 ||vntikiship.com^
 ||vntkm.com^
 ||vntsm.com^
@@ -82988,6 +83014,7 @@
 ||vsping-*.myqcloud.com/ggw/
 ||vsping.com/website/adLinks?
 ||vsping.com/website/ads?
+||vssid.cc^
 ||vst.dfn-network.pro^
 ||vst.sibnet.ru^
 ||vst.videolink.site^
@@ -88338,6 +88365,7 @@
 ||yshlor.icu^
 ||ysjkbk.com^
 ||ysjwj.com^
+||yskicm.xyz^
 ||ysm.ezprice.net^$third-party
 ||ysmbttmncrajnk.com^
 ||ysnakestanothia.xyz^
