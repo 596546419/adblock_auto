@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: M2HI4mlwXHQmAiUBXp2IAg
+! Checksum: VusqOFab/8AL5HeqGzvMSQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240602092828
+! Version: 20240602162352
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-02 09:28:28
-! Total Count: 27898
+! Last modified: 2024-06-02 16:23:52
+! Total Count: 27899
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5825,6 +5825,7 @@
 ||daiporno.com^$third-party
 ||daiwofei2019.top^
 ||dajiadu8.com/17.js
+||dajiahao10.top^
 ||dajiahao9.top^
 ||dajiazhao.com/login/reg.js
 ||dakang-energy.com^
