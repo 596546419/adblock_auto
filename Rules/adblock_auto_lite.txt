@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: VusqOFab/8AL5HeqGzvMSQ
+! Checksum: +V37/BqcqLb4UjZNXmh2yQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240602162352
+! Version: 20240603002351
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-02 16:23:52
-! Total Count: 27899
+! Last modified: 2024-06-03 00:23:51
+! Total Count: 27901
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -14211,6 +14211,7 @@
 ||sneakystew.com^$third-party
 ||snifdlab.top^
 ||snipersex.com^
+||snjfasp.com^
 ||snmi.cn^$third-party
 ||snoresmile.com^$third-party
 ||snxyf.com^$third-party
@@ -25372,7 +25373,7 @@ zle.com$script
 ##.partialViewSlider-outerwrapper
 ##.pasuAD
 ##.pause-ad
-##.pc-layout-content > .pc-ads
+##.pc-ads
 ##.pccb > .ng-star-inserted
 ##.pcd_ad
 ##.pcgg
@@ -25879,6 +25880,7 @@ zle.com$script
 ##a[href*=".umtrack.com/"]
 ##a[href*=".uqubsb.com/"]
 ##a[href*=".urfatek.com/"]
+##a[href*=".uu2123sd.vip"]
 ##a[href*=".uxfqh.com/"]
 ##a[href*=".vip:"] > img[src]
 ##a[href*=".wzfqitm.com/"]

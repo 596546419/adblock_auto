@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 6MlF14xZaxDH0oQAvAAiHA
+! Checksum: 0M99SAm9auQSRyP7c7oxUg
 ! Title: 混合规则(自动更新)
-! Version: 20240602162341
+! Version: 20240603002340
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-02 16:23:41
-! Total Count: 145491
+! Last modified: 2024-06-03 00:23:40
+! Total Count: 145497
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2048,6 +2048,7 @@
 ||4e645c7cf2.com^
 ||4e68.xyz^
 ||4e8bjpldk.com^
+||4e990.xyz^
 ||4ec2e6f324.com^
 ||4ed196b502.com^
 ||4ed5560812.com^
@@ -27911,7 +27912,6 @@
 ||etyper.com^
 ||etystoass.com^
 ||etyusiw.top^
-||eu-1-id5-sync.com^
 ||eu-ad.sam4m.com^
 ||eu-mobile.events.data.microsoft.com^
 ||eu-survey.com^
@@ -70422,6 +70422,7 @@
 ||snitchgutsdainty.com^
 ||snitchtidying.com^
 ||snitchyweenty.top^
+||snjfasp.com^
 ||snjlhmb.com^
 ||snlpclc.com^
 ||snmi.cn^$third-party
@@ -100196,8 +100197,11 @@ iqiyi.com##a[href*=".banggo."]
 iqiyi.com##a[href*=".oppo."]
 iqiyi.com##a[id^="100000"]
 iqiyi.com##div[class^="ad-piclist-"]
+iqiyi.com##div[class^="video-slide_normal"] > a[href^="http"]:not([href*="iqiyi.com"]) > div > img
+iqiyi.com##div[class^="video-slide_normal"] > a[href^="http"]:not([href*="iqiyi.com"]) div[class^="video-slide_row"]
 iqiyi.com##div[class^="video-slide_normal"]>a[href^="http"]:not([href*="iqiyi.com"]) div[class^="video-slide_row"]
 iqiyi.com##div[class^="video-slide_normal"]>a[href^="http"]:not([href*="iqiyi.com"])>div>img
+iqiyi.com##div[class^="video-slide_threeImagePages"] > a[href^="http"]:not([href*="iqiyi.com"]) > div
 iqiyi.com##div[class^="video-slide_threeImagePages"]>a[href^="http"]:not([href*="iqiyi.com"])>div
 iqiyi.com##div[data-adzone],#block-V
 iqiyi.com##div[id^="div_theatre"]
@@ -109134,6 +109138,8 @@ wnacg.com,wnacg.org##img[width="399"][height*="6"]
 wnacg.com,wnacg.org##script + div > a > img
 wnacg.org##a[href^="https://l.tyrantdb.com/"][target="_blank"] > img
 wncv.com##.simple-image
+woaimoon.com##DIV[id^="juan_"]
+woaimoon.com##div[id^="juan_"]
 wolfstream.tv###customAnnouncement
 wolfstream.tv##.cover2
 wololo.net,russianusa.tarima.org,lebakcyber.net,ifdreamscametrue.com,nudes7.com,switch-xci.xyz,meganebuk.net,teknomuda.com,ps4pkg.com,iptv4best.com,topnewsshow.com,arknovelonline.com,intelligentliving.co,apkmaza.net,serie-novelas.com,outplayed.it,nulleb.com,oyuncusoruyor.com,picgiraffe.com,cgtips.org,teknomobil.net,locurainformaticadigital.com,p4fcourses.com,polskiedrogi-tv.pl,alltutorialsworld.com,racefans.net,csitalia.org,yildizscript.com,aulianza.com,pkmods.com,projetoscanlator.com,foxaholic.com,game-2u.com,easytutoriel.com,junaedialwi.com,otakuwire.com,techturf.in,turkceyama.net,xiaomitools.com,cfd.ninja,bwe.su,ebookscart.com,sciotocountydailynews.com,blogarti.com,labkom.co.id,muratisbilir.com.tr,torrentmafya.org,saberprogramas.com,smarteranalyst.com,movieknowing.com,10elol.it,app.poweradspy.com,money-sense.club,dailymockup.com,ciclosport.com,litecompare.com,tv-livestream.online,legendas.dev,megasubtitles.com,sexgayhot.com,jstranslations1.com,ggwptech.com,ultimate-catch.eu,animexin.xyz,xingkbjm.com,avoiderrors.com,freejavbt.com,butchixanh.com,desirefx.me,healthlytalks.com,androidride.com,v2rayssr.com,amote69.com,embetronicx.com,evileaks.su,freemockup.net,bozuyukhaberajansi.com,shatter-box.com,haberpop.com,techidence.com,edmtunes.com,textfonts.net,wotcheatmods.com,grafixfather.com,asia-mag.com,dellwindowsreinstallationguide.com,yolgunlukleri.net,archi3x.com,downloadbull.com,amirantivirus.com,spaziogames.it,modernvalueinvesting.de,shirokuns.com,hulblog.com,omgmusik.com,omglyrics.com,phpscripttr.com,kkpmh.vip,allmacworld.com,resource-pack.com,kindleku.com,biryoo.com,onurcici.com,variatkowo.pl,lauxanh.org,robloxscripts.com,filmboxoffice.web.id,satcesc.com,teamsaiyajin.it,stilearte.it,gidabilinci.com,ipeenk.com,hanimeku.com,hwzone.co.il,bilgidehasi.com,tyrocity.com,plugintorrent.com,pinsystem.co.uk,comando4kfilmes.com,trgamestudio.com,terrarium.com.pl,rikucan.com,3dzip.org,turreta.com,elevatortoday.com,canalbpv.com,thesimarchitect.com,desktophut.com,hackinformer.com,bookflare.org,earmilk.com,baomay01.com,chimicamo.org,landscapenature.pw,chromeba.net,learnsql.xyz,otobelgesel.com,ad4msan.win,mediasobytiya.com,bambusmann.de,kkphm.com,haohaiyo.cc,51kkp.club,gizchina.com,msguides.com,csonline2.net,airlive.net,arch2o.com,asianhobbyist.com,automobile-propre.com,barboflacmusic.com,celebsepna.com,civetta.tv,culture-informatique.net,dl-wordpress.com,dubs.top,faq.ph,filesrom.com,freepreset.net,gamesmagnet.net,gktoday.in,jimods.com,jimtechs.biz,jkmk.net,jppinto.com,keys4free.com,learncpponline.com,ovagames.com,pesupdate.com,phonandroid.com,precitaj.si,programegratuitepc.com,resource-packs.de,rushtime.in,scat.gold,soskidkami.ru,thefalse9.com,torrentmafya.net,tutsgalaxy.com,ucuzaucak.net,unblockedgamming.com,veezie.st,wallstreams.com,x265mkv.ws,z3x-team.com##+js(abort-on-property-read, anOptions)
@@ -109803,6 +109809,7 @@ yandex.com##.AdvOffers
 yandex.com##.DirectFeature
 yandex.com##div[aria-label="Ad"]
 yandex.com##div[data-name="adWrapper"]
+yandex.com##li[class$="_card"]:has(a[href^="https://yabs.yandex.ru/count/"])
 yandex.com##li[class$="_card"]:has(a[href^="https://yandex.com/search/_crpd/"])
 yandex.kz,yandex.ru,yandex.com,yandex.fr,yandex.com.tr,yandex.ru,yandex.by,yandex.eu,yandex.net,yandex.uz,yandex.ua##.ImagesTouchViewer-DirectSkeleton.SimpleSkeleton
 yandex.kz,yandex.ru,yandex.com,yandex.fr,yandex.com.tr,yandex.ru,yandex.by,yandex.eu,yandex.net,yandex.uz,yandex.ua##.i-bem.justifier__incut_fixed
@@ -111475,7 +111482,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 .com/pc/ad/$domain=~yoogame.com
 .com/peeltr.js
 .com/piaozi/*.js
-.com/pixel/pure
 .com/pm/ad-
 .com/pp.php?uid=$script,third-party
 .com/pv.gif?
@@ -118563,7 +118569,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /pix/ads/*$image
 /pixel/puclc?
 /pixel/pure
-/pixel/pure$~xmlhttprequest
 /pixel/purs?
 /pixel/purst?
 /pixel/sbe?
@@ -138248,7 +138253,7 @@ zle.com$script
 ##.pb-slot-container
 ##.pbs__player
 ##.pc-ad
-##.pc-layout-content > .pc-ads
+##.pc-ads
 ##.pc_acmsd
 ##.pcads_widget
 ##.pccb > .ng-star-inserted
@@ -141637,6 +141642,7 @@ zle.com$script
 ##a[href="https://www.ledlandi.com"]
 ##a[href="https://www.ybvip1879.vip"]
 ##a[href="https://xq97.com"]
+##a[href="javascript:;"][onclick^="todkjermyd"]
 ##a[href="javascript:GoGd();"]
 ##a[href="javascript:GoTp();"]
 ##a[href="javascript:void(0)"][rel="nofollow"][target="_new"] > img[src]
