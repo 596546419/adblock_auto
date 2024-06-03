@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 0M99SAm9auQSRyP7c7oxUg
+! Checksum: LPjCAT9bcMAwMRsyMddGCA
 ! Title: 混合规则(自动更新)
-! Version: 20240603002340
+! Version: 20240603092452
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-03 00:23:40
-! Total Count: 145497
+! Last modified: 2024-06-03 09:24:52
+! Total Count: 145501
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -24891,6 +24891,7 @@
 ||downzoner.xyz^
 ||dowrylatest.com^
 ||dowtyler.com^
+||doxihz.xyz^
 ||doydplivplr.com^
 ||doyngspern.com^
 ||doyougothere.com^$third-party
@@ -31383,6 +31384,7 @@
 ||ftylpm.com^
 ||ftzzbx.xyz^
 ||fu68.com^
+||fualujqbhqyn.xyz^
 ||fuboraimoo.com^
 ||fuchsinthough.website^
 ||fuckbook.cm^
@@ -42376,6 +42378,7 @@
 ||jsontdsexit.com^
 ||jsontdsexit2.com^
 ||jspqhh.xyz^
+||jsqygwl.top^
 ||jsr9.com^$third-party
 ||jsretra.com^
 ||jss.tvzhe.com^
@@ -44181,6 +44184,7 @@
 ||krilor.com^
 ||kriptoparahaber.care^
 ||krisydark.com^
+||kritgu.xyz^
 ||krivo.buzz^
 ||krixyncbsyhju.com^
 ||krjxhvyyzp.com^
@@ -45723,6 +45727,7 @@
 ||lhiswrkt.com^
 ||lhkmedia.in^
 ||lhmebwq.cn^
+||lhmgoik.icu^
 ||lhmos.com^
 ||lhot.xyz^
 ||lhotajl.icu^
@@ -47485,6 +47490,7 @@
 ||lsubalhqkg.com^
 ||lsuoaeqmubc.xyz^
 ||lsvblpynuezkbf.com^
+||lsyliel.top^
 ||lt*.tritondigital.com^
 ||ltaaazb.cn^
 ||ltaome.cn^
@@ -57132,6 +57138,7 @@
 ||paekicz.com^
 ||paeonicgrunter.com^
 ||pafcpd.xyz^
+||pafiptuy.net^
 ||pafteejox.com^
 ||page-events-ustats.udemy.com^
 ||page-hit.de^
@@ -58650,6 +58657,7 @@
 ||phsidmk.cn^
 ||phsism.com^
 ||phtgkqdj.com^
+||phtivr.xyz^
 ||phts.io^
 ||phubsorg.xyz^
 ||phudreez.com^
@@ -97437,6 +97445,7 @@ flyzy2005.com##.widget_kratos_ad
 fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; font-size: 14px; text-align:left;"] > p
 fmforums.com##.cWidgetContainer
 fmovies.ps,hdtoday.tv,movies2watch.tv,moviesjoy.to,myflixer.to,myflixertv.to###gift-middle
+fmovies24.to##[href^="https://anix.to/"]
 fnjiasu.com##.sidebar_download
 fnjiasu.com,instrument.com.cn,miaopai.com,renren.com,tool.lu##.swiper-container
 focus.cn##.index-app-download
@@ -100199,10 +100208,7 @@ iqiyi.com##a[id^="100000"]
 iqiyi.com##div[class^="ad-piclist-"]
 iqiyi.com##div[class^="video-slide_normal"] > a[href^="http"]:not([href*="iqiyi.com"]) > div > img
 iqiyi.com##div[class^="video-slide_normal"] > a[href^="http"]:not([href*="iqiyi.com"]) div[class^="video-slide_row"]
-iqiyi.com##div[class^="video-slide_normal"]>a[href^="http"]:not([href*="iqiyi.com"]) div[class^="video-slide_row"]
-iqiyi.com##div[class^="video-slide_normal"]>a[href^="http"]:not([href*="iqiyi.com"])>div>img
 iqiyi.com##div[class^="video-slide_threeImagePages"] > a[href^="http"]:not([href*="iqiyi.com"]) > div
-iqiyi.com##div[class^="video-slide_threeImagePages"]>a[href^="http"]:not([href*="iqiyi.com"])>div
 iqiyi.com##div[data-adzone],#block-V
 iqiyi.com##div[id^="div_theatre"]
 iqiyi.com##div[style^="z-index: 4200; position: absolute; left:"]
@@ -109138,7 +109144,6 @@ wnacg.com,wnacg.org##img[width="399"][height*="6"]
 wnacg.com,wnacg.org##script + div > a > img
 wnacg.org##a[href^="https://l.tyrantdb.com/"][target="_blank"] > img
 wncv.com##.simple-image
-woaimoon.com##DIV[id^="juan_"]
 woaimoon.com##div[id^="juan_"]
 wolfstream.tv###customAnnouncement
 wolfstream.tv##.cover2
@@ -140782,7 +140787,6 @@ zle.com$script
 ##AMP-AD
 ##A[href*=".com/?Agent="]
 ##A[href="http://t.cn/A6hQCVsv"]
-##A[href="javascript:;"][onclick^="todkjermyd"]
 ##A[href^="/e/public/ClickAd?adid="]
 ##DFP-AD
 ##[ad_display_dot]

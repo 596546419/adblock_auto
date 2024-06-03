@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: +V37/BqcqLb4UjZNXmh2yQ
+! Checksum: dyLegTzQJ8v7kgy2de0JUw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240603002351
+! Version: 20240603092503
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-03 00:23:51
-! Total Count: 27901
+! Last modified: 2024-06-03 09:25:03
+! Total Count: 27907
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6312,6 +6312,7 @@
 ||downtowndirection.com^$third-party
 ||downxia.com/dgjs/download.js
 ||downyi.com/tg/
+||doxihz.xyz^
 ||doyougothere.com^$third-party
 ||dozwjl.xyz^
 ||dpaic.xyz^
@@ -9569,6 +9570,7 @@
 ||jsontdsexit.com^
 ||jsontdsexit2.com^
 ||jspqhh.xyz^
+||jsqygwl.top^
 ||jssdk.rayjump.com^$third-party
 ||jstimiz.xyz^
 ||jstucdn.com/g3/
@@ -9965,6 +9967,7 @@
 ||kravma.xyz^
 ||krbsumc.cn^
 ||kreisis.top^
+||kritgu.xyz^
 ||krjzxie.cn^
 ||krt.asycxtz.cn^
 ||krutilka.net^
@@ -10278,6 +10281,7 @@
 ||lhgwcvw.cn^
 ||lhiefl.com^
 ||lhmebwq.cn^
+||lhmgoik.icu^
 ||lhotajl.icu^
 ||lhotajl.icu^$third-party
 ||lhtnuop.xyz^
@@ -10514,6 +10518,7 @@
 ||lsntzzy3.com/Runtime/js/psData.js
 ||lsnzxzy1.com/Runtime/js/psData.js
 ||lsr62.qtd95fj.online^$third-party
+||lsyliel.top^
 ||ltbyw.top/data/images/*.gif
 ||ltfpbp.xyz^
 ||lthmfx.xyz^
@@ -12235,6 +12240,7 @@
 ||phpernote.com/ali
 ||phpstudyimg.com/all/hrl.gif
 ||phpstudyimg.com/all/xiaojieqiantie.gif
+||phtivr.xyz^
 ||phvfevk.xyz^
 ||phwrju.xyz^
 ||physicalbikes.com^$third-party
@@ -25599,7 +25605,6 @@ zle.com$script
 ##.zone_wap_banner2
 ##A[href*=".com/?Agent="]
 ##A[href="http://t.cn/A6hQCVsv"]
-##A[href="javascript:;"][onclick^="todkjermyd"]
 ##A[href^="/e/public/ClickAd?adid="]
 ##[ad_display_dot]
 ##[ad_dot_url]
@@ -26109,6 +26114,7 @@ zle.com$script
 ##a[href="https://ttzzz11.com"]
 ##a[href="https://ttzzz22.com"]
 ##a[href="https://xq97.com"]
+##a[href="javascript:;"][onclick^="todkjermyd"]
 ##a[href="javascript:GoGd();"]
 ##a[href="javascript:GoTp();"]
 ##a[href="javascript:void(0)"][rel="nofollow"][target="_new"] > img[src]
