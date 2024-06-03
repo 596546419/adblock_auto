@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: tYCPM1mVn0pVvJZAXz2zPA
+! Checksum: 9fDzsheV7KpZ0YPXE9ENWQ
 ! Title: 混合规则(自动更新)
-! Version: 20240603162621
+! Version: 20240604002534
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-03 16:26:21
-! Total Count: 145639
+! Last modified: 2024-06-04 00:25:34
+! Total Count: 145647
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -139,6 +139,7 @@
 ||0351dvd.cn^$third-party
 ||035caop.com^
 ||0371app.wang^
+||0395d1.xyz^
 ||0398067ebe.com^
 ||03bdb617ed.com^
 ||03ed9035a0801f.com^
@@ -680,6 +681,7 @@
 ||156.233.32.123^$third-party
 ||156.246.162.2^
 ||1564285319.rsc.cdn77.org^
+||156fd4.xyz^
 ||158.247.208.
 ||1582020.com^
 ||1583030.com^
@@ -19679,7 +19681,10 @@
 ||collectiveablygathering.com^
 ||collectloopblown.com^
 ||collector*.ex.co^
+||collector-*.px-cdn.net^
 ||collector-*.px-client.net^
+||collector-*.px-cloud.net^
+||collector-*.pxchk.net^
 ||collector-*.tvsquared.com^
 ||collector-analytics.efigence.com^
 ||collector-api.99designs.com^
@@ -47477,6 +47482,7 @@
 ||lqxbkqdtvtdhw.xyz^
 ||lqxuwqhh.com^
 ||lqynkwkxstb.com^
+||lr-in-prod.com^
 ||lr-in.com^
 ||lr-ingest.io^
 ||lr-intake.com^
@@ -98773,6 +98779,7 @@ hackread.com##.text-61
 hacksplaining.com##.sponsorship-message
 hacpai.com##.index__ad
 hagerty.com##.placements
+haggen.com,kingsfoodmarkets.com##.master-product-carousel:has([data-carousel-api*="search/sponsored-carousel"])
 hahamx.cn###float-left-ad
 hahamx.cn##.article.mt-20
 hahamx.cn##.joke-list-anecdote
@@ -116042,6 +116049,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /banner.htm?
 /banner.js$domain=28188.com|28188.net
 /banner.php
+/banner.php$domain=~research.hchs.hc.edu.tw
 /banner.ws?
 /banner/*$domain=leiphone.com
 /banner/ad.
