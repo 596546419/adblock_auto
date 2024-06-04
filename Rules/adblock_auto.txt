@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 9fDzsheV7KpZ0YPXE9ENWQ
+! Checksum: 4sQ+8O717UZYcM2d56hysA
 ! Title: 混合规则(自动更新)
-! Version: 20240604002534
+! Version: 20240604092414
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-04 00:25:34
-! Total Count: 145647
+! Last modified: 2024-06-04 09:24:14
+! Total Count: 145670
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -666,6 +666,7 @@
 ||1529462937.rsc.cdn77.org^
 ||152media.cloud^
 ||152media.com^
+||1538548069.rsc.cdn77.org^
 ||154.196.143.171^
 ||154.212.147.231^
 ||154.22.214.2^
@@ -839,6 +840,7 @@
 ||189.cn/dns/
 ||189.cn^*/push/$third-party
 ||189.gd^*.html$third-party
+||1896709103.rsc.cdn77.org^
 ||18ap945.cn^
 ||18av.mm-cg.com/*/7mmtv.gif
 ||18avday.*/aa/
@@ -15056,6 +15058,7 @@
 ||bourrepardale.com^
 ||boustahe.com^
 ||bousyshock.com^
+||bouvierbang.com^
 ||bouwehee.xyz^
 ||bouwhaici.net^
 ||bovategunrack.cfd^
@@ -15650,6 +15653,7 @@
 ||btrack.homedy.com^
 ||btrihnvkprgnbh.xyz^
 ||btrll.com^
+||btrwxz.xyz^
 ||btsaffiliations.com^
 ||btschool.net/images/*/HDYGR
 ||btserve.com^
@@ -16592,6 +16596,7 @@
 ||campingknown.com^
 ||campjupiterjul.com^
 ||camplacecash.com^
+||campootethys.com^
 ||camprime.com^
 ||camptrck.com^
 ||campusmister.com^
@@ -17651,6 +17656,7 @@
 ||cfhlrai.cn^
 ||cfikgqraxgznj.com^
 ||cfivfadtlr.com^
+||cfjslif.top^
 ||cfkkdhs.cn^
 ||cflmdoigokoeld.com^
 ||cfpruxrajtnlpt.com^
@@ -21737,6 +21743,7 @@
 ||cxdcn9c.fjshxjs.cn^
 ||cxdcn9c.fjshxjs.cn^$third-party
 ||cxeciqartjtctih.com^
+||cxeftgyuer.top^
 ||cxeiymnwjyyi.xyz^
 ||cxfrmhsj.com^
 ||cxfzw.cn^
@@ -25469,6 +25476,7 @@
 ||dummiedkhodja.com^
 ||dummieseardrum.com^
 ||dumpaudible.com^
+||dumpconfinementloaf.com^
 ||dumplingclubhousecompliments.com^
 ||dumplingdirewomen.com^
 ||dun8qk8.lkmxqq.com^
@@ -25937,6 +25945,7 @@
 ||eachnykmucntt.com^
 ||eachuit.uno^
 ||eachunwilling.com^
+||eacqihh.icu^
 ||eadaqfkkrprf.com^
 ||eadirtlseivid.xyz^
 ||eadsrv.com^
@@ -26333,6 +26342,7 @@
 ||edgeadx.net^
 ||edgetrksvc.ebay.
 ||edgevertise.com^
+||edghkc.xyz^
 ||edgiercooley.guru^
 ||edgrmtracking.com^
 ||edgychancymisuse.com^
@@ -27713,6 +27723,7 @@
 ||eryarriedstr.info^
 ||erygdsudgkyu.com^
 ||erylhxttodh.xyz^
+||eryondistain.com^
 ||erysilenitmanb.com^
 ||erytheadestrer.digital^
 ||es.ylilauta.org^
@@ -43895,6 +43906,7 @@
 ||kmr.vcunkbo.cn^
 ||kmr.wdjptto.cn^
 ||kmrcum2.com^
+||kmrilock.com^
 ||kmrnkjer.xyz^
 ||kmu.gwmrb.cn^
 ||kmvbre.com^
@@ -54423,6 +54435,7 @@
 ||nt6f.top^
 ||nta1vb6cdlrl.com^
 ||ntanaerc.cyou^
+||ntaqujdadat.com^
 ||ntbyfjcnwiqfhx.com^
 ||ntce.com/images/js/ntce_public.js
 ||ntcqmdif.com^
@@ -63534,6 +63547,7 @@
 ||rabbitporno.com/friends/
 ||rabbitporno.com/iframes/
 ||rabbitrifle.com^$third-party
+||rabbitsfreedom.com^
 ||rabbitsshortwaggoner.com^
 ||rabbitsverification.com^
 ||rabblefang.com^
@@ -64090,6 +64104,7 @@
 ||reapinject.com^
 ||rearedexpensive.com^
 ||reariikosin.com^
+||reariimime.com^
 ||rearjapanese.com^
 ||rearmhoulet.uno^
 ||rearomenlion.com^
@@ -64439,6 +64454,7 @@
 ||refugedcuber.com^
 ||refugeintermediate.com^
 ||refugepoplars.top^
+||refulgebesague.com^
 ||refulgecomsat.com^
 ||refundlikeness.com^
 ||refundsreisner.life^
@@ -64858,6 +64874,7 @@
 ||rereddit.com^
 ||rergeema.com^
 ||reroplittrewheck.pro^
+||rerosefarts.com^
 ||rerpartmentm.info^
 ||reryn2ce.com^
 ||reryn3ce.com^
@@ -71020,6 +71037,7 @@
 ||soundingthunder.com^
 ||soupevents.com^
 ||soupteep.xyz^
+||soupteewhish.com^
 ||souptightswarfare.com^
 ||souraivo.xyz^
 ||source.advisible.com^
@@ -75004,6 +75022,7 @@
 ||teepoomo.xyz^
 ||teethbatchevy.com^
 ||teethfan.com^$third-party
+||teetusee.xyz^
 ||teeveetakahe.space^
 ||tefaighecmoa.com^
 ||teflonterreen.com^
@@ -77001,6 +77020,7 @@
 ||touchrom.com^$third-party
 ||touchtamilic.com^
 ||touchyeccentric.com^
+||touficpaloma.com^
 ||toughdrizzleleftover.com^
 ||tougherrancor.website^
 ||toughtoxacid.com^
@@ -81046,6 +81066,7 @@
 ||uzpmrbek.com^
 ||uzqtbthkrqq.com^
 ||uzrating.com^
+||uzrwqrezkx.com^
 ||uzrxoxd.xyz^
 ||uztyvfk.cn^$third-party,image
 ||uzuarlv.cn^
@@ -88039,6 +88060,7 @@
 ||yfedatherappeal.xyz^
 ||yfedatherappear.com.ua^
 ||yfefdlv.com^
+||yfeyotlpohzkpr.com^
 ||yffjqvq.cn^
 ||yfgrxkz.com^
 ||yfkflfa.com^
@@ -142047,6 +142069,7 @@ zle.com$script
 ##a[href^="https://go.markets.com/visit/?bta="]
 ##a[href^="https://go.mnaspm.com/"]
 ##a[href^="https://go.nordvpn.net/aff"] > img
+##a[href^="https://go.rmhfrtnd.com/"]
 ##a[href^="https://go.skinstrip.net"][href*="?campaignId="]
 ##a[href^="https://go.strpjmp.com/"]
 ##a[href^="https://go.tmrjmp.com"]

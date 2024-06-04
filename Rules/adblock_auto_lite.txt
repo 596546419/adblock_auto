@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: e+2+6vvv9A/N4fJ1pGiyTw
+! Checksum: YgSdCWo/UnY/xb7EvObRcw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240604002546
+! Version: 20240604092426
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-04 00:25:46
-! Total Count: 27908
+! Last modified: 2024-06-04 09:24:26
+! Total Count: 27913
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4677,6 +4677,7 @@
 ||bto.tooopen.com^$third-party
 ||btpian.com/static/*960.js
 ||btpian.com/static/wenquan.js
+||btrwxz.xyz^
 ||btschool.net/images/*/HDYGR
 ||btsgroup.cn^
 ||btsvad8.com^
@@ -5100,6 +5101,7 @@
 ||cfateu.xyz^
 ||cfdns.vip^
 ||cfff.net^$third-party
+||cfjslif.top^
 ||cfrtdmb.xyz^
 ||cfugrnc.icu^
 ||cfx3d.xyz^
@@ -5712,6 +5714,7 @@
 ||cx.ssacdn.com/image/fetch/*supersonicads
 ||cxapio.xyz^
 ||cxdcn9c.fjshxjs.cn^$third-party
+||cxeftgyuer.top^
 ||cxgfq.pinlue.com^
 ||cxgwsu.xyz^
 ||cxlvlbx.xyz^
@@ -6532,6 +6535,7 @@
 ||e9377f.com^$redirect=noop-0.1s.mp3,domain=eastday.com,media
 ||eaaaej.icu^$third-party
 ||eabvmue.cn^
+||eacqihh.icu^
 ||eaezoi.xyz^
 ||eagereden.com^$third-party
 ||eaica.xyz^
@@ -6618,6 +6622,7 @@
 ||ed-protect.org/cdn-cgi/apps/head/
 ||ed2000k.com/ad/
 ||eda.ru/_next/static/images/banner_adv
+||edghkc.xyz^
 ||edjjpgf.xyz^
 ||edler.cn^
 ||edlzedu.cn^$document
