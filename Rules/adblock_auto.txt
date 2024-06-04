@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: knzkZOP3+6IDewgEI6K7iQ
+! Checksum: BDo5u4oLyKytpchww3rWkQ
 ! Title: 混合规则(自动更新)
-! Version: 20240604162534
+! Version: 20240605002613
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-04 16:25:34
-! Total Count: 145676
+! Last modified: 2024-06-05 00:26:13
+! Total Count: 145680
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9122,6 +9122,7 @@
 ||analytics.plaid.com^
 ||analytics.plaza.ir^
 ||analytics.plex.tv^
+||analytics.poferries.com^
 ||analytics.pointdrive.linkedin.com^
 ||analytics.pop2watch.com^
 ||analytics.portal.gov.bd^
@@ -13992,6 +13993,7 @@
 ||bincun.xyz^
 ||bineukdwithmef.info^
 ||bing001.shop^
+||bing003.shop^
 ||bing005.shop^
 ||bingoocy.com^
 ||bingtuo.mobi^
@@ -86530,6 +86532,7 @@
 ||xazwlyh.com^
 ||xb20.tv/js/m-
 ||xb4g.top^
+||xbbhwggj.icu^
 ||xbc8fsvo5w75wwx8.pro^
 ||xbcnvj2mdk1dn1.com^
 ||xbcrohmposa.com^
@@ -101269,6 +101272,7 @@ komikhentaiterbaru.xtgem.com,rajahentai.com,komikhentai.me,komikhentai.online,he
 komikindo.info,manga18fx.com,manhwa18.cc,motherless.com##iframe[style]
 komikindo.tv##.gambar_pemanis
 kompass.com##.prodListBanner
+kongregate.com##.bg-gray-800.mx-4.p-1
 kongzhong.com###dn
 koolearn.com##.news_pf
 koolearn.com##.show_ad
