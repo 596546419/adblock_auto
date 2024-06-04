@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 4sQ+8O717UZYcM2d56hysA
+! Checksum: knzkZOP3+6IDewgEI6K7iQ
 ! Title: 混合规则(自动更新)
-! Version: 20240604092414
+! Version: 20240604162534
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-04 09:24:14
-! Total Count: 145670
+! Last modified: 2024-06-04 16:25:34
+! Total Count: 145676
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3814,6 +3814,7 @@
 ||a.tyncar.com^
 ||a.ucoz.net^
 ||a.viethu.com^
+||a.vturb.net^
 ||a.vtvdigital.vn^
 ||a.walla.co.il^
 ||a.wanzhuang.com^
@@ -13991,6 +13992,7 @@
 ||bincun.xyz^
 ||bineukdwithmef.info^
 ||bing001.shop^
+||bing005.shop^
 ||bingoocy.com^
 ||bingtuo.mobi^
 ||binh-chonthang7.weebly.com^
@@ -25764,6 +25766,7 @@
 ||dyygsgxhfrlo.xyz^
 ||dyykbhvlwrdhgjb.com^
 ||dyysxwjeyfiysrs.com^
+||dyzgdp.xyz^
 ||dyzx6688.top^
 ||dyzyhj.com/Jk/
 ||dz19.net/addimg/
@@ -97438,6 +97441,7 @@ filmschoolrejects.com,reneweconomy.com.au,theteche.com###custom_html-8
 filmvilag.me,liderendeportes.com,serieskao.tv,freefilm.to,ac24.cz,nsfwyoutube.com,jpblow.info,hesgoal.com,filmisub.com,igg-games.com,ruwhite.info,slones.info,ukhello.info,uaclips.com,thodkyaat.com,kzclip.com,onlymen.cz,ultimasnoticias.com.ve,freeserial.to,ibb.co##pp
 filtercams.com###bannerFC
 filthybritishporn.com##.bnnr
+fimfiction.net##.sponsor-reminder
 finalweapon.net##.tdi_87
 finance.ettoday.net##.all_news_text1
 finance.ifeng.com###box_img
@@ -101423,6 +101427,7 @@ lawandcrime.com,mediaite.com##.o-promo-unit
 lawandcrime.com,mediaite.com##.sidebar-hook
 lawandcrime.com,themarysue.com##.promo-unit
 laweekly.com##.law_center_ad
+lawinsider.com##.section-inline-partner-ad
 lawtv.com.cn##div[style=" width:664px; height:260px;  margin-top:10px;"]
 layui.com##.layui-layer-tips
 lbcgroup.tv##.ScriptDiv
@@ -108079,6 +108084,7 @@ tribunnews.com###div-Inside-MediumRectangle
 tribunnews.com###wideskyscraper
 tribunnews.com##.box__reserved
 tripadvisor.at,tripadvisor.be,tripadvisor.ca,tripadvisor.ch,tripadvisor.cl,tripadvisor.cn,tripadvisor.co,tripadvisor.co.id,tripadvisor.co.il,tripadvisor.co.kr,tripadvisor.co.nz,tripadvisor.co.uk,tripadvisor.co.za,tripadvisor.com,tripadvisor.com.ar,tripadvisor.com.au,tripadvisor.com.br,tripadvisor.com.eg,tripadvisor.com.gr,tripadvisor.com.hk,tripadvisor.com.mx,tripadvisor.com.my,tripadvisor.com.pe,tripadvisor.com.ph,tripadvisor.com.sg,tripadvisor.com.tr,tripadvisor.com.tw,tripadvisor.com.ve,tripadvisor.com.vn,tripadvisor.de,tripadvisor.dk,tripadvisor.es,tripadvisor.fr,tripadvisor.ie,tripadvisor.in,tripadvisor.it,tripadvisor.jp,tripadvisor.nl,tripadvisor.pt,tripadvisor.ru,tripadvisor.se##.txxUo
+tripadvisor.at,tripadvisor.be,tripadvisor.ca,tripadvisor.ch,tripadvisor.cl,tripadvisor.cn,tripadvisor.co,tripadvisor.co.id,tripadvisor.co.il,tripadvisor.co.kr,tripadvisor.co.nz,tripadvisor.co.uk,tripadvisor.co.za,tripadvisor.com,tripadvisor.com.ar,tripadvisor.com.au,tripadvisor.com.br,tripadvisor.com.eg,tripadvisor.com.gr,tripadvisor.com.hk,tripadvisor.com.mx,tripadvisor.com.my,tripadvisor.com.pe,tripadvisor.com.ph,tripadvisor.com.sg,tripadvisor.com.tr,tripadvisor.com.tw,tripadvisor.com.ve,tripadvisor.com.vn,tripadvisor.de,tripadvisor.dk,tripadvisor.es,tripadvisor.fr,tripadvisor.ie,tripadvisor.in,tripadvisor.it,tripadvisor.jp,tripadvisor.nl,tripadvisor.pt,tripadvisor.ru,tripadvisor.se##section[data-automation$="_AdPlaceholder"]:has(.txxUo)
 tripadvisor.com##.iab_leaBoa
 tripadvisor.com##.iab_medRec
 tripadvisor.com##.rSJod
