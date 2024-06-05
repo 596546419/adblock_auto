@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: N59dfF0At73CLmeqcU/tAg
+! Checksum: kMuB1ACwjDYH6j+Q0rYE2Q
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240605162524
+! Version: 20240606002618
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-05 16:25:24
+! Last modified: 2024-06-06 00:26:18
 ! Total Count: 27927
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
@@ -4406,6 +4406,7 @@
 ||bing001.shop^
 ||bing003.shop^
 ||bing005.shop^
+||binga01.shop^
 ||binqriksc.com^
 ||bio-equip.com/dimg/
 ||bio-equip.com/dimgs/
@@ -24214,6 +24215,9 @@ zle.com$script
 ###ad_full
 ###ad_globle_div
 ###ad_headerbanner
+###ad_hf_out2
+###ad_hf_out4
+###ad_hf_out5
 ###ad_inview_area
 ###ad_left
 ###ad_lightbox
@@ -24680,10 +24684,6 @@ zle.com$script
 ###video-ad
 ###videoADPIC
 ###video_playr_side.video_playr_sider.videoplayerside
-###vodplay-ad-hf2
-###vodplay-ad-hf2-m
-###vodplay-ad-hf3
-###vodplay-ad-hf3-m
 ###vpnModal.nordvpn-popup
 ###widget-quan
 ###windlocation
