@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: m+bYJsAIWdGHHpgHroxjCg
+! Checksum: lbheHXBN12OVAWZGk6gXUA
 ! Title: 混合规则(自动更新)
-! Version: 20240605092329
+! Version: 20240605162512
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-05 09:23:29
-! Total Count: 145701
+! Last modified: 2024-06-05 16:25:12
+! Total Count: 145712
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -15737,6 +15737,7 @@
 ||buggerygruffed.com^
 ||bugits.com^
 ||bugleczmoidgxo.com^
+||buglesembarge.top^
 ||bugraubs.com^
 ||bugs2022.com^
 ||bugsattended.com^
@@ -21101,6 +21102,7 @@
 ||creditbitesize.com^
 ||creditcreature.com^$third-party
 ||creditorapido.xyz^
+||credotrigona.com^
 ||credulityicicle.com^
 ||creedoverwork.com^
 ||creeguilds.com^
@@ -24360,6 +24362,7 @@
 ||dlhqffirehv.com^
 ||dlhyfl.cn^
 ||dljuejfp.com^
+||dljzcl.cn^
 ||dlkdfuun.com^
 ||dlkjgjmy.com^
 ||dlkoo.cc/down/$subdocument
@@ -29984,6 +29987,7 @@
 ||findyourlovemate.com^
 ||fine-wealth.pro^
 ||finead.o00.kr^
+||finedbawrel.com^
 ||finedintersection.com^
 ||finednothue.com^
 ||finema-net.cdn.ampproject.org^
@@ -52480,6 +52484,7 @@
 ||nang-han-muc-vip-vpbank.com^
 ||nang-hang-ca-nhan-vib-mrk1.com^
 ||nang-hang-tin-dung-ca-nhan.com^
+||nangalupeose.com^
 ||nangelsaidthe.info^
 ||nanghanmuc-thetindung.com^
 ||nanghanmuc-tindungvn.com^
@@ -54889,6 +54894,7 @@
 ||oasis-haven.net^
 ||oasishonestydemented.com^
 ||oasqrthubiub.com^
+||oastoamox.com^
 ||oataltaul.com^
 ||oatbcxnhacfjnc.com^
 ||oatchelt.com^
@@ -61181,6 +61187,7 @@
 ||prosecutorcommaeligible.com^
 ||prosecutorkettle.com^
 ||prosedisavow.com^
+||proselyaltars.com^
 ||proseoverlook.com^
 ||prositzapas.com^
 ||prosocrawm.com^
@@ -68063,6 +68070,7 @@
 ||separationheadlight.com^
 ||separationreverttap.com^
 ||sephur.com^
+||sepianshap.com^
 ||sepstough.com^
 ||septemberautomobile.com^
 ||septfd2em64eber.com^
@@ -79301,6 +79309,7 @@
 ||typiccor.com^
 ||typiconrices.com^
 ||typiol.com^
+||typojesuit.com^
 ||typsxumcsjw.com^
 ||tyqptghilt.com^
 ||tyract.com^
@@ -81948,6 +81957,7 @@
 ||vflouksffoxmlnk.xyz^
 ||vflzdrv.cn^
 ||vfo.voyage-prive.co.uk^
+||vfphbh.xyz^
 ||vfqnhif.cn^
 ||vfsdgjrr.xyz^
 ||vfsvv1.com^
@@ -98289,6 +98299,7 @@ genius.com##div[class|="InreadAddesktop__Container"]
 geoguessr.com##.game-layout__in-game-ad
 geoguessr.com##.start__display-ad
 geoguessr.com##aside[class^="ad_"]
+geoguessr.com##footer[class^="ad_wrapper_"]
 geometrydash.io##.RowAdv
 geotastic.net###wetter-de-banner
 geotastic.net##.geotastic-net_970x250-container
