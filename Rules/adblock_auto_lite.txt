@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: i0t5qGq5bmZvqrdKm8NWjA
+! Checksum: WGbZzMQjfFKB1EkiFzX44A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240605002624
+! Version: 20240605092341
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-05 00:26:24
-! Total Count: 27917
+! Last modified: 2024-06-05 09:23:41
+! Total Count: 27925
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4378,6 +4378,7 @@
 ||bi.yeshen.com^
 ||bian-min.com/javascript/a/detail.js
 ||biancheng.net/uploads/ggxc/
+||biancitiao.com^
 ||bianshengruanjian.com/tu/%E6%89%93%E8%B5%8F.
 ||bianxianmao.com^$third-party
 ||bianzhirensheng.com/img/banner.jpg
@@ -8248,6 +8249,7 @@
 ||hfjhr.cn^
 ||hfjk3wa.com^
 ||hfjsbf.xyz^
+||hfjsliu.top^
 ||hfk7j.top^
 ||hfresgtyytjncvvh.com^
 ||hfwld.cn^
@@ -10316,6 +10318,7 @@
 ||lianyi.wang^
 ||liaoxuefeng.com/files/attachments/00144*/0
 ||lib.djn882.com/static/lazyload.js
+||libhzf.xyz^
 ||licai18.com/henyepweb/
 ||licai18.com/pic/article/*.gif
 ||lichunxiao.cn^
@@ -13001,6 +13004,7 @@
 ||qpawkw.xyz^
 ||qpb*.sohu.com^
 ||qpcvlbp.cn^
+||qpesok.xyz^
 ||qpgyy.com/add01.html
 ||qpic.cn/qq_public/$domain=m.nfydd.com
 ||qpic.cn/qqgameedu/0/cfc175896f5b4d6a9ff115b3096dcebe_
@@ -15783,6 +15787,7 @@
 ||uuuzuu.xyz^
 ||uuvzmba.cn^
 ||uuxfznnf.xyz^
+||uuysiaq.com^
 ||uuzsfpju.xyz^
 ||uuzwvqc.cn^
 ||uvklgw.xyz^
@@ -16390,6 +16395,7 @@
 ||wjoxqd.com^
 ||wjtij.top^
 ||wjwod.cyou^
+||wkjyxcheng.top^
 ||wkrcbszi.xyz^
 ||wkrhel.icu^
 ||wkybwa.xyz^
@@ -16993,6 +16999,7 @@
 ||xyplxx.2gks.com^$domain=9xav.cc
 ||xyqmy.xyz^
 ||xyryjt.xyz^
+||xysefte.icu^
 ||xytcboyz.icu^
 ||xywy.com/gk?a=
 ||xywy.com/zhixing/
@@ -17759,6 +17766,7 @@
 ||zt.chuanke.com/?mod=
 ||zt2088.com^
 ||ztaan.top^
+||zthxobgk.icu^
 ||ztjal.info/wp-content/plugins/kill-adblock/
 ||ztqdkzn.cn^
 ||zttuvj.xyz^

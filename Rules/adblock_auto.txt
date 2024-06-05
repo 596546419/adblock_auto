@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: BDo5u4oLyKytpchww3rWkQ
+! Checksum: m+bYJsAIWdGHHpgHroxjCg
 ! Title: 混合规则(自动更新)
-! Version: 20240605002613
+! Version: 20240605092329
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-05 00:26:13
-! Total Count: 145680
+! Last modified: 2024-06-05 09:23:29
+! Total Count: 145701
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2321,6 +2321,7 @@
 ||5598tp.com^$domain=9xav.cc
 ||55aaee.com/detail/
 ||55cc.xyz/myjs/all.js
+||55cc9d.xyz^
 ||55imgs.com/upload/banner/
 ||55labs.com^
 ||55lotte.com^
@@ -2559,6 +2560,7 @@
 ||62422.cn/ggimg/
 ||628536nyv.com^
 ||62b70ac32d4614b.com^
+||62ca04e27a.com^
 ||62f9bb0bbc.com^
 ||62h.site^
 ||62kjjhg.com^
@@ -10723,6 +10725,7 @@
 ||asrety.com^
 ||asricewaterho.com^
 ||asrntiljustetyerec.info^
+||asrop.xyz^
 ||asrowjkagg.com^
 ||asryrzpu.xyz^
 ||assagaiwooable.com^
@@ -11886,6 +11889,7 @@
 ||b7tp47v2nb3x-a.akamaihd.net^
 ||b7yy.com/ad/
 ||b81oidrmy82w.com^
+||b82978.xyz^
 ||b833f917de.com^
 ||b85xx.site^
 ||b88392.top^
@@ -13786,6 +13790,7 @@
 ||biancasunlit.com^
 ||biancheng.net/templets/new/images/index_pc/fudaoban_
 ||biancheng.net/uploads/ggxc/
+||biancitiao.com^
 ||biandaosheng.com^
 ||bianshengruanjian.com/tu/%E6%89%93%E8%B5%8F.
 ||bianxianmao.com^$third-party
@@ -19233,7 +19238,6 @@
 ||cmmeglobal.com^
 ||cmnepalslma.com^
 ||cmntjzf.cn^
-||cmoa.pro^
 ||cmp-cdn.ghostery.com^
 ||cmp.datasign.co^
 ||cmp.dreamlab.pl^
@@ -20308,6 +20312,7 @@
 ||continuousformula.com^
 ||continuousowenspaniard.com^
 ||continuousselfevidentinestimable.com^
+||contradiction2.fun^
 ||contradictionclinch.com^
 ||contradictshaftfixedly.com^
 ||contraeery.space^
@@ -36220,6 +36225,7 @@
 ||hfjk3wa.com^
 ||hfjoksuriyy.com^
 ||hfjsbf.xyz^
+||hfjsliu.top^
 ||hfjvuxuwasf.com^
 ||hfk128dfs-dsfbheuoys.xyz^
 ||hfk7j.top^
@@ -40647,6 +40653,7 @@
 ||ithome.com/images/v2.1/downsoftmaster.gif
 ||ithome.com/js/lapin/hot.js
 ||ithome.com/js/recommend.js
+||ithoughtsustache.info^
 ||itienlo.top^
 ||itiexue.net/domain-policy/
 ||itiexue.net/wap/tiexue/js/chuping/nativeshare
@@ -45875,6 +45882,7 @@
 ||libertycdn.com^
 ||libertystmedia.com^
 ||libfre.obs.cn-east-3.myhuaweicloud.com^
+||libhzf.xyz^
 ||libihimu.com^
 ||librariandemocrattoss.com^
 ||libraryglowingjo.com^
@@ -54730,6 +54738,7 @@
 ||nyhgjmlg.xyz^
 ||nyhgvn.xyz^
 ||nyhrgss.com^
+||nyihcpzdloe.com^
 ||nykcksdpo.com^
 ||nykkky.com^
 ||nykoubk.cn^
@@ -56165,6 +56174,7 @@
 ||opnbwg.com^
 ||oponixa.com^
 ||opootsoa.net^
+||opositeasysemblyjus.info^
 ||opoxv.com^
 ||oppedtoalktoherh.info^
 ||oppersianor.com^
@@ -62812,6 +62822,7 @@
 ||qpb*.sohu.com^
 ||qpcvlbp.cn^
 ||qpemoqauwc.com^
+||qpesok.xyz^
 ||qpgyy.com/add01.html
 ||qpic.cn/qq_public/$domain=m.nfydd.com
 ||qpic.cn/qqgameedu/0/cfc175896f5b4d6a9ff115b3096dcebe_
@@ -67222,6 +67233,7 @@
 ||sbonjqsxicqfo.xyz^
 ||sbpb1.chuiyue.com^
 ||sbpb1.qulishi.com^
+||sbqptosht.com^
 ||sbrakepads.com^
 ||sbroiughttohi.xyz^
 ||sbs-ad.com^
@@ -73491,6 +73503,7 @@
 ||suppermalignant.com^
 ||supperopeningturnstile.com^
 ||supplejog.com^
+||supplementary2.fun^
 ||suppliedhopelesspredestination.com^
 ||suppliersbhx.com^
 ||suppliesscore.com^
@@ -74428,6 +74441,7 @@
 ||tainec.fun^
 ||tainosapiece.com^
 ||taintvistacredulous.com^
+||taipeivermeil.top^
 ||taiphanmemfull.com^
 ||taiphanmempc.net^
 ||taipingyang.hk^
@@ -75955,6 +75969,7 @@
 ||tianyaui.com/global/m/v3/static/js/list_
 ||tianyuexing.run^
 ||tiao1.cc/static/default/js/loadLM.js
+||tiaoap.xyz^
 ||tiaotiao.store^
 ||tiaraedmessing.uno^
 ||tiarasorthose.website^
@@ -80950,6 +80965,7 @@
 ||uuwn7ho.cn^
 ||uuxfznnf.xyz^
 ||uuxs.net^$subdocument
+||uuysiaq.com^
 ||uuzlytbpmmhfm.com^
 ||uuzsfpju.xyz^
 ||uuzwvqc.cn^
@@ -84103,6 +84119,7 @@
 ||waycash.net^
 ||waycloud.info^
 ||wayfarerspoutpraise.com^
+||wayfgwbipgiz.com^
 ||wayfinderanalytics.servicebus.windows.net^
 ||waygatecrowbar.com^
 ||waykingroup.com^
@@ -85400,6 +85417,7 @@
 ||wkewgywth.xyz^
 ||wkfwdki.cn^
 ||wkhhwkp.cn^
+||wkjyxcheng.top^
 ||wkktfuy.cn^
 ||wkktnbxxum.xyz^
 ||wkmorvzqjmwav.top^
@@ -87682,6 +87700,7 @@
 ||xyqmy.xyz^
 ||xyrkotsqhaf.com^
 ||xyryjt.xyz^
+||xysefte.icu^
 ||xysgfqnara.xyz^
 ||xytcboyz.icu^
 ||xytom.com^
@@ -87898,6 +87917,7 @@
 ||ybtkzjm.com^
 ||ybuduzpe.com^
 ||ybujfcuqya.com^
+||ybutoakqkct.com^
 ||ybwcvhcnulrgbvy.com^
 ||ybx.yahoo.co.jp^
 ||ybxkfivvpmofh.com^
@@ -90193,6 +90213,7 @@
 ||ztevents.zaloapp.com^
 ||ztffac.com^
 ||ztfzizpkjrmhbc.com^
+||zthxobgk.icu^
 ||ztidu.com^
 ||ztjal.info/wp-content/plugins/kill-adblock/
 ||ztnibpbkl.com^
@@ -105848,7 +105869,7 @@ search.b1.org##.adslabel
 search.bilibili.com##.video-list > div.col_3:has(> div.bili-video-card > div.bili-video-card__wrap > a[href*="&csource="])
 search.bilibili.com#?#.video-list > div.col_3:has(> div.bili-video-card a[href*="//cm.bilibili.com/"])
 search.brave.com##.sponsored-unit_wrapper
-search.brave.com##[data-type="ad"]
+search.brave.com,thesportsrush.com##[data-type="ad"]
 search.genieo.com##.promoted_right
 search.snapdo.com###AfloatingD
 search.yahoo.com##.searchRightBottomAds
