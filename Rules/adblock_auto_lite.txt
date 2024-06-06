@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: kMuB1ACwjDYH6j+Q0rYE2Q
+! Checksum: SvE42L9a53cccKmwOI2F8w
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240606002618
+! Version: 20240606092331
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-06 00:26:18
-! Total Count: 27927
+! Last modified: 2024-06-06 09:23:31
+! Total Count: 27934
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3536,6 +3536,7 @@
 ||analyti*.woozooo.com^$third-party
 ||analytics.scalemonk.com^
 ||ancientact.com^$third-party
+||ancxeftgyu.top^
 ||andro-news.com/images/content/andronews_banner_
 ||andro-news.com/images/content/for_website_andro_news.jpg
 ||anei.tv^$third-party
@@ -4955,6 +4956,7 @@
 ||cavecurtain.com^$third-party
 ||cb.baidu.com^
 ||cb.com.cn/index/ad/
+||cbcgqs.xyz^
 ||cbcvou.xyz^
 ||cbdm.weathercn.com^
 ||cbfw.cn/gonggong/chibi/cf_
@@ -8756,6 +8758,7 @@
 ||ifeve.com/wp-content/uploads/*/WechatIMG
 ||ifeve.com/wp-content/uploads/*/cachekit
 ||ifewo.xyz^
+||ifjslio.top^
 ||ifkdy.com/_nuxt/44e01dcef4aa1a21d9a6.js
 ||ifkdy.com/ifkdy/weixin/isFollowMe
 ||ifooday.cn/index.php?m=poster&
@@ -9596,6 +9599,7 @@
 ||jsztl.com/img/particular/tbyhq.jpg
 ||jtbo*.nqxvevk.cn^
 ||jtbunh.xyz^
+||jtezxmpb.xyz^
 ||jtienla.top^
 ||jtpu9s.icu^
 ||jtwewpi.cn^
@@ -11651,6 +11655,7 @@
 ||nltsvf.xyz^
 ||nlvgxr.xyz^
 ||nlvwdlnhfnnw.com^
+||nlxgjwye.icu^
 ||nmdotj.xyz^
 ||nmkghh.com^
 ||nmlfev.icu^
@@ -13061,6 +13066,7 @@
 ||qqyy.com/js/public_end_add.js
 ||qrirud.xyz^
 ||qrkhwe.xyz^
+||qrmozsc.icu^
 ||qrovwu.xyz^
 ||qrttfmo.cn^
 ||qrxmgfz.cn^
@@ -15307,6 +15313,7 @@
 ||ts166.net^$third-party
 ||tsancii.top^
 ||tsaristcanapes.com^
+||tsdfxv.xyz^
 ||tseda1.icu^
 ||tseda4.icu^
 ||tseda6.icu^

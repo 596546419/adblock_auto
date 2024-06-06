@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: DhYm5+DXQdBlakpmTQHipw
+! Checksum: gBFsg+XUXI2gHjevgMtpkA
 ! Title: 混合规则(自动更新)
-! Version: 20240606002607
+! Version: 20240606092320
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-06 00:26:07
-! Total Count: 145714
+! Last modified: 2024-06-06 09:23:20
+! Total Count: 145723
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9327,6 +9327,7 @@
 ||ancientconspicuousuniverse.com^
 ||ancientsend.com^
 ||ancplayer.com/ancplayer/ads
+||ancxeftgyu.top^
 ||ancznewozw.com^
 ||andall.servicesql.info^
 ||andappjaxzfo.com^
@@ -17024,6 +17025,7 @@
 ||cba6182add.com^
 ||cbbd18d467.com^
 ||cbbvi.com^
+||cbcgqs.xyz^
 ||cbcvou.xyz^
 ||cbd2dd06ba.com^
 ||cbdatatracker.com^
@@ -23023,6 +23025,7 @@
 ||delightspiritedtroop.com^
 ||deligrassdull.com^
 ||delikatsov.com^
+||deliman.net^
 ||deline-sunction.com^
 ||deliquencydeliquencyeyesight.com^
 ||deliquencydeliquencygangenemies.com^
@@ -38543,6 +38546,7 @@
 ||ifil.store^
 ||ifjbtjf.com^
 ||ifjhkbmewdny.com^
+||ifjslio.top^
 ||ifkdy.com/_nuxt/44e01dcef4aa1a21d9a6.js
 ||ifkdy.com/ifkdy/weixin/isFollowMe
 ||ifkgdxhpt.com^
@@ -42126,6 +42130,7 @@
 ||joupteni.xyz^
 ||journalforum.org^
 ||journeyembankmentsubjects.com^
+||journeymv.com^
 ||jourohun.xyz^
 ||jouteetu.net^
 ||jouthee.com^
@@ -42502,6 +42507,7 @@
 ||jtdujjsk.com^
 ||jtdxz.top^
 ||jteatfaqvwqf.com^
+||jtezxmpb.xyz^
 ||jtfqyewsaflnp.com^
 ||jtgdssrlha.com^
 ||jtienla.top^
@@ -53893,6 +53899,7 @@
 ||nlvgxr.xyz^
 ||nlvwdlnhfnnw.com^
 ||nlwjdxsa.com^
+||nlxgjwye.icu^
 ||nlyekvc.cn^
 ||nlyxqpeo.com^
 ||nlzxclfg.com^
@@ -62939,6 +62946,7 @@
 ||qrkhwe.xyz^
 ||qrkwvoomrbjoj.top^
 ||qrlsx.com^
+||qrmozsc.icu^
 ||qrnmyn.cn^
 ||qroagwadndwy.com^
 ||qrovwu.xyz^
@@ -78721,6 +78729,7 @@
 ||tsbntfjyijlx.com^
 ||tsccqvlqjpchjcl.com^
 ||tscounter.com^
+||tsdfxv.xyz^
 ||tsdm.live/weibo.html
 ||tsdmw.net/img01/MP3/pm_
 ||tsds.tech^
@@ -93558,6 +93567,7 @@ barnstormers.com##.banner_mid
 barnstormers.com##.banner_rh
 barrettsportsmedia.com###mvp-wallpaper
 barrettsportsmedia.com##[href="https://www.jimcutler.com"]
+barrons.com##.AdWrapper-sc-9rx3gf-0
 barrons.com##.RenderBlock__AdWrapper-sc-1vrmc5r-0
 barrons.com##.adWrapperTopLead
 barrons.com##.barrons-body-ad-placement
@@ -107541,8 +107551,7 @@ thehackernews.com##.av-side-box-1
 thehackernews.com##.babsi
 thehackernews.com##.dog_two
 thehackernews.com##.google-1
-thehackernews.com##.sadbar2
-thehackernews.com##.sadfix
+thehackernews.com##.okfix
 thehackernews.com##.zoho-box
 thehackernews.com##.zoho-box-1
 thehackernews.com##[href^="https://go.thn.li/"]
