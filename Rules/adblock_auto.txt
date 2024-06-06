@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: +HCuKuzDros3aA7CLUbM0A
+! Checksum: IBPIDyOICINlOTAgrT56zg
 ! Title: 混合规则(自动更新)
-! Version: 20240606162553
+! Version: 20240607002531
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-06 16:25:53
-! Total Count: 145725
+! Last modified: 2024-06-07 00:25:31
+! Total Count: 145734
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4834,6 +4834,7 @@
 ||ad.digitimes.com.tw/*_bigbutton.jpg
 ||ad.directrev.com^$popup
 ||ad.dl.mainpost.de^
+||ad.dl.mz.de^
 ||ad.dline.com.tr^
 ||ad.doganburda.com^
 ||ad.donanimhaber.com^
@@ -22207,6 +22208,7 @@
 ||dajiahao9.top^
 ||dajiazhao.com/login/reg.js
 ||dajiurlgcfvgpt.com^
+||dajkqqpz.top^
 ||dakang-energy.com^
 ||dakawm.cc^
 ||dake.net.cn^
@@ -22403,6 +22405,7 @@
 ||dashingsweater.com^$third-party
 ||dasistnews.net^
 ||daslethv.com^
+||dasljfoq.top^
 ||dasperdolus.com^
 ||daspic.top^
 ||dastelefonbuch.de/banner^
@@ -22747,6 +22750,7 @@
 ||de.as.pptv.com^
 ||de01.rayjump.com^
 ||de17a.com^
+||de214f.xyz^
 ||deadly-variety.pro^
 ||deadlyheart.pro^
 ||deadlyrelationship.com^
@@ -37428,6 +37432,7 @@
 ||hrnhmral.com^
 ||hrnkdr.xyz^
 ||hrnpiyimmgdfjn.xyz^
+||hrnvfp.xyz^
 ||hrogrpee.de^
 ||hrotonafk.xyz^
 ||hrrbc.top^
@@ -63394,6 +63399,7 @@
 ||qwmdnlzitsys.com^
 ||qwnmfiti.xyz^
 ||qwogldy.top^
+||qwoofao.top^
 ||qwoyfys.com^
 ||qwqeifbsbxqozy.com^
 ||qwrdj.xyz^
@@ -76965,6 +76971,7 @@
 ||topsexmovs.com^
 ||topsite.lv^
 ||topsolutionsmedia.com^
+||topspin.npo.nl^
 ||topsrcs.com^
 ||topstat.com^
 ||topsummerapps.net^
@@ -102180,6 +102187,8 @@ manofmany.com##.mom-ads__inner
 manofmany.com##.mom-gpt__inner
 manofmany.com##.mom-gpt__wrapper
 manofmany.com,scanwith.com##.middle-banner
+manomano.co.uk,manomano.de,manomano.es,manomano.fr,manomano.it##.Ssfiu-:has([data-testid="popoverTriggersponsoredLabel"])
+manomano.co.uk,manomano.de,manomano.es,manomano.fr,manomano.it##.hrHZYT:has([data-testid="popoverTriggersponsoredLabel"])
 manomano.co.uk,manomano.de,manomano.es,manomano.fr,manomano.it##[data-testid="spr-brd-banner"]
 manomano.co.uk,manomano.de,manomano.es,manomano.fr,manomano.it##a[href^="/"][href*="?product_id="]:has(.ur6iYv)
 manomano.co.uk,manomano.de,manomano.es,manomano.fr,manomano.it##a[href^="/"][href*="?product_id="]:has(span[data-testid="product-card-sp-label"])

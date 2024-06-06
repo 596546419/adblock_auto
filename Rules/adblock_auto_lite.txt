@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: VBkydE/m/jDsEN0XSNd/cg
+! Checksum: YoSKHOK7gL1E3LbOGoxxwA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240606162605
+! Version: 20240607002543
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-06 16:26:05
-! Total Count: 27934
+! Last modified: 2024-06-07 00:25:43
+! Total Count: 27938
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5837,6 +5837,7 @@
 ||dajiahao10.top^
 ||dajiahao9.top^
 ||dajiazhao.com/login/reg.js
+||dajkqqpz.top^
 ||dakang-energy.com^
 ||daliantong.com.cn^$third-party
 ||dalipan.com/api/taobao
@@ -5875,6 +5876,7 @@
 ||dashingdrop.com^$third-party
 ||dashingsweater.com^$third-party
 ||daslethv.com^
+||dasljfoq.top^
 ||dastelefonbuch.de/banner^
 ||dasv10rewq.xyz^
 ||dat1.jzjxmj.com^$third-party
@@ -8464,6 +8466,7 @@
 ||hrjg.com.cn^$third-party
 ||hrngmf.com^
 ||hrnkdr.xyz^
+||hrnvfp.xyz^
 ||hrtinqj.cn^
 ||hs.cnfol.com/Cm/Imgs/Load.gif
 ||hs640.com/js/jquery.js
@@ -13140,6 +13143,7 @@
 ||qwjtdcl.cn^
 ||qwmamh.icu^
 ||qwnmfiti.xyz^
+||qwoofao.top^
 ||qwrdj.xyz^
 ||qwrot.cyou^
 ||qwsanan.top^
