@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: IBPIDyOICINlOTAgrT56zg
+! Checksum: jH3e4qcpAyKP5/6RP1e2cA
 ! Title: 混合规则(自动更新)
-! Version: 20240607002531
+! Version: 20240607092608
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-07 00:25:31
-! Total Count: 145734
+! Last modified: 2024-06-07 09:26:08
+! Total Count: 145752
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2411,6 +2411,7 @@
 ||59eb44884d.com^
 ||5a6c114183.com^
 ||5advertise.com^
+||5afc476a.xyz^
 ||5axxw.com/extends/ad/
 ||5b10f288ee.com^
 ||5btekl14.de^
@@ -3013,6 +3014,7 @@
 ||7c0616849b.com^
 ||7c1ecc72c0.com^
 ||7ca78m3csgbrid7ge.com^
+||7ca989e1.xyz^
 ||7car.com.cn^
 ||7cbf2.v.fwmrm.net^
 ||7cc70.com^
@@ -9033,6 +9035,7 @@
 ||analytics.jodelapis.com^
 ||analytics.jslib.win^
 ||analytics.jst.ai^
+||analytics.junia.ai^
 ||analytics.kaggle.io^
 ||analytics.kaltura.com^
 ||analytics.kapost.com^
@@ -18449,6 +18452,7 @@
 ||cigreechodsu.com^
 ||ciijcnrjf.com^
 ||ciimar.icu^
+||ciizxsdr.com^
 ||cijianggun.com^
 ||cike666.com^
 ||ciknujoiqsmuw.xyz^
@@ -22079,6 +22083,7 @@
 ||dacmursaiz.xyz^
 ||dacnmevunbtu.com^
 ||dacounter.com^
+||dacpibaqwsa.com^
 ||dacronblanchi.guru^
 ||dacyh.cyou^
 ||dad-api.dcard.tw^
@@ -26166,6 +26171,7 @@
 ||eazyleads.com^
 ||eb.anastasiadate.com^
 ||eb1a6329bb.com^
+||eb36c9bf12.com^
 ||eb480dde95.com^
 ||eb5232b35d.com^
 ||ebaayshopping.site^
@@ -28862,6 +28868,7 @@
 ||f3go4jpwa.shop^
 ||f3udfa7nfguhni.com^
 ||f4235693e4.com^
+||f43f5a2390.com^
 ||f459fdc403a6.78a5254f.ap-northeast-1.token.awswaf.com^
 ||f4823894ba.com^
 ||f48d1c06e4.com^
@@ -30550,6 +30557,7 @@
 ||fnlojkpbe.com^
 ||fnmfaoac.xyz^
 ||fnnmnupevx.com^
+||fnnvyvxiu.com^
 ||fnnzr.cn^
 ||fnofnbdkfwnvguu.com^
 ||fnqcbxqvodj.com^
@@ -35947,6 +35955,7 @@
 ||hehadinqu.info^
 ||hehehe.buzz^
 ||hehighursoo.com^
+||hehnpryefuq.com^
 ||heias.com^
 ||heibaizhibo.com/_nuxt/87a5efd04908651591f7.js
 ||heiguang.com/_r/2015/js/hrBottomBar.
@@ -41493,6 +41502,7 @@
 ||jfjlfah.com^
 ||jfjnyepxppqb.com^
 ||jfjpgufkaecvs.com^
+||jfjslia.top^
 ||jfjsp.com^
 ||jfkc5pwa.world^
 ||jfknowifcewd.com^
@@ -42180,6 +42190,7 @@
 ||jpai.xyz^
 ||jpayu6di.icu^
 ||jpbfwdtejwoewas.xyz^
+||jpcctez.icu^
 ||jpcuthdkmuonwc.com^
 ||jpdqpxoenctqbl.com^
 ||jpduibqcyfxtwpp.xyz^
@@ -43229,6 +43240,7 @@
 ||kdpic.pchome.com.tw^
 ||kdpnmlygyagyx.com^
 ||kdqika.xyz^
+||kdqlbm.cn^
 ||kdsahkln.xyz^
 ||kdsdiqjghaj.com^
 ||kdsf11.com^
@@ -49845,6 +49857,7 @@
 ||metrics.sdkbox.com^
 ||metrics.sp0n.io^
 ||metrics.spbtv.com^
+||metrics.streaks.jp^
 ||metrics.svc.conholdate.cloud^
 ||metrics.tbliab.net^
 ||metrics.ted.com^
@@ -54893,6 +54906,7 @@
 ||oaprodlogging.yo-digital.com^
 ||oapsmnk.cyou^
 ||oapyrzde.xyz^
+||oaqrui.xyz^
 ||oarcompartmentexaggerate.com^
 ||oardilin.com^
 ||oardjnay.com^
@@ -66066,6 +66080,7 @@
 ||rpzbfftekjdz.com^
 ||rqakljxbs.com^
 ||rqauutf.icu^
+||rqazepammrl.com^
 ||rqbugumvsprr.com^
 ||rqctubqtcbgeug.com^
 ||rqdcusltmryapg.com^
@@ -74844,6 +74859,7 @@
 ||tccbanner.com^
 ||tcdyjyrj.com^
 ||tce.alicdn.com^
+||tcfgtd.xyz^
 ||tcgaqh.icu^
 ||tcgehkuyoblgg.xyz^
 ||tcgjpib.com^
@@ -86354,6 +86370,7 @@
 ||wxcqdnf.com^
 ||wxebgpj.cn^
 ||wxejroeeteesr.com^
+||wxemjmxevy.com^
 ||wxfdmri.xyz^
 ||wxfkanv.cn^
 ||wxhiojortldjyegtkx.bid^
@@ -90138,6 +90155,7 @@
 ||zpfqolj.cn^
 ||zpgetworker11.com^
 ||zpgjz.com/cdn/new1/4.gif
+||zphgadwnjro.com^
 ||zpiyi.com/public/js/global.js
 ||zplayer-trk.zdn.vn^
 ||zplayer.trk.zapps.vn^
