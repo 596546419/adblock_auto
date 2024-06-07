@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: jH3e4qcpAyKP5/6RP1e2cA
+! Checksum: NXv43p765265pMjolPOCxQ
 ! Title: 混合规则(自动更新)
-! Version: 20240607092608
+! Version: 20240607162531
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-07 09:26:08
-! Total Count: 145752
+! Last modified: 2024-06-07 16:25:31
+! Total Count: 145759
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9322,6 +9322,7 @@
 ||anatomybravely.com^
 ||anaxialaphonia.com^
 ||anbinh-finance.club^
+||anbkzt.xyz^
 ||anceenablesas.info^
 ||anceovarec.cfd^
 ||anceteventur.info^
@@ -19140,6 +19141,7 @@
 ||cloudlessmajesty.com^
 ||cloudlessverticallyrender.com^
 ||cloudlogobox.com^
+||cloudmetrics.xenforo.com^
 ||cloudpsh.top^
 ||cloudpsvn.com^
 ||cloudroad.shop^
@@ -36833,6 +36835,7 @@
 ||hnsykly.cn^
 ||hntiantai.cn^
 ||hntkeiupbnoaeha.xyz^
+||hntkgpd.cn^
 ||hntymg.com^
 ||hnudnorbpdcd.com^
 ||hnvtuftqshbkhui.xyz^
@@ -40689,6 +40692,7 @@
 ||itineraryupper.com^
 ||itishindia.cfd^
 ||itjew.xyz^
+||itjgwn.xyz^
 ||itjhnclotfwnem.com^
 ||itjsb.com/itjsbwx.jpg
 ||itlitleoan.com^
@@ -58053,6 +58057,7 @@
 ||pdn-5.com^
 ||pdngnx.xyz^
 ||pdnhcks.xyz^
+||pdnwbwyf.icu^
 ||pdnyxyqoihia.xyz^
 ||pdqdovmsynelej.com^
 ||pdqkkzouflx.com^
@@ -97655,7 +97660,9 @@ flightconnections.com##.display-box-2
 flightconnections.com##.route-display-box
 flightglobal.com,thriftyfun.com##.adp
 flightradar24.com###bottomRightPanel
+flightradar24.com###primisAdContainer
 flightradar24.com###responsiveBottomPanel
+flightradar24.com##div.items-center.justify-center:has(> div#pb-slot-fr24-airplane:empty)
 flighty.cn###searchBox + #sidebarBox
 fliiby.com##.box_300x250
 flingtube.com###sponsoredBy

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: /TJAfq85jRCo4JyS+/3JQA
+! Checksum: Cg08XSPjbrr2sswv0mEvYg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240607092619
+! Version: 20240607162543
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-07 09:26:19
-! Total Count: 27943
+! Last modified: 2024-06-07 16:25:43
+! Total Count: 27947
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3535,6 +3535,7 @@
 ||analystrati.com^
 ||analyti*.woozooo.com^$third-party
 ||analytics.scalemonk.com^
+||anbkzt.xyz^
 ||ancientact.com^$third-party
 ||ancxeftgyu.top^
 ||andro-news.com/images/content/andronews_banner_
@@ -8378,6 +8379,7 @@
 ||hnrjign.cn^
 ||hnrte.ghkmoert.xyz^
 ||hnshangzhongxia.com^
+||hntkgpd.cn^
 ||hnxxt.net^
 ||hnyishidengbao.com^$third-party
 ||hocgeese.com^$third-party
@@ -9129,6 +9131,7 @@
 ||itienlo.top^
 ||itiexue.net/domain-policy/
 ||itiexue.net/wap/tiexue/js/chuping/nativeshare
+||itjgwn.xyz^
 ||itjsb.com/itjsbwx.jpg
 ||itmsc.cn^*ad0
 ||itongcheng.cc/amm/
@@ -12189,6 +12192,7 @@
 ||pdjjrh.xyz^
 ||pdngnx.xyz^
 ||pdnhcks.xyz^
+||pdnwbwyf.icu^
 ||pdweigee.com^
 ||pdweoyw.cn^
 ||pdxdxl.xyz^
