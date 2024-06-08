@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 0RDiAndcQxsk6yhd6A/9wA
+! Checksum: +vLVkbFKi+vnzACEYy1JmA
 ! Title: 混合规则(自动更新)
-! Version: 20240608162257
+! Version: 20240609002521
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-08 16:22:57
-! Total Count: 145783
+! Last modified: 2024-06-09 00:25:21
+! Total Count: 145786
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -26445,6 +26445,7 @@
 ||educatedeggnog.com^
 ||educationalapricot.com^
 ||educationalroot.com^
+||educationrailway.website^
 ||educedsteeped.com^
 ||educity.cn/self_text/text_disp.aspx?id=
 ||edugrampromo.com^
@@ -75727,6 +75728,7 @@
 ||theythourbonusgain.life^
 ||theyunm.com^
 ||thgebtibfyry.com^
+||thgthgfg.cn^
 ||thibwejrqrmjstt.com^
 ||thicackfyr.com^
 ||thichanhmoney.store^
@@ -141997,6 +141999,7 @@ zle.com$script
 ##a[href^="http://bongacams.com/track?"]
 ##a[href^="http://cam4com.go2cloud.org/aff_c?"]
 ##a[href^="http://click.payserve.com/"]
+##a[href^="http://coefficienttolerategravel.com/"]
 ##a[href^="http://com-1.pro/"]
 ##a[href^="http://d2.zedo.com/"]
 ##a[href^="http://deskfrontfreely.com/"]
