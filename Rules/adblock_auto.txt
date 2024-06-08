@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: BumP5te02+rfh1q6VmnnLw
+! Checksum: 0RDiAndcQxsk6yhd6A/9wA
 ! Title: 混合规则(自动更新)
-! Version: 20240608092331
+! Version: 20240608162257
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-08 09:23:31
-! Total Count: 145778
+! Last modified: 2024-06-08 16:22:57
+! Total Count: 145783
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -14009,6 +14009,7 @@
 ||bing001.shop^
 ||bing003.shop^
 ||bing005.shop^
+||bing007.shop^
 ||binga01.shop^
 ||bingoocy.com^
 ||bingtuo.mobi^
@@ -29420,6 +29421,7 @@
 ||fcxcubtkahif.xyz^
 ||fcxsodjsrqp.xyz^
 ||fczaifik.com^
+||fczunn.xyz^
 ||fd.bawag.at^
 ||fd173.cn^$third-party
 ||fd2.hmexchangecentre.com^
@@ -66576,6 +66578,7 @@
 ||rvrpushserv.com^
 ||rvrpushsrv.com^
 ||rvshjxsbohimgb.com^
+||rvtfwryz.icu^
 ||rvuoghivbylqlr.com^
 ||rvvji.online^
 ||rvvmhp.xyz^
@@ -87284,6 +87287,7 @@
 ||xn--wxtr9fwyxk9c.club^
 ||xn--wxtr9fwyxk9c.club^$third-party
 ||xn--wxtr9fwyxk9co4hbua.xn--fiqs8s^
+||xn--xhq326apqhcx0d.cn^
 ||xn--xhq9mt12cf5v.shop^
 ||xn--xhq9mt12cf5v.shop^$third-party
 ||xn--xhq9mt12cf5v.top^
@@ -94943,6 +94947,7 @@ chongbuluo.com###add
 chongbuluo.com###add + a
 chongbuluo.com###dzrid > .frame:nth-child(n+2)
 chongbuluo.com##.postright
+chongbuluo.com##.search > div[style="width: 607px;margin-top:30px;"]
 chongbuluo.com##a[href^="https://cn.udacity.com/"]
 chongdiantou.com##.nice-sales
 chordify.net###campaign_banner
