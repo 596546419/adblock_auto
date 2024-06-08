@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: GwOJ6NdmgYWsklBKv9f+sg
+! Checksum: Fau/MYrq4JvDh128wYXuiQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240608002525
+! Version: 20240608092343
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-08 00:25:25
-! Total Count: 27948
+! Last modified: 2024-06-08 09:23:43
+! Total Count: 27953
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3521,6 +3521,7 @@
 ||amillionads.com^
 ||ammcg.imgscloud.com/toy/
 ||amobee.com^
+||amocyq.xyz^
 ||amradmin.5173.com^
 ||ams.fx678.com^
 ||amuckafternoon.com^$third-party
@@ -4495,6 +4496,7 @@
 ||blzbjpg.xyz^
 ||bm.h576.com^
 ||bmatgg18.xyz^
+||bmhept.xyz^
 ||bmiea.xyz^
 ||bmjs.xzw.com^
 ||bmjvrf.xyz^
@@ -5282,6 +5284,7 @@
 ||cimg.cnyes.cool/prod/adContent/$image
 ||cinemabonus.com^$third-party
 ||circlelevel.com^$third-party
+||cismqdx.icu^
 ||city.tsuyama.lg.jp/common/photo/banner_ad/
 ||citysbs.com/chongqing/*/1920x179-
 ||citysbs.com/no/*/1190x60-
@@ -9832,10 +9835,12 @@
 ||kfctds59.shop^
 ||kfdrc.cyou^
 ||kfjpren.xyz^
+||kfjslid.top^
 ||kflybplr.xyz^
 ||kfocoq.xyz^
 ||kfpicimage.xyz^
 ||kfpnqug.cn^
+||kfqizu.cn^
 ||kfvjdvjzhddhc.com^
 ||kgacp.cyou^
 ||kgcyvd.com^
