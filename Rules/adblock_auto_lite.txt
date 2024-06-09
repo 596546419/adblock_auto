@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: TB11/xM+AZbwK9kgd5bJhQ
+! Checksum: +2A5AHhJMEwcFTg9Pj5wag
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240609002532
+! Version: 20240609093658
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-09 00:25:32
-! Total Count: 27958
+! Last modified: 2024-06-09 09:36:58
+! Total Count: 27961
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7108,6 +7108,7 @@
 ||fgcxdr.cn^
 ||fgdtln.xyz^
 ||fgetmzx.icu^
+||fghghh.cn^
 ||fghhbp.xyz^
 ||fgnzdb.xyz^
 ||fgo22.info^$third-party
@@ -11421,6 +11422,7 @@
 ||mylengmen.com/assets/public/$script
 ||mylust.com/images/mobile/mobile_advirtisement_250.png
 ||mymahuxv.xyz^
+||mymqcy.xyz^
 ||mypianku.net/ajax/MyJs/
 ||mypornhere.com/player/html.php?aid=*_html&video_id=*&*&referer
 ||myqcloud.com/ad/
@@ -13493,6 +13495,7 @@
 ||route34.cn^
 ||rouwenge.vip/astyle/$script
 ||roxewwq.cn^
+||roxfrv.xyz^
 ||rp5o.top^
 ||rp9p0.xyz^
 ||rpninf.xyz^$third-party
