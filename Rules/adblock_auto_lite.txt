@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: +2A5AHhJMEwcFTg9Pj5wag
+! Checksum: 9VoUN/EJS5ePLivY/aY7tA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240609093658
+! Version: 20240609162352
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-09 09:36:58
-! Total Count: 27961
+! Last modified: 2024-06-09 16:23:52
+! Total Count: 27966
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4757,6 +4757,7 @@
 ||bw66.cn/template/default_pc/bbs/
 ||bwandlv.top^
 ||bweriov.top^
+||bwjfnj.xyz^
 ||bwlcpr.xyz^
 ||bwuwirv.cn^
 ||bwwlw.cn^
@@ -7214,6 +7215,7 @@
 ||fnfhjka.xyz^
 ||fngcgbl.icu^
 ||fnitw.xyz^
+||fnjoomqa.icu^
 ||fnkio.cyou^
 ||fnnzr.cn^
 ||fo.iphonevip.cn^$third-party
@@ -8576,6 +8578,7 @@
 ||hvlitr.xyz^
 ||hvpard.xyz^
 ||hvxrvef.xyz^
+||hvzrrvj.cn^
 ||hw-ot-ad.a.yximgs.com^
 ||hw0.com.cn^
 ||hwcdn.net^*.mp4|$domain=pornachi.com|pornchimp.com
@@ -13978,6 +13981,7 @@
 ||sfg11rr.com^
 ||sfgprze.cn^$document
 ||sfgprze.cn^$~third-party
+||sfjslib.top^
 ||sfkldbkldgdgh.com^
 ||sfnmt.com/dq/
 ||sfqyck.xyz^
@@ -15920,6 +15924,7 @@
 ||vazhno.ru/cdn-cgi/apps/head/*.js
 ||vbdbmqzu.com^
 ||vbgr7.cn^
+||vbiakpu.icu^
 ||vbutycp.cn^
 ||vbzfjh.xyz^
 ||vbzrkme.xyz^
