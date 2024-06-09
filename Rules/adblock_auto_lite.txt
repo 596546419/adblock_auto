@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 9VoUN/EJS5ePLivY/aY7tA
+! Checksum: OaqfSU00y43elcYP4AZJ/g
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240609162352
+! Version: 20240610002348
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-09 16:23:52
-! Total Count: 27966
+! Last modified: 2024-06-10 00:23:48
+! Total Count: 27969
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7578,6 +7578,7 @@
 ||gexing.com/j/??zmask.js,easing.js?
 ||gfan.com/press/
 ||gfbdb1.com^
+||gfdgfhh.cn^
 ||gfjn5.xyz^
 ||gfpvvwf.xyz^
 ||gfylyw.xyz^
@@ -9744,6 +9745,7 @@
 ||kaixin001.com.cn/js/cpm-
 ||kaixinjiehun.com^$third-party
 ||kaiyiluye.com^
+||kak17p.xyz^
 ||kakakumag.com/script/mag/smartphone/fixed_bnr_area.js
 ||kalerkantho.com/banner/
 ||kalmukrattail.com^
@@ -12420,6 +12422,7 @@
 ||pnpy.mmtnat.com^$third-party,script
 ||pnxtnp.xyz^
 ||pnzhpb.xyz^
+||po2qgo.xyz^
 ||pobrpr.xyz^
 ||pocketfaucet.com^$third-party
 ||poco.cn/v1_1/rank/get_floating_layer_ad

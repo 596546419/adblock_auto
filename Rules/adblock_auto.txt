@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: agLnnGdF58MLwQBC05o77w
+! Checksum: zewpOsVknei2ll4rw5R1Cw
 ! Title: 混合规则(自动更新)
-! Version: 20240609162341
+! Version: 20240610002336
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-09 16:23:41
-! Total Count: 145896
+! Last modified: 2024-06-10 00:23:36
+! Total Count: 145900
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -945,6 +945,7 @@
 ||1d5d7fb584.com^
 ||1db10dd33b.com^
 ||1dcbzuv.com^
+||1dd6e9ba.xyz^
 ||1dfsdfg.com^
 ||1dmp.io^
 ||1dtdsln1j.de^
@@ -32772,6 +32773,7 @@
 ||gfbpijvtoxpit.com^
 ||gfbxgrfnljmxs.com^
 ||gfd80.com^
+||gfdgfhh.cn^
 ||gfdh56.site^
 ||gfdrkskillso.xyz^
 ||gfghr.com^
@@ -43097,6 +43099,7 @@
 ||kaizentraffic.com^
 ||kaizzz.xyz^
 ||kajads.com^
+||kak17p.xyz^
 ||kakadm.*/js/loadjs/jquery
 ||kakakumag.com/script/mag/smartphone/fixed_bnr_area.js
 ||kakam.info^
@@ -59831,6 +59834,7 @@
 ||pnymwcnihpyvpun.com^
 ||pnzhpb.xyz^
 ||po.ponant.com^
+||po2qgo.xyz^
 ||poacauceecoz.com^
 ||poacawhe.net^
 ||poachfelonry.top^
