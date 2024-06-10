@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Frk+oJxisLzqZZlhu7ai9Q
+! Checksum: 3Ez0a/2/kgJo2aD6ZnrlYg
 ! Title: 混合规则(自动更新)
-! Version: 20240610092630
+! Version: 20240610162636
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-10 09:26:30
-! Total Count: 145907
+! Last modified: 2024-06-10 16:26:36
+! Total Count: 145915
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -11195,6 +11195,7 @@
 ||auhjyihlbhvvkv.com^
 ||auhpaewvbgwjr.com^
 ||auisaoa.top^
+||auislq.top^
 ||aujooxoo.com^
 ||aukalerim.com^
 ||aukana.jp^
@@ -94417,6 +94418,7 @@ breakingdefense.com##.sponsored-inline
 breakingdefense.com,medcitynews.com##.sidebar__top-sticky
 breakingnews.ie##.custom-mpu-container
 breakingnews.ie##.p-2.bg-gray-100
+breakingnews.ie##[id$="0_pweumum7"]
 breakingnews.ie,canberratimes.com.au,theland.com.au##.py-2.bg-gray-100
 breastcancer.org,emojipedia.org##div[class^="AdContainer"]
 breathofthewild-link.com#?#div[id^="cc-matrix-"] > div.j-htmlCode:has(> ins.adsbygoogle)
@@ -98502,6 +98504,7 @@ getgreenshot.org##.ga-ldrbrd
 getgreenshot.org##.ga-skscrpr
 gethuman.com##.gh-ads
 getitfree.cn##+js(abort-current-script, document.getElementById, /!document\.getElementById\([\s\S]*?\.style\.display=/)
+getmodsapk.com###ad-container
 getmyuni.com##.horizontalRectangle
 getmyuni.com##.squareDiv
 getpocket.com##.\'syndication-ad\'
@@ -105269,8 +105272,11 @@ qaru.site##.similar.a[style]
 qb-api.com##.panel-success
 qbaobei.com###diyforumdisplaybottom
 qbiao.com##div[id^="aup"]
+qciss.net###lightbox
+qciss.net###lightbox1
 qciss.net##+js(window.open-defuser, 0, qciss.net)
 qciss.net##.container-fluid > #lightbox
+qciss.net##.d1
 qciss.net##div[style^="border-style:solid;"][style*="border-width:2px;"][style*="width: 80%;"]
 qdmm.com###page-ops
 qdmm.com,qidian.com##.qdRead_client
@@ -107720,6 +107726,7 @@ thegfporn.com##img[class^="ads"]
 thegfporn.com#$#body > #main { display: block !important; }
 thegfporn.com,xxx888porn.com##.adcen
 theglobeandmail.com##.BaseAd__StyledRootBaseAd-sc-1khlkqq-1
+theglobeandmail.com##.c-ad-sticky
 theglobeandmail.com##div[class^="BaseAd_"]
 thegoodchoice.ca,wandering-bird.com##.cb-box
 thegradcafe.com##.text-center.py-3
@@ -108450,6 +108457,7 @@ tvfanatic.com##.feed_holder
 tvgolo.com##.pub468x60top
 tvmaze.com##.blad
 tvmost.com.hk##.main_ad_b
+tvnz.co.nz##.AdOnPause
 tvnz.co.nz##.Advert
 tvseriesfinale.com##table[width="658"]
 tvshowbox.tw##a[href=" http://www.shumeimotel.com/"] > img
