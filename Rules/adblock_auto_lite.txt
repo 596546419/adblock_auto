@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: OaqfSU00y43elcYP4AZJ/g
+! Checksum: uDtIPoQj9z2CUEDxoebt5Q
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240610002348
+! Version: 20240610092641
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-10 00:23:48
-! Total Count: 27969
+! Last modified: 2024-06-10 09:26:41
+! Total Count: 27976
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5900,6 +5900,7 @@
 ||date4sex.pro^$all
 ||dato.porn/*.php?$popup
 ||datoporn.com^$popup
+||davtvd.xyz^
 ||dawdlealmonry.com^
 ||daweijita.com/201*430.
 ||daweijita.com/201*ad.
@@ -6675,6 +6676,7 @@
 ||efficaciouscactus.com^$third-party
 ||effirst.com^$third-party
 ||efgh.5lu.com^
+||efjsliw.top^
 ||efmtsw.xyz^
 ||efs604.top^
 ||efvsyhbf.xyz^
@@ -8355,6 +8357,7 @@
 ||hkkeafj.cn^
 ||hkljed.xyz^
 ||hkmte.com/seo.js
+||hkpeghqu.icu^
 ||hkrytf.xyz^
 ||hkscldggm.xyz^
 ||hktvmall.com/api/preroll/getList?
@@ -9305,6 +9308,7 @@
 ||jg1668.com^$third-party
 ||jgblvt.xyz^
 ||jgidskia.top^
+||jglgjz.xyz^
 ||jgmywh.icu^
 ||jgntjtyf.icu^
 ||jgsajfggv.xyz^
@@ -10360,6 +10364,7 @@
 ||liftoff.io^
 ||lifvfr.xyz^
 ||lifyeldl.top^
+||ligfdjnfd.cn^
 ||lightcushion.com^$third-party
 ||lih6e.site^
 ||lihuasoft.net/images/ad_
@@ -12065,6 +12070,7 @@
 ||ozhmig.cn^
 ||ozkbdxdu.icu^
 ||ozolei.xyz^
+||ozykeor.icu^
 ||p-behacdn.ksmobile.net^
 ||p.7060.la^
 ||p.deporno.online^
@@ -17445,6 +17451,7 @@
 ||yxgqgq.xyz^
 ||yximgs.com/bs2/adcarsku/sku1563a96c-38ca-4563-a4b5-522208113126.
 ||yximgs.com/bs2/adcarsku/sku9c0e68cc-2f12-4e47-a340-a7293ee88c88.
+||yxkbgg.xyz^
 ||yxptcrss.xyz^
 ||yxrxsov.xyz^
 ||yxvoud.com^

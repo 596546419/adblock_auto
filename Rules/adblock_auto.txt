@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: zewpOsVknei2ll4rw5R1Cw
+! Checksum: Frk+oJxisLzqZZlhu7ai9Q
 ! Title: 混合规则(自动更新)
-! Version: 20240610002336
+! Version: 20240610092630
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-10 00:23:36
-! Total Count: 145900
+! Last modified: 2024-06-10 09:26:30
+! Total Count: 145907
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -22583,6 +22583,7 @@
 ||davctinijon.com^
 ||davedbux.ir^
 ||davjdaauvlp.com^
+||davtvd.xyz^
 ||dawangde.me^
 ||dawdlealmonry.com^
 ||daweijita.com/201*430.
@@ -26669,6 +26670,7 @@
 ||efilgvz.cn^
 ||efinauknceiwou.info^
 ||efizobj.cn^
+||efjsliw.top^
 ||efklkkkvkukf.com^
 ||efmrxqjngyc.xyz^
 ||efmtsw.xyz^
@@ -36754,6 +36756,7 @@
 ||hkngacxry.com^
 ||hkosgxn.cn^
 ||hkowhqtenjfud.com^
+||hkpeghqu.icu^
 ||hkpscjgfnxquj.com^
 ||hkrpg-log-upload-os.hoyoverse.com^
 ||hkrpg-log-upload.mihoyo.com^
@@ -41599,6 +41602,7 @@
 ||jghjhtz.com^
 ||jghmrie.cn^
 ||jgidskia.top^
+||jglgjz.xyz^
 ||jgmywh.icu^
 ||jgnlaiga.fun^
 ||jgntjtyf.icu^
@@ -46102,6 +46106,7 @@
 ||lifyeldl.top^
 ||ligatessuspend.top^
 ||ligatus.com^
+||ligfdjnfd.cn^
 ||lighes.com^
 ||lightcushion.com^$third-party
 ||lightenintimacy.com^
@@ -57216,6 +57221,7 @@
 ||ozwolnonnotv.com^
 ||ozwvd.com^
 ||ozwwawcaxoxh.com^
+||ozykeor.icu^
 ||ozzruxazcoxc.com^
 ||p-advg.com^
 ||p-analytics.life^
@@ -89218,6 +89224,7 @@
 ||yximgs.com/bs2/adcarsku/sku1563a96c-38ca-4563-a4b5-522208113126.
 ||yximgs.com/bs2/adcarsku/sku9c0e68cc-2f12-4e47-a340-a7293ee88c88.
 ||yxjnzydc.com^
+||yxkbgg.xyz^
 ||yxkfaskdaybakf.com^
 ||yxkhpk.com^
 ||yxmaeeqvl.com^
