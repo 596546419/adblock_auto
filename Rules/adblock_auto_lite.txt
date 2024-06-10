@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 9DwlG94NnSofAc7fuB4HFg
+! Checksum: iHMp130sqDmIMIQKmHGNQg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240610162647
+! Version: 20240611002627
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-10 16:26:47
-! Total Count: 27977
+! Last modified: 2024-06-11 00:26:27
+! Total Count: 27983
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8122,6 +8122,7 @@
 ||hazmo.stream/hazmo.js$script
 ||hb.rayjump.com^
 ||hb.vhsrv.com^
+||hb8g86k.mom/mz.js
 ||hbbxwan.cn^
 ||hbjolp.xyz^
 ||hbkunye.com^
@@ -14901,6 +14902,7 @@
 ||tapone.jp^
 ||taporn.com/d/
 ||tappx.com^
+||taproximo.com^
 ||tapsell.ir^
 ||tapsense.com^
 ||tapstat.ru^$third-party
@@ -15474,6 +15476,7 @@
 ||twlmq.space^
 ||twnafj.xyz^
 ||two.fsylr.com^
+||twqtf.boats^
 ||twrailpolice.appspot.com/campaign.xml
 ||twrailpolice.appspot.com/full_ad_priority.txt
 ||twrank.com^$third-party
@@ -25278,6 +25281,7 @@ zle.com$script
 ##.gnt_xmst
 ##.google-ad2_fixed
 ##.google_adsense2
+##.gotoclick[adv_id]
 ##.gpost-below
 ##.gpt-ad
 ##.gpt_ads_box
@@ -25325,6 +25329,7 @@ zle.com$script
 ##.indexad3
 ##.indexad4
 ##.indexnews-ad
+##.infomation + #notice_container > .event-notice
 ##.inner-advertise
 ##.it618_firstad_flex
 ##.item-ad
@@ -25668,6 +25673,7 @@ zle.com$script
 ##.xzbox-gh
 ##.y.mtw[style="padding: 0px 10px;"]
 ##.ya-normal-box-done
+##.yueduad1
 ##.yuepa-list
 ##.yuepa-warp
 ##.zhanzhang_tuijian_btn
