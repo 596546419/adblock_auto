@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: wlazExMSfhAzcLkDW0/WWQ
+! Checksum: x/OyCG8+7vupskfs7XCzVw
 ! Title: 混合规则(自动更新)
-! Version: 20240611162615
+! Version: 20240612002637
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-11 16:26:15
-! Total Count: 145973
+! Last modified: 2024-06-12 00:26:37
+! Total Count: 145979
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2777,6 +2777,7 @@
 ||68aq8q352.com^
 ||68d6b65e65.com^
 ||6916508c78.com^
+||691f42ad.xyz^
 ||692881.com^
 ||693836.com^
 ||693836.com^$popup
@@ -3128,6 +3129,7 @@
 ||810251.com^
 ||8105bfd0ff.com^
 ||8131.qizhihaotian.cn^
+||814272c4.xyz^
 ||81438456aa.com^
 ||8170a1da9e.com^
 ||81ac5b609b.com^
@@ -96046,8 +96048,8 @@ daftporn.com##div[class^="belowplayer"]
 daftsex.com,pornhub.com,pornhubpremium.com,pstargif.com,spankbang.com,spankbang.party,sxyprn.com,tube8.com,tube8vip.com,xozilla.com,xxxymovies.com##a[href*="?ats="]
 daftsex.net##.videos > div:not([id])
 daftsex.net,kissjav.*##.is-12-touch.is-narrow-desktop.has-text-centered
-dagens.com##.generic-widget.d-none-mobile.i-1
-dagens.com##div[data-link] .d-none-mobile.d-none-tablet.i-2
+dagens.com,dagens.de,dagens.dk##.t-1 > .con-0 > .r-2 .row > .c-1 > .generic-widget[class*="i-"] > .g-0
+dagens.com,dagens.dk##.t-1 > .con-0 > .r-1 > .row > .c-0 > .generic-widget[class*="i-"] > .g-0
 dahe.cn###adArea1
 dahe.cn###adsg
 daijiworld.com##.hidden-xs > [href]
@@ -96568,6 +96570,7 @@ docs.cfw.lbyczf.com###推广
 docs.cfw.lbyczf.com###推广 + div.list
 docsmall.com##.modal-connection.show
 doctorrouter.ru##.jgcabd-container
+dodi-repacks.site###block-17
 dofap.com##.b_videobot
 dofap.com,novinite.com##.banner300x250
 doge-faucet.com##.bbb
@@ -102395,11 +102398,12 @@ manhuagui.com##.gg_728
 manhuagui.com##.gg_950
 manhuagui.com##.w250 > .mt10[style="width: 300px; height: 250px;"]
 manhuaplus.com##[href^="https://manhuaplussoulland.onelink.me/"]
-manhwabtt.com##[style$="min-height: 250px;"]
+manhwabtt.com,tennismajors.com##[style$="min-height: 250px;"]
 manhwaindo.id##.blox
 maniacdev.com##.c4
 manilastandard.net##.custom-banner-customize
 manilastandard.net##.page-category-contents-adds
+manilatimes.net##.article-body-content > .fixed-gray-color
 manitobacooperator.ca##.inline--2
 manitobacooperator.ca##.leaderboard-height
 manmanbuy.com##.app-activity-download
@@ -103508,6 +103512,7 @@ news.china.com.cn##.Wrapper > div[style]
 news.cn2che.com##.banner01
 news.ebc.net.tw###marquee-box
 news.ebc.net.tw##.fncnews-content > div.raw-style > div > p > a[href]
+news.ebc.net.tw##.inline_text.has_marker
 news.ebc.net.tw##a[href^="http://www.ebcbuzz.com/url/"]
 news.gamebase.com.tw##.PCAD
 news.gamebase.com.tw##.PcNewsUpAds
@@ -103537,6 +103542,7 @@ news.sky.com,skysports.com###mpu-1
 news.sohu.com##.god-first
 news.sohu.com,www.sohu.com#?#.list16 > ul > li:-abp-contains(广告)
 news.stv.tv##.stv-article-gam-slot
+news.tvbs.com.tw##.sidebar_div:has(> div.nolazydiv)
 news.xfastest.com##.vw-sticky-sidebar-wrapper #custom_html-5
 news.yahoo.com###module-mktBanner
 news12.com##.banner-homePageSidebar-area
