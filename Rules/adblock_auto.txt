@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: MZTIclsCp2tXy2f7aQ6l1Q
+! Checksum: zA9mT0nxHlGIEXRLeZrdZA
 ! Title: 混合规则(自动更新)
-! Version: 20240611002616
+! Version: 20240611092526
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-11 00:26:16
-! Total Count: 145926
+! Last modified: 2024-06-11 09:25:26
+! Total Count: 145965
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1027,6 +1027,7 @@
 ||1pqfa71mc.de^
 ||1push.io^
 ||1pwx.com/js/ck.js
+||1qe.info^
 ||1qi.info^
 ||1qkmxbt.com^
 ||1qlgi.top^
@@ -6451,6 +6452,7 @@
 ||adspyglass.com^
 ||adspynet.com^
 ||adsquirrel.ai^
+||adsreference.com^
 ||adsring.com^
 ||adsroute.com^
 ||adsrv-up.mcrony.com^
@@ -8756,6 +8758,7 @@
 ||anaemiaperceivedverge.com^
 ||anahausatd.com^
 ||anahitagirted.uno^
+||anal.sataniskwijt.be^
 ||analights.com^
 ||analitica.webrpp.com^
 ||analitik.bik.gov.tr^
@@ -8929,6 +8932,7 @@
 ||analytics.cn.ru^
 ||analytics.cnd-motionmedia.de^
 ||analytics.cocolog-nifty.com^
+||analytics.code.dccouncil.gov^
 ||analytics.code.illusion.jp^
 ||analytics.codigo.se^
 ||analytics.competitoor.com^
@@ -9107,6 +9111,7 @@
 ||analytics.nikkasystems.com^
 ||analytics.nodecraft.com^
 ||analytics.nova.foxsports.com^
+||analytics.ntlc.com.vn^
 ||analytics.oceanengine.com^
 ||analytics.octaglobal.com^
 ||analytics.omniscientai.com^
@@ -9340,6 +9345,7 @@
 ||ancplayer.com/ancplayer/ads
 ||ancxeftgyu.top^
 ||ancznewozw.com^
+||and4.junglebeariwtc4.com^
 ||andall.servicesql.info^
 ||andappjaxzfo.com^
 ||andbeyond.media^
@@ -12728,6 +12734,7 @@
 ||bbtta91.shop^
 ||bbttf26.shop^
 ||bbttkk.com^
+||bbuildersget.com^
 ||bbuni.com^
 ||bbuni.com^$third-party
 ||bbvbyzzyrebek.top^
@@ -14020,6 +14027,7 @@
 ||bing005.shop^
 ||bing007.shop^
 ||binga01.shop^
+||binga03.shop^
 ||bingoocy.com^
 ||bingtuo.mobi^
 ||binh-chonthang7.weebly.com^
@@ -16790,6 +16798,7 @@
 ||cardloomed.com^
 ||cardniu.com^$third-party
 ||cardshinhan.com^
+||cardzstorezone.com^
 ||careersadorable.com^
 ||careersletbacks.com^
 ||careerslowblond.com^
@@ -20635,6 +20644,7 @@
 ||count.rin.ru^
 ||count.rtl.de^
 ||count.sibbo.net^
+||count.vidsrc.pro^
 ||count.webstatistik-bw.de^
 ||count.xxxssk.com^
 ||count.xxxssk.com^$third-party
@@ -22078,6 +22088,7 @@
 ||da.netease.com^
 ||da.rosrabota.ru^
 ||da066d9560.com^
+||da2323.com^
 ||da29e6b8-f018-490f-b25f-39a887fc95e7.xyz^
 ||da6555.com^
 ||da77842b9c.com^
@@ -30856,6 +30867,7 @@
 ||forlumineoner.com^
 ||forlumineontor.com^
 ||formalcabinet.com^
+||formalhood.com^
 ||formalitydetached.com^
 ||formallythrill.com^
 ||formalyzer.com^
@@ -33701,6 +33713,10 @@
 ||goasdfa.top^
 ||goaserv.com^
 ||goasrv.com^
+||goat.hepicgamerz.com^
+||goat.nhimmeo.cf^
+||goat.skeetstats.xyz^
+||goat.tailspace.net^
 ||goatcounter.com^
 ||goatmod.xyz^
 ||goatpoxbutters.top^
@@ -36867,6 +36883,7 @@
 ||hnkyxyknp.com^
 ||hnl.ijgocb.cn^
 ||hnltcw.com^
+||hnmrw.net^
 ||hnmucsm.cn^
 ||hnnuange.com^
 ||hnr.dodhvug.cn^
@@ -37535,6 +37552,7 @@
 ||hsmkj.net^$third-party
 ||hsmrabnj.com^
 ||hsnsdqd.cn^
+||hsoubnp.icu^
 ||hspbotdetection.azurewebsites.net^
 ||hspdiom.cn^
 ||hspffjx.cn^
@@ -40892,6 +40910,7 @@
 ||ivy.pconline.com.cn^
 ||ivycarryingpillar.com^
 ||ivykiosk.com^$third-party
+||ivz7x63ymy.ru^
 ||iwanad.baidu.com^
 ||iwandlo.top^
 ||iwansf.com^
@@ -41335,6 +41354,7 @@
 ||jcdf99.com/hzz/scripts/new
 ||jcedzifarqa.com^
 ||jcelyj.com^
+||jcfnbhqo.icu^
 ||jched3.com^
 ||jchklt.com^
 ||jcigoiimudrzow.com^
@@ -42260,6 +42280,7 @@
 ||jp88888887.cn^
 ||jpaasne.e.shifen.com^
 ||jpai.xyz^
+||jpalertcert.com^
 ||jpayu6di.icu^
 ||jpbfwdtejwoewas.xyz^
 ||jpcctez.icu^
@@ -43594,6 +43615,7 @@
 ||kgystvhlyqxnnhg.com^
 ||kh-cn-mrd-f5-tpbank.com^
 ||kh-cn-uutien-3fv-vib.com^
+||kh-vibquocte.com^
 ||kh.suno.vn^
 ||khach-hang-ca-nhan-vip5.com^
 ||khachhangvib-canhan.com^
@@ -43863,6 +43885,7 @@
 ||kjheamwouk.xyz^
 ||kjhxw.xyz^
 ||kjhzwvq.cn^
+||kjipko.xyz^
 ||kjisypvbsanmlem.xyz^
 ||kjjbgclciiay.xyz^
 ||kjjjusb.xyz^
@@ -44956,6 +44979,7 @@
 ||lagrys.xyz^
 ||lagt.cloud^
 ||lahair.biz^
+||lahar.com.br^
 ||laharal.com^
 ||lahemal.com^
 ||lahoo.ca/api.php?mod=ad&
@@ -55799,6 +55823,7 @@
 ||omes-sec.heytapmobile.com^
 ||ometria.com^
 ||omezame.biz/wp-content/themes/buzzmake/js/modal.
+||omfghellobrosjda38.org^
 ||omfiydlbmy.com^
 ||omg.house.porn^
 ||omg2.com^
@@ -62327,6 +62352,7 @@
 ||pzpivx.xyz^
 ||pzqfmhy.com^
 ||pzqqstb.icu^
+||pztezl.xyz^
 ||pztjlr.xyz^
 ||pzwdtz.com^
 ||pzwjonv.icu^
@@ -65232,6 +65258,7 @@
 ||retrack.q-divisioncdn.de^
 ||retrayan.com^
 ||retreatregular.com^
+||retrefsf.cn^
 ||retrieval-bd.duote.com^
 ||retrievalterminalcourse.com^
 ||retrievalvariedbudge.com^
@@ -66204,6 +66231,7 @@
 ||rqkfhquz.cn^
 ||rqkgcd.xyz^
 ||rqmob.com^
+||rqnefp.xyz^
 ||rqnggnsz.fun^
 ||rqnomljdot.xyz^
 ||rqnvci.com^
@@ -71938,6 +71966,7 @@
 ||ssery.com^
 ||ssestherssa.com^
 ||sseudorassb.com^
+||ssevt.com^
 ||ssgg.chazidian.com^
 ||ssh.*.com^*!$script,third-party
 ||ssiapawz.com^
@@ -72018,6 +72047,7 @@
 ||st.hbrd.io^
 ||st.ipornia.com^$third-party
 ||st.linkfire.com^
+||st.mapleranks.com^
 ||st.onlygip.tech^
 ||st.top100.ru^
 ||st02.net^
@@ -72437,6 +72467,7 @@
 ||stats.766.com^
 ||stats.abbi.io^
 ||stats.administrarweb.es^
+||stats.afrocave.com^
 ||stats.agrar.nu^
 ||stats.aplus.com^
 ||stats.articlesbase.com^
@@ -72453,6 +72484,7 @@
 ||stats.blogg.se^
 ||stats.blogoscoop.net^
 ||stats.bluebillywig.com^
+||stats.boringproxy.io^
 ||stats.bradmax.com^
 ||stats.break.com^
 ||stats.callnowbutton.com^
@@ -72499,6 +72531,7 @@
 ||stats.helsingborg.se^
 ||stats.heyoya.com^
 ||stats.hosting24.com/count.php
+||stats.how.wtf^
 ||stats.hstatic.net^
 ||stats.ibtimes.co.in^
 ||stats.ibtimes.co.uk^
@@ -74709,6 +74742,7 @@
 ||tancommunicated.com^
 ||tandavaecorche.top^
 ||tang-han-muc-the-visa-vn.com^
+||tang-han-muc-tin-dung-vn.com^
 ||tangankanan.net^
 ||tangcuongbanlinh.com^
 ||tangcuongsinhluc.site^
@@ -83247,6 +83281,7 @@
 ||vnshopee.vip^
 ||vnshoping.com^
 ||vnsshoppe.com^
+||vntanghanmucvisadebit.com^
 ||vntiki.shop^
 ||vntiki11.com^
 ||vntikiship.com^
@@ -84921,6 +84956,7 @@
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
 ||wfhuzaj.cn^
 ||wfiles.hcomic.net/indexSwiper/*_*x*_*_TC_gif.gif
+||wfjslie.top^
 ||wfkspcs.cn^
 ||wfndponfd.com^
 ||wfnetwork.com^
@@ -100329,6 +100365,7 @@ infotel.ca##[src^="https://infotel.ca/absolutebm/"]
 infowars.com##.css-1nbwp0k
 infowars.com##.css-1upmbem
 infowars.com##.css-1vj1npn
+infowars.com##a.css-1yw960t
 infoworld.com##.brVideoContainer
 inhabitat.com##.mn-wrapper
 inkbotdesign.com,kuramanime.lol##img[decoding="async"]
@@ -115052,6 +115089,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads/storysponsors/*
 /ads/sub/*
 /ads/syndicated/*
+/ads/ta_wppas/*
 /ads/taboola/*
 /ads/tags?
 /ads/takeovers/*
@@ -130653,6 +130691,7 @@ zle.com$script
 ##.ad-site
 ##.ad-sitewide
 ##.ad-size-300x600
+##.ad-size-728x90
 ##.ad-size-landscape
 ##.ad-size-leaderboard
 ##.ad-size-medium-rectangle

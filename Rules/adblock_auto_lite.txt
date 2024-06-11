@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: iHMp130sqDmIMIQKmHGNQg
+! Checksum: zqGAMzV1IrXYHiBDgZXBqQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240611002627
+! Version: 20240611092538
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-11 00:26:27
-! Total Count: 27983
+! Last modified: 2024-06-11 09:25:38
+! Total Count: 27991
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4412,6 +4412,7 @@
 ||bing005.shop^
 ||bing007.shop^
 ||binga01.shop^
+||binga03.shop^
 ||binqriksc.com^
 ||bio-equip.com/dimg/
 ||bio-equip.com/dimgs/
@@ -8499,6 +8500,7 @@
 ||hsiaik.com^
 ||hskzoab.cn^
 ||hslbahu.top^
+||hsoubnp.icu^
 ||hspdiom.cn^
 ||hstbrt.xyz^
 ||hstjjg.com/show/$script
@@ -9267,6 +9269,7 @@
 ||jc1.dayfund.com.cn^
 ||jcbjcb9.cn^
 ||jcdf99.com/hzz/scripts/new
+||jcfnbhqo.icu^
 ||jched3.com^
 ||jciwztfj.com^
 ||jcjzikj.xyz^
@@ -9893,6 +9896,7 @@
 ||kjappzvz.xyz^
 ||kjdbcjkmc.com^
 ||kjeqga.xyz^
+||kjipko.xyz^
 ||kjjjusb.xyz^
 ||kjos.vo.llnwd.net^
 ||kjrspnbf.xyz^
@@ -12856,6 +12860,7 @@
 ||pzphmkf.xyz^
 ||pzpivx.xyz^
 ||pzqqstb.icu^
+||pztezl.xyz^
 ||pztjlr.xyz^
 ||pzwjonv.icu^
 ||pzykrcq.cn^
@@ -13374,6 +13379,7 @@
 ||retinaesprent.com^
 ||retintsmillion.com^
 ||reton.free-porn-videos.org^
+||retrefsf.cn^
 ||retrieval-bd.duote.com^
 ||retrievemint.com^$third-party
 ||rett.top^
@@ -13519,6 +13525,7 @@
 ||rpyor0k.xyz^
 ||rqauutf.icu^
 ||rqmob.com^
+||rqnefp.xyz^
 ||rqrvfp.xyz^
 ||rqxtbr.xyz^
 ||rqytqq.com^
@@ -16381,6 +16388,7 @@
 ||wew.dushiwenxue.net^
 ||wewbnso.cn^
 ||wfiles.hcomic.net/indexSwiper/*_*x*_*_TC_gif.gif
+||wfjslie.top^
 ||wfndponfd.com^
 ||wfpjeul.cn^
 ||wfqgfaa.cn^
