@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 8iIGeNPdogOww2hvyPb8wA
+! Checksum: PC5/L8tc+DkdV4SjVYt9Zg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240612002648
+! Version: 20240612092512
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-12 00:26:48
-! Total Count: 27994
+! Last modified: 2024-06-12 09:25:12
+! Total Count: 28003
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3708,6 +3708,7 @@
 ||aqc.gucheng.com^
 ||aqdy.net/js/banner.js
 ||aqdy.net/js/tj.js
+||aqeivzm.icu^
 ||aqhfqaaq.xyz^
 ||aqhnmof.cn^
 ||aqi.wd.amberweather.com^
@@ -5318,6 +5319,7 @@
 ||ckg.vipyl.com^
 ||cklithuw.xyz^
 ||ckmbig.xyz^
+||ckqebz.cn^
 ||ckxxbao.com/templets/default/js/wx.js
 ||cl-ad.x-flow.app^
 ||cl.sexstories-all.com^
@@ -6888,6 +6890,7 @@
 ||evenyw.xyz^
 ||everestop.io^
 ||everyonepiano.cn/Public/*0x
+||evgaow.xyz^
 ||evidhjksdtgyxrh.xyz^
 ||evscnfj.cn^
 ||evunmc.xyz^
@@ -7584,6 +7587,7 @@
 ||gfan.com/press/
 ||gfbdb1.com^
 ||gfdfegg.cn^
+||gfdfgfgr.cn^
 ||gfdgfhh.cn^
 ||gfjn5.xyz^
 ||gfpvvwf.xyz^
@@ -7655,6 +7659,7 @@
 ||gixgav.icu^
 ||gixhlii.xyz^
 ||gizlnr.com^
+||gjhjjhgc.cn^
 ||gjipd.xyz^
 ||gjmqqq.com^
 ||gjwind.com/xxmh.gif
@@ -12921,6 +12926,7 @@
 ||qfaaokr.icu^
 ||qfblqq.com^
 ||qfdtqq.com^
+||qfjsliy.top^
 ||qgfzb.com^$document
 ||qgfzb.com^$~third-party
 ||qgidskiy.top^
@@ -13250,6 +13256,7 @@
 ||rangecake.com^$third-party
 ||rangeplayground.com^$third-party
 ||raolmsc.com^
+||rapfdf.xyz^
 ||rapidgator.net/images/pics/$domain=appshot.cc
 ||rapidgatorporn.net/templates/rapidgatorporn/images/Flashbit.gif
 ||rapidkittens.com^$third-party
@@ -15049,6 +15056,7 @@
 ||tgryfh.xyz^
 ||tgvgzt.xyz^
 ||tgwfaz.icu^
+||thavrils.com^
 ||thboxp.xyz^
 ||thcaes.top^
 ||thcdy.co/baidu2/foot.js
@@ -16993,6 +17001,7 @@
 ||xuexiwa.com^$script,third-party
 ||xukang09.cn^
 ||xukou.net^
+||xuldtcip.icu^
 ||xulizui6.com^
 ||xunsfr.xyz^
 ||xunsu.cc/js/indexbottom.js

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: x/OyCG8+7vupskfs7XCzVw
+! Checksum: jUJJKNmA4rVMFlnp2GIAzw
 ! Title: 混合规则(自动更新)
-! Version: 20240612002637
+! Version: 20240612092501
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-12 00:26:37
-! Total Count: 145979
+! Last modified: 2024-06-12 09:25:01
+! Total Count: 146003
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -445,6 +445,7 @@
 ||108.171.248.234^
 ||1080872514.rsc.cdn77.org^
 ||1085549509.rsc.cdn77.org^
+||1089006802.rsc.cdn77.org^
 ||1090pjopm.de^
 ||109218er.xyz^
 ||10945-2.s.cdn15.com^
@@ -630,6 +631,7 @@
 ||1385a.xyz^
 ||138vps.com/fa/
 ||138vps.com/image/
+||1396762586.rsc.cdn77.org^
 ||139file.com/jsa/
 ||139xiaoshuo.com/css/js/tools.
 ||13b3403320.com^
@@ -646,6 +648,7 @@
 ||143.92.60.44^
 ||1437953666.rsc.cdn77.org^
 ||1441085683.rsc.cdn77.org^
+||1448063843.rsc.cdn77.org^
 ||144w6.com^$document
 ||144w6.com^$~third-party
 ||146.148.85.61^
@@ -1970,6 +1973,7 @@
 ||43t53c9e.de^
 ||44180055.cn^
 ||44288fa514.com^
+||442fc29954.com^
 ||4438x*.com/Runtime/js/
 ||445c1f5df9.com^
 ||445d1bd01a.com^
@@ -9530,6 +9534,7 @@
 ||anqu.com/b.js
 ||ans7tv.net^
 ||anseisjulus.com^
+||anselmbowwows.com^
 ||ansf.shop^
 ||anshengshenghuo.fun^
 ||anssigia.xyz^
@@ -10214,6 +10219,7 @@
 ||aqdkciossswu.com^
 ||aqdy.net/js/banner.js
 ||aqdy.net/js/tj.js
+||aqeivzm.icu^
 ||aqewvatwqzoigh.com^
 ||aqhfqaaq.xyz^
 ||aqhnmof.cn^
@@ -14653,6 +14659,7 @@
 ||bnds8.site^
 ||bnets1.icu^
 ||bnets9.icu^
+||bnevymqyjji.com^
 ||bnextmedia.com.tw/feed/fetch.js
 ||bnextmedia.s3.hicloud.net.tw/dp_cp/cp_prebid
 ||bnextmedia.s3.hicloud.net.tw/dp_cp/mt_programmatic_ad.js
@@ -18655,6 +18662,7 @@
 ||ckmbig.xyz^
 ||ckodsxyjdql.com^
 ||ckofrnk.com^
+||ckqebz.cn^
 ||ckrf1.com^
 ||ckrrmwqh.com^
 ||ckseeknew.com^
@@ -23964,6 +23972,7 @@
 ||diptaich.com^
 ||diptersowar.website^
 ||dipusdream.com^
+||dipxmakuja.com^
 ||diqnioryshzpge.com^
 ||dircash-promost.com
 ||dircont3.com^
@@ -25056,6 +25065,7 @@
 ||dqcgkpp.icu^
 ||dqcztxmu.com^
 ||dqdrsgankrum.org^
+||dqeaa.com^
 ||dqfhudpnwdk.com^
 ||dqgmtzo.com^
 ||dqh.ink^
@@ -28326,6 +28336,7 @@
 ||eveteaemo.com^
 ||evfisahy.xyz^
 ||evfrnqvextppij.com^
+||evgaow.xyz^
 ||evgywgur.com^
 ||eviclick.pro^
 ||evidenceguidance.com^
@@ -32593,6 +32604,7 @@
 ||geo.q5media.net^
 ||geo.theawesomer.com^
 ||geo.thehindu.com^
+||geo.wpforms.com^
 ||geo.xcel.io^
 ||geo.yahoo.com^
 ||geoaddicted.net^
@@ -32793,6 +32805,7 @@
 ||gfbxgrfnljmxs.com^
 ||gfd80.com^
 ||gfdfegg.cn^
+||gfdfgfgr.cn^
 ||gfdgfhh.cn^
 ||gfdh56.site^
 ||gfdrkskillso.xyz^
@@ -33170,6 +33183,7 @@
 ||gjeonh.cn^
 ||gjfeblixctsojx.xyz^
 ||gjffrtfkhf.xyz^
+||gjhjjhgc.cn^
 ||gjhksxthokyjlm.com^
 ||gjigle.com^
 ||gjipd.xyz^
@@ -40960,6 +40974,7 @@
 ||iwwdcglj.com^
 ||iwwmaq.xyz^
 ||iwxtbaoqgcxfdd.xyz^
+||iwyrldaeiyv.com^
 ||iwyuaqs.cn^
 ||ix2.deepsexvids.com^
 ||ixbccrp.cn^
@@ -62605,6 +62620,7 @@
 ||qfhzki.com^
 ||qfisatztut.com^
 ||qfjherc.com^
+||qfjsliy.top^
 ||qfnkzytwzfftnw.com^
 ||qfnoyix.cn^
 ||qfnvqalpgiriub.com^
@@ -63940,6 +63956,7 @@
 ||rapemineral.com^
 ||rapepush.net^
 ||rapesensual.com^
+||rapfdf.xyz^
 ||rapgasyogin.com^
 ||raphanyleman.top^
 ||raphanysteers.com^
@@ -74949,6 +74966,7 @@
 ||tauphaub.net^
 ||taurinkimonos.uno^
 ||taurse.com^
+||tausaakcntiwp.com^
 ||tauspenup.top^
 ||tautcare.pro^
 ||tautenstapetta.com^
@@ -75652,6 +75670,7 @@
 ||thauwhoxaulr.com^
 ||thauzauw.xyz^
 ||thaveksi.net^
+||thavrils.com^
 ||thawbootsamplitude.com^
 ||thawheek.com^
 ||thawpublicationplunged.com^
@@ -87726,6 +87745,7 @@
 ||xukevxdf.com^
 ||xukou.net^
 ||xukpresesmr.info^
+||xuldtcip.icu^
 ||xuliglsw.space^
 ||xulilin.ltd^
 ||xulizui6.com^
@@ -88990,6 +89010,7 @@
 ||yqrta.xyz^$third-party
 ||yqspiy.xyz^
 ||yqxhslsqaqkbd.com^
+||yqxrjthpbolqq.com^
 ||yqxs.xyz^
 ||yr9n47004g.com^
 ||yrbfol5.cn^
@@ -106112,6 +106133,7 @@ screenbinge.com##.hb-strip
 screenbinge.com,streamingrant.com##.widget_sp_image-image-link
 screencrush.com##.widget-widget_third_party_content
 screengeek.net###layoutContainer
+scribd.com##div[class]:has(> [data-e2e="dismissible-ad-header-scribd_adhesion"])
 scriptinghelpers.org##.shvertise-skyscraper
 scrolller.com###object_container
 scrolller.com##.vertical-view__column > .vertical-view__item:has(> div[style$="overflow: hidden;"])
@@ -109021,6 +109043,7 @@ vipthz.com###fwin_content_imc_attachad [style="WIDTH: 100%; padding-left:10px;"]
 vipthz.com###fwin_content_imc_attachad [style="WIDTH: 100%; padding-left:10px;"] > div > p > a[href][target="_blank"]
 virginradio.co.uk##div[class^="css-"]:has(> .ad-outline)
 virtuagirlgirls.com###DynamicBackgroundWrapper
+visortmo.com,zhufaner.com##.book
 visualcapitalist.com##.visua-target
 vitalmtb.com##.desktop-header-ad
 vitalmtb.com##.v-ad-slot
@@ -110898,7 +110921,6 @@ zhoushan.cn###Headtop
 zhuankebar.com###article-cnt > a
 zhuanlan.zhihu.com##.RichText-MCNLinkCardContainer > a.GoodsRecommendCard
 zhufaner.com###dist_footer
-zhufaner.com##.book
 zhuji.net##table[style="border-bottom:1px solid #dfdfdf; border-left:1px solid #dfdfdf; border-right:1px solid #dfdfdf; "] ~ table
 zhuji.net##td[valign="top"][height="66"]
 zhuji.net##td[valign="top"][height="96"]
@@ -142471,6 +142493,7 @@ zle.com$script
 ##a[href^="https://refpazkjixes.top/"]
 ##a[href^="https://reinstandpointdumbest.com/"]
 ##a[href^="https://rixofa.com/"]
+##a[href^="https://s.deltraff.com/"]
 ##a[href^="https://s.ma3ion.com/"]
 ##a[href^="https://s.optzsrv.com/"]
 ##a[href^="https://s.zlink3.com/"]
@@ -142590,6 +142613,7 @@ zle.com$script
 ##a[href^="https://www.toprevenuegate.com/"]
 ##a[href^="https://www.zhao-zupu.com"]
 ##a[href^="https://www.zubivu.com/"]
+##a[href^="https://www8.smartadserver.com/"]
 ##a[href^="https://xbet-4.com/"]
 ##a[href^="https://xlivesex.com/"]
 ##a[href^="https://xxuudxdu.live?"]
