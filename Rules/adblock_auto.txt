@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Bfzcr3HeIfb0fLrgWuBTIA
+! Checksum: NXYUPbcfXiUbmTcsRdzTMA
 ! Title: 混合规则(自动更新)
-! Version: 20240612162555
+! Version: 20240613002630
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-12 16:25:55
-! Total Count: 146007
+! Last modified: 2024-06-13 00:26:30
+! Total Count: 146010
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -93795,6 +93795,7 @@ baomidou.com##.sidebar-slot-top
 baomidou.com,docsmall.com,nodejs.cn##+js(set-constant, _AdBlockInit, noopFunc)
 bar-planb.com,hakibavuong.com###player_dev
 barandbench.com##.ad-slot-row-m__ad-Wrapper__cusCS
+barandbench.com##.ad-wrapper-module__adContainer__iD4aI
 barandbench.com##[class*="ad-slot"]
 barandbench.com##div[class^="ad-service-"]
 barandbench.com##div[class^="ad-slot"]
@@ -96073,8 +96074,8 @@ daftporn.com##div[class^="belowplayer"]
 daftsex.com,pornhub.com,pornhubpremium.com,pstargif.com,spankbang.com,spankbang.party,sxyprn.com,tube8.com,tube8vip.com,xozilla.com,xxxymovies.com##a[href*="?ats="]
 daftsex.net##.videos > div:not([id])
 daftsex.net,kissjav.*##.is-12-touch.is-narrow-desktop.has-text-centered
-dagens.com,dagens.de,dagens.dk##.t-1 > .con-0 > .r-2 .row > .c-1 > .generic-widget[class*="i-"] > .g-0
-dagens.com,dagens.dk##.t-1 > .con-0 > .r-1 > .row > .c-0 > .generic-widget[class*="i-"] > .g-0
+dagens.com,dagens.de,dagens.dk##.t-1 > .con-0 > .r-2 .row > .c-1 > .generic-widget[class*=" i-"] > .g-0
+dagens.com,dagens.dk##.t-1 > .con-0 > .r-1 > .row > .c-0 > .generic-widget[class*=" i-"] > .g-0
 dahe.cn###adArea1
 dahe.cn###adsg
 daijiworld.com##.hidden-xs > [href]
@@ -109047,7 +109048,6 @@ vipthz.com###fwin_content_imc_attachad [style="WIDTH: 100%; padding-left:10px;"]
 vipthz.com###fwin_content_imc_attachad [style="WIDTH: 100%; padding-left:10px;"] > div > p > a[href][target="_blank"]
 virginradio.co.uk##div[class^="css-"]:has(> .ad-outline)
 virtuagirlgirls.com###DynamicBackgroundWrapper
-visortmo.com,zhufaner.com##.book
 visualcapitalist.com##.visua-target
 vitalmtb.com##.desktop-header-ad
 vitalmtb.com##.v-ad-slot
@@ -110925,6 +110925,7 @@ zhoushan.cn###Headtop
 zhuankebar.com###article-cnt > a
 zhuanlan.zhihu.com##.RichText-MCNLinkCardContainer > a.GoodsRecommendCard
 zhufaner.com###dist_footer
+zhufaner.com##.book
 zhuji.net##table[style="border-bottom:1px solid #dfdfdf; border-left:1px solid #dfdfdf; border-right:1px solid #dfdfdf; "] ~ table
 zhuji.net##td[valign="top"][height="66"]
 zhuji.net##td[valign="top"][height="96"]
@@ -112473,6 +112474,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 .top/ads/
 .top/appinstall.js$third-party,script
 .top/cuid/?
+.top/g3/myString3AsyncG?$third-party
 .top/gd/*?md=
 .top/get?$third-party
 .top/gyxx_*_aubi.js$third-party
@@ -142149,6 +142151,7 @@ zle.com$script
 ##a[href="https://www.ledlandi.com"]
 ##a[href="https://www.ybvip1879.vip"]
 ##a[href="https://xq97.com"]
+##a[href="javascript:;"][onclick^="iwjfewufewekjr"]
 ##a[href="javascript:GoGd();"]
 ##a[href="javascript:GoTp();"]
 ##a[href="javascript:void(0)"][rel="nofollow"][target="_new"] > img[src]
