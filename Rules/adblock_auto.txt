@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: jUJJKNmA4rVMFlnp2GIAzw
+! Checksum: Bfzcr3HeIfb0fLrgWuBTIA
 ! Title: 混合规则(自动更新)
-! Version: 20240612092501
+! Version: 20240612162555
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-12 09:25:01
-! Total Count: 146003
+! Last modified: 2024-06-12 16:25:55
+! Total Count: 146007
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -11890,6 +11890,7 @@
 ||b4g7k9d2.com^
 ||b4jy.top^
 ||b50faca981.com^
+||b51475b8.xyz^
 ||b53.xyz^
 ||b57dqedu4.com^
 ||b57eb5adb4.com^
@@ -14504,6 +14505,7 @@
 ||blownsuperstitionabound.com^
 ||blowssubplow.com^
 ||bloxplay.com^
+||blrpbt.xyz^
 ||blrupz.xyz^
 ||blsrscpqu.com^
 ||blsynmlv.fun^
@@ -42342,6 +42344,7 @@
 ||jqcyacoxrvada.com^
 ||jqdldk.cn^
 ||jqdnvg.com^
+||jqfql.top^
 ||jqgqrsvcaos.xyz^
 ||jqitetsk.com^
 ||jqk2me2mzf.ru^
@@ -59614,6 +59617,7 @@
 ||plauna.com^
 ||plausible.ams.to^
 ||plausible.citynews.ovh^
+||plausible.omgapi.org^
 ||plausible.scimago.es^
 ||plausible.simplelogin.io^
 ||plausible.vucar.vn^
@@ -141285,6 +141289,7 @@ zle.com$script
 ##AMP-AD
 ##A[href*=".com/?Agent="]
 ##A[href="http://t.cn/A6hQCVsv"]
+##A[href="javascript:;"][onclick^="iwjfewufewekjr"]
 ##A[href^="/e/public/ClickAd?adid="]
 ##DFP-AD
 ##[ad_display_dot]
@@ -142144,7 +142149,6 @@ zle.com$script
 ##a[href="https://www.ledlandi.com"]
 ##a[href="https://www.ybvip1879.vip"]
 ##a[href="https://xq97.com"]
-##a[href="javascript:;"][onclick^="todkjermyd"]
 ##a[href="javascript:GoGd();"]
 ##a[href="javascript:GoTp();"]
 ##a[href="javascript:void(0)"][rel="nofollow"][target="_new"] > img[src]

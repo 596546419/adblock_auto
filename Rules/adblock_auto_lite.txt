@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: PC5/L8tc+DkdV4SjVYt9Zg
+! Checksum: RgCupFYu+co0dZ1ZNG91rw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240612092512
+! Version: 20240612162606
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-12 09:25:12
-! Total Count: 28003
+! Last modified: 2024-06-12 16:26:06
+! Total Count: 28005
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4484,6 +4484,7 @@
 ||blogads.com^
 ||blogspot.com^*/s1600/drug.gif
 ||blogterest.net/regular/?i=$subdocument
+||blrpbt.xyz^
 ||blrupz.xyz^
 ||blthwbe.xyz^
 ||bltmjevd.xyz^
@@ -9509,6 +9510,7 @@
 ||jpvrbt.xyz^
 ||jpysvip.net/ad/
 ||jqbddp.xyz^
+||jqfql.top^
 ||jqkcett.icu^
 ||jqpejp.xyz^
 ||jqsex.com^
@@ -25701,6 +25703,7 @@ zle.com$script
 ##.zone_wap_banner2
 ##A[href*=".com/?Agent="]
 ##A[href="http://t.cn/A6hQCVsv"]
+##A[href="javascript:;"][onclick^="iwjfewufewekjr"]
 ##A[href^="/e/public/ClickAd?adid="]
 ##[ad_display_dot]
 ##[ad_dot_url]
@@ -26210,7 +26213,6 @@ zle.com$script
 ##a[href="https://ttzzz11.com"]
 ##a[href="https://ttzzz22.com"]
 ##a[href="https://xq97.com"]
-##a[href="javascript:;"][onclick^="todkjermyd"]
 ##a[href="javascript:GoGd();"]
 ##a[href="javascript:GoTp();"]
 ##a[href="javascript:void(0)"][rel="nofollow"][target="_new"] > img[src]
