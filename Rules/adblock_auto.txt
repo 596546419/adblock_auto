@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Q0xFDZeNrbQ8OyHymPDyMQ
+! Checksum: EKeyLbkxGg9JCl8obbgUlw
 ! Title: 混合规则(自动更新)
-! Version: 20240613092437
+! Version: 20240613162543
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-13 09:24:37
-! Total Count: 146037
+! Last modified: 2024-06-13 16:25:43
+! Total Count: 146041
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -21751,6 +21751,7 @@
 ||cvcmslcefxvvux.com^
 ||cvcvotjyasdtil.com^
 ||cvemhco.cn^
+||cvfgere96.cn^
 ||cvgrszkg.xyz^
 ||cvietcombank.com^
 ||cvixthukvgac.com^
@@ -47277,6 +47278,7 @@
 ||logs.mezmo.com^
 ||logs.netflix.com^
 ||logs.ntvplus.tv^
+||logs.openbank.com^
 ||logs.psm.wmcdp.io^
 ||logs.roku.com^
 ||logs.sanchoikns.vn^
@@ -49821,6 +49823,7 @@
 ||mercadoclics.com^
 ||mercatos.ru^
 ||mercent.com^
+||merchant-center-analytics.goog^
 ||merchenta.com^
 ||mercialtaver.club^
 ||mercifulsurveysurpass.com^
@@ -94521,6 +94524,7 @@ breathofthewild-link.com#?#div[id^="cc-matrix-"] > div.j-htmlCode:has(> ins.adsb
 breitbart.com###HavDW
 breitbart.com###accontainer
 breitbart.com##.a-wrapper
+breitbart.com##.a8d
 breitbart.com##.acadnotice
 brenz.net###rndBanner
 brickset.com##.admin.buy
