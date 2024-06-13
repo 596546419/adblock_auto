@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: EKeyLbkxGg9JCl8obbgUlw
+! Checksum: 27HVY6sAsMhmwKmByqD/kA
 ! Title: 混合规则(自动更新)
-! Version: 20240613162543
+! Version: 20240614002709
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-13 16:25:43
-! Total Count: 146041
+! Last modified: 2024-06-14 00:27:09
+! Total Count: 146051
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -34469,6 +34469,7 @@
 ||groagnoaque.com^
 ||groameeb.com^
 ||groansnoosed.space^
+||groapeeque.com^
 ||grobido.info^
 ||grocerycookerycontract.com^
 ||grocerysurveyingentrails.com^
@@ -57525,6 +57526,7 @@
 ||paidsearchexperts.com^
 ||paidsolution.de^
 ||paigarohauja.com^
+||paiglumousty.net^
 ||paigna.com^
 ||paikaufy.com^
 ||paikoasa.tv^
@@ -87417,6 +87419,7 @@
 ||xmi1.top^
 ||xmjajv.xyz^
 ||xmjikcz.xyz^
+||xmjnohwneqe.com^
 ||xmkmryu.icu^
 ||xml-api.online^
 ||xml-clickurl.com^
@@ -99396,6 +99399,9 @@ hea.cn###top_slides_box
 headforpoints.com##.widget--aside.widget
 health.news,naturalnews.com,newstarget.com##[href^="https://www.brighteon.tv"]
 health.tvbs.com.tw##.ad_desktop_top
+health.tvbs.com.tw##.ed-hidden.ed-xl-block
+health.tvbs.com.tw##.hidden .justify-center:has(> div[id^="health_pc_read_"])
+health.tvbs.com.tw##div[data-testid="ad-container"]
 healthbenefitstimes.com###ad-image-below
 healthbenefitstimes.com###google-adv-top
 healthgrades.com##ps-action-intercept
@@ -99423,6 +99429,7 @@ healthyrex.com##div.textwidget:has(a[rel="nofollow sponsored"])
 hearthhead.com,thottbot.com,wowhead.com##.sidebar-bg
 hearthhead.com,wowhead.com##.block-bg
 heartinkstone.pixnet.net###spotlight
+heatmap.news###hmn_sponsored_post
 heatmap.news##.middle_leaderboard
 heatmap.news,theweek.com##.infinite-container
 heavy-r.com##.first-row > a[href][target="_blank"]:not([href="http://pornedup.com/"]):not([href="https://www.mrporngeek.com"])
@@ -103279,6 +103286,7 @@ myinstants.com##.multiaspect-banner-ad
 myjoyonline.com###in-article
 myjoyonline.com###mjo-article-left_rectangle_mid
 myk3.com##a[href*="?aid="]
+mylocation.org##.info a[href^="https://go.expressvpn.com/c/"]
 mylust.com##.cs-bnr
 mylust.com,anysex.com##.fp-bnr-close-btn
 mylust.com,anysex.com##div[class^="fp-bnr"]
@@ -104062,8 +104070,10 @@ olgame.tw##.nex_floor_banner
 olgame.tw##.nex_index_ads
 olgame.tw##.nex_mid_ads
 olx.com.pk##.react-swipeable-view-container:has([href*="http://onelink.to"])
+olympics.com##.-adv
 olympics.com##.\-partners
 olympics.com##.ad-margin-big
+olympics.com##.b2p-list__item:has(> .adv-fluid)
 olympics.com,scmp.com##.header-ad-slot
 omniglot.com,youthwant.com.tw##.flex-container
 omnitalk.com##td[bgcolor="#ffffc8"]
