@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: +UzofSm1bbJ1Ow4MJ0PYUA
+! Checksum: itWvOoQvzOkOgtUURW8rWQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240614162513
+! Version: 20240615002515
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-14 16:25:13
-! Total Count: 28037
+! Last modified: 2024-06-15 00:25:15
+! Total Count: 28040
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5900,6 +5900,7 @@
 ||dashingsweater.com^$third-party
 ||daslethv.com^
 ||dasljfoq.top^
+||daslkdlqk.top^
 ||dastelefonbuch.de/banner^
 ||dasv10rewq.xyz^
 ||dat1.jzjxmj.com^$third-party
@@ -8617,6 +8618,7 @@
 ||hwhefj.xyz^
 ||hwivedn.icu^
 ||hwnod.xyz^
+||hwnojj.xyz^
 ||hwpvbdj.xyz^
 ||hwuogmusthxfpk.xyz^
 ||hwvwxerw.xyz^
@@ -10429,6 +10431,7 @@
 ||lishuaibin.cn^
 ||literatelight.com^$third-party
 ||liu16.com/vip.png
+||liuhui111.top^
 ||liujiahao6.cn^
 ||liutou20230203.live^
 ||liuxiangxiang.top^
