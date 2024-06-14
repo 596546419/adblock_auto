@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 6O2aXvmQiDPtIiLSPy3q2A
+! Checksum: hNWSzJ/5v9n0HTJ6IKmEyQ
 ! Title: 混合规则(自动更新)
-! Version: 20240614092441
+! Version: 20240614162501
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-14 09:24:41
-! Total Count: 146119
+! Last modified: 2024-06-14 16:25:01
+! Total Count: 146122
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -21347,6 +21347,7 @@
 ||crumbrationally.com^
 ||crumbtypewriterhome.com^
 ||crumbumgristly.space^
+||crummerexisted.com^
 ||crummygoddess.com^
 ||crumpet.xxxpornhd.pro^
 ||crumplylenient.com^
@@ -33115,6 +33116,7 @@
 ||gilrauci.net^
 ||gim.co.il^
 ||gimavpojtqa.com^
+||gimmalscutches.com^
 ||gimme-promo.com^
 ||gimnsr.com^
 ||gimohhfzvmpdt.com^
@@ -91315,6 +91317,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 17173.com##.list-beauty
 17173.com##.mod-tg1
 17173.com##.pic[href*="Room"]
+17173.com##.slide-list > li[style]:has(> a[href*="&ad_code="])
 17173.com##a[href*="&ad_code="]
 17173.com##a[href^="https://gtv."]
 17173.com,911cha.com,am730.com.hk,cdyee.com,chinaz.com,downsx.net,eastmoney.com,entrepreneur.com,epochtimes.com,hsw.cn,ifeng.com,interglot.com,lantian.tv,maoken.com,phoenixtv.com,pricespy.co.nz,pyccoo.cn,shared.com,sourcedigit.com,telegraphindia.com,xineurope.com,yesky.com,zdzdm.com##.adbox
