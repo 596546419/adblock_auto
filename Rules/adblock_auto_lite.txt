@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 3AuGxqX9w8bk0ZXmJcLAkg
+! Checksum: LH7+2+lAhL2wvXy4SKshRg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240614002720
+! Version: 20240614092452
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-14 00:27:20
-! Total Count: 28027
+! Last modified: 2024-06-14 09:24:52
+! Total Count: 28037
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4319,6 +4319,7 @@
 ||behacdn.ksmobile.net^
 ||behance.vo.llnwd.net^
 ||behe.com^$third-party
+||behvgsik.icu^
 ||beijing-air.com/images/a/j
 ||beijing.buzhi5.com^
 ||beijing163.aliyunapi.org^$third-party,script
@@ -4420,6 +4421,7 @@
 ||bing009.shop^
 ||binga01.shop^
 ||binga03.shop^
+||binga07.shop^
 ||binqriksc.com^
 ||bio-equip.com/dimg/
 ||bio-equip.com/dimgs/
@@ -5129,6 +5131,7 @@
 ||cfx3d.xyz^
 ||cfzhushou.com^*/King_Chance_Layer.js
 ||cgbswl.icu^
+||cgczuu.xyz^
 ||cgidskif.top^
 ||cgovyjnmdtauwdhek.com^
 ||cgqmss.xyz^
@@ -5637,6 +5640,7 @@
 ||critictruck.com^$third-party
 ||crjeymh.cn^
 ||crjpgate.com^$document
+||crodfnyk.xyz^
 ||crossboardmobile.com^
 ||crosspromo*.qplaze.com/PushCampaignXMLOut.php
 ||crosspromo.voodoo.io^
@@ -7815,6 +7819,7 @@
 ||googlevideo.com/videoplayback?$media,redirect=noop-1s.mp4,domain=safeframe.googlesyndication.com
 ||googlevideo.com/videoplayback?$xmlhttprequest,redirect=noop.txt,domain=safeframe.googlesyndication.com
 ||goole20.shop^
+||goole24.shop^
 ||goopi.cyou^
 ||goproxy.cc/api.php
 ||gorgeousground.com^$third-party
@@ -10043,6 +10048,7 @@
 ||kshrsf.icu^
 ||kskwai.com^
 ||kslbahd.top^
+||kspl48j.xyz^
 ||ksrgsc.xyz^
 ||kssolo.com^
 ||ksvkfwth.xyz^
@@ -10932,6 +10938,7 @@
 ||mcds7.icu^
 ||mcds9.icu^
 ||mcizas.com^
+||mckgmkh.icu^
 ||mcmod.cn/editor/upload/20221126/1669399546_2_ONBt.
 ||mcncc.com/yeyou/*.htm
 ||mcoreads.com^
@@ -14974,6 +14981,7 @@
 ||tdavopl.icu^
 ||tdhlmto.cn^
 ||tdhnxf.xyz^
+||tdhserg.cn^
 ||tdjdpyrt.xyz^
 ||tdljuuw.xyz^
 ||tdlyfz.xyz^
@@ -15671,6 +15679,7 @@
 ||uekmhvbb.xyz^
 ||ueumdkc.cn^
 ||ufile.cc/crod.js
+||ufjslit.top^
 ||uflybplr.xyz^
 ||ufz.doesxyz.com^
 ||ugbler.icu^
@@ -17876,6 +17885,7 @@
 ||zuiacg.com/images/client/
 ||zuofang05.com/template/mytheme/statics/image/1/
 ||zuowen.hydcd.com^
+||zutevd.xyz^
 ||zuugfj.cn^
 ||zuvbzl.xyz^
 ||zvasuzb.icu^
