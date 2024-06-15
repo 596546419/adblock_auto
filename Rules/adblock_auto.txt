@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: iCxUPkmXNDmCCaiPxTuqgQ
+! Checksum: eGZDED8tJg8C+VYKyEkNlA
 ! Title: 混合规则(自动更新)
-! Version: 20240615002504
+! Version: 20240615092435
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-15 00:25:04
-! Total Count: 146129
+! Last modified: 2024-06-15 09:24:35
+! Total Count: 146143
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -12741,6 +12741,7 @@
 ||bbnnnb.com^*.js
 ||bbphonix.xyz^
 ||bbqckhmgboal.xyz^
+||bbqoa.top^
 ||bbrdbr.com^
 ||bbrnpj.xyz^
 ||bbs.a9vg.com/showit/img_show.php
@@ -17349,6 +17350,7 @@
 ||cdn.porngames.tv/images/videos
 ||cdn.pranmcpkx.com^
 ||cdn.preciso.net^
+||cdn.pubnub.com^
 ||cdn.pushalert.co^
 ||cdn.pushmaster-cdn.xyz^
 ||cdn.qc24h.com^
@@ -29002,6 +29004,7 @@
 ||fa77756437.com^
 ||fa9b667e4e.com^
 ||faachen.cn^
+||faaqgje.icu^
 ||fabricww.com^
 ||fabriczigzagpercentage.com^
 ||fabrkrup.com^
@@ -30711,6 +30714,7 @@
 ||foghug.site^
 ||fogl1onf.com^
 ||fognvcteac.com^
+||fogolakda.top^
 ||fogpurply.website^
 ||fogramokayed.com^
 ||fogsham.com^
@@ -36312,6 +36316,7 @@
 ||heukwasanasosett.info^
 ||heusysianedu.com^
 ||hevc.site^
+||hevctt.xyz^
 ||hevdnzqu.com^
 ||hevinauw.net^
 ||hevuabv.cn^
@@ -55531,6 +55536,7 @@
 ||ofhunch.com^
 ||ofhypnoer.com^
 ||ofitstefukste.org^
+||ofjslik.top^
 ||ofkcww.xyz^
 ||ofkvdwqimwxnm.com^
 ||ofleafeona.com^
@@ -56685,6 +56691,7 @@
 ||osalwqv.cn^
 ||osancik.top^
 ||osangauh.net^
+||osanyc.xyz^
 ||osarmapa.net^
 ||osaud.com^
 ||osaunsot.net^
@@ -62343,6 +62350,7 @@
 ||pwwghcyzsn.info^
 ||pwwqkppwqkezqer.site^
 ||pwxerujvl.com^
+||pwxlbsie.icu^
 ||pwxmwmoyuobgku.com^
 ||pwxtock.com^
 ||pwxueuocf.com^
@@ -71377,6 +71385,7 @@
 ||sowlettuce.com^$third-party
 ||sowp.cloud^
 ||sowsuwm.icu^
+||sowx.cn^
 ||soxscc.org/wsc/
 ||soyjlnfatgxpfd.com^
 ||soysapslad.com^
@@ -94457,6 +94466,7 @@ boldsky.com,drivespark.com,filmibeat.com,gizbot.com,goodreturns.in,nativeplanet.
 boldsky.com,drivespark.com,filmibeat.com,gizbot.com,goodreturns.in,nativeplanet.com,oneindia.com##.cmscontent-left-article
 boldsky.com,drivespark.com,filmibeat.com,gizbot.com,goodreturns.in,nativeplanet.com,oneindia.com##.cmscontent-right1
 boldsky.com,drivespark.com,filmibeat.com,gizbot.com,goodreturns.in,nativeplanet.com,oneindia.com##.oiad-txt
+bole90.com###xy_toast_ad
 bollyflix.asia##img[src^="https://www-opensocial.googleusercontent.com/gadgets/proxy?"]
 bollyflix.baby,bollyflix.loan,bollyflix.nexus,downloadlagu321.site,dramacool.sr,uwatchfre.cam,uwatchfree.be##iframe[style*="z-index: 2147483646"]
 bollywoodlife.com##.combinedslots
@@ -96733,6 +96743,8 @@ dongao.com##div[class^="fu_"]
 dongknows.com##.dkt-amz-deals
 dongknows.com##.dkt-banner-ads
 doodrive.com##.uk-margin > [href] > img
+doordash.com##.carousel-virtual-wrapper:has([href*="collection_type=sponsored_brand"])
+doordash.com##.ccdtLs:has([data-testid="sponsored:Sponsored"])
 doordash.com##div:has(> a[data-anchor-id="SponsoredStoreCard"])
 dorset.live,liverpoolecho.co.uk##.fixed-slots
 doseofporn.com##a[href^="/go/istripper"]
@@ -97450,11 +97462,11 @@ etest8.com###gads1
 etest8.com##.subtop2right
 etherealgames.com###widgets-wrap-after-content
 etherealgames.com###widgets-wrap-before-content
-etherscan.io###t8xt5pt6kr-0-1
 etherscan.io##.border-top
 etherscan.io##.dxddkdcp7wz
 etherscan.io##[data-t8xt5pt6kr-seq="0"]
 etherscan.io##a[href^="https://goto.etherscan.com/"] > img
+etherscan.io,polygonscan.com###t8xt5pt6kr-0-1
 etnet.com.cn##.firstAD
 etonline.com##.leader-inc
 etonline.com##.omni-skybox-plus-stick-placeholder
@@ -110520,6 +110532,8 @@ yesky.com##.abox
 yesky.com##.down_referer
 yesky.com##.down_referer + .bottom
 yesky.com##.down_referrer
+yesky.com##.main_left_advertisement
+yesky.com##.rightGg
 yesky.com##div[class^="ad1"]
 yesky.com##div[class^="ad2"]
 yesky.com##div[class^="ad3"]

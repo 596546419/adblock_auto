@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: itWvOoQvzOkOgtUURW8rWQ
+! Checksum: zNwbXvi9eYAtT6inqZeC9w
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240615002515
+! Version: 20240615092447
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-15 00:25:15
-! Total Count: 28040
+! Last modified: 2024-06-15 09:24:47
+! Total Count: 28045
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6988,6 +6988,7 @@
 ||f8dy.tv/template/m1938/js/b
 ||f8dy.tv/template/m1938/js/foot.js
 ||f9s6.top^
+||faaqgje.icu^
 ||fabulousterritory.com^$third-party
 ||fabuye.vip/zhuanfa/
 ||facai383.oss-cn-guangzhou.aliyuncs.com^
@@ -8271,6 +8272,7 @@
 ||hesramfi.com^
 ||hesrod.icu^
 ||hetang123.com/assets/public/$script
+||hevctt.xyz^
 ||hexcvb.xyz^
 ||hexun.*/hxpage/index.html
 ||hexun.com*/hx_news/hx_news_finalpage.js
@@ -11900,6 +11902,7 @@
 ||offerwall.yandex.net^
 ||ofgsqic.cn^$document
 ||ofgsqic.cn^$~third-party
+||ofjslik.top^
 ||ofkcww.xyz^
 ||ofweek.com/pop/ad/
 ||og.zyzjpx.cn^$third-party
@@ -12044,6 +12047,7 @@
 ||os.scmpacdn.com^
 ||osafsr.xyz^
 ||osancik.top^
+||osanyc.xyz^
 ||oschina.net/promotion/
 ||oschina.net/uploads/ad/
 ||oschina.net/uploads/cooperation/
@@ -14439,6 +14443,7 @@
 ||soutubot.moe/static/airport
 ||sowlettuce.com^$third-party
 ||sowsuwm.icu^
+||sowx.cn^
 ||sozi.cn/images/tj/downad
 ||sozi.cn/images/tj/hukead.gif
 ||sozi.cn/images/tj/szdown
