@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: PdU0ruBOizC2BEIIbI7klA
+! Checksum: yfdSqdVzQfPeU+uf9YOgrA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240616002541
+! Version: 20240616093711
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-16 00:25:41
-! Total Count: 28052
+! Last modified: 2024-06-16 09:37:11
+! Total Count: 28057
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3203,6 +3203,7 @@
 ||adzmedia.com^
 ||adzmob.com^
 ||adzmobi.com^
+||adzo.cn^
 ||adzoc.com^
 ||adzonk.com^
 ||adzouk.com^$third-party
@@ -3218,6 +3219,7 @@
 ||aeletheacd.com^
 ||aerbgpn.xyz^
 ||aeucyo.xyz^
+||aeyyck.xyz^
 ||af29.com/banner/
 ||af9dc9.xyz^
 ||afafevk.com^
@@ -6474,6 +6476,7 @@
 ||dvclhmt.cn^
 ||dvdgayporn.com/wp-content/plugins/POit-*.js
 ||dvenkbn.icu^
+||dvgjx.cn^
 ||dvnqhdmze.xyz^
 ||dvnsdo.com^$third-party
 ||dvotlhs.cn^
@@ -12705,6 +12708,7 @@
 ||powedw.com^
 ||power.adhacker.online^$third-party
 ||powerlinks.com^
+||poxdpj.xyz^
 ||poxiao.com/template/default/images/12345.js
 ||poyang.com^
 ||pozrwj.icu^
@@ -17466,6 +17470,7 @@
 ||ytezym.xyz^
 ||ytjzqde.xyz^
 ||ytlcz.cn^
+||ytqeavc.icu^
 ||ytse*.top/Static/Home/GongGao/img/
 ||ytvrtrya.xyz^
 ||yu.dlxxjsh.top^

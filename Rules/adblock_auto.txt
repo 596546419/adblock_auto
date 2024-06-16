@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: GNJC0dsIfBY7WCxq9oc50Q
+! Checksum: M1Z4W0wYZP8U/Ierz/FqtQ
 ! Title: 混合规则(自动更新)
-! Version: 20240616002529
+! Version: 20240616093659
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-16 00:25:29
-! Total Count: 146149
+! Last modified: 2024-06-16 09:36:59
+! Total Count: 146195
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3538,6 +3538,7 @@
 ||97d73lsi.com^
 ||97e4ef7bf5.com^
 ||98.126.219.*/ads/
+||9814b49f.xyz^
 ||98158.com^
 ||9831tb.com^
 ||9857047066.com^
@@ -6012,9 +6013,11 @@
 ||ads.baoangiang.com.vn^
 ||ads.baobinhduong.vn^
 ||ads.baobinhthuan.com.vn^
+||ads.baocamau.vn^
 ||ads.baocantho.com.vn^
 ||ads.baodatviet.vn^
 ||ads.baohaiduong.vn^
+||ads.baolongan.vn^
 ||ads.baotainguyenmoitruong.vn^
 ||ads.betfair.com^
 ||ads.bkitsoftware.com^
@@ -6108,6 +6111,7 @@
 ||ads.mtgroup.kr^
 ||ads.museum.or.jp^
 ||ads.nghenhinvietnam.vn^
+||ads.nguoiduatin.vn^
 ||ads.nhadatmoi.net^
 ||ads.nicovideo.jp^
 ||ads.nordreportern.se^
@@ -6686,6 +6690,7 @@
 ||adurr.com^
 ||adutp.com^$third-party
 ||adv-adserver.com^
+||adv-analytics-collector.videograph.ai^
 ||adv-ettoday.cdn.hinet.net^
 ||adv-front.devpnd.com^
 ||adv-sv-show.focus.cn^
@@ -7001,6 +7006,7 @@
 ||adzmedia.com^
 ||adzmob.com^
 ||adzmobi.com^
+||adzo.cn^
 ||adzoc.com^
 ||adzonestatic.com^
 ||adzonk.com^
@@ -7072,6 +7078,7 @@
 ||aeucyo.xyz^
 ||aevpinebvmdhih.com^
 ||aevspdhb.com^
+||aeyyck.xyz^
 ||aezgnctgfqn.com^
 ||af-110.com^
 ||af-a.jp^
@@ -25360,6 +25367,7 @@
 ||drzgtli.com^
 ||ds-aksb-a.akamaihd.net^
 ||ds.11st.co.kr^
+||ds.ruanwengfa.com^
 ||ds1.kaijia.com^
 ||ds1.nl^
 ||ds3.biz^
@@ -25963,6 +25971,7 @@
 ||e10000.cn/Images/link_td01.gif
 ||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz^
 ||e1cd662960.com^
+||e1ce13d5.xyz^
 ||e1eacb6f88.com^
 ||e1jzk.cn^
 ||e2078be122.com^
@@ -26359,6 +26368,7 @@
 ||echaruropygi.com^
 ||echehalids.guru^
 ||echevintrunnel.top^
+||echinusandaste.com^
 ||echiovlhu.com^
 ||echnic.com^
 ||echo.biasdo.com^
@@ -26468,6 +26478,7 @@
 ||edgychancymisuse.com^
 ||edgyconnaterag.com^
 ||edhimasifiwoery.xyz^
+||edibleinvite.com^
 ||ediemidnightzombies.com^
 ||edifiedpristaw.top^
 ||edindeedeisas.com^
@@ -27141,6 +27152,7 @@
 ||embodimentpronounrunway.com^
 ||embodygoes.com^
 ||embogsoarers.com^
+||embolipokies.com^
 ||embrailcamino.top^
 ||embtrk.com^
 ||embulkglommed.com^
@@ -29156,6 +29168,7 @@
 ||faithfullyprotectionundo.com^
 ||faithfullywringfriendship.com^
 ||faithiqs.com^
+||faituzou.net^
 ||faiverty-station.com^
 ||faiwastauk.com^
 ||fajukc.com^
@@ -30498,6 +30511,7 @@
 ||floodingonion.com^
 ||floodprincipal.com^$third-party
 ||floodtender.com^
+||floorednightclubquoted.com^
 ||flopaugustserpent.com^
 ||flopexemplaratlas.com^
 ||floppytopo.com^
@@ -31620,6 +31634,7 @@
 ||fujigar.com^
 ||fujiladder.com^$third-party
 ||fujincenter.com^
+||fujnrh.xyz^
 ||fujoe.cyou^
 ||fujxujid.com^
 ||fulabachu.com^
@@ -32731,6 +32746,7 @@
 ||gervasdonatee.guru^
 ||gerybeeper.guru^
 ||geryi.com^
+||gesanbarrat.com^
 ||gessoesbeavers.uno^
 ||get-ads.ru^
 ||get-browseprotection.com^
@@ -33128,6 +33144,7 @@
 ||gimnsr.com^
 ||gimohhfzvmpdt.com^
 ||gimpingurubu.life^
+||gimpsgenips.com^
 ||gimwcpketr.com^
 ||gimy.*/images/eee*.png
 ||gin.co.il^
@@ -35550,6 +35567,7 @@
 ||happen.spkt.io^
 ||happenemerged.com^
 ||happeningdeliverancenorth.com^
+||happeningflutter.com^
 ||happeningurinepomposity.com^
 ||happi.cyou^
 ||happilydestructive.com^
@@ -36579,6 +36597,7 @@
 ||highrevenuecpmnetrok.com^
 ||highrevenuecpmnetwork.com^
 ||highrevenuegate.com^
+||highrevenuenetwork.com^
 ||hightech24h.com^
 ||hightles.com^
 ||hightopnews.com^
@@ -37391,6 +37410,7 @@
 ||hottercensorbeaker.com^
 ||hotterenvisage.com^
 ||hottesvideosapps.com^
+||hottielunn.com^
 ||hottopnow.com^
 ||hottraffic.nl^
 ||hotvids.online^
@@ -40792,6 +40812,7 @@
 ||itcameruptr.com^
 ||itcgin.net^
 ||itchess.cn^
+||itchhandwritingimpetuous.com^
 ||itchinglikely.com^
 ||itchingselfless.com^
 ||itchydesignate.com^
@@ -40972,6 +40993,7 @@
 ||ivoxua.socratos.net^
 ||ivr.com.tr^
 ||ivstracker.net^
+||ivtqo.com^
 ||ivudsuco.net^
 ||ivungurdoweg.com^
 ||ivurtdymntb.com^
@@ -44213,6 +44235,7 @@
 ||knowens.com^
 ||knowfloor.com^
 ||knowhowhuddler.tech^
+||knowledconsideunden.info^
 ||knowledgepretend.com^
 ||knowledgevine.net^
 ||knowmakeshalfmoon.com^
@@ -51436,6 +51459,7 @@
 ||morict.com^
 ||morionsluigini.digital^
 ||morlsbli.cyou^
+||mormonindianajones.com^
 ||mormont.gamer-network.net^
 ||morningamidamaruhal.com^
 ||morningglory101.io^
@@ -52523,6 +52547,7 @@
 ||mztqgmr.com^
 ||mztzba.cn^
 ||mzuspejtuodc.com^
+||mzwdiyfp.com^
 ||mzwfrp.cn^
 ||mzwzo.cn^
 ||mzxfrok.com^
@@ -55163,6 +55188,7 @@
 ||obduratedroppingmagnitude.com^
 ||obduratesettingbeetle.com^
 ||obduratewiggle.com^
+||obdzhnzqeg.com^
 ||obeajvasfvj.xyz^
 ||obediencechainednoun.com^
 ||obediencepulse.com^
@@ -56545,6 +56571,7 @@
 ||oralistnations.com^
 ||orallantyneth.com^
 ||oralmaliciousmonday.com^
+||oralsproxied.com^
 ||oranegfodnd.com^
 ||orangeads.fr^
 ||orangeclickmedia.com^
@@ -60683,6 +60710,7 @@
 ||powrpvuruejv.com^
 ||poxaharap.com^
 ||poxcgxylozny.com^
+||poxdpj.xyz^
 ||poxiao.com/template/default/images/12345.js
 ||poxykhakis.com^
 ||poxypicine.com^
@@ -61432,6 +61460,7 @@
 ||propulsionstatute.com^
 ||propulsionswarm.com^
 ||propvideo.net^
+||proreancostaea.com^
 ||prorentisol.com^
 ||prosboshas.com^
 ||proscholarshub.com^
@@ -62358,6 +62387,7 @@
 ||pwxtock.com^
 ||pwxueuocf.com^
 ||px*.mediahills.ru^
+||px.adfulplatform.com^
 ||px.adhigh.net^
 ||px.dmp.zaloapp.com^
 ||px.dynamicyield.com^
@@ -63680,6 +63710,7 @@
 ||qxknktdbftc.com^
 ||qxlidy.ink^
 ||qxlwpaxlwg.com^
+||qxmsmlkjwqz.com^
 ||qxplus.ru^
 ||qxpwiqydg.com^
 ||qxqtycvrm.com^
@@ -67530,6 +67561,7 @@
 ||sbseunl.com^
 ||sbteafd.com^
 ||sbvtrht.com^
+||sbxgipbks.com^
 ||sbxitxnmfxzyf.com^
 ||sbxsdvwfabvx.com^
 ||sbzawawkgjt.com^
@@ -73490,6 +73522,7 @@
 ||suchroused.com^
 ||suckae.xyz^
 ||suckfaintlybooking.com^
+||suckhoetainha.site^
 ||suclj.xyz^
 ||sucloud.xyz/js/tou.js
 ||sucocesisfulylyde.info^
@@ -75023,6 +75056,7 @@
 ||tartator.com^
 ||tartingfirming.space^
 ||tarttendency.com^$third-party
+||tarvardsusyseinpou.info^
 ||tarvegaudery.top^
 ||taryardtugged.com^
 ||taryarguestio.com^
@@ -76223,6 +76257,7 @@
 ||thuongmaivietnhat.com^
 ||thuongviet01.com^
 ||thuphedsaup.com^
+||thupsirsifte.xyz^
 ||thurnflfant.com^
 ||thursailso.com^
 ||thursdaydurabledisco.com^
@@ -77778,6 +77813,7 @@
 ||track.vtcnews.vn^
 ||track.wattpad.com^
 ||track.wildblue.com^
+||track.winigroup.vn^
 ||track.workablemetro.com^
 ||track.yetric.app^
 ||track.yfret.com^
@@ -79580,6 +79616,7 @@
 ||txtxr.com^
 ||txumirk.com^
 ||txwhfmxlmu.com^
+||txxtgnpqi.com^
 ||txzaazmdhtw.com^
 ||txzdbxtyhebo.com^
 ||txzepl.xyz^
@@ -80728,6 +80765,7 @@
 ||unwisecommence.com^
 ||unwitting-phrase.pro^
 ||unwodgtll.com^
+||unwontcajun.top^
 ||unwonttawpi.top^
 ||unwoobater.com^
 ||unworldfoxwood.top^
@@ -82011,6 +82049,9 @@
 ||vcxzp.com^
 ||vcydyzd.icu^
 ||vczypss.com^
+||vda.viettel.vn^
+||vdacdn1.viettel.vn^
+||vdacdn2.viettel.vn^
 ||vdbaa.com^
 ||vdbank.com.vn^
 ||vdc.zoomph.com^
@@ -86584,6 +86625,7 @@
 ||wwm24.de^
 ||wwnyubs.cn^
 ||wwoglde.top^
+||wworqxftyexcmb.xyz^
 ||wwow.xyz^
 ||wwoww.xyz^
 ||wwowww.xyz^
@@ -86761,6 +86803,7 @@
 ||wzdy.xyz^
 ||wzdzht7am5.com^
 ||wzguosutang.com^
+||wzhivixqjke.com^
 ||wzjs.me^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||wzk5ndpc3x05.com^
@@ -88079,6 +88122,7 @@
 ||xzelzfnj.xyz^
 ||xzewvqi.com^
 ||xzezapozghp.com^
+||xzfsymopzyls.com^
 ||xzhcedu.cn^
 ||xzji.com/data/block_js/softShow_
 ||xzl200107151017.ltd^
@@ -89223,6 +89267,7 @@
 ||ytop8.com^
 ||ytoworkwi.org^
 ||ytpae.xyz^
+||ytqeavc.icu^
 ||ytqnzvqfsr.com^
 ||ytsa.net^
 ||ytse*.top/Static/Home/GongGao/img/
@@ -90433,6 +90478,7 @@
 ||zoosnet.net^$third-party
 ||zoossoft.cn^$third-party
 ||zoossoft.net^
+||zoovagoo.com^
 ||zoozishooh.com^
 ||zopuqv.icu^
 ||zopvjn.xyz^
