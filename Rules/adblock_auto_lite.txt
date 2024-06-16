@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: yfdSqdVzQfPeU+uf9YOgrA
+! Checksum: yfU5mgwOWbJrjYfE2KPatw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240616093711
+! Version: 20240616162342
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-16 09:37:11
-! Total Count: 28057
+! Last modified: 2024-06-16 16:23:42
+! Total Count: 28059
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6406,6 +6406,7 @@
 ||dryden.cn^
 ||drydrum.com^$third-party
 ||drzgtli.com^
+||ds.ruanwengfa.com^
 ||ds1.kaijia.com^
 ||dsa22.com^
 ||dsbfpt.xyz^
@@ -7370,6 +7371,7 @@
 ||fuimg.com/1/66795b80a792fb96.png
 ||fuimg.com^$domain=678cn.com|cfzhushou.com
 ||fujiladder.com^$third-party
+||fujnrh.xyz^
 ||fujoe.cyou^
 ||fulibac.com/images/upload/ad/
 ||fulibl.com/wp-content/uploads/2016/06/320-230.jpg

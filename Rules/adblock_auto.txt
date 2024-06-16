@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: M1Z4W0wYZP8U/Ierz/FqtQ
+! Checksum: 31UsPCo0A0dFZpF9+iv8tQ
 ! Title: 混合规则(自动更新)
-! Version: 20240616093659
+! Version: 20240616162330
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-16 09:36:59
-! Total Count: 146195
+! Last modified: 2024-06-16 16:23:30
+! Total Count: 146197
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -72144,6 +72144,7 @@
 ||ssnn.net^*-200-250.jpg
 ||ssnnn.net^
 ||ssnoownmb.fun^
+||sso-garena.vn^
 ||sso-hotro-taikhoan.com^
 ||ssooss.site^
 ||ssp*.rtb.beeline.ru^
@@ -73606,6 +73607,7 @@
 ||sukien-latquaff.com^
 ||sukien-lienminh.com^
 ||sukien-lienminhtocchien.site^
+||sukien-lienquanmobile.com^
 ||sukien-lmht.com^
 ||sukien-lq-garena.com^
 ||sukien-nhanqua-garena.com^
