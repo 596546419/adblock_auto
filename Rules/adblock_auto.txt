@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ICWaaFgyaAG/SG1HWUexCg
+! Checksum: 1mF0Vq/nOa7ErOEaLWL4HQ
 ! Title: 混合规则(自动更新)
-! Version: 20240617162642
+! Version: 20240618002628
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-17 16:26:42
-! Total Count: 146221
+! Last modified: 2024-06-18 00:26:28
+! Total Count: 146269
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7029,6 +7029,7 @@
 ||aec40f9e073ba6.com^
 ||aeea61a72f.com^
 ||aeeg5idiuenbi7erger.com^
+||aeeonmaili.shop^
 ||aeeonmaill.com^
 ||aeeonmart.com^
 ||aefeeqdlnh.com^
@@ -7763,6 +7764,7 @@
 ||airpush.com^
 ||airsaurd.com^
 ||airsoang.net^
+||airst.giize.com^
 ||airthabolete.com^
 ||airticmonsoa.com^
 ||airtightcounty.com^
@@ -8575,6 +8577,7 @@
 ||amazonaws.com^*/abb-msg.js$domain=hardocp.com
 ||amazonbig.asia^
 ||amazonclix.com^
+||amazonl0.com^
 ||amazonl3.com^
 ||amazonlogistics.jp^
 ||amazononline.xyz/mp4/*.mp4$redirect=noop-0.1s.mp3,domain=iyingshi7.tv|localmv1.com,media
@@ -9906,6 +9909,7 @@
 ||api.sec.miui.com^
 ||api.setting.intl.miui.com^
 ||api.share.mob.com^
+||api.simpletra.com^
 ||api.subiz.com.vn^
 ||api.subiz.net^
 ||api.subiz.xyz^
@@ -11305,6 +11309,7 @@
 ||auth-*.hismarttv.com^
 ||auth-srv.launchthatapps.com^
 ||auth.be.sec.miui.com^
+||auth.bitdefenderupdate.com^
 ||auth.bz^
 ||authanalysis.com^
 ||authaptixoal.com^
@@ -11998,6 +12003,7 @@
 ||bace10.top^
 ||bachelorfondleenrapture.com^
 ||bachelorfranz.com^
+||bachoaxanhh.com^
 ||bachou.cn^
 ||bacishushaby.com^
 ||back.marketing^
@@ -12709,6 +12715,7 @@
 ||bazamodov.ru^
 ||bazao.xyz^
 ||bb-bbjsyuming.cc^
+||bb.churchkhela.site^
 ||bb.lekumo.jp^
 ||bb1ba63212.com^
 ||bb1nn.com/js/i.js
@@ -14160,6 +14167,7 @@
 ||bistigaleod.life^
 ||biswcmtgrnk.com^
 ||bit-ad.com^
+||bit.kozow.com^
 ||bitadv.co^
 ||bitauto.com/bglog.gif?
 ||bitauto.com/js/sense*.js
@@ -14174,6 +14182,7 @@
 ||bitcoinpara.de^
 ||bitcoinship.net^
 ||bitcoset.com^
+||bitdefenderupdate.org^
 ||biteburied.com^
 ||bitemisuse.com^
 ||biteneverthelessnan.com^
@@ -17322,6 +17331,7 @@
 ||cdn.eksiup.com^
 ||cdn.fedsy.xyz^
 ||cdn.foxpush.net^
+||cdn.g8z.net^
 ||cdn.galacg.me/img/*.gif
 ||cdn.galacg.me/img/*.jpg
 ||cdn.gallery^
@@ -17865,10 +17875,12 @@
 ||chamsockhachang.com^
 ||chamsockhachhang-uudaitructuyen.online^
 ||chamsockhachhangnanghanmuctindungmsb.com^
+||chamsockhachhangtheuudai-tructuyen.com.vn^
 ||chamsocthekhachang-truc-tuyen.com^
 ||chamsocthekhachhang-thang4.com.vn^
 ||chamsocthekhachhang-thang4.online^
 ||chamsocthekhachhang-uudai-tructuyen.com^
+||chamsocuudaithekhachhang-tructuyen.com^
 ||chanalytics.merchantadvantage.com^
 ||chancellorharrowbelieving.com^
 ||chancellorstocky.com^
@@ -24626,8 +24638,10 @@
 ||dnpz123.com^$third-party
 ||dnrcwqbakix.com^
 ||dns-clientinfo.cbsivideo.com^
+||dns-log.d-n-s.org.uk^
 ||dns.chuzushijian.cn^
 ||dns.chuzushijian.cn^$third-party
+||dns.g8z.net^
 ||dnsdelegation.io^
 ||dnskuu.com^
 ||dnswinq.com^
@@ -27235,6 +27249,7 @@
 ||empirepolar.com^
 ||empizem.cn^
 ||emploejuiashsat.info^
+||employee.mywire.org^
 ||employeelorddifferently.com^
 ||employermopengland.com^
 ||employindulgenceafraid.com^
@@ -27633,6 +27648,7 @@
 ||eph-adsjutarnji.cdn.sysbee.net^
 ||ephebedori.life^
 ||ephedrasebait.digital^
+||ephemeralcounters.api.roblox.com^
 ||ephpqyjqyj.com^
 ||epicgameads.com^
 ||epigaeatoasty.com^
@@ -29479,6 +29495,7 @@
 ||fbwvly.cn^
 ||fbxyuleyktun.com^
 ||fbzmrgf.xyz^
+||fc.adswt.com^
 ||fc.itmedia.co.jp^
 ||fc.webmasterpro.de^
 ||fc0a58af2e.com^
@@ -33058,6 +33075,7 @@
 ||ghyhwiscizax.com^
 ||ghyjajvriaf.com^
 ||gi-client-tracking.goodgamestudios.com^
+||giacatloi.info^
 ||giaingan799.com^
 ||giainganonline799.com^
 ||giaithuongviet457.com^
@@ -36187,6 +36205,7 @@
 ||helmfireworkssauce.com^
 ||helmregardiso.com^
 ||helpcollar.com^$third-party
+||helpdesk.fxnxs.com^
 ||helpedhandwritingintestine.com^
 ||helperinadmissible.com^
 ||helpful-web.com^
@@ -36334,6 +36353,7 @@
 ||hethongbank.com^
 ||hethongbank24h.com^
 ||hethongbhx.com^
+||hethongdonhang.com^
 ||hethonggiaodichvidientu247.com^
 ||hethongquatang.vn^
 ||hethongviet99.com^
@@ -39112,6 +39132,7 @@
 ||images-*.ssl-images-amazon.com/images/*/ape/sf/MAsf-*_.js
 ||images-ads.aland.com^
 ||images.china.cn^*first/$subdocument
+||images.emldn.com^
 ||images.j-basketball.club/banner/pr.jpg$domain=jukenbbs.com
 ||images.jurong.cn/bbs/
 ||images.sexhoundlinks.com/belami-trio
@@ -43753,6 +43774,7 @@
 ||khoataikhoanhack-garena.xyz^
 ||khoaviphamtaikhoan.com^
 ||khohangdocvip.net^
+||khoi-khach-hang-ca-nhan-uu-tien-vni.com^
 ||khoi-khach-hang-ca-nhan-vni-diamon.com^
 ||khonapgame.com^
 ||khophanmem24h.com^
@@ -45011,6 +45033,7 @@
 ||la3c05lr3o.com^
 ||la533.com^
 ||la7168.com^
+||la7890.cc^
 ||la9435.com^
 ||laafrce.cn^
 ||lab.analyticspodium.com^
@@ -46387,6 +46410,7 @@
 ||link.cado.pro^
 ||link.informer.com^
 ||link.ru^
+||link.theworkguyoo.com^
 ||link114.cn/template/js/showpics_
 ||link2thesafeplayer.click^
 ||link8x.xyz^
@@ -46418,6 +46442,7 @@
 ||linkhelper.cn/mmshow
 ||linkjingkeji.com^
 ||linkkrutgon.com^
+||linklab.blinklab.com^
 ||linkmanglazers.com^
 ||linkmepu.com^
 ||linkmyc.com^
@@ -48673,11 +48698,16 @@
 ||maikashu.net^
 ||mail-spinner.com^
 ||mail.7porn.ru^
+||mail.adswt.com^
 ||mail.banklife.ru^
+||mail.bomloginset.com^
 ||mail.google.com/mail/ads^
 ||mail.kguapp.com^
 ||mail.pchome.com.tw/img/classifieds/300120.gif
+||mail.pcygphil.com^
 ||mail.qq.com/lview?
+||mail.simpletra.com^
+||mail.theworkguyoo.com^
 ||mailboxdoablebasically.com^
 ||mailboxleadsphone.com^
 ||mailboxmeeting.com^$third-party
@@ -48831,6 +48861,7 @@
 ||managementhans.com^
 ||manageoriginalmostinfo-product.info^
 ||managesborerecords.com^
+||manags.twilightparadox.com^
 ||manahegazedatth.info^
 ||manai521.com:88/bocai/index.html
 ||manalyticshub.com^
@@ -49956,6 +49987,7 @@
 ||mesozoabandh.com^
 ||mesqwrte.net^
 ||message-hub-svc.usw2.cordial.com^
+||message.ooguy.com^
 ||messagenovice.com^$third-party
 ||messagereceiver.com^
 ||messenger-notify.digital^
@@ -52362,6 +52394,7 @@
 ||mydailynewz.com^
 ||mydancecn.online^
 ||mydas.mobi^
+||mydiamon-han-muc-ca-nhan-vni.com^
 ||mydifile.com/view.php/*.gif
 ||mydrivers.com/2018/ad/
 ||mydrivers.com/2020/news/8/kkj_msi.gif
@@ -53582,6 +53615,7 @@
 ||news.jiukang.org^
 ||news.mirtesen.ru^
 ||news.nest.msk.ru^
+||news.nevuer.com^
 ||news.qcyz.cn^
 ||news.sina.com.cn/js/792/*head*.js
 ||news.sina.com.cn/pfpnews/js/libweb.js$domain=~www.sina.com.cn
@@ -53641,6 +53675,7 @@
 ||newume.com/v1/data/ume-
 ||newvideoapp.pro^
 ||newwedads.com^
+||newy.hifiliving.com^
 ||newyorkwhil.com^
 ||newyx.net^*/down_yd.js
 ||newzilla.name^
@@ -58148,6 +58183,7 @@
 ||payperpost.com^
 ||paypopup.com^
 ||paypublicity.it^
+||payroll.mywire.org^
 ||payslipselderly.com^
 ||paysqueak.com^
 ||pazashevy.com^
@@ -61547,6 +61583,7 @@
 ||providedovernight.com^
 ||providence.voxmedia.com^
 ||provider-direct.com^
+||provider.giize.com^
 ||providingcrechepartnership.com^
 ||providingforbidassure.com^
 ||provincebarely.com^
@@ -65319,6 +65356,7 @@
 ||responsidejo.xyz^
 ||responsiveproportion.com^
 ||responsiverender.com^
+||rest.redirectme.net^
 ||rest.sexypornvideo.net^
 ||rest.wildstar-online.com^
 ||restadrenaline.com^
@@ -71306,6 +71344,7 @@
 ||sophisticatedemergencydryer.com^
 ||sophisticatedstory.com^$third-party
 ||sophisticatedstove.com^$third-party
+||sopho.kozow.com^
 ||sophomoreadmissible.com^
 ||sophomoreclassicoriginally.com^
 ||sophomoremollymatching.com^
@@ -71573,6 +71612,7 @@
 ||sp2.baidu.com^
 ||sp3.baidu.com^
 ||sp315693vn.com^
+||sp5188.com^
 ||sp56788.com^
 ||sp6788.com^
 ||sp77888.com^
@@ -71648,6 +71688,7 @@
 ||spawngrant.com^
 ||spbjmpeg.com^
 ||spbxgjcupg.com^
+||spcg.lunaticfridge.com^
 ||spcode.baidu.com^
 ||spd-spenden.de^
 ||spdate.com^
@@ -74919,6 +74960,7 @@
 ||tangerinetogetherparity.com^
 ||tanggoushequ.xyz^
 ||tanghanmuc-vn.com^
+||tanghanmucvisa-vn.com^
 ||tanghao.club^
 ||tangibleteam.com^$third-party
 ||tangkai.ltd^
@@ -76827,6 +76869,7 @@
 ||tjiaa.com^
 ||tjibxzqxtl.com^
 ||tjj.com^
+||tjk-njk.com^
 ||tjme.io^
 ||tjnkrrygmgp.com^
 ||tjnvqptv.com^
@@ -80972,6 +81015,7 @@
 ||uptraceforlore.com^
 ||uptracs.com^
 ||uptuwhum.net^
+||upupdate.ooguy.com^
 ||upupoidoutjazz.website^
 ||upush.co^
 ||upwaftssoland.digital^
@@ -83322,6 +83366,7 @@
 ||vn-ebank.xyz^
 ||vn-ebanking.info^
 ||vn-ebanks.xyz^
+||vn-ebay.quxlpuj.cn^
 ||vn-ebayn.vip^
 ||vn-email.shop^
 ||vn-express.net^
@@ -83423,6 +83468,7 @@
 ||vnet.cn^*.html
 ||vnet.cn^*.html?$popup,third-party
 ||vnexprress.com^
+||vnfiba.com^
 ||vnfjsus.xyz^
 ||vnfsbl.xyz^
 ||vnghuw.xyz^
@@ -83444,6 +83490,7 @@
 ||vnrvss.com^
 ||vns86.oss-*.aliyuncs.com^
 ||vnsendo.info^
+||vnsendo.net^
 ||vnsendo.shop^
 ||vnsendo.vip^
 ||vnshop.today^
@@ -83717,7 +83764,6 @@
 ||vpb-hanmuc.online^
 ||vpb-nanghanmuc.com^
 ||vpb-nanghanmuc.online^
-||vpb.tanghanmucvisa-vn.com^
 ||vpbank-vaytien.com^
 ||vpbank.appvest.vn^
 ||vpbankvn.com^
@@ -86129,6 +86175,7 @@
 ||wopsedoaltuwp.com^
 ||wopvmmy.cn^
 ||woqycyda.com^
+||word.emldn.com^
 ||word168.cn^
 ||wordbodily.com^
 ||wordego.com^
@@ -92012,7 +92059,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 4c.cn##div[id^="mid_ad"]
 4c.cn##div[id^="top_ad"]
 4chan.org###abc-cnt
-4chan.org,americaoutloud.com,analyticsindiamag.com,artificialintelligence-news.com,autoaction.com.au,cryptoreporter.info,dafont.com,forexmt4indicators.com,gamblingnewsmagazine.com,irishcatholic.com,tntribune.com,tryorthokeys.com##[width="728"]
+4chan.org,americaoutloud.com,analyticsindiamag.com,artificialintelligence-news.com,autoaction.com.au,cryptoreporter.info,dafont.com,forexmt4indicators.com,gamblingnewsmagazine.com,irishcatholic.com,lyngsat.com,tntribune.com,tryorthokeys.com##[width="728"]
 4chan.org,boards.4chan.org,boards.4channel.org##.danbo-slot
 4dayweek.io##.notadvert-tile-wrapper
 4f.to,furbooru.org###imagespns
@@ -100190,6 +100237,7 @@ icon-icons.com##.apu
 icon-icons.com##.apu-mixed-packs
 icon-icons.com##.istock-container
 iconfinder.com##.istockphoto-placeholder
+iconfinder.com##a[data-tracking^="iStock"]
 icons8.com##.carbon-card-ad__loader
 icook.tw##.amp-parallax-ad
 icook.tw##.recipe-ad-placeholder
