@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Np12POBX6/wEoXz+n7exug
+! Checksum: VOZBdSMb/+U6JDvYiGuVZA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240617092750
+! Version: 20240617162654
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-17 09:27:50
-! Total Count: 28064
+! Last modified: 2024-06-17 16:26:54
+! Total Count: 28067
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -920,6 +920,7 @@
 ||6080w.com/template/ttk/img/
 ||609999.xyz^
 ||60cjstatic.wow-classic.com/assets/application-*.js
+||60jxn4.xyz^
 ||61.10.2.86/dev/xopen.php
 ||614514.com^
 ||61586.shop^*.gif
@@ -13454,6 +13455,7 @@
 ||rfto9i.icu^
 ||rfxnff.xyz^
 ||rgdcrt.xyz^
+||rghbvp.xyz^
 ||rghqrj.xyz^
 ||rgpujh.xyz^
 ||rgyfqq.com^
@@ -14843,6 +14845,7 @@
 ||szbxm.cn^
 ||szbxw.cn^
 ||szbzp.cn^
+||szdgl.cn^
 ||szdpk.cn^
 ||szfcol.com/images/wxright240.jpg
 ||szfcol.com/js/siteAd.js
