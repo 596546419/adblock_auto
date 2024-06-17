@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Z+LYeCGhm1LJOPXI+61Ucg
+! Checksum: C845pSQ8LmHS4AXSrMORpg
 ! Title: 混合规则(自动更新)
-! Version: 20240617002354
+! Version: 20240617092738
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-17 00:23:54
-! Total Count: 146197
+! Last modified: 2024-06-17 09:27:38
+! Total Count: 146214
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -12307,6 +12307,7 @@
 ||balldomcheders.top^
 ||ballersclung.top^
 ||ballinghelonin.com^
+||ballisticforgotten.com^
 ||ballive.*/addm/
 ||ballnotre.space^
 ||balloonbit.com^$third-party
@@ -17505,6 +17506,7 @@
 ||cdojukbtib.com^
 ||cdolhlwq.xyz^
 ||cdosagebreakfast.com^
+||cdoshbf.top^
 ||cdp.asia^
 ||cdp.cloud.unity3d.com^
 ||cdp.vemt.com^
@@ -17683,6 +17685,7 @@
 ||cervixskips.com^
 ||ces2007.org^
 ||cesareurope.com^
+||ceschemicalcovenings.info^
 ||ceseasons.com^
 ||cesebsir.xyz^
 ||cesebtp.com^
@@ -28055,6 +28058,7 @@
 ||etingplansfo.buzz^
 ||etingplansfor.org^
 ||etiquettegrapesdoleful.com^
+||etjui.cn^
 ||etjxkvdorypmppp.com^
 ||etkf44.com^
 ||etkht.cn^
@@ -50661,6 +50665,7 @@
 ||mjtwoqupix.com^
 ||mjudrkjajgxx.xyz^
 ||mjvnpybcakx.com^
+||mjxlfwvirjmt.com^
 ||mjxtiht.cn^
 ||mjxvufetukfrav.com^
 ||mjzrebrjty.com^
@@ -51724,6 +51729,7 @@
 ||mqsjzm.cn^
 ||mqsnce.xyz^
 ||mquawbxc.com^
+||mqwmgs.xyz^
 ||mqxnid.cn^
 ||mqznjujv.xyz^
 ||mr-rank.de^
@@ -52490,6 +52496,7 @@
 ||mysweetteam.com^
 ||mytanwan.com^$third-party
 ||myteamdev.com^
+||mythicsallies.com^
 ||mythings.com^
 ||mytictac.com^
 ||mytiris.com^
@@ -53151,6 +53158,7 @@
 ||nczsks.com/SCWB/WebResource.axd
 ||nczxuga.com^
 ||ndandinter.hair^
+||ndaymidydlesswale.info^
 ||ndbaxn.xyz^
 ||ndblowthroug.info^
 ||ndccouuyotn.com^
@@ -54980,6 +54988,7 @@
 ||nxwrgrymkfp.com^
 ||nxxyjn.com^
 ||nxyerol.cn^
+||nxymehwu.com^
 ||ny5159.com^$third-party
 ||ny77jj.washingtonpost.com^
 ||nyaa.*/static/js/ccheck.js
@@ -59914,6 +59923,7 @@
 ||plyuwqq.cn^
 ||plywoodenchant.com^
 ||plywoodfact.com^
+||plzblz.xyz^
 ||pm.azerioncircle.com^
 ||pm.boostintegrated.com^
 ||pm.poqwua.cn^
@@ -62528,6 +62538,7 @@
 ||qadservice.com^
 ||qaebaywbvqqez.top^
 ||qagkyeqxv.xyz^
+||qahssrxvelqeqy.xyz^
 ||qajgarohwobh.com^
 ||qajwizsifaj.com^
 ||qakdki.com^
@@ -66392,6 +66403,7 @@
 ||rrjc.com/home/seo/ad/
 ||rrjnjnioxfbqaj.com^
 ||rrkky.top^
+||rrkouuz.icu^
 ||rrll.love^
 ||rrmlejvyqebk.top^
 ||rrnhilainbjii.com^
@@ -74880,6 +74892,7 @@
 ||tamgrt.com^
 ||taminystopgap.com^
 ||tammenaa.com^
+||tamperdepreciate.com^
 ||tamperlaugh.com^
 ||tamperstationerycultivate.com^
 ||tampinbecker.com^
@@ -80960,6 +80973,7 @@
 ||upwardsbenefitmale.com^
 ||upwardsdecreasecommitment.com^
 ||upwardunderground.com^
+||upwxneakm.com^
 ||upxip.xyz^
 ||upyerxzn.xyz^
 ||upytsgo.cn^
@@ -87789,6 +87803,7 @@
 ||xsdizch.cn^
 ||xsell.6waves.com^
 ||xsfajf.xyz^
+||xsfcqjtkkjdp.com^
 ||xsjc4smhbyjf.com^
 ||xsjh001.xyz^
 ||xsjh002.xyz^
@@ -88777,6 +88792,7 @@
 ||yk9s.top^
 ||ykad-data.youku.com^
 ||ykakassg.com^
+||ykbwiiafufwke.com^
 ||ykdwyf.com^
 ||ykg5.cn^
 ||ykgfcs.xyz^
@@ -108174,6 +108190,7 @@ thetimes.co.uk##[class*="responsiveweb__NativeAd"]
 thetimes.co.uk##[class^="responsive__InlineAdWrapper-"]
 thetimes.com##.Sticky-AdContainer
 thetimes.com##.responsive__InlineAdWrapper-sc-4v1r4q-14
+thetimes.com##article[id="article-main"] > div:has(#ad-header)
 thetowner.com##.powered
 thetoyinsider.com##.apb-adblock
 thetoyinsider.com##.header-drop-zone

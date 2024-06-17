@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: gQ8RotV8bnuaEss9mt0tFQ
+! Checksum: Np12POBX6/wEoXz+n7exug
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240617002405
+! Version: 20240617092750
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-17 00:24:05
-! Total Count: 28059
+! Last modified: 2024-06-17 09:27:50
+! Total Count: 28064
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5098,6 +5098,7 @@
 ||cdntxt.com/t2/
 ||cdnu.porndoe.com/static/pop/slide-in/*.mp4
 ||cdolhlwq.xyz^
+||cdoshbf.top^
 ||cdp.cloud.unity3d.com^
 ||cdrvkdni.xyz^
 ||cdsa2.icu^
@@ -6887,6 +6888,7 @@
 ||etf88.com/swf/
 ||etherealquasar.com^$third-party
 ||etienlw.top^
+||etjui.cn^
 ||etkht.cn^
 ||etl.tindersparks.com^
 ||etnet.com.hk/ad/
@@ -11326,6 +11328,7 @@
 ||mqrupjsm.xyz^
 ||mqsjzm.cn^
 ||mqsnce.xyz^
+||mqwmgs.xyz^
 ||mqxnid.cn^
 ||mqznjujv.xyz^
 ||mr956.xyz^
@@ -12463,6 +12466,7 @@
 ||plugin.mediavoice.com^$third-party
 ||plugin.mobopay.baidu.com^
 ||plx.porndig.com^
+||plzblz.xyz^
 ||pm.poqwua.cn^
 ||pmb*.tj.ali213.net/js/
 ||pmblrt.xyz^
@@ -13581,6 +13585,7 @@
 ||rr.pochengweiyuan.com^$third-party
 ||rr3r.com/requestData.
 ||rrfccx.com^
+||rrkouuz.icu^
 ||rrxddl.xyz^
 ||rryy99.com/statics/js/stat.js
 ||rrzxlt.xyz^
