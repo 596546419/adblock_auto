@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: iqe5zAwgFv5Fv3dgzgnFyw
+! Checksum: ESLn6jYxuBCttNCb9Y9Jpw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240618092541
+! Version: 20240618162709
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-18 09:25:41
-! Total Count: 28073
+! Last modified: 2024-06-18 16:27:09
+! Total Count: 28077
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5869,6 +5869,7 @@
 ||dajiazhao.com/login/reg.js
 ||dajkqqpz.top^
 ||dakang-energy.com^
+||daksflkalq.top^
 ||daliantong.com.cn^$third-party
 ||dalipan.com/api/taobao
 ||dalld.xyz^
@@ -6091,6 +6092,7 @@
 ||dftoutiao.com/ssp/
 ||dfu7.com/JiaYou/sogou
 ||dfvarz.xyz^
+||dfvmzx.xyz^
 ||dfvvx58.com^
 ||dfxvkgz.xyz^
 ||dfyl.eeeeehfghrq555^$document
@@ -7138,6 +7140,7 @@
 ||ffbjhl.xyz^
 ||ffmehcg.cn^$third-party
 ||fg.knlk2md.cn^$third-party
+||fgadsqdma.top^
 ||fgcxdr.cn^
 ||fgdtln.xyz^
 ||fgetmzx.icu^
@@ -17078,6 +17081,7 @@
 ||xv.leirsw.com^
 ||xv98.com/js/daohang
 ||xv98.com/js/hengfu
+||xvbcjh.xyz^
 ||xvbjctqs.xyz^
 ||xvbnrh.xyz^
 ||xvgrszkg.xyz^

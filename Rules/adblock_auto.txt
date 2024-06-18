@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: WcS2wG3LzEcGFb0qfiuh9w
+! Checksum: vvku1DbVZ7BoSw0z0+POGg
 ! Title: 混合规则(自动更新)
-! Version: 20240618092529
+! Version: 20240618162657
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-18 09:25:29
-! Total Count: 146303
+! Last modified: 2024-06-18 16:26:57
+! Total Count: 146308
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -22324,6 +22324,7 @@
 ||dakeshi.top^
 ||dakine.com.se^
 ||dakjddjerdrct.online^
+||daksflkalq.top^
 ||dalecigarexcepting.com^
 ||dalecta.com^
 ||daleperceptionpot.com^
@@ -23609,6 +23610,7 @@
 ||dfuaqw.com^
 ||dfvarz.xyz^
 ||dfvlaoi.com^
+||dfvmzx.xyz^
 ||dfvvx58.com^
 ||dfwskw7.com^
 ||dfxvkgz.xyz^
@@ -29942,6 +29944,7 @@
 ||ffz-garena-membership.com^
 ||fg-z.com^
 ||fg.knlk2md.cn^$third-party
+||fgadsqdma.top^
 ||fgbthrsxnlo.xyz^
 ||fgcxdr.cn^
 ||fgddrrr.com^
@@ -88023,6 +88026,7 @@
 ||xv98.com/js/daohang
 ||xv98.com/js/hengfu
 ||xvaeqgtbnunpkff.com^
+||xvbcjh.xyz^
 ||xvbjctqs.xyz^
 ||xvbnrh.xyz^
 ||xvbtdwdelhhxe.com^
@@ -92083,7 +92087,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 4c.cn##div[id^="mid_ad"]
 4c.cn##div[id^="top_ad"]
 4chan.org###abc-cnt
-4chan.org,americaoutloud.com,analyticsindiamag.com,artificialintelligence-news.com,autoaction.com.au,cryptoreporter.info,dafont.com,forexmt4indicators.com,gamblingnewsmagazine.com,irishcatholic.com,lyngsat.com,tntribune.com,tryorthokeys.com##[width="728"]
+4chan.org,americaoutloud.com,analyticsindiamag.com,artificialintelligence-news.com,autoaction.com.au,cryptoreporter.info,dafont.com,forexmt4indicators.com,gamblingnewsmagazine.com,irishcatholic.com,tntribune.com,tryorthokeys.com##[width="728"]
 4chan.org,boards.4chan.org,boards.4channel.org##.danbo-slot
 4dayweek.io##.notadvert-tile-wrapper
 4f.to,furbooru.org###imagespns
@@ -92103,6 +92107,8 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 4gay.fans,analdin.com,bclikeqt.com,dailyporn.club,deportealdia.live,electronicproducts.com,fc.lc,fcc.lc,freefeds.com,hentaimama.io,mdn.lol,mp4upload.com,powvideo.net,serialeonline.biz,sharer.pw,sportsbay.org,streamplay.to,techgeek.digital,techydino.net,teleriumtv.com,tophostingapp.com,underhentai.net,uxstyle.com,watchhentai.net,xozilla.com,za.gl###overlay
 4kporn.xxx###bannerbelow
 4kporn.xxx,accuweather.com,iconeye.com,phonescoop.com,uuu9.com###top
+4kporn.xxx,crazyporn.xxx##.myadswarning
+4kporn.xxx,crazyporn.xxx,hoes.tube,love4porn.com##.sponsorbig
 4kpornmovs.com,asian-teens.co,gotohole.com,kompoz2.com,pornmovies4k.com,pornvideos4k.com,roleplayers.co,youjizzvideos.pro##.full-bns-block
 4kpornmovs.com,pornvideos4k.com##+js(abort-on-property-read, __ASG_VAST)
 4kpornvideos.tv,flashtranny.com,gaymovievids.com,gayporno.fm,igayporn.tv,machogaytube.com,onlydudes.tv,ts-tube.net,verygayboys.com,xgaytube.tv##.ae-player__itv
@@ -93298,7 +93304,7 @@ antdv.com###right-bottom
 antdv.com##.main-menu-inner > div
 anticollector.biz.ua,cnc3018.ru,factorio.su##body > div[class][style*="background"][style*="display: block"]
 antiguanewsroom.com##div[id^="antig-"]
-antiguanewsroom.com,aptoslife.com,aviacionline.com,bohemian.com,carnewschina.com,constructionreviewonline.com,corvetteblogger.com,cyberparse.co.uk,darkhorizons.com,eastbayexpress.com,eindhovennews.com,ericpetersautos.com,fap-nation.org,fenuxe.com,gameplayinside.com,gamezone.com,ghpage.com,gilroydispatch.com,gizmochina.com,goodtimes.sc,goonhammer.com,greekreporter.com,greenfieldnews.com,healdsburgtribune.com,indianapolisrecorder.com,industryhit.com,jewishpress.com,kenyan-post.com,kingcityrustler.com,lankanewsweb.net,maltabusinessweekly.com,metrosiliconvalley.com,morganhilltimes.com,musictech.net,mycariboonow.com,nasilemaktech.com,newsnext.live,newstalkflorida.com,nme.com,nobugin.com,pacificsun.com,pajaronian.com,pakobserver.net,pipanews.com,pressbanner.com,radioink.com,runnerstribe.com,salinasvalleytribune.com,sanbenito.com,scrolla.africa,sonorannews.com,telugubullet.com,theindependent.co.zw,unlockboot.com,wrestling-online.com,zycrypto.com##.td-a-rec
+antiguanewsroom.com,aptoslife.com,aviacionline.com,betootaadvocate.com,bohemian.com,carnewschina.com,constructionreviewonline.com,corvetteblogger.com,cyberparse.co.uk,darkhorizons.com,eastbayexpress.com,eindhovennews.com,ericpetersautos.com,fap-nation.org,fenuxe.com,gameplayinside.com,gamezone.com,ghpage.com,gilroydispatch.com,gizmochina.com,goodtimes.sc,goonhammer.com,greekreporter.com,greenfieldnews.com,healdsburgtribune.com,indianapolisrecorder.com,industryhit.com,jewishpress.com,kenyan-post.com,kingcityrustler.com,lankanewsweb.net,maltabusinessweekly.com,metrosiliconvalley.com,morganhilltimes.com,musictech.net,mycariboonow.com,nasilemaktech.com,newsnext.live,newstalkflorida.com,nme.com,nobugin.com,pacificsun.com,pajaronian.com,pakobserver.net,pipanews.com,pressbanner.com,radioink.com,runnerstribe.com,salinasvalleytribune.com,sanbenito.com,scrolla.africa,sonorannews.com,telugubullet.com,theindependent.co.zw,unlockboot.com,wrestling-online.com,zycrypto.com##.td-a-rec
 antiguanewsroom.com,gadgetstouse.com##.td-ss-main-sidebar
 antimusic.com##.am-center
 antimusic.com##.zerg
@@ -96071,9 +96077,7 @@ crazygames.com,gay0day.com##div[style^="height:250px;"]
 crazyporn.xxx##.adswarning
 crazyporn.xxx##.list-videos > div > div[class="item"]:empty
 crazyporn.xxx##.margin-fix > .item:has(> .ads)
-crazyporn.xxx##.myadswarning
 crazyporn.xxx#?#.item:has(> script[src^="/ai/"])
-crazyporn.xxx,hoes.tube,love4porn.com##.sponsorbig
 crazyshit.com,sleazyneasy.com,katestube.com,pervclips.com,vikiporn.com,fetishshrine.com,wankoz.com,sheshaft.com,pornicom.com,morazzia.com,pornwhite.com,yeswegays.com##a[href^="https://claring-loccelkin.com/"]
 creaders.net###guanggao2
 creaders.net##.border_b > tbody > tr > td[height^="2"]
@@ -97865,6 +97869,7 @@ farminglife.com,newcastleworld.com##.helper__DesktopAdContainer-sc-12ggaoi-1
 farminguk.com###newsadvert
 farminguk.com##.advert-word
 farminguk.com##.news-advert-button-click
+farooqkperogi.com###leaderboard-content
 faroutmagazine.co.uk##.amp-next-page-separator
 faroutmagazine.co.uk##.widget_grv_mpu_widget
 faroutmagazine.co.uk,hitc.com##.carpet-border
