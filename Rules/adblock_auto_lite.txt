@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: oM94H8ShXkF71x1LIwmb8w
+! Checksum: iqe5zAwgFv5Fv3dgzgnFyw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240618002640
+! Version: 20240618092541
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-18 00:26:40
-! Total Count: 28067
+! Last modified: 2024-06-18 09:25:41
+! Total Count: 28073
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5636,6 +5636,7 @@
 ||creative.xxxjmp.com^
 ||creditcreature.com^$third-party
 ||crf999.cn^
+||crfjxfoe.xyz^
 ||crhabkd.cn^
 ||crhyqq.com^
 ||criknudsr.com^
@@ -8192,6 +8193,7 @@
 ||hdfdsdaw.com^
 ||hdjthzg.cn^
 ||hdmoli.com/static/js/pop_promotion.js
+||hdoshbu.top^
 ||hdpdrandpd.xyz^
 ||hdporn-movies.com/templates/*/js/customscript.js
 ||hdporn24.org/vcrtlrvw/
@@ -9824,6 +9826,7 @@
 ||kaolashuwu.com/zb_users/plugin/ZF_tanchuang/
 ||kaosts.com^
 ||kaoyan1v1.com/IAA/
+||kapvu.cn^
 ||kart2ks.icu^
 ||kasiklz.cc^
 ||katyporn.net/*/jspopup.js
@@ -9941,6 +9944,7 @@
 ||kjugr.xyz^
 ||kjvaqbyebqarl.top^
 ||kjvnfhdgb.com^
+||kkacrgx.icu^
 ||kkbbjtfp.xyz^
 ||kkeojk.xyz^
 ||kkisoo.com^
@@ -14671,6 +14675,7 @@
 ||stingsquirrel.com^$third-party
 ||stingyspoon.com^$third-party
 ||stlpnom.xyz^
+||stnew.xyz^
 ||stockingsleet.com^$third-party
 ||stockingsneeze.com^$third-party
 ||stockstar.com/*DUILIAN&t=
@@ -17439,6 +17444,7 @@
 ||ypffkbpq.xyz^
 ||ypgjkk.xyz^
 ||ypkxahje.xyz^
+||ypkxka.xyz^
 ||ypoiea.xyz^
 ||yporn.tv/grqoqoswxd.php
 ||yprdmnlo.xyz^

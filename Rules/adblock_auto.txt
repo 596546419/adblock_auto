@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 1mF0Vq/nOa7ErOEaLWL4HQ
+! Checksum: WcS2wG3LzEcGFb0qfiuh9w
 ! Title: 混合规则(自动更新)
-! Version: 20240618002628
+! Version: 20240618092529
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-18 00:26:28
-! Total Count: 146269
+! Last modified: 2024-06-18 09:25:29
+! Total Count: 146303
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -80,6 +80,7 @@
 ||003store.com^
 ||004809f9da.com^
 ||004fsdljasd.xyz^
+||00701059.xyz^
 ||007ds.com/js/js/
 ||0083334e84.com^
 ||008844.cc^
@@ -3970,6 +3971,7 @@
 ||a6vv9o.online^
 ||a700fb9c8d.com^
 ||a7165aaaf6.com^
+||a717b6d31e.com^
 ||a718917a44.com^
 ||a75-10-so.ssl.cdn13.com^
 ||a78wt.top^
@@ -11090,6 +11092,7 @@
 ||attentioniau.com^
 ||attentionkick.com^
 ||attentionsoursmerchant.com^
+||attenuatenovelty.com^
 ||attepigom.com^
 ||attestationaudience.com^
 ||attestationoats.com^
@@ -21240,6 +21243,7 @@
 ||crevicedepressingpumpkin.com^
 ||crevnrela.com^
 ||crf999.cn^
+||crfjxfoe.xyz^
 ||crfmbxqrf.xyz^
 ||crfrf.com^
 ||crglpt.com^
@@ -22153,6 +22157,7 @@
 ||da.rosrabota.ru^
 ||da066d9560.com^
 ||da2323.com^
+||da28c69e.xyz^
 ||da29e6b8-f018-490f-b25f-39a887fc95e7.xyz^
 ||da6555.com^
 ||da77842b9c.com^
@@ -22770,6 +22775,7 @@
 ||dciep.xyz^
 ||dcinfos-cache.abtasty.com^
 ||dcjaefrbn.xyz^
+||dcjeeqwrhg.com^
 ||dcjfoei.cn^
 ||dclakbrifusivy.com^
 ||dclfuniv.com^
@@ -24165,6 +24171,7 @@
 ||discuz.fit^
 ||discuz.gtimg.cn/cloud/scripts/discuz_tips.js
 ||disdainkindle.com^
+||disdainsneeze.com^
 ||disean.com^
 ||diseaseexternal.com^
 ||diseaseplaitrye.com^
@@ -24566,8 +24573,12 @@
 ||dmopqjaswvmvopm.com^
 ||dmovyttqiu.com^
 ||dmowvblljmkqx.com^
+||dmp-1.ru^
+||dmp-ai.ru^
+||dmp-one.ru^
 ||dmp.citiservi.es^
 ||dmp.eland-tech.com^
+||dmp.one^
 ||dmp.sbermarketing.ru^
 ||dmp.truoptik.com^
 ||dmpcdn.el-mundo.net^
@@ -33302,6 +33313,7 @@
 ||gkdafpdmiwwd.xyz^
 ||gkencyarcoc.com^
 ||gkenql.cn^
+||gkewzootqju.com^
 ||gkfehrdhbm.com^
 ||gkiho.xyz^
 ||gkiyvbk.cn^
@@ -35947,6 +35959,7 @@
 ||hdkal67.cn^
 ||hdminfeng.com^
 ||hdmoli.com/static/js/pop_promotion.js
+||hdoshbu.top^
 ||hdpdrandpd.xyz^
 ||hdporn-movies.com/templates/*/js/customscript.js
 ||hdporn24.org/vcrtlrvw/
@@ -43340,6 +43353,7 @@
 ||kappalinks.com^
 ||kaprila.com^
 ||kapsmnd.cyou^
+||kapvu.cn^
 ||kaqhfijxlkbfa.xyz^
 ||kaqpnobbjzdwi.com^
 ||kaqweqrdf.com^
@@ -44044,6 +44058,7 @@
 ||kjwx8.com^
 ||kjwysxs.cn^
 ||kjyouhp.com^
+||kkacrgx.icu^
 ||kkbbjtfp.xyz^
 ||kkddlt2f.site^$third-party
 ||kkeojk.xyz^
@@ -47351,6 +47366,7 @@
 ||login-icloud.com^
 ||login.tracking101.com^
 ||loginame.shop^
+||loginlockssignal.com^
 ||loginside.co.kr^
 ||logkm.dantocmiennui.vn^
 ||loglabitrufly.top^
@@ -55800,6 +55816,7 @@
 ||ojuhwc.xyz^
 ||ojvpigx.xyz^
 ||ojwapnolwa.com^
+||ojwonhtrenwi.com^
 ||ojyggbl.com^
 ||ojzghaawlf.com^
 ||ok-11-cai.cc^
@@ -56275,6 +56292,7 @@
 ||onznwiocrrim.com^
 ||oo00.biz^
 ||oobitsou.net^
+||oobsaurt.net^
 ||oobuwjnlljbah.com^
 ||oocie.cn^
 ||oocsutvtggeuu.com^
@@ -61755,6 +61773,7 @@
 ||psootchu.net^
 ||psoothie.xyz^
 ||psothoms.com^
+||psotudev.com^
 ||psougnoa.net^
 ||psougoar.com^
 ||psougrie.com^
@@ -73135,6 +73154,7 @@
 ||stlpnom.xyz^
 ||stlpyypg.com^
 ||stluserehtem.com^
+||stnew.xyz^
 ||stoachaigog.com^
 ||stoaltaw.net^
 ||stoaphalti.com^
@@ -82637,6 +82657,7 @@
 ||vidsbranch.space^
 ||vidschannel.online^
 ||vidschannel.space^
+||vidscriptshark.com^
 ||vidsforyou.mom^
 ||vidsforyou.online^
 ||vidsfull.online^
@@ -85242,6 +85263,7 @@
 ||whagrogiva.com^
 ||whagrolt.com^
 ||whaidree.com^
+||whaijoorgoo.com^
 ||whairted.xyz^
 ||whairtoa.com^
 ||whaishub.net^
@@ -85482,6 +85504,7 @@
 ||whotchie.net^
 ||whotrundledthe.com^
 ||whoulikaihe.net^
+||whoumtefie.com^
 ||whoumtip.xyz^
 ||whoungoz.net^
 ||whounoag.xyz^
@@ -89204,6 +89227,7 @@
 ||yping.online^
 ||ypkljvp.com^
 ||ypkxahje.xyz^
+||ypkxka.xyz^
 ||ypmadserver.com^
 ||ypmob.com^
 ||ypmohjxp.com^
@@ -91716,7 +91740,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 2345.com#?#.pic:-abp-has(a[href^="http://g.wan."])
 2345.com,duanwenxue.com###topHf
 247checkers.com###feature-ad-holder
-247media.com.ng,abmedia.io,aboutcrypto.info,appinn.com,appleworld.today,athleticsillustrated.com,businessaccountingbasics.co.uk,captainaltcoin.com,carrotchou.blog,circuitbasics.com,closerweekly.com,coincodecap.com,cozyberries.com,crickhabari.com,dbknews.com,deshdoaba.com,foreverconscious.com,glitched.online,granitegrok.com,intouchweekly.com,kashmirreader.com,kkfm.com,landiannews.com,laoliublog.cn,levittownnow.com,lifeandstylemag.com,londonnewsonline.co.uk,marqueesportsnetwork.com,mensjournal.com,nikonrumors.com,patriotfetch.com,pctechmag.com,prajwaldesai.com,raspians.com,robinhoodnews.com,rok.guide,rsbnetwork.com,showbiz411.com,sportsspectrum.com,stacyknows.com,thecatholictravelguide.com,theoverclocker.com,thethaiger.com,ubuntu101.co.za,wakingtimes.com,washingtonmonthly.com,webscrypto.com,wgow.com,wgowam.com,wlevradio.com,woniuyulew.com,xingkbjm.com,zhain8.com##.widget_media_image
+247media.com.ng,abmedia.io,aboutcrypto.info,appinn.com,appleworld.today,athleticsillustrated.com,businessaccountingbasics.co.uk,captainaltcoin.com,carrotchou.blog,circuitbasics.com,closerweekly.com,coincodecap.com,cozyberries.com,crickhabari.com,dbknews.com,deshdoaba.com,foreverconscious.com,glitched.online,granitegrok.com,intouchweekly.com,jharkhandmirror.net,kashmirreader.com,kkfm.com,landiannews.com,laoliublog.cn,levittownnow.com,lifeandstylemag.com,londonnewsonline.co.uk,marqueesportsnetwork.com,mensjournal.com,nikonrumors.com,patriotfetch.com,pctechmag.com,prajwaldesai.com,raspians.com,robinhoodnews.com,rok.guide,rsbnetwork.com,showbiz411.com,sportsspectrum.com,stacyknows.com,thecatholictravelguide.com,theoverclocker.com,thethaiger.com,ubuntu101.co.za,wakingtimes.com,washingtonmonthly.com,webscrypto.com,wgow.com,wgowam.com,wlevradio.com,woniuyulew.com,xingkbjm.com,zhain8.com##.widget_media_image
 247mirror.com,365economist.com,bridewired.com,dailybee.com,drgraduate.com,historictalk.com,mvpmode.com,news-opossumsauce.com,parentmood.com,theecofeed.com,thefunpost.com,visualchase.com,wackojaco.com##.ya-slot
 247solitaire.com,247spades.com##div[class^="aspace-"]
 247sports.com##.minutely-wrapper
@@ -92089,7 +92113,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 4runnerforum.com,acuraforums.com,blazerforum.com,buickforum.com,cadillacforum.com,camaroforums.com,cbrforum.com,chryslerforum.com,civicforums.com,corvetteforums.com,fordforum.com,germanautoforums.com,hondaaccordforum.com,hondacivicforum.com,hondaforum.com,hummerforums.com,isuzuforums.com,kawasakiforums.com,landroverforums.com,lexusforum.com,mazdaforum.com,mercuryforum.com,minicooperforums.com,mitsubishiforum.com,montecarloforum.com,mustangboards.com,nissanforum.com,oldsmobileforum.com,pontiactalk.com,saabforums.com,saturnforum.com,truckforums.com,volkswagenforum.com,volvoforums.com##aside > center
 4shared.com##.remove-rekl
 4spaces.org,fuliba.net,fuliba2023.net,fuliba23.net,uliba.net,ypojie.com##.widget_ui_orbui
-4sysops.com,9to5linux.com,app-how-to-use-it.com,arcjav.com,backthetruckup.com,catcountry941.com,cnx-software.com,corrosionhour.com,corvetteblogger.com,dailyveracity.com,dcrainmaker.com,droidwin.com,dvdgayporn.com,faqforge.com,fastestvpns.com,fuliba2020.net,fuliba2021.net,fuliba2023.net,gamingonphone.com,gizmochina.com,guides.wp-bullet.com,hardwaretimes.com,hotcelebshome.com,iwatchsouthparks.com,jav.guru,javcrave.com,landiannews.com,laoliublog.cn,macsources.com,mangasy.com,metalsucks.net,mmoculture.com,nasaspaceflight.com,nbagaffer.net,openloading.com,planetofreviews.com,prepperwebsite.com,psdly.com,pussycatxx.com,quickanswer.blog,robloxhackscripts.com,ruyo.net,sashares.co.za,scienceabc.com,scienceandliteracy.org,survivopedia.com,taradinhos.com,techdows.com,techiecorner.com,techjuice.pk,theblueoceansgroup.com,thecinemaholic.com,thetaiwantimes.com,thinkcivics.com,tooxclusive.com,torrentfreak.com,trackalerts.com,trendingpoliticsnews.com,uliba.net,vrhotporn.top,winandmac.com,xscholarship.com,zhujiceping.com,zouaw.com##.widget_custom_html
+4sysops.com,9to5linux.com,app-how-to-use-it.com,arcjav.com,backthetruckup.com,catcountry941.com,cnx-software.com,corrosionhour.com,corvetteblogger.com,dailyveracity.com,dcrainmaker.com,droidwin.com,dvdgayporn.com,faqforge.com,fastestvpns.com,fuliba2020.net,fuliba2021.net,fuliba2023.net,gamingonphone.com,girgitnews.com,gizmochina.com,guides.wp-bullet.com,hardwaretimes.com,hotcelebshome.com,iwatchsouthparks.com,jav.guru,javcrave.com,landiannews.com,laoliublog.cn,macsources.com,mangasy.com,metalsucks.net,mmoculture.com,nasaspaceflight.com,nbagaffer.net,openloading.com,planetofreviews.com,prepperwebsite.com,psdly.com,pussycatxx.com,quickanswer.blog,robloxhackscripts.com,ruyo.net,sashares.co.za,scienceabc.com,scienceandliteracy.org,survivopedia.com,taradinhos.com,techdows.com,techiecorner.com,techjuice.pk,theblueoceansgroup.com,thecinemaholic.com,thetaiwantimes.com,thinkcivics.com,tooxclusive.com,torrentfreak.com,trackalerts.com,trendingpoliticsnews.com,uliba.net,vrhotporn.top,winandmac.com,xscholarship.com,zhujiceping.com,zouaw.com##.widget_custom_html
 4teachers.org###banner-wrapper
 4thsight.xyz,aceofhacking.com,briian.com,buildsometech.com,collegelearners.com,dpfantasy.org,eftm.com,firesticktricks.com,floxblog.com,gfxdrug.com,godisageek.com,historicseries.com,hotcelebshome.com,hutporner.com,indiansexbazar.com,jav1080.com,laweekly.com,newtechworld.net,nicekkk.com,pennbookcenter.com,sakurajav.com,sonixgvn.net,streamempire.cc,tecmint.com,tmioe.com,watchseinfeld.com,watchtheoffice.cc,zonegfx.com###custom_html-4
 4tube.com###main-jessy-grid
@@ -95830,6 +95854,14 @@ coles.com.au#?#.coles-targeting-UnitContainer:has(ul.product__top_messaging)
 collectionofbestporn.com###lower-ads
 collectionofbestporn.com##+js(abort-on-property-read, __ads)
 collectionofbestporn.com##.main-nav-list > li > a[rel="nofollow"]
+collegedunia.com###right_side_barslot_1
+collegedunia.com###right_side_barslot_2
+collegedunia.com##.ads_body_ad_code_container
+collegedunia.com##.college-sidebar .course-finder-banner
+collegedunia.com##.headerslot
+collegedunia.com##.sidebar .course-finder-banner
+collegedunia.com##.unacedemy-wrapper
+collegedunia.com##[class*="-ad-slot"]
 colliderporn.com##.player-container > .aside-blocks
 collinsdictionary.com##.topslot_container
 collive.com##.bottom_leaderboard
@@ -103113,6 +103145,7 @@ momjunction.com##.ubvideoad
 momjunction.com,stylecraze.com##.advertinside
 momjunction.com,stylecraze.com##.flying-carpet-wrapper
 mommypoppins.com##div[id^="wrapper-div-gpt-ad-"]
+momondo.com##[class*="mod-pres-default"]:has(div[class*="ad-badge"])
 momsextube.pro##.bt-hs-col
 momsextube.pro##.prev[style^="width:320px;height:254px;"]
 momsextube.pro,eliteindianporn.com,doxxxindians.com,xxxpornindia.com,megayoungsex.com,hardsex8.com,sexkittytube.com,xxxmovies.pro,lesbiansex.pro##.imbar
@@ -106165,6 +106198,7 @@ romania-insider.com###block-nodepagebelowlatespress
 romania-insider.com###block-nodepagebelowtrendingcontent
 romania-insider.com##.job-item
 romaniajournal.ro##.geoc-container
+rome2rio.com#?#div[aria-labelledby="schedules-header"] > div > div:-abp-contains(Ad)
 romhustler.org##[class^="leaderboard_ad"]
 romsfun.org##[href^="https://kovcifra.click/"]
 romsgames.net###td-top-leaderboard
