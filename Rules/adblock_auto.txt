@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: S2mSAMOLk1uYSHVsqso02A
+! Checksum: FvC6g5S1fwciGsuD+3jmUA
 ! Title: 混合规则(自动更新)
-! Version: 20240619162601
+! Version: 20240620002531
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-19 16:26:01
-! Total Count: 146350
+! Last modified: 2024-06-20 00:25:31
+! Total Count: 146372
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -61664,6 +61664,7 @@
 ||prscripts.com^
 ||prscripts.com^$third-party
 ||prssifu.cn^
+||prtadf.xyz^
 ||prtawe.com^
 ||prtgurh.cn^
 ||prtlth.xyz^
@@ -71059,6 +71060,7 @@
 ||so-excited.com^
 ||so.auto999.cn^
 ||so.com/baike/ads?
+||so.com/com/ads?
 ||so.com/index/advertise
 ||so.com/recomm/simi?
 ||so.com/resource/js/mod/detail/business.
@@ -72261,6 +72263,7 @@
 ||ssp.kdnet.net^
 ||ssp.meba.kr^
 ||ssp.mediation.trnox.com^
+||ssp.moeli.net^
 ||ssp.otm-r.com^
 ||ssp.seznam.cz^
 ||ssp.zf313.com^
@@ -72958,6 +72961,7 @@
 ||statuncore.com^
 ||staturecolonialismtransition.com^
 ||staturereactioncollect.com^
+||status.techtarget.itmedia.co.jp^
 ||statwup.huya.com^
 ||statwup.nimo.tv^
 ||statystyki.panelek.com^
@@ -94096,6 +94100,7 @@ baofeng.com##.play-ads
 baomidou.com##.sidebar-content > astro-island
 baomidou.com##.sidebar-slot-top
 baomidou.com,docsmall.com,nodejs.cn##+js(set-constant, _AdBlockInit, noopFunc)
+baozimh.one,camporn.to,camseek.tv,camstreams.tv,domainnamewire.com,eurogirlsescort.com,ghostbin.me,hdtube.porn,hotstunners.com,i24news.tv,manofmany.com,marinetechnologynews.com,maritimeprofessional.com,maritimepropulsion.com,mumbrella.com.au,paste.fo,paste.pm,pasteheaven.com,petapixel.com,pornburst.xxx,pornflix.to,punishbang.com,rapidtvnews.com,sexu.com,teenfuckhd.com,telesurtv.net,thehackernews.com,theporngod.com,travelpulse.com,vibexxx.com,wantedbabes.com,wonderopolis.org,worldofmods.com,xxxadultphoto.com,xxxdl.net,xxxn.club,yazhouse8.com##.banners
 bar-planb.com,hakibavuong.com###player_dev
 barandbench.com##.ad-slot-row-m__ad-Wrapper__cusCS
 barandbench.com##.ad-wrapper-module__adContainer__iD4aI
@@ -95037,7 +95042,6 @@ camcam.cc##.menu-item-5880
 camerabay.tv##.popupad
 camfuze.com##.banner_inner
 camhub.tv,camlovers.tv,camwhores.*,camwhoresbay.porn,ebalovo.*,femdomtb.com,homegrownfreaks.net,pornbimbo.com,pornfd.com,pornissimo.org,pornobit.me,pornoham.me,pornsexer.com,porntn.com,sexcams-24.com,tubsexer.com,tubsexer.info,viralpornhub.com,watchmdh.to,watchporn.to##+js(set-constant, flashvars.protect_block, '')
-camporn.to,camseek.tv,camstreams.tv,domainnamewire.com,eurogirlsescort.com,ghostbin.me,hdtube.porn,hotstunners.com,i24news.tv,manofmany.com,marinetechnologynews.com,maritimeprofessional.com,maritimepropulsion.com,mumbrella.com.au,paste.fo,paste.pm,pasteheaven.com,petapixel.com,pornburst.xxx,pornflix.to,punishbang.com,rapidtvnews.com,sexu.com,teenfuckhd.com,telesurtv.net,thehackernews.com,theporngod.com,travelpulse.com,vibexxx.com,wantedbabes.com,wonderopolis.org,worldofmods.com,xxxadultphoto.com,xxxdl.net,xxxn.club,yazhouse8.com##.banners
 campornosex.com##.beginning
 campornosex.com##.carve
 campornosex.com##.fool
@@ -96312,6 +96316,13 @@ curioustic.com##.grey
 currys.co.uk##.cretio-sponsored-product
 currys.co.uk##.criteoproducts-section
 curseforge.com###cdm-zone-03
+curseforge.com##.project-description [href^="/linkout?remoteUrl="][href*="billing.ember.host"] > img
+curseforge.com##.project-description [href^="/linkout?remoteUrl="][href*="billing.kinetichosting.net"] > img
+curseforge.com##.project-description [href^="/linkout?remoteUrl="][href*="bisecthosting.com"] > img
+curseforge.com##.project-description [href^="/linkout?remoteUrl="][href*="meloncube.net"] > img
+curseforge.com##.project-description [href^="/linkout?remoteUrl="][href*="nodecraft.com"] > img
+curseforge.com##.project-description [href^="/linkout?remoteUrl="][href*="scalacube.com"] > img
+curseforge.com##.project-description [href^="/linkout?remoteUrl="][href*="shockbyte.com"] > img
 curseforge.com##.rev-container
 cutecoloringpagesforkids.com##.mv-trellis-feed-unit
 cutegurlz.com,maketecheasier.com##.header-widget
@@ -99028,11 +99039,11 @@ glanceoflife.com##.ads_margin
 glennbeck.com###sPost_0_0_5_0_0_9_0_1_2_0
 glennbeck.com###sPost_Default_Layout_0_0_6_0_0_9_0_1_2_0
 globalconstructionreview.com###cm-jobs-block-inner
-globalnews.ca##.c-ad
 globalnews.ca##.c-adChoices
 globalnews.ca##.c-flyers
 globalnews.ca##.c-stickyRail
 globalnews.ca##.l-headerAd
+globalnews.ca,stuff.tv##.c-ad
 globalrph.com##.homepage-middle-ad
 globalwaterintel.com###sidebar-banner
 globalwaterintel.com###top-banner-image
@@ -99387,7 +99398,7 @@ gvm.com.tw##.promotion > .sp-txt
 gvm.com.tw##.promotion_ad
 gvm.com.tw,linuxinsider.com,sina.com.tw###cboxOverlay
 gvm.com.tw,linuxinsider.com,sina.com.tw###colorbox
-gw54.com,jojf.cn,x6k.com,xgw5.com,ziyuanyo.com##.index-ad
+gw54.com,ijiandao.cn,ijiandao.com,jojf.cn,x6k.com,xgw5.com,ziyuanyo.com##.index-ad
 gw54.com,xbyuan.com,xgw5.com##.dad
 gxeea.cn##.m-wrap-school
 gywb.cn##.bill-vertical
@@ -101028,6 +101039,10 @@ ishuati.com###adsh
 ishuhui.com##.a_xx_d
 isiyuan.net#?##page-list > ul > .layui-row:-abp-has(.ad)
 islamicfinder.org##.pad-xs.box.columns.large-12
+ispreview.co.uk###footer-slot-3
+ispreview.co.uk###mobile-takeover-slot-8
+ispreview.co.uk###sidebar-slot-5
+ispreview.co.uk##.midarticle-slot-10
 israelnationalnews.com###banner-sticky
 israelnationalnews.com##.InfoIn
 israelnationalnews.com##.InfoIn2
@@ -103174,11 +103189,19 @@ modivo.at,modivo.bg,modivo.cz,modivo.de,modivo.ee,modivo.fr,modivo.gr,modivo.hr,
 modivo.it,modivo.pl,modivo.ro,modivo.cz,modivo.hu,modivo.bg,modivo.gr,modivo.de#?#.banner:-abp-contains(/Sponsorizzato|Sponsorowane|Sponsorizat|Sponzorováno|Szponzorált|Спонсорирани|Sponsored|Gesponsert/)
 modivo.it,modivo.pl,modivo.ro,modivo.cz,modivo.hu,modivo.bg,modivo.gr,modivo.de#?#.product:-abp-contains(/Sponsorizzato|Sponsorowane|Sponsorizat|Sponzorováno|Szponzorált|Спонсорирани|Sponsored|Gesponsert/)
 modrinth.com##.GBBNWLJVGRHFLYVGSZKSSKNTHFYXHMBD
+modrinth.com##.normal-page__content [href^="https://billing.ember.host/"] > img
+modrinth.com##.normal-page__content [href^="https://billing.kinetichosting.net/"] > img
+modrinth.com##.normal-page__content [href^="https://bisecthosting.com/"] > img
+modrinth.com##.normal-page__content [href^="https://meloncube.net/"] > img
+modrinth.com##.normal-page__content [href^="https://nodecraft.com/"] > img
+modrinth.com##.normal-page__content [href^="https://scalacube.com/"] > img
+modrinth.com##.normal-page__content [href^="https://shockbyte.com/partner/"] > img
 modrinth.com##[href^="http://bisecthosting.com/"]
 modrinth.com##[type="banner"]
 modshost.com###content > .ast-container > .ast-row
 modthesims.info###browse-content > div > small
 modthesims.info###pagenavigation > div > small
+moe-acg.com##A[href*=".x8o.de"]
 moe.best###rcm_sidebar
 moe.best##.markdown-body + div[style="text-align:center;margin-top:40px"]
 moeci.com##+js(no-setTimeout-if, _0x)
@@ -107597,11 +107620,10 @@ stuff.co.nz##.sics-component__app__top-leaderboard-ads-container
 stuff.co.nz##.sics-component__widget--neighbourlyShowcasePlus
 stuff.co.nz,thepost.co.nz,thepress.co.nz,waikatotimes.co.nz##.header-ads-block
 stuff.tv##.block-hcm-external-blocks
-stuff.tv##.c-ad--leftpageskin
 stuff.tv##.c-ad--mpu-bottom
 stuff.tv##.c-ad--mpu-top
-stuff.tv##.c-ad--rightpageskin
-stuff.tv##.c-freestar-video-ad__container
+stuff.tv##.c-squirrel-embed
+stuff.tv##.c-video-ad__container
 stupiddope.com##.text-6
 stylecraze.com##.fx-flying-carpet
 stylist.co.uk##.css-17xu4dw
