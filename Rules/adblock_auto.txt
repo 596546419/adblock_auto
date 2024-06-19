@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: TkAXvKr+61oWBzYKcLqO/g
+! Checksum: m93taWXnjfLrwwnVKu5M3g
 ! Title: 混合规则(自动更新)
-! Version: 20240619002625
+! Version: 20240619092551
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-19 00:26:25
-! Total Count: 146317
+! Last modified: 2024-06-19 09:25:51
+! Total Count: 146343
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2942,6 +2942,7 @@
 ||76xh.com/skin/zxf/js/ad
 ||771703f2e9.com^
 ||77417.cn^
+||7757139f7b.com^
 ||775cf6f1ae.com^
 ||775mz.com/js/jquery.js
 ||776173f9e6.com^
@@ -10283,6 +10284,7 @@
 ||aquiliapistrix.guru^
 ||aqutxohnexd.com^
 ||aquvg.com^
+||aqvi.cn^
 ||aqvwn18102h.com^
 ||aqwihyjpglzdr.com^
 ||aqwsms.xyz^
@@ -10573,6 +10575,7 @@
 ||aryana.io^
 ||aryancrack.com^
 ||aryastake.io^
+||arylidealchemy.com^
 ||arzanphearse.com^
 ||as-oss2.com^
 ||as.adfonic.net^
@@ -10926,6 +10929,7 @@
 ||at*.doubanio.com^
 ||at-o.net^
 ||at.360.audion.fm^
+||at.adtech.redventures.io^
 ||at.prod.jimdo.systems^
 ||at.umtrack.com^/*?cid=$document
 ||at.umtrack.com^/*?cid=$~third-party
@@ -13482,6 +13486,7 @@
 ||berendphloeum.com^
 ||berenicepunch.com^
 ||berg-6-82.com^
+||bergertubbie.com^
 ||bergfi.com^
 ||bergsmouflon.com^
 ||berideshaptin.com^
@@ -13919,6 +13924,7 @@
 ||bidiboffin.top^
 ||bidio.pl^
 ||bidiology.com^
+||bidmatic.io^
 ||bidmyadz.com^
 ||bidmyqps.xyz^
 ||bidr.io^
@@ -15917,6 +15923,7 @@
 ||bungalowlame.com^
 ||bungalowsimply.com^
 ||bungarovet.com^
+||bungeedubbah.com^
 ||bunintruder.com^
 ||bunny-net.com^
 ||bunnymediaserver.com^
@@ -22844,6 +22851,7 @@
 ||ddqfgamwnhp.com^
 ||ddqhnjb.cn^
 ||ddqkqq.com^
+||ddqmlfu.icu^
 ||ddreminder.appspot.com/android_ad_target.txt
 ||ddrk.me/vjs-plugins/videojs.das.min.js
 ||ddrsemxv.com^
@@ -25228,6 +25236,7 @@
 ||drawbackcaptiverusty.com^
 ||drawbacksubdue.com^
 ||draweesjabbers.com^
+||draweesoutkiss.com^
 ||drawerenter.com^
 ||drawerfontactual.com^
 ||drawergypsyavalanche.com^
@@ -26885,6 +26894,7 @@
 ||ehqdzqi.com^
 ||ehqnheqa.com^
 ||ehrhrrx.xyz^
+||ehrydnmdoe.com^
 ||eht116.com^
 ||ei1s7b.cn^
 ||eiadf.xyz^
@@ -29915,6 +29925,7 @@
 ||ffbjhl.xyz^
 ||ffbvhlc.com^
 ||ffcclqkmmlmecf.xyz^
+||ffdafx.xyz^
 ||ffdcpvv.cn^
 ||ffesutnkrvy.com^
 ||fffbd1538e.com^
@@ -38642,6 +38653,7 @@
 ||idolbucks.com^
 ||idolizeduse.pro^
 ||idolsainsie.com^
+||idoshbo.top^
 ||idot.cz^
 ||idownloadgalore.com^
 ||idqpawg.cn^
@@ -40341,6 +40353,7 @@
 ||investcoma.com^
 ||investerarbrevet.se^
 ||investigatepin.com^$third-party
+||investigationsuperbprone.com^
 ||investingapp.net/ads_api.php?
 ||investingchannel.com^
 ||investmentstar.org^
@@ -41386,6 +41399,7 @@
 ||jatdticl.com^
 ||jatfugios.com^
 ||jatomayfair.life^
+||jatosbathkol.com^
 ||jatosfluted.com^
 ||jatostepa.com^
 ||jatpap.cn^
@@ -53206,6 +53220,7 @@
 ||nct1.logging.nextsmarty.com^
 ||nct2-logging.nct.vn^
 ||nctrk.abmail.com.br^
+||ncubadmavfp.com^
 ||ncukankingwith.info^
 ||ncukgqjfaxjv.com^
 ||ncvkzz.cn^
@@ -54555,6 +54570,7 @@
 ||noughtefface.com^
 ||noughttrustthreshold.com^
 ||nouivjv.cn^
+||noukotumorn.com^
 ||noumekiz.net^
 ||noumohur.com^
 ||nounaswarm.com^
@@ -54929,6 +54945,7 @@
 ||nurserysurvivortogether.com^
 ||nuseek.com^
 ||nuslzkb.cn^
+||nutantvirific.com^
 ||nutattorneyjack.com^
 ||nutchaungong.com^
 ||nutga.com^
@@ -57311,6 +57328,7 @@
 ||owneriq.net^
 ||ownlocal.com^
 ||ownpage.fr^
+||ownzzohggdfb.com^
 ||owogldk.top^
 ||owoxauky.com^
 ||owqrtaodb.com^
@@ -65281,6 +65299,7 @@
 ||rerpartmentm.info^
 ||reryn2ce.com^
 ||reryn3ce.com^
+||rerynjie.com^
 ||res.adx.opera.com^
 ||res.cngoldres.com/web/index/img/*_ad_
 ||res.office365.com/*/scripts/microsoft.owa.adsbar.js
@@ -67626,6 +67645,7 @@
 ||sbetviet.com^
 ||sbfsdvc.com^
 ||sbhduht.xyz^
+||sbiloi.xyz^
 ||sbinx.com^
 ||sblftg.com^
 ||sbo8.com/static/theme/js/bottom.
@@ -80146,6 +80166,7 @@
 ||ufzwoiu.cn^
 ||ug-sg.byteoversea.com^
 ||ugahutoa.com^
+||ugailidsay.xyz^
 ||ugalia.com^
 ||ugawnotrjj.xyz^
 ||ugbler.icu^
@@ -80407,6 +80428,7 @@
 ||umnstoodthe.com^
 ||umoughtcallm.com^
 ||umoxomv.icu^
+||umpedshumal.com^
 ||umpirectx.top^
 ||umplmoht.com^
 ||umplohzn.com^
@@ -85190,6 +85212,7 @@
 ||westernunionbankvn.wixsite.com^
 ||westernunions6886z.weebly.com^
 ||westernwhetherowen.com^
+||westeselva.com^
 ||westgarybank.com^
 ||westover.cn^
 ||westreflection.com^
@@ -88138,6 +88161,7 @@
 ||xxrsxs.cn^
 ||xxslu.space^
 ||xxsmad1.com^
+||xxsmad2.com^
 ||xxsmcps.com^
 ||xxtalp.xyz^
 ||xxvkwuk.cn^
@@ -92116,6 +92140,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 4kporn.xxx###bannerbelow
 4kporn.xxx,accuweather.com,iconeye.com,phonescoop.com,uuu9.com###top
 4kporn.xxx,crazyporn.xxx##.myadswarning
+4kporn.xxx,crazyporn.xxx,hoes.tube,love4porn.com##.item:has(> [class*="ads"])
 4kporn.xxx,crazyporn.xxx,hoes.tube,love4porn.com##.sponsorbig
 4kpornmovs.com,asian-teens.co,gotohole.com,kompoz2.com,pornmovies4k.com,pornvideos4k.com,roleplayers.co,youjizzvideos.pro##.full-bns-block
 4kpornmovs.com,pornvideos4k.com##+js(abort-on-property-read, __ASG_VAST)
@@ -93054,6 +93079,7 @@ alotporn.com##div[style^="font-style:italic;font-size:10px;color:#CCC;"]
 alotporn.com#?#.list-videos > div > .item:has(> ins)
 alotporn.com,amateurest.com,onlinestars.net,bravoerotica.net,gettubetv.com,hoes.tube,jizzberry.com,love4porn.com,gaysearch.com,submityourflicks.com,chubbyporn.com##.fp-ui > div[style^="position: absolute;"][style*="background: transparent;"]
 alotporn.com,amateurporn.me##[id^="list_videos_"] > [class="item"]
+alphacoders.com##.css-grid-content:has(> .in-thumb-ad-css-grid)
 alphacoders.com##[style^="width:980px; height:280px;"]
 alphaporno.com##.advertising-bottom
 alphaporno.com##.content-provider > a[rel="nofollow"] > img
@@ -96085,7 +96111,6 @@ crazygames.com##.css-1h6nq0a
 crazygames.com,gay0day.com##div[style^="height:250px;"]
 crazyporn.xxx##.adswarning
 crazyporn.xxx##.list-videos > div > div[class="item"]:empty
-crazyporn.xxx##.margin-fix > .item:has(> .ads)
 crazyporn.xxx#?#.item:has(> script[src^="/ai/"])
 crazyshit.com,sleazyneasy.com,katestube.com,pervclips.com,vikiporn.com,fetishshrine.com,wankoz.com,sheshaft.com,pornicom.com,morazzia.com,pornwhite.com,yeswegays.com##a[href^="https://claring-loccelkin.com/"]
 creaders.net###guanggao2
@@ -96726,6 +96751,7 @@ digg.com##article.fp-vertical-story:has(a[href="/channel/promotion"])
 digg.com#?#article.relative:-abp-has(div:-abp-contains(SPONSORED))
 digg.com,iplogger.org,wallhere.com,wikitechy.com##div[id^="bsa-zone_"]
 digg.com,money.com##.ca-pcu-inline
+digiday.com##.ad_960
 digit.in###cubewrapid
 digit.in##.center-add
 digitalartsonline.co.uk###topLeaderContainer

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 3O7LDp2EdYyZDuqyvf+itQ
+! Checksum: mf5VQwxp9vUQsnizsjeNIg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240619002636
+! Version: 20240619092603
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-19 00:26:36
-! Total Count: 28079
+! Last modified: 2024-06-19 09:26:03
+! Total Count: 28087
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3728,6 +3728,7 @@
 ||aquaticalarm.com^$third-party
 ||aquaticowl.com^$third-party
 ||aquvg.com^
+||aqvi.cn^
 ||aqvwn18102h.com^
 ||aqwsms.xyz^
 ||aqy103.com/js/aqy/
@@ -5105,6 +5106,7 @@
 ||cdrvkdni.xyz^
 ||cdsa2.icu^
 ||cdttxdqe.xyz^
+||cduno.cn^
 ||cdxyb.cn^$third-party
 ||cdybwjpa.xyz^
 ||cdyee.com/external/5070.files/ad/
@@ -5972,6 +5974,7 @@
 ||ddllhqj.xyz^
 ||ddlvpmt.xyz^
 ||ddqkqq.com^
+||ddqmlfu.icu^
 ||ddreminder.appspot.com/android_ad_target.txt
 ||ddshu.net/a_d_code/
 ||ddush.xyz^
@@ -7139,6 +7142,7 @@
 ||ff.qichetansuo.com^
 ||ffawfa.cn^
 ||ffbjhl.xyz^
+||ffdafx.xyz^
 ||ffmehcg.cn^$third-party
 ||fg.knlk2md.cn^$third-party
 ||fgadsqdma.top^
@@ -8768,6 +8772,7 @@
 ||ideng.com^$third-party
 ||idffhq.cn^
 ||idns.online^
+||idoshbo.top^
 ||idv.st/dns/bar.htm
 ||idynbff.cn^
 ||ieapak.xyz^
@@ -9026,6 +9031,7 @@
 ||infamousstream.com^$third-party
 ||info.vip.iqiyi.com/promotion/
 ||infobabo.*/da.aspx
+||infocab888.life^
 ||infolinks.com^
 ||informengine.com^$third-party
 ||ingamesads.gameloft.com^
@@ -13796,6 +13802,7 @@
 ||sbdvjsbjslkv.com^
 ||sbeaje.com^
 ||sbhduht.xyz^
+||sbiloi.xyz^
 ||sbo8.com/static/theme/js/bottom.
 ||sbpb1.chuiyue.com^
 ||sbpb1.qulishi.com^
@@ -17127,6 +17134,7 @@
 ||xxooos.com/mm/
 ||xxp123.live^
 ||xxsmad1.com^
+||xxsmad2.com^
 ||xxtalp.xyz^
 ||xxxvipporno.com^
 ||xxxx68xxxx.com^
