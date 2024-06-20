@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: QmhC4DvOt62jXprEmgSbVw
+! Checksum: nqFdZdVYQs2YWVVSnKgRHg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240620002542
+! Version: 20240620092350
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-20 00:25:42
-! Total Count: 28091
+! Last modified: 2024-06-20 09:23:50
+! Total Count: 28098
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1904,6 +1904,7 @@
 ||adbro.me^
 ||adbrook.com^
 ||adbtwyxl96.fun^
+||adbu.cn^
 ||adbuddiz.com^
 ||adbuff.com^
 ||adbuka.com.ng^
@@ -6808,6 +6809,7 @@
 ||enews10.yxlady.net^
 ||engineergrape.com^$third-party
 ||engineertrick.com^$third-party
+||engwsq.xyz^
 ||enhad.xyz^
 ||enifdlaw.top^
 ||ennde.cyou^
@@ -7305,6 +7307,7 @@
 ||fpdisplay.com/templates/default/js/palyflash_
 ||fpdisplay.com/upload/n_ad/
 ||fpelfyeesuoivy.com^
+||fpfbbn.xyz^
 ||fpjjjh.xyz^
 ||fpo.xxx/contents/other/player/porngame*.mp4
 ||fptbdr.xyz^
@@ -9342,7 +9345,9 @@
 ||jdbstatic.com/ads/
 ||jdcnwd.com^
 ||jddaw.com^
+||jdoshba.top^
 ||jdpm.net.cn^
+||jdrlfn.xyz^
 ||jdrnpei.xyz^
 ||jdwx.info/api.php?mod=ad&
 ||jedlnn.xyz^
@@ -14587,6 +14592,7 @@
 ||ssp.hinet.net^
 ||ssp.kdnet.net^
 ||ssp.mediation.trnox.com^
+||ssp.moeli.net^
 ||ssp.otm-r.com^
 ||ssp.zf313.com^
 ||sspai.com/api/v1/recommend*=article_
@@ -16387,6 +16393,7 @@
 ||waxin0gjue.cn^
 ||waymom.xyz^
 ||wazveqv.xyz^
+||wbgafrr.icu^
 ||wbkaqly.cn^
 ||wbnbocz.xyz^
 ||wbnhqq.com^
