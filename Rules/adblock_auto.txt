@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: bL85CCPtAylmZh2wQxP7MA
+! Checksum: FTXduBw2El1KY1bdRkftsg
 ! Title: 混合规则(自动更新)
-! Version: 20240620092339
+! Version: 20240620162608
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-20 09:23:39
-! Total Count: 146398
+! Last modified: 2024-06-20 16:26:08
+! Total Count: 146427
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -828,6 +828,7 @@
 ||17ok.com/focus/3j_right_jdt.shtml
 ||17yy.com/style/ifra_ad/
 ||18-comic.work/media/albums/*?$media
+||18-comicfrieren.xyz/media/albums/*?$media
 ||180.76.171.28^
 ||180.96.27.85^*.htm
 ||1800cnt.com^
@@ -1810,6 +1811,7 @@
 ||39rvye.cn^
 ||3a17d27bf9.com^
 ||3a2e.site^
+||3a55f02d.xyz^
 ||3a98f4e936.com^
 ||3ad5iot.com^
 ||3alian.net^$third-party
@@ -2988,6 +2990,7 @@
 ||7807091956.com^
 ||78359c0779.com^
 ||78387c2566.com^
+||7868d5c036.com^
 ||788aefb4ed.com^
 ||7893com.com/img/*.gif
 ||789peizi.com^
@@ -6056,6 +6059,7 @@
 ||ads.enrt.eu^
 ||ads.environmentalleader.com^
 ||ads.eorezo.com^
+||ads.exakt24.se^
 ||ads.expekt.se^
 ||ads.facebook.com^$xmlhttprequest,redirect-rule=noop.txt
 ||ads.feelingtouch.com^
@@ -16724,6 +16728,7 @@
 ||can-get-some.net^
 ||canadianbedevil.com^
 ||canangafierier.uno^
+||canariajournalen.ads.ramsalt.com^
 ||canarystarkcoincidence.com^
 ||canarytokens.com^
 ||canastagruff.com^
@@ -17232,6 +17237,7 @@
 ||ccsshn137.shop^
 ||cctg.cc^
 ||cctime.com/UpLoadFile/201*.gif
+||cctuhqghljzdrv.com^
 ||cctv.com/Library/a2.js
 ||cctv5.name/data/js/
 ||cctv5.name/images/js/indextop.js
@@ -25034,6 +25040,7 @@
 ||douhooke.net^
 ||doujinnomori.com/ad/
 ||doujl.cn^
+||doujs01.xyz^
 ||doukoula.com^
 ||doumobhaia.site^
 ||doumuleet.net^
@@ -32171,6 +32178,7 @@
 ||galleonpiotine.com^
 ||galleries-pornstar.com/thumb_top/
 ||galleyssleeps.top^
+||gallicize25.fun^
 ||galliestorpify.com^
 ||gallonranchwhining.com^
 ||gallopextensive.com^
@@ -34349,6 +34357,7 @@
 ||granddadfindsponderous.com^
 ||granddaughterrepresentationintroduce.com^
 ||grandeursway.com^
+||grandezza31.fun^
 ||grandfathercancelling.com^
 ||grandfatherguitar.com^$third-party
 ||grandiosefire.com^$third-party
@@ -42591,6 +42600,7 @@
 ||js.92aliyun.com^
 ||js.aiservice.vn^
 ||js.allporncomic.com^
+||js.bigcomics.win^
 ||js.bju888.com^
 ||js.bninocerossrhino.com^
 ||js.brstke.top^
@@ -43402,6 +43412,7 @@
 ||karoon.xyz^
 ||karoup.com^
 ||karpasbeamer.com^
+||karpatzi.com^
 ||karponews.com^
 ||karshagirdled.com^
 ||karstsburnut.com^
@@ -63687,6 +63698,7 @@
 ||quiveringriddance.com^
 ||quizmastersnag.com^
 ||quizmastersnappy.com^
+||quizna.xyz^
 ||quizsupportedchapel.com^
 ||quizzicalgrand.pro^
 ||quizzicalpartner.com^$third-party
@@ -65312,6 +65324,7 @@
 ||requisiteconjure.com^
 ||requizmispled.com^
 ||requotehocker.com^
+||reqyfuijl.com^
 ||rereddit.com^
 ||rergeema.com^
 ||reroplittrewheck.pro^
@@ -68265,6 +68278,7 @@
 ||seeingcare.com^
 ||seek68.cn/img/*.gif
 ||seekbang.com^
+||seekmymatch.com^
 ||seekoflol.com^
 ||seemedgrucche.com^
 ||seemingverticallyheartbreak.com^
@@ -73955,6 +73969,7 @@
 ||superstitiouscoherencemadame.com^
 ||superstriker.net^
 ||superstyle.ru^
+||supertaste.tvbs.com.tw/css/adunit.min.css
 ||supertop.ru^
 ||supertrackingz.com^
 ||supertura.com^
@@ -75002,6 +75017,7 @@
 ||talpa-analytics.com^
 ||talrahot.net^
 ||talsauve.com^
+||talsindustrateb.info^
 ||talysu.info^
 ||tamaraoolympic.life^
 ||tamedia.com.tw^$third-party
@@ -85970,6 +85986,7 @@
 ||wkoeoaavammkr.top^
 ||wkoeoaavammqv.top^
 ||wkoeoaavamqek.top^
+||wkoocuweg.com^
 ||wkpewkejefefhm.com^
 ||wkpfgjbmd.com^
 ||wkqcnkstso.com^
@@ -86538,6 +86555,7 @@
 ||wrontonshatbona.com^
 ||wrotad.com^
 ||wroteeasel.com^
+||wrothycreep.top^
 ||wrotop.com^
 ||wrotov.com^
 ||wrotus.com^
@@ -89335,6 +89353,7 @@
 ||yretx.cn^
 ||yrfowbaldjrxr.xyz^
 ||yrhdmalrfr.com^
+||yrincelewasgiw.info^
 ||yrinpvfw.com^
 ||yrlkeazcacxwaj.com^
 ||yrlyjc.cn^
@@ -91344,7 +91363,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 114la.com##.search_ad
 114la.com##.sy_ad4
 114la.com#?#.sortItem:-abp-has(> dIV[class] > .FeedADClose)
-114la.com,1688porn.tv,4tube.com,78dm.net,ansamed.info,anyporn.com,aosmark.com,baltic-course.com,camwhores.biz,camwhores.tv,cartoon-sex.tv,chinairn.com,chinanews.com.cn,dav01.com,eteenporn.com,futbol24.com,gatewaynews.co.za,gsmarena.com,idealista.com,jetphotos.com,karger.com,mangaku.vip,maritimejobs.com,newagebd.net,oncam.me,pervertslut.com,pornformance.com,porngun.net,pornhills.com,prohaircut.com,qncye.com,qzwb.com,railcolornews.com,rat.xxx,sexboomcams.com,silisili.in,silver.org.cn,solidot.org,theyarehuge.com,tiktits.com,titter.com,vivud.com,webanddesigners.com,wordlegame.org,ylmf.com,zbani.com##.adv
+114la.com,1688porn.tv,4tube.com,78dm.net,ansamed.info,anyporn.com,aosmark.com,baltic-course.com,camwhores.biz,camwhores.tv,cartoon-sex.tv,chinairn.com,chinanews.com.cn,dav01.com,eteenporn.com,futbol24.com,gatewaynews.co.za,gsmarena.com,gulfnews.com,idealista.com,jetphotos.com,karger.com,mangaku.vip,maritimejobs.com,newagebd.net,oncam.me,pervertslut.com,pornformance.com,porngun.net,pornhills.com,prohaircut.com,qncye.com,qzwb.com,railcolornews.com,rat.xxx,sexboomcams.com,silisili.in,silver.org.cn,solidot.org,theyarehuge.com,tiktits.com,titter.com,vivud.com,webanddesigners.com,wordlegame.org,ylmf.com,zbani.com##.adv
 114la.com,ylmf.com###GameAdv
 114la.com,ylmf.com###HDtopBar
 114la.com,ylmf.com###imgArr
@@ -91569,18 +91588,18 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 18-comic.work,18-comicfrieren.xyz,18comic.org,18comic.vip,18comic1.art,18comic2.art,bejson.com,breakingenergy.com,epicload.com,jmcomic.me,json.cn,movieclassic.net,pianyuan.org,qixingquan.com,shine.cn##.modal-backdrop
 18-comic.work,18-comicfrieren.xyz,18comic.org,18comic.vip,18comic1.art,18comic2.art,jmcomic.me###guide-modal
 18-comic.work,18-comicfrieren.xyz,18comic.org,18comic.vip,boylov.xyz,boylove.cc,boylove1.mobi,boyloves.fun,jmcomic.me##.div_sticky2
-18-comic.work,18-comicfrieren.xyz,18comic.org,18comic.vip,boylov.xyz,boylove.cc,boyloves.fun,jmcomic.me##style + div[style="cursor: pointer; position: relative;"]
 18-comic.work,18-comicfrieren.xyz,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > [style*="back"]
-18-comic.work,18-comicfrieren.xyz,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > div[style^="display: block;"]
 18-comic.work,18-comicfrieren.xyz,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img
 18-comic.work,18-comicfrieren.xyz,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img + [style]
-18-comic.work,18-comicfrieren.xyz,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+div)
 18-comic.work,18-comicfrieren.xyz,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+script)
-18-comic.work,18-comicfrieren.xyz,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+style)
 18-comic.work,18-comicfrieren.xyz,18comic.org,18comic.vip,jmcomic.me,jmcomic1.city,jmcomic1.win#?#:-abp-has(>script+ins)
 18-comic.work,18-comicfrieren.xyz,18comic.org,18comic.vip,jmcomic.me,jmcomic1.city,jmcomic1.win#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
 18-comic.work,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > span[style*="back"]
 18-comicfrieren.xyz,18comic.org,18comic.vip##.row[style="display: flex;flex-wrap: wrap;"]
+18-comicfrieren.xyz,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > div[style^="display: block;"]
+18-comicfrieren.xyz,18comic.org,18comic.vip#?#:-abp-has(>ins+div)
+18-comicfrieren.xyz,18comic.org,18comic.vip#?#:-abp-has(>ins+style)
+18-comicfrieren.xyz,18comic.org,18comic.vip,boylov.xyz,boylove.cc,boyloves.fun##style + div[style="cursor: pointer; position: relative;"]
 18-teen-xxx.com,24video.adult,24video.in,4asianporn.com,4tube.com,52av.tv,8boobs.com,8muses.com,8teenxxx.com,9gag2.com,absolugirl.com,absoluporn.com,ah-me.com,al4a.com,alotporn.com,amateurs-fuck.com,anysex.com,area51.porn,ashemaletv.com,auntmia.com,baltasar5010purohentai.com,bdsmstreak.com,beeg.com,beegsexporn.com,beste-sexgeschichten.com,besteporn.com,biguz.net,blobopics.biz,boysnaweb.net,bravoerotica.com,brazzerzxxx.com,bustmonkey.com,cartoontube.xxx,casting-porno-tube.com,celebrity-leaks.net,chyoa.com,club-flank.com,cumlouder.com,desihoes.com,deutschsex.com,doolls.org,drunkmoms.net,dump.xxx,eegay.com,eporner.com,erohentai.net,erome.com,eroprofile.com,erowall.com,eroxia.com,favefreeporn.com,fivestarpornsites.com,freeimagefap.com,freetubeasia.com,freexvideossex.com,frprn.com,ftopx.com,fuckbox.org,fuckhardporn.com,fullhdxxx.com,fuqer.com,fux.com,fxporn69.com,g6hentai.com,gameofporn.com,gaybarebacks.com,gaypornmasters.com,gaytiger.com,gelbooru.com,gifsfor.com,girlscanner.cc,girlscv.com,girlsfucking.net,gosexpod.com,gotgayporn.com,gotporn.com,gutesex.com,hclips.com,hdmoza.com,hdporn8.com,hdzog.com,hellporno.com,hentaifr.net,hentaipulse.com,hipornvideo.com,hitomi.la,home-made-videos.com,homemature.net,hotmovs.com,hotsexlove.com,imagerar.com,imageshtorm.com,imagetwist.com,imageweb.ws,imghost.top,imgmercy.com,imgpeak.com,imgprime.com,imgtorrnt.in,imguur.pictures,imx.to,imzog.com,iwantmature.com,japan-whores.com,japanesefuck.com,japornhd.com,jav789.com,javbuz.com,jemontremasextape.com,jemontremonminou.com,jizzbo.com,jizzhut.com,jizzonline.com,juicygif.com,kporno.com,letmejerk.com,letmejerk3.com,letmejerk4.com,letmejerk5.com,letmejerk6.com,letmejerk7.com,lonely-mature.com,losporn.org,luscious.net,madchensex.com,mangoporn.co,mature-girls.com,maturefatporn.com,milffox.com,misterboys.com,momthumb.com,motherless.com,movierls.net,moviesguy.com,mrsexe.com,mujeres-desnudas.com,multporn.com,muschitube.com,mypornstarbook.net,myreadingmanga.info,nakedbabes.club,nakedmodelsxxx.com,naughtyblog.org,needgayporn.com,newporn24.com,newpornup.com,newxxxvideos.net,nopeporn.com,nude-gals.com,nudistube.com,nxgx.com,obitube.com,ohhgays.com,okporn.com,onlygayvideo.com,onlypron.com,perfectgirls.net,perfectgirlsboobs.com,pervertedmilfs.com,petrovixxxjav.info,picfox.org,picshick.com,pictoa.com,pixroute.com,planetsuzy.org,playpornfree.net,playpornfree.xyz,plusone8.com,porn-free-hub.com,pornbourn.com,pornclipsxxx.com,porndoe.com,pornerbros.com,pornfapr.com,porngq.com,pornhd.com,pornj.com,pornl.com,pornmaki.com,pornobae.com,pornofaps.com,pornoheit.com,pornomovies.com,pornoreino.com,pornorips.com,pornoversion.com,pornozot.com,pornstarsadvice.com,porntube.com,porntubexxxl.com,pornult.com,pornvideoq.com,pornwatchers.com,pornyfap.com,pussyspace.com,realgfporn.com,realitybrazzers.com,redtub3xxx.com,sassygays.com,sassytube.com,see.xxx,sensualgirls.org,sexrura.pl,sexu.com,sexuhot.com,sexy-youtubers.com,sexybabesz.com,sexytrunk.com,singlove.com,smplace.com,submityourflicks.com,sunporno.com,superbgays.com,teenagefucking.com,thatpervert.com,thedoujin.com,thefappening.pro,thegay.com,thegay.porn,thehentaiworld.com,thisav.video,thisvid.com,topboard.org,torrentgalaxy.org,tranny.one,trans.firm.in,tubedupe.com,tubeflv.com,tuberel.com,twinkhouse.com,txxx.*,unfaithfulxxx.com,upornia.com,upskirtporn.de,veu.xxx,vintage-erotica-forum.com,wantedbabes.com,webcamshows.org,whichav.com,worldsex.com,xbabe.com,xboyzzz.com,xerotica.com,xfilmen.com,xnxxporntube.net,xnxxvideoporn.com,xstory-fr.com,xxx-y.com,xxxbanjo.com,xxxmoviestream.xyz,xxxtubesex.net,xxxvideos247.com,xxxwebdlxxx.org,yeswegays.com,youjizz.com,youngsexhd.com,youwatchporn.com,yumstories.com##+js(abort-on-property-read, ExoLoader)
 18183.com###gsBtn
 18183.com##.down_url
@@ -93515,6 +93534,7 @@ ar15.com,armageddonexpo.com,audiforums.com,element-plus.org,f1gamesetup.com,ferr
 arabianindustry.com##.da-leaderboard
 arabiaweather.com##.mpu-card
 aratta-ukraine.com,drawnstories.ru,gisclub.tv,kinda.media,teremok.org.ua,webos-forums.ru###mdl_adb
+arbiscan.io##.d-none.text-center.pl-lg-4.pl-xll-5
 arboristsite.com,kitchenknifeforums.com,quadraphonicquad.com##.gb-sponsored-wrapper
 arcadebomb.com##.bannerext
 arcadebomb.com##.bottombox
@@ -95536,6 +95556,8 @@ citybeat.com,riverfronttimes.com##.fdn-teaser-row-teaser
 citybeat.com,riverfronttimes.com##[gpt-slot-div-id="HeaderBillboard"]
 citychicdecor.com##.shopthepost-widget
 citynews.ca###Bigbox_300x250
+citynews.ca###master-leaderboard
+citynews.ca##.ad-load
 citywire.com##.cw-top-advert
 civilsdaily.com##.modal
 civilserviceindia.com##a[href*="/red.php?bu="]
@@ -100633,13 +100655,14 @@ imgrutor.com,playtor.tv##div[class^="adblock-warning"]
 imgsen.com##a[href^="https://besthotgayporn.com/"]
 imgsen.com##a[href^="https://hardcoreincest.net/"]
 imgtaxi.com##.bottom_abs
+imgur.com##.BannerAd-cont
 imgur.com##.Gallery-Content-AdSense
 imgur.com##.Grid-column > div[style^="height:"]:has(.AdHomeContainer)
 imgur.com##.Grid-column > div[style^="height:"]:has(.Post-item-external-ad)
-imgur.com##.Post-item:has(.Post-item-external-ad)
 imgur.com##.PrimisPlayerContainer
 imgur.com##.Top300x600
 imgur.com##.fast-grid-ad
+imgur.com##[id^="Col-Child-Imgur"][style$="min-height: 250px;"]
 imgur.com,pushsquare.com,songlyrics.com##.masthead
 imkan.tv##.bottom__card
 imnks.com##.adTags
@@ -104693,6 +104716,7 @@ pcgamesn.com,theloadout.com##.sticky_rail600
 pcgamingwiki.com###gog_summer_sale_2021
 pcgamingwiki.com##.home-gamesplanet-promo
 pcgamingwiki.com##.upcoming-releases.home-card:first-child
+pcguide.com##.wepc-takeover
 pch.com###div-pch-gpt-placement-bottom
 pch.com###div-pch-gpt-placement-multiple
 pch.com###div-pch-gpt-placement-top
@@ -107372,6 +107396,7 @@ soyunpan.com###qblad
 soyunpan.com##.jmwb
 space.com##.jwplayer__wrapper
 space.utema.ru##.main-content-padding > div[class]:not([itemprop])
+spambox.xyz##.ads-four
 spanishdict.com###adMiddle2-container
 spanishdict.com###removeAdsSidebar
 spanishdict.com##.ad--1zZdAdPU
@@ -107698,6 +107723,10 @@ superdeluxeedition.com##.widget-bg-image__deal-alert
 superhumanradio.net##.rotating_zone
 superiorpics.com##.h250
 superlife.ca##.sidebar-ad-zone
+supertaste.tvbs.com.tw###ad_m_bottom
+supertaste.tvbs.com.tw###lightbox--ad
+supertaste.tvbs.com.tw##.ad_m_block
+supertaste.tvbs.com.tw##.ad_m_top
 supjav.com##.simpleToast
 supplychainbrain.com##.right-rail-sponsors
 supportdap.online##.td-post-content > a[rel="nofollow"] > img
@@ -108698,7 +108727,6 @@ torbay.gov.uk##.track
 torkitty.com,torrentkitty.app,torrentkitty.io,torrentkitty.lol,torrentkitty.net,torrentkitty.se,torrentkitty.tv##a[href*="/aff_"]
 torlock.com##[class^="wrn"]
 torlock.com##table.hidden-xs
-toronto.citynews.ca##.ad-load
 torrends.to##.notice-top
 torrentgalaxy.to###startad
 torrentgalaxy.to##[href^="/bub.php"]
@@ -110185,6 +110213,7 @@ www.wenxuecity.com##.col > ul:not([id]) > li > a[href^="http"]:not([href*=".wenx
 www.wpdaxue.com##:not(.post-thumbnail) > a[target="_blank"] > img
 www.xilinjie.com###xlj-da-block-overlay
 www.yizhibo.com##.register_guide
+www.youtube.com##.ytp-featured-product
 www.youtube.com,youtube.com##div#masthead-ad
 www.zhihu.com,zhihu.com##.AppMagicBanner
 www.zhihu.com,zhihu.com##.Banner-link
