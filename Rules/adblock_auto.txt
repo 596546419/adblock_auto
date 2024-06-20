@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: FTXduBw2El1KY1bdRkftsg
+! Checksum: PbI6cmOaZ58gfGIVcBHmZg
 ! Title: 混合规则(自动更新)
-! Version: 20240620162608
+! Version: 20240621002743
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-20 16:26:08
-! Total Count: 146427
+! Last modified: 2024-06-21 00:27:43
+! Total Count: 146447
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -439,6 +439,7 @@
 ||106c6423c3.com^
 ||107.148.199.181^
 ||107.165.206.26^
+||107.167.16.14^
 ||107.172.176.197^
 ||107.182.131.103/cache/?q=/images/
 ||107.183.137.18^
@@ -3248,6 +3249,7 @@
 ||8861201.com^
 ||8861202.com^
 ||8861203.com^
+||8878tp.com^
 ||887vn.com^
 ||8881919.cc^
 ||8881img.com^
@@ -9238,6 +9240,7 @@
 ||analytics.snaptube.app^
 ||analytics.snidigital.com^
 ||analytics.sohatv.vn^
+||analytics.sonjj.com^
 ||analytics.spankbang.com^
 ||analytics.sports.ru^
 ||analytics.springboardvideo.com^
@@ -10155,6 +10158,7 @@
 ||appresthinters.top^
 ||approachconducted.com^
 ||approachproperachieve.com^
+||appropriate-bag.pro^
 ||appropriateloathefewer.com^
 ||appropriatepurse.com^
 ||approximatelyseats.com^
@@ -17189,7 +17193,10 @@
 ||ccav5.com/static/js/floatImgAd.js
 ||ccb.com.cn/V5/images5/left0.gif
 ||ccb.com.cn/V5/images5/right0.gif
+||ccccc66kkkkk.com^
 ||ccccc67kkkkk.com^
+||ccccc78kkkkk.com^
+||ccccc88kkkkk.com^
 ||cccccd.com^
 ||cccf.store^
 ||cccpmo.com^
@@ -29662,6 +29669,7 @@
 ||featherstage.com^$third-party
 ||feathr.co^
 ||featue.com^
+||feature-flag-edge.live.clickbus.net^
 ||feature.fm^
 ||featured.perfectionholic.com^
 ||featurelink.com^
@@ -41997,6 +42005,7 @@
 ||jink.de^
 ||jinkens.fun^
 ||jinlubaojie.cn^
+||jinman4.com/ad/
 ||jinriguanzhu.cc^$domain=cgfdjz.net
 ||jinrongwang.net^
 ||jinrui.online^
@@ -44245,6 +44254,9 @@
 ||kmrcum2.com^
 ||kmrilock.com^
 ||kmrnkjer.xyz^
+||kms-full.com^
+||kmspico.io^
+||kmspico.ws^
 ||kmu.gwmrb.cn^
 ||kmvbre.com^
 ||kmw.com/js/adshow
@@ -97963,6 +97975,7 @@ faptor.com,truyen-hentai.com,darknessporn.com,familyporner.com,freepublicporn.co
 faptube.com,gotxx.net,javmilf.xyz,redtub.club,spermogon.com,pornopics.site,men4menporn.eu,gayzerhd.club,hdporn-movies.com,pornpapa.com,gettubetv.com,crownimg.com##+js(addEventListener-defuser, load, popMagic)
 faptube.xyz,hqpornstream.com,magicaltube.com##.spot-block
 fapxl.com,javtitan.com,thejavmost.com,tojav.net###preroll
+fark.com##.top_right_container
 farminglife.com,newcastleworld.com##.helper__DesktopAdContainer-sc-12ggaoi-1
 farminguk.com###newsadvert
 farminguk.com##.advert-word
@@ -98425,6 +98438,7 @@ fqlook.cn###rtj1009_iho3
 fqlook.cn###rtj1009_ren_imme1
 fqys1.com##[class^="ads"][style]
 fqzww.net##a[onclick="qinlintes11t2()"]
+framed.wtf##img[alt="prime gaming banner"]
 francaisfacile.net,o-pro.online,eda-ah.com,ta2deem7arbya.com,leechyscripts.com,killdhack.com,rarovhs.com,jpopsingles.eu,technicalatg.com,anreiter.at,moewalls.com,frenchweb.fr,freemagazines.top,desktopsolution.org,zuariya.com,bankofinfo.com,knightnoscanlation.com,pathshalanepal.com,angolopsicologia.com,courserecap.com,cyberbump.net,mikrometoxos.gr,geezwild.com,manga-fenix.com,codehelppro.com,9movierulz.*,icongnghe.com,pulpitandpen.org,turbolangs.com,skincaredupes.com,codeastro.com,saniaowner.space,chineseanime.co.in,hentai-mega-mix.com,ragnarokscan.com,codecap.org,themehits.com,katmoviefix.*,dragontea.ink,twinkybf.com,softfully.com,windowsbulletin.com,udemycoupons.me,365tips.be,animeactua.com,galaxytranslations97.com,myviptuto.com,tienichmaytinh.net,coursevania.com,youfriend.it,7misr4day.com,technicalatg.xyz,gourmetscans.net,mangakik.com,michaelemad.com,javgayplus.com,gaypornhdfree.com,fcportables.com,netfuck.net,mkvhouse.com##div[id^="chp_ads_block"]
 frankspeech.com##.bunny-banner
 frdic.com,godic.net##a[onclick*="/ads/"]
@@ -99743,6 +99757,7 @@ he-games.com###he_banner_ad
 he-games.com###he_bottom_ad
 hea.cn###top_slides_box
 headforpoints.com##.widget--aside.widget
+headlineintime.com##.banner-add
 health.news,naturalnews.com,newstarget.com##[href^="https://www.brighteon.tv"]
 health.tvbs.com.tw##.ad_desktop_top
 health.tvbs.com.tw##.ed-hidden.ed-xl-block
@@ -103976,6 +103991,8 @@ news12.com##.banner-leaderboardArticle-area
 news12.com##.banner-midContent-area
 news12.com##.banner-middleboard-area
 news12.com##.banner-sidebar-area
+news12.com##.hCauqx
+news12.com##[alignitems="normal"][justifycontent][direction="row"][gap="0"]
 news18.com##.NAT_add
 news18.com##.article_mad
 news18.com##.article_main > div[style="min-height: 1170px;"]
@@ -104880,6 +104897,8 @@ phpvar.com##.aliPic
 phpvar.com##.post_content_linkad
 phpvar.com##.qrcode-swiper-container
 phuketwan.com###bannersTop
+phys.org##.embed-responsive-trendmd
+phys.org##[style="min-height: 601px;"]
 physicsandmathstutor.com###PMT_PDF_Top
 physicsandmathstutor.com###PMT_Top
 physicsworld.com##.corporate-partners
@@ -107714,6 +107733,7 @@ sunporno.com##.safelink
 sunshinewaay.cn##img[class$="BnImg"]
 suopao.org##.t5[style^="margin-top:8px;"]
 suopao.org##.tr3.t_one[onmouseout]
+supercarblondie.com##.h-\[660px\]
 supercheats.com###titlebar
 supercheats.com###titlebar_banner
 supercheats.com##.a300

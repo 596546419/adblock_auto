@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: XGE3xCAzTT9C/8W9oy/Dnw
+! Checksum: DRaMX7CZPMayjMCl8SVU1A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240620162620
+! Version: 20240621002755
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-20 16:26:20
-! Total Count: 28101
+! Last modified: 2024-06-21 00:27:55
+! Total Count: 28107
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -177,6 +177,7 @@
 ||102tv.cn/js/main.js
 ||104.167.70.98^$domain=chuzuche8.com
 ||104.199.8.250^*/webservices/getDialogAdDetails.php
+||107.167.16.14^
 ||10fang.com/static/skin/tfy/layer/layer.js
 ||11.96131.com.cn^
 ||11.golang8.com^
@@ -1121,6 +1122,7 @@
 ||88448.com/images/appkai980x100.gif
 ||8861198.com^
 ||8861202.com^
+||8878tp.com^
 ||8881img.com^
 ||8886i.top^
 ||888aa111bb.com^
@@ -5008,7 +5010,10 @@
 ||ccav5.com/static/js/floatImgAd.js
 ||ccb.com.cn/V5/images5/left0.gif
 ||ccb.com.cn/V5/images5/right0.gif
+||ccccc66kkkkk.com^
 ||ccccc67kkkkk.com^
+||ccccc78kkkkk.com^
+||ccccc88kkkkk.com^
 ||ccdm*/Scripts/ccMedia.js
 ||ccement.com/index/index/fetchAd
 ||ccement.com/js/ccement_new/open.js
@@ -9441,6 +9446,7 @@
 ||jinhonghao.cn^
 ||jinhua.com.cn/ad_pic/
 ||jinkens.fun^
+||jinman4.com/ad/
 ||jinti.com^*/aspx/*gg
 ||jintonghua.com^
 ||jinxiyue.com/seo.js$script
