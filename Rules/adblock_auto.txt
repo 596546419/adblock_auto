@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 5ebNFWWGO+0YlsDIKobdJw
+! Checksum: ZXLN34wljVsmGkcCK3EX2Q
 ! Title: 混合规则(自动更新)
-! Version: 20240621092346
+! Version: 20240621162520
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-21 09:23:46
-! Total Count: 146479
+! Last modified: 2024-06-21 16:25:20
+! Total Count: 146491
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2084,6 +2084,7 @@
 ||4f369824ed.com^
 ||4f4e1936f7.com^
 ||4fb0cadcc3.com^
+||4fb60fd0.xyz^
 ||4fef80eb73.com^
 ||4ffecd1ee4.com^
 ||4g0b1inr.de^
@@ -12502,6 +12503,7 @@
 ||banners.prikol.ru^
 ||banners.tapclap.com^
 ||banners.tempobet.com^
+||banners.wsnonline.dk^
 ||banners5html2.com^
 ||bannersmall.com^
 ||bannersmania.com^
@@ -13769,6 +13771,7 @@
 ||bfgacxuooced.com^
 ||bfgg365.com^
 ||bfgtfxd.com^
+||bfhueh.top^
 ||bfjk360.com^
 ||bfjl.ink^
 ||bfjsliv.top^
@@ -57057,6 +57060,7 @@
 ||ouleegneeje.com^
 ||oulibf.xin^
 ||ouliglsu.space^
+||oulragart.xyz^
 ||oulrarta.net^
 ||oulrukry.xyz^
 ||oulsools.com^
@@ -58997,6 +59001,7 @@
 ||phaivais.net^
 ||phaixurd.com^
 ||phalingy.net^
+||phallicbedsore.com^
 ||phamsacm.net^
 ||phanmem111.com^
 ||phanmem333.com^
@@ -64146,6 +64151,7 @@
 ||raivoufe.xyz^
 ||rajabets.xyz^
 ||rajatraffic.com^
+||rajmobbism.com^
 ||rakamu.com^
 ||rake.11st.co.kr^
 ||rake.tmap.co.kr^
@@ -67636,6 +67642,7 @@
 ||saunutha.xyz^
 ||saupouni.xyz^
 ||sauptoacoa.com^
+||sauptowhy.com^
 ||saurajembe.top^
 ||sauriaparpen.com^
 ||sausagegirlieheartburn.com^
@@ -69202,6 +69209,7 @@
 ||shenzo.xyz^
 ||shepeekr.net^
 ||shepherdalmightyretaliate.com^
+||shepsubsitha.com^
 ||shequdaohang.com^$third-party
 ||shequn.online^
 ||shereeflivish.com^
@@ -81059,6 +81067,7 @@
 ||uphillgrandmaanger.com^
 ||uphilo.com^
 ||uphorter.com^
+||uphoveduke.com^
 ||uphoveeh.xyz^
 ||upinu.xyz^
 ||upkkccfxai.com^$third-party
@@ -84733,6 +84742,7 @@
 ||wazzeyzloayz.top^
 ||wazzeyzlozyj.top^
 ||wb9c.top^
+||wbaj.cn^
 ||wbaogaqvrukprx.com^
 ||wbazhaheie.top^
 ||wbdds.com^
@@ -92772,7 +92782,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 9uu.com,acc39.com##.gao-bg
 9xav.cc##+js(remove-class, q-body--prevent-scroll, body)
 9xav.cc#?#div[class]:not([class*=" "]):has(> span[class*=" "] > a[href^="https://"][target="_blank"])
-9xflix.qpon,anime7.download,apkmb.com,asura.gg,asurascans.com,asuratoon.com,bakabuzz.com,bicfic.com,bigbrothernetwork.com,bollywoodhindi.in,borncity.com,browserhow.com,chatgbt.one,chromeunboxed.com,coffeenerd.blog,conservativebrief.com,crackshere.com,crewbase.net,cryptodirectories.com,cryptopolitan.com,dandadanmanga.org,daybuy.tw,desiflix.club,designcorral.com,digitbin.com,econostrum.info,environmentenergyleader.com,firmwarefile.com,firstcuriosity.com,flamescans.org,fossbytes.com,free.com.tw,freecoursesites.net,game-2u.com,getdroidtips.com,guru99.com,howifx.com,journeybytes.com,jujmanga.com,lilymanga.com,linuxcapable.com,marugujarat.in,monsterspost.com,movies07.art,mpnrc.org,myhealthgazette.com,naijaremix.com,netchimp.co.uk,nintendoeverything.com,njbeachcams.com,nokiapoweruser.com,nsw2u.*,opportunitydesk.info,otakukan.com,pcguide.com,policeresults.com,pornstash.in,profitableventure.com,ps4pkg.com,qzlyrics.com,repack-games.com,rockandrollgarage.com,secondlifetranslations.com,silverspoon.site,swarmmanga.com,tech-latest.com,techgeekbuzz.com,techpp.com,techrfour.com,tektutorialshub.com,thegeekpage.com,thewincentral.com,tricksndtips.com,troypoint.com,tutcourse.com,tvtonight.com.au,vavada5com.com,vgkami.com,warsawnow.pl,watchasian.ac,watchseinfeld.cc,whatisthemeaningofname.com,windowsactivators.org,xyzcomics.com##body .code-block
+9xflix.qpon,anime7.download,apkmb.com,asura.gg,asurascans.com,asuratoon.com,bakabuzz.com,bicfic.com,bigbrothernetwork.com,bollywoodhindi.in,borncity.com,browserhow.com,chatgbt.one,chromeunboxed.com,coffeenerd.blog,conservativebrief.com,crackshere.com,crewbase.net,cryptodirectories.com,cryptopolitan.com,dandadanmanga.org,daybuy.tw,desiflix.club,designcorral.com,digitbin.com,econostrum.info,environmentenergyleader.com,firmwarefile.com,firstcuriosity.com,flamescans.org,fossbytes.com,free.com.tw,freecoursesites.net,game-2u.com,getdroidtips.com,guru99.com,howifx.com,journeybytes.com,jujmanga.com,lilymanga.com,linuxcapable.com,marugujarat.in,monsterspost.com,movies07.art,mpnrc.org,myhealthgazette.com,naijaremix.com,netchimp.co.uk,nintendoeverything.com,njbeachcams.com,nokiapoweruser.com,nsw2u.*,opportunitydesk.info,otakukan.com,pcguide.com,pokemonhubs.com,policeresults.com,pornstash.in,profitableventure.com,ps4pkg.com,qzlyrics.com,repack-games.com,rockandrollgarage.com,secondlifetranslations.com,silverspoon.site,swarmmanga.com,tech-latest.com,techgeekbuzz.com,techpp.com,techrfour.com,tektutorialshub.com,thegeekpage.com,thewincentral.com,tricksndtips.com,troypoint.com,tutcourse.com,tvtonight.com.au,vavada5com.com,vgkami.com,warsawnow.pl,watchasian.ac,watchseinfeld.cc,whatisthemeaningofname.com,windowsactivators.org,xyzcomics.com##body .code-block
 9y01.xyz##.in-friends
 Banner-Ad
 Banner-Adv
@@ -93502,6 +93512,7 @@ apkmirror.com##.ains-apkm_outbrain_ad
 apkmirror.com##.ezo_ad
 apkmirror.com##.gooWidget
 apkmirror.com##.google-ad-leaderboard
+apkmirror.com##.listWidget > .appRow
 apkmirror.com##.listWidget > .promotedAppListing
 apkmirror.com##div[id^="adtester-container-"]
 apkmody.io##.body-fixed-footer
@@ -97644,6 +97655,7 @@ engadget.com##.inline-emphasis
 engadget.com##.related-content-lazyload
 engadget.com#?#.Py\(40px\):-abp-has(> article > .D\(f\) > .Pos\(r\)[data-ylk*=":AD;"])
 engadget.com,sports.yahoo.com##.post-article-ad
+engadget.com,yahoo.com##.caas-da
 engine.presearch.org##.my-4
 english-hindi.net##div[style="height:250px !important; background:#ccc;"]
 english.nv.ua##.nts-video-wrapper
@@ -102413,6 +102425,7 @@ lite105.com##a[href^="https://www.pellabranch.com/"]
 litecoin-faucet.com##.sticky-top1
 literotica.com###b-top
 lithub.com##.Custom_Ads
+lithub.com##.insert-post-ads
 litix.io
 litv.tv##.ad_impression
 litv.tv##.internal_bn
@@ -110711,7 +110724,6 @@ yahoo.com###ysm-umu
 yahoo.com##.Feedback
 yahoo.com##.GeminiPortalStreamAd_handleViewport
 yahoo.com##.ad-tl2b
-yahoo.com##.caas-da
 yahoo.com##.crazyad
 yahoo.com##.darla
 yahoo.com##.darla-container
