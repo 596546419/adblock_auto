@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: DRaMX7CZPMayjMCl8SVU1A
+! Checksum: gMWAacB49ojOQtwCoBu+xg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240621002755
+! Version: 20240621092358
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-21 00:27:55
-! Total Count: 28107
+! Last modified: 2024-06-21 09:23:58
+! Total Count: 28112
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9873,6 +9873,7 @@
 ||kdgjsf.com^
 ||kdh095.cn^
 ||kdjdpyrt.xyz^
+||kdoshbd.top^
 ||kdou.com/ad_js.php?adid=
 ||kdpic.pchome.com.tw^
 ||kdqlbm.cn^
@@ -11889,6 +11890,7 @@
 ||nyt5j.cyou^
 ||nyvgbt.xyz^
 ||nz04com.com/aabdd/
+||nzhzzd.xyz^
 ||nzlrfdv.xyz^
 ||nzporf.xyz^
 ||nzq5.u95ivu.xyz^$third-party
@@ -12892,6 +12894,7 @@
 ||putaoys.com/static/js/acb1.js
 ||putonghua520.com/skins/10ym/3jin.gif
 ||putonghua520.com/skins/10ym/baicai.gif
+||puwkcqp.icu^
 ||puy2.cn^
 ||puzzlingproperty.com^$third-party
 ||pv.dakawm.cc^$third-party
@@ -13276,6 +13279,7 @@
 ||qyuwkby.top^
 ||qywbslk.top^
 ||qzalsk.xyz^
+||qzehwg.xyz^
 ||qziuwzn.cn^
 ||qznjujv.xyz^
 ||qzone.la/Scripts/m.js
@@ -14099,6 +14103,7 @@
 ||sgeth7.icu^
 ||sgeth9.icu^
 ||sgg.southcn.com^
+||sggu.cn^
 ||sgidskib.top^
 ||sgk.xyz/static/js/pc.js
 ||sglahyea.xyz^
