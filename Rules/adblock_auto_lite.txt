@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: D5exdiF6EC7FSzVAUOYZHw
+! Checksum: YeoZ6bCk/wJym8vnxtsU5g
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240622002452
+! Version: 20240622092356
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-22 00:24:52
-! Total Count: 28116
+! Last modified: 2024-06-22 09:23:56
+! Total Count: 28123
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5769,6 +5769,7 @@
 ||cxsh.cn.com^
 ||cxy88.friok.com^
 ||cy5kr.fun^
+||cycvyo.xyz^
 ||cycyw.com/mf/
 ||cycyw.com/qdj/
 ||cyq3noz.icu^
@@ -9164,6 +9165,7 @@
 ||isksss.top^
 ||isky.ltd/skin/js/ad.js
 ||islbaho.top^
+||ismuwcm.icu^
 ||isna.top^
 ||isnd.top^
 ||isoffss.com^
@@ -11740,6 +11742,7 @@
 ||njdaily.cn/templates/njdaily2014/widget/njdaily-slideAds
 ||njenlz.cn^
 ||njhvalu.cn^
+||njjavt.xyz^
 ||njogejt.icu^
 ||njppuaj.cn^
 ||njpyrn.xyz^
@@ -13870,6 +13873,7 @@
 ||scribblestring.com^$third-party
 ||script-bd.baixing.net^
 ||scrollservice.com^$third-party
+||scru.cn^
 ||scrubswim.com^$third-party
 ||scrvw3.com^
 ||scupio.com/adpinline/
@@ -13913,6 +13917,7 @@
 ||sdnc.top^
 ||sdo.com/static/image/mkads/
 ||sdofp9c.cddrhx.cn^$third-party
+||sdoshbb.top^
 ||sdtsad.com^
 ||sdvfvgj.cn^
 ||sdxzqec.xyz^
@@ -16243,6 +16248,7 @@
 ||voyagepotato.com^$third-party
 ||vozftn.xyz^
 ||vpn.baolq666.com^$third-party
+||vppzjv.xyz^
 ||vpqko.fun^
 ||vpqrydt.xyz^
 ||vps234.com/resources/images/hosting-promotion/
@@ -17611,6 +17617,7 @@
 ||yzfrapd.xyz^
 ||yzgbsg.xyz^
 ||yzgid.cn^
+||yzihdppw.xyz^
 ||yziwoidi.icu^
 ||yzjihang.cn^
 ||yzllux.xyz^

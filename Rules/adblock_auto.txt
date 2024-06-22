@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: hVEePY3atbrUgfh9bDj4Dg
+! Checksum: Twlp/zbGPvqGDo1Q8Bmulg
 ! Title: 混合规则(自动更新)
-! Version: 20240622002441
+! Version: 20240622092344
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-22 00:24:41
-! Total Count: 146514
+! Last modified: 2024-06-22 09:23:44
+! Total Count: 146555
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -519,6 +519,7 @@
 ||119.29.207.87^
 ||1190555.com^
 ||1199279496.rsc.cdn77.org^
+||1199403312.rsc.cdn77.org^
 ||119xiazai.com^$subdocument
 ||11a5ade414a6a4b9969685db9e96b193.com^
 ||11c7a3.xyz^
@@ -616,6 +617,7 @@
 ||131458.com/union/
 ||13199960a1.com^
 ||1324827002.rsc.cdn77.org^
+||1325492758.rsc.cdn77.org^
 ||1328f.com/js/jquery.js
 ||13322.com/newIndex/ad/
 ||1338999.com^
@@ -888,6 +890,7 @@
 ||1933201447.rsc.cdn77.org^
 ||1934671980.rsc.cdn77.org^
 ||194.59.220.161^
+||1946365241.rsc.cdn77.org^
 ||194ac5b0e3.com^
 ||194b7af8c3.com^
 ||19515bia.de^
@@ -7345,6 +7348,7 @@
 ||afjk001.xyz^
 ||afjlb.com^
 ||afk3rs.xyz^
+||afkearupl.com^
 ||afkwa.com^
 ||afl-static-cdn.newbiz-prod.stroeerws.de^
 ||afloatroyalty.com^
@@ -7698,6 +7702,7 @@
 ||aigaithojo.com^
 ||aigenstud.com^
 ||aiggkj.cn^
+||aigheebsu.net^
 ||aightutaitlastwe.xyz^
 ||aigligno.net^
 ||aigneloa.com^
@@ -14749,6 +14754,7 @@
 ||bngprm.com^
 ||bngpst.com^
 ||bngpt.com^
+||bngrol.com^
 ||bngtrak.com^
 ||bngwlt.com^
 ||bnhnkbknlfnniug.xyz^
@@ -16592,6 +16598,7 @@
 ||cafqeelk.com^
 ||caftaistes.com^
 ||cafvyfdqedjc.xyz^
+||cagakzcwyr.com^
 ||cageinattentiveconfederate.com^
 ||cagerssoohong.com^
 ||cagesscan.com^
@@ -17628,6 +17635,7 @@
 ||ceeqgwt.com^
 ||ceezepegleze.xyz^
 ||cegadazwdsp.com^
+||cegloockoar.com^
 ||cegrithy.net^
 ||cehbf.com^
 ||cehbg.com^
@@ -21969,6 +21977,7 @@
 ||cyclistforgotten.com^
 ||cycndlhot.xyz^
 ||cycsfe.com^
+||cycvyo.xyz^
 ||cycytea.cn^
 ||cycyw.com/mf/
 ||cycyw.com/qdj/
@@ -24654,6 +24663,7 @@
 ||dmtracker.com^
 ||dmtracking2.alibaba.com^
 ||dmtry.com^
+||dmuqumodgwm.com^
 ||dmvbdfblevxvx.com^
 ||dmvckj.icu^
 ||dmvporebntt.com^
@@ -24691,6 +24701,7 @@
 ||dniwe.xyz^
 ||dnjsiye.com^
 ||dnjszp.cn^
+||dnlgrxhfcsjhcto.com^
 ||dnn1300.top^
 ||dnnwebuxps.com^
 ||dnoicciekfm.xyz^
@@ -25214,6 +25225,7 @@
 ||dqwzhseasq.com^
 ||dqxbqubsknfc.com^
 ||dqxifbm.com^
+||dqypqewirrf.com^
 ||dqywkdxtcy.xyz^
 ||dqzehgha.xyz^
 ||dqzirj.xyz^
@@ -25720,6 +25732,7 @@
 ||durableordinarilyadministrator.com^
 ||durationmedia.net^
 ||durationzodiacdetermined.com^
+||durchsichtig.xyz^
 ||durhamoryssus.com^
 ||duried.com^
 ||durief.com^
@@ -28437,6 +28450,7 @@
 ||events.storifyme.com^
 ||events.swishapps.ai^
 ||events.textme-app.com^
+||events.tryamped.com^
 ||events.tubecup.org^
 ||events.turbosquid.com^
 ||events.tvtime.com^
@@ -30577,6 +30591,7 @@
 ||flirt4e.com^
 ||flirt4free.com^
 ||flirtatiousconsultyoung.com^
+||flirtfusiontoys.toys^
 ||flirthere1.com^
 ||flirtingsms.com^
 ||flitespashka.top^
@@ -30646,6 +30661,7 @@
 ||flsfzr.cn^
 ||fluctuo.com^
 ||fluemantappall.guru^
+||fluencydepressing.com^
 ||fluencyinhabited.com^
 ||fluencymedia.com^
 ||fluencythingy.com^
@@ -31706,6 +31722,7 @@
 ||fucsarhyhlci.com^
 ||fudeidsoanadthe.info^
 ||fudginghoners.com^
+||fudukrujoa.com^
 ||fuegodevida.com^
 ||fuel451.com^
 ||fuelbuck.com^
@@ -32417,6 +32434,7 @@
 ||garlandcheese.com^
 ||garlandprotectedashtray.com^
 ||garlandshark.com^
+||garlicice.store^
 ||garmentfootage.com^
 ||garmentsdraught.com^
 ||garnishpoints.com^
@@ -40782,6 +40800,7 @@
 ||isbnrs.com^
 ||isbnyzpunkx.com^
 ||isboost.co.jp^
+||isdarot.com^
 ||isdfbvkvsc.xyz^
 ||isdspeed.qq.com^
 ||iseatheadline.com^
@@ -40823,6 +40842,7 @@
 ||ismatlab.com^
 ||ismlks.com^
 ||ismscoldnesfspl.info^
+||ismuwcm.icu^
 ||isna.top^
 ||isnd.top^
 ||iso100.ru^
@@ -48584,6 +48604,7 @@
 ||m1955.com/template/qq/images/playad/
 ||m1ll1c4n0.com^
 ||m1saka.love^
+||m1tm.motor1.com^
 ||m2.ai^
 ||m2.lelemh.com^
 ||m28458.top^
@@ -51073,6 +51094,7 @@
 ||moaningbeautifulnobles.com^
 ||moaningtread.com^
 ||moanomoa.xyz^
+||moapaglee.net^
 ||moapevuwtv.com^
 ||moapuwhe.com^
 ||moartraffic.com^
@@ -52272,6 +52294,7 @@
 ||mutinydisgraceeject.com^
 ||mutinygrannyhenceforward.com^
 ||mutjrvxlldyrbyg.xyz^
+||mutmfwgdoxvbbuo.com^
 ||mutomb.com^
 ||mutsjeamenism.com^
 ||mutteredadis.org^
@@ -54207,6 +54230,7 @@
 ||njguluyu.cn^
 ||njhvalu.cn^
 ||njih.net^
+||njjavt.xyz^
 ||njjebgkvrniwmr.com^
 ||njkewubccvt.com^
 ||njkiho.info^
@@ -58833,6 +58857,7 @@
 ||persuasivepenitentiary.com^
 ||pertawee.net^
 ||pertersacstyli.com^
+||pertfinds.com^
 ||pertholin.com^
 ||pertlouv.com^
 ||pertov.com^
@@ -60933,6 +60958,7 @@
 ||pplnjoow.com^
 ||ppltxv.xyz^
 ||ppluoli.xyz^*.gif
+||ppmzcafertd.com^
 ||ppoi.org^
 ||ppoommhizazn.com^
 ||ppovysmcycmwvv.com^
@@ -66564,6 +66590,7 @@
 ||rqtrk.eu^
 ||rqwel.com^
 ||rqwnzbx.cn^
+||rqwyrdwlaygwxkw.com^
 ||rqxtbr.xyz^
 ||rqytqq.com^
 ||rr.pochengweiyuan.com^
@@ -68014,6 +68041,7 @@
 ||scrollservice.com^$third-party
 ||scrollye.com^
 ||scrtbhmtmplg.xyz^
+||scru.cn^
 ||scrubheiress.com^
 ||scruboutdoorsoffensive.com^
 ||scrubswim.com^$third-party
@@ -68068,6 +68096,7 @@
 ||sda.seksohub.com^
 ||sda.tamdiem247.com^
 ||sdarot-il.org^
+||sdarot-tv.org^
 ||sdarot.cc^
 ||sdarotil.top^
 ||sdasasyydd.com^
@@ -68139,6 +68168,7 @@
 ||sdo8357.com^
 ||sdofp9c.cddrhx.cn^
 ||sdofp9c.cddrhx.cn^$third-party
+||sdoshbb.top^
 ||sdprsvbnj.xyz^
 ||sdqinghong.cn^
 ||sdqoi2d.com^
@@ -77986,6 +78016,7 @@
 ||track.saygames.io^
 ||track.searchiq.co^
 ||track.segmentstream.com^
+||track.sendlane.com^
 ||track.sendo.vn^
 ||track.shop2market.com^
 ||track.shrinkplus.com^
@@ -78216,6 +78247,7 @@
 ||tracking-sap.frodx.com^
 ||tracking-server-prod-1.zenmxapps.com^
 ||tracking-service.glority.com^
+||tracking-v*.a.run.app^
 ||tracking-web.smobgame.com^
 ||tracking-widget.fillr.com^
 ||tracking.*.miui.com^
@@ -79650,6 +79682,7 @@
 ||tvdpebx.cn^
 ||tveta.naver.net^
 ||tvetamovie.pstatic.net^
+||tvfeel.cc^
 ||tvgxhvredn.xyz^
 ||tvkaimh.com^
 ||tvknxyisi.com^
@@ -83951,6 +83984,7 @@
 ||vpop2.com^
 ||vpotyflfox.com^
 ||vppst.iltrovatore.it^
+||vppzjv.xyz^
 ||vpqko.fun^
 ||vpqrydt.xyz^
 ||vprtrfc.com^
@@ -85860,6 +85894,7 @@
 ||windofaeolus.com^
 ||windowdemiselowlife.com^
 ||windowmentaria.com^
+||windows-pro.net^
 ||windows.net/732d.js
 ||windowsaura.com^
 ||windowsdaggerminiaturization.com^
@@ -87176,6 +87211,7 @@
 ||xav*.icu/base/js/other.js
 ||xawab.com^
 ||xawlop.com^
+||xaxciisqwvk.com^
 ||xaxoro.com^
 ||xaxrtiahkft.com^
 ||xayiqcwbmmhwf.com^
@@ -89025,6 +89061,7 @@
 ||ykkhihg.cn^
 ||yklfg.cn^
 ||ykmvnhue.com^
+||ykopnlrbb.com^
 ||ykotyeo.cn^
 ||ykoz.cn^
 ||ykqalsm.com^
@@ -89766,6 +89803,7 @@
 ||yzfrapd.xyz^
 ||yzgbsg.xyz^
 ||yzgid.cn^
+||yzihdppw.xyz^
 ||yziwoidi.icu^
 ||yzjihang.cn^
 ||yzjy.pro^
@@ -91725,7 +91763,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 18moe.org##.alignnone[alt="恰饭广告"]
 18moe.vip##a[href^="http"]:not([href*="18moe.vip"]) > img[src*="tc.18moe.net"]
 18porn.sex,18teensex.tv,429men.com,4kporn.xxx,4porn4.com,4wank.com,63290r.com,alotporn.com,amateurest.com,amateurporn.co,amateurporn.me,bestpornflix.com,bigtitslust.com,blowjobs.pro,bravoerotica.net,cambay.tv,camflow.tv,camfox.com,camwhores.tv,camwhorescloud.com,cartoonprn.com,celebwhore.com,cluset.com,danude.com,daporn.com,ebony8.com,exoav.com,fapnow.xxx,faptube.com,fpo.xxx,freeporn8.com,fuqer.com,gayck.com,gettubetv.com,hairyerotica.com,hentai-moon.com,heroero.com,hoes.tube,hqbang.com,intporn.com,japaneseporn.xxx,jav.gl,javwind.com,jizzberry.com,kuxxx.com,love4porn.com,mrdeepfakes.com,multi.xxx,onlyhentaistuff.com,pornchimp.com,porndr.com,pornmix.org,pornsai.com,rare-videos.net,sexcams-24.com,sexoverdose.com,shemalesin.com,sortporn.com,tabootube.xxx,thebussybandit.com,theporngod.com,theyarehuge.com,thothd.com,tubsexer.*,wandhi.com,watchmygf.xxx,watchporn.to,xcavy.com,xgroovy.com,xmateur.com,xmegadrive.com,xtits.*,xxxshake.com,yourporngod.com,zeenite.com##.table
-18porn.sex,4kporn.xxx,alphaporno.com,amateur8.com,andrewlock.net,anyporn.com,area51.porn,bigtitslust.com,camclips.tv,camwhores.tv,cd1025.com,centos.org,crazyporn.xxx,daniao.org,domainincite.com,dyz99.com,eachporn.com,europages.co.uk,fapster.xxx,fontyukle.net,fpo.xxx,freeporn8.com,gamingcloud.com,geekpark.net,gettubetv.com,grahamcluley.com,hairyerotica.com,heavyfetish.com,hentai-moon.com,heroero.com,ijr.com,its.porn,izlesimdiporno.com,jizzoncam.com,kpbs.org,lesbian8.com,lolhentai.net,magnetfox.com,manutd.com,maturetubehere.com,pervertslut.com,phillyvoice.com,phish.report,pornbrb.com,pornchimp.com,pornfapr.com,porngem.com,pornhits.com,porno90.online,porntop.com,porntrex.video,pornxpert.com,scatkings.com,sexpornimages.com,sexvid.xxx,sexwebvideo.com,shemalesin.com,sortporn.com,speedcafe.com,speedtest.cn,swiftbysundell.com,thefederalistpapers.org,thegatewaypundit.com,tktube.com,ufile.io,uiporn.com,vikiporn.com,watchmyexgf.net,westernjournal.com,wnd.com,xhamster.com,zedporn.com##.sponsor
+18porn.sex,4kporn.xxx,alphaporno.com,amateur8.com,andrewlock.net,anyporn.com,area51.porn,bigtitslust.com,cambay.tv,camclips.tv,camwhores.tv,cd1025.com,centos.org,crazyporn.xxx,daniao.org,domainincite.com,dyz99.com,eachporn.com,europages.co.uk,fapster.xxx,fontyukle.net,fpo.xxx,freeporn8.com,gamingcloud.com,geekpark.net,gettubetv.com,grahamcluley.com,hairyerotica.com,heavyfetish.com,hentai-moon.com,heroero.com,ijr.com,its.porn,izlesimdiporno.com,jizzoncam.com,kpbs.org,lesbian8.com,lolhentai.net,magnetfox.com,manutd.com,maturetubehere.com,pervertslut.com,phillyvoice.com,phish.report,pornbrb.com,pornchimp.com,pornfapr.com,porngem.com,pornhits.com,porno90.online,porntop.com,porntrex.video,pornxpert.com,scatkings.com,sexpornimages.com,sexvid.xxx,sexwebvideo.com,shemalesin.com,sortporn.com,speedcafe.com,speedtest.cn,swiftbysundell.com,thefederalistpapers.org,thegatewaypundit.com,tktube.com,ufile.io,uiporn.com,vikiporn.com,watchmyexgf.net,westernjournal.com,wnd.com,xhamster.com,zedporn.com##.sponsor
 18porno.tv##.toplist
 18porno.tv,freesexpornhd.com,hdpornonline.com,hdpornvideos.su,pornlist.tv,sexlist.tv,xnxxvideos.rest,xxxporn.me##.camitems
 18pornsex.com##.video-page > .ad
@@ -92278,7 +92316,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 4tube.com##img[src][style][width]
 4tube.com,fux.com,pornerbros.com,porntube.com##a[href*="/redirect-channel/"]
 4wank.com#?#.video-holder > center > :-abp-contains(/^Advertisement$/)
-4wank.com,91rb99.com,daporn.com,euobserver.com,fpo.xxx,hentai-moon.com,jianshu.com,medicinehatnews.com,pornachi.com,pornchimp.com,pornmix.org,scatxxxporn.com,xmateur.com##.top
+4wank.com,91rb99.com,cambay.tv,daporn.com,euobserver.com,fpo.xxx,hentai-moon.com,jianshu.com,medicinehatnews.com,pornachi.com,pornchimp.com,pornmix.org,scatxxxporn.com,xmateur.com##.top
 500.com###live_top_ad
 500.com##.tz_pai
 500.com##a[href*="sanyol.cn"]
@@ -93526,8 +93564,8 @@ apkmirror.com##.ains-apkm_outbrain_ad
 apkmirror.com##.ezo_ad
 apkmirror.com##.gooWidget
 apkmirror.com##.google-ad-leaderboard
-apkmirror.com##.listWidget > .appRow
 apkmirror.com##.listWidget > .promotedAppListing
+apkmirror.com##.listWidget > div[class="appRow"]
 apkmirror.com##div[id^="adtester-container-"]
 apkmody.io##.body-fixed-footer
 apkonline.net###adzz
@@ -95149,6 +95187,7 @@ cam4.com,cam4.tw##.hbanner
 cam4.tw###newTippingViewer + div[data-ab]
 cam4.tw##.subfoot-section
 cam69.com,sexu.com##.sidebarBanner
+cambay.tv,videocelebs.net##.fp-brand
 cambridge.org,ldoceonline.com##.topslot-container
 camcam.cc##.menu-item-5880
 camerabay.tv##.popupad
@@ -96271,6 +96310,8 @@ crn.com###imu1forarticles
 crn.com###top-ad-fragment-container
 crn.com##.article-cards-ad
 crn.com##.bottom-section
+crn.com##.chartbeat-wrapper
+crn.com##.layout-right > .ad-wrapper
 crn.com##.sponsored-resources
 crn.com,smithsonianmag.com,tasty.co##.ad-wrapper
 croatia.org##div[style="width: 120px; text-align:center"]
@@ -109502,7 +109543,6 @@ video.sina.cn##section.Card_Mb16
 videobb.com##.promo_tab
 videobin.co###startpopupcode
 videobug.net,videofun.me,vidzur.com##.randid
-videocelebs.net##.fp-brand
 videocelebs.net##.recl
 videofun.me###flowplayer > div[class][style]:first-child
 videogamemods.com##.topbanners
@@ -119808,6 +119848,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /prog-sponsor/*
 /projectwonderful_
 /promo-ads/*
+/promo.php?c=$third-party
 /promo/ad_
 /promo/ads/*
 /promo/ads/*$~xmlhttprequest
