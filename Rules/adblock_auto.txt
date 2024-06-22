@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: C1Gqc/kjHcAm3SF6XON9CQ
+! Checksum: zCPvKLZJ1qGbk+YvupPvgA
 ! Title: 混合规则(自动更新)
-! Version: 20240622162437
+! Version: 20240623002605
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-22 16:24:37
-! Total Count: 146561
+! Last modified: 2024-06-23 00:26:05
+! Total Count: 146595
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -57530,6 +57530,7 @@
 ||ozationsuchasric.org^
 ||ozayvgkqpymt.com^
 ||ozdpxc.com^
+||ozdq.cn^
 ||ozectynptd.com^
 ||ozelmedikal.com^
 ||ozesrbglrp.com^
@@ -57620,6 +57621,7 @@
 ||p0y.cn^
 ||p0y.cn^$image,domain=~ipinyou.com.cn
 ||p1-lm.adukwai.com^
+||p1.360soucha.com^
 ||p1.chinakaoyan.com^
 ||p1.qxzsw.com^
 ||p1.zhongyoo.com^
@@ -102358,6 +102360,7 @@ lewdspot.com###rightSidebarAdContainerPause
 lewdspot.com,mopoga.com###belowGameAdContainerPause
 lewdzone.com##.alnk
 lewdzone.com##.f8rpo
+lewrockwell.com##.header [data-ad-loc]
 lexico.com##.banbox
 lexico.com##.banbox-mini
 lfporn.com##.pr-widget
@@ -108578,6 +108581,7 @@ throwawaymail.com##.promotion_row
 thumbnails.porncore.net##div[id][style$="height:200px;width:800px;"]
 thumbnails.porncore.net##iframe[width="200"][height="1000"]
 thumbsnap.com##.ts-blurb-wrap
+thwiki.cc###a-carousel
 thwiki.cc##.on-right > .swiper-container
 tianhaohz.com##span[style="display: block; clear: both; overflow: hidden;"]
 tianqi.com##.xcx_erweima
@@ -113884,6 +113888,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad-blacklist.
 /ad-blocking-advisor/*
 /ad-blocking-alert/*
+/ad-blocking-alert/*$stylesheet
 /ad-blocking-detector/*
 /ad-bottom.
 /ad-box-
@@ -113987,6 +113992,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad-ros-
 /ad-rotator-
 /ad-scripts--
+/ad-scripts--$script
 /ad-scroll.
 /ad-scroll.js
 /ad-seeding.min.js
@@ -115522,6 +115528,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads/frontpage/*
 /ads/ga-audiences?
 /ads/gam_prebid-
+/ads/gam_prebid-$script
 /ads/generatedHTML/*
 /ads/generator/*
 /ads/get/*
@@ -115577,6 +115584,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads/labels/*
 /ads/layer.
 /ads/leaderboard-
+/ads/leaderboard-$~xmlhttprequest
 /ads/leaderboard.
 /ads/leaderboard/*
 /ads/leaderboard?
@@ -115672,6 +115680,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads/spacer.
 /ads/sponsor
 /ads/square-
+/ads/square-$image,domain=~spoolimports.com
 /ads/square.
 /ads/square2.
 /ads/square3.
@@ -116761,6 +116770,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /alljs/allwzwfoot.js
 /alljs/allwzwhead.js
 /amazon-ad-
+/amazon-ad-link-$stylesheet
 /amazon-apstag.
 /amazon-associates-link-$~stylesheet
 /amazon-async-
@@ -116940,9 +116950,11 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /banner-ad/*
 /banner-ad_
 /banner-ads-
+/banner-ads-rotator/*$script,stylesheet
 /banner-ads/*
 /banner-adv-
 /banner-affiliate-
+/banner-affiliate-$image
 /banner-sponsor/*
 /banner-sponsors.
 /banner.asp?$third-party
@@ -117394,6 +117406,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /conad.$domain=~conad.it
 /conad_$domain=~conad.it
 /concert_ads-
+/concert_ads-$script
 /conch/asset/js/atop.js
 /conch/asset/js/open-vb.
 /config/json/cctv.json?v=1$~third-party
@@ -117475,6 +117488,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /css/ad-
 /css/ad.
 /css/ads-
+/css/ads-$stylesheet
 /css/ads300_
 /css/adsense
 /css/adsense.
@@ -118202,6 +118216,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /google_ads/*
 /google_ads_
 /google_adsense-
+/google_adsense-$script
 /google_adv/*
 /google_afc.
 /google_afc_
@@ -118602,6 +118617,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /incmpuad.
 /incotrading-ads/*
 /index-ad-
+/index-ad-$stylesheet
 /index-ad.
 /index-ad.jpg
 /index-ad.js
@@ -118705,6 +118721,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /jfjs/ad.js
 /jgc-adblocker-
 /jgcabd-detect-
+/jgcabd-detect-$script
 /jianpian.obs.cn-
 /jianshen8/images/plan_banner_
 /jitads.
@@ -118965,6 +118982,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /leftsidebarads.
 /legacy-ads.
 /legion-advertising-atlasastro/*
+/legion-advertising-atlasastro/*$script
 /lenovo/2021/all*.js
 /lenovo/pc/all*.js
 /lenovo/pc/piaofu2.js
@@ -119330,6 +119348,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /nflads.
 /nmads_
 /no-adblock/*
+/no-adblock/*$script,stylesheet
 /no_ads.
 /nonAdBlock/*
 /nonrotatingads/*
@@ -119475,6 +119494,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /page/s.php?s=$third-party
 /pagead.
 /pagead/1p-user-list/*
+/pagead/1p-user-list/*$image
 /pagead/ads?
 /pagead/conversion.
 /pagead/conversion.js
@@ -119670,7 +119690,9 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /plugins/cpx-advert/*$script
 /plugins/dx-ads/*$script
 /plugins/meks-easy-ads-widget/*
+/plugins/meks-easy-ads-widget/*$stylesheet
 /plugins/mts-wp-in-post-ads/*
+/plugins/mts-wp-in-post-ads/*$script,stylesheet
 /plugins/page-cornr-
 /plugins/popunderpro/*
 /plugins/popunderpro/*$script
@@ -119788,7 +119810,9 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ppd_ads_
 /prbt/v1/ads/?
 /prebid-js-
+/prebid-js-$script
 /prebid-min-
+/prebid-min-$script
 /prebid-pro.
 /prebid-sdk.
 /prebid-video.js
@@ -120136,6 +120160,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /sbhf.js$script,third-party
 /sbnr.ads?
 /sc-tagmanager/*
+/sc-tagmanager/*$script
 /sc4fr/rwff/f9ef/*
 /sc4fr/rwff/f9ef/*$third-party
 /sc_ifeng/*
@@ -120290,6 +120315,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /side-ad-
 /side-ad.
 /side-ads-
+/side-ads-$~xmlhttprequest
 /side-ads/*
 /side_ads/*
 /side_ads/*$~xmlhttprequest
@@ -120473,6 +120499,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /sponsimages/*
 /sponslink_
 /sponsor-ad
+/sponsor-ad$image
 /sponsor-banner.
 /sponsor-banner.jpg
 /sponsor-banner.png
@@ -121143,14 +121170,18 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /wp-ad.min.
 /wp-auto-affiliate-links/*
 /wp-bannerize-
+/wp-bannerize-$script,stylesheet
 /wp-bannerize.
+/wp-bannerize.$script,stylesheet
 /wp-bannerize/*
 /wp-banners/*$~image
 /wp-content/ads/*
+/wp-content/ads/*$~xmlhttprequest
 /wp-content/mbp-banner/*
 /wp-content/plugins/ad-block-defender/*
 /wp-content/plugins/adunblocker/*
 /wp-content/plugins/amazon-auto-links/*
+/wp-content/plugins/amazon-auto-links/*$script,stylesheet
 /wp-content/plugins/amazon-product-in-a-post-plugin/*
 /wp-content/plugins/anti-block/*
 /wp-content/plugins/anti_ad_blocker/*
@@ -121170,7 +121201,9 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /wp-content/plugins/upprev/*
 /wp-content/plugins/useful-banner-manager/*
 /wp-content/plugins/wp-ad-guru/*
+/wp-content/plugins/wp-ad-guru/*$script,stylesheet
 /wp-content/plugins/wp-super-popup-pro/*
+/wp-content/plugins/wp-super-popup-pro/*$script,stylesheet
 /wp-content/plugins/wp-super-popup/*$~stylesheet
 /wp-content/themes/dooplay/nex1.$domain=mangoporn.co|playpornfree.xyz
 /wp-content/themes/iMovies/js/tc_
@@ -121179,6 +121212,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /wp-content/uploads/an-temp/*$script,stylesheet
 /wp-content/uploads/useful_banner_manager_banners/*
 /wp-popup-scheduler/*
+/wp-popup-scheduler/*$script,stylesheet
 /wp-srv/ad/*
 /wp_ad_250_
 /wp_pro_ad_system/*
