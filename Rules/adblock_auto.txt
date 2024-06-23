@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: zCPvKLZJ1qGbk+YvupPvgA
+! Checksum: dF9LQ4gq9OKdW+TTZdqC3g
 ! Title: 混合规则(自动更新)
-! Version: 20240623002605
+! Version: 20240623093542
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-23 00:26:05
-! Total Count: 146595
+! Last modified: 2024-06-23 09:35:42
+! Total Count: 146623
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2034,6 +2034,7 @@
 ||48a16802.site^
 ||48c5d27faef8b635e99e00ef9b5fd0cd.com^
 ||48cf8d95a3.com^
+||48d8e4d6.xyz^
 ||48da4009ba.com^
 ||48dreams.com/player/adstype/advmaker.php
 ||4901967b4b.com^
@@ -11819,6 +11820,7 @@
 ||azdxypf.cn^
 ||azejckiv.com^
 ||azelaiclawyer.com^
+||azenka.one^
 ||azera-s014.com^
 ||azeriondigital.com^
 ||azfitn.com^
@@ -14453,6 +14455,7 @@
 ||blbazybajjevv.top^
 ||blbazybajvzvw.top^
 ||blbesnuff.digital^
+||blciqbk.icu^
 ||blddnwt.cn^
 ||bldvxzxdpsrjla.com^
 ||bleachebbfed.com^
@@ -18648,6 +18651,7 @@
 ||cision.com^
 ||cisiwa.site^
 ||cismqdx.icu^
+||cissoidentera.top^
 ||ciststoquets.space^
 ||citadelpathstatue.com^
 ||citatumpity.com^
@@ -22515,6 +22519,7 @@
 ||dapperdeal.pro^
 ||dapperdiscussion.com^$third-party
 ||dapperfloor.com^$third-party
+||dapro.cloud^
 ||dapsotsares.com^
 ||daptault.com^
 ||daptem.com^
@@ -26611,6 +26616,7 @@
 ||edomz.com^
 ||edomz.net^
 ||edonorprog.biz^
+||edoshbw.top^
 ||edoumeph.com^
 ||edoumoosseg.com^
 ||edqbparlheuj.com^
@@ -27854,6 +27860,7 @@
 ||eraseficins.website^
 ||erate.co.il^
 ||eraudseen.xyz^
+||eravesofefineg.info^
 ||eravprvvqqc.xyz^
 ||eraygc.xyz^
 ||erbiscusys.info^
@@ -29107,6 +29114,7 @@
 ||f7e5bf5ed8.com^
 ||f7e8aa0821.com^
 ||f7fe0.cyou^
+||f816e81d.xyz^
 ||f8260adbf8558d6.com^
 ||f8272.com^$third-party
 ||f83d8a9867.com^
@@ -32237,6 +32245,7 @@
 ||galpkthjpeoe.com^
 ||galsajoo.xyz^
 ||galvanic.name^
+||galvanize26.fun^
 ||gam3ah.com^
 ||gamadsnews.com^
 ||gamadspro.com^
@@ -33972,6 +33981,7 @@
 ||gog.cn/sys/online_calc.js
 ||gogetlinks.net^
 ||gogfhq.xyz^
+||gogglebox26.fun^
 ||gogglemessenger.com^
 ||gogglerespite.com^
 ||goghen.com^
@@ -37422,6 +37432,7 @@
 ||hosenewspapersdepths.com^
 ||hosentombe.top^
 ||hoseve.com^
+||hosierygossans.com^
 ||hosieryplum.com^
 ||hosierypressed.com^
 ||hosillfir.site^
@@ -39534,6 +39545,7 @@
 ||imperturbableclothes.com^
 ||imperturbableresponsive.com^
 ||imperturbablesum.com^
+||impetremondial.com^
 ||impishelizabethjumper.com^
 ||implementedinstalled.com^
 ||implementtransmitted.com^
@@ -46280,6 +46292,7 @@
 ||libertycdn.com^
 ||libertystmedia.com^
 ||libfre.obs.cn-east-3.myhuaweicloud.com^
+||libgetgrocers.top^
 ||libhzf.xyz^
 ||libihimu.com^
 ||librariandemocrattoss.com^
@@ -47583,6 +47596,7 @@
 ||lonerdrawn.com^
 ||lonfilliongin.com^
 ||long-thanh.com^
+||long1x.xyz^
 ||longchampstockholm.com.se^
 ||longchengtg.com^
 ||longdidi.top^*.js
@@ -50873,6 +50887,7 @@
 ||mlb.did.ijinshan.com^
 ||mlclick.com^
 ||mlcuzee.cn^
+||mldfckinkpyhwk.com^
 ||mldxqrntd.xyz^
 ||mldzwmt.xyz^
 ||mlegyu.xyz^
@@ -54070,6 +54085,7 @@
 ||nicholassemicircledomesticated.com^
 ||nichools.com^
 ||nichtfaeroe.top^
+||nicibelite.com^
 ||nickeeha.net^
 ||nickeleavesdropping.com^
 ||nickelphantomability.com^
@@ -55951,6 +55967,7 @@
 ||ok.432kkk.com^
 ||ok8867s.com^
 ||okag.top^
+||okagcw.xyz^
 ||okaks.com^
 ||okanjo.com^
 ||okapiropp.top^
@@ -56382,6 +56399,7 @@
 ||onpluslean.com^
 ||onpsrrejx.com^
 ||onrbsceloko.com^
+||onscormation.info^
 ||onscroll.com^
 ||onseleauks.org^
 ||onservantas.org^
@@ -57957,6 +57975,7 @@
 ||pantrydivergegene.com^
 ||pantslayerboxoffice.com^
 ||pantsurplus.com^
+||pantuz.xyz^
 ||pantyhosepornstars.com/foon/pryf003.js
 ||panuelobriard.com^
 ||panyarspan.com^
@@ -62801,6 +62820,7 @@
 ||qbpchpcuglu.com^
 ||qbqzbzbzzzjjb.top^
 ||qbrrrlawwrvbv.top^
+||qbsfnbdqinnay.com^
 ||qbsvafnpgfwpca.com^
 ||qbswezw.cn^
 ||qbtd.xyz^
@@ -64449,6 +64469,7 @@
 ||rcblkkhfvrxyn.com^
 ||rccrb.cn^
 ||rcdjkdesdn.com^
+||rceqdysdjfhy.com^
 ||rcerrohatfad.com^
 ||rcesigojtwh.com^
 ||rcf3occ8.de^
@@ -64747,6 +64768,7 @@
 ||recognisetorchfreeway.com^
 ||recoiltravellingbreach.com^
 ||recollectionchicken.com^
+||recombssuu.com^
 ||recomendedsite.com^
 ||recommendationfurnace.com^
 ||recommenddoor.com^$third-party
@@ -65416,6 +65438,7 @@
 ||rerpartmentm.info^
 ||reryn2ce.com^
 ||reryn3ce.com^
+||rerynjia.com^
 ||rerynjie.com^
 ||res.adx.opera.com^
 ||res.cngoldres.com/web/index/img/*_ad_
@@ -67370,6 +67393,7 @@
 ||sadtriggerssupporter.com^
 ||sadwqdi.cn^
 ||saemmvhnn.xyz^
+||saeo.cn^
 ||safarlysins.com^
 ||safe-connection21.com^
 ||safe524.xyz^
@@ -75113,6 +75137,7 @@
 ||talrahot.net^
 ||talsauve.com^
 ||talsindustrateb.info^
+||talyrt.xyz^
 ||talysu.info^
 ||tamaraoolympic.life^
 ||tamedia.com.tw^$third-party
@@ -84149,6 +84174,7 @@
 ||vtiipxfdtnkaau.com^
 ||vtipshop.today^
 ||vtjfplukwxolkgw.xyz^
+||vtlyrj.xyz^
 ||vtnmxx.xyz^
 ||vtracker.net^
 ||vtracy.de^
@@ -87416,6 +87442,7 @@
 ||xfwxhyd.cn^
 ||xfxssqakis.com^
 ||xfyqlex.com^
+||xfzbrfmffnpqd.com^
 ||xfztgxt.com^
 ||xfzyun.com^
 ||xg.hbcygs518.com^
@@ -97583,6 +97610,7 @@ eet-china.com#?#.new-list > ul > li:has(> div.li-row > div > h2 > a[href^="http:
 eetimes.com###WelcomeAdContainer
 eetimes.com###WelcomeAdContainer + #overlay
 eetimes.com###techpaperSliderContainer
+eetimes.com##.carousel-ad-wrapper
 eetimes.com##.featured-techpaper-box
 eetimes.eu##.promotion-block-wrapper
 eetimes.eu,korinthostv.gr,powerelectronicsnews.com##.masthead-banner

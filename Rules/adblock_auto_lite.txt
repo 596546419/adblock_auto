@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: KyCkn8LcXT9c8yCTFLRglQ
+! Checksum: w5OruxdqFj8sxDXdvTgAVA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240623002617
+! Version: 20240623093553
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-23 00:26:17
-! Total Count: 28127
+! Last modified: 2024-06-23 09:35:53
+! Total Count: 28133
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4491,6 +4491,7 @@
 ||bl-doujinsouko.com/fam2.html
 ||bl230126pb.com^
 ||black6adv.com^
+||blciqbk.icu^
 ||bleachmx.fr/wp-content/plugins/yeptmixnsykgrb/bjns-fcknj.js
 ||blesspizzas.com^$third-party
 ||bleumzr.icu^
@@ -6689,6 +6690,7 @@
 ||edlzedu.cn^$document
 ||edlzedu.cn^$~third-party
 ||edmontonchina.*/pic/
+||edoshbw.top^
 ||edu-30130.sz.gfp.tencent-cloud.com^*.gif
 ||edu.jiukang.org^
 ||eduad.baidu.com^
@@ -11979,6 +11981,7 @@
 ||ok-tv.org/images/banner_ipone.jpg
 ||ok-tv.org/ruuc.js
 ||ok8867s.com^
+||okagcw.xyz^
 ||okbd2ou.icu^
 ||okbmf.com/imgad/
 ||okbmf.com^*950_120
@@ -13783,6 +13786,7 @@
 ||sacvmb.icu^
 ||sadloaf.com^$third-party
 ||sadnofun.com/assets/public/$script
+||saeo.cn^
 ||safe524.xyz^$third-party
 ||safeporno.com^
 ||saffronrefuge.com^$third-party
@@ -14987,6 +14991,7 @@
 ||tajdad.cn^
 ||talentedsteel.com^$third-party
 ||talkfx.*/showTKImg?
+||talyrt.xyz^
 ||tamedia.com.tw^$third-party
 ||tan1dian.com^$third-party
 ||tangibleteam.com^$third-party
@@ -16288,6 +16293,7 @@
 ||vswswlz.icu^
 ||vsx.hotpornfile.org^
 ||vszzzj.xyz^
+||vtlyrj.xyz^
 ||vtnmxx.xyz^
 ||vttqld.xyz^
 ||vtvnnl.xyz^
