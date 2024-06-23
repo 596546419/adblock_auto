@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: dF9LQ4gq9OKdW+TTZdqC3g
+! Checksum: 4EH/B5IDP0QO5tWrf9ME8Q
 ! Title: 混合规则(自动更新)
-! Version: 20240623093542
+! Version: 20240623162630
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-23 09:35:42
-! Total Count: 146623
+! Last modified: 2024-06-23 16:26:30
+! Total Count: 146630
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -88642,6 +88642,7 @@
 ||ycctxwachqke.com^
 ||yccz.net/xml/
 ||yceml.net^
+||ycgfdf.cn^
 ||ycgkol.icu^
 ||ycgmnpp.icu^
 ||ycgy8888.com^
@@ -92296,7 +92297,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 4399.com,agegeek.com,booklink.me,investing.com,mafengwo.cn,p9.com.tw,pimpandhost.com,sxrtv.com,xinhuanet.com,zgsyz.com###ad2
 4399.com,gameapps.hk#$#body { background-image: none !important; }
 48hills.org##.hills-adlabel
-48hills.org,audiobacon.net,bhamnow.com,clevercreations.org,coinedition.com,coinquora.com,creativecow.net,elements.visualcapitalist.com,forexcracked.com,iconeye.com,kdnuggets.com,laprensalatina.com,londonnewsonline.co.uk,manageditmag.co.uk,mondoweiss.net,ottverse.com,overclock3d.net,smallarmsreview.com,sportsspectrum.com,sundayworld.co.za,tampabayparenting.com,theaudiophileman.com##.adv-link
+48hills.org,audiobacon.net,bhamnow.com,clevercreations.org,cnaw2news.com,coinedition.com,coinquora.com,creativecow.net,elements.visualcapitalist.com,forexcracked.com,iconeye.com,kdnuggets.com,laprensalatina.com,londonnewsonline.co.uk,manageditmag.co.uk,mondoweiss.net,ottverse.com,overclock3d.net,smallarmsreview.com,sportsspectrum.com,sundayworld.co.za,tampabayparenting.com,theaudiophileman.com##.adv-link
 493428493428c.monster##div[style^="width:728px;height:90px;"]
 4algeria.com,forum.bestflowers.ru###exposeMask
 4algeria.com,forum.bestflowers.ru##.xenOverlay
@@ -93052,6 +93053,7 @@ advfn.com##.plus500
 advfn.com##.primis-container
 advfn.com##.top-ban-wrapper
 advocate.com###sPost_Layout_Default_0_0_18_0_0_2_2
+advocate.com###sPost_Layout_Default_0_0_19_0_0_2_2
 advocate.com##.ad_leaderboard_wrap
 advocate.com##.ad_tag
 advocate.com##.partners__container
@@ -93105,7 +93107,7 @@ ah123z.com,ahzwx.com##script + div[style]
 ahaan.co.uk##.MuiSnackbar-anchorOriginBottomCenter
 ahaan.co.uk,emailnator.com,myip.is,scrolller.com,whereto.stream##[href^="https://go.nordvpn.net/"]
 ahajournals.org##.header--advertisment__container
-ahajournals.org,tandfonline.com##.pb-ad
+ahajournals.org,royalsocietypublishing.org,tandfonline.com##.pb-ad
 ahentai.top##div[style^="width:728px;height:90px"]
 ahgame.com,china.com.cn,dandanzan.com,netbardh.com,pangzitv.com,twoeggz.com###pop
 ahhhhfs.com###ri_home_slider_widget-2
@@ -96328,7 +96330,7 @@ cricket.com##[href^="https://www.a23.com/downloads.html?"] > img
 cricketcountry.com##.ad90mob300
 cricketcountry.com,sex3.com##.add-box
 cricketireland.ie##.sponsor-strip
-cricketnetwork.co.uk,f1network.net,howtogermany.com,rugbynetwork.net,thefootballnetwork.net,timesandstar.co.uk###billboard
+cricketnetwork.co.uk,f1network.net,howtogermany.com,pop.inquirer.net,rugbynetwork.net,thefootballnetwork.net,timesandstar.co.uk###billboard
 crictracker.com##div[class^="ad-block-"]
 cricwaves.com##.btm728
 criminaljusticedegreehub.com##.mobius-container
@@ -105213,6 +105215,7 @@ pluggedingolf.com##[id^="black-studio-tinymce-"]
 pluggedingolf.com##a[href^="https://edisonwedges.com/"]
 pluginsaddonsextensions.com#?#.col-md-4 > .mapbox > .adsbygoogle:upward(1)
 pluginsaddonsextensions.com#?#.col-md-4 > .rightcol:has(> #google_ad)
+plurk.com###resp_banner_ads
 plus28.com##a[href*="/?Extend="]
 plus28.com##div[style="margin: auto;width: 960px;margin-bottom: 10px;"]
 plus28.com##div[style="width:270px; height:180px;"]
@@ -105254,6 +105257,7 @@ politico.com##.bump-in.story-enhancement
 politico.com##.story-continued
 politico.com##div[class*="styles_supercube_"]
 politico.eu##.ad__mobile
+politicspa.com##.dialog-type-lightbox
 politifact.com##.m-billboard
 pollunit.com##.btn[href$="?feature=ads"]
 pollunit.com##.owl-carousel:has(.carousel-ad)
@@ -106203,6 +106207,8 @@ radiocity.in##.advertisement-horizontal-small
 radiocity.in##.horiozontal-add
 radiocity.in##.vertical-big-add
 radiocity.in##.vertical-small-add
+radiome.ar,radiome.at,radiome.bo,radiome.ch,radiome.cl,radiome.com.do,radiome.com.ec,radiome.com.gr,radiome.com.ni,radiome.com.pa,radiome.com.py,radiome.com.sv,radiome.com.ua,radiome.com.uy,radiome.cz,radiome.de,radiome.fr,radiome.gt,radiome.hn,radiome.ht,radiome.lu,radiome.ml,radiome.org,radiome.pe,radiome.si,radiome.sk,radiome.sn,radyome.com###topbanner-container
+radiome.ar,radiome.at,radiome.bo,radiome.ch,radiome.cl,radiome.com.do,radiome.com.ec,radiome.com.gr,radiome.com.ni,radiome.com.pa,radiome.com.py,radiome.com.sv,radiome.com.ua,radiome.com.uy,radiome.cz,radiome.de,radiome.fr,radiome.gt,radiome.hn,radiome.ht,radiome.lu,radiome.ml,radiome.org,radiome.pe,radiome.si,radiome.sk,radiome.sn,radyome.com##.min-h-\[250px\].mx-auto.w-full.hidden.my-1.lg\:flex.center-children
 radioonline.fm###advertise_center
 radioreference.com##.box.gradient:has(a[href*="&Click="])
 radiotimes.com##.elementor-widget-wp-widget-section_full_width_advert
@@ -108520,6 +108526,7 @@ theroar.com.au##.u-d-block
 thesaurus.com##.e1wyd5nb0
 thesaurus.com##section[data-type="ad-horizontal-module"]
 thescore.com##.Ad__container--2fhQb
+thescore.com##.Ad__container--MeQWT
 thescore1260.com##.block-content > a[href*="sweetdealscumulus.com"]
 thesearchenginelist.com##a[href^="http://www.kqzyfj.com/"]
 theseotools.net##.xd_top_box
