@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 0Z5sB6ivi8uISg61vvtHqw
+! Checksum: v1AygzkarlLH9JhmR2so+w
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240624162615
+! Version: 20240625002521
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-24 16:26:15
-! Total Count: 28143
+! Last modified: 2024-06-25 00:25:21
+! Total Count: 28148
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -991,6 +991,7 @@
 ||6park.com/img/*0.gif
 ||6park.com/parks/$script
 ||6park.com^$subdocument,badfilter
+||6pznpz.com^
 ||6slb0.cyou^
 ||6tj.com/ent/fkbg/20191220/a46326c6a57fc066a6d985ceabdc42f6.jpg
 ||6v4.cn^$third-party
@@ -4078,6 +4079,8 @@
 ||baiduvjsbvjknlsvsv.com^
 ||baifen.music.baidu.com^
 ||baihuwang.com^$third-party
+||baijs02.xyz^
+||baijs03.xyz^
 ||baike.com/iframeheightforad.
 ||baimakanshu.com/assets/public/$script
 ||baishuku.com/news/$script
@@ -6354,6 +6357,7 @@
 ||doujinnomori.com/ad/
 ||doujs01.xyz^
 ||doujs02.xyz^
+||doujs03.xyz^
 ||doupocangqiong1.com/js/ptwap.js
 ||doutula.com/img/upupoo/
 ||douyin.com/api/user/getPcBanner?
@@ -7845,6 +7849,7 @@
 ||goods.tudou.com/api?
 ||google-analytics.com^
 ||google-analytics.com^$object,redirect-rule=noopjs
+||google-js-01.xyz^
 ||google.com/ads/search/app?*&caps=*sdkAdmobApiForAds
 ||googleads.g.doubleclick.net/pagead/ads$subdocument,redirect=noop.html,domain=rjno1.com,important
 ||googleads.g.doubleclick.net/pagead/id^$xmlhttprequest,redirect-rule=nooptext

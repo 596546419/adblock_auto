@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: mIoqbqIMGSRdwsqisfz7Hg
+! Checksum: 3+VeotbDOLLSSLogNFWsLA
 ! Title: 混合规则(自动更新)
-! Version: 20240624162603
+! Version: 20240625002510
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-24 16:26:03
-! Total Count: 146691
+! Last modified: 2024-06-25 00:25:10
+! Total Count: 146709
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2869,6 +2869,7 @@
 ||6park.com/parks/$script
 ||6park.com^$subdocument,badfilter
 ||6ped2nd3yp.com^
+||6pznpz.com^
 ||6qu5dcmyumtw.com^
 ||6rn05mmbct.ru^
 ||6sc.co^
@@ -9941,6 +9942,7 @@
 ||api.pingstart.com^
 ||api.primecaster.net^
 ||api.pubfinity.com^
+||api.sardine.ai^
 ||api.sdffwef11.com^
 ||api.sec.miui.com^
 ||api.setting.intl.miui.com^
@@ -9965,6 +9967,7 @@
 ||api.wipmania.com^
 ||api.wudizuqiu.com/72nba
 ||api.wudizuqiu.com/bocai.js
+||api168168.com^
 ||api2.appscraft.mobi/banner/get_banners.php
 ||api2.appsflyer.com^
 ||api2.boclinkads.com^
@@ -12276,6 +12279,8 @@
 ||baihbw.cn^
 ||baihuwang.com^$third-party
 ||baijav.com^
+||baijs02.xyz^
+||baijs03.xyz^
 ||baikalize.com^
 ||baike.com/iframeheightforad.
 ||baike.com/newtop/news.html
@@ -12935,6 +12940,7 @@
 ||bd2020.co/gg/
 ||bd3.chuiyue.com^
 ||bd4travel.com^
+||bd51static.com^
 ||bd5a57.xyz^
 ||bd742.com^
 ||bd888.qizuang.com^
@@ -25092,6 +25098,7 @@
 ||doujl.cn^
 ||doujs01.xyz^
 ||doujs02.xyz^
+||doujs03.xyz^
 ||doukoula.com^
 ||doumobhaia.site^
 ||doumuleet.net^
@@ -34117,6 +34124,7 @@
 ||google-analytics.com^
 ||google-analytics.com^$image,redirect=1x1.gif
 ||google-analytics.com^$object,redirect-rule=noopjs
+||google-js-01.xyz^
 ||google-pagerank.net^
 ||google-shopping-v2.sapoapps.vn^
 ||google-shopping.sapoapps.vn^
@@ -54713,6 +54721,7 @@
 ||noureewo.com^
 ||nourishinghorny.com^
 ||nourishmentrespective.com^
+||nouveau-digital.com^
 ||nouveaulain.com^
 ||nouvhidtxryveg.com^
 ||nouzhu.cn^
@@ -91341,7 +91350,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 100bt.com##.aolasidebar__ad1
 100ec.cn##.detail_top_ad
 100ksw.com###ad_move_sg
-100percentfedup.com,180gadgets.com,247media.com.ng,academicful.com,addapinch.com,aiarticlespinner.co,allaboutfpl.com,alltechnerd.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,asurascans.com,australiangeographic.com.au,autodaily.com.au,bigleaguepolitics.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,charlieintel.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,coincodecap.com,conservativebrief.com,cookingwithdog.com,corrosionhour.com,crimereads.com,cryptobriefing.com,cryptopotato.com,cryptoreporter.info,cryptoslate.com,dafontfree.io,dailynewshungary.com,dcenquirer.com,dexdotexe.com,dorohedoro.online,epicdope.com,eurweb.com,exeo.app,fandomwire.com,fap-nation.com,firstsportz.com,flickeringmyth.com,flyingmag.com,freemagazines.top,fyptt.to,gadgetinsiders.com,gamegill.com,gameinfinitus.com,gamertweak.com,gatewaynews.co.za,geekdashboard.com,getdroidtips.com,goodyfeed.com,greekreporter.com,hard-drive.net,hdmovies4u.live,hollywoodinsider.com,hollywoodunlocked.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,japaneseasmr.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,jujustukaisen.com,libertyunlocked.com,linuxfordevices.com,lithub.com,mb.com.ph,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,nationalfile.com,nintendoeverything.com,notalwaysright.com,nsw2u.com,nxbrew.com,organicfacts.net,patriotfetch.com,premiumtimesng.com,protrumpnews.com,pureinfotech.com,quickanswer.blog,redrightvideos.com,reneweconomy.com.au,reptilesmagazine.com,respawnfirst.com,rezence.com,roadaheadonline.co.za,rok.guide,sciencenotes.org,sdnews.com,simscommunity.info,small-screen.co.uk,storypick.com,streamingbetter.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techpp.com,techrounder.com,techviral.net,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,thewincentral.com,trendingpolitics.com,trendingpoliticsnews.com,twistedvoxel.com,videogamer.com,vjmedia.com.hk,walletinvestor.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,win.gg,wisden.com,wnd.com,zerohanger.com##.code-block
+100percentfedup.com,180gadgets.com,247media.com.ng,academicful.com,addapinch.com,aiarticlespinner.co,allaboutfpl.com,alltechnerd.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,asurascans.com,australiangeographic.com.au,autodaily.com.au,bigleaguepolitics.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,charlieintel.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,coincodecap.com,conservativebrief.com,cookingwithdog.com,corrosionhour.com,crimereads.com,cryptobriefing.com,cryptopotato.com,cryptoreporter.info,cryptoslate.com,dafontfree.io,dailynewshungary.com,dcenquirer.com,dexdotexe.com,dorohedoro.online,epicdope.com,eurweb.com,exeo.app,fandomwire.com,fap-nation.com,firstsportz.com,flickeringmyth.com,flyingmag.com,freemagazines.top,fyptt.to,gadgetinsiders.com,gamegill.com,gameinfinitus.com,gamertweak.com,gatewaynews.co.za,geekdashboard.com,getdroidtips.com,goodyfeed.com,greekreporter.com,hard-drive.net,hdmovies4u.live,hollywoodinsider.com,hollywoodunlocked.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,japaneseasmr.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,jujustukaisen.com,libertyunlocked.com,linuxfordevices.com,lithub.com,mb.com.ph,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,nationalfile.com,nintendoeverything.com,notalwaysright.com,nsw2u.com,nxbrew.com,organicfacts.net,patriotfetch.com,premiumtimesng.com,protrumpnews.com,pureinfotech.com,quickanswer.blog,redrightvideos.com,reneweconomy.com.au,reptilesmagazine.com,respawnfirst.com,rezence.com,roadaheadonline.co.za,rok.guide,sciencenotes.org,sdnews.com,simscommunity.info,small-screen.co.uk,storypick.com,streamingbetter.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techpp.com,techrounder.com,techviral.net,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,thepeoplesvoice.tv,thewincentral.com,trendingpolitics.com,trendingpoliticsnews.com,twistedvoxel.com,videogamer.com,vjmedia.com.hk,walletinvestor.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,win.gg,wisden.com,wnd.com,zerohanger.com##.code-block
 101.ru##.showMessageAdBlock
 1010dy3.com###arBRyGHxuDYU
 1010dy3.com##.text-center[style]
@@ -110214,6 +110223,7 @@ windows7en.com###fu_box_logo
 windows7en.com###index_long_first
 windows7en.com##.fu-welcome
 windowsbbs.com##span[style*="width: 338px; height: 282px;"]
+windowscentral.com###article-body > .hawk-nest[data-widget-id]:has(a[class^="hawk-affiliate-link-"][class$="-button"])
 windowscentral.com##.hawk-master-widget-hawk-wrapper
 windowsloop.com##.wl-prakatana
 windowsreport.com##.rmdcb
@@ -115613,6 +115623,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads/gam_prebid-$script
 /ads/generatedHTML/*
 /ads/generator/*
+/ads/get-ads-by-zones/?zones%
 /ads/get/*
 /ads/getPositions?
 /ads/getall
@@ -116864,6 +116875,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /amazon_widget.cms
 /ame-dfp/*
 /amp-ad-
+/amp-ad-$script
 /amp-auto-ads-
 /amp-connatix-
 /amp4ads-
@@ -117037,6 +117049,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /banner-ads-
 /banner-ads-rotator/*$script,stylesheet
 /banner-ads/*
+/banner-ads/*$image,domain=~1agosto.com
 /banner-adv-
 /banner-affiliate-
 /banner-affiliate-$image
@@ -117140,6 +117153,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /banners/ad11.
 /banners/ad_
 /banners/ads-
+/banners/ads-$~xmlhttprequest
 /banners/ads.
 /banners/ads/*
 /banners/adv/*
@@ -117765,6 +117779,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /disable-adblock.
 /disabled_adBlock.
 /discourse-adplugin-
+/discourse-adplugin-$script
 /discuss_ad/*
 /display-ad/*
 /display-ads-$domain=~google.co.uk|~google.com|~google.com.au
@@ -118054,6 +118069,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /floatcaopron.js
 /floater_ad.
 /floating-ad-
+/floating-ad-rotator-$script,stylesheet
 /floatingad.
 /floatingad.js
 /floatingads.
@@ -119763,6 +119779,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /plugins/ad-invalid-click-protector/*$script
 /plugins/ad.
 /plugins/adrotate-pro/*
+/plugins/adrotate-pro/*$script
 /plugins/adrotate/*
 /plugins/adrotate/*$script
 /plugins/ads-
@@ -120405,6 +120422,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /side-ads-
 /side-ads-$~xmlhttprequest
 /side-ads/*
+/side-ads/*$~xmlhttprequest
 /side_ads/*
 /side_ads/*$~xmlhttprequest
 /side_adverts.
