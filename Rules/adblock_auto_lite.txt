@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: irHgkQb6hGi339LWKbLnpg
+! Checksum: Pt3EYGsIT7NzVpYg7XCrwQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240624002409
+! Version: 20240624092627
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-24 00:24:09
-! Total Count: 28134
+! Last modified: 2024-06-24 09:26:27
+! Total Count: 28143
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -943,6 +943,7 @@
 ||6528fdyngk.xyz^
 ||658bbb.us^
 ||66.fmx.cn/js/
+||663008888.com^
 ||66308888.com^
 ||6633091.com^$document
 ||6633091.com^$~third-party
@@ -3908,6 +3909,7 @@
 ||awrfds3.pornpapa.com^
 ||awunkse72.shop^
 ||awuvcq.xyz^
+||awyuge.xyz^
 ||awzbijw.com^$third-party
 ||awzddev.cn^
 ||ax.*.ifeng.com^
@@ -4446,6 +4448,7 @@
 ||birdmedia.com^$third-party
 ||birgga.top^
 ||birglucy.xyz^
+||birtw.cn^
 ||bis8j.com^
 ||bisonads.com^
 ||bitauto.com/js/sense*.js
@@ -5983,6 +5986,7 @@
 ||ddlipf.xyz^
 ||ddllhqj.xyz^
 ||ddlvpmt.xyz^
+||ddnzpr.xyz^
 ||ddqkqq.com^
 ||ddqmlfu.icu^
 ||ddreminder.appspot.com/android_ad_target.txt
@@ -7259,6 +7263,7 @@
 ||fmgmh.com/template/wap/default/js/lunbo.js
 ||fmhua.com/template/*/images/g_js/*.html
 ||fmild.xyz^
+||fmjjvb.xyz^
 ||fmre1.com^
 ||fmssoj.icu^
 ||fmvbyji.cn^
@@ -15762,6 +15767,7 @@
 ||uejdsw.com^
 ||uejnmjdpd.xyz^
 ||uekmhvbb.xyz^
+||uessnah.icu^
 ||ueumdkc.cn^
 ||ufile.cc/crod.js
 ||ufjslit.top^
@@ -15965,6 +15971,7 @@
 ||uunrkj.com^$document
 ||uunrkj.com^$~third-party
 ||uuoizbtl.xyz^
+||uutytp.com^
 ||uuu9.tieba.com^$subdocument
 ||uuuutp.com^
 ||uuuzuu.xyz^
@@ -16353,6 +16360,7 @@
 ||vzvvifw.cn^
 ||w.anmeihe.cn^
 ||w.xiaopiaoyou.com^
+||w0057.com^
 ||w010w.com.cn^$subdocument
 ||w11.zhongkaohelp.com^
 ||w18.9939.com^
@@ -16449,6 +16457,7 @@
 ||wddsva0.com^
 ||wdff.buzz/hengf.
 ||wdig.vo.llnwd.net^
+||wdoshbe.top^
 ||wdwdwd3d.com^
 ||wdygoi.xyz^
 ||we560.com/js/*.js
