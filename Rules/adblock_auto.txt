@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: /krDIpz6vFLP7o+Ibv0/zw
+! Checksum: mIoqbqIMGSRdwsqisfz7Hg
 ! Title: 混合规则(自动更新)
-! Version: 20240624092616
+! Version: 20240624162603
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-24 09:26:16
-! Total Count: 146675
+! Last modified: 2024-06-24 16:26:03
+! Total Count: 146691
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -67239,6 +67239,7 @@
 ||s.baomoi.xdn.vn^
 ||s.beop.io^
 ||s.btime.com^
+||s.cartbooster.io^
 ||s.ccsyncuuid.net^
 ||s.clicktex.ru^
 ||s.cntqk.com^
@@ -93647,6 +93648,7 @@ apkonline.net,iporntv.net,kisshentai.net,makepolo.com,mycar168.com,mysteel.com,o
 apkonline.net,offidocs.com###adxx
 apkonline.net,offidocs.com###ja-container-prev-b
 apkpac.com##.layout-beyond-ads
+apksum.com##.ad-left
 apkwhale.com###download > div
 apnews.com##.Leaderboard
 apnews.com##.Page-header-leaderboardAd
@@ -98457,6 +98459,7 @@ flixboss.com##.instream-dynamic
 flobzoo.com,onlyfungames.com,yokogames.com##.preview2bannerspot
 floridapolitics.com##.dfad
 floridasportsman.com##.content-banner-section
+floridasportsman.com##.video-detail-player
 floridianpress.com,onmsft.com##.enhanced-text-widget
 flotrack.org##.lazy-leaderboard-container
 flotrack.org##div[style="min-width: 300px; min-height: 250px;"]
@@ -100099,6 +100102,7 @@ highporn.net##.banner-a
 highporn.net##a[href^="https://media.r18.com/"]
 highporn.net,javfor.tv,javhub.net##.fel-playclose
 highsnobiety.com##.contentAdWrap
+highspeedinternet.com##.provider-ads
 hightimes.com##[href="https://leafwell.com"]
 highwayradio.com##.hiway-widget
 hihbt.com##.single-content > p > a[target="_blank"]:not([href^="/ac"])
@@ -107605,6 +107609,7 @@ spanishdict.com###removeAdsSidebar
 spanishdict.com##.ad--1zZdAdPU
 spanishdict.com##.whitelist
 spankbang-com.zproxy.org,spankbang.com,spankbang.party##.ptgncdn_holder
+spankbang.com###shorts-frame
 spankbang.com##.live-rotate
 spankbang.com##.livecam-rotate
 spankbang.com##a[href^="https://deliver.ptgncdn.com/"]
@@ -107707,6 +107712,8 @@ sportskeeda.com###mob3-cnx-container-bottom
 sportskeeda.com###video-player-container--
 sportskeeda.com##.primis-player-container
 sportskeeda.com##.vidazoo-player-container
+sportsnet.ca###leaderboard_master
+sportsnet.ca##.Ads_card-wrapper__KyXLu
 sportsplanetmag.com##.adshow
 sportsrec.com##.inline-parent-container
 sportsv.net##.adv01
@@ -107890,6 +107897,7 @@ subhd.com##+js(set-session-storage-item, hassession, 1)
 subhd.com##.container > div > div[style="padding-top:120px"]:not([class]):not([id])
 subhd.com##.container > div[style="margin:0 auto;"]:not([class]):not([id])
 subhd.com##div[style="position:fixed;bottom:20px;left:20px;"]
+suffolknewsherald.com###story_one_by_one_group
 suibiankan.co##.vddb + a,.vddb,.vddb_qq,style + div[id],a > video
 suizhoushi.com##.sznew_ad_top
 suizhoushi.com##div[id^="sznew_ad"]
@@ -113975,6 +113983,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad-cdn.$domain=~ad-cdn.getro.com
 /ad-channel-
 /ad-choices-
+/ad-choices-$image
 /ad-choices.
 /ad-configuration-
 /ad-controller.
@@ -119720,6 +119729,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /pix/ads/*$image
 /pixel/puclc?
 /pixel/pure
+/pixel/pure$third-party
 /pixel/purs?
 /pixel/purst?
 /pixel/sbe?
@@ -119759,8 +119769,10 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /plugins/ads/*
 /plugins/ads/*$~xmlhttprequest
 /plugins/adsanity-
+/plugins/adsanity-$script,stylesheet
 /plugins/advanced-ads/*$domain=~wordpress.org
 /plugins/ane-banners-entre-links/*
+/plugins/ane-preroll$~xmlhttprequest
 /plugins/ane-preroll-
 /plugins/cactus-ads/*$script,stylesheet
 /plugins/cpx-advert/*$script
@@ -121251,6 +121263,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /wp-bannerize.
 /wp-bannerize.$script,stylesheet
 /wp-bannerize/*
+/wp-bannerize/*$script,stylesheet
 /wp-banners/*$~image
 /wp-content/ads/*
 /wp-content/ads/*$~xmlhttprequest
@@ -121271,11 +121284,14 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /wp-content/plugins/deadblocker/*
 /wp-content/plugins/deblocker/*
 /wp-content/plugins/fasterim-optin/*
+/wp-content/plugins/fasterim-optin/*$~xmlhttprequest
 /wp-content/plugins/m-wp-popup/*$~stylesheet
 /wp-content/plugins/platinumpopup/*
 /wp-content/plugins/platinumpopup/*$script,stylesheet
 /wp-content/plugins/popad/*
+/wp-content/plugins/popad/*$script,stylesheet
 /wp-content/plugins/the-moneytizer/*
+/wp-content/plugins/the-moneytizer/*$script
 /wp-content/plugins/thirstyaffiliates/*
 /wp-content/plugins/upprev/*
 /wp-content/plugins/useful-banner-manager/*
