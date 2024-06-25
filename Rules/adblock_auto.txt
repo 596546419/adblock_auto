@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 3+VeotbDOLLSSLogNFWsLA
+! Checksum: fFGAXblgAUk/OVPnmbKeJQ
 ! Title: 混合规则(自动更新)
-! Version: 20240625002510
+! Version: 20240625092534
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-25 00:25:10
-! Total Count: 146709
+! Last modified: 2024-06-25 09:25:34
+! Total Count: 146721
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7368,6 +7368,7 @@
 ||afodreet.net^
 ||afootulnas.com^
 ||afootwitword.com^
+||afopr.cn^
 ||aforepayoffstutter.com^
 ||afosseel.net^
 ||afp.ai^
@@ -17154,6 +17155,7 @@
 ||cayrtgavy.xyz^
 ||cayucaoidwlfe.com^
 ||cayusesalaite.top^
+||cazamba.com^
 ||cazibiukiyoe.com^
 ||cb-content.com^
 ||cb.baidu.com^
@@ -21300,6 +21302,7 @@
 ||creptdeservedprofanity.com^
 ||cresfpho2ntesepapillo3.com^
 ||cresivetanach.com^
+||cresqoirz.com^
 ||cressbank.com^
 ||crestfallenwall.com^
 ||crestfidubank.com^
@@ -24727,6 +24730,7 @@
 ||dnnwebuxps.com^
 ||dnoicciekfm.xyz^
 ||dnoyrz.com^
+||dnpalh.xyz^
 ||dnpnemyntetpj.com^
 ||dnpz123.com^$third-party
 ||dnrcwqbakix.com^
@@ -28990,6 +28994,7 @@
 ||eyfivnokubyhmy.xyz^
 ||eyharae.com^
 ||eyhcervzexp.com^
+||eyislow.top^
 ||eyjouer.com^
 ||eyjvq.xyz^
 ||eylepgswsnyyd.com^
@@ -43498,7 +43503,6 @@
 ||kar-sentry.karnameh.com^
 ||karafutem.com^
 ||karandacotised.com^
-||karanpc.com^
 ||karayarillock.cam^
 ||kargo.com^
 ||karlhalved.com^
@@ -49570,6 +49574,7 @@
 ||mcfstats.com^
 ||mcgtrack.herokuapp.com^
 ||mci1.co.kr^
+||mcighme.icu^
 ||mcinyaqeaeyrhf.com^
 ||mcix.cn^
 ||mcizas.com^
@@ -50817,6 +50822,7 @@
 ||miuo.cloud^
 ||miuspzkmn.bar^
 ||miveci.uno^
+||miwfkm.xyz^
 ||miwhethi.xyz^
 ||miwifi.com^*ads/
 ||miwllmo.com^
@@ -62921,6 +62927,7 @@
 ||qdlyqbpzfkl.com^
 ||qdmil.com^
 ||qdogpcfgejgc.com^
+||qdoshby.top^
 ||qdotzfy.com^
 ||qdp.qidian.com^
 ||qdprapwflpvxpyl.com^
@@ -93071,6 +93078,7 @@ adpushup.com
 adrama.to###container > div[style*="margin-right: 2px;"][style*="width: 300px;"]
 adrama.to#?#.post_sidebar > div.side_box:has(div[id^="mynewads_"])
 adreep.cn,baoliny.com,gasaq.com,hgitv.com,ifooday.cn,nen.com.cn,world68.com##.guanggao
+adspecials.us,ajanlatok.hu,akcniletak.cz,catalogosofertas.cl,catalogosofertas.com.ar,catalogosofertas.com.br,catalogosofertas.com.co,catalogosofertas.com.ec,catalogosofertas.com.mx,catalogosofertas.com.pe,catalogueoffers.co.uk,catalogueoffers.com.au,flugblattangebote.at,flyerdeals.ca,folderz.nl,folhetospromocionais.com,folletosofertas.es,gazetki.pl,kundeavisogtilbud.no,ofertelecatalog.ro,offertevolantini.it,promocatalogues.fr,promotiez.be,promotions.ae,prospektangebote.de,reklambladerbjudanden.se,tilbudsaviseronline.dk##.anchor-wrapper
 adswikia.com,freemalaysiatoday.com,landandfarm.com,pointblanknews.com,radiotoday.com.au,runt-of-the-web.com,rxresource.org,techworldgeek.com,warisboring.com##.header-banner
 adtunes.com###div-atf-336x280
 adtunes.com###div-inline-left-336x280
@@ -101742,6 +101750,7 @@ jmw.com.cn,upanso.com##.coupon
 jnnc.com###float_layer
 jnnc.com##.basehr + div
 jobhits.co.uk##.cvads
+jobrapido.com##.leaderboard-header-wrapper
 jobs24.co.uk,le.com##.Banner
 jobsncareers.org,weraveyou.com,vermangasporno.com##a[href^="https://bit.ly"]
 jobstreet.com.sg##[data-automation="homepage-banner-ads"]
@@ -109350,6 +109359,7 @@ udn.com##iframe[src*="udn.com/mall/cus/cat/OutWebAd.do"]
 udn.com##table[bgcolor="#FFFFFF"][width="298"][height="375"]
 udn.com#$#.main-content { background-image: none !important; }
 uefa.com##.geoTargetSponsor
+uefa.com##div[data-name="sponsors-slot"]
 uestc.edu.cn###bar
 ufanw.com###banne
 ugstandard.com###leader-wrap
@@ -132557,6 +132567,7 @@ zle.com$script
 ##.ad_couplebanner
 ##.ad_crown
 ##.ad_custombanner
+##.ad_d_big
 ##.ad_db
 ##.ad_default
 ##.ad_deferrable
@@ -144000,6 +144011,7 @@ zle.com$script
 ##img[style^="width:100%;height:1"][style$="px;"][src*=".xyz"][src*="?"][src*="16"]
 ##img[width="0"][height="0"]
 ##img[width="320"][height="50"]
+##ins.adsbygoogle[data-ad-client]
 ##ins.adsbygoogle[data-ad-slot]
 ##ins[id][style][status="done"]
 ##li > a[data-uuid]

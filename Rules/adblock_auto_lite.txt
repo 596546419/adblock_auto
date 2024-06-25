@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: v1AygzkarlLH9JhmR2so+w
+! Checksum: n0/GUR3qN1Nxg9uJOMxOqA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240625002521
+! Version: 20240625092546
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-25 00:25:21
-! Total Count: 28148
+! Last modified: 2024-06-25 09:25:46
+! Total Count: 28155
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3244,6 +3244,7 @@
 ||aflsj.com^
 ||afndhou.xyz^
 ||afocus.com.cn/s?
+||afopr.cn^
 ||afp.chinanews.com^
 ||afraidlanguage.com^$third-party
 ||afreecatv.com/data/af_app_ad_mobile.js
@@ -5653,6 +5654,7 @@
 ||creative.xxxijmp.com^
 ||creative.xxxjmp.com^
 ||creditcreature.com^$third-party
+||cresqoirz.com^
 ||crf999.cn^
 ||crfjxfoe.xyz^
 ||crhabkd.cn^
@@ -6293,6 +6295,7 @@
 ||dnightwish.xyz^
 ||dniwe.xyz^
 ||dnn1300.top^
+||dnpalh.xyz^
 ||dnpz123.com^$third-party
 ||dns.chuzushijian.cn^$third-party
 ||dnvod.tv/listprovider/ajaxlist.async.ashx
@@ -6993,6 +6996,7 @@
 ||exultantdrop.com^$third-party
 ||exz1t.top^
 ||eyepoi.xyz^
+||eyislow.top^
 ||eyjvq.xyz^
 ||eyny.com/data/cache/js_show_ads.js
 ||eypqbjju.xyz^
@@ -10999,6 +11003,7 @@
 ||mc2n.xyz^
 ||mcds7.icu^
 ||mcds9.icu^
+||mcighme.icu^
 ||mcizas.com^
 ||mckgmkh.icu^
 ||mcmod.cn/editor/upload/20221126/1669399546_2_ONBt.
@@ -11182,6 +11187,7 @@
 ||mitbbs.com/ad_
 ||mito03.top^
 ||mittencattle.com^$third-party
+||miwfkm.xyz^
 ||miwifi.com^*ads/
 ||mixadvert.com^
 ||mixedreading.com^$third-party
@@ -13008,6 +13014,7 @@
 ||qdcxia.xyz^
 ||qdiwbhjpo.com^
 ||qdjimo.com/html/js/
+||qdoshby.top^
 ||qdross.com/vip/
 ||qdtjjxr.xyz^
 ||qdtzbbh.xyz^
