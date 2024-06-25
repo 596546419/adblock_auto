@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: n0/GUR3qN1Nxg9uJOMxOqA
+! Checksum: p6EwBYU6fzMt0gi3JzHgSQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240625092546
+! Version: 20240625162642
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-25 09:25:46
-! Total Count: 28155
+! Last modified: 2024-06-25 16:26:42
+! Total Count: 28158
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7854,6 +7854,7 @@
 ||google-analytics.com^
 ||google-analytics.com^$object,redirect-rule=noopjs
 ||google-js-01.xyz^
+||google-js-02.xyz^
 ||google.com/ads/search/app?*&caps=*sdkAdmobApiForAds
 ||googleads.g.doubleclick.net/pagead/ads$subdocument,redirect=noop.html,domain=rjno1.com,important
 ||googleads.g.doubleclick.net/pagead/id^$xmlhttprequest,redirect-rule=nooptext
@@ -8660,6 +8661,7 @@
 ||hvhudp.xyz^
 ||hvlitr.xyz^
 ||hvpard.xyz^
+||hvuqkb.cn^
 ||hvxrvef.xyz^
 ||hvzrrvj.cn^
 ||hw-ot-ad.a.yximgs.com^
@@ -16783,6 +16785,7 @@
 ||wyfec.cn^
 ||wyhifdpatl.com^
 ||wyiegt.icu^
+||wyisloe.top^
 ||wyjbvoz.xyz^
 ||wymqjow.icu^
 ||wymzwy.cn^

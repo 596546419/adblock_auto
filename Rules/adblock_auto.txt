@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: fFGAXblgAUk/OVPnmbKeJQ
+! Checksum: 5UIi5nx5c4ALo8Wz92V+jQ
 ! Title: 混合规则(自动更新)
-! Version: 20240625092534
+! Version: 20240625162630
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-25 09:25:34
-! Total Count: 146721
+! Last modified: 2024-06-25 16:26:30
+! Total Count: 146728
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3336,6 +3336,7 @@
 ||8a00fb3fc1.com^
 ||8acc5c.site^
 ||8b4v.cn^
+||8b71e197.xyz^
 ||8b8r.icu^
 ||8b98b1a05a.com^
 ||8bb92fbed8.com^
@@ -9872,6 +9873,7 @@
 ||api.557400.com^
 ||api.abcxs.org^
 ||api.ad-locus.com^
+||api.ad-platform.jmty.jp^
 ||api.adfenix.com^
 ||api.adnsafe.org^
 ||api.ads.newsdigest.jp^
@@ -34130,6 +34132,7 @@
 ||google-analytics.com^$image,redirect=1x1.gif
 ||google-analytics.com^$object,redirect-rule=noopjs
 ||google-js-01.xyz^
+||google-js-02.xyz^
 ||google-pagerank.net^
 ||google-shopping-v2.sapoapps.vn^
 ||google-shopping.sapoapps.vn^
@@ -38200,6 +38203,7 @@
 ||hvpard.xyz^
 ||hvpguevleand.com^
 ||hvrnjftl.com^
+||hvuqkb.cn^
 ||hvxrvef.xyz^
 ||hvzrrvj.cn^
 ||hw-ot-ad.a.yximgs.com^
@@ -67188,6 +67192,7 @@
 ||ryepublisher.com^
 ||rygfjv.com^
 ||ryhkft.xyz^
+||ryhuzj.xyz^
 ||ryjhrqn.cn^
 ||rykwyoaeaamhykw.com^
 ||rylcbwg.cn^
@@ -87111,6 +87116,7 @@
 ||wyglyvaso.com^
 ||wyhifdpatl.com^
 ||wyiegt.icu^
+||wyisloe.top^
 ||wyjaxvuejinse.com^
 ||wyjbvoz.xyz^
 ||wyjkqvtgwmjqb.xyz^
@@ -93117,7 +93123,7 @@ advocate.com,out.com##.ourSponsors
 adweek.com##.htl-ad-wrapper
 adx.dlads.cn
 adxvip.com
-adz7short.space,agcanada.com,allmusic.com,allrecipes.com,allthatsinteresting.com,autoaction.com.au,autos.ca,ballstatedaily.com,bdonline.co.uk,boardgamegeek.com,bravewords.com,broadcastnow.co.uk,cantbeunseen.com,carsguide.com.au,cattime.com,chairmanlol.com,chemistryworld.com,chron.com,citynews.ca,coinranking.com,comingsoon.net,coolmathgames.com,countle.com,crn.com.au,diyfail.com,dogtime.com,drugtargetreview.com,edmunds.com,europeanpharmaceuticalreview.com,explainthisimage.com,foodandwine.com,foodista.com,forum.xda-developers.com,freshbusinessthinking.com,funnyexam.com,funnytipjars.com,gamesindustry.biz,gmanetwork.com,hardware.info,iamdisappoint.com,imedicalapps.com,itnews.com.au,japanisweird.com,jta.org,legion.org,lifezette.com,lightnovelworld.com,liveoutdoors.com,milesplit.com,monocle.com,morefailat11.com,moviemistakes.com,nbl.com.au,nfcw.com,objectiface.com,passedoutphotos.com,picmix.com,playstationlifestyle.net,pornsfw.com,precisionvaccinations.com,retail-week.com,rollcall.com,roulettereactions.com,searchenginesuggestions.com,shinyshiny.tv,shitbrix.com,short.croclix.me,sparesomelol.com,spoiledphotos.com,spokesman.com,sportsnet.ca,sportsvite.com,stopdroplol.com,straitstimes.com,suffolknews.co.uk,supersport.com,tattoofailure.com,thedriven.io,thefashionspot.com,thehun.net,thestar.com.my,titantv.com,tutorialrepublic.com,where.ca,yoimaletyoufinish.com##.leaderboard
+adz7short.space,agcanada.com,allmusic.com,allrecipes.com,allthatsinteresting.com,autoaction.com.au,autos.ca,ballstatedaily.com,bdonline.co.uk,boardgamegeek.com,bravewords.com,broadcastnow.co.uk,cantbeunseen.com,carsguide.com.au,cattime.com,chairmanlol.com,chemistryworld.com,chron.com,citynews.ca,coinranking.com,comingsoon.net,coolmathgames.com,countle.com,crn.com.au,diyfail.com,dogtime.com,drugtargetreview.com,edmunds.com,europeanpharmaceuticalreview.com,explainthisimage.com,foodandwine.com,foodista.com,forum.xda-developers.com,freshbusinessthinking.com,funnyexam.com,funnytipjars.com,gamesindustry.biz,gmanetwork.com,hardware.info,iamdisappoint.com,imedicalapps.com,itnews.com.au,japanisweird.com,jta.org,legion.org,lifezette.com,lightnovelworld.com,liveoutdoors.com,macleans.ca,milesplit.com,monocle.com,morefailat11.com,moviemistakes.com,nbl.com.au,nfcw.com,objectiface.com,passedoutphotos.com,picmix.com,playstationlifestyle.net,pornsfw.com,precisionvaccinations.com,retail-week.com,rollcall.com,roulettereactions.com,searchenginesuggestions.com,shinyshiny.tv,shitbrix.com,short.croclix.me,sparesomelol.com,spoiledphotos.com,spokesman.com,sportsnet.ca,sportsvite.com,stopdroplol.com,straitstimes.com,suffolknews.co.uk,supersport.com,tattoofailure.com,thedriven.io,thefashionspot.com,thehun.net,thestar.com.my,titantv.com,tutorialrepublic.com,where.ca,yoimaletyoufinish.com##.leaderboard
 aeink.com##.widget_ui_adsf
 aeink.com##.widget_ui_textads
 aeink.com##p[style*=".alicdn.com/"]
@@ -105442,6 +105448,7 @@ pornclassic.tube,tubepornclassic.com#$#.irvdvvi { position: absolute !important;
 pornclassic.tube,tubepornclassic.com#?#.video__wrapper > .partners-wrap + div[class]:has(div[id^="suggestion_"])
 pornclassic.tube,vjav.*##.video-page__player + div[class] > div[class]
 pornclipsxxx.com##div[align="right"][style="color:#333;text-align:center;"]
+porncore.net##div[style="margin:10px auto;height:200px;width:800px;"]
 porndictator.com,pornomovies.com,mypornsniffer.com,gaysearch.com,feetporno.com,freehardcore.com,deviants.com##.twocolumns > div.aside
 porndictator.com,submityourflicks.com##.aside > div
 porndig.com##.js_footer_partner_container_wrapper
