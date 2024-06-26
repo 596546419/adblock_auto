@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: KabUmJjxILbe/JqsdZ6FVA
+! Checksum: LabdsNVY9Ufj38WCC8HjNg
 ! Title: 混合规则(自动更新)
-! Version: 20240626092457
+! Version: 20240626162611
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-26 09:24:57
-! Total Count: 146776
+! Last modified: 2024-06-26 16:26:11
+! Total Count: 146785
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4007,6 +4007,7 @@
 ||a8858f6631.com^
 ||a899228ebf.com^
 ||a8age.com^
+||a8b68645.xyz^
 ||a8cd.com^
 ||a8rm1m4msbbh.com^
 ||a8ww.net^
@@ -25912,6 +25913,7 @@
 ||dxbsdetipqzbp.com^
 ||dxdboroipcvo.com^
 ||dxdx.shop^
+||dxfidr.xyz^
 ||dxfovuqib.com^
 ||dxftocy.cn^
 ||dxg*.com/img/A*.js
@@ -40527,6 +40529,7 @@
 ||ioach.com^
 ||ioadserve.com^
 ||ioaiaou.cn^
+||ioaiqp.top^
 ||ioam.de^
 ||iobvmtx.xyz^
 ||iociley.com^
@@ -64027,6 +64030,7 @@
 ||qyer.com/qcross/home/ajax?action=banner
 ||qyer.com^*/base_beacon_ga.js
 ||qyerstatic.com/common/models/common/component/footerBanner/
+||qyisloy.top^
 ||qykvrcqk.com^
 ||qykxyax.com^
 ||qylgfuikc.com^
@@ -79525,6 +79529,7 @@
 ||ttrcegmkccshey.com^
 ||ttrruq749.shop^
 ||ttsbtdgdo.com^
+||ttse.b-cdn.net^
 ||ttsycqxjvgrya.xyz^
 ||tttppp.oss-cn-guangzhou.aliyuncs.com^
 ||tttxx.cn^$third-party
@@ -93003,7 +93008,7 @@ aarp.org##.hot-deals
 abbaspc.net##.buttonPress-116
 abbotsfordgasprices.com,albertagasprices.com,barriegasprices.com,bcgasprices.com,calgarygasprices.com,edmontongasprices.com,gasbuddy.com,halifaxgasprices.com,hamiltongasprices.com,kwgasprices.com,londongasprices.com,manitobagasprices.com,montrealgasprices.com,newbrunswickgasprices.com,newfoundlandgasprices.com,novascotiagasprices.com,nwtgasprices.com,ontariogasprices.com,ottawagasprices.com,peigasprices.com,quebeccitygasprices.com,quebecgasprices.com,reginagasprices.com,saskatoongasprices.com,saskgasprices.com,torontogasprices.com,vancouvergasprices.com,victoriagasprices.com,winnipeggasprices.com###divSky
 abbreviations.com,definitions.net,grammar.com,kamus.net,lyrics.com,rhymes.net,scripts.com,symbols.com###sela-container
-abbynews.com,biv.com,lakelandtoday.ca,orilliamatters.com,reddeeradvocate.com,sootoday.com,theprogress.com,time.com,timescolonist.com,vancouverisawesome.com###leaderboard-container
+abbynews.com,biv.com,lakelandtoday.ca,orilliamatters.com,reddeeradvocate.com,sootoday.com,theprogress.com,time.com,timescolonist.com,vancouverisawesome.com,vicnews.com###leaderboard-container
 abc-fonts.me###galepro-core-adb-enabled
 abc-people.com##div[style*="background-color"][style*="position"][style*="z-index"]
 abcnews.go.com##[data-testid="prism-static-embed"]
@@ -93235,7 +93240,7 @@ airav.cc###corner_cf
 airav.cc###diy_right
 airav.cc###jssor_banner
 airav.cc##div[id^="Billing"]
-airdriecityview.com,alaskahighwaynews.ca,albertaprimetimes.com,bowenislandundercurrent.com,burnabynow.com,coastreporter.net,cochraneeagle.ca,dawsoncreekmirror.ca,delta-optimist.com,moosejawtoday.com,mountainviewtoday.ca,newwestrecord.ca,nsnews.com,piquenewsmagazine.com,princegeorgecitizen.com,prpeak.com,richmond-news.com,rmoutlook.com,sasktoday.ca,squamishchief.com,stalbertgazette.com,theorca.ca,townandcountrytoday.com,tricitynews.com,vancouverisawesome.com,westerninvestor.com,westernwheel.ca##.slot
+airdriecityview.com,alaskahighwaynews.ca,albertaprimetimes.com,bowenislandundercurrent.com,burnabynow.com,coastreporter.net,cochraneeagle.ca,dawsoncreekmirror.ca,delta-optimist.com,fitzhugh.ca,moosejawtoday.com,mountainviewtoday.ca,newwestrecord.ca,nsnews.com,piquenewsmagazine.com,princegeorgecitizen.com,prpeak.com,richmond-news.com,rmoutlook.com,sasktoday.ca,squamishchief.com,stalbertgazette.com,thealbertan.com,theorca.ca,townandcountrytoday.com,tricitynews.com,vancouverisawesome.com,westerninvestor.com,westernwheel.ca##.slot
 airfactsjournal.com##.avia_image
 airfactsjournal.com,apkmb.com,hexieshe.cn,wbap.com###media_image-3
 airmail.news,govevents.com,protipster.com##.display
@@ -97066,6 +97071,7 @@ digitaltrends.com##.b-anterior
 digitaltrends.com##.b-placard
 digitaltrends.com##.dtads-location
 digitaltrends.com##.dtads-slot
+digitaltrends.com##.dtcc-affiliate
 digitaltrends.com##.dtvideos-container
 digitaltrends.com##.dtvideos-recommended
 digitaltrends.com,themanual.com##.dt-primis
@@ -98304,7 +98310,7 @@ fffdm.com##[style^="width"][style*="height"]
 ffiles.com###right_col
 fh21.com.cn###lbzxM
 fhm.com.tw###add-box
-fieldandstream.com,outdoorlife.com,popsci.com##.mtc-unit-prefill-container
+fieldandstream.com,outdoorlife.com,popsci.com,thedrive.com##.mtc-unit-prefill-container
 fiercetelecom.com,fiercevideo.com##.node--type-embed-promo
 fifetoday.co.uk##.iehxDO
 fightful.com###betway-sports
@@ -103242,6 +103248,7 @@ mediafire.com###abnotify
 mediakix.com##.post-widget__banner
 mediamass.net###google3
 mediamass.net##.googleresponsive
+mediapost.com##.ads_inline_640
 mediaupdate.co.za###mycarousel
 mediaweek.com.au##.leader-wrap-out
 medibang.com##.adBlock__pc
@@ -108304,6 +108311,7 @@ teepr.com##.shop-widget
 teepr.com##body .ucfad_async
 teepr.com##div[class^="mid-post-ad-"]
 tehrantimes.com##a[href^="/redirect/ads/"]
+tejanonation.net##.wpcnt
 tekdeeps.com##.zAzfDBzdxq3
 tekno.kompas.com##.kcm
 tekno.kompas.com##.native-wrap
@@ -109686,6 +109694,7 @@ vice.com##.docked-slot-renderer
 vice.com##.fixed-slot
 vice.com##.nav-bar__article-spacer
 vice.com##.vice-ad__container
+vicnews.com##.gam
 victoriabuzz.com##.victo-billboard-desktop
 vidcloud9.me##.backdrop
 video-to-mp3-converter.com##.BannerReAds_horizontal-area__5JNuE
