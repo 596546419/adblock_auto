@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: F9OVF85hidsz3cpmdcoTYw
+! Checksum: KabUmJjxILbe/JqsdZ6FVA
 ! Title: 混合规则(自动更新)
-! Version: 20240626002643
+! Version: 20240626092457
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-26 00:26:43
-! Total Count: 146766
+! Last modified: 2024-06-26 09:24:57
+! Total Count: 146776
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3742,7 +3742,6 @@
 ||Kmspico.io^
 ||Thewindowsactivator.com^
 ||Ultrasonica.info^
-||Yasir252.com^
 ||a*.chajiaotong.com^
 ||a*.smlog.co.kr^
 ||a-94interdads.com^
@@ -7729,6 +7728,7 @@
 ||aikboypeoriqk.com^
 ||aikeemsaurgi.com^
 ||aikeroxqbgj.com^
+||aiknx.cn^
 ||aikraboo.com^
 ||aikraith.net^
 ||aikravoapu.com^
@@ -25928,6 +25928,7 @@
 ||dxssiyi.com^
 ||dxstaham.com^
 ||dxtsqgnwn.com^
+||dxtv1.com^
 ||dxuuvxweynac.com^
 ||dxvgvbaqzgeb.com^
 ||dxwpedu.me^
@@ -31981,6 +31982,7 @@
 ||fvtrx.cyou^
 ||fvtyhe.com^
 ||fvxlhn.xyz^
+||fvyqblc.icu^
 ||fvzhenljkw.com^
 ||fvzljv.xyz^
 ||fw-ad.jp^
@@ -34130,6 +34132,7 @@
 ||goodweet.xyz^
 ||goodyflicks.digital^
 ||goodyhitherto.com^
+||googie-anaiytics.com^
 ||google-ads.hara.vn^
 ||google-analytics-cn.com^
 ||google-analytics.com/analytics.js$script,redirect=noopjs,important,domain=ebb.io
@@ -44925,6 +44928,7 @@
 ||kuuda.xyz^
 ||kuuhv.cn^
 ||kuunmzg.cn^
+||kuurza.com^
 ||kuvbyhnotmwm.com^
 ||kuveres.com^
 ||kuvoansub.com^
@@ -48369,6 +48373,7 @@
 ||lxpcyvnejhrp.com^
 ||lxqcgj.com^
 ||lxrhw.xyz^
+||lxryhx.xyz^
 ||lxstat.com^
 ||lxting.com^
 ||lxtrack.com^
@@ -49137,6 +49142,7 @@
 ||maper.info^
 ||maphuahin.com^
 ||mapi-log.qoo*.jp^
+||maplecurriculum.com^
 ||maploco.com^
 ||mapmyuser.com^
 ||mapping.fun^
@@ -49370,6 +49376,7 @@
 ||matomo.menshealth.de^
 ||matomo.mindbite.cloud^
 ||matomo.motorpresse.de^
+||matomo.promobil.de^
 ||matomo.quan.hoabinh.vn^
 ||matomo.shoppersguide.com.ph^
 ||matomo.similarweb.io^
@@ -70064,6 +70071,7 @@
 ||shuakongbao.com/resource/images/banner/
 ||shuanglequ.xyz^
 ||shuangliu.link^
+||shuanshu.com.com^
 ||shubad2u8ba09.com^
 ||shubadubadlskjfkf.com^
 ||shubasairy.life^
@@ -75583,6 +75591,7 @@
 ||tdlyfz.xyz^
 ||tdmd.us^
 ||tdmrfw.com^
+||tdoshbi.top^
 ||tdqhlowkhxeohe.com^
 ||tds.bid^
 ||tds.io^
@@ -88979,6 +88988,7 @@
 ||yhtpsy8888.cc^
 ||yhtuchuang.com^
 ||yhubsxmg.xyz^
+||yhutou.xyz^
 ||yhvejawarouohb.xyz^
 ||yhwwinrhjwrxpm.com^
 ||yhwysogyho.com^
