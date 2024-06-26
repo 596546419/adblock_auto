@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: f/ZhrYH4f+tFZ1W/XejF2A
+! Checksum: 5m3P2kNpjh8JaRZuMQ8b1A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240626162622
+! Version: 20240627002631
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-26 16:26:22
-! Total Count: 28167
+! Last modified: 2024-06-27 00:26:31
+! Total Count: 28171
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3889,6 +3889,8 @@
 ||avgle.topgirlsdating.com^$domain=avgle.com
 ||avgsco.xyz^
 ||avito.ru^*/some-pretty-script.js
+||avivid.likr.tw^$third-party
+||avividone.likr.tw$third-party
 ||avjd014.com/*ad^
 ||avjj26.com/api/?d=pc&c=advert&
 ||avkw.cn^
@@ -11600,6 +11602,7 @@
 ||n5n5s.icu^
 ||n6579.com^
 ||n7181.com^
+||na06.cn^
 ||nahgvfhs.xyz^
 ||nahsfl.xyz^
 ||nai7.xyz^
@@ -15242,6 +15245,7 @@
 ||threetruck.com^$third-party
 ||threrlak.com^
 ||throattrees.com^$third-party
+||thruudrad.com^
 ||thumbor.prod.vidiocdn.com/*/uploads/section/background_image/*/rejoice-vidio-drakor-gratis-*.jpg
 ||thunderingrose.com^$third-party
 ||thunderingtendency.com^$third-party
