@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: f/cfDuijOQwXvaZs9fQoxw
+! Checksum: rW/tWsQb1eLJZPeIsuJ9hQ
 ! Title: 混合规则(自动更新)
-! Version: 20240627162522
+! Version: 20240628002625
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-27 16:25:22
-! Total Count: 146830
+! Last modified: 2024-06-28 00:26:25
+! Total Count: 146856
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -746,6 +746,7 @@
 ||1661795914.rsc.cdn77.org^
 ||1662864709.rsc.cdn77.org^
 ||166460e61382a8ab15094a0fb111cc1b.com^
+||167.71.252.38^
 ||1675450967.rsc.cdn77.org^
 ||167k.com/public/static/admin/banner/*.gif
 ||168.it168.com^$script
@@ -6640,6 +6641,7 @@
 ||adtlvnxmht.com^
 ||adtng.com^
 ||adtoadd.com^
+||adtodate.ir^
 ||adtol.com^
 ||adtoll.com^
 ||adtoma.com^
@@ -21186,6 +21188,7 @@
 ||crajeon.com^
 ||crakbanner.com^
 ||craktraffic.com^
+||crambidnonutilitybayadeer.com^
 ||crampcrossroadbaptize.com^
 ||crampformationparticularly.com^
 ||crampincompetent.com^
@@ -26749,6 +26752,7 @@
 ||eegnacou.com^
 ||eegookiz.com^
 ||eegroosoad.com^
+||eehhabacgieacfjeaacg.world^
 ||eehimeer.xyz^
 ||eehuzaih.com^
 ||eeinhyfb.com^
@@ -29135,6 +29139,7 @@
 ||f4823894ba.com^
 ||f48d1c06e4.com^
 ||f4961f1b2e.com^
+||f4c9a0fb.xyz^
 ||f4cebacks.com^
 ||f4nfg.site^
 ||f5080f5cee5a00.com^
@@ -33693,6 +33698,7 @@
 ||gloutanacard.com^
 ||gloutchi.com^
 ||glouxaih.net^
+||glouzokrache.com^
 ||glovemall.cn^
 ||gloveroadmap.com^
 ||glovesusage.com^
@@ -42188,6 +42194,7 @@
 ||jiutou20230210.live^
 ||jiuyuntian3.cn/vs.php?id=
 ||jiuzhilan.com^$third-party
+||jivinggrazers.com^
 ||jivox.com^
 ||jivskpprocrkv.com^
 ||jivvjl.xyz^
@@ -48294,6 +48301,7 @@
 ||lvecygampj.com^
 ||lvefyfj.cn^
 ||lveodaz.icu^
+||lvhcqaku.com^
 ||lvietcombank.com^
 ||lvjoe.pw^
 ||lvjptld.com^
@@ -50268,6 +50276,7 @@
 ||metrics-broker.prod.p.tf1.fr^
 ||metrics-cbslocal-com.cdn.ampproject.org^
 ||metrics-dra.dt.hicloud.com^
+||metrics-fe-na1.hubspot.com^
 ||metrics-logger.spot.im^
 ||metrics.apartments.com^
 ||metrics.api.drift.com^
@@ -50502,6 +50511,7 @@
 ||mibmcbm.com^
 ||miboundwhiffet.com^
 ||micaitu.net/js/dibu.js
+||micastpyridic.com^
 ||micastskangli.com^
 ||micechillyorchard.com^
 ||micfu.cyou^
@@ -61993,6 +62003,7 @@
 ||psojeeng.com^
 ||psomtenga.net^
 ||psonstrentie.info^
+||psoofaltoo.com^
 ||psoogaix.net^
 ||psoolikoagy.com^
 ||psoompou.xyz^
@@ -67582,6 +67593,7 @@
 ||salesoonerfurnace.com^
 ||salestingoner.org^
 ||salettamein.com^
+||salicylurdee.com^
 ||salivamenupremise.com^
 ||salivanmobster.com^
 ||salivasboucle.top^
@@ -70873,6 +70885,7 @@
 ||slivz.com^
 ||slizindy.top^
 ||sljvpjtavn.com^
+||slk594.com^
 ||slkdfg.com^
 ||slkdnlkfnskl.com^
 ||slkkbnsgn.com^
@@ -84170,6 +84183,7 @@
 ||vqjfiuwbqpvwrn.xyz^
 ||vqjvnjxbgnz.com^
 ||vqjxlie.cn^
+||vqlwoy.xyz^
 ||vqonjcnsl.com^
 ||vqrqnylppo.com^
 ||vqtyargb.com^
@@ -93355,6 +93369,8 @@ allaboutcd.com##a[href^="https://thebreastformstore.com/"]
 allaboutcookies.org###offer-review-widget-container
 allafrica.com###div-clickio-ad-superleaderboard-a
 allbusiness.com##.ad--tag
+allevents.in##.ads_place_right
+allevents.in##.advt-text
 allfuckpics.com##.herb
 allfuckpics.com##.middleclass
 allkeyshop.com,cdkeyit.it,cdkeynl.nl,cdkeypt.pt,clavecd.es,goclecd.fr,keyforsteam.de##.background-link-left
@@ -94543,7 +94559,7 @@ beincrypto.com##.ad-post-right-sidebar-1
 beincrypto.com##.ad-post-right-sidebar-2
 beincrypto.com##.cont-wrapper
 beincrypto.com##.sponsored-badge
-beincrypto.com,bitcoinist.com,captainaltcoin.com,coincodex.com,coinpaprika.com,coinspeaker.com,crypto-news-flash.com,cryptonews.com,cryptonewsz.com,cryptopolitan.com,insidebitcoins.com,news.bitcoin.com,philnews.ph,techreport.com##[class*="clickout-"]
+beincrypto.com,bitcoinist.com,captainaltcoin.com,coincodex.com,coinpaprika.com,coinspeaker.com,crypto-news-flash.com,cryptonews.com,cryptonewsz.com,cryptopolitan.com,cryptopotato.com,insidebitcoins.com,news.bitcoin.com,philnews.ph,techreport.com##[class*="clickout-"]
 bejson.com##.alert-dismissable
 bejson.com##.t-small-margin > ul:first-child
 bejson.com##.xf2-gg-left
@@ -95010,7 +95026,6 @@ bookgew.com###AdsT
 booking.com##.js_sr_persuation_msg
 booking.com##.sr-motivate-messages
 booking.com##div[data-testid="property-card"]:has(div[data-testid="new-ad-design-badge"])
-booking.com#?#.fa298e29e2:-abp-contains(Ad)
 booking.com#?#div[data-testid="property-card"]:-abp-has(span:-abp-contains(Promoted))
 booklife.com,yabeat.org###interstitial
 bookrb.com,bookrbx.com##a[href="/rmtj.html"]
@@ -98812,6 +98827,7 @@ fstoppers.com##.supportImg
 fsylr.com##.plus_r
 ft.com##pg-slot
 ft.com,ftchinese.com##.bn-ph
+ftchinese.com##+js(no-setTimeout-if, .offsetHeight)
 fttxt.com###txtbox a[target="_blank"]
 fttxt.com##a[href*="type"]
 ftuapps.dev##[style*="cursor: no-drop;"]
@@ -99574,6 +99590,7 @@ gov.cn###ippad01
 gov.cn###ippad02
 gov.cn###ippad03
 govevents.com###header-display
+govexec.com##.skybox-item-sponsored
 govtech.com##.Page-billboard
 gozofinder.com##.advert-iframe
 gozofinder.com##[data-testid="advert"]
@@ -100036,6 +100053,8 @@ headlineintime.com##.banner-add
 health.news,naturalnews.com,newstarget.com##[href^="https://www.brighteon.tv"]
 health.tvbs.com.tw##.ad_desktop_top
 health.tvbs.com.tw##.ed-hidden.ed-xl-block
+health.tvbs.com.tw##.fromEditor > section.ed-px-5.ed-lg-hidden
+health.tvbs.com.tw##.h-full > div.flex-wrap > div.max-w-full > div.px-5.lg\:hidden:has(> div > div.flex.justify-center)
 health.tvbs.com.tw##.hidden .justify-center:has(> div[id^="health_pc_read_"])
 health.tvbs.com.tw##div[data-testid="ad-container"]
 healthbenefitstimes.com###ad-image-below
@@ -100831,6 +100850,7 @@ iframeplayer.tubepornstreaming.com##.video-container > .inner-wrap[style="displa
 ifsp.tv##.video-page-right
 ifxtx.com##.ppsy_content758
 igberetvnews.com,mediaweek.com.au,nextnewssource.com###wallpaper
+igeeksblog.com###ig_header
 igg-games.com##.taxonomy-description
 igg-games.com##.uk-panel.widget-text
 igg-games.com##[href^="http://s2.igg-games.com/"]
@@ -101119,11 +101139,13 @@ interest.co.nz,metasrc.com###sidebar-wrapper
 interestingengineering.com##.Ad_adContainer__XNCwI
 interestingengineering.com##.Ad_adContainer__ZlEzV
 interestingengineering.com##.Ad_ad__hm0Ut
-interestingengineering.com##.Anyclip_conBody__emI_Z
 interestingengineering.com##.Anyclip_conBody__jtq8a
 interestingengineering.com##.BigAdBorder_isPremium__RXPuj
 interestingengineering.com##.BigAd_ad__m0kt9
 interestingengineering.com##.adW
+interestingengineering.com##.t-h-\[130px\]
+interestingengineering.com##.t-h-\[176px\]
+interestingengineering.com##.t-h-\[280px\]
 interglot.com,sodapdf.com,stopmalvertising.com##div[style^="width:728px;"]
 internationalsexguide.nl,usasexguide.nl##.isg_background_border_banner
 internationalsexguide.nl,usasexguide.nl##.isg_banner
@@ -101635,6 +101657,7 @@ javtiful.com##.v3sb-box
 javtorrent.me##div[style^="width:728px; height: 90px;"]
 javtrailers.com###popunderLinkkkk
 javvr.net##.jplayerbutton
+javynow.com##.banner-player
 javynow.com##.videos-ad__ad
 jayisgames.com##.sidebar-ad-top
 jb51.net###gaosu
@@ -102247,6 +102270,7 @@ kollelbudget.com###text-83
 kollelbudget.com##a[href^="https://www.oorahauction.org/"][target="_blank"] > img
 kollywoodtoday.net##.header-top-right
 kolompc.com##.single-post-content > center
+komando.com##[id^="leaderboardAdDiv"]
 komikcast.site###bannerhomefooter
 komikhentaiterbaru.xtgem.com,rajahentai.com,komikhentai.me,komikhentai.online,hexat.com,yhentai.sextgem.com##div[id^="st"][style^="z-index: 9999"]
 komikindo.info,manga18fx.com,manhwa18.cc,motherless.com##iframe[style]
@@ -108771,7 +108795,6 @@ throwawaymail.com##.promotion_row
 thumbnails.porncore.net##div[id][style$="height:200px;width:800px;"]
 thumbnails.porncore.net##iframe[width="200"][height="1000"]
 thumbsnap.com##.ts-blurb-wrap
-thwiki.cc###a-carousel
 thwiki.cc##.on-right > .swiper-container
 tianhaohz.com##span[style="display: block; clear: both; overflow: hidden;"]
 tianqi.com##.xcx_erweima
@@ -111046,6 +111069,7 @@ yam.com##.axdBox
 yam.com##div[id^="adgshp"]
 yamibo.com##a[href*="xqsp.club"]
 yamol.tw##.panel[style="text-align:left;width:100%;padding:0px;background-color:white"]
+yanaifei.net#$?#.swiper-wrapper > .swiper-slide:has(> .banner[href^="https://"][target="_blank"]) { remove: true; }
 yandex.*##.mini-suggest__item[data-suggest-counter*="/yandex.ru/clck/safeclick/"]
 yandex.*##li[class*="_card"]:has(a[href^="https://yabs.yandex.ru/count/"])
 yandex.*##li[class*="_card"]:has(a[href^="https://yandex.com/search/_crpd/"])
@@ -146380,6 +146404,7 @@ apkpure.com#@#.ad-box-auto
 apkpure.com,coolapk.com#@#[class$="ad-box"]
 apkpure.com,job.inshokuten.com,sexgr.net,webbtelescope.org#@#.ad-box
 apnaohio.com,miradiorumba.com#@##ad-header
+app.n26.com#@#.bl > .gg
 ascii.jp#@#.adrect
 asken.jp#@##top_box > a[onclick^="javascript"]
 atea.com,ateadirect.com,knowyourmobile.com,nlk.org.np#@#.logo-ad
@@ -146533,6 +146558,7 @@ freedidi.com#@#.adsBanner
 freenet.de#@#.frn_contAdHead
 fsjoy.com#@#.main_adv
 fstore.biz#@##adblockinfo
+ftchinese.com#@#.AdsBox
 fuzhou.baixing.com,job.inshokuten.com#@#.ad-title
 fx678.com#@##ad_8
 fxedu.com.cn#@#.ad_r
