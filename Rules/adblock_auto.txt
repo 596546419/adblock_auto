@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: j6ZbaQhuO9BP5n6zdytgmw
+! Checksum: f/cfDuijOQwXvaZs9fQoxw
 ! Title: 混合规则(自动更新)
-! Version: 20240627092531
+! Version: 20240627162522
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-27 09:25:31
-! Total Count: 146816
+! Last modified: 2024-06-27 16:25:22
+! Total Count: 146830
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -439,7 +439,7 @@
 ||106c6423c3.com^
 ||107.148.199.181^
 ||107.165.206.26^
-||107.167.16.14^
+||107.167.16.*.gif
 ||107.172.176.197^
 ||107.182.131.103/cache/?q=/images/
 ||107.183.137.18^
@@ -2776,7 +2776,7 @@
 ||66wz.com/data/attachment/portal/
 ||66wz.com/eap/
 ||66zhuang.com/public_2017/js/count-gou.js
-||67.21.92.163^
+||67.21.92.*.gif
 ||670360.com^
 ||671djn.cyou^
 ||675ujh.site^
@@ -20227,6 +20227,7 @@
 ||condescendingcertainly.com^
 ||conditionchange.com^$third-party
 ||conditioncrush.com^$third-party
+||conditioneavesdroppingbarter.com^
 ||condles-temark.com^
 ||condodgy.com^
 ||condofeijoa.top^
@@ -59834,6 +59835,7 @@
 ||pjbjzf.com^
 ||pjcdjtn.cn^
 ||pjcn.org^$third-party
+||pjdthz.xyz^
 ||pjewriw.top^
 ||pjhbyaaadlw.com^
 ||pjivapiumeb.com^
@@ -61168,6 +61170,7 @@
 ||prebidwrapper.com^
 ||precariousgrumpy.com^
 ||precedechampion.com^
+||precedelaxative.com^
 ||precedenowadaysbarbecue.com^
 ||precedentadministrator.com^
 ||precedentbasepicky.com^
@@ -66443,6 +66446,7 @@
 ||rollobscurewoke.com^
 ||rollserver.xyz^
 ||rolltrafficroll.com^
+||rolpenszimocca.com^
 ||rolsoupouh.xyz^
 ||rolzqwm.com^
 ||romance-net.com^
@@ -74691,6 +74695,7 @@
 ||szcmcs.com^
 ||szdgl.cn^
 ||szdpk.cn^
+||szdtf.cn^
 ||szdxw.cn^
 ||szdzbx.com^
 ||szdzn.cn^
@@ -80028,6 +80033,7 @@
 ||tyhwheveeshngi.xyz^
 ||tyifdiff.xyz^
 ||tyingentered.com^
+||tyisloi.top^
 ||tyjryuk.cn^
 ||tyjryuk.cn^$third-party
 ||tylcpcikj.com^
@@ -91316,6 +91322,7 @@
 ||zzsky.com/images/a_d_
 ||zztongyun.com/static/js/sh.
 ||zztongyun.com/static/js/sh.min.js
+||zztsxepxumxoyw.com^
 ||zzuzishy.com^
 ||zzwzsic.cn^
 ||zzxedr.xyz^
@@ -91423,7 +91430,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 100bt.com##.aolasidebar__ad1
 100ec.cn##.detail_top_ad
 100ksw.com###ad_move_sg
-100percentfedup.com,180gadgets.com,247media.com.ng,academicful.com,addapinch.com,aiarticlespinner.co,allaboutfpl.com,alltechnerd.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,asurascans.com,australiangeographic.com.au,autodaily.com.au,bigleaguepolitics.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,charlieintel.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,coincodecap.com,conservativebrief.com,cookingwithdog.com,corrosionhour.com,crimereads.com,cryptobriefing.com,cryptopotato.com,cryptoreporter.info,cryptoslate.com,dafontfree.io,dailynewshungary.com,dcenquirer.com,dexdotexe.com,dorohedoro.online,epicdope.com,eurweb.com,exeo.app,fandomwire.com,fap-nation.com,firstsportz.com,flickeringmyth.com,flyingmag.com,freemagazines.top,fyptt.to,gadgetinsiders.com,gamegill.com,gameinfinitus.com,gamertweak.com,gatewaynews.co.za,geekdashboard.com,getdroidtips.com,goodyfeed.com,greekreporter.com,hard-drive.net,hdmovies4u.live,hollywoodinsider.com,hollywoodunlocked.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,japaneseasmr.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,jujustukaisen.com,libertyunlocked.com,linuxfordevices.com,lithub.com,mb.com.ph,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,nationalfile.com,nintendoeverything.com,notalwaysright.com,nsw2u.com,nxbrew.com,organicfacts.net,patriotfetch.com,premiumtimesng.com,protrumpnews.com,pureinfotech.com,quickanswer.blog,redrightvideos.com,reneweconomy.com.au,reptilesmagazine.com,respawnfirst.com,rezence.com,roadaheadonline.co.za,rok.guide,sciencenotes.org,sdnews.com,simscommunity.info,small-screen.co.uk,storypick.com,streamingbetter.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techpp.com,techrounder.com,techviral.net,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,thepeoplesvoice.tv,thewincentral.com,trendingpolitics.com,trendingpoliticsnews.com,twistedvoxel.com,videogamer.com,vjmedia.com.hk,walletinvestor.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,win.gg,wisden.com,wnd.com,zerohanger.com##.code-block
+100percentfedup.com,180gadgets.com,247media.com.ng,academicful.com,addapinch.com,aiarticlespinner.co,allaboutfpl.com,alltechnerd.com,americanmilitarynews.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,asurascans.com,australiangeographic.com.au,autodaily.com.au,bigleaguepolitics.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,charlieintel.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,coincodecap.com,conservativebrief.com,cookingwithdog.com,corrosionhour.com,crimereads.com,cryptobriefing.com,cryptopotato.com,cryptoreporter.info,cryptoslate.com,dafontfree.io,dailynewshungary.com,dcenquirer.com,dexdotexe.com,dorohedoro.online,epicdope.com,eurweb.com,exeo.app,fandomwire.com,fap-nation.com,firstsportz.com,flickeringmyth.com,flyingmag.com,freemagazines.top,fyptt.to,gadgetinsiders.com,gamegill.com,gameinfinitus.com,gamertweak.com,gatewaynews.co.za,geekdashboard.com,getdroidtips.com,goodyfeed.com,greekreporter.com,hard-drive.net,hdmovies4u.live,hollywoodinsider.com,hollywoodunlocked.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,japaneseasmr.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,jujustukaisen.com,libertyunlocked.com,linuxfordevices.com,lithub.com,mb.com.ph,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,nationalfile.com,nintendoeverything.com,notalwaysright.com,nsw2u.com,nxbrew.com,organicfacts.net,patriotfetch.com,premiumtimesng.com,protrumpnews.com,pureinfotech.com,quickanswer.blog,redrightvideos.com,reneweconomy.com.au,reptilesmagazine.com,respawnfirst.com,rezence.com,roadaheadonline.co.za,rok.guide,saabplanet.com,sciencenotes.org,sdnews.com,simscommunity.info,small-screen.co.uk,storypick.com,streamingbetter.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techpp.com,techrounder.com,techviral.net,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,thepeoplesvoice.tv,thewincentral.com,trendingpolitics.com,trendingpoliticsnews.com,twistedvoxel.com,videogamer.com,vjmedia.com.hk,walletinvestor.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,win.gg,wisden.com,wnd.com,zerohanger.com##.code-block
 101.ru##.showMessageAdBlock
 1010dy3.com###arBRyGHxuDYU
 1010dy3.com##.text-center[style]
@@ -92459,7 +92466,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 4runnerforum.com,acuraforums.com,blazerforum.com,buickforum.com,cadillacforum.com,camaroforums.com,cbrforum.com,chryslerforum.com,civicforums.com,corvetteforums.com,fordforum.com,germanautoforums.com,hondaaccordforum.com,hondacivicforum.com,hondaforum.com,hummerforums.com,isuzuforums.com,kawasakiforums.com,landroverforums.com,lexusforum.com,mazdaforum.com,mercuryforum.com,minicooperforums.com,mitsubishiforum.com,montecarloforum.com,mustangboards.com,nissanforum.com,oldsmobileforum.com,pontiactalk.com,saabforums.com,saturnforum.com,truckforums.com,volkswagenforum.com,volvoforums.com##aside > center
 4shared.com##.remove-rekl
 4spaces.org,fuliba.net,fuliba2023.net,fuliba23.net,uliba.net,ypojie.com##.widget_ui_orbui
-4sysops.com,9to5linux.com,app-how-to-use-it.com,arcjav.com,backthetruckup.com,catcountry941.com,cnx-software.com,corrosionhour.com,corvetteblogger.com,dailyveracity.com,dcrainmaker.com,droidwin.com,dvdgayporn.com,faqforge.com,fastestvpns.com,fuliba2020.net,fuliba2021.net,fuliba2023.net,gamingonphone.com,girgitnews.com,gizmochina.com,guides.wp-bullet.com,hardwaretimes.com,hotcelebshome.com,iwatchsouthparks.com,jav.guru,javcrave.com,landiannews.com,laoliublog.cn,macsources.com,mangasy.com,metalsucks.net,mmoculture.com,nasaspaceflight.com,nbagaffer.net,openloading.com,planetofreviews.com,prepperwebsite.com,psdly.com,pussycatxx.com,quickanswer.blog,robloxhackscripts.com,ruyo.net,sashares.co.za,scienceabc.com,scienceandliteracy.org,survivopedia.com,taradinhos.com,techdows.com,techiecorner.com,techjuice.pk,theblueoceansgroup.com,thecinemaholic.com,thetaiwantimes.com,thinkcivics.com,tooxclusive.com,torrentfreak.com,trackalerts.com,trendingpoliticsnews.com,uliba.net,vrhotporn.top,winandmac.com,xscholarship.com,zhujiceping.com,zouaw.com##.widget_custom_html
+4sysops.com,9to5linux.com,app-how-to-use-it.com,arcjav.com,backthetruckup.com,catcountry941.com,cnx-software.com,corrosionhour.com,corvetteblogger.com,dailyveracity.com,dcrainmaker.com,droidwin.com,dvdgayporn.com,faqforge.com,fastestvpns.com,fuliba2020.net,fuliba2021.net,fuliba2023.net,gamingonphone.com,girgitnews.com,gizmochina.com,guides.wp-bullet.com,hardwaretimes.com,hotcelebshome.com,iwatchsouthparks.com,jav.guru,javcrave.com,landiannews.com,laoliublog.cn,macsources.com,mangasy.com,metalsucks.net,mmoculture.com,nasaspaceflight.com,nbagaffer.net,openloading.com,patriotfetch.com,planetofreviews.com,prepperwebsite.com,psdly.com,pussycatxx.com,quickanswer.blog,robloxhackscripts.com,ruyo.net,sashares.co.za,scienceabc.com,scienceandliteracy.org,survivopedia.com,taradinhos.com,techdows.com,techiecorner.com,techjuice.pk,theblueoceansgroup.com,thecinemaholic.com,thetaiwantimes.com,thinkcivics.com,tooxclusive.com,torrentfreak.com,trackalerts.com,trendingpoliticsnews.com,uliba.net,vrhotporn.top,winandmac.com,xscholarship.com,zhujiceping.com,zouaw.com##.widget_custom_html
 4teachers.org###banner-wrapper
 4thsight.xyz,aceofhacking.com,briian.com,buildsometech.com,collegelearners.com,dpfantasy.org,eftm.com,firesticktricks.com,floxblog.com,gfxdrug.com,godisageek.com,historicseries.com,hotcelebshome.com,hutporner.com,indiansexbazar.com,jav1080.com,laweekly.com,newtechworld.net,nicekkk.com,pennbookcenter.com,sakurajav.com,sonixgvn.net,streamempire.cc,tecmint.com,tmioe.com,watchseinfeld.com,watchtheoffice.cc,zonegfx.com###custom_html-4
 4tube.com###main-jessy-grid
@@ -93723,6 +93730,7 @@ apkmirror.com##.google-ad-leaderboard
 apkmirror.com##.listWidget > .promotedAppListing
 apkmirror.com##.listWidget > div[class="appRow"]
 apkmirror.com##div[id^="adtester-container-"]
+apkmoddone.com###sn-Notif
 apkmody.io##.body-fixed-footer
 apkonline.net###adzz
 apkonline.net###ja-container-prev-0
@@ -96741,6 +96749,8 @@ dailydot.com,grammar-monster.com,jxedt.com,youjizz.com##footer
 dailyegyptian.com,northernstar.info,theorion.com,theprospectordaily.com##.leaderboardwrap
 dailyevergreen.com##.sno-hac-desktop-1
 dailyfx.com##.dfx-article__sidebar
+dailygh.com###video_fade
+dailygh.com##.div_removeable
 dailyherald.com##.stnContainer
 dailyjournalonline.com##.g-dyn
 dailykos.com##.ad__placeholder
@@ -102578,8 +102588,9 @@ lifesitenews.com##.important-info
 lifestyleasia.com##.btt-top-add-section
 lifewire.com##.daily-deal
 lightnovel.us##.author + .poster
+lightnovelcave.com###lnvidcontainer
+lightnovelcave.com,lightnovelpub.com##[data-mobid]
 lightnovelpub.com##.lnadcontainer
-lightnovelpub.com##[data-mobid]
 lightnovelpub.com,wantgoo.com##.adsbox
 lightreading.com##a[href^="/lg_redirect.asp?piddl_lgid_docid="]
 lihkg.com##iframe[src^="https://pb.lihkg.com/"][style^="height:"]
@@ -110635,6 +110646,7 @@ xfastest.com##iframe[src*="//ads.xfastest.com/"]
 xgan.cn##.container center > a[target="_blank"] > img
 xgan.cn##a[href^="https://www.jspp9.xyz"]
 xgan.cn##body > center > a[target="_blank"][rel="nofollow"]
+xgcartoon.com,dailygh.com###video-top-ad
 xgrb.cn##.d_2016_ggw
 xgroovy.com##.adsbyexoclick
 xgroovy.com##.fluid-b
@@ -117520,6 +117532,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ciaad.
 /circads.
 /cjadsprite.
+/cjs/cprt.js$domain=dailygh.com|xgcartoon.com
 /ck.php?nids
 /clarityray.js
 /classifieds/banners/*
@@ -130143,6 +130156,7 @@ zle.com$script
 ##.AdsBoxTop
 ##.AdsInnov_responsive_ad
 ##.AdsLayout__top-container
+##.AdsRectangleWrapper
 ##.AdsSections
 ##.AdsSlot
 ##.Ads_3
