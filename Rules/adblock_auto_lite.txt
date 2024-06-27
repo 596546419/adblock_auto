@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 5m3P2kNpjh8JaRZuMQ8b1A
+! Checksum: SluEulNFifHS3Cho+Tydmw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240627002631
+! Version: 20240627092543
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-27 00:26:31
-! Total Count: 28171
+! Last modified: 2024-06-27 09:25:43
+! Total Count: 28176
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6737,6 +6737,7 @@
 ||efficaciouscactus.com^$third-party
 ||effirst.com^$third-party
 ||efgh.5lu.com^
+||efhis.cn^
 ||efjsliw.top^
 ||efmtsw.xyz^
 ||efs604.top^
@@ -7730,6 +7731,7 @@
 ||gjipd.xyz^
 ||gjmqqq.com^
 ||gjwind.com/xxmh.gif
+||gjwxy.cn^
 ||gk1.582582.com^
 ||gk1.zjbiz.net^
 ||gk99.com/static/js/a-d-sys.js
@@ -10430,6 +10432,7 @@
 ||lhotajl.icu^
 ||lhotajl.icu^$third-party
 ||lhtnuop.xyz^
+||lhtzfn.xyz^
 ||lhzxbp.xyz^
 ||lianaiyx.com/d/js/cst/
 ||liangjan.com/js/show_
@@ -14795,6 +14798,7 @@
 ||strongersummon.com^$document
 ||strongersummon.com^$~third-party
 ||structurerod.com^$third-party
+||stsesc.xyz^
 ||stuff.wikiporno.org^
 ||stulip.org/static/js/header.js
 ||stupendousselection.com^$third-party
@@ -15783,6 +15787,7 @@
 ||udn.com/upf/2014_sales/testpage/Bannerimage/*x*_*.jpg
 ||udn.com^*/ad/
 ||udnfunlife.com/mall/cus/cat/OutWebAd.do
+||udoshbt.top^
 ||udpdmeb.cn^
 ||udsahkln.xyz^
 ||udxhzqg.cn^
