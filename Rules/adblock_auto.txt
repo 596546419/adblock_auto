@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 1Ew5arU02z25FF82mQwcnA
+! Checksum: PzZcyyELBLUUD7zilOaLCw
 ! Title: 混合规则(自动更新)
-! Version: 20240628092526
+! Version: 20240628162506
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-28 09:25:26
-! Total Count: 146890
+! Last modified: 2024-06-28 16:25:06
+! Total Count: 146899
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -17165,6 +17165,7 @@
 ||caviera-sverige.shop^
 ||cavilerestops.com^
 ||cawbarthe.com^
+||cawedburial.com^
 ||cawlavzzap.com^
 ||cawnielammy.com^
 ||caxist.com^
@@ -60349,6 +60350,7 @@
 ||podaaec.cyou^
 ||podalichoorays.life^
 ||podefr.net^
+||podgilyfattens.com^
 ||podiumpresto.com^$third-party
 ||podlersabir.com^
 ||podosupsurge.com^
@@ -67710,6 +67712,7 @@
 ||sandwichdeliveringswine.com^
 ||sandyconference.com^
 ||sandysuspicions.com^
+||sanedfalsely.com^
 ||sanfordcessor.space^
 ||sange20221226.xyz^
 ||sangeiunzen.com^
@@ -77756,6 +77759,7 @@
 ||torbit.com^
 ||torcheszocalo.top^
 ||torchtrifling.com^
+||toreddorize.com^
 ||torflegorb.com^
 ||torgdom.biz^
 ||torgnn.ru^
@@ -85840,6 +85844,7 @@
 ||wholecoolposts.com^
 ||wholecoolstories.com^
 ||wholedailyfeed.com^
+||wholeelision.com^
 ||wholefreshposts.com^
 ||wholehk.com/atttuop.js
 ||wholehotjournal.com^
@@ -93105,7 +93110,7 @@ abovetopsecret.com,thelibertydaily.com##[href^="https://mypatriotsupply.com/"]
 abpclub.co.uk##img[width="118"]
 absoluteanime.com##.aa_leaderboard
 absolutelyrics.com,cdrlabs.com,eonline.com,exiledonline.com,findtheword.info,gtloli.one,realitywanted.com,revizoronline.com,snapfiles.com###topbanner
-abxxx.com,aniporn.com,blackmod.net,missav.com,missav123.com,missav789.com,multiup.eu,orbz.io,pornclassic.tube,redgifs.com,tubepornclassic.com,xanimeporn.com##div[style="width: 300px; height: 250px;"]
+abxxx.com,aniporn.com,blackmod.net,missav.com,missav123.com,missav789.com,multiup.eu,myav.com,orbz.io,pornclassic.tube,redgifs.com,tubepornclassic.com,xanimeporn.com##div[style="width: 300px; height: 250px;"]
 abysscdn.com,hqq.ac,hqq.to,hqq.tv,linris.xyz,megaplay.cc,meucdn.vip,netuplayer.top,ntvid.online,oceanplay.xyz,playertoast.uno,plushd.bio,waaw.to,watchonlinehd123.sbs,wiztube.xyz##a[title="Free money easy"]
 ac-room.cc##.ad.v-card
 ac-room.cc#?#.waterfall > div.waterfall-box > div.waterfall-item:has(> div.ad)
@@ -94893,7 +94898,7 @@ blackbeltmag.com##[aria-label="Wix Monetize with AdSense"]
 blackbeltmag.com##[data-hook="bgLayers"]
 blackcaps.co.nz##.commercial-partners
 blackdesert-info.ru##div[class][style*="z-index"][style*="999999;"][style*="background"][style*="rgb"]
-blackhaloadultreviews.com,boyfriendtv.com,hentaigasm.com,javjunkies.com,masahub.net,missav.com,phun.org,porn-w.org,yespornplease.porn##a[href*="//bit.ly/"]
+blackhaloadultreviews.com,boyfriendtv.com,hentaigasm.com,javjunkies.com,masahub.net,missav.com,missav123.com,missav789.com,myav.com,phun.org,porn-w.org,yespornplease.porn##a[href*="//bit.ly/"]
 blackhatworld.com##.bhw-advertise-link
 blackhatworld.com##.bhw-banners
 blasternation.com###xobda
@@ -102571,6 +102576,7 @@ letras.com##.cnt-space-top
 letsdopuzzles.com##.gda-home-box
 letsgodigital.org##.product__wrapper
 letsgodigital.org,letsgomobile.org##.partners-bar
+letsplay.tw##.entry-content > div[style="min-width: 300px; min-height:300px;"]
 letssingit.com##.lai_all_special
 letssingit.com##.lai_desktop_header
 letssingit.com##.lai_desktop_inline
@@ -103517,6 +103523,9 @@ mirror.co.uk,themirror.com##.ad-placeholder
 mirrormedia.mg##.micro-ad
 mirrormedia.mg##.story__ad
 missav.com##[href^="https://l.hyenadata.com/"]
+missav.com,missav123.com,missav789.com,myav.com##.lg\:block
+missav.com,missav123.com,missav789.com,myav.com##.lg\:hidden
+missav.com,missav123.com,missav789.com,myav.com##[x-show$="video_details'"] > div > .list-disc
 missav.com,missav888.com,missav123.com,missav789.com,thisav.com##.under_player
 missav.com,missav888.com,missav123.com,missav789.com,thisav.com##[href*="//bit.ly/"]
 missav.com,missav888.com,missav123.com,missav789.com,thisav.com##div[class*="lg:hidden"]
