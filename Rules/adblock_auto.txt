@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: rW/tWsQb1eLJZPeIsuJ9hQ
+! Checksum: 1Ew5arU02z25FF82mQwcnA
 ! Title: 混合规则(自动更新)
-! Version: 20240628002625
+! Version: 20240628092526
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-28 00:26:25
-! Total Count: 146856
+! Last modified: 2024-06-28 09:25:26
+! Total Count: 146890
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2008,6 +2008,7 @@
 ||46186911.vtt^
 ||46243b6252.com^
 ||463fca0d34.com^
+||466c4d0f.xyz^
 ||466f89f4d1.com^
 ||468.vologdainfo.ru^
 ||4690y10pvpq8.com^
@@ -2310,6 +2311,7 @@
 ||5399.com^$third-party
 ||539f346355.com^
 ||53c2dtzsj7t1.top^
+||53e91a4877.com^
 ||53gem.com^
 ||53kf.com^$third-party
 ||53shop.com/ime/*.js
@@ -4232,6 +4234,7 @@
 ||abeets.ru^
 ||abelekidr.com^
 ||abelestheca.com^
+||abencwrmt.com^
 ||abenshishabi.com^
 ||abethow.com^
 ||abevc.club^
@@ -8319,6 +8322,7 @@
 ||allenhoroscope.com^
 ||allenmanoeuvre.com^
 ||allenprepareattic.com^
+||allergicloaded.com^
 ||alleswegenmicha.de^
 ||alleviatediscoveryexpress.com^
 ||alleviatepracticableaddicted.com^
@@ -12796,6 +12800,7 @@
 ||bbccf12.xyz^
 ||bbcrgate.com^
 ||bbd834il.de^
+||bbdiknmwgyesw.com^
 ||bbdobm.com^
 ||bbelements.com^
 ||bbes.xyz^
@@ -13826,6 +13831,7 @@
 ||bgadx.com^
 ||bgbkvawcctzqql.com^
 ||bgbqfqwi.xyz^
+||bgbtqizsdziw.com^
 ||bgbyzv.xyz^
 ||bgcnhux.cn^
 ||bgcold.com^
@@ -13833,6 +13839,7 @@
 ||bgdgpbpm.xyz^
 ||bgdizsay.icu^
 ||bgeclklgpnk.xyz^
+||bgecvddelzg.com^
 ||bgeg1.fun^
 ||bgevhldiekl.xyz^
 ||bgidskiv.top^
@@ -17399,6 +17406,7 @@
 ||cdn.bescore.com^
 ||cdn.biddercore.io^
 ||cdn.c-i.as^
+||cdn.cdnhipter.xyz^
 ||cdn.cohesionapps.com^
 ||cdn.comedia.coccoc.com^
 ||cdn.convertbox.com^
@@ -17478,6 +17486,7 @@
 ||cdn.steambets.net^
 ||cdn.subscribers.com^
 ||cdn.sunporno.com/sunstatic/v*/common/sunporno/compiled/script.v*.min.js
+||cdn.tameti.com^
 ||cdn.teleportapi.com^
 ||cdn.tercept.com^
 ||cdn.thehiveworks.com/images/bees/mobile$image,domain=smbc-comics.com
@@ -26292,6 +26301,7 @@
 ||earthycopy.com^$third-party
 ||earzow.com^
 ||eas.mediekompaniet.com^
+||eas696r.xyz^
 ||easazi.com^
 ||easeavailandpro.info^
 ||easegoes.com^
@@ -30207,6 +30217,7 @@
 ||fiktvlnc.icu^
 ||fila.com.se^
 ||filament-stats.herokuapp.com^
+||filasofighit.com^
 ||filasseseeder.com^
 ||filavietnamve.com^
 ||filchmadeirahotel.com^
@@ -30501,6 +30512,7 @@
 ||fktkwb.cn^
 ||fkugzbngtla.com^
 ||fkwkzlb.com^
+||fkxs.net/tops/
 ||fkxsklor.com^
 ||fkyhqtfiopfit.com^
 ||fkyujept.com^
@@ -32591,6 +32603,7 @@
 ||gayxperience.com^
 ||gazati.com^
 ||gazeesoter.com^
+||gazumpers27.fun^
 ||gb1aff.com^
 ||gbbdkrkvn.xyz^
 ||gbc27.online^
@@ -32765,6 +32778,7 @@
 ||gelbjvl.cn^
 ||gelbooru.com/script/application.js
 ||geldcounter.de^
+||gelescu.cloud^
 ||gelhp.com^
 ||gelidoctans.digital^
 ||gelofrebromes.top^
@@ -32910,6 +32924,7 @@
 ||gereacumina.com^
 ||gerefadelves.com^
 ||germaniavid.com^
+||germanize24.fun^
 ||germanplumpcries.com^
 ||germanyretorteddonate.com^
 ||germinatecascade.com^
@@ -33462,6 +33477,7 @@
 ||gkjmev3.com^
 ||gkkchmjdndovu.xyz^
 ||gkktjf.top^
+||gklox.cn^
 ||gkmohklyjyh.com^
 ||gknybkl.cn^
 ||gkofzfi.cn^
@@ -49683,6 +49699,7 @@
 ||mdklc.top^
 ||mdkycodubgvms.com^
 ||mdoirsw.com^
+||mdoshbx.top^
 ||mdotlabs.com^
 ||mdpycygel.com^
 ||mdqgwa.cn^
@@ -50287,6 +50304,7 @@
 ||metrics.baitoru.com^
 ||metrics.bangbros.com^
 ||metrics.beyondwords.io^
+||metrics.biddertmz.com^
 ||metrics.biletino.com^
 ||metrics.brightcove.com^
 ||metrics.cbn.com^
@@ -50310,6 +50328,7 @@
 ||metrics.gs-chat.com^
 ||metrics.happycolor.app^
 ||metrics.icloud.com^
+||metrics.imdb.a2z.com^
 ||metrics.infranken.de^
 ||metrics.io^
 ||metrics.kmsmep.com^
@@ -51361,6 +51380,7 @@
 ||modtrnxsmf.com^
 ||modularmental.com^
 ||modularmental.com^$third-party
+||moduleanalysis.aliexpress.com^
 ||modulecooper.com^
 ||moduledescendantlos.com^
 ||modulejsreques.com^
@@ -55383,6 +55403,7 @@
 ||oahosaisaign.com^
 ||oaihiiacb.com^
 ||oainternetservices.com^
+||oainzuo.xyz^
 ||oaiweznjo.com^
 ||oajagroax.com^
 ||oajsffmrj.xyz^
@@ -56113,6 +56134,7 @@
 ||okxhjbpfxqp.com^
 ||okxqmiagltpe.com^
 ||ol-img.com/channel/tuku/js/tukuPopup.js
+||olabdsjovla.com^
 ||oladyip.cn^
 ||olakoudos.xyz^
 ||olamicmails.com^
@@ -56131,6 +56153,7 @@
 ||oldfashionedcity.pro^
 ||oldfashionedmadewhiskers.com^
 ||oldfashionedoffer.com^$third-party
+||oldforeyesheh.info^
 ||oldgyhogola.com^
 ||oldied.com^
 ||oldmilram.com^
@@ -57291,6 +57314,7 @@
 ||outgateniceish.com^
 ||outglowkeysets.guru^
 ||outgrinuntold.com^
+||outhauzours.com^
 ||outheelrelict.com^
 ||outherunrid.digital^
 ||outhulem.net^
@@ -59436,6 +59460,7 @@
 ||pickedincome.com^
 ||pickedlawhandshake.com^
 ||picketsubmission.com^
+||picklecandourbug.com^
 ||picklesdumb.com^
 ||picklespealwanderer.com^
 ||pickupnationalityinexhaustible.com^
@@ -61961,6 +61986,7 @@
 ||pseudonym.cn^
 ||psf805.xyz^$document
 ||psf805.xyz^$~third-party
+||psfdi.com^
 ||psffhzsbecs.com^
 ||psfgobbet.com^
 ||pshb.me^
@@ -66282,6 +66308,7 @@
 ||rmhfrtnd.com^
 ||rmhfrtnd.com^$third-party
 ||rmhptjwikttv.com^
+||rmioswx.icu^
 ||rmipoz.com/dp.js
 ||rmirha.cn^
 ||rmixfgusqoc.com^
@@ -69209,6 +69236,7 @@
 ||shamelessspank.com^
 ||shamepracticegloomily.com^
 ||shamining.com^
+||shammesbyssin.top^
 ||shamodesha.com^
 ||shamosmatic.com^
 ||shanaurg.net^
@@ -79432,6 +79460,7 @@
 ||truycapvidientu247.com^
 ||trv.upperbooking.com^
 ||trvwjyjgkgeagd.com^
+||trvxbd.xyz^
 ||trw12.com^
 ||trw12.com^$third-party
 ||trx-cdn.zip.co^
@@ -82710,6 +82739,7 @@
 ||vetdeberg.com^
 ||vethojoa.net^
 ||vetoembrace.com^
+||vetrainingukm.info^
 ||vetuststeek.com^
 ||veugcz8.com^
 ||veuuulalu.xyz^
@@ -96315,6 +96345,7 @@ computerweekly.com,techtarget.com,theserverside.com##.cls-hlb-wrapper-desktop
 computerworld.com,infoworld.com,networkworld.com,probuildstats.com##.ad-placement
 computing.co.uk##.sidebar-block
 computips.org,electronicshub.org,hentaimama.io,leaktape.com,techlife.com,technipages.com,tennews.in###text-5
+conjugacao-de-verbos.com,conjugacion.es,die-konjugation.de,the-conjugation.com###header_pub
 consequence.net##.leaderboard-sticky
 consequence.net##.video_container
 conservativebrief.com##.code-block > span
@@ -104819,6 +104850,7 @@ onlineocr.net##.row[style*="text-align:right"]
 onlineradiobox.com##.banner--header
 onlineradiobox.com##.banner--vertical
 onlineradious.com,radiomixer.net##.ai-placement
+onlinevideoconverter.pro##.helper-widget
 onlydudes.tv##.b-footer-place
 onlydudes.tv##.b-side-col
 onlyfullporn.com##.video-embedded > .a-embed
@@ -110488,6 +110520,7 @@ wsj.com##.w27771
 wsj.com##.wsj-ad-label
 wsj.com##[aria-label="Sponsored Offers"]
 wsj.com##div[class*="WSJTheme--adWrapper"]
+wss://*.xyz:*?x=$third-party
 wss://*/api/wss/GetNotReadCount$third-party
 wst.tv##.footer-logos
 wtatennis.com##.footer-sponsors
@@ -124426,6 +124459,7 @@ wcdnct.inter.71edge.com/videos/other/*.f4v
 weizhenwx.com
 wpadmngr.com
 ws://*/api/wss/GetNotReadCount$third-party
+wss://*.xyz:*?x=$third-party
 wss://*/api/wss/GetNotReadCount$third-party
 xelements.cn
 xhtml?$domain=kanshu8.net

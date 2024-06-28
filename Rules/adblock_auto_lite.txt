@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 2s55sZNbMEP1GJd2aF9MnQ
+! Checksum: UsCAn6idHYy9nN0ozGjntw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240628002636
+! Version: 20240628092537
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-28 00:26:36
-! Total Count: 28181
+! Last modified: 2024-06-28 09:25:37
+! Total Count: 28186
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7243,6 +7243,7 @@
 ||fkhxlz.xyz^
 ||fkjsjwbs.xyz^
 ||fklgndklbngg.com^
+||fkxs.net/tops/
 ||fl6n.com/adtop/
 ||flakyfeast.com^$third-party
 ||flameuncle.com^$third-party
@@ -7737,6 +7738,7 @@
 ||gk99.com/static/js/a-d-sys.js
 ||gkjmev3.com^
 ||gkktjf.top^
+||gklox.cn^
 ||gkswas.xyz^
 ||gkutca.xyz^
 ||gkwrae.xyz^
@@ -11030,6 +11032,7 @@
 ||mdhxyhl.cn^
 ||mdiygc.xyz^
 ||mdjdpyrt.xyz^
+||mdoshbx.top^
 ||mdqpkdne.xyz^
 ||mdsahkln.xyz^
 ||mdwhxw.com^
@@ -13605,6 +13608,7 @@
 ||rmbvzh.xyz^
 ||rmduuv.icu^
 ||rmhfrtnd.com^$third-party
+||rmioswx.icu^
 ||rmipoz.com/dp.js
 ||rmnsdh.xyz^
 ||rmxizma.cn^
@@ -15506,6 +15510,7 @@
 ||truckstomatoes.com^$third-party
 ||truculentrate.com^$third-party
 ||truvidplayer.com^$domain=technews.tw
+||trvxbd.xyz^
 ||trxs123.com/skin/default/js/jque.js
 ||tryoe.com^$third-party
 ||ts.grmnmwv.cn^
