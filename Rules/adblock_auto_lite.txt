@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: QMNPwQU2sjNqZVhCEtnGzQ
+! Checksum: Q/1vljp4wdCQHY7veoNV2g
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240628162517
+! Version: 20240629002522
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-28 16:25:17
-! Total Count: 28186
+! Last modified: 2024-06-29 00:25:22
+! Total Count: 28191
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -835,6 +835,7 @@
 ||555bbb333bbb.com^
 ||555bbb555www.com^
 ||555bbb777www.com^
+||555ppp777ppp.com^
 ||5588.tv/js/piaofuImg.js
 ||5598tp.com^$domain=9xav.cc
 ||55aaee.com/detail/
@@ -956,6 +957,7 @@
 ||666bbb222www.com^
 ||666bbb333bbb.com^
 ||666bbb888www.com^
+||666ppp222ppp.com^
 ||6686bb.app^
 ||6696q.com^
 ||6699fa.cn/imagestb/
@@ -1452,6 +1454,7 @@
 ||a1.twtym.com^
 ||a1.zhanzhang.net^
 ||a1714.com^$popup
+||a1bw2cup.top^
 ||a2.b310.com^
 ||a2.hotpornfile.org^
 ||a2.xinhuanet.com^
@@ -14912,6 +14915,7 @@
 ||sx.fakjkwp.cn^
 ||sxakca.xyz^
 ||sxeimg.com/u/20191108/13082210.gif
+||sxlmggx12.com^
 ||sxoejoc.icu^
 ||sxtnpzd.xyz^
 ||sxundrh.cn^
@@ -16039,6 +16043,7 @@
 ||uxzvjoj.cn^
 ||uycxhgrp.xyz^
 ||uydzfldt.xyz^
+||uyislot.top^
 ||uym11.xyz^
 ||uymahuxv.xyz^
 ||uyohyy.xyz^
