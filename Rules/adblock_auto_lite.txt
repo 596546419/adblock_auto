@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: IUYsUpEKe3JHpP0YtpjVMw
+! Checksum: jpGpgPu3VtFBQcTY1hWOlQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240629092406
+! Version: 20240629162445
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-29 09:24:06
-! Total Count: 28198
+! Last modified: 2024-06-29 16:24:45
+! Total Count: 28202
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -10084,6 +10084,7 @@
 ||kop02.com^$document
 ||kop02.com^$~third-party
 ||kopde.xyz^
+||kopvx.cn^
 ||koqjok.xyz^
 ||koqsxdpx.xyz^
 ||korewaeroi.com/fukugan_sp_3x4.html
@@ -11609,6 +11610,7 @@
 ||n2.hk/apps/car_feed/tb/*/banner.html
 ||n2.hk/promo/
 ||n2faw.site^
+||n2wqmr4lmaummar.xyz^
 ||n3567.com^
 ||n4403ad.doubleclick.net^
 ||n522rv1.cn^
@@ -14946,6 +14948,7 @@
 ||szbxm.cn^
 ||szbxw.cn^
 ||szbzp.cn^
+||szddm.cn^
 ||szdgl.cn^
 ||szdpk.cn^
 ||szdtf.cn^
@@ -16366,6 +16369,7 @@
 ||vuntbnc.cn^$document
 ||vuntbnc.cn^$~third-party
 ||vupload.duowan.com^
+||vupsnx.xyz^
 ||vutjnt.xyz^
 ||vuvnix.icu^
 ||vuvxpf.xyz^
