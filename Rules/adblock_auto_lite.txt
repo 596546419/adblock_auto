@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Q/1vljp4wdCQHY7veoNV2g
+! Checksum: IUYsUpEKe3JHpP0YtpjVMw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240629002522
+! Version: 20240629092406
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-29 00:25:22
-! Total Count: 28191
+! Last modified: 2024-06-29 09:24:06
+! Total Count: 28198
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -885,6 +885,7 @@
 ||5fz.cc/t/aimg/tao
 ||5gg17gm.com^
 ||5ggj5cp.com^
+||5gxs.org^
 ||5hte21mz.com^
 ||5icool.org/uploadfile/poster/
 ||5ilinglei.com/gg.html
@@ -2129,6 +2130,7 @@
 ||adhostingsolutions.com^$third-party
 ||adhub.digital^
 ||adhunt.net^$third-party
+||adhvz.cn^
 ||adi*.cnool.net^
 ||adicate.com^$third-party
 ||adiingsinspiri.org^
@@ -4176,6 +4178,7 @@
 ||bbsbaba.com/js/2.js
 ||bbtta91.shop^
 ||bbttf26.shop^
+||bbxyxt.xyz^
 ||bbyfsfo.cn^
 ||bcb5.com/gg/
 ||bcb9.cn^
@@ -9959,6 +9962,7 @@
 ||kfpnqug.cn^
 ||kfqizu.cn^
 ||kfvjdvjzhddhc.com^
+||kfycmiu.icu^
 ||kgacp.cyou^
 ||kgcyvd.com^
 ||kgdyoh.icu^
@@ -10338,6 +10342,7 @@
 ||ldjhlqr.cn^
 ||ldjnbn.xyz^
 ||ldmnq.com^$third-party,badfilter
+||ldoshbl.top^
 ||ldvdwlt.xyz^
 ||ldvnehc.xyz^
 ||ldxinb.xyz^
@@ -13039,6 +13044,7 @@
 ||qdtjjxr.xyz^
 ||qdtzbbh.xyz^
 ||qdzyspjx.com^
+||qeedaa.xyz^
 ||qejjhnq.cn^
 ||qerbert78.xyz^
 ||qescaen.com^
@@ -17144,6 +17150,7 @@
 ||xrdqdd.xyz^
 ||xrkyqq.com^
 ||xrllybr.xyz^
+||xrmfjzqo.xyz^
 ||xrrhwgj.xyz^
 ||xrrxodz.xyz^
 ||xs.houyi.baofeng.net^

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: h6y6Ig9y3/O1TwYZPTaYOg
+! Checksum: lPi+6VwQo3CNViE27s2HEg
 ! Title: 混合规则(自动更新)
-! Version: 20240629002510
+! Version: 20240629092355
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-29 00:25:10
-! Total Count: 146922
+! Last modified: 2024-06-29 09:23:55
+! Total Count: 146935
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2485,6 +2485,7 @@
 ||5ggj5cp.com^
 ||5giay.cc^
 ||5glyqw.com^
+||5gxs.org^
 ||5h3oyhv838.com^
 ||5h7370j8.cn^
 ||5hte21mz.com^
@@ -5496,6 +5497,7 @@
 ||adhub.ru^
 ||adhunt.net^
 ||adhunter.media^
+||adhvz.cn^
 ||adi*.cnool.net^
 ||adi.vcmedia.vn^
 ||adiam.tech^
@@ -12852,6 +12854,7 @@
 ||bbwcbdurxalsks.com^
 ||bbwzzwremrrmr.top^
 ||bbwzzwremrvkl.top^
+||bbxyxt.xyz^
 ||bbyavrykjopnnx.xyz^
 ||bbyfsfo.cn^
 ||bbyjgkkdihiyxy.com^
@@ -43327,6 +43330,7 @@
 ||jyrfbtmbuqeaeo.com^
 ||jyrypezzzd.com^
 ||jysbj.cn^
+||jysocexrxbodh.com^
 ||jystea.com^
 ||jyt58.top^
 ||jytbxzil.com^
@@ -43919,6 +43923,7 @@
 ||kfvjdvjzhddhc.com^
 ||kfxkxyb.com^
 ||kfxoqdivddwh.com^
+||kfycmiu.icu^
 ||kgacp.cyou^
 ||kgagck6.com^
 ||kgcyvd.com^
@@ -44219,6 +44224,7 @@
 ||kjcnve.xyz^
 ||kjcvw.xyz^
 ||kjdbcjkmc.com^
+||kjdsfjisdfjr23.azurewebsites.net^
 ||kjeqga.xyz^
 ||kjffqbnug.com^
 ||kjfhenoqfyfljo.com^
@@ -45829,6 +45835,7 @@
 ||ldmlnhfnly.com^
 ||ldmnq.com/bbs/$third-party
 ||ldmnq.com^$third-party,badfilter
+||ldoshbl.top^
 ||ldp.page^
 ||ldpiecesonth.xyz^
 ||ldpsfa.com^
@@ -58557,6 +58564,7 @@
 ||pcfdgc.cn^
 ||pcgames.com.cn*/index.js
 ||pcgames.com.cn/g/
+||pcglvhrln.com^
 ||pchbhiuthja.com^
 ||pchcwqsfaqpw.com^
 ||pcheahrdnfktvhs.xyz^
@@ -62813,6 +62821,7 @@
 ||pyrrtep.cn^
 ||pythoncareens.tech^
 ||pyxdajs.com^
+||pyxis.atp.fox^
 ||pyxiscablese.com^
 ||pyxjwks.com^
 ||pyxzealot.com^
@@ -63044,6 +63053,7 @@
 ||qeclsl.com^
 ||qectme.xyz^
 ||qedeczzdt.com^
+||qeedaa.xyz^
 ||qehaxkl.cn^
 ||qehjsjdubamsrt.com^
 ||qehwgbwjmjvq.xyz^
@@ -67359,6 +67369,7 @@
 ||s.btime.com^
 ||s.cartbooster.io^
 ||s.ccsyncuuid.net^
+||s.clickiocdn.com^
 ||s.clicktex.ru^
 ||s.cntqk.com^
 ||s.cntqk.vn^
@@ -88266,6 +88277,7 @@
 ||xrkyqq.com^
 ||xrlkvghzi.com^
 ||xrllybr.xyz^
+||xrmfjzqo.xyz^
 ||xrn8.xyz^
 ||xroqbkk.cn^
 ||xrpikxtnmvcm.com^
@@ -104338,6 +104350,7 @@ news.heytapdownload.com##[class^="oppo-cec-new"]
 news.heytapdownload.com##div.news-wrapper
 news.hf365.com##.main-r > div:first-child
 news.ifeng.com##.right1
+news.itsfoss.com##[href^="https://www.pikapods.com/"]
 news.lyd.com.cn##table[cellspacing="5"]:nth-child(3)
 news.lyd.com.cn##td[width="300px"] > table[width="300"] > tbody > tr:nth-last-child(n+2)
 news.mydrivers.com##.baidu_left
