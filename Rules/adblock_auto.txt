@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: O6fQCMvf7kbdeBE8hRWtvw
+! Checksum: oszTP0Gu/ihwfrEv62X4mg
 ! Title: 混合规则(自动更新)
-! Version: 20240630162412
+! Version: 20240701002548
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-30 16:24:12
-! Total Count: 147337
+! Last modified: 2024-07-01 00:25:48
+! Total Count: 147342
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -21463,6 +21463,7 @@
 ||crlcw.link^
 ||crleii.xyz^
 ||crlkyzwra.com^
+||crlsxny.xyz^
 ||crm-analytics.imweb.ru^
 ||crm.agency^
 ||crm.bizfly.vn^
@@ -84660,6 +84661,7 @@
 ||vshzouj.com^
 ||vskfeduxg.xyz^
 ||vskngnldyl.xyz^
+||vsmokhklbw.com^
 ||vsmyhky.cn^
 ||vsnoon.com^$third-party
 ||vsnpfmoxb.xyz^
@@ -89801,6 +89803,7 @@
 ||ynztzh.com^$third-party
 ||yoads.net^
 ||yoads.network^
+||yoast-schema-graph.com^
 ||yobee.it^
 ||yoc-adserver.com^
 ||yoc.younited-credit.com^
@@ -93527,7 +93530,7 @@ abovetopsecret.com,thelibertydaily.com##[href^="https://mypatriotsupply.com/"]
 abpclub.co.uk##img[width="118"]
 absoluteanime.com##.aa_leaderboard
 absolutelyrics.com,cdrlabs.com,eonline.com,exiledonline.com,findtheword.info,gtloli.one,realitywanted.com,revizoronline.com,snapfiles.com###topbanner
-abxxx.com,aniporn.com,blackmod.net,missav.com,missav123.com,missav789.com,multiup.eu,myav.com,orbz.io,pornclassic.tube,redgifs.com,tubepornclassic.com,xanimeporn.com##div[style="width: 300px; height: 250px;"]
+abxxx.com,aniporn.com,blackmod.net,missav.ai,missav.com,missav.ws,missav123.com,missav789.com,multiup.eu,myav.com,orbz.io,pornclassic.tube,redgifs.com,tubepornclassic.com,xanimeporn.com##div[style="width: 300px; height: 250px;"]
 abysscdn.com,hqq.ac,hqq.to,hqq.tv,linris.xyz,megaplay.cc,meucdn.vip,netuplayer.top,ntvid.online,oceanplay.xyz,playertoast.uno,plushd.bio,waaw.to,watchonlinehd123.sbs,wiztube.xyz##a[title="Free money easy"]
 ac-room.cc##.ad.v-card
 ac-room.cc#?#.waterfall > div.waterfall-box > div.waterfall-item:has(> div.ad)
@@ -94883,7 +94886,7 @@ baofeng.com##.play-ads
 baomidou.com##.sidebar-content > astro-island
 baomidou.com##.sidebar-slot-top
 baomidou.com,docsmall.com,nodejs.cn##+js(set-constant, _AdBlockInit, noopFunc)
-baozimh.one,camporn.to,camseek.tv,camstreams.tv,domainnamewire.com,eurogirlsescort.com,ghostbin.me,hdtube.porn,hotstunners.com,i24news.tv,manofmany.com,marinetechnologynews.com,maritimeprofessional.com,maritimepropulsion.com,mumbrella.com.au,paste.fo,paste.pm,pasteheaven.com,petapixel.com,pornburst.xxx,pornflix.to,punishbang.com,rapidtvnews.com,sexu.com,teenfuckhd.com,telesurtv.net,thehackernews.com,theporngod.com,travelpulse.com,vibexxx.com,wantedbabes.com,wonderopolis.org,worldofmods.com,xxxadultphoto.com,xxxdl.net,xxxn.club,yazhouse8.com##.banners
+baozimh.one,camporn.to,camseek.tv,camstreams.tv,domainnamewire.com,eurogirlsescort.com,ghostbin.me,hdtube.porn,hotstunners.com,i24news.tv,manofmany.com,marinetechnologynews.com,maritimeprofessional.com,maritimepropulsion.com,mumbrella.com.au,paste.fo,paste.pm,pasteheaven.com,petapixel.com,pornburst.xxx,pornflix.to,punishbang.com,radiopaedia.org,rapidtvnews.com,sexu.com,teenfuckhd.com,telesurtv.net,thehackernews.com,theporngod.com,travelpulse.com,vibexxx.com,wantedbabes.com,wonderopolis.org,worldofmods.com,xxxadultphoto.com,xxxdl.net,xxxn.club,yazhouse8.com##.banners
 bar-planb.com,hakibavuong.com###player_dev
 barandbench.com##.ad-slot-row-m__ad-Wrapper__cusCS
 barandbench.com##.ad-wrapper-module__adContainer__iD4aI
@@ -95316,7 +95319,7 @@ blackbeltmag.com##[aria-label="Wix Monetize with AdSense"]
 blackbeltmag.com##[data-hook="bgLayers"]
 blackcaps.co.nz##.commercial-partners
 blackdesert-info.ru##div[class][style*="z-index"][style*="999999;"][style*="background"][style*="rgb"]
-blackhaloadultreviews.com,boyfriendtv.com,hentaigasm.com,javjunkies.com,masahub.net,missav.com,missav123.com,missav789.com,myav.com,phun.org,porn-w.org,yespornplease.porn##a[href*="//bit.ly/"]
+blackhaloadultreviews.com,boyfriendtv.com,hentaigasm.com,javjunkies.com,masahub.net,missav.ai,missav.com,missav.ws,missav123.com,missav789.com,myav.com,phun.org,porn-w.org,yespornplease.porn##a[href*="//bit.ly/"]
 blackhatworld.com##.bhw-advertise-link
 blackhatworld.com##.bhw-banners
 blasternation.com###xobda
@@ -103948,10 +103951,10 @@ mirror.co.uk,themirror.com###comments-standalone-mpu
 mirror.co.uk,themirror.com##.ad-placeholder
 mirrormedia.mg##.micro-ad
 mirrormedia.mg##.story__ad
+missav.ai,missav.com,missav.ws,missav123.com,missav789.com,myav.com##.lg\:block
+missav.ai,missav.com,missav.ws,missav123.com,missav789.com,myav.com##.lg\:hidden
+missav.ai,missav.com,missav.ws,missav123.com,missav789.com,myav.com##[x-show$="video_details'"] > div > .list-disc
 missav.com##[href^="https://l.hyenadata.com/"]
-missav.com,missav123.com,missav789.com,myav.com##.lg\:block
-missav.com,missav123.com,missav789.com,myav.com##.lg\:hidden
-missav.com,missav123.com,missav789.com,myav.com##[x-show$="video_details'"] > div > .list-disc
 missav.com,missav888.com,missav123.com,missav789.com,thisav.com##.under_player
 missav.com,missav888.com,missav123.com,missav789.com,thisav.com##[href*="//bit.ly/"]
 missav.com,missav888.com,missav123.com,missav789.com,thisav.com##div[class*="lg:hidden"]
@@ -106853,6 +106856,8 @@ radiocity.in##.vertical-small-add
 radiome.ar,radiome.at,radiome.bo,radiome.ch,radiome.cl,radiome.com.do,radiome.com.ec,radiome.com.gr,radiome.com.ni,radiome.com.pa,radiome.com.py,radiome.com.sv,radiome.com.ua,radiome.com.uy,radiome.cz,radiome.de,radiome.fr,radiome.gt,radiome.hn,radiome.ht,radiome.lu,radiome.ml,radiome.org,radiome.pe,radiome.si,radiome.sk,radiome.sn,radyome.com###topbanner-container
 radiome.ar,radiome.at,radiome.bo,radiome.ch,radiome.cl,radiome.com.do,radiome.com.ec,radiome.com.gr,radiome.com.ni,radiome.com.pa,radiome.com.py,radiome.com.sv,radiome.com.ua,radiome.com.uy,radiome.cz,radiome.de,radiome.fr,radiome.gt,radiome.hn,radiome.ht,radiome.lu,radiome.ml,radiome.org,radiome.pe,radiome.si,radiome.sk,radiome.sn,radyome.com##.min-h-\[250px\].mx-auto.w-full.hidden.my-1.lg\:flex.center-children
 radioonline.fm###advertise_center
+radiopaedia.org##.ad-banner-desktop-row
+radiopaedia.org##.ad-link-grey
 radioreference.com##.box.gradient:has(a[href*="&Click="])
 radiotimes.com##.elementor-widget-wp-widget-section_full_width_advert
 radiotimes.com##.schedule__row-list-item-advert
