@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 26hNZFp4iu+mnoUrvEUZKA
+! Checksum: p9q44CVd0FCDQHbBk4ZW2Q
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240630002614
+! Version: 20240630093803
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-06-30 00:26:14
-! Total Count: 28202
+! Last modified: 2024-06-30 09:38:03
+! Total Count: 28208
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4281,6 +4281,7 @@
 ||bdm.ye-su.cn^
 ||bdmjs.xywy.com^
 ||bdnvklavbklabl.com^
+||bdoshbv.top^
 ||bdpretc.cn^
 ||bdrzxp.xyz^
 ||bdsahkln.xyz^
@@ -4434,6 +4435,7 @@
 ||bihunekus.com^
 ||biiepofl.xyz^
 ||bijiangqing.com^
+||bijmz.cn^
 ||bikesboard.com^$third-party
 ||biketo.com/d/file/p/
 ||bilec.xyz^
@@ -4536,6 +4538,7 @@
 ||blxfqq.com^
 ||blz105.com/player/ad.html
 ||blzbjpg.xyz^
+||blzwvb.xyz^
 ||bm.h576.com^
 ||bmatgg18.xyz^
 ||bmhept.xyz^
@@ -5629,6 +5632,7 @@
 ||cpt.9136.com/img/b_special/
 ||cpwlctfk.xyz^
 ||cpyjyhny.xyz^
+||cqcrci.xyz^
 ||cqisam.xyz^
 ||cqmpigx.cn^
 ||cqpph.cn^
@@ -6001,6 +6005,7 @@
 ||ddllhqj.xyz^
 ||ddlvpmt.xyz^
 ||ddnzpr.xyz^
+||ddomjhr.icu^
 ||ddqkqq.com^
 ||ddqmlfu.icu^
 ||ddreminder.appspot.com/android_ad_target.txt
@@ -9511,6 +9516,7 @@
 ||jiudashi.shop^
 ||jiumao20230305.live^
 ||jiupaozi.com^
+||jiusudie.com^
 ||jiutou20230210.live^
 ||jiuyuntian3.cn/vs.php?id=
 ||jivvjl.xyz^
