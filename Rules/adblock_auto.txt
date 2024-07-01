@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 4htgpAK4Uk+HDxIuNIavzw
+! Checksum: +GF4KW5D6YEYNi/L7Y0lTQ
 ! Title: 混合规则(自动更新)
-! Version: 20240701162652
+! Version: 20240702002526
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-01 16:26:52
-! Total Count: 147358
+! Last modified: 2024-07-02 00:25:26
+! Total Count: 147364
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -17400,6 +17400,7 @@
 ||cdhhbyy.cn^
 ||cdhvrrlyrawrxqd.xyz^
 ||cdiklrgwisnu.com^
+||cdilm.cn^
 ||cdipsumf.top^
 ||cdj-dap.s3-ap-northeast-1.amazonaws.com^
 ||cdjvd.com^
@@ -24610,6 +24611,7 @@
 ||dj-updates.com^
 ||dj0ts1x.cn^
 ||dj155.com/gg/
+||dj2550.com^
 ||dj57.club^
 ||dj930.cn^
 ||dj930.cn^$third-party
@@ -36544,6 +36546,7 @@
 ||helmetregent.com^
 ||helmfireworkssauce.com^
 ||helmregardiso.com^
+||heloisessa.com^
 ||helpcollar.com^$third-party
 ||helpdesk.fxnxs.com^
 ||helpedhandwritingintestine.com^
@@ -80932,6 +80935,7 @@
 ||uhyhdrh.cn^
 ||ui02.com^
 ||ui8l2.xyz^
+||uiakq.top^
 ||uibjhqwkl.com^
 ||uibqwl.xyz^
 ||uibtxv.cn^
@@ -90868,7 +90872,6 @@
 ||zf4.top^
 ||zfcdirf.icu^
 ||zfcoin.cn^
-||zfctrack.net^
 ||zfeaubp.com^
 ||zfehvv.xyz^
 ||zferral.com^
@@ -90975,7 +90978,6 @@
 ||zhaozongqq.com^
 ||zhaweifeng.com^
 ||zhcps.cn^
-||zhctrack.net^
 ||zhe8000.pw^
 ||zhedvge.com^
 ||zheevmmvlwg.com^
@@ -93374,9 +93376,9 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 91porny.com##.row > div.colVideoList:has(> div.video-elem > a[target="_blank"])
 91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz,jiuse970.com##.container-fluid.p-0[class*="mb-"]
 91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz,jiuse970.com##.jsv-g1
+91porny.org,jiuse.io,x9av7.com###main > div[id^="rd"]
+91porny.org,jiuse.io,x9av7.com##.footer + .block
 91porny.org,jiuse.io,x9av7.com#?#.card:-abp-has(>.card-image>a[href^="http"])
-91porny.org,x9av7.com,jiuse.io###main > div[id^="rd"]
-91porny.org,x9av7.com,jiuse.io##.footer + .block
 91short.com##.player-info
 91short.com##[class$="i"][style*="bottom"],[class$="h"][style*="bottom"],[class$="_b"],[class$="c"][style*="bottom"],embed[src],canvas,*[style*="fixed"][style*="bottom"][style*="display"][style*="block"][style*="vw"],img[src*="cn-chengdu.aliyuncs.com/"],a[href*=".top"] > img[src],div[class^="shortcuts-"][class$="-overlay"],a[href] > h3,[class][style*="131px"]
 91wenmi.com###xzsp
@@ -95274,6 +95276,7 @@ bitauto.com###video_floatBox
 bitauto.com##.advertise-nav-down
 bitauto.com##div > ins[data-type="ad_play"]
 bitauto.com##ins[type="ad_play"]
+bitchute.com#?#.row.justify-center:-abp-contains(Advertisement)
 bitcoin-otc.com##div[style="padding-left: 10px; padding-bottom: 10px; text-align: center; font-family: Helvetica;"]
 bitcoiner.tv##[href="https://bitcoiner.tv/buy-btc.php"]
 bitcoiner.tv##[href^="https://go.stormgain.com/"]
@@ -104059,6 +104062,7 @@ modshost.com###content > .ast-container > .ast-row
 modthesims.info###browse-content > div > small
 modthesims.info###pagenavigation > div > small
 moe-acg.com##A[href*=".x8o.de"]
+moe-acg.com##a[href*=".x8o.de"]
 moe-acg.com##div[style="position: relative;width: 100%;height: 0;padding-bottom: 18%;"]
 moe.best###rcm_sidebar
 moe.best##.markdown-body + div[style="text-align:center;margin-top:40px"]
@@ -108382,6 +108386,7 @@ stackoverflow.com##.clc-cp-lb
 stackoverflow.com##.js-sidebar-zone
 stadiumtalk.com##.story-section-inStory-inline
 stakingrewards.com###asset-calculator-banner
+stakingrewards.com###sticky-footer
 stakingrewards.com##div[class^="assetFilters_desktop-banner_"]
 stalkerportaal.ru##.video_adsense
 standard.co.uk###mpu2_parent
@@ -129007,6 +129012,7 @@ zle.com$script
 ###mini-ad
 ###mobile-ad
 ###mobile-adhesion
+###mobile-adhesion:not(#style_important)
 ###mobile-ads-ad
 ###mobile-footer-ad-wrapper
 ###mobile-swipe-banner
