@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: t1hdUqqogbIwWBWhmoMEfw
+! Checksum: 4htgpAK4Uk+HDxIuNIavzw
 ! Title: 混合规则(自动更新)
-! Version: 20240701094040
+! Version: 20240701162652
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-01 09:40:40
-! Total Count: 147353
+! Last modified: 2024-07-01 16:26:52
+! Total Count: 147358
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -14201,7 +14201,7 @@
 ||binhchon-gionghatvietnhi-2022.weebly.com^
 ||binhchon-gionghatvietnhi-vong1-nam2022.weebly.com^
 ||binhchonanhduthicuabe2022.weebly.com^
-||binhchoncuocthivetranhsinhvien2024.wee^
+||binhchoncuocthivetranhsinhvien2024.weebly.com^
 ||binhchonduthitainang2022mua3.weebly.com^
 ||binhchongionghatviet2019.weebly.com^
 ||binhchongionghatvietnhi2021vietnames.weebly.com^
@@ -36275,6 +36275,7 @@
 ||hdfoweey.com^
 ||hdgzta.com^
 ||hdherpc.cn^
+||hdipsumu.top^
 ||hditers.com^
 ||hdjfeed.top^
 ||hdjlkj.vip^
@@ -80273,6 +80274,7 @@
 ||tw.rd.yahoo.com^$image
 ||twadakesi.cyou^
 ||twads.gg^
+||twamjb.cn^
 ||twandli.top^
 ||twaonhcjwoaouj.com^
 ||twavtv.com/js/jquery.colorbox
@@ -92944,7 +92946,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 4runnerforum.com,acuraforums.com,blazerforum.com,buickforum.com,cadillacforum.com,camaroforums.com,cbrforum.com,chryslerforum.com,civicforums.com,corvetteforums.com,fordforum.com,germanautoforums.com,hondaaccordforum.com,hondacivicforum.com,hondaforum.com,hummerforums.com,isuzuforums.com,kawasakiforums.com,landroverforums.com,lexusforum.com,mazdaforum.com,mercuryforum.com,minicooperforums.com,mitsubishiforum.com,montecarloforum.com,mustangboards.com,nissanforum.com,oldsmobileforum.com,pontiactalk.com,saabforums.com,saturnforum.com,truckforums.com,volkswagenforum.com,volvoforums.com##aside > center
 4shared.com##.remove-rekl
 4spaces.org,fuliba.net,fuliba2023.net,fuliba23.net,uliba.net,ypojie.com##.widget_ui_orbui
-4sysops.com,9to5linux.com,app-how-to-use-it.com,arcjav.com,backthetruckup.com,catcountry941.com,cnx-software.com,corrosionhour.com,corvetteblogger.com,dailyveracity.com,dcrainmaker.com,droidwin.com,dvdgayporn.com,faqforge.com,fastestvpns.com,fuliba2020.net,fuliba2021.net,fuliba2023.net,gamingonphone.com,girgitnews.com,gizmochina.com,guides.wp-bullet.com,hardwaretimes.com,hotcelebshome.com,iwatchsouthparks.com,jav.guru,javcrave.com,landiannews.com,laoliublog.cn,macsources.com,mangasy.com,metalsucks.net,mmoculture.com,nasaspaceflight.com,nbagaffer.net,openloading.com,patriotfetch.com,planetofreviews.com,prepperwebsite.com,psdly.com,pussycatxx.com,quickanswer.blog,robloxhackscripts.com,ruyo.net,sashares.co.za,scienceabc.com,scienceandliteracy.org,survivopedia.com,taradinhos.com,techdows.com,techiecorner.com,techjuice.pk,theblueoceansgroup.com,thecinemaholic.com,thetaiwantimes.com,thinkcivics.com,tooxclusive.com,torrentfreak.com,trackalerts.com,trendingpoliticsnews.com,uliba.net,vrhotporn.top,winandmac.com,xscholarship.com,zhujiceping.com,zouaw.com##.widget_custom_html
+4sysops.com,9to5linux.com,app-how-to-use-it.com,arcjav.com,backthetruckup.com,catcountry941.com,cnx-software.com,corrosionhour.com,corvetteblogger.com,dailyveracity.com,dcrainmaker.com,droidwin.com,dvdgayporn.com,faqforge.com,fastestvpns.com,fuliba2020.net,fuliba2021.net,fuliba2023.net,gamingonphone.com,girgitnews.com,gizmochina.com,guides.wp-bullet.com,hardwaretimes.com,hotcelebshome.com,iwatchsouthparks.com,jav.guru,javcrave.com,landiannews.com,laoliublog.cn,macsources.com,mangasy.com,metalsucks.net,mmoculture.com,nasaspaceflight.com,nbagaffer.net,openloading.com,patriotfetch.com,planetofreviews.com,prepperwebsite.com,psdly.com,pussycatxx.com,quickanswer.blog,robloxhackscripts.com,ruyo.net,sashares.co.za,scienceabc.com,scienceandliteracy.org,survivopedia.com,taradinhos.com,techdows.com,techiecorner.com,techjuice.pk,theblueoceansgroup.com,thecinemaholic.com,thetaiwantimes.com,thinkcivics.com,tooxclusive.com,torrentfreak.com,trackalerts.com,trendingpoliticsnews.com,uliba.net,vrhotporn.top,wabetainfo.com,winandmac.com,xscholarship.com,zhujiceping.com,zouaw.com##.widget_custom_html
 4teachers.org###banner-wrapper
 4thsight.xyz,aceofhacking.com,briian.com,buildsometech.com,collegelearners.com,dpfantasy.org,eftm.com,firesticktricks.com,floxblog.com,gfxdrug.com,godisageek.com,historicseries.com,hotcelebshome.com,hutporner.com,indiansexbazar.com,jav1080.com,laweekly.com,newtechworld.net,nicekkk.com,pennbookcenter.com,sakurajav.com,sonixgvn.net,streamempire.cc,tecmint.com,tmioe.com,watchseinfeld.com,watchtheoffice.cc,zonegfx.com###custom_html-4
 4tube.com###main-jessy-grid
@@ -97213,6 +97215,7 @@ dailiantong.com##.appDwn
 daily-choices.com##[id^="sticky_"]
 dailyboulder.com###mvp-post-bot-ad
 dailycaller.com###dailycaller_top
+dailycaller.com##.dailycaller_adhesion
 dailycaller.com##.dc-sticky
 dailycoffeenews.com##.site-top-ad-desktop
 dailycoffeenews.com##.story-ad-horizontal
@@ -99165,6 +99168,7 @@ forums.anandtech.com,forums.pcgamer.com,forums.tomsguide.com,forums.tomshardware
 forums.bluemoon-mcfc.co.uk###snack_dmpu
 forums.bluemoon-mcfc.co.uk###snack_mpu
 forums.bluemoon-mcfc.co.uk###snack_sky
+forums.golfwrx.com###pb-slot-top
 forums.minecraftforge.net,nextdoor.com,staradvertiser.com,uploadvr.com##.promo-container
 forums.pcsx2.net##div[onclick^="MyAdvertisements."]
 forums.socialmediagirls.com##.uix_nodeList > div[class="block"]:has([href^="/link-forums/"])
@@ -100228,6 +100232,7 @@ gz0668.com###closexguide
 gz0668.com###framec32DR1
 gz0668.com##.deanad
 gz0668.com##.down_fixed
+gzeromedia.com##.main__post-sponsored
 gzmama.com###mdvtips
 gzmama.com###zone_banner_1_new
 gzmama.com###zone_index_fullcolumn_2
@@ -103387,7 +103392,7 @@ m.douban.com##[src^="//at4.doubanio.com/"]
 m.douban.com##[src^="https://at4.doubanio.com"]
 m.douban.com##div.center > div > div
 m.economictimes.com##.bannerwrapper
-m.economictimes.com,pornhub.com,pornhub.net,pornhub.org,someecards.com,trailspace.com,xtube.com##.adContainer
+m.economictimes.com,pornhub.com,pornhub.net,pornhub.org,someecards.com,trailspace.com,wabetainfo.com,xtube.com##.adContainer
 m.hao123.com##.tuizhan
 m.hupu.com##.hupu-footer-btn
 m.hupu.com##.open-hupu

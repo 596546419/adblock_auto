@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: kJmGGeQ1abHJMC6cD2FfKg
+! Checksum: s9yYhxYPSCo7OByhTtmjdg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240701094052
+! Version: 20240701162704
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-01 09:40:52
-! Total Count: 28216
+! Last modified: 2024-07-01 16:27:04
+! Total Count: 28219
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5062,6 +5062,7 @@
 ||cdgfa.ifeng.com^
 ||cdgtw3.guapaijia.com^
 ||cdhfvrug.xyz^
+||cdipsumf.top^
 ||cdkke.xyz^
 ||cdmgac.xyz^
 ||cdmjur.xyz^
@@ -8252,6 +8253,7 @@
 ||hdc.maxli.cn^
 ||hdchina.*/styles/topshow/AD/
 ||hdfdsdaw.com^
+||hdipsumu.top^
 ||hdjthzg.cn^
 ||hdmoli.com/static/js/pop_promotion.js
 ||hdoshbu.top^
@@ -15656,6 +15658,7 @@
 ||tw.buy.yahoo.com/smartbanner/$domain=tw.news.yahoo.com
 ||tw.jav321.com^$popup,domain=ucptt.com
 ||tw.partner.buy.yahoo.com^$domain=cool3c.com
+||twamjb.cn^
 ||twandli.top^
 ||twavtv.com/js/jquery.colorbox
 ||twbqqq.com^
