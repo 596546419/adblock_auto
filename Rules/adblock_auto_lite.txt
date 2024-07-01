@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: E88X5D7a2Gmxk3VptoYUSw
+! Checksum: kJmGGeQ1abHJMC6cD2FfKg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240701002600
+! Version: 20240701094052
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-01 00:26:00
-! Total Count: 28211
+! Last modified: 2024-07-01 09:40:52
+! Total Count: 28216
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1607,6 +1607,7 @@
 ||achieverknee.com^$third-party
 ||achost.top/uploads/ads/
 ||acidpigs.com^$third-party
+||aclsx.cn^
 ||acode.b2b.cn/JS/
 ||acodes.b2b.cn^
 ||acqc9.com^
@@ -8610,6 +8611,7 @@
 ||hthivr.xyz^
 ||htienlu.top^
 ||htqyy.com/kiees/
+||htrurb.xyz^
 ||htseca.top^
 ||httpcn.com/Images/banner
 ||httpcn.com/m/tg/
@@ -13166,6 +13168,7 @@
 ||qjoqos.xyz^
 ||qk6.org/file/script/
 ||qkcaqq.xyz^
+||qkikkg.xyz^
 ||qkoio.cyou^
 ||qkqasu.xyz^
 ||qksapp.net/gif/
@@ -16134,6 +16137,7 @@
 ||vansky.com/index_files/*.gif
 ||variflight.com/carnoc/ad/
 ||varravgames.com/AdVarServer/
+||vatzxd.xyz^
 ||vazhno.ru/cdn-cgi/apps/head/*.js
 ||vbdbmqzu.com^
 ||vbgr7.cn^
@@ -17049,6 +17053,7 @@
 ||xkbinj.xyz^
 ||xkd*.com/layer/layer.js
 ||xkdlqq.com^
+||xkesqbp.icu^
 ||xkfigjh.cn^
 ||xkjmjj.com^
 ||xkjxgt.com^$third-party

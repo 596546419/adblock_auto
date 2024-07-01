@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: oszTP0Gu/ihwfrEv62X4mg
+! Checksum: t1hdUqqogbIwWBWhmoMEfw
 ! Title: 混合规则(自动更新)
-! Version: 20240701002548
+! Version: 20240701094040
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-01 00:25:48
-! Total Count: 147342
+! Last modified: 2024-07-01 09:40:40
+! Total Count: 147353
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4637,6 +4637,7 @@
 ||aclog.itmedia.co.jp^
 ||acloudimages.com^
 ||acloudvideos.com^
+||aclsx.cn^
 ||acmaknoxwo.com^
 ||acme.vidox.net^
 ||acmexxx.com^
@@ -17399,6 +17400,7 @@
 ||cdhhbyy.cn^
 ||cdhvrrlyrawrxqd.xyz^
 ||cdiklrgwisnu.com^
+||cdipsumf.top^
 ||cdj-dap.s3-ap-northeast-1.amazonaws.com^
 ||cdjvd.com^
 ||cdkcaxxjyyb.xyz^
@@ -18036,6 +18038,7 @@
 ||chanalytics.merchantadvantage.com^
 ||chancellorharrowbelieving.com^
 ||chancellorstocky.com^
+||chancx.io^
 ||chandoowitumki.guru^
 ||chandrabinduad.com^
 ||chang555.cn^
@@ -38081,6 +38084,7 @@
 ||htpanel.com^
 ||htpirf.xyz^
 ||htqyy.com/kiees/
+||htrurb.xyz^
 ||htseca.top^
 ||htsysxlupdqe.com^
 ||http-icloud.com^
@@ -63606,6 +63610,7 @@
 ||qkffv.com^
 ||qkfwiylmib.com^
 ||qkhvongctffugm.com^
+||qkikkg.xyz^
 ||qkixi.com^
 ||qkjjuhs.com^
 ||qkkgish.cn^
@@ -74736,6 +74741,7 @@
 ||sv-static-lottery.headlines.pw^
 ||sv-static1-lottery.headlines.pw^
 ||sv.govkorea24.com^
+||sv.isvn.space^
 ||sv.sheego.de^
 ||sv2.biz^
 ||sv7momo.com^
@@ -77720,6 +77726,7 @@
 ||tms-collect.sony.jp^
 ||tms-st.cdn.ngenix.net
 ||tms-visitor-service.sony.jp^
+||tms.danzz.ch^
 ||tms.dmp.wi-fi.ru^
 ||tms.fmm.io^
 ||tms.oracle.com^
@@ -82617,6 +82624,7 @@
 ||vatois.com^
 ||vattingbalak.com^
 ||vattingpliable.top^
+||vatzxd.xyz^
 ||vaugaiva.net^
 ||vaugroar.com^
 ||vaultmultiple.com^
@@ -88326,6 +88334,7 @@
 ||xkejsns.com^
 ||xkeo6sleo.cyou^
 ||xkesalwueyz.com^
+||xkesqbp.icu^
 ||xketil.com^
 ||xkfigjh.cn^
 ||xkfogxtamlnn.com^
@@ -103197,6 +103206,7 @@ livemint.com##.eclt-rsttble
 livemint.com##.leftblockAd
 livemint.com##.rhsWidgetNotAdFree
 livemint.com##.rightAdNew
+livemint.com##.storyPage_storyblockAd__r4wwE
 livemint.com##.trendingSimilarHeight
 liverpoolecho.co.uk,manchestereveningnews.co.uk##.teaser[data-tmdatatrack-source="SHOP_WINDOW"]
 liverpoolfc.com###lfc_ads_article_pos_one
@@ -107405,10 +107415,11 @@ searchenginejournal.com##.absolute-banner
 searchenginejournal.com##.h420
 searchenginejournal.com##.img-m_max-100
 searchenginejournal.com##.img-mmax-100
-searchenginejournal.com##.sej-bbb-section
+searchenginejournal.com##.sej-tt-link
 searchenginejournal.com##.ss_slot
 searchenginejournal.com##.sss2_sllo_o2
 searchenginejournal.com##.sss2_sllo_o3
+searchenginejournal.com##.sss2_sllo_o4
 searchenginejournal.com##.sss_sllo_o
 searchenginejournal.com##.sss_slot
 searchenginejournal.com##[id^="SEJ_300x250_"]
