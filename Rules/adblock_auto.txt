@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: +GF4KW5D6YEYNi/L7Y0lTQ
+! Checksum: 7AMvHo4ia+FVhFO/X2DIWw
 ! Title: 混合规则(自动更新)
-! Version: 20240702002526
+! Version: 20240702092604
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-02 00:25:26
-! Total Count: 147364
+! Last modified: 2024-07-02 09:26:04
+! Total Count: 147377
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7953,6 +7953,7 @@
 ||ajkzd9h.com^
 ||ajlwaseodqo.com^
 ||ajmpeuf.com^
+||ajoqu.cn^
 ||ajozrjh.com^
 ||ajpxs.xyz^
 ||ajrkm1.com^
@@ -18820,6 +18821,7 @@
 ||cjewz.com^
 ||cjf25jklrwqt.com^
 ||cjgcedu.com^
+||cjgymo.xyz^
 ||cjhaoliao.xyz^
 ||cjhbkj.cn^
 ||cjhd.site^
@@ -34212,6 +34214,7 @@
 ||goingup.com^
 ||gointhe.space^
 ||goiojjgyvdhfdm.com^
+||gojsmanager.com^
 ||gokedoas.xyz^
 ||goksuxauks.com^
 ||golbxjhofipyv.com^
@@ -36323,6 +36326,7 @@
 ||hdtube.porn/fork/
 ||hdtube.porn/hdt/hdt.js
 ||hdtube.porn/rods/
+||hdtvnr.xyz^
 ||hdvcode.com^
 ||hdvmyo.com^
 ||hdvsrz.xyz^
@@ -38622,6 +38626,7 @@
 ||hzoywchsp.com^
 ||hzr0dm28m17c.com^
 ||hzrghx.xyz^
+||hzrnbl.xyz^
 ||hzrrmh.cn^
 ||hzs1202.site^
 ||hzstats.com^
@@ -41805,6 +41810,7 @@
 ||jazzlowness.com^
 ||jazzmoist.com^
 ||jazzspeechlessarena.com^
+||jazzyzest.cfd^
 ||jb.dianshu119.com^
 ||jb.ecar168.cn^
 ||jb51.net/imgby/logo_
@@ -52075,6 +52081,7 @@
 ||moustachepoke.com^
 ||moustite.com^
 ||mouthaipee.xyz^
+||mouthdistance.bond^
 ||mouthinvincibleexpecting.com^
 ||movable-ink-6710.com^
 ||movad.de^
@@ -55890,6 +55897,7 @@
 ||ochaugly.net^
 ||ochbegja.com^
 ||ocheebou.xyz^
+||ochoawhou.com^
 ||ochredhistory.com^
 ||ochringtensor.com^
 ||ocive.xyz^
@@ -78520,6 +78528,7 @@
 ||track.hk01.com^
 ||track.hubspot.com^
 ||track.hujiang.com^
+||track.hydro.online^
 ||track.icheck.com.vn^
 ||track.juno.com^
 ||track.juststarz.com^
@@ -87954,6 +87963,7 @@
 ||xdohrleybrd.com^
 ||xdolhlwq.xyz^
 ||xdowl0adxd0wnloadx.com^
+||xdownloadright.com^
 ||xdrig.com^
 ||xdrvkdni.xyz^
 ||xdrzdh.cn^
@@ -96599,6 +96609,7 @@ codejie.net##.h-ad-banner
 codejie.net##.s-ad-tit-box
 codeleading.com##div[id*="ads"]
 codenong.com###sidebar aside[id^="text-"]
+codeplayer.vip,cupfox.app,dailycoffeenews.com,zuoyesou.com##.banner-box
 codeproject.com##.msg-300x250
 codeproject.com,daporn.com##.bottom-promo
 codepub.com##.small-banner
@@ -97120,7 +97131,6 @@ cupfox.app#?##outer-container > .model:has(> .model-content > a[href*=".jd.com"]
 cupfox.app#?#.model:-abp-has(> .model-content > a[href*=".jd.com"])
 cupfox.app,cupfox.love,cupfox2.com,hcomic.net,olevod.com##.swiper
 cupfox.app,cupfox2.com##.a5-box[class^="jsx-"]
-cupfox.app,dailycoffeenews.com,zuoyesou.com##.banner-box
 curbed.com##[data-concert="prelude"]
 curioustic.com##.grey
 currys.co.uk##.cretio-sponsored-product
@@ -98867,7 +98877,10 @@ files.im##a[href^="https://galaxyroms.net/?scr="]
 files.im,subku.net##.btn-success
 filesharingtalk.com##div[style="background-color: white; border-width: 2px; border-style: dashed; border-color: white;"]
 filext.com###b1c
+filext.com###b2c
 filext.com###b3c
+filext.com###b4c
+filext.com###ba1c
 filext.com##[id^="billboard_"]
 filma24.ch##.footer-reklama
 filma24.ch,mcrypto.club,ssrmovies.repair,themoviesflix.io##a[rel="noopener"]
@@ -104061,7 +104074,6 @@ modrinth.com##[type="banner"]
 modshost.com###content > .ast-container > .ast-row
 modthesims.info###browse-content > div > small
 modthesims.info###pagenavigation > div > small
-moe-acg.com##A[href*=".x8o.de"]
 moe-acg.com##a[href*=".x8o.de"]
 moe-acg.com##div[style="position: relative;width: 100%;height: 0;padding-bottom: 18%;"]
 moe.best###rcm_sidebar
@@ -105753,6 +105765,7 @@ pinchofyum.com##.adthrive_header_ad
 pincong.rocks##+js(no-setInterval-if, Ad Block)
 pincong.rocks##.a-a
 pincong.rocks##.aw-mod > a[target="_blank"]
+pindao.hao123.com##.cmsad_wrapper
 pinflix.com,pornhd.com###inVidZone
 pinflix.com,pornhd.com##.zone-area
 ping.chinaz.com##.sth > .col-red
