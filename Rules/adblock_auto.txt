@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 7AMvHo4ia+FVhFO/X2DIWw
+! Checksum: kCcLih+RP8gDvfIAj3RZfg
 ! Title: 混合规则(自动更新)
-! Version: 20240702092604
+! Version: 20240702162608
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-02 09:26:04
-! Total Count: 147377
+! Last modified: 2024-07-02 16:26:08
+! Total Count: 147384
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -35115,6 +35115,7 @@
 ||gtm.diamond.jp^
 ||gtm.docswell.com^
 ||gtm.eduki.com^
+||gtm.ekonomifakta.se^
 ||gtm.elementor.com^
 ||gtm.elisa.fi^
 ||gtm.ellos.se^
@@ -89464,6 +89465,7 @@
 ||yhdm*.com/js/wap2-jm-ms.js$script
 ||yhdm.io/bar/
 ||yhdm.so/bar/
+||yhdm335.com/piao/
 ||yhdm44.com/123.html
 ||yhdongman.xyz/piao/
 ||yhgameofmu.xyz^
@@ -95711,6 +95713,8 @@ buondua.com,buondua.us##video[autoplay="true"][loop="true"][preload="auto"]
 buondua.com,buondua.us,kiutaku.com##.search-form + br + div[class]
 buondua.com,buondua.us,kostaku.art,kostaku.com,kostaku.live,kostaku.us##div[class] > div[class^="b"][class*="9"],div[class] > div[class^="i"][class*="9"],div[class] > div > div[class^="i"][class*="9"],div[class] > div > div[class^="b"][class*="9"]
 burnerapp.com##.exit__overlay
+business-standard.com##.ads-align
+business-standard.com##.ads-scripts
 business-standard.com##.adv-height-135
 business-standard.com##.adv-height-220
 business-standard.com##.adv-height-250
@@ -111855,6 +111859,9 @@ yourporn.to##+js(nano-setInterval-booster, _0x, *, 0.02)
 yourporn.to##body > div[style^="position:fixed"][style*="z-index:"][style*="opacity:"]
 yourporngod.com##a[href*="s2.everydaygayporn.com"]
 yourstory.com##.dJEWSq
+yourstory.com##.gap-\[10px\]
+yourstory.com##[href^="https://form.jotform.com/"]
+yourstory.com#?#[width]:-abp-contains(ADVERTISEMENT)
 youth.cn###identifier-pannel
 youth.cn##.hd_pic
 youth.cn##.tj2_pic
