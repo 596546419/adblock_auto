@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: kCcLih+RP8gDvfIAj3RZfg
+! Checksum: xLfJQ/75Zsb6Ke1Z6SiWog
 ! Title: 混合规则(自动更新)
-! Version: 20240702162608
+! Version: 20240703002735
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-02 16:26:08
-! Total Count: 147384
+! Last modified: 2024-07-03 00:27:35
+! Total Count: 147396
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3183,6 +3183,7 @@
 ||81cdn.cn^
 ||81wx.info^
 ||81xs.xyz^
+||8208tp.com^
 ||820rd.com^
 ||82308721ac.com^
 ||8239078.com^
@@ -5042,6 +5043,7 @@
 ||ad.tpmn.co.kr^
 ||ad.tpmn.io^
 ||ad.tradertimerz.media^
+||ad.twinrdengine.com^
 ||ad.u-car.com.tw^
 ||ad.unique1static.jp^
 ||ad.velomania.ru^
@@ -16555,6 +16557,7 @@
 ||c2s.startappnetwork.com^
 ||c2shb.pubgw.yahoo.com^
 ||c3.myapkcdn.in^
+||c31133f7.xyz^
 ||c39ed4de0b.com^
 ||c3metrics.com^
 ||c3metrics.medifast1.com^
@@ -22243,6 +22246,7 @@
 ||d2.sina.com.cn^$object,script
 ||d2.yingyongge.com/*?*&$subdocument
 ||d238ff9a45.com^
+||d23d450d.xyz^
 ||d241ujsiy3yht0.cloudfront.net
 ||d24ak3f2b.top^
 ||d26e83b697.com^
@@ -39663,6 +39667,7 @@
 ||imgmega.com/i/*.gif$domain=18avhub.com|18avtube.com|mm-cg.com
 ||imgnewad.ytn.co.kr^
 ||imgopen.vip^
+||imgoss511.top^
 ||imgot.info^
 ||imgot.site^
 ||imgqmng.com^
@@ -78521,6 +78526,7 @@
 ||track.exame.com^
 ||track.express.de^
 ||track.extra.app^
+||track.fluffyfalcon.com^
 ||track.ft.com^
 ||track.fxstreet.com^
 ||track.gaconnector.com^
@@ -92538,6 +92544,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 2345.com###sideCat
 2345.com###sidel_lvy
 2345.com###sidenav > .activity-trig
+2345.com###xxl_game-new
 2345.com##.act-market
 2345.com##.act-openJ-mask
 2345.com##.act-search-tab
@@ -97192,8 +97199,8 @@ cztv.com##.right_box
 cztv.com##.vivo
 cztv.com,technical.city##div[class^="banner_"]
 czx.to###vdl_ctnr
-czys.top#?#.swiper-slide:-abp-has(.coveimg[src*=".gif"])
 czzy01.com#?#.swiper-wrapper > div.swiper-slide:has(> a[href^="https://"])
+czzy77.com#?#.swiper-slide:-abp-has(a[href^="http"]:not([href*="czzy"]))
 d.wanfangdata.com.cn##.wfPubAcc
 d123movies.to##.mobile-btn > div
 d123movies.to,yifymovies.one##.mvic-btn
@@ -100427,6 +100434,7 @@ hao123.com##div[alog-alias="hot-goods"]
 hao123.com,javdove.com##.recommend-link
 hao123.com,jiegeng.com###siye
 hao123.com,jiegeng.com##.rightTip
+hao123.com,pindao.hao123.com##.cmsad_wrapper
 hao4k.cn##.lineC_right
 haoduoyun.cc#?#.ebookRight > div.tb_cell.mb10:has(> div.listcell > div.lc_head >h2:contains(课本赞助商))
 haojiyou.la##.iqshwad-div
@@ -101534,6 +101542,7 @@ indiansexstories2.net,issstories.xyz##iframe[src^="https://a.videobaba.xyz/"]
 indiatimes.com##.BIG_ADS_JS
 indiatimes.com##.amazonProductSidebar
 indiatimes.com##.article_first_ad
+indiatimes.com##.bottom-ad-height
 indiatimes.com##.dunia-slider
 indiatimes.com##.mb-36 > .top-trending
 indiatimes.com##.rmfp
@@ -105769,7 +105778,6 @@ pinchofyum.com##.adthrive_header_ad
 pincong.rocks##+js(no-setInterval-if, Ad Block)
 pincong.rocks##.a-a
 pincong.rocks##.aw-mod > a[target="_blank"]
-pindao.hao123.com##.cmsad_wrapper
 pinflix.com,pornhd.com###inVidZone
 pinflix.com,pornhd.com##.zone-area
 ping.chinaz.com##.sth > .col-red
@@ -108913,6 +108921,8 @@ temporary-phone-number.com##.adsense-top-728
 temporary-phone-number.com##.direct-chat-messages > div[style="margin:15px 0;"]
 tempostorm.com##side-banners
 tempr.email##.awrapper
+tenby-today.co.uk##.MPUstyled__MPUWrapper-sc-1cdmm4p-0
+tenby-today.co.uk##.TopBannerstyled__Wrapper-sc-x2ypns-0
 tencentmind.com
 tenforums.com##[style="height:280px;"]
 tennesseestar.com,themichiganstar.com,theminnesotasun.com,theohiostar.com##.AdvancedText
@@ -108937,6 +108947,7 @@ texasmonthly.com##.promo__vertical
 textcompare.org##.ez-sidebar-wall
 tf2-servers.com###topadspot
 tfn.scot##.absolute-leaderboard
+tfn.scot##.absolute-mid-page-unit
 tftactics.gg##.wrapper-lb1
 tftcentral.co.uk##.tftce-adlabel
 tgbus.com###neck_970
@@ -140979,6 +140990,7 @@ zle.com$script
 ##.showcaseAd
 ##.showcasead
 ##.showheroes-ad-slot
+##.shr-ads-container
 ##.si-adRgt
 ##.sics-component__sticky-ad-placeholder
 ##.sidbaread
