@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: /b42rmbifS90Aa14cE0ypQ
+! Checksum: Ey9DBLSSZodlbodP+H0xrg
 ! Title: 混合规则(自动更新)
-! Version: 20240703162621
+! Version: 20240704002640
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-03 16:26:21
-! Total Count: 147429
+! Last modified: 2024-07-04 00:26:40
+! Total Count: 147467
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2482,6 +2482,7 @@
 ||5f450dbe81.com^
 ||5f6dmzflgqso.com^
 ||5f6efdfc05.com^
+||5f93004b68.com^
 ||5fd6bc.xyz^
 ||5fet4fni.de^
 ||5fz.cc/t/aimg/tao
@@ -7408,6 +7409,7 @@
 ||afp.chinanews.com^
 ||afpbuzfwyjri.com^
 ||afpjryqtnkctv.com^
+||afqodjc.top^
 ||afqqnxifhgsaqab.com^
 ||afr4g5.de^
 ||afrage.com^
@@ -9709,6 +9711,7 @@
 ||antlerlode.com^
 ||antlerpickedassumed.com^
 ||antlerrecordingcat.com^
+||antlikebor.com^
 ||antlionwaldorf.com^
 ||antoiew.com^
 ||antonysurface.com^
@@ -10649,6 +10652,7 @@
 ||aruyevdqsnd.xyz^
 ||arvbjqavenjba.top^
 ||arvigorothan.com^
+||arvyxowwcay.com^
 ||arwartortleer.com^
 ||arwhismura.com^
 ||arwobaton.com^
@@ -10798,6 +10802,7 @@
 ||asjsbew.cn^
 ||askancefinfoot.website^
 ||askcoefficient.com^
+||askdlajfbv.top^
 ||askdomainad.com^
 ||askedappear.com^
 ||askedopinionatedimmediately.com^
@@ -11731,6 +11736,7 @@
 ||awutohkhu.com^
 ||awuvcq.xyz^
 ||awvqfalackho.com^
+||awvracajcsu.com^
 ||awvvhicirfti.com^
 ||awwprjafmfjbvt.xyz^
 ||awytythbxujkz.com^
@@ -19569,6 +19575,7 @@
 ||cnblogs.com/units/
 ||cnblogs.com^*/sideColumnAd?
 ||cnbole.net^
+||cnbxqqemvuubaf.com^
 ||cncnails.net^
 ||cnco.me^$third-party
 ||cncpt-central.com^
@@ -21582,6 +21589,7 @@
 ||crxs.me/plugins/jquery.modal/
 ||crxs.me/scripts/my_
 ||crxs.me/upload/ad/
+||crxxfgswiq.com^
 ||cry2h.cn^
 ||cryingforanythi.com^
 ||cryjun.com^
@@ -22511,6 +22519,7 @@
 ||dajiafacai923.xyz^
 ||dajiafacai926.xyz^
 ||dajiahao10.top^
+||dajiahao17.top^
 ||dajiahao9.top^
 ||dajiazhao.com/login/reg.js
 ||dajiurlgcfvgpt.com^
@@ -27792,6 +27801,7 @@
 ||entitledpleattwinkle.com^
 ||entjgcr.com^
 ||entjryftqwmsus.com^
+||entlyhavebeden.com^
 ||entlypleasantt.info^
 ||entrailsintentionsbrace.com^
 ||entreatkeyrequired.com^
@@ -29234,7 +29244,6 @@
 ||f-log-test.grammarly.io^
 ||f.convertkit.com^
 ||f.doodlemobile.com:8080/feature_server_v3/
-||f.revotas.com^
 ||f.sen.seg.br^
 ||f0657e4fd5.com^
 ||f07neg4p.de^
@@ -29715,6 +29724,7 @@
 ||favaqo.xyz^
 ||favorable-lady.pro^
 ||favorable-sample.com^
+||favorershalwar.top^
 ||favorite-option.pro^
 ||favorite-tonight.pro^
 ||favoritenought.com^
@@ -30066,6 +30076,7 @@
 ||fenxi.com^$third-party
 ||fenxiangdashi.com/Res/js/detail_
 ||fenxiangdashi.com/img/banner/
+||feofamdak.top^
 ||fepaddxacwfo.xyz^
 ||fepgdpebyr.com^
 ||fepmpify.xyz^
@@ -30336,6 +30347,7 @@
 ||figuan.com^
 ||figuredreconsiderinvest.com^
 ||fihsgqbif.com^
+||fiigtxpejme.com^
 ||fiinann.com^
 ||fiinnancesur.com^
 ||fiiqmjyrznkhbv.com^
@@ -33057,6 +33069,7 @@
 ||geonicbashara.com^
 ||geoparker.net^
 ||geoplugin.net^
+||geordiejinglet.com^
 ||georgianabamboorehearse.com^
 ||geoservice.curse.com^
 ||geosvc.globalmailer.com^
@@ -34252,6 +34265,7 @@
 ||golfchapah.space^
 ||golfmidwife.top^
 ||golilog.com^
+||gollarpulsus.com^
 ||gollkawvv.xyz^
 ||golochmenacer.com^
 ||goloshyacal.space^
@@ -42771,6 +42785,7 @@
 ||jotpoolwarren.com^
 ||jotqmmf.com^
 ||jotskuffieh.website^
+||jotterswirrah.com^
 ||jouaboe.com^
 ||joudotee.com^
 ||joukaglie.com^
@@ -45836,6 +45851,7 @@
 ||lavamedia.vn^
 ||lavando2scas1hh1.com^
 ||lavanetwork.net^
+||lavangataled.com^
 ||lavas.exchange^
 ||lavatorybrandnew.com^
 ||lavatorydownybasket.com^
@@ -48720,6 +48736,7 @@
 ||lynotquitesou.info^
 ||lynr.com^
 ||lyoak.com^
+||lyonthrill.com^
 ||lyouncmakvucir.com^
 ||lyoweoagnat.xyz^
 ||lyplay.net^
@@ -53000,6 +53017,7 @@
 ||myreqdcompany.com^
 ||myro.shop^
 ||myroitracking.com^
+||myrtolbanzai.com^
 ||myscannappo.com^
 ||myscannappo.info^
 ||myscannappo.online^
@@ -58398,6 +58416,7 @@
 ||pappagallu.onefootball.com^
 ||pappeajalapa.digital^
 ||papposeclingy.com^
+||pappyalfaje.com^
 ||paqcpeotbx.com^
 ||paqpq.com^
 ||parabit.ru^
@@ -61297,6 +61316,7 @@
 ||pouchadjoinmama.com^
 ||pouchaffection.com^
 ||pouchclockwise.com^
+||poudrinnamaste.com^
 ||poufaini.com^
 ||poufsgausses.top^
 ||pouitgy.cn^
@@ -62683,6 +62703,7 @@
 ||puitaexb.com^
 ||pujuco.uno^
 ||puklisi.ru^
+||pukumongols.com^
 ||pulayanyet.com^
 ||puldhukelpmet.com^
 ||pulfrnaewqrkuqg.com^
@@ -64784,6 +64805,7 @@
 ||rarmkce.cn^
 ||rarseene.com^
 ||rasahick.space^
+||rasalasgobangs.top^
 ||rascalbygone.com^
 ||rashbarnabas.com^
 ||rashlyblowfly.com^
@@ -66875,6 +66897,7 @@
 ||rookretired.com^
 ||rooksreused.website^
 ||roolgage.com^
+||roomersgluts.com^
 ||roommateskinner.com^
 ||roompowerfulprophet.com^
 ||roomrentpast.com^
@@ -68644,6 +68667,7 @@
 ||sdg.desihamster.pro^
 ||sdgmyj.cn^
 ||sdhfbvd.com^
+||sdhiltewasvery.info^
 ||sdhjqz.com^
 ||sdhltncfqbu.com^
 ||sdhongjia.com^
@@ -69166,6 +69190,7 @@
 ||serialwarning.com^
 ||serie-vostfr.com^
 ||serifgorry.top^
+||serinuswelling.com^
 ||serious-partners.com^
 ||seriouslygesture.com^
 ||seriouspartner.biz^
@@ -73637,6 +73662,7 @@
 ||staubsefoo.com^
 ||staubsuthil.com^
 ||staukponier.com^
+||staumersleep.com^
 ||staumobu.com^
 ||staunchchivied.top^
 ||staunchfastened.com^
@@ -74826,6 +74852,7 @@
 ||swaggydestroy.com^
 ||swagtraffcom.com^
 ||swailsbondman.com^
+||swalessidi.com^
 ||swallowaccidentdrip.com^
 ||swallowhairdressercollect.com^
 ||swallowpunctual.com^
@@ -74840,6 +74867,7 @@
 ||swapsprediet.top^
 ||swarfsfitters.com^
 ||swarmpush.com^
+||swarthsfulk.com^
 ||swarthyamong.com^
 ||swarthymacula.com^
 ||swatad.com^
@@ -75389,6 +75417,7 @@
 ||tablesgrace.com^
 ||tableshooliganbait.com^
 ||tabletbragcreak.com^
+||tabletsregrind.com^
 ||tabligheirani.ir^
 ||tabloidbadger.com^
 ||tabloidquantitycosts.com^
@@ -81257,6 +81286,7 @@
 ||uncide.com^
 ||unciet.com^
 ||uncipi.com^
+||unclealcine.com^
 ||uncleffaan.com^
 ||unclehem.com^
 ||unclesnewspaper.com^
@@ -81540,6 +81570,7 @@
 ||unrade.com^
 ||unrealversionholder.com^
 ||unreasonabletwenties.com^
+||unrebelasterin.com^
 ||unregisteredgrasppistol.com^
 ||unreshiramor.com^
 ||unresolveddrama.com^
@@ -82068,6 +82099,7 @@
 ||usualt.com^
 ||usualt.com^$third-party,important
 ||usuarios-online.com^
+||usuaryyappish.com^
 ||usucaptlardoon.life^
 ||usudgbdbqmj.com^
 ||usurerspoind.life^
@@ -86404,6 +86436,7 @@
 ||wideeyedsink.com^
 ||widelt.com^
 ||widelyuddercancelling.com^
+||widenerasbolan.com^
 ||widerdaydream.com^
 ||widern.com^
 ||widerplanet.com^
@@ -91651,6 +91684,7 @@
 ||zumorhshij.com^
 ||zumrieth.com^
 ||zunchengmaoyi.cn^
+||zunicai.com^
 ||zunnnh.xyz^
 ||zunnynd.com^
 ||zunsavurdo.com^
@@ -93111,6 +93145,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 52av.one##.message + center
 52av.one##div[style^="text-align:center;"] > a[target="_blank"] > img
 52bdys.com###ayx
+52bdys.com###ayx > img
 52bdys.com##center[style*="background"]
 52bdys.com##div[style^="position: fixed;bottom:"]
 52bdys.com,chok8.com##div[onclick]
@@ -94297,11 +94332,11 @@ appinn.com###sidebar a[rel*="sponsored"]
 appinn.com###sidebar a[rel^="sponsored"]
 appinn.com##.ads-m
 appinn.com,ezneering.com,hexieshe.cn,wakingtimes.com,ymcinema.com###media_image-2
-apple.com.cn##.adv-wrapper
 apple.com.cn#$##ac-globalnav { top: 0 !important; }
 apple.com.cn#$#.ac-gn-blur { top: 0 !important; }
 apple.com.cn#$#html #globalnav { top: 0 !important; }
 apple.com.cn#$#html { margin-top: 0 !important; }
+apple.com.cn,gay.bingo##.adv-wrapper
 applealmond.com##div[style*="height: 260px;"][style*="text-align: center;"]
 appledaily.com###ebBannerTopDiv + A[href^="http://bit.ly/"]
 appledaily.com.tw##.THISISANADHERE
@@ -94588,6 +94623,7 @@ avtb01.com##a[href^="http://xgn66.com/?aff="]
 avtb01.com##body > div[id^="haoetv"]
 avtb2022.com###menu-main-content > li:nth-child(n+5)
 avtik.com###player > .player-wrapper + section
+avxhm.se##[data-localize]:has(a[href^="https://canv.ai/"])
 awaker.cn###jiji + div[style="padding: 20px"]
 awaker.cn##.good-price
 awaliwa.com##.bottomAdsBox
@@ -99680,6 +99716,9 @@ gasaq.com###guanggao_right
 gasaq.com##.guanggao_ime_big
 gate.baidu.com,m.baidu.com###container
 gautengnewspaper.co.za##.header__banner
+gay.bingo,hdsex.org##.ad-w
+gay.bingo,hdsex.org##.player-section__ad-b
+gay.bingo,hdsex.org##.player__inline
 gay4porn.com##.exbanner
 gayck.com##.simple-adv-spot
 gaydelicious.com,gaypornmasters.com##a[href^="https://popcash.net/"]
@@ -100562,11 +100601,8 @@ hdpornpics.net#?#.money:-abp-has(.century:-abp-contains(ADS))
 hdpornvideo.xxx##.lika
 hdpornvideos.su#$#.prefixdger-player { max-width: 1050px!important; }
 hdpornvideos.su#$#.prefixdger-player-promo-col { display: none!important; }
-hdsex.org##.ad-w
 hdsex.org##.inline-video-adv
-hdsex.org##.player-section__ad-b
 hdsex.org##.player-section__ad-block
-hdsex.org##.player__inline
 hdsex2.com,hdsex.com,videosection.com##div[data-title="Advertisement"]
 hdtube.porn##.footer__banners
 hdtube.porn##.g-col-banners
@@ -104272,6 +104308,8 @@ mse.360.cn##a[id^="banner"]
 msguides.com###kknbnpcv
 msguides.com###right-bottom-camp
 msn.cn##+js(json-prune, *, list.*.link.ad list.*.link.kicker)
+msn.cn##+js(json-prune, *.*, adFeedbackData adType adServedUrls)
+msn.cn##+js(json-prune, configs.*.properties.slideshowWCSettings.interstitialNativeAds configs.*.properties.fullScreenSlideshowSettings.interstitialNativeAds properties.componentConfigs.slideshowConfigs.interstitialNativeAds properties.componentConfigs.slideshowConfigs.slideshowSettings.interstitialNativeAds)
 msn.cn##.rc > a[href^="https://sp.booking.com/"]
 msn.cn,msn.com##.intra-article-ad-full
 msn.cn,msn.com##.nativeadserversidecontentmodule

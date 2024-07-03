@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: jc8+3EClcgI1zmCVDNiK0Q
+! Checksum: VpycwLE0ZxiL8vewGsK32Q
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240703162633
+! Version: 20240704002652
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-03 16:26:33
-! Total Count: 28239
+! Last modified: 2024-07-04 00:26:52
+! Total Count: 28243
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3254,6 +3254,7 @@
 ||afocus.com.cn/s?
 ||afopr.cn^
 ||afp.chinanews.com^
+||afqodjc.top^
 ||afraidlanguage.com^$third-party
 ||afreecatv.com/data/af_app_ad_mobile.js
 ||afxncq.com^
@@ -3802,6 +3803,7 @@
 ||ashow.pcpop.com^
 ||asiangfsex.com^
 ||asiav.cyou/myupdatelist.
+||askdlajfbv.top^
 ||asp300.*/2012adimg/
 ||asp300.*/2012js/
 ||asp300.*/2017js/
@@ -5908,6 +5910,7 @@
 ||daiwofei2019.top^
 ||dajiadu8.com/17.js
 ||dajiahao10.top^
+||dajiahao17.top^
 ||dajiahao9.top^
 ||dajiazhao.com/login/reg.js
 ||dajkqqpz.top^
@@ -7181,6 +7184,7 @@
 ||fenxi.com^$third-party
 ||fenxiangdashi.com/Res/js/detail_
 ||fenxiangdashi.com/img/banner/
+||feofamdak.top^
 ||fepmpify.xyz^
 ||feptbh.xyz^
 ||fernandou.online^
