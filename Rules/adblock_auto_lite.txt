@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 6Wt20mz/lOWwdZOI4NSYgg
+! Checksum: fDn3TL/rqsKh0qcOvP4fHQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240703002746
+! Version: 20240703092559
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-03 00:27:46
-! Total Count: 28230
+! Last modified: 2024-07-03 09:25:59
+! Total Count: 28237
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5441,6 +5441,7 @@
 ||cmdy5.com/js/waptbplay2.js
 ||cmiega.top^
 ||cmm.xmfish.com^
+||cmqxy.cn^
 ||cmshow.gtimg.cn^
 ||cmsjs.eastmoney.com^$subdocument
 ||cmx.autohome.com.cn^
@@ -8730,6 +8731,7 @@
 ||hybird.rayjump.com^
 ||hybrid.ai^
 ||hyeqp.xyz^
+||hyislou.top^
 ||hyjbdt.xyz^
 ||hyk9.xyz^
 ||hylaxngo.xyz^
@@ -8837,6 +8839,7 @@
 ||iddhui.com^
 ||ideng.com^$third-party
 ||idffhq.cn^
+||idipsumo.top^
 ||idns.online^
 ||idoshbo.top^
 ||idv.st/dns/bar.htm
@@ -9379,6 +9382,7 @@
 ||jb.ecar168.cn^
 ||jb51.net/imgby/logo_
 ||jbhhxd.xyz^
+||jbkqemk.icu^
 ||jbmfldt.cn^
 ||jbtfmis.xyz^
 ||jbzyw.com/Application/M/adv/
@@ -12193,6 +12197,7 @@
 ||ouypyu.xyz^
 ||ovalweek.com^$third-party
 ||ovbgeum.cn^
+||ovejqw.xyz^
 ||overconfidentfood.com^$third-party
 ||overratedchalk.com^$third-party
 ||ovfvkfc.xyz^
@@ -12584,6 +12589,7 @@
 ||pniao99.com/statics/js/stat.js
 ||pnlhnx.xyz^
 ||pnpy.mmtnat.com^$third-party,script
+||pnvtlh.xyz^
 ||pnxtnp.xyz^
 ||pnzhpb.xyz^
 ||po2qgo.xyz^
@@ -15385,6 +15391,7 @@
 ||tlfvj.cyou^
 ||tlhlpcb.xyz^
 ||tlprlf.xyz^
+||tlpyft.xyz^
 ||tltmjevd.xyz^
 ||tltyygb.cn^
 ||tlula507.com/Public/js/dui
