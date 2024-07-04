@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: VpycwLE0ZxiL8vewGsK32Q
+! Checksum: IlcDLdpf/ooi6DdOlbmJJg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240704002652
+! Version: 20240704092607
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-04 00:26:52
-! Total Count: 28243
+! Last modified: 2024-07-04 09:26:07
+! Total Count: 28248
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5745,6 +5745,7 @@
 ||ctvrtrya.xyz^
 ||ctydsy.xyz^
 ||ctyusif.top^
+||cuaeblh.icu^
 ||cubchannel.com^$third-party
 ||cuioxbqi.com^
 ||cul.xunjiu.online^
@@ -8732,6 +8733,7 @@
 ||hy.huangye88.com.cn^
 ||hy.huangye88.net^
 ||hy5.com.cn/admin/
+||hy90.cn^
 ||hybbs.com/i/$image,object
 ||hybird.rayjump.com^
 ||hybrid.ai^
@@ -8913,6 +8915,7 @@
 ||igkgag.xyz^
 ||ih336.com^*a.js
 ||ihais.com^
+||ihcxue.xyz^
 ||ihhmh.com/mg/show
 ||ihwdun.xyz^
 ||ihwlek.com^
@@ -9322,6 +9325,7 @@
 ||iyf.tv/play/$xmlhttprequest
 ||iyingdi.com/goood?
 ||iyinghua.io/bar/
+||iyisloo.top^
 ||iykig.cn^
 ||iyuedu.cn.com^
 ||iyuwkbo.top^
@@ -17286,6 +17290,7 @@
 ||xxsmad1.com^
 ||xxsmad2.com^
 ||xxtalp.xyz^
+||xxxuhx.xyz^
 ||xxxvipporno.com^
 ||xxxx68xxxx.com^
 ||xxxxtube-porn.com/helper/tos.js

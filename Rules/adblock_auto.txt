@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Ey9DBLSSZodlbodP+H0xrg
+! Checksum: 6So5+xkry3gCPDtNBa+pzg
 ! Title: 混合规则(自动更新)
-! Version: 20240704002640
+! Version: 20240704092556
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-04 00:26:40
-! Total Count: 147467
+! Last modified: 2024-07-04 09:25:56
+! Total Count: 147485
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -970,6 +970,7 @@
 ||1f1c1d50fe.com^
 ||1f2e7.v.fwmrm.net^
 ||1f50dd61ec6bc6a1b98ae412ea4d812f.com^
+||1f6a725b.xyz^
 ||1f6bf6f5a3.com^
 ||1f6f6bfb05.com^
 ||1f7eece503.com^
@@ -6289,6 +6290,7 @@
 ||ads4media.online^
 ||ads4trk.com^
 ||ads5-adnow.com^
+||ads6-adnow.com^
 ||ads724.com^
 ||ads8.fpt.vn^
 ||ads80.com^$third-party
@@ -7648,6 +7650,7 @@
 ||ahlefind.com^
 ||ahlife.com/api.php?mod=adv&
 ||ahm.135320.com^
+||ahmar2four.xyz^
 ||ahmestatic.fuckandcdn.com/ah-me/ahmestatic/mobile/ads/
 ||ahmibai.cn^
 ||ahngnhjdcu.com^
@@ -7948,6 +7951,7 @@
 ||ajillionmax.com^
 ||ajivikatend.digital^
 ||ajiwqmnh.com^
+||ajjawcxpao.com^
 ||ajjgune.cn^
 ||ajjhtetv87.com^
 ||ajjkmoyjlbjj.top^
@@ -21802,6 +21806,7 @@
 ||ctyusif.top^
 ||ctywimluf.com^
 ||ctyzd.com^
+||cuaeblh.icu^
 ||cubbingrebbes.com^
 ||cubchannel.com^$third-party
 ||cubchillysail.com^
@@ -22708,6 +22713,7 @@
 ||dasfelynsaterr.win^
 ||dash.getsitecontrol.com^
 ||dash.tmearn.com^
+||dash.zintrack.com^
 ||dashbida.com^
 ||dashbo15myapp.com^
 ||dashboard.io^
@@ -38538,6 +38544,7 @@
 ||hy.huangye88.com.cn^
 ||hy.huangye88.net^
 ||hy5.com.cn/admin/
+||hy90.cn^
 ||hyaenajitneys.top^
 ||hyalinsbenami.top^
 ||hybbs.com/i/$image,object
@@ -39243,6 +39250,7 @@
 ||ihauvogh.com^
 ||ihavelearnat.xyz^
 ||ihct.mx^
+||ihcxue.xyz^
 ||ihdcnwbcmw.com^
 ||ihdqpyc.cn^
 ||iheartbucks.com^
@@ -41551,6 +41559,7 @@
 ||iyingdi.com/goood?
 ||iyinghua.io/bar/
 ||iyisayfa.net^
+||iyisloo.top^
 ||iykig.cn^
 ||iymbywma.com^
 ||iyodoctor.com^
@@ -60232,6 +60241,7 @@
 ||pkhntvfvkho.com^
 ||pki.net.cn/public/*/plugins/
 ||pki.net.cn/public/1/assets/js/custom/tt.
+||pki87n.pro^
 ||pkjekjmzfiuvi.com^
 ||pkjmmn.icu^
 ||pkjouzfyf.com^
@@ -62463,6 +62473,7 @@
 ||ptaungoo.xyz^
 ||ptaunsoova.com^
 ||ptaupsom.com^
+||ptautsortoa.com^
 ||ptauxofi.net^
 ||ptawe.com^
 ||ptawehex.net^
@@ -69164,6 +69175,7 @@
 ||sequelswosbird.com^
 ||sequencestairwellseller.com^
 ||seqyirmgh.xyz^
+||ser678uikl.xyz^
 ||seraglisneak.top^
 ||seraphichorizon.com^$third-party
 ||serbapromo.com^
@@ -84333,6 +84345,7 @@
 ||vnfsbl.xyz^
 ||vnghuw.xyz^
 ||vnhopqua.com^
+||vnie0kj3.cfd^
 ||vnietinbank.com^
 ||vnihhkgayhj.com^
 ||vnlqcod.cn^
@@ -89034,6 +89047,7 @@
 ||xxxnewvideos.com^
 ||xxxoh.com^
 ||xxxrevpushclcdu.com^
+||xxxuhx.xyz^
 ||xxxviijmp.com^
 ||xxxvipporno.com^
 ||xxxvjmp.com^
@@ -89769,6 +89783,7 @@
 ||ykopnlrbb.com^
 ||ykotyeo.cn^
 ||ykoz.cn^
+||ykpebdshcqefqm.com^
 ||ykqalsm.com^
 ||ykraeij.com^
 ||ykrwopdxkw.com^
@@ -96172,6 +96187,7 @@ check-host.net##.thold10xr
 check-host.net##[title="DDOS-Guard"]
 check-host.net##img[style="width: 700px"]
 checkfelix.com,kayak.ae,kayak.bo,kayak.ch,kayak.cl,kayak.co.cr,kayak.co.id,kayak.co.in,kayak.co.jp,kayak.co.kr,kayak.co.th,kayak.co.uk,kayak.co.ve,kayak.com,kayak.com.ar,kayak.com.au,kayak.com.br,kayak.com.co,kayak.com.do,kayak.com.ec,kayak.com.gt,kayak.com.hk,kayak.com.hn,kayak.com.mx,kayak.com.my,kayak.com.ni,kayak.com.pa,kayak.com.pe,kayak.com.ph,kayak.com.pr,kayak.com.py,kayak.com.sv,kayak.com.tr,kayak.com.uy,kayak.de,kayak.dk,kayak.es,kayak.fr,kayak.ie,kayak.it,kayak.nl,kayak.no,kayak.pl,kayak.pt,kayak.sa,kayak.se,kayak.sg,swoodoo.com##.CarResultsList > div > div.Dp1L[role=tab]
+checkfelix.com,kayak.ae,kayak.bo,kayak.ch,kayak.cl,kayak.co.cr,kayak.co.id,kayak.co.in,kayak.co.jp,kayak.co.kr,kayak.co.th,kayak.co.uk,kayak.co.ve,kayak.com,kayak.com.ar,kayak.com.au,kayak.com.br,kayak.com.co,kayak.com.do,kayak.com.ec,kayak.com.gt,kayak.com.hk,kayak.com.hn,kayak.com.mx,kayak.com.my,kayak.com.ni,kayak.com.pa,kayak.com.pe,kayak.com.ph,kayak.com.pr,kayak.com.py,kayak.com.sv,kayak.com.tr,kayak.com.uy,kayak.de,kayak.dk,kayak.es,kayak.fr,kayak.ie,kayak.it,kayak.nl,kayak.no,kayak.pl,kayak.pt,kayak.sa,kayak.se,kayak.sg,swoodoo.com##.IZSg-mod-banner
 checkfelix.com,kayak.ae,kayak.bo,kayak.ch,kayak.cl,kayak.co.cr,kayak.co.id,kayak.co.in,kayak.co.jp,kayak.co.kr,kayak.co.th,kayak.co.uk,kayak.co.ve,kayak.com,kayak.com.ar,kayak.com.au,kayak.com.br,kayak.com.co,kayak.com.do,kayak.com.ec,kayak.com.gt,kayak.com.hk,kayak.com.hn,kayak.com.mx,kayak.com.my,kayak.com.ni,kayak.com.pa,kayak.com.pe,kayak.com.ph,kayak.com.pr,kayak.com.py,kayak.com.sv,kayak.com.tr,kayak.com.uy,kayak.de,kayak.dk,kayak.es,kayak.fr,kayak.ie,kayak.it,kayak.nl,kayak.no,kayak.pl,kayak.pt,kayak.sa,kayak.se,kayak.sg,swoodoo.com##.ejnn-results-list-wrap > div > div > div > div > div.YTRJ[role="button"][tabindex="0"] > .yuAt-pres-rounded
 checkfelix.com,kayak.ae,kayak.bo,kayak.ch,kayak.cl,kayak.co.cr,kayak.co.id,kayak.co.in,kayak.co.jp,kayak.co.kr,kayak.co.th,kayak.co.uk,kayak.co.ve,kayak.com,kayak.com.ar,kayak.com.au,kayak.com.br,kayak.com.co,kayak.com.do,kayak.com.ec,kayak.com.gt,kayak.com.hk,kayak.com.hn,kayak.com.mx,kayak.com.my,kayak.com.ni,kayak.com.pa,kayak.com.pe,kayak.com.ph,kayak.com.pr,kayak.com.py,kayak.com.sv,kayak.com.tr,kayak.com.uy,kayak.de,kayak.dk,kayak.es,kayak.fr,kayak.ie,kayak.it,kayak.nl,kayak.no,kayak.pl,kayak.pt,kayak.sa,kayak.se,kayak.sg,swoodoo.com##.ev1_-results-list > div > div > div > div.G-5c[role="tab"][tabindex="0"] > .yuAt-pres-rounded
 checkfelix.com,kayak.ae,kayak.bo,kayak.ch,kayak.cl,kayak.co.cr,kayak.co.id,kayak.co.in,kayak.co.jp,kayak.co.kr,kayak.co.th,kayak.co.uk,kayak.co.ve,kayak.com,kayak.com.ar,kayak.com.au,kayak.com.br,kayak.com.co,kayak.com.do,kayak.com.ec,kayak.com.gt,kayak.com.hk,kayak.com.hn,kayak.com.mx,kayak.com.my,kayak.com.ni,kayak.com.pa,kayak.com.pe,kayak.com.ph,kayak.com.pr,kayak.com.py,kayak.com.sv,kayak.com.tr,kayak.com.uy,kayak.de,kayak.dk,kayak.es,kayak.fr,kayak.ie,kayak.it,kayak.nl,kayak.no,kayak.pl,kayak.pt,kayak.sa,kayak.se,kayak.sg,swoodoo.com##.ev1_-results-list > div > div > div > div[data-resultid$="-sponsored"]
@@ -98274,7 +98290,9 @@ economist.com##.adComponent
 economist.com##.adComponent_advert__kPVUI
 economist.com##[class^="adComponent"]
 ecosia.org##.ecolink-search-result
+ecosia.org##.product-ads-carousel
 ecosia.org##div[data-test-id="mainline-result-ad"]
+ecosia.org##div[data-test-id="mainline-result-productAds"]
 ecpoc.com##.arcbodyad
 edarabia.com##.leaderboard-728
 edarabia.com##.mpu-300
