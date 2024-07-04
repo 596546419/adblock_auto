@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 6So5+xkry3gCPDtNBa+pzg
+! Checksum: Ihth4ITMLaDdUzqqcOTvmQ
 ! Title: 混合规则(自动更新)
-! Version: 20240704092556
+! Version: 20240704162716
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-04 09:25:56
-! Total Count: 147485
+! Last modified: 2024-07-04 16:27:16
+! Total Count: 147494
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2612,6 +2612,7 @@
 ||6318537ccc.com^
 ||634369.xyz^
 ||6347032d45.com^
+||63912b9175.com^
 ||6399tp.com^
 ||63ef.com^*.js
 ||63kc.com^$third-party
@@ -18903,6 +18904,7 @@
 ||ckwvebqkbl.xyz^
 ||ckxxbao.com/templets/default/js/wx.js
 ||ckyjapugk.com^
+||ckynh.com^
 ||ckywou.com^
 ||cl*.k5a.io^
 ||cl-997764a8.gcdn.co^
@@ -30618,6 +30620,7 @@
 ||fjmksbwxb.com^
 ||fjmrxys.com^
 ||fjnsnt.xyz^
+||fjojdlcz.com^
 ||fjoyewwxrowqy.com^
 ||fjqcqdr.icu^
 ||fjsen.com:81/mysql/count/
@@ -32224,6 +32227,7 @@
 ||fxluaijchj.com^
 ||fxmnba.com^
 ||fxmrelevbu.com^
+||fxnmjb.xyz^
 ||fxporn69.com/bai_lo.php
 ||fxporn69.com/fri_e.js
 ||fxprime-popular.com^
@@ -42291,6 +42295,7 @@
 ||jibaeolia.com^
 ||jibn12.jintang114.org^
 ||jickodsa.com^
+||jiclzori.com^
 ||jicypigra.com^
 ||jieaxwgwnydl.com^
 ||jiedaibao.gs^
@@ -43909,6 +43914,7 @@
 ||kdh095.cn^
 ||kdhome.net/images/banner
 ||kdhome.net/templets/default/img/tpfd.jpg
+||kdipsumd.top^
 ||kdjdpyrt.xyz^
 ||kdkatxfkxmgmbhu.xyz^
 ||kdkwe.xyz^
@@ -60815,6 +60821,7 @@
 ||polluxnetwork.com^
 ||poloptrex.com^
 ||poloud.com^
+||polpepsn.com^
 ||polredsy.com^
 ||polrimsi.xyz^
 ||poltarimus.com^
@@ -62416,6 +62423,7 @@
 ||pstatp.com^*/push.js
 ||pstats.com^
 ||pstdzxu.cn^
+||pstmqnplyzqahq.com^
 ||pstnmhftix.xyz^
 ||pstreetma.com^
 ||pstvvb.xyz^
@@ -93729,6 +93737,7 @@ adpushup.com
 adrama.to###container > div[style*="margin-right: 2px;"][style*="width: 300px;"]
 adrama.to#?#.post_sidebar > div.side_box:has(div[id^="mynewads_"])
 adreep.cn,baoliny.com,gasaq.com,hgitv.com,ifooday.cn,nen.com.cn,world68.com##.guanggao
+adsoftheworld.com,futurism.com##.tracking-widest
 adspecials.us,ajanlatok.hu,akcniletak.cz,catalogosofertas.cl,catalogosofertas.com.ar,catalogosofertas.com.br,catalogosofertas.com.co,catalogosofertas.com.ec,catalogosofertas.com.mx,catalogosofertas.com.pe,catalogueoffers.co.uk,catalogueoffers.com.au,flugblattangebote.at,flyerdeals.ca,folderz.nl,folhetospromocionais.com,folletosofertas.es,gazetki.pl,kundeavisogtilbud.no,ofertelecatalog.ro,offertevolantini.it,promocatalogues.fr,promotiez.be,promotions.ae,prospektangebote.de,reklambladerbjudanden.se,tilbudsaviseronline.dk##.anchor-wrapper
 adswikia.com,freemalaysiatoday.com,landandfarm.com,pointblanknews.com,radiotoday.com.au,runt-of-the-web.com,rxresource.org,techworldgeek.com,warisboring.com##.header-banner
 adtunes.com###div-atf-336x280
@@ -99477,7 +99486,6 @@ futurecurrencyforecast.com##.cwc-tor-widget
 futuregaming.io##.ez-video-wrap
 futurenet.club##.fn-banner
 futurism.com##.tracking-wider
-futurism.com##.tracking-widest
 fux.com,pornerbros.com,porntube.com#?#.shelve > .row-grid > div[class^="col-"]:has(> iframe[src*="external"])
 fux.com,porntube.com##.native-footer
 fuyang.net###portal_block_474
@@ -107997,6 +108005,7 @@ skinnyms.com##.sm-above-header
 skins.be##.hint
 skins.be##.shortBioShadowB
 skinstore.com##.productSponsoredAdsWrapper
+skyblock.bz##[id^="flips-"]
 skydy.top##.swiper-slide[style="width: 1170px;"]
 skykiwi.com##div[style^="width:1200px;height:"]
 skylinewebcams.com###hostedby
