@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: A6KOItddG4vdBmwxttYLkQ
+! Checksum: 78U+SSI2iOcLvMH+VDo0Pw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240705002539
+! Version: 20240705092555
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-05 00:25:39
-! Total Count: 28259
+! Last modified: 2024-07-05 09:25:55
+! Total Count: 28268
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1274,6 +1274,7 @@
 ||9669.com^$script,third-party
 ||96kso.online^
 ||973.com/static/js/pccom.js
+||97ii.cn^
 ||98.126.219.*/ads/
 ||98158.com^
 ||9831tb.com^
@@ -4099,6 +4100,8 @@
 ||baihuwang.com^$third-party
 ||baijs02.xyz^
 ||baijs03.xyz^
+||baijs05.xyz^
+||baijs06.xyz^
 ||baike.com/iframeheightforad.
 ||baimakanshu.com/assets/public/$script
 ||baishuku.com/news/$script
@@ -6391,6 +6394,8 @@
 ||doujs01.xyz^
 ||doujs02.xyz^
 ||doujs03.xyz^
+||doujs05.xyz^
+||doujs06.xyz^
 ||doupocangqiong1.com/js/ptwap.js
 ||doutula.com/img/upupoo/
 ||douyin.com/api/user/getPcBanner?
@@ -9855,6 +9860,7 @@
 ||jyfw.cn/gonggong/jiayu/cf_
 ||jyfw.cn/nav/cf_
 ||jygiizv.icu^
+||jyisloa.top^
 ||jynthelon.com^
 ||jypvzd.xyz^
 ||jyqkijp.icu^
@@ -16022,6 +16028,7 @@
 ||urccncd.xyz^
 ||urgayporn.com/bn/
 ||urqwzbu.cn^
+||urtlist.top^
 ||urueuah.cn^
 ||us-west1.cdngcloud.com^
 ||usancit.top^
@@ -16402,6 +16409,7 @@
 ||vsping-*.myqcloud.com/ggw/
 ||vsping.com/website/adLinks?
 ||vsping.com/website/ads?
+||vsqovxf.icu^
 ||vsthouse.ru/a-detector/
 ||vswswlz.icu^
 ||vsx.hotpornfile.org^
@@ -17251,6 +17259,7 @@
 ||xuxiaoran.xyz^
 ||xuyanlong1.cn^
 ||xuzhi.net/uploadfile/poster/960x50.jpg
+||xuzsdn.xyz^
 ||xv.leirsw.com^
 ||xv98.com/js/daohang
 ||xv98.com/js/hengfu
@@ -18116,6 +18125,7 @@
 ||zvvlbf.xyz^
 ||zwdtvx.xyz^
 ||zwfkxb.xyz^
+||zwlxnj.xyz^
 ||zwxxcb.icu^
 ||zwzdjb.xyz^
 ||zx.docin.com^
@@ -28062,7 +28072,6 @@ zle.com$script
 @@|http*:*/ad/banner/_adsense_/_adserver/_adview_.ad.json$xmlhttprequest
 @@||150075.com^$domain=tecms.net
 @@||ad.doubleclick.net/*/adi/com.ytbc/$domain=youtube.com
-@@||ad.mail.ru/adp/?*&notgb=1|$~third-party,xmlhttprequest
 @@||adserver.juicyads.com/js/jads.js$domain=netflav.com
 @@||ajax.googleapis.com/ajax/libs/jquery$domain=gaypornwave.com
 @@||alwingulla.com/88/tag.min.js$domain=darkino.online

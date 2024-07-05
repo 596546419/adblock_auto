@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: tup6a39MW3/oQn9yI2a7TA
+! Checksum: ufI+r1CPim4ptldwWecQIA
 ! Title: 混合规则(自动更新)
-! Version: 20240705002527
+! Version: 20240705092543
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-05 00:25:27
-! Total Count: 147521
+! Last modified: 2024-07-05 09:25:43
+! Total Count: 147546
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1130,6 +1130,7 @@
 ||2023sb.net^
 ||2023welcome.com^$third-party
 ||2024114t.shop^
+||2024jphatomenesys36.top^
 ||2036369798.com^
 ||2048hd1.com/js/tc.js
 ||204st.us^
@@ -3579,6 +3580,7 @@
 ||97b448.xyz^
 ||97d73lsi.com^
 ||97e4ef7bf5.com^
+||97ii.cn^
 ||98.126.219.*/ads/
 ||9814b49f.xyz^
 ||98158.com^
@@ -5050,7 +5052,6 @@
 ||ad.tpmn.co.kr^
 ||ad.tpmn.io^
 ||ad.tradertimerz.media^
-||ad.twinrdengine.com^
 ||ad.u-car.com.tw^
 ||ad.unique1static.jp^
 ||ad.velomania.ru^
@@ -6603,6 +6604,7 @@
 ||adswam.com^
 ||adsweb.vn^
 ||adswrapme.click^
+||adsxtits.pro^
 ||adsxyz.com^
 ||adsy.mail.bg^
 ||adsymptotic.com^
@@ -9873,6 +9875,7 @@
 ||apavskmykcm.xyz^
 ||apbbtddsamgit.com^
 ||apbieqqb.xyz^
+||apcatcltoph.com^
 ||apcdp.apnews.com^
 ||apcilnf.cn^
 ||apcltlwndq.com^
@@ -12354,6 +12357,8 @@
 ||baijav.com^
 ||baijs02.xyz^
 ||baijs03.xyz^
+||baijs05.xyz^
+||baijs06.xyz^
 ||baikalize.com^
 ||baike.com/iframeheightforad.
 ||baike.com/newtop/news.html
@@ -18739,6 +18744,7 @@
 ||cimm.top^
 ||cimoghuk.net^
 ||cinarra.com^
+||cincherdatable.com^
 ||cinemabonus.com^$third-party
 ||cinemagarbagegrain.com^
 ||cinemahd.info^
@@ -19925,6 +19931,7 @@
 ||coldflownews.com^
 ||coldhardcash.com^
 ||coldnesfspubli.com^
+||coldnessswarthyclinic.com^
 ||coldvain.com^
 ||colemalist.top^
 ||colenhackbut.com^
@@ -25264,6 +25271,8 @@
 ||doujs01.xyz^
 ||doujs02.xyz^
 ||doujs03.xyz^
+||doujs05.xyz^
+||doujs06.xyz^
 ||doukoula.com^
 ||doumobhaia.site^
 ||doumuleet.net^
@@ -26191,6 +26200,7 @@
 ||dzhjmp.com^
 ||dzienkudrow.com^
 ||dzigzdbqkc.com^
+||dzijggsdx.com^
 ||dzjnejsffqqih.com^
 ||dzjv9gbu8a.com^
 ||dzjzg.com^
@@ -26826,6 +26836,7 @@
 ||edtotigainare.info^
 ||edtp.de^
 ||edttfiou.com^
+||edttmar.com^
 ||edu-30130.sz.gfp.tencent-cloud.com^*.gif
 ||edu-lib.com^
 ||edu.jiukang.org^
@@ -35034,6 +35045,7 @@
 ||grussreenter.com^
 ||gruvirxita.com^
 ||gruwalom.xyz^
+||gruwrebutnar.com^
 ||grv.media^
 ||grvmedia.com^
 ||grwp3.com^
@@ -40515,6 +40527,7 @@
 ||instrumenttactics.com^
 ||insultingnoisysubjects.com^
 ||insultoccupyamazed.com^
+||insultresignation.com^
 ||insumber.com^
 ||insurads.com^
 ||insuranc.club^
@@ -43552,6 +43565,7 @@
 ||jygotubvpyguak.com^
 ||jyhxhsdgxbvcnj.com^
 ||jyigozm.cn^
+||jyisloa.top^
 ||jyjhjopmq.com^
 ||jyjmpatmgk.com^
 ||jykhjwb.cn^
@@ -46491,6 +46505,7 @@
 ||lflcbcb.com^
 ||lflili.com^
 ||lflucky.com^
+||lfmetrics.loyalfans.com^
 ||lfmfkklhgqsk.com^
 ||lfngqrtheim.com^
 ||lfnwqrghxqrqb.com^
@@ -49939,6 +49954,7 @@
 ||mcnt.jp^
 ||mcontigo.com^
 ||mcoreads.com^
+||mcovipqaxq.com^
 ||mcpdqfnvluhpwt.com^
 ||mcppsh.com^
 ||mcprofits.com^
@@ -54227,6 +54243,7 @@
 ||newume.com/v1/data/ume-
 ||newvideoapp.pro^
 ||newwedads.com^
+||newwinner.life^
 ||newy.hifiliving.com^
 ||newyorkwhil.com^
 ||newyx.net^*/down_yd.js
@@ -63229,6 +63246,7 @@
 ||q777.sfchronicle.com^
 ||q7tl.icu^
 ||q88j2.top^
+||q88z1s3.com^
 ||q8ntfhfngm.com^
 ||q99i1qi6.de^
 ||qa-events-schema.viacom.tech^
@@ -64519,6 +64537,7 @@
 ||qzyfpfyy.com^
 ||qzyllgqficyd.com^
 ||qzynbzjrkarma.top^
+||qzzzzzzzzzqq.com^
 ||r-ad.linkshare.jp^
 ||r-ad.ne.jp^
 ||r-q-e.com^
@@ -76503,6 +76522,7 @@
 ||testadmiral.com^$third-party
 ||testamenttakeoutkill.com^
 ||testcentre.vn^
+||testda.homes^
 ||testedtouch.com^$third-party
 ||testfilter.com^
 ||testifyconvent.com^
@@ -80428,6 +80448,7 @@
 ||twinpinenetwork.com^
 ||twinplan.com^
 ||twinrdack.com^
+||twinrdengine.com^
 ||twinrdsrv.com$xmlhttprequest,third-party
 ||twinrdsrv.com^
 ||twinrdsrv.com^$document
@@ -81987,6 +82008,7 @@
 ||urstats.de^
 ||urthdtcg.com^
 ||urtirepor.com^
+||urtlist.top^
 ||urueuah.cn^
 ||uruftio.com^
 ||uruswan.com^
@@ -84792,6 +84814,7 @@
 ||vsping-*.myqcloud.com/ggw/
 ||vsping.com/website/adLinks?
 ||vsping.com/website/ads?
+||vsqovxf.icu^
 ||vssid.cc^
 ||vssid.govvvn.com^
 ||vssidgov.com^
@@ -88940,6 +88963,7 @@
 ||xuyanlong1.cn^
 ||xuzeez.com^
 ||xuzhi.net/uploadfile/poster/960x50.jpg
+||xuzsdn.xyz^
 ||xv.leirsw.com^
 ||xv98.com/js/daohang
 ||xv98.com/js/hengfu
@@ -91796,6 +91820,7 @@
 ||zwiaaop.cyou^
 ||zwjezmzbyerkj.top^
 ||zwlikv.cn^
+||zwlxnj.xyz^
 ||zwmkfoo.cn^
 ||zwmvyzyrlvava.top^
 ||zwnhufcwhaw.com^
@@ -99574,6 +99599,7 @@ gadgets.ndtv.com,gadgets360.com##._ad
 gadgets360.com##.__wdgt_rhs_kpc
 gadgets360.com##.advertisment
 gadgets360.com##.lhs_top_banner
+gadgets360.com##.pagepusheradATF
 gadgetsnow.com##.FkG8A
 gadgetsnow.com##.I26at
 gadgetsnow.com##._1edxh
@@ -146071,7 +146097,6 @@ zle.com$script
 @@||ad.alimama.com^$genericblock
 @@||ad.doubleclick.net/*/adi/com.ytbc/$domain=youtube.com
 @@||ad.kazakinfo.com^
-@@||ad.mail.ru/adp/?*&notgb=1|$~third-party,xmlhttprequest
 @@||ad.ourgame.com^
 @@||ad.thsi.cn/siteHome/
 @@||ad.vivo.com.cn^$~third-party
