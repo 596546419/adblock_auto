@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ufI+r1CPim4ptldwWecQIA
+! Checksum: 8mcr9HkXIsHhSbhR5Dp3vQ
 ! Title: 混合规则(自动更新)
-! Version: 20240705092543
+! Version: 20240705162534
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-05 09:25:43
-! Total Count: 147546
+! Last modified: 2024-07-05 16:25:34
+! Total Count: 147549
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -24820,6 +24820,7 @@
 ||dmm.aizhan.com^
 ||dmmgjsymlrfp.com^
 ||dmnprx.com^
+||dmnxkj.cn^
 ||dmoldsusvkpa.xyz^
 ||dmopqjaswvmvopm.com^
 ||dmovyttqiu.com^
@@ -57356,6 +57357,7 @@
 ||orssengseen.com^
 ||orthitepetrous.com^
 ||orthronsmatter.com^
+||ortlisk.top^
 ||ortontotlejohn.com^
 ||orts.wixawin.com^
 ||ortwywr.cn^
@@ -121689,6 +121691,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /template/shoujigg/*
 /template/znfls/asd/*
 /template/zsy_badian/dddytt-gg/*
+/template/zsy_badian/js/stui_
 /templateadvimages/*
 /templates/*/js/_banner.js
 /templates/ad.
