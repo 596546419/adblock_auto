@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Z6pVP6yeRxqKY1ZUQXOTqw
+! Checksum: A5tFotnJeyfrMrV2M0DFOQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240706002623
+! Version: 20240706092427
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-06 00:26:23
-! Total Count: 28273
+! Last modified: 2024-07-06 09:24:27
+! Total Count: 28280
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7176,6 +7176,7 @@
 ||featherstage.com^$third-party
 ||featured.perfectionholic.com^
 ||februarylovestory.com^$third-party
+||febtzd.xyz^
 ||feebleshock.com^$third-party
 ||feesoon.com/js/cnzz_
 ||fefgvh.xyz^
@@ -7985,6 +7986,7 @@
 ||gslejoki.xyz^
 ||gstatic.com/shopping?q=tbn$image,domain=rocketnews24.com|youpouch.com|soranews24.com
 ||gsuxyg.xyz^
+||gsywcc.xyz^
 ||gszetzdm.xyz^
 ||gt.duowan.com^
 ||gt.yy.com^
@@ -9206,6 +9208,7 @@
 ||ipsoazr.icu^
 ||ipssn.haffo*.com^$third-party
 ||ipssss.com^
+||iptuy.cn^
 ||iptv444.com/ad-
 ||ipuswrg.cn^
 ||iqbecde.cn^$document
@@ -10276,6 +10279,7 @@
 ||kyemwo.xyz^
 ||kygso.com/js/lrtk.js
 ||kyikdee.cn^
+||kyislod.top^
 ||kyjwtxei.xyz^
 ||kykqss.xyz^
 ||kymahuxv.xyz^
@@ -10537,6 +10541,7 @@
 ||lihuasoft.net/images/ad_
 ||liisex.com/images/banners/
 ||liitwrz.icu^
+||lijlrz.xyz^
 ||likdie.com^
 ||liktufmruav.com^$third-party
 ||limitlessexterminator.com^
@@ -12092,6 +12097,7 @@
 ||oldfashionedoffer.com^$third-party
 ||olelive.com/v1/pub/index/anchor/check/pc/e?
 ||olgame.tw/home/attachment/
+||olgcpwc.icu^
 ||olltcqg.xyz^
 ||olmnvbgufy.top^
 ||olmsoneenh.info^$domain=avgle.com
@@ -16658,6 +16664,7 @@
 ||whdwydt.cn^
 ||whdx.cc/js/
 ||whe0nqk.icu^
+||wheregoes.com/c/uploads/$script
 ||whfpbc.99.com.cn^
 ||whichav.*/qq/qq.js
 ||whineattempt.com^$third-party

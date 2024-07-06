@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: X05mnhn9lj3ZO0bko7TEbw
+! Checksum: k8TP4w1OCr54zXo5FrPKyA
 ! Title: 混合规则(自动更新)
-! Version: 20240706002612
+! Version: 20240706092415
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-06 00:26:12
-! Total Count: 147561
+! Last modified: 2024-07-06 09:24:15
+! Total Count: 147582
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2011,6 +2011,7 @@
 ||44pd.com^*xds/
 ||44pv.com^$third-party
 ||452tapgn.de^
+||453130fa9e.com^
 ||4567.org^$third-party
 ||456vdghgj30.dyndns.org^
 ||46186911.vtt^
@@ -6875,6 +6876,7 @@
 ||advertiseworld.com^
 ||advertiseyourgame.com^
 ||advertising-cdn.com^
+||advertising-cdn.dpgmedia.cloud^
 ||advertising.com^
 ||advertising.yahoo.com/favicon.ico$image,third-party,redirect-rule=32x32.png
 ||advertising365.com^
@@ -17892,6 +17894,7 @@
 ||cesiumsemboite.com^
 ||cesmqcuyfugkpyp.com^
 ||cessationcorrectmist.com^
+||cessationhamster.com^
 ||cessationrepulsivehumid.com^
 ||cestibegster.com^
 ||ceteembathe.com^
@@ -29949,6 +29952,7 @@
 ||februarylovestory.com^$third-party
 ||februarynip.com^
 ||februaryreductionapplet.com^
+||febtzd.xyz^
 ||fecabookk.com^
 ||fecerismasker.com^
 ||fedapush.net^
@@ -30258,6 +30262,7 @@
 ||fghghh.cn^
 ||fghhbp.xyz^
 ||fghnergyflex.xyz^
+||fgigrmle.xyz^
 ||fgijincfktbguv.xyz^
 ||fgislklsqqytr.com^
 ||fgisstdudch.com^
@@ -33372,6 +33377,7 @@
 ||ggwan.com^$third-party,domain=~linghit.com
 ||ggwcash.com^
 ||ggweb.net^
+||ggwifobvx.com^
 ||ggx0001.com^
 ||ggxcoez.com^
 ||ggxt.net^
@@ -35107,6 +35113,7 @@
 ||gsyc.icu^
 ||gsycdb.com^
 ||gsycl.top^
+||gsywcc.xyz^
 ||gszetzdm.xyz^
 ||gsziafjjgeq.com^
 ||gt.duowan.com^
@@ -40987,6 +40994,7 @@
 ||ipsvptuxn.com^
 ||iptautup.com^
 ||iptracker-lb-*.amazonaws.com^
+||iptuy.cn^
 ||iptv444.com/ad-
 ||ipurseeh.xyz^
 ||ipuswrg.cn^
@@ -45401,6 +45409,7 @@
 ||kygftx.xyz^
 ||kygso.com/js/lrtk.js
 ||kyikdee.cn^
+||kyislod.top^
 ||kyjhuflgtl.xyz^
 ||kyjwtxei.xyz^
 ||kykenies.com^
@@ -46804,6 +46813,7 @@
 ||liivhntsu.com^
 ||lijb.site^
 ||lijit.com^
+||lijlrz.xyz^
 ||lijybcfgnjh.com^
 ||likdie.com^
 ||like-it.co.il^
@@ -53601,6 +53611,7 @@
 ||nativ.podruzke.ru^
 ||nativclick.com^
 ||native-ad.net^
+||native-ads-events-api.c4s-rd.services^
 ||native-adserver.com^
 ||native-cdn.com^
 ||native-commerce.com^
@@ -56517,6 +56528,7 @@
 ||oleoshaves.top^
 ||olep.xyz^
 ||olgame.tw/home/attachment/
+||olgcpwc.icu^
 ||olgknseruf.com^
 ||olibes.com^
 ||olineman.pro^
@@ -56795,6 +56807,7 @@
 ||oninewsful.life^
 ||onirybank.com^
 ||onjxuqwinn.com^
+||onkafxtiqcu.com^
 ||onkavst.com^
 ||onlain-multiki.ru/config.json
 ||online-adnetwork.com^
@@ -63826,6 +63839,7 @@
 ||qo4nkz03dy.cn^
 ||qoaaa.com^
 ||qobarmbghaiv.xyz^
+||qobuz.surveysparrow.com^
 ||qodyldusxloinpn.com^
 ||qoepkc.top^
 ||qofowyki.xyz^
@@ -73788,6 +73802,7 @@
 ||steamsorrowabbey.com^
 ||steamtraffic.com^
 ||steamunlocked.one^
+||stedrits.xyz^
 ||stedsous.xyz^
 ||steefaulrouy.xyz^
 ||steegnow.com^
@@ -78753,6 +78768,7 @@
 ||track.yfret.com^
 ||track.youniversalmedia.com^
 ||track.zalando.
+||track.zapimoveis.com.br^
 ||track.zappos.com^
 ||track.zerofriend.com^
 ||track.zomato.com^
@@ -86286,6 +86302,7 @@
 ||whereaboutsgolancould.com^
 ||wherebyinstantly.com^
 ||wheredoyoucomefrom.ovh^
+||wheregoes.com/c/uploads/$script
 ||whereres.com^
 ||whereuponcomicsraft.com^
 ||wherevertogo.com^
@@ -92557,7 +92574,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 18moe.org##.alignnone[alt="恰饭广告"]
 18moe.vip##a[href^="http"]:not([href*="18moe.vip"]) > img[src*="tc.18moe.net"]
 18porn.sex,18teensex.tv,429men.com,4kporn.xxx,4porn4.com,4wank.com,63290r.com,alotporn.com,amateurest.com,amateurporn.co,amateurporn.me,bestpornflix.com,bigtitslust.com,blowjobs.pro,bravoerotica.net,cambay.tv,camflow.tv,camfox.com,camwhores.tv,camwhorescloud.com,cartoonprn.com,celebwhore.com,cluset.com,danude.com,daporn.com,ebony8.com,exoav.com,fapnow.xxx,faptube.com,fpo.xxx,freeporn8.com,fuqer.com,gayck.com,gettubetv.com,hairyerotica.com,hentai-moon.com,heroero.com,hoes.tube,hqbang.com,intporn.com,japaneseporn.xxx,jav.gl,javwind.com,jizzberry.com,kuxxx.com,love4porn.com,mrdeepfakes.com,multi.xxx,onlyhentaistuff.com,pornchimp.com,porndr.com,pornmix.org,pornsai.com,rare-videos.net,sexcams-24.com,sexoverdose.com,shemalesin.com,sortporn.com,tabootube.xxx,thebussybandit.com,theporngod.com,theyarehuge.com,thothd.com,tubsexer.*,wandhi.com,watchmygf.xxx,watchporn.to,xcavy.com,xgroovy.com,xmateur.com,xmegadrive.com,xtits.*,xxxshake.com,yourporngod.com,zeenite.com##.table
-18porn.sex,4kporn.xxx,alphaporno.com,amateur8.com,andrewlock.net,anyporn.com,area51.porn,bigtitslust.com,cambay.tv,camclips.tv,camwhores.tv,cd1025.com,centos.org,crazyporn.xxx,daniao.org,domainincite.com,dyz99.com,eachporn.com,europages.co.uk,fapster.xxx,fontyukle.net,fpo.xxx,freeporn8.com,gamingcloud.com,geekpark.net,gettubetv.com,grahamcluley.com,hairyerotica.com,heavyfetish.com,hentai-moon.com,heroero.com,ijr.com,its.porn,izlesimdiporno.com,jizzoncam.com,kpbs.org,lesbian8.com,lolhentai.net,magnetfox.com,manutd.com,maturetubehere.com,pervertslut.com,phillyvoice.com,phish.report,pornbrb.com,pornchimp.com,pornfapr.com,porngem.com,pornhits.com,porno90.online,porntop.com,porntrex.video,pornxpert.com,scatkings.com,sexpornimages.com,sexvid.xxx,sexwebvideo.com,shemalesin.com,sortporn.com,speedcafe.com,speedtest.cn,swiftbysundell.com,thefederalistpapers.org,thegatewaypundit.com,tktube.com,ufile.io,uiporn.com,vikiporn.com,watchmyexgf.net,westernjournal.com,wnd.com,xhamster.com,zedporn.com##.sponsor
+18porn.sex,4kporn.xxx,alphaporno.com,amateur8.com,andrewlock.net,anyporn.com,area51.porn,bigtitslust.com,cambay.tv,camclips.tv,camwhores.tv,cd1025.com,centos.org,crazyporn.xxx,daniao.org,domainincite.com,dyz99.com,eachporn.com,europages.co.uk,fapster.xxx,fontyukle.net,fpo.xxx,freeporn8.com,gamingcloud.com,geekpark.net,gettubetv.com,grahamcluley.com,hairyerotica.com,heavyfetish.com,hentai-moon.com,heroero.com,ijr.com,its.porn,izlesimdiporno.com,jizzoncam.com,kpbs.org,lesbian8.com,lolhentai.net,magnetfox.com,manutd.com,maturetubehere.com,pervertslut.com,phillyvoice.com,phish.report,pornbrb.com,pornchimp.com,pornfapr.com,porngem.com,pornhits.com,pornmeka.com,porno90.online,porntop.com,porntrex.video,pornxpert.com,scatkings.com,sexpornimages.com,sexvid.xxx,sexwebvideo.com,shemalesin.com,sortporn.com,speedcafe.com,speedtest.cn,swiftbysundell.com,thefederalistpapers.org,thegatewaypundit.com,tktube.com,ufile.io,uiporn.com,vikiporn.com,watchmyexgf.net,westernjournal.com,wnd.com,xhamster.com,zedporn.com##.sponsor
 18porno.tv##.toplist
 18porno.tv,freesexpornhd.com,hdpornonline.com,hdpornvideos.su,pornlist.tv,sexlist.tv,xnxxvideos.rest,xxxporn.me##.camitems
 18pornsex.com##.video-page > .ad
@@ -107681,6 +107698,8 @@ sephora.com#?#div[class^="css-"]:-abp-has(>a:-abp-has(span:-abp-contains(Sponsor
 seqing.world,singlove.com,whichav.com,whichav.net,wokao.co##.qq
 serengeseba.com##.content > li > a[href^="http"]
 seroundtable.com###ninja_box
+serve.everydayporn.co^
+serve.yourporngod.com^
 serverhunter.com##.instant-visit
 serverhunter.com##.this-html-will-keep-changing-these-ads-dont-hurt-you-advertisement
 serverhunter.com##div[class*="why"]
@@ -125098,6 +125117,8 @@ quickapp.cn
 reachmax.cn
 register.appsflyersdk.com^
 scorecardresearch.com
+serve.everydayporn.co^
+serve.yourporngod.com^
 show.ssports.com
 static.g.iqiyi.com
 statsy.net
