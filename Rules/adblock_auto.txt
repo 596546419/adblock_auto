@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: k8TP4w1OCr54zXo5FrPKyA
+! Checksum: kAxkrmRc96Pw+QkZ0Bk7aA
 ! Title: 混合规则(自动更新)
-! Version: 20240706092415
+! Version: 20240706162600
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-06 09:24:15
-! Total Count: 147582
+! Last modified: 2024-07-06 16:26:00
+! Total Count: 147589
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -48337,6 +48337,7 @@
 ||lrqpyhn.icu^
 ||lrqvmaverkabb.top^
 ||lrqvmaverkjzw.top^
+||lrtlisl.top^
 ||lrvrayrnqjzjw.top^
 ||lrvrayrnqjzkz.top^
 ||lrwksobdw.com^
@@ -88676,6 +88677,7 @@
 ||xn--shopmllutv-cx3e.vn^
 ||xn--shoptienzombe-mw2g.vn^
 ||xn--shptruongstar-4w2g.com^
+||xn--sssy7vrppusjyv0a.com^
 ||xn--w9q675dm1p7em.net^
 ||xn--wgvp78a61swpe6zdozj.cn^
 ||xn--wxtr9fwyxk9c.club^
@@ -95817,6 +95819,7 @@ broadwayworld.com##a[href^="https://cloud.broadwayworld.com/rec/ticketclick.cfm"
 brobible.com###bro-leaderboard
 brobible.com##.bro_caffeine_wrap
 brobible.com##.bro_vidazoo_wrap
+browardpalmbeach.com,citybeat.com,leoweekly.com,metrotimes.com##[gpt-slot-config-id]
 browardpalmbeach.com,dallasobserver.com,houstonpress.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.AirBillboardInlineContent
 browardpalmbeach.com,dallasobserver.com,houstonpress.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.beforeBillboard
 browardpalmbeach.com,dallasobserver.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.AirLeaderboardMediumRectanglesComboInlineContent
@@ -96494,9 +96497,10 @@ cityam.com##.notice-header
 cityam.com,techspot.com##.jobbioapp
 cityandstateny.com###atlas-module
 citybeat.com,clevescene.com,cltampa.com##.PromoTopBar
-citybeat.com,riverfronttimes.com##.fdn-gpt-inline-content
+citybeat.com,leoweekly.com,metrotimes.com,riverfronttimes.com##[gpt-slot-div-id]
+citybeat.com,metrotimes.com##.fdn-teaser-row-gpt-ad
+citybeat.com,metrotimes.com,riverfronttimes.com##.fdn-gpt-inline-content
 citybeat.com,riverfronttimes.com##.fdn-teaser-row-teaser
-citybeat.com,riverfronttimes.com##[gpt-slot-div-id="HeaderBillboard"]
 citychicdecor.com##.shopthepost-widget
 citynews.ca###Bigbox_300x250
 citynews.ca###master-leaderboard
@@ -105873,6 +105877,7 @@ pharmnet.com.cn##.ad9502
 phillyvoice.com##.article-sponsor-sticky
 phillyvoice.com##.native-sponsor
 phimsexmoi.biz###text-2[style*="left: 0px; top: 0px;"]
+phoenixnewtimes.com##.AirBillboard
 phone-book.tw##+js(remove-node-text, script, yumayishop)
 phonearena.com##.announcements
 phonearena.com##.heading-deal
@@ -107485,6 +107490,8 @@ sassyhongkong.com##.site-leaderboard
 sassymamahk.com##.pre_header_widget
 sat24.com###headercontent-onder
 satdl.com##.advertizement
+saucemagazine.com##.advert-elem
+saucemagazine.com##.advert-elem-1
 saultonline.com##.gsmfab
 save-editor.com##.set_wrapper
 save.ca##.ad-box
