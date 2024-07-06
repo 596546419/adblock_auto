@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: kAxkrmRc96Pw+QkZ0Bk7aA
+! Checksum: lM85xbcNBQf7TSR1QTlHbA
 ! Title: 混合规则(自动更新)
-! Version: 20240706162600
+! Version: 20240707002424
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-06 16:26:00
-! Total Count: 147589
+! Last modified: 2024-07-07 00:24:24
+! Total Count: 147613
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2183,6 +2183,7 @@
 ||513575528.com^
 ||5137395ccc.com^
 ||51629c3667.com^
+||5165c0c080.com^
 ||516624.com^
 ||51688.cc/ya/
 ||516qq.cn/theme/dd/
@@ -9700,6 +9701,7 @@
 ||antibot.me^
 ||anticipatedlying.com^
 ||anticipatedthirteen.com^
+||anticipateplummorbid.com^
 ||anticipationit.com^
 ||anticipationnonchalanceaccustomed.com^
 ||anticipationunexpected.com^
@@ -19390,6 +19392,7 @@
 ||cloud-exploration.com^
 ||cloud-miner.de^
 ||cloud-repository.com^
+||cloud-stats.info^
 ||cloud.rovio.com/ads/
 ||cloud.setupad.com^
 ||cloud.tencent.com/developer/api/common/getAds
@@ -22544,6 +22547,7 @@
 ||dajiahao9.top^
 ||dajiazhao.com/login/reg.js
 ||dajiurlgcfvgpt.com^
+||dajkq.com^
 ||dajkqqpz.top^
 ||dakang-energy.com^
 ||dakawm.cc^
@@ -29636,6 +29640,7 @@
 ||fardemanjack.com^
 ||fardingsoiling.com^
 ||farethief.com^$third-party
+||farewell457.fun^
 ||farflungwelcome.pro^
 ||fargoodgarotes.digital^
 ||fargwyn.com^
@@ -37311,6 +37316,7 @@
 ||hkmte.com/seo.js
 ||hkmvirkwqnscx.xyz^
 ||hkngacxry.com^
+||hknoq.cn^
 ||hkosgxn.cn^
 ||hkowhqtenjfud.com^
 ||hkpeghqu.icu^
@@ -40354,6 +40360,7 @@
 ||innocenceexpeditionsensation.com^
 ||innocencescarcelymoreover.com^
 ||innocencestrungdocumentation.com^
+||innocent154.fun^
 ||innocentwax.com^$third-party
 ||innorame.com^
 ||innovads-server.poster.appsinnova.com^
@@ -41072,6 +41079,7 @@
 ||ireraisin.com^
 ||iresandal.info^
 ||irgvfdwicqerqfy.com^
+||irhpzbrnoyf.com^
 ||iridiumsergeiprogenitor.info^
 ||iridizemohegan.com^
 ||irisaffectioneducate.com^
@@ -50712,6 +50720,7 @@
 ||metvay.com^
 ||metvb.com/js/bofangwei.js
 ||metwandfertile.top^
+||metzia.xyz^
 ||meubonus.com^
 ||meueeq.xyz^
 ||mevarabon.com^
@@ -55965,6 +55974,7 @@
 ||ocbyxycdl.xyz^
 ||occame.com^
 ||occarv.com^
+||occasion219.fun^
 ||occasionallyregionsadverb.com^
 ||occasionalstatusbella.com^
 ||occdmioqlo.com^
@@ -71189,6 +71199,7 @@
 ||skilledfixedoffers.com^
 ||skilledskillemergency.com^
 ||skilledtables.com^
+||skilleservices.com^
 ||skilletperonei.com^
 ||skillfuldrop.com^
 ||skillfuldrop.com^$third-party
@@ -86831,6 +86842,7 @@
 ||wjgcygwgrvooio.com^
 ||wjikxopltjp.xyz^
 ||wjjhzs.cn^
+||wjkhieahcmao.com^
 ||wjl58.icu^
 ||wjljwqbmmjjmw.top^
 ||wjljwqbmmjlmm.top^
@@ -89097,6 +89109,7 @@
 ||xxodleylnfhyi.com^
 ||xxofygygumf.com^
 ||xxooos.com/mm/
+||xxopairckrdhcx.com^
 ||xxp123.live^
 ||xxpghuf.com^
 ||xxrsxs.cn^
@@ -103781,6 +103794,9 @@ mamibuy.com.tw##.content-ad-spa
 mamieastuce.com##.k39oyi
 mamieastuce.com##.y288crhb
 mamul.am##.bannerb
+manabadi.co.in##.AdSW
+manabadi.co.in##.googleAdsdiv
+manabadi.co.in##[class*="dsc-banner"]
 managertoday.com.tw##.pumkinBox
 manga-miz.vy1.click###header_banner
 manga-raw.club,pornpics.network##div[style^="height: 250px;"]
@@ -106372,6 +106388,7 @@ pornhd6k.net##.col-md-4 > div.one_p94 > div.one_p95
 pornhdin.com##.remove-ad-block
 pornhdin.com,pornhd.com##.vp-under-video-spot
 pornhits.com,sextu.com##+js(abort-current-script, ACtMan)
+pornhoarder.tv##.video-detail-bspace
 pornhub-com.appspot.com,pornhub.com,pornhub.net,pornhubthbh7ap3u.onion,youporn.com###pb_template
 pornhub.com###hd-rightColVideoPage>none
 pornhub.com###relatedVideosCenter > li[class^="related"]
@@ -108490,6 +108507,7 @@ speedtest.cn##div[class^="speed-activity"][class$="wrap-index"]
 speedtest.cn##div[class^="speed-twoads"]
 speedtest.net##.pure-u-custom-ad-rectangle
 speedtest.net##.pure-u-custom-ad-skyscraper
+speedtest.net##.pure-u-custom-wifi-recommendation
 speedtest.net##.top-placeholder
 spellcheck.net###grmrl_one
 spiceworks.com###sidebar-bottom-ad
@@ -109296,6 +109314,11 @@ thehackernews.com##.zoho-box-1
 thehackernews.com##[href^="https://go.thn.li/"]
 thehackernews.com##[href^="https://thn.news/"]
 thehackernews.com##div.rocking
+thehansindia.com##.level-after-1-2
+thehansindia.com##.right_level_7
+thehansindia.com##[class*="-ad-"]:not(#inside_post_content_ad_1_before)
+thehansindia.com##section:has(> .to-be-async-loaded-ad)
+thehansindia.com##section:has(> [class*="level_ad"])
 thehindu.com###articledivrec
 thehindu.com##.artShrEnd
 thehindu.com##.article-ad
@@ -147503,6 +147526,7 @@ revimedia.com#@#a[href*=".revimedia.com/"]
 right.com.cn#@##sitefocus.focus
 ripley.cl#@#.dfp-ad-unit
 rjno1.com#@#[id^="aswift_"]
+rjno1.com#@#ins.adsbygoogle[data-ad-client]
 rjno1.com#@#main > div[class^="qnb"]
 rouwenge.vip,jpq.me#@#[class$="ad-container"]
 ruanyifeng.com#@#a > img[src*="wangbase.com/blogimg/asset/"]
