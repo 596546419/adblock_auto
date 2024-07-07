@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Nd+otETTie6RCThJswMTnw
+! Checksum: 8s/i3P6gMyrZjm2ztUN+Mw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240707093858
+! Version: 20240707162423
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-07 09:38:58
-! Total Count: 28291
+! Last modified: 2024-07-07 16:24:23
+! Total Count: 28294
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3549,6 +3549,7 @@
 ||ameidj.xyz^
 ||amerzbj.cn^
 ||amethystzenith.com^$third-party
+||amfhby.cn^
 ||amidicestrins.com^
 ||amillionads.com^
 ||ammcg.imgscloud.com/toy/
@@ -4704,6 +4705,7 @@
 ||brothersbucket.com^$third-party
 ||brotherslocket.com^$third-party
 ||browser.sentry-cdn.com^
+||brtlisv.top^
 ||brtzgnd.xyz^
 ||bruisebaseball.com^$third-party
 ||brzfqq.com^
@@ -6397,6 +6399,7 @@
 ||doujs03.xyz^
 ||doujs05.xyz^
 ||doujs06.xyz^
+||doujs07.xyz^
 ||doupocangqiong1.com/js/ptwap.js
 ||doutula.com/img/upupoo/
 ||douyin.com/api/user/getPcBanner?
