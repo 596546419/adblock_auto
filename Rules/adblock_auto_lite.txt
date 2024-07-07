@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 8s/i3P6gMyrZjm2ztUN+Mw
+! Checksum: d8BGrpq9gktaa7uILHJbBA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240707162423
+! Version: 20240708002354
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-07 16:24:23
-! Total Count: 28294
+! Last modified: 2024-07-08 00:23:54
+! Total Count: 28299
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4268,6 +4268,7 @@
 ||bdcode.youke.com^
 ||bdcpro*.techweb.com.cn^
 ||bdfg9a.icu^
+||bdfjw.cn^
 ||bdfwzt.xyz^
 ||bdgest.com/js/site.js?
 ||bdgg.qjy168.com^
@@ -15685,6 +15686,7 @@
 ||tuotianxia.top^
 ||tupian6666.com^
 ||tupian888.*.bcebos.com^
+||tupian9999.com^
 ||tuplzt.xyz^
 ||tupwiwm.com^
 ||tuqnwz.icu^
@@ -17337,6 +17339,8 @@
 ||xxxuhx.xyz^
 ||xxxvipporno.com^
 ||xxxx68xxxx.com^
+||xxxx88xxxx.com^
+||xxxx96xxxx.com^
 ||xxxxtube-porn.com/helper/tos.js
 ||xyblm.xyz^
 ||xybnfn.xyz^
@@ -24935,6 +24939,7 @@ zle.com$script
 ###piao_div_3[style*="width:140px;"]
 ###piao_div_4[style*="width:140px;"]
 ###piao_div_5[style*="width:140px;"]
+###play[style="padding: 10px;"] > a[href="/0705.html"]
 ###player-bottom-ads
 ###playerAd
 ###playerAdvLayer
