@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: lM85xbcNBQf7TSR1QTlHbA
+! Checksum: TnyYm8+AesufgNBBJ7twfQ
 ! Title: 混合规则(自动更新)
-! Version: 20240707002424
+! Version: 20240707093846
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-07 00:24:24
-! Total Count: 147613
+! Last modified: 2024-07-07 09:38:46
+! Total Count: 147650
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2336,6 +2336,7 @@
 ||54askjdklm.xyz^
 ||54dbg.xyz^
 ||54ec30c53d.com^
+||54eeeadb.xyz^
 ||54gtlb.cn^
 ||54ha.cn^
 ||54kefu.net^
@@ -3668,6 +3669,7 @@
 ||9as3.xyz^
 ||9ba159e355.com^
 ||9bbd72928f.com^
+||9bc639da.xyz^
 ||9bc94f7305.com^
 ||9bf9309f6f.com^
 ||9bph.top^
@@ -18681,7 +18683,9 @@
 ||chuyengiadinh.org^
 ||chuyentienkieuhoi247.cf^
 ||chuyentienngay.site^
+||chuyentienquocte1313.vercel.app^
 ||chuyentienquocte242.weebly.com^
+||chuyentienquoctenhanh.vercel.app^
 ||chuyentienvn.weebly.com^
 ||chuzushijian.cn^
 ||chvusgejxi.com^
@@ -29510,6 +29514,7 @@
 ||faituzou.net^
 ||faiverty-station.com^
 ||faiwastauk.com^
+||fajiafu30.com^
 ||fajukc.com^
 ||fakeerupriser.com^
 ||fakeporn.tv/js/z123.js
@@ -31084,6 +31089,7 @@
 ||focwcuj.com^
 ||fodderripeskyscraper.com^
 ||fodifhvg.com^
+||fodrxl.xyz^
 ||fodsoack.com^
 ||foerpo.com^
 ||foetusconductfold.com^
@@ -37242,6 +37248,7 @@
 ||hizanpwhexw.com^
 ||hizlireklam.com^
 ||hjalma.com^
+||hjammiz.icu^
 ||hjapi.com/v1/pageSoftText?
 ||hjdha.cn^
 ||hjdkvt.xyz^
@@ -38843,6 +38850,7 @@
 ||iauto.wang^
 ||iawfchawq.com^
 ||iaxwnffhikiac.com^
+||iazada.com^
 ||ib-ebanking.com^
 ||ib-ibi.com^
 ||ib.snssdk.com^
@@ -43240,6 +43248,7 @@
 ||jtienla.top^
 ||jtiqpdqofdlwam.com^
 ||jtjtqar.com^
+||jtkjixnmj.org^
 ||jtolkiamnax.com^
 ||jtp.expressen.se^
 ||jtpgjihhix.com^
@@ -44079,6 +44088,7 @@
 ||kengi.top^
 ||kenirqmfxniekeb.com^
 ||kenizg.com^
+||kenkenlimted.top^
 ||kennethemergedishearten.com^
 ||kenomal.com^
 ||kenoscoulee.com^
@@ -44696,6 +44706,7 @@
 ||kmrcum2.com^
 ||kmrilock.com^
 ||kmrnkjer.xyz^
+||kmruv.cn^
 ||kms-full.com^
 ||kms-tool.com^
 ||kmsofficial.org^
@@ -53364,6 +53375,7 @@
 ||nang-cap-hang-vvip-vib.com^
 ||nang-cap-ocare-vib.com^
 ||nang-cap-online-vpbank.com^
+||nang-cap-qcare-vib.com^
 ||nang-cap-the-vcare-vib.com^
 ||nang-cap-vip-vpbank.com^
 ||nang-han-muc-ido-vpbank.com^
@@ -54461,6 +54473,7 @@
 ||nhantienquocte.today^
 ||nhantienquocte249.weebly.com^
 ||nhantienquocte275.weebly.com^
+||nhantienquoctev3.vercel.app^
 ||nhantiensieutoc.com^
 ||nhantienvipay.com^
 ||nhantienvivnpay.com^
@@ -55269,6 +55282,7 @@
 ||nqrkzcd7ixwr.com^
 ||nqsc567.com^
 ||nqslmtuswqdz.com^
+||nqsncoau.buzz^
 ||nqtufgmgmjnwlj.com^
 ||nqtxg.xyz^
 ||nqvlkmmti.com^
@@ -69068,6 +69082,7 @@
 ||selectroduced.com^
 ||selectthrow.com^
 ||selecttopoff.com^
+||seleeashopee.com^
 ||selenaroberta.com^
 ||selfasheode.work^
 ||selfassuredcriticism.pro^
@@ -69109,6 +69124,7 @@
 ||semasio.net^
 ||semblanceafford.com^
 ||semblanceindulgebellamy.com^
+||semhgk.xyz^
 ||semicircleanalyzerequire.com^
 ||semicircledata.com^
 ||semicolondeterminationfaded.com^
@@ -72873,6 +72889,7 @@
 ||sqhyjfbckqrxd.xyz^
 ||sqjyxoqdckusm.com^
 ||sqkrnqdb.com^
+||sql.onlyslq.lol^
 ||sqlekbxp.xyz^
 ||sqlick.com^
 ||sqmhxxhpcmwwdn.com^
@@ -75121,6 +75138,7 @@
 ||syetmpdktjeor.com^
 ||sygmtz.com^
 ||syinga.com^
+||syislob.top^
 ||syiwgwsqwngrdw.xyz^
 ||syjkscy.cn^
 ||sykfmgu.com^
@@ -76178,6 +76196,7 @@
 ||tdkd08.com^
 ||tdkt00.com^
 ||tdkt01.com^
+||tdkt06.com^
 ||tdljuuw.xyz^
 ||tdlyfz.xyz^
 ||tdmd.us^
@@ -77595,6 +77614,7 @@
 ||tingyun.com^$third-party
 ||tingyusw.xyz^
 ||tinhay24h.pro^
+||tinhot24h.website^
 ||tinhothomnay.com^
 ||tinhotnew.com^
 ||tinkermockingmonitor.com^
@@ -79916,6 +79936,7 @@
 ||truceforensicswaterfall.com^
 ||trucemallow.website^
 ||truckstomatoes.com^$third-party
+||tructuyen-uudai-thekhachhang.com^
 ||truculentrate.com^$third-party
 ||truecrimesss.com^
 ||truegifstandmore.com^
@@ -81313,6 +81334,7 @@
 ||umvibwqrumfqk.com^
 ||umwiba.com^
 ||umwmwxpivtwkyo.xyz^
+||umyugu88.ru^
 ||un.salangane.asia^
 ||un.ubaike.cn^
 ||un1.lawyernet.cn^
@@ -82317,6 +82339,7 @@
 ||uuaoy.com^
 ||uuboos.com^
 ||uucfeebvz.com^
+||uudai-tructuyen-chamsockhachhang-the.com.vn^
 ||uudailienquan.com^
 ||uudainapthe.vn^
 ||uudainganhang.com^
@@ -83355,6 +83378,7 @@
 ||vg4u8rvq65t6.com^
 ||vg99.co^
 ||vgao.xyz/images/*.gif
+||vgbfurkmbjw.org^
 ||vgfeuwrewzzmc.com^
 ||vgg5.cn^
 ||vggg5.space^
@@ -83429,6 +83453,7 @@
 ||vib-mydiamon-khcn-uutien-vnc1.com^
 ||vib-nang-the.com^
 ||vib-nangcap.com^
+||vib-solution.shop^
 ||vib-tindung-khcn.com^
 ||vib-tindung.click^
 ||vib-tindung.online^
@@ -84383,6 +84408,7 @@
 ||vn11568p.com^
 ||vn119shop.com^
 ||vn147258p.com^
+||vn156475p.com^
 ||vn168d.com^
 ||vn22647shp.com^
 ||vn268.com^
@@ -88718,6 +88744,7 @@
 ||xnnews.com.cn/adgl/
 ||xnnews.com.cn/tpl/material/
 ||xnpuw.cn^
+||xnqwuwlq.org^
 ||xnrcnz.xyz^
 ||xnrowzw.com^
 ||xnszbmnxuzfvr.com^
@@ -89000,6 +89027,7 @@
 ||xuxiaoran.xyz^
 ||xuxjaqp.cn^
 ||xuxs.site^
+||xuxwvh.xyz^
 ||xuyanlong1.cn^
 ||xuzeez.com^
 ||xuzhi.net/uploadfile/poster/960x50.jpg
@@ -89116,6 +89144,7 @@
 ||xxslu.space^
 ||xxsmad1.com^
 ||xxsmad2.com^
+||xxsmad3.com^
 ||xxsmcps.com^
 ||xxtalp.xyz^
 ||xxvkwuk.cn^
@@ -94456,6 +94485,7 @@ applefans.today#$#.tipi-overlay { display: none !important; }
 applefans.today,ulifestyle.com.hk#$#body { overflow: auto !important; }
 appleinsider.com##.exclusive-wrap
 appleinsider.com##.push
+appleinsider.com##div[style^="text-align:center;border-radius:0;"]
 appleinsider.com,dappradar.com,euroweeklynews.com,sitepoint.com,thefinancialbrand.com,tld-list.com##[rel*="sponsored"]
 appleinsider.com,gter.net##.bottom
 appleworld.today###block-26
@@ -100285,6 +100315,7 @@ gpcxw.com###ad_dl2
 gpcxw.com##table[width="960"][height="90"]
 gpfans.com##.advertise-panel
 gpfans.com##.leaderboardbg
+gpro.net##.boxy:has(#blockblockA)
 gpshk.cc,ld0766.com,oneplusbbs.com,wstx.com,xiaot.com###diy4
 gpshk.cc,yxzp.net##img[width="770"]
 gpsreview.net###lead
@@ -103450,6 +103481,7 @@ localjewishnews.com##div[class^="local-feed-banner-ads"]
 localking.com.tw###adbannerurl
 localtiger.com##.a9gy_lt
 locklab.com##.picwrap
+locksmithledger.com##.gam-slot-builder
 lofter.com##.js-promote-itm
 logi.im##body > div[style^="background: black; position: fixed; "][style*="opacity: 0.5; z-index: 1999;"]
 logo160.com##script + a[href="/"]
@@ -104071,6 +104103,7 @@ memedroid.com##div[id^="freestar-ad-"]
 memes.tw##.nice-box
 memexie.com##div[style^="width:9"][style$="#C8E4F0"]
 mengzhan123.com,mengzhan521.com##a[href^="http"]:not([href*="mengzhan"]) > img[src^="http"]
+mentalfloss.com##.ad_1tdq7q5
 mentalfloss.com##.style_k8mr7b-o_O-style_uhlm2
 mentalmars.com##.menta-target
 mercurynews.com,nssmag.com##.header-banners
@@ -104779,7 +104812,7 @@ nanoreview.net##.sinad_only_desktop
 nanoreview.net##.sinad_only_mobile
 nanrenwo.net##div[id^="content"]
 naozhong.net.cn###pnl-ne0n
-narcity.com###leaderboard-wrapper
+narcity.com,washingtonpost.com###leaderboard-wrapper
 narkive.com##a[href^="https://rfnm.io/?"]
 narutofan.com###right-spon
 nashfm100.com##div[onclick*="https://deucepub.com/"]
@@ -142981,9 +143014,11 @@ zle.com$script
 ##[data-freestar-ad][id]
 ##[data-group^="ad_chapter_top"]
 ##[data-id^="div-gpt-ad"]
+##[data-identity="adhesive-ad"]
 ##[data-m-ad-id]
 ##[data-mobile-ad-id]
 ##[data-name="adaptiveConstructorAd"]
+##[data-rc-widget="data-rc-widget"]
 ##[data-rc-widget]
 ##[data-revive-zoneid]
 ##[data-revive-zoneid] > iframe
@@ -142991,6 +143026,7 @@ zle.com$script
 ##[data-template-type="nativead"]
 ##[data-testid="adBanner-wrapper"]
 ##[data-testid="ad_testID"]
+##[data-testid="prism-ad-wrapper"]
 ##[data-type="ad-vertical"]
 ##[data-wpas-zoneid]
 ##[href*="//ad.addizhi."][href$=".html"]
@@ -146440,6 +146476,7 @@ zle.com$script
 @@||doubleclick.net/instream/ad_status.js$domain=investing.com
 @@||douyucdn.cn^*-share-master/
 @@||down.cc/down/js/ad.js
+@@||download.megaup.net/openads.js$script,~third-party
 @@||download.mokeedev.com^$genericblock,generichide
 @@||dqzsteel.com/Website/Image/guanggao/
 @@||duelmeta.com^$generichide

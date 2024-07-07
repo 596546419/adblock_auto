@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: A9GzYg7T+WFhB9jua4ICtQ
+! Checksum: Nd+otETTie6RCThJswMTnw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240707002435
+! Version: 20240707093858
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-07 00:24:35
-! Total Count: 28283
+! Last modified: 2024-07-07 09:38:58
+! Total Count: 28291
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7331,6 +7331,7 @@
 ||foamyfood.com^$third-party
 ||fobshanghai.com/bbsad/
 ||focas.jp^
+||fodrxl.xyz^
 ||fogolakda.top^
 ||foirkrt.icu^
 ||foizico.cn^
@@ -8465,6 +8466,7 @@
 ||hitime5.com/skin/css/*.js
 ||hitubt.xyz^
 ||hixutb.xyz^
+||hjammiz.icu^
 ||hjdha.cn^
 ||hjdkvt.xyz^
 ||hjfile.cn/analytics/site/TrackEvent.js
@@ -10103,6 +10105,7 @@
 ||kmr.rsvqlz.cn^
 ||kmr.vcunkbo.cn^
 ||kmr.wdjptto.cn^
+||kmruv.cn^
 ||kmu.gwmrb.cn^
 ||kmw.com/js/adshow
 ||kmwclt.xyz^
@@ -14076,6 +14079,7 @@
 ||selfishsea.com^$third-party
 ||selfishsnake.com^$third-party
 ||semaobf1.com^
+||semhgk.xyz^
 ||sensifyfugged.com^
 ||sensors.larkplayerapp.com^
 ||sensorsmile.com^$third-party
@@ -14993,6 +14997,7 @@
 ||sxoejoc.icu^
 ||sxtnpzd.xyz^
 ||sxundrh.cn^
+||syislob.top^
 ||syiwgwsqwngrdw.xyz^
 ||syjkscy.cn^
 ||symbolizebeast.com^$third-party
@@ -17272,6 +17277,7 @@
 ||xuruochen.cn^
 ||xuwfmhh.icu^
 ||xuxiaoran.xyz^
+||xuxwvh.xyz^
 ||xuyanlong1.cn^
 ||xuzhi.net/uploadfile/poster/960x50.jpg
 ||xuzsdn.xyz^
@@ -17323,6 +17329,7 @@
 ||xxp123.live^
 ||xxsmad1.com^
 ||xxsmad2.com^
+||xxsmad3.com^
 ||xxtalp.xyz^
 ||xxxuhx.xyz^
 ||xxxvipporno.com^
@@ -28125,6 +28132,7 @@ zle.com$script
 @@||dbz-fantasy.com/ads.css
 @@||dl.phncdn.com/pics/$domain=pornhub.com|pornhub.org|pornhub.net
 @@||docs.w3cub.com^$generichide
+@@||download.megaup.net/openads.js$script,~third-party
 @@||en.bongacash.com/js/videojs/video.js$domain=pornsocket.com
 @@||en.bongacash.com/js/videojs/videojs_*.vast.vpaid.min.js$domain=pornsocket.com
 @@||ency-educ.com^$generichide
