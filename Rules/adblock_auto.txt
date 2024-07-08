@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 2ANtvU6UQoljItETatHC1w
+! Checksum: QJPCI030EFF40AsncRJomA
 ! Title: 混合规则(自动更新)
-! Version: 20240708092817
+! Version: 20240708162707
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-08 09:28:17
-! Total Count: 147699
+! Last modified: 2024-07-08 16:27:07
+! Total Count: 147701
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -93762,7 +93762,7 @@ aarp.org##.hot-deals
 abbaspc.net##.buttonPress-116
 abbotsfordgasprices.com,albertagasprices.com,barriegasprices.com,bcgasprices.com,calgarygasprices.com,edmontongasprices.com,gasbuddy.com,halifaxgasprices.com,hamiltongasprices.com,kwgasprices.com,londongasprices.com,manitobagasprices.com,montrealgasprices.com,newbrunswickgasprices.com,newfoundlandgasprices.com,novascotiagasprices.com,nwtgasprices.com,ontariogasprices.com,ottawagasprices.com,peigasprices.com,quebeccitygasprices.com,quebecgasprices.com,reginagasprices.com,saskatoongasprices.com,saskgasprices.com,torontogasprices.com,vancouvergasprices.com,victoriagasprices.com,winnipeggasprices.com###divSky
 abbreviations.com,definitions.net,grammar.com,kamus.net,lyrics.com,rhymes.net,scripts.com,symbols.com###sela-container
-abbynews.com,biv.com,lakelandtoday.ca,orilliamatters.com,reddeeradvocate.com,sootoday.com,theprogress.com,time.com,timescolonist.com,vancouverisawesome.com,vicnews.com###leaderboard-container
+abbynews.com,biv.com,kelownacapnews.com,lakelandtoday.ca,orilliamatters.com,reddeeradvocate.com,sootoday.com,theprogress.com,time.com,timescolonist.com,vancouverisawesome.com,vicnews.com###leaderboard-container
 abc-fonts.me###galepro-core-adb-enabled
 abc-people.com##div[style*="background-color"][style*="position"][style*="z-index"]
 abcnews.go.com##[data-testid="prism-static-embed"]
@@ -97542,6 +97542,7 @@ dailysabah.com###id_d_300x250
 dailysocial.id###home-ads
 dailysocial.id##.banner-ads
 dailysocial.id##.news__detail-ads-subs
+dailytrust.com##.header__advert
 dailytrust.com,thequint.com###unitDivWrapper-0
 dailyuploads.net##a[href="https://aptoze.com/"]
 dailyuploads.net##a[href^="https://ninjapcsoft.com/"]
@@ -103091,6 +103092,7 @@ kshow123.tv###ab-sider-bar
 ksl.com##.gfp-slot
 ksl.com##.queue:has(.sponsored)
 ksstradio.com###footer-widgets
+kstp.com###Header_1
 kt51.com,nfstar.net,xgan.cn,xxdm.in,yhdmw.com##.bottom_fixed
 ktbs.com###sticky-anchor
 ktkkt.com##.top980
@@ -108042,6 +108044,7 @@ shushudu.com##[style*="width:"][style*="100%"],[style*="width:"][style*="99%"],[
 si.com###mmvid
 si.com##.l-inline.m-detail--feature-container
 si.com##.m-balloon-header--spacer
+si.com##[data-target="ad"]
 siasat.com###tie-block_3274
 siasat.com##.awt_ad_code
 siasat.com##.stream-item-below-post-content
@@ -108901,7 +108904,6 @@ swfchan.com,tokder.org###aaaa
 swimcompetitive.com##.waldo-display-unit
 swimcompetitive.com##[href^="https://www.swimoutlet.com/"]
 swimsuit.si.com##.style_hfl21i-o_O-style_uhlm2
-swimsuit.si.com##[data-target="ad"]
 swimswam.com##.homepage_block_ads
 swimswam.com##.polls-461
 swimswam.com##.swimswam-acf
