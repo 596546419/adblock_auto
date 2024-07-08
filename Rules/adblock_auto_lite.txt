@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: HfBC9yTD39HfNvRiRLfN4g
+! Checksum: 8D+8WibaPm+uCo+58hEWlw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240708162718
+! Version: 20240709002629
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-08 16:27:18
-! Total Count: 28304
+! Last modified: 2024-07-09 00:26:29
+! Total Count: 28309
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7150,6 +7150,7 @@
 ||faxingw.cn/js/detailgcbox.js
 ||fbasd.qwoudjbk.com^$third-party
 ||fbfrbt.xyz^
+||fbqrt.cn^
 ||fbtntwevnfq.com/*/android.apk?$document
 ||fbtntwevnfq.com/*/android.apk?$~third-party
 ||fbvskv3.com^
@@ -9477,6 +9478,7 @@
 ||jgntjtyf.icu^
 ||jgsajfggv.xyz^
 ||jgstny.com^$third-party
+||jgvkxp.xyz^
 ||jgygtv.cn^
 ||jh16csf.com^
 ||jhfcll.cn^
@@ -11487,6 +11489,7 @@
 ||mrqbuf.xyz^
 ||mrs30w.com^
 ||mrthav.xyz^
+||mrtlisx.top^
 ||mrtxtrq.xyz^
 ||mryqtym.cn^
 ||ms*.applvn.com^
@@ -15349,6 +15352,7 @@
 ||threrlak.com^
 ||throattrees.com^$third-party
 ||thruudrad.com^
+||thumbor.4gamers.com.tw/*/*ads-media*.png
 ||thumbor.prod.vidiocdn.com/*/uploads/section/background_image/*/rejoice-vidio-drakor-gratis-*.jpg
 ||thunderingrose.com^$third-party
 ||thunderingtendency.com^$third-party
@@ -16854,6 +16858,7 @@
 ||wuge20230104.live^
 ||wuhaolin.cn/c/ls
 ||wuifbjdswsl.com^
+||wuisaq.top^
 ||wujinzy.com/images/ok.gif
 ||wujiupic.com^
 ||wukq.cn^

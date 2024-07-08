@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: QJPCI030EFF40AsncRJomA
+! Checksum: /qQuN5p0jhd3K1pirfxcFA
 ! Title: 混合规则(自动更新)
-! Version: 20240708162707
+! Version: 20240709002617
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-08 16:27:07
-! Total Count: 147701
+! Last modified: 2024-07-09 00:26:17
+! Total Count: 147710
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -29821,6 +29821,7 @@
 ||fbnztqwlirf.com^
 ||fbookisrael.com^
 ||fbpgdlprsiz.com^
+||fbqrt.cn^
 ||fbrheofkccovs.xyz^
 ||fbroxaiityhkz.com^
 ||fbthirdpartypixel.com^
@@ -30103,6 +30104,7 @@
 ||femin.online^
 ||femininetextmessageseducing.com^
 ||femoafoo.com^
+||femqrjwnk.xyz^
 ||femsoahe.com^
 ||femsurgo.com^
 ||fenacheaverage.com^
@@ -42267,6 +42269,7 @@
 ||jgstny.com^
 ||jgstny.com^$third-party
 ||jgszymcphwcege.com^
+||jgvkxp.xyz^
 ||jgwzicuxjuckd.com^
 ||jgxavkopotthxj.xyz^
 ||jgydqhp.com^
@@ -52429,6 +52432,7 @@
 ||mrtbbnr.com^
 ||mrtbbnrdip.com^
 ||mrthav.xyz^
+||mrtlisx.top^
 ||mrtnsvr.com^
 ||mrtxtrq.xyz^
 ||mrvio.com^
@@ -67146,6 +67150,7 @@
 ||routierbefit.space^
 ||routinecloudycrocodile.com^
 ||routingcalyces.top^
+||routowoashie.xyz^
 ||rouvoute.net^
 ||rouwenge.vip/astyle/$script
 ||rouwhapt.com^
@@ -72986,6 +72991,7 @@
 ||srrmpfstbh.com^
 ||srshqnrmqs.com^
 ||srsotqdgln.com^
+||srtb.msn.cn^
 ||srtb.msn.com^
 ||srtlyye.com^
 ||srtrak.com^
@@ -77230,6 +77236,7 @@
 ||thuliagum.com^
 ||thulrlidos.com^
 ||thumbnail-galleries.net^
+||thumbor.4gamers.com.tw/*/*ads-media*.png
 ||thumbor.prod.vidiocdn.com/*/uploads/section/background_image/*/rejoice-vidio-drakor-gratis-*.jpg
 ||thumeezy.xyz^
 ||thump-night-stand.com^
@@ -87623,6 +87630,7 @@
 ||wuhaolin.cn/c/ls
 ||wuidtethhkcko.com^
 ||wuifbjdswsl.com^
+||wuisaq.top^
 ||wujinzy.com/images/ok.gif
 ||wujiupic.com^
 ||wujrx.xyz^
@@ -95341,6 +95349,7 @@ bestjavporn.com,javxxx.me,javhdporn.net###player_3x2_container_inner
 bestlifeonline.com,eatthis.com##.inline
 bestlifeonline.com,eatthis.com,hellogiggles.com##.vi-video-wrapper
 bestlifeonline.com,hellogiggles.com##.widget_gm_karmaadunit_widget
+bestoftelegram.com##a[href^="/ads/banner_ads?"]
 bestopview.com###pubtextnone
 bestopview.com##.Adv_c
 bestporn.su##.prefixav-player-promo-col
