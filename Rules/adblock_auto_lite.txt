@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: d8BGrpq9gktaa7uILHJbBA
+! Checksum: 8nRIr9RM1cAi3sa7PlTqbg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240708002354
+! Version: 20240708092829
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-08 00:23:54
-! Total Count: 28299
+! Last modified: 2024-07-08 09:28:29
+! Total Count: 28304
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1613,6 +1613,7 @@
 ||aclsx.cn^
 ||acode.b2b.cn/JS/
 ||acodes.b2b.cn^
+||acqaghx.icu^
 ||acqc9.com^
 ||acridtwist.com^$third-party
 ||acsc10.com^
@@ -6917,6 +6918,7 @@
 ||eqcwpeo.cn^
 ||eqghuu.com^
 ||eqknlsw.xyz^
+||eqkvks.xyz^
 ||eqqi.cn^
 ||eqqwgw.xyz^
 ||equablekettle.com^$third-party
@@ -10494,6 +10496,7 @@
 ||lgoewtd.icu^
 ||lgohse.fun^
 ||lgoseh.fun^
+||lgpjw.cn^
 ||lgtpdt.xyz^
 ||lguaud.icu^
 ||lh168.net^*/attachment/portal/
@@ -11999,6 +12002,7 @@
 ||nychinaren.com/houbei/
 ||nycp-hlb.dvgtm.akadns.net^
 ||nyfgpbsc.xyz^
+||nyfstb.xyz^
 ||nyhgjmlg.xyz^
 ||nyhgvn.xyz^
 ||nykvdwi.cn^
@@ -14028,6 +14032,7 @@
 ||sdfxcv.com^
 ||sdfxv57.com^
 ||sdfyiu.com^
+||sdipsumb.top^
 ||sdjbcjsbdjk.com^
 ||sdjbvjsbvjz.com^
 ||sdjbvskjvds.com^

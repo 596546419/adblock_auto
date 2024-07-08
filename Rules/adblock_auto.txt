@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ITZE84eehrBfL5dm7umzRw
+! Checksum: 2ANtvU6UQoljItETatHC1w
 ! Title: 混合规则(自动更新)
-! Version: 20240708002343
+! Version: 20240708092817
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-08 00:23:43
-! Total Count: 147673
+! Last modified: 2024-07-08 09:28:17
+! Total Count: 147699
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4589,6 +4589,7 @@
 ||acetalsunbait.com^
 ||acetrk.com^
 ||acexedge.com^
+||acf705ad.xyz^
 ||acfaaoaaxdqm.com^
 ||acfsxqoa.com^
 ||acftxqqg.com^
@@ -4670,6 +4671,7 @@
 ||acoudsoarom.com^
 ||acpakrjzyamb.com^
 ||acq.io^
+||acqaghx.icu^
 ||acqc9.com^
 ||acqmeaf.com^
 ||acquaintanceexemptspinach.com^
@@ -8881,6 +8883,7 @@
 ||anaemiaperceivedverge.com^
 ||anahausatd.com^
 ||anahitagirted.uno^
+||anal.doubledouble.top^
 ||anal.sataniskwijt.be^
 ||analights.com^
 ||analitica.webrpp.com^
@@ -8914,10 +8917,12 @@
 ||analyti.io^
 ||analytic-client.cuntempire.com^
 ||analytic-client.playful-fairies.com^
+||analytic.angiang.gov.vn^
 ||analytic.baodantoc.vn^
 ||analytic.imlive.com^
 ||analytic.magland.ir^
 ||analytic.press^
+||analytic.proxyme.link^
 ||analytic.rocks^
 ||analytic.rollout.io^
 ||analytic.thuanbui.me^
@@ -9101,6 +9106,7 @@
 ||analytics.enjoymobiserver.com^
 ||analytics.erepublic.com^
 ||analytics.evgcdn.net^
+||analytics.evn.com.vn^
 ||analytics.fabricators.ltd^
 ||analytics.facebook.com^
 ||analytics.faceitanalytics.com^
@@ -9373,6 +9379,7 @@
 ||analytics.ubports.com^
 ||analytics.unand.ac.id^
 ||analytics.undeco.se^
+||analytics.ungdungtructuyen.vn^
 ||analytics.unibuddy.co^
 ||analytics.unilogcorp.com^
 ||analytics.upworthy.com^
@@ -9417,6 +9424,7 @@
 ||analytics.yts.vn^
 ||analytics.zapps.me^
 ||analytics.zapps.vn^
+||analytics.zatomac.vn^
 ||analytics.zg-api.com^
 ||analytics.ziftsolutions.com^
 ||analytics.zim.vn^
@@ -23408,6 +23416,7 @@
 ||delivery-pc.wasu.cn/d/frontJs/3.0$rewrite=abp-resource:blank-js,domain=wasu.cn
 ||delivery-pc.wasu.cn/d/js/
 ||delivery.akadigital.vn^
+||delivery.doisongphapluat.com.vn^
 ||delivery.momentummedia.com.au^
 ||delivery.playallvideos.com^
 ||delivery.porn.com^
@@ -28044,6 +28053,7 @@
 ||eqkjmvkkmvvkj.top^
 ||eqknlsw.xyz^
 ||eqktmnuojibw.com^
+||eqkvks.xyz^
 ||eqmx04n5s0.ru^
 ||eqmyjnyjzqzkl.top^
 ||eqngcxaaw.com^
@@ -28573,6 +28583,7 @@
 ||event-service.letslinc.com^
 ||event-stream.spot.im^
 ||event-tracking.deliverr.com^
+||event-tracking.hellohealthgroup.com^
 ||event.api.drift.com^
 ||event.chitai-gorod.ru^
 ||event.condenastdigital.com^
@@ -46591,6 +46602,7 @@
 ||lgoewtd.icu^
 ||lgohse.fun^
 ||lgoseh.fun^
+||lgpjw.cn^
 ||lgqffscxfqv.com^
 ||lgqqhbnvfywo.com^
 ||lgqwdzexjo.com^
@@ -49075,6 +49087,7 @@
 ||ma.baiducdn2.com^*/main.js?t=
 ||ma.logsss.com^
 ||ma.news.naver.com^
+||ma.tgdd.vn^
 ||ma.zoho.eu^
 ||ma1.meishij.net^
 ||ma2gs3wne3gfej70osium.com^
@@ -49749,6 +49762,7 @@
 ||matomo.*.vn^
 ||matomo.a1.by^
 ||matomo.aksorn.com^
+||matomo.bantheme.xyz^
 ||matomo.chsc.dk^
 ||matomo.cloud^
 ||matomo.cloudfront.similarweb.io^
@@ -55673,6 +55687,7 @@
 ||nyetm2mkch.com^
 ||nyfgpbsc.xyz^
 ||nyfoknamlrqxc.com^
+||nyfstb.xyz^
 ||nygwcwsvnu.com^
 ||nyhgjmlg.xyz^
 ||nyhgvn.xyz^
@@ -60205,6 +60220,7 @@
 ||pixel.homebook.pl^
 ||pixel.honestjohn.co.uk^
 ||pixel.inforsea.com^
+||pixel.innocom.vn^
 ||pixel.ionos.com^
 ||pixel.ipinfo.io^
 ||pixel.klout.com^
@@ -68773,6 +68789,7 @@
 ||sdhltncfqbu.com^
 ||sdhongjia.com^
 ||sdhzstone.net^
+||sdipsumb.top^
 ||sdjbcjsbdjk.com^
 ||sdjbvjsbvjz.com^
 ||sdjbvskjvds.com^
@@ -69223,6 +69240,7 @@
 ||seo-overview.com^
 ||seo-sport.ru^
 ||seo.arxua.com^
+||seo.cloud.edu.vn^
 ||seo.compado.com^
 ||seo.linel.top^
 ||seoab.io^
@@ -74396,6 +74414,7 @@
 ||subnewss*.net^
 ||subnodeoaring.digital^
 ||suborecho.com^
+||subot.hellobacsi.com^
 ||subpenaveinery.com^
 ||subpixel.4players.de^
 ||subquerieshenceforwardtruthfully.com^
@@ -76293,6 +76312,7 @@
 ||techantuijian.com^
 ||techbeat.com^
 ||techclicks.net^
+||techcombank.hicam.net^
 ||techcombank.ngan-hang.net^
 ||techcombank.site^
 ||techcombank.vn-ol.top^
@@ -78753,6 +78773,7 @@
 ||track.realtimeboard.com^
 ||track.rheinpfalz.de^
 ||track.robee.tech^
+||track.saigon.pro^
 ||track.saygames.io^
 ||track.searchiq.co^
 ||track.segmentstream.com^
@@ -79266,6 +79287,7 @@
 ||tracking.trelleborgsallehanda.se^
 ||tracking.trnox.com^
 ||tracking.trovaprezzi.it^
+||tracking.tuyenquang.gov.vn^
 ||tracking.tv.zing.vn^
 ||tracking.tvet-vietnam.org^
 ||tracking.tving.com^
@@ -79412,6 +79434,7 @@
 ||traffic.club^
 ||traffic.feedremedy.com^
 ||traffic.name^
+||traffic.nvcms.net^
 ||traffic.pinklabel.com^
 ||traffic.prod.cobaltgroup.com^
 ||traffic.ru^
@@ -85752,6 +85775,7 @@
 ||web-affiliation.com^
 ||web-analytic.ghtk.vn^
 ||web-analytics.ica.se^
+||web-analytics.mona.host^
 ||web-boosting.net^
 ||web-counter.net^
 ||web-device-id.banggood.com^
@@ -92382,7 +92406,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 126.com,163.com##.gWel-promt
 1280wnam.com##a[href^="http://www.milwaukeezoo.org/visit/animals/"]
 1280wnam.com##a[href^="https://wistatefair.com/fair/tickets/"]
-12news.com,9news.com,9to5google.com,9to5mac.com,aad.org,advfn.com,all3dp.com,allaboutcookies.org,allnovel.net,amny.com,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,biznews.com,bolavip.com,businessinsider.com,cbs8.com,cc.com,ccjdigital.com,computerworld.com,coomer.party,coomer.su,dailytrust.com,delish.com,driven.co.nz,ecr.co.za,electrek.co,empireonline.com,engineeringnews.co.za,equipmentworld.com,etcanada.com,fastcompany.com,footyheadlines.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,globalspec.com,gmanetwork.com,grammarbook.com,hbr.org,howstuffworks.com,huffpost.com,insidehook.com,insider.com,intouchweekly.com,kemono.party,kemono.su,khou.com,koat.com,ktvu.com,lifeandstylemag.com,longislandpress.com,macstories.net,mail.com,mangakakalot.app,memuplay.com,metro.us,metrophiladelphia.com,minecraftforum.net,miningweekly.com,mixed-news.com,mobilesyrup.com,modernhealthcare.com,msnbc.com,my9nj.com,myfitnesspal.com,namemc.com,nbcnews.com,newrepublic.com,newtalk.tw,nzherald.co.nz,oneesports.gg,opb.org,outkick.com,papermag.com,phbzj.com,physiology.org,pics-x.com,pinflix.com,pixiv.net,punchng.com,qns.com,realsport101.com,reason.com,refinery29.com,roadandtrack.com,scroll.in,sdhentai.com,seattletimes.com,slideshare.net,songkick.com,sportskeeda.com,thebaltimorebanner.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,themarketherald.ca,thenationonlineng.net,thenewstack.io,tmz.com,toofab.com,tool.lu,uploadvr.com,urlgalleries.net,usmagazine.com,vanguardngr.com,wildtangent.com,wogx.com,worldsoccertalk.com,wral.com##.ad-container
+12news.com,9news.com,9to5google.com,9to5mac.com,aad.org,advfn.com,all3dp.com,allaboutcookies.org,allnovel.net,amny.com,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,biznews.com,bolavip.com,businessinsider.com,cbs8.com,cc.com,ccjdigital.com,computerworld.com,coomer.party,coomer.su,dailytrust.com,delish.com,driven.co.nz,ecr.co.za,electrek.co,empireonline.com,engineeringnews.co.za,equipmentworld.com,etcanada.com,fastcompany.com,footyheadlines.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,globalspec.com,gmanetwork.com,grammarbook.com,hbr.org,highdefdigest.com,howstuffworks.com,huffpost.com,insidehook.com,insider.com,intouchweekly.com,kemono.party,kemono.su,khou.com,koat.com,ktvu.com,lifeandstylemag.com,longislandpress.com,macstories.net,mail.com,mangakakalot.app,memuplay.com,metro.us,metrophiladelphia.com,minecraftforum.net,miningweekly.com,mixed-news.com,mobilesyrup.com,modernhealthcare.com,msnbc.com,my9nj.com,myfitnesspal.com,namemc.com,nbcnews.com,newrepublic.com,newtalk.tw,nzherald.co.nz,oneesports.gg,opb.org,outkick.com,papermag.com,phbzj.com,physiology.org,pics-x.com,pinflix.com,pixiv.net,punchng.com,qns.com,realsport101.com,reason.com,refinery29.com,roadandtrack.com,scroll.in,sdhentai.com,seattletimes.com,slideshare.net,songkick.com,sportskeeda.com,thebaltimorebanner.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,themarketherald.ca,thenationonlineng.net,thenewstack.io,tmz.com,toofab.com,tool.lu,uploadvr.com,urlgalleries.net,usmagazine.com,vanguardngr.com,wildtangent.com,wogx.com,worldsoccertalk.com,wral.com##.ad-container
 12tomatoes.com###footboard
 12tomatoes.com,allwomenstalk.com,bloomberg.com,datpiff.com,logotv.com,newcartestdrive.com,news.sky.com,news.tvguide.co.uk,onthesnow.ca,onthesnow.co.nz,onthesnow.co.uk,onthesnow.com,onthesnow.com.au,penny-arcade.com,postyourpuss.com,publishersweekly.com,skysports.com,stuff.tv,thedrinknation.com,theserverside.com,whitepages.ae###leaderboard
 131458.com###header_gg
@@ -100945,6 +100969,7 @@ hifi-classic.net##.ad--google_adsense > .ad--google_adsense
 hifi-classic.net##.ad--google_adsense_bottom
 hifidiy.net###part_left2
 hifidiy.net###part_right_gg7
+highdefdigest.com##.hdd-square-ad
 highporn.net##.banner-a
 highporn.net##a[href^="https://media.r18.com/"]
 highporn.net,javfor.tv,javhub.net##.fel-playclose
@@ -134148,6 +134173,7 @@ zle.com$script
 ##.adheightpromo
 ##.adheighttall
 ##.adherebox
+##.adhesion
 ##.adhesion-block
 ##.adhesion-header
 ##.adhesion.orange.horizontal.sporcle-promo
