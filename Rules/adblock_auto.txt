@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Vyus57OamXKZ2RSfMDjhSA
+! Checksum: C+VDazAdWQGQUeSHxOFu1g
 ! Title: 混合规则(自动更新)
-! Version: 20240709092720
+! Version: 20240709162649
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-09 09:27:20
-! Total Count: 147720
+! Last modified: 2024-07-09 16:26:49
+! Total Count: 147734
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -12375,6 +12375,7 @@
 ||baijs03.xyz^
 ||baijs05.xyz^
 ||baijs06.xyz^
+||baijs07.xyz^
 ||baikalize.com^
 ||baike.com/iframeheightforad.
 ||baike.com/newtop/news.html
@@ -36883,6 +36884,7 @@
 ||hfnzhczqgdp.com^
 ||hforuvqrgyvbspi.xyz^
 ||hfoyjg.cn^
+||hfptbb.cn^
 ||hfpuhwqi.xyz^
 ||hfqdipw.cn^
 ||hfqjfnswctf.xyz^
@@ -83413,6 +83415,7 @@
 ||vftbnl.com^
 ||vfthr.com^
 ||vftqmnqopdf.xyz^
+||vftvbx.xyz^
 ||vfvad.top^
 ||vfvdsati.com^
 ||vfvvhywsdons.com^
@@ -93789,6 +93792,8 @@ abcnews.go.com##div[style^="min-height: 90px"]
 abcnews.go.com,edarabia.com##.leaderboard-970
 abcya.com##.a-leader
 abcya.com##.a-skyscraper
+abergavennychronicle.com,tenby-today.co.uk##.MPUstyled__MPUWrapper-sc-1cdmm4p-0
+abergavennychronicle.com,tenby-today.co.uk##.TopBannerstyled__Wrapper-sc-x2ypns-0
 ablesci.com##.able-container-body-right > div.fly-panel:has(> div[style="text-align: center; padding: 5px"] > img[src$="-alipay-hongbao.png"])
 ablesci.com##.fly-panel img[src*="-alipay-autumn-hongbao.png"]
 ablesci.com#?#.able-container-body-right > .fly-panel:has(> div > img[src*="-alipay-autumn-hongbao.png"])
@@ -93938,7 +93943,7 @@ advocate.com,out.com##.ourSponsors
 adweek.com##.htl-ad-wrapper
 adx.dlads.cn
 adxvip.com
-adz7short.space,agcanada.com,allmusic.com,allrecipes.com,allthatsinteresting.com,autoaction.com.au,autos.ca,ballstatedaily.com,bdonline.co.uk,boardgamegeek.com,bravewords.com,broadcastnow.co.uk,cantbeunseen.com,carsguide.com.au,cattime.com,chairmanlol.com,chemistryworld.com,chron.com,citynews.ca,coinranking.com,comingsoon.net,coolmathgames.com,countle.com,crn.com.au,diyfail.com,dogtime.com,drugtargetreview.com,edmunds.com,europeanpharmaceuticalreview.com,explainthisimage.com,foodandwine.com,foodista.com,forum.xda-developers.com,freshbusinessthinking.com,funnyexam.com,funnytipjars.com,gamesindustry.biz,gmanetwork.com,hardware.info,iamdisappoint.com,imedicalapps.com,itnews.asia,itnews.com.au,japanisweird.com,jta.org,legion.org,lifezette.com,lightnovelworld.com,liveoutdoors.com,macleans.ca,milesplit.com,monocle.com,morefailat11.com,moviemistakes.com,nbl.com.au,nfcw.com,objectiface.com,passedoutphotos.com,picmix.com,playstationlifestyle.net,pornsfw.com,precisionvaccinations.com,retail-week.com,rollcall.com,roulettereactions.com,searchenginesuggestions.com,shinyshiny.tv,shitbrix.com,short.croclix.me,sparesomelol.com,spoiledphotos.com,spokesman.com,sportsnet.ca,sportsvite.com,stopdroplol.com,straitstimes.com,suffolknews.co.uk,supersport.com,tattoofailure.com,thedriven.io,thefashionspot.com,thehun.net,thestar.com.my,titantv.com,tutorialrepublic.com,where.ca,yoimaletyoufinish.com##.leaderboard
+adz7short.space,agcanada.com,allmusic.com,allrecipes.com,allthatsinteresting.com,autoaction.com.au,autos.ca,ballstatedaily.com,bdonline.co.uk,boardgamegeek.com,bravewords.com,broadcastnow.co.uk,cantbeunseen.com,carsguide.com.au,cattime.com,chairmanlol.com,chemistryworld.com,chron.com,citynews.ca,coinranking.com,comingsoon.net,coolmathgames.com,countle.com,crn.com.au,diyfail.com,dogtime.com,drugtargetreview.com,edmunds.com,europeanpharmaceuticalreview.com,explainthisimage.com,foodandwine.com,foodista.com,forum.xda-developers.com,freshbusinessthinking.com,funnyexam.com,funnytipjars.com,gamesindustry.biz,gmanetwork.com,hardware.info,iamdisappoint.com,imedicalapps.com,itnews.asia,itnews.com.au,japanisweird.com,jta.org,legion.org,lifezette.com,lightnovelworld.com,liveoutdoors.com,macleans.ca,milesplit.com,monocle.com,morefailat11.com,moviemistakes.com,nbl.com.au,nfcw.com,objectiface.com,passedoutphotos.com,picmix.com,playstationlifestyle.net,pornsfw.com,precisionvaccinations.com,retail-week.com,rollcall.com,roulettereactions.com,searchenginesuggestions.com,shinyshiny.tv,shitbrix.com,short.croclix.me,sparesomelol.com,spoiledphotos.com,spokesman.com,sportsnet.ca,sportsvite.com,stopdroplol.com,straitstimes.com,suffolknews.co.uk,supersport.com,tattoofailure.com,thedriven.io,thefashionspot.com,thehun.net,thestar.com.my,titantv.com,tutorialrepublic.com,uproxx.com,where.ca,yoimaletyoufinish.com##.leaderboard
 aeink.com##.widget_ui_adsf
 aeink.com##.widget_ui_textads
 aeink.com##p[style*=".alicdn.com/"]
@@ -100154,6 +100159,11 @@ gizbot.com###oi-custom-camp
 gizbot.com##.oiadv
 gizbot.com,goodreturns.in##div[style="min-height: 250px;"]
 gizbot.com,goodreturns.in,inc.com##div[style^="min-height: 250px"]
+gizmodo.com##.lg\:min-h-\[300px\]
+gizmodo.com##.min-h-\[1000px\]
+gizmodo.com##.min-h-\[250px\]
+gizmodo.com##.od-wrapper
+gizmodo.com,instavideosave.net##.min-h-\[350px\]
 gizmodo.com,kotaku.com,theonion.com,theroot.com##.taboola-container
 gk-stalker.xyz###gkadblock
 glamourvanity.com##.wdt_gads
@@ -101383,6 +101393,7 @@ hy5.com.cn##.toptxtad
 hybbs.com##div[class^="adtop"]
 hyiptop.net##.supporthome
 hypebeast.com##.shopping-break-container
+hypebeast.com##.sidebar-spotlights
 hyperallergic.com,repeatreplay.com,steamdeckhq.com##.wp-block-spacer
 hypergames.top,op.gg,pornchimp.com,thecarconnection.com###banner-container
 hypestat.com##.b-error
@@ -101906,7 +101917,7 @@ instantfap.com###af
 instantfap.com##a[href^="https://go.redgifcams.com/"]
 instantshift.com##.sidebar_vps_banner
 instapundit.com###adspace_top > .widget-ad__content
-instavideosave.net##.min-h-\[350px\]
+instavideosave.net##.min-h-\[280px\]
 instawank.com###snackbar
 instrument.com.cn###leftFlash
 insurancejournal.com##.bzn
@@ -102687,7 +102698,6 @@ js0573.com###adv2
 js0573.com###gotopl
 js0573.com###gotopr
 js0573.com##.gg_bnr
-jsav2.com##.row > div.colVideoList:not(:has(> div.video-elem > a[href^="/video"]))
 jsjiami.com##.asd > li > a.shaky
 jsjiami.com##.banner-container li._logo ~ li > a[target="_blank"]
 json.cn###shuangshi1Modal1
@@ -104784,6 +104794,7 @@ mylust.com,anysex.com##div[class^="fp-bnr"]
 myminifactory.com##.result-adv
 mymovies.net##.skyright
 mynorthwest.com##.pagebreak
+myntra.com##.product-base:has(.product-waterMark)
 myp2p.xyz,cricfree.org,stream2watch.eu,firstrow1uk.eu,sportlemon.net,amateurbusters.com,ilivestream.com,porn2dl.net,streamhunter.net,vipbox.biz,phimmup.net,firstrow.top,firstrows.net,sportlemons.net,firstsrowsports.eu,ilemi.co,wiziwigs.eu,sportlemons.org,goatd.me,firstsrow.eu,streamsport.eu,globaltravel.com,safelinking.net##+js(set-constant, BetterJsPop, noopFunc)
 mypianku.net##div[style*="background:url"]
 mypornhere.com###ex_pop_iframe
@@ -107247,7 +107258,6 @@ readmng.com##.scroll_target_top
 readneverland.com##.z-0
 readonepiece.com##div > b
 reaff.com,yangmaodang.org##.entry-content > p[style="text-indent:0"]
-realcanadiansuperstore.ca##[data-testid="product-grid"] > .css-0:has([data-testid="product-badge"])
 realclearhistory.com###warning_empty_div
 realclearpolitics.com###distro_right_rail
 realclearpolitics.com###realclear_jwplayer_container
@@ -107713,6 +107723,10 @@ sdzbcg.com##td[width="297"] img
 sdzbcg.com##td[width="580"][height="279"] > table:nth-child(2n-1)
 se533.com##div[style="width:960px;margin:0 auto;text-align:center;"]
 se8u.cc##.footAdv
+seafoodsource.com###Ad1-300x250
+seafoodsource.com###Ad2-300x250
+seafoodsource.com###Ad3-300x250
+seafoodsource.com##.article__in-article-ad
 seajav.com##.under_player,img[border="0"][width="300"][height="80"],[class*="lg:hidden"],[class][style*="131px"]
 search-results.com###rr_sa_container
 search.avast.com###AsbAdContainer
@@ -109222,8 +109236,6 @@ temporary-phone-number.com##.adsense-top-728
 temporary-phone-number.com##.direct-chat-messages > div[style="margin:15px 0;"]
 tempostorm.com##side-banners
 tempr.email##.awrapper
-tenby-today.co.uk##.MPUstyled__MPUWrapper-sc-1cdmm4p-0
-tenby-today.co.uk##.TopBannerstyled__Wrapper-sc-x2ypns-0
 tencentmind.com
 tenforums.com##[style="height:280px;"]
 tennesseestar.com,themichiganstar.com,theminnesotasun.com,theohiostar.com##.AdvancedText
@@ -110417,6 +110429,7 @@ upornia.com,upornia.tube##.wcccswvsyvk
 upornia.com,upornia.tube##.wssvkvkyyee
 upornia.tube##.voiscscttnn
 uproxx.com###upx-mm-player-wrap
+uproxx.com##.upx-ad-unit
 upsangel.com##a[href="https://upsangel.com/check/surfsharkvpn/"]
 upworthy.com###upworthyFreeStarVideoAdContainer
 upworthy.com##.freestar-in-content
@@ -111443,6 +111456,7 @@ x6d.com#?#li:-abp-has(>.myad)
 x6d.com,xd0.com,xiaodao0.com##a[href^="/ad."]
 x6g.com##.addd
 x99av.com##+js(set-constant, ADSOBJET, {})
+x9av1.com,jsav2.com##.row > div.colVideoList:not(:has(> div.video-elem > a[href^="/video"]))
 xanimeporn.com##+js(abort-on-property-read, openpopup)
 xanimeporn.com#?##sidebar > .sidebar-widget:has(> .widget-title > span:contains(/^Sponsor$/))
 xanimu.com,familyporner.com,darknessporn.com,freepublicporn.com,pisshamster.com,punishworld.com##div[id^="before-list-boxes-mobile-singl"]
