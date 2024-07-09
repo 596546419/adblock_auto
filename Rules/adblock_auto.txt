@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: /qQuN5p0jhd3K1pirfxcFA
+! Checksum: Vyus57OamXKZ2RSfMDjhSA
 ! Title: 混合规则(自动更新)
-! Version: 20240709002617
+! Version: 20240709092720
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-09 00:26:17
-! Total Count: 147710
+! Last modified: 2024-07-09 09:27:20
+! Total Count: 147720
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9189,6 +9189,7 @@
 ||analytics.labbayk.ir^
 ||analytics.languagetoolplus.com^
 ||analytics.lasegunda.ecn.cl^
+||analytics.launch.bz^
 ||analytics.lekumo.jp^
 ||analytics.lemoolah.com^
 ||analytics.live.com^
@@ -26816,6 +26817,7 @@
 ||edinetadv.com^
 ||edingrigoguter.com^
 ||edioca.com^
+||edipsumw.top^
 ||edirect.efind.ru^
 ||edirectuklyeco.info^
 ||edison.love^
@@ -28856,6 +28858,7 @@
 ||exactdrive.com^
 ||exactsag.com^
 ||exacttarget.api.mashery.com^
+||exacttarget.com^
 ||exad.smi2.ru^
 ||exaggeratekindnessvocal.com^
 ||exaggeratestamppost.com^
@@ -29325,6 +29328,7 @@
 ||f2fc0fce65.com^
 ||f2svgmvts.com^
 ||f2zd.com^
+||f33d11b5.xyz^
 ||f3551539d6565853.com^
 ||f361.wvtm13.com^
 ||f3663618ff.com^
@@ -34392,6 +34396,7 @@
 ||goods2you.net^
 ||goodsscoop.com^
 ||goodstriangle.com^
+||goodvibe1.com^
 ||goodweet.xyz^
 ||goodyflicks.digital^
 ||goodyhitherto.com^
@@ -63937,6 +63942,7 @@
 ||qpic.cn/qqgameedu/0/cfc175896f5b4d6a9ff115b3096dcebe_
 ||qpic.cn/wwpic/471270_J6SyU3sDRNuKUnZ_1680798399/0
 ||qpic.ws/images/pk*.gif
+||qpigoa.xyz^
 ||qpix.com/2021/05/20/Aqcp.gif
 ||qpixxezhwwoc.com^
 ||qpkdnupzke.com^
@@ -71861,6 +71867,7 @@
 ||snugglethesheep.com^
 ||snuoen.com^
 ||snurpsermon.space^
+||snux.cn^
 ||snwpqybkb.com^
 ||snwqvjgrjjl.com^
 ||snxyf.com^$third-party
@@ -79649,6 +79656,7 @@
 ||trbo.com^
 ||trc.caravas.jp^
 ||trc.gpcdn.pl^
+||trc.r25.jp^
 ||trc.taboola.com^
 ||trc85.com^
 ||trccmpnlnk.com^
@@ -80465,6 +80473,7 @@
 ||tveta.naver.net^
 ||tvetamovie.pstatic.net^
 ||tvfeel.cc^
+||tvgkatu.icu^
 ||tvgxhvredn.xyz^
 ||tvkaimh.com^
 ||tvknxyisi.com^
@@ -83878,6 +83887,7 @@
 ||vigraghe.net^
 ||vigsole.com^
 ||vihppjk.cn^
+||vihqpr.xyz^
 ||vihtori-analytics.fi^
 ||vihub.ru^
 ||viiadr.com^

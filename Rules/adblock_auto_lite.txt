@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 8D+8WibaPm+uCo+58hEWlw
+! Checksum: iU/LbN24m59zlFQ+rXyXTw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240709002629
+! Version: 20240709092732
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-09 00:26:29
-! Total Count: 28309
+! Last modified: 2024-07-09 09:27:32
+! Total Count: 28315
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6738,6 +6738,7 @@
 ||ed2000k.com/ad/
 ||eda.ru/_next/static/images/banner_adv
 ||edghkc.xyz^
+||edipsumw.top^
 ||edjjpgf.xyz^
 ||edler.cn^
 ||edlzedu.cn^$document
@@ -7906,6 +7907,7 @@
 ||goodgupiao.com/skins/default/js/backTop.js
 ||goodindianporn.com/images/undbn.gif
 ||goods.tudou.com/api?
+||goodvibe1.com^
 ||google-analytics.com^
 ||google-analytics.com^$object,redirect-rule=noopjs
 ||google-js-01.xyz^
@@ -13273,6 +13275,7 @@
 ||qpic.cn/qqgameedu/0/cfc175896f5b4d6a9ff115b3096dcebe_
 ||qpic.cn/wwpic/471270_J6SyU3sDRNuKUnZ_1680798399/0
 ||qpic.ws/images/pk*.gif
+||qpigoa.xyz^
 ||qpix.com/2021/05/20/Aqcp.gif
 ||qpoiwnelc.com^
 ||qpolkmbbf.com$third-party
@@ -14520,6 +14523,7 @@
 ||snjfasp.com^
 ||snmi.cn^$third-party
 ||snoresmile.com^$third-party
+||snux.cn^
 ||snxyf.com^$third-party
 ||snzfj.net^$third-party
 ||so.auto999.cn^
@@ -15717,6 +15721,7 @@
 ||tv7box.com/Runtime/Js/
 ||tv99.tv/wp-content/uploads/pum/
 ||tveta.naver.net^
+||tvgkatu.icu^
 ||tvpqrydt.xyz^
 ||tvrshv.xyz^
 ||tvsou.com/js/360ad.js
@@ -16318,6 +16323,7 @@
 ||vidout.net^$third-party
 ||vifzrf.xyz^
 ||vihppjk.cn^
+||vihqpr.xyz^
 ||vijaykarnataka.com/vkmage/
 ||vikiporn.com/js/customscript.js
 ||vikiporn.com/js/license.*.js
