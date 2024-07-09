@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: C+VDazAdWQGQUeSHxOFu1g
+! Checksum: 2wRG3XQlO8iBFpJ7x36uvg
 ! Title: 混合规则(自动更新)
-! Version: 20240709162649
+! Version: 20240710002633
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-09 16:26:49
-! Total Count: 147734
+! Last modified: 2024-07-10 00:26:33
+! Total Count: 147772
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -94,6 +94,7 @@
 ||012.tw^$third-party
 ||012024jhvjhkozekl.space^
 ||01220b75a7.com^
+||0127c96640.com^
 ||01c70a2a06.com^
 ||01counter.com^
 ||01d0c91c0d.com^
@@ -9464,6 +9465,7 @@
 ||anastasiasaffiliate.com^
 ||anatomyabdicatenettle.com^
 ||anatomybravely.com^
+||anattospursier.com^
 ||anaxialaphonia.com^
 ||anbinh-finance.club^
 ||anbkzt.xyz^
@@ -9607,6 +9609,7 @@
 ||anmdr.link^
 ||anmgaxrujfru.com^
 ||anmiphglqn.com^
+||anmjqqtevhsqwb.com^
 ||anncmq.com^
 ||anncquyaxns.com^
 ||annesuspense.com^
@@ -10096,6 +10099,7 @@
 ||apnttuttej.com^
 ||apocarpdogdom.com^
 ||apochaeunanime.com^
+||apocopewheeple.com^
 ||apollo.plein.nl^
 ||apollofind.com^
 ||apologiesbackyardbayonet.com^
@@ -13404,6 +13408,7 @@
 ||beggarlymeatcan.com^
 ||beggingoppida.space^
 ||beginfrightsuit.com^
+||beginnerfurglow.com^
 ||beginnerhooligansnob.com^
 ||beginninggoondirections.com^
 ||beginningirresponsibility.com^
@@ -15786,6 +15791,7 @@
 ||brunchcreatesenses.com^
 ||brunetteattendanceawful.com^
 ||brunettemattersrefused.com^
+||bruntstabulae.com^
 ||brupu.com^
 ||brutalconfer.com^
 ||brutebaalite.top^
@@ -16179,6 +16185,7 @@
 ||bussydetune.top^
 ||bust3koop.cyou^
 ||bustlemiszone.com^
+||bustleravail.com^
 ||bustling-substance.pro^
 ||bustlinganimal.com^$third-party
 ||bustlingbath.com^$third-party
@@ -16794,6 +16801,7 @@
 ||calculatorstatement.com^$third-party
 ||caleblindsaydawson.cn^
 ||calendarpedestal.com^
+||calepinphrasal.com^
 ||calexits.uno^
 ||calibrelugger.com^
 ||calichevigogne.com^
@@ -17780,6 +17788,7 @@
 ||ceemoptu.xyz^
 ||ceeqgwt.com^
 ||ceezepegleze.xyz^
+||cefuthodob.com^
 ||cegadazwdsp.com^
 ||cegloockoar.com^
 ||cegrithy.net^
@@ -21876,6 +21885,7 @@
 ||cugeeksy.net^
 ||cugiphepty.com^
 ||cuhlsl.info^
+||cuifspyvuril.com^
 ||cuioxbqi.com^
 ||cuiron.de^
 ||cuisineenvoyadvertise.com^
@@ -24264,6 +24274,7 @@
 ||dingniugu.com/newskin/js/backTop.js
 ||dingniugu.com^*public.
 ||dingswonden.info^
+||dinhdanhcutru.com^
 ||diningconsonanthope.com^
 ||diningjumbofocused.com^
 ||diningprefixmyself.com^
@@ -25802,6 +25813,7 @@
 ||dtprofit.com^
 ||dtqbqmzzbeck.com^
 ||dtqiow.cn^
+||dtqlltmmyb.com^
 ||dtr-onsite-feed.datarize.ai^
 ||dtrk.slimcdn.com^
 ||dtscdn.com^
@@ -29352,6 +29364,7 @@
 ||f5e52a0d14.com^
 ||f5v1x3kgv5.com^
 ||f6176563.site^
+||f6b458fd.xyz^
 ||f709c496d6.com^
 ||f773a03dcb.com^
 ||f775.thehour.com^
@@ -32629,6 +32642,7 @@
 ||ganjing.com/vast.vpaid.min.js
 ||ganjistatic1.com^*/adm/
 ||ganjituiguang.ganji.com^
+||gannetsmechant.com^
 ||gannett.gcion.com^
 ||ganodusskunks.top^
 ||ganon.yahoo.com^
@@ -36286,6 +36300,7 @@
 ||hbrphusgbhpjpi.com^
 ||hbssjd.cn^
 ||hbtyk.top^
+||hbwrapper.com^
 ||hbxbiwgdjervee.com^
 ||hbxhnqj.cn^
 ||hbxzlf.xyz^
@@ -36978,6 +36993,7 @@
 ||hhsoftinfo.com^
 ||hht687.site^
 ||hhtxjoa.com^
+||hhuohqramjit.com^
 ||hhvbdeewfgpnb.xyz^
 ||hhvivsbiip.com^
 ||hhwd68.com^
@@ -38423,6 +38439,7 @@
 ||huntershoemaker.com^
 ||huntingtroll.com^
 ||huntmad.com^
+||hunyakupgive.com^
 ||huo720.com/back/ad_
 ||huobaowang.com/meeting/js/hbchat.
 ||huoche.net/Images/pc/ad_
@@ -42756,6 +42773,7 @@
 ||joaglouwulin.com^
 ||joannaiodisms.com^
 ||joannalaura.com^
+||joanneehretia.com^
 ||joaphoad.com^
 ||joaqaylueycfqw.xyz^
 ||joasoagly.com^
@@ -43874,6 +43892,7 @@
 ||kapvu.cn^
 ||kaqhfijxlkbfa.xyz^
 ||kaqpnobbjzdwi.com^
+||kaqppajmofte.com^
 ||kaqweqrdf.com^
 ||kar-sentry.karnameh.com^
 ||karafutem.com^
@@ -44288,6 +44307,7 @@
 ||khach-hang-ca-nhan-vip5.com^
 ||khachhangvib-canhan.com^
 ||khaelzols.com^
+||khakisminder.com^
 ||khandragthresh.com^
 ||khangdz215.tk^
 ||khanjeeyapness.website^
@@ -51037,6 +51057,7 @@
 ||milljeanne.com^
 ||millsurfaces.com^
 ||millustry.top^
+||milordsupbbore.com^
 ||milteept.xyz^
 ||miltlametta.com^
 ||miludata.com^
@@ -51155,6 +51176,7 @@
 ||miraclejay.work^
 ||miracslubs.com^
 ||miraculousregimentabbreviate.com^
+||miradres.com^
 ||miraells.top^
 ||mirando.de^
 ||miravay.org^
@@ -52078,6 +52100,7 @@
 ||mopefrequent.com^
 ||mopeia.xyz^
 ||mopemodelingfrown.com^
+||mopesrubelle.com^
 ||mopinion.com^
 ||moplahsoleil.top^
 ||mopnixhem.com^
@@ -64760,6 +64783,7 @@
 ||ragita.uno^
 ||raglanyakking.com^
 ||raglassofrum.cc^
+||ragnarhorst.com^
 ||ragoassidsie.com^
 ||ragsbxhchr.xyz^
 ||ragwviw.com^
@@ -68353,6 +68377,7 @@
 ||sauriaparpen.com^
 ||sausagegirlieheartburn.com^
 ||sauwoaptain.com^
+||savableee.com^
 ||savagelydestroyed.com^
 ||savagelylizard.com^
 ||savaurdy.net^
@@ -68668,6 +68693,7 @@
 ||scratchconsonant.com^
 ||scratchsofa.com^$third-party
 ||scratchy-kind.pro^
+||scrawmthirds.com^
 ||scrawny-pipe.com^
 ||scrawnyarticle.pro^
 ||scrazeunwaged.com^
@@ -74866,6 +74892,7 @@
 ||surfe.pro^
 ||surfearner.com^
 ||surfedlattins.com^
+||surfeitdrabble.com^
 ||surfierunreel.com^
 ||surfingmister.com^
 ||surfmdia.com^
@@ -75968,6 +75995,7 @@
 ||tapewherever.com^
 ||tapfiliate.com^
 ||tapheetsat.com^
+||tapi.apkpure.net^
 ||tapinfluence.com^
 ||tapingauthenticemulation.com^
 ||tapingdynasty.com^
@@ -76628,6 +76656,7 @@
 ||tet-lienquangarenavn.com^
 ||tet2023.shop^
 ||tetfer.com^
+||tethsrump.com^
 ||tetigi.com^
 ||tetlienquan.com^
 ||tetlienquan2023.website^
@@ -77136,6 +77165,7 @@
 ||thongrooklikelihood.com^
 ||thongsalhagi.com^
 ||thongtechnicality.com^
+||thongtindancu.org^
 ||thongtindonhang.com^
 ||thongwarily.com^
 ||thoobsix.xyz^
@@ -81575,6 +81605,7 @@
 ||unfortunatelyprayers.com^
 ||unfriendlysalivasummoned.com^
 ||unfymctyuuuynis.com^
+||ungatedsynch.com^
 ||ungillhenbane.com^
 ||ungirthranee.com^
 ||unglazeclassic.com^
@@ -81768,6 +81799,7 @@
 ||unstantleran.com^
 ||unsteadybreakfast.pro^
 ||unsternrelease.com^
+||unstilldemeore.com^
 ||unstoutgolfs.com^
 ||unsuccessfultesttubepeerless.com^
 ||unsurlysiouan.com^
@@ -94538,6 +94570,7 @@ appledaily.com.tw##.owl-lazy[tcode^="AD:"]
 applefans.today#$#.timed-pup { display: none !important; }
 applefans.today#$#.tipi-overlay { display: none !important; }
 applefans.today,ulifestyle.com.hk#$#body { overflow: auto !important; }
+appleinsider.com###mobile-article-anchor
 appleinsider.com##.exclusive-wrap
 appleinsider.com##.push
 appleinsider.com##div[style^="text-align:center;border-radius:0;"]
@@ -99595,6 +99628,7 @@ friv.com###lbaTop
 frkp.lol###film > #content > span[style="color:#ff6a00;"]
 fruitnet.com##.dk-ad-250
 fruitnet.com##.midpageAdvert
+fsbot.xyz,linetv.tw,mpyit.com,porn4f.com,sexwebvideo.net##+js(no-fetch-if, pagead2.googlesyndication.com)
 fsclzs.com###qvod
 fsdpp.cn##.sidebox > a > img
 fstoppers.com##.supportImg
@@ -100165,6 +100199,7 @@ gizmodo.com##.min-h-\[250px\]
 gizmodo.com##.od-wrapper
 gizmodo.com,instavideosave.net##.min-h-\[350px\]
 gizmodo.com,kotaku.com,theonion.com,theroot.com##.taboola-container
+gizmodo.com.au,kotaku.com.au,lifehacker.com.au,pedestrian.tv##.brightcove-video-container
 gk-stalker.xyz###gkadblock
 glamourvanity.com##.wdt_gads
 glanceoflife.com##.ads_margin
@@ -102969,6 +103004,7 @@ kijiji.ca##div[class^="adChoices-"]
 kijiji.ca##div[class^="sponsored-"]
 kijiji.ca#?#[data-testid^="listing-card-list-item-"]:-abp-contains(TOP AD)
 kikinote.net##.pc_ad
+kimcartoon.li###hideAds
 kimcartoon.li##div[style="font-size: 0; position: relative; text-align: center; margin: 10px auto; width: 300px; height: 250px; overflow: hidden;"]
 kimochi.info##.gridlove-posts > .layout-simple:has(.gridlove-archive-ad)
 kingkong.com.tw##.public-activity
@@ -103434,7 +103470,6 @@ line.me###install_line
 line.me##.midAdModule-root
 lineageos18.com###contentLocker
 linetv.tw##.aspect-ratio > img.object-cover + .aspect-ratio-content + div[class^="absolute inset-"][class*="bg-brand"]
-linetv.tw,mpyit.com,porn4f.com,sexwebvideo.net##+js(no-fetch-if, pagead2.googlesyndication.com)
 lingohut.com##.al-board
 lingojam.com###adsense-area-label
 lingojam.com##[href^="https://animefilter.com"]
@@ -104367,13 +104402,13 @@ modivo.at,modivo.bg,modivo.cz,modivo.de,modivo.ee,modivo.fr,modivo.gr,modivo.hr,
 modivo.it,modivo.pl,modivo.ro,modivo.cz,modivo.hu,modivo.bg,modivo.gr,modivo.de#?#.banner:-abp-contains(/Sponsorizzato|Sponsorowane|Sponsorizat|Sponzorováno|Szponzorált|Спонсорирани|Sponsored|Gesponsert/)
 modivo.it,modivo.pl,modivo.ro,modivo.cz,modivo.hu,modivo.bg,modivo.gr,modivo.de#?#.product:-abp-contains(/Sponsorizzato|Sponsorowane|Sponsorizat|Sponzorováno|Szponzorált|Спонсорирани|Sponsored|Gesponsert/)
 modrinth.com##.GBBNWLJVGRHFLYVGSZKSSKNTHFYXHMBD
+modrinth.com##.normal-page__content [href*="bisecthosting.com/"] > img
 modrinth.com##.normal-page__content [href^="https://billing.ember.host/"] > img
 modrinth.com##.normal-page__content [href^="https://billing.kinetichosting.net/"] > img
-modrinth.com##.normal-page__content [href^="https://bisecthosting.com/"] > img
 modrinth.com##.normal-page__content [href^="https://meloncube.net/"] > img
 modrinth.com##.normal-page__content [href^="https://nodecraft.com/"] > img
 modrinth.com##.normal-page__content [href^="https://scalacube.com/"] > img
-modrinth.com##.normal-page__content [href^="https://shockbyte.com/partner/"] > img
+modrinth.com##.normal-page__content [href^="https://shockbyte.com/"][href*="/partner/"] > img
 modrinth.com##[href^="http://bisecthosting.com/"]
 modrinth.com##[type="banner"]
 modshost.com###content > .ast-container > .ast-row
@@ -107380,6 +107415,7 @@ republicworld.com##.padtop10.padright10.padleft10.minheight90
 republicworld.com##.padtop20.txtcenter.minheight90
 researchgate.net##.lite-page__above
 reshu.by,sdamgia.ru##div[class$="-BlockDetect"]
+respawnfirst.com##.mv-ad-box
 restaurants.com##.latad
 retailgazette.co.uk##.boxzilla-popup-advert
 retinaboys.com###screen_block
@@ -109323,6 +109359,8 @@ thecambabes.com#?#.main-content > div.content:has(> div.box > iframe[src*="sexed
 thecanary.co##.in-content-ad
 thecatcity.com##.article-page__ad-block
 thecatholictravelguide.com##a[href^="https://www.squaremouth.com/"]
+thechainsaw.com##.gam-ad-container
+thechainsaw.com##.wp-block-create-block-pedestrian-gam-ad-block
 thechinaproject.com##.sticky-spacer
 theclassicporn.com###jerrys
 theclassicporn.com##.player-container > div[id^="stop"]
