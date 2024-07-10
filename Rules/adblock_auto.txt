@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ltwuVBw8WcoN6HfY/ZW/vg
+! Checksum: m3P7ntn8hUtr+XKjjbsKGA
 ! Title: 混合规则(自动更新)
-! Version: 20240710092719
+! Version: 20240710162754
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-10 09:27:19
-! Total Count: 147804
+! Last modified: 2024-07-10 16:27:54
+! Total Count: 147805
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -97149,6 +97149,8 @@ conversanttraveller.com###widget_sp_image-4
 conversanttraveller.com,needsomefun.net###text-41
 conversions.appsflyersdk.com^
 convertcase.net##.feature
+convertingcolors.com##.bannerhead_desktop
+convertingcolors.com##.c30
 convertingcolors.com,kobi8.com,slickdeals.net,whitecoatinvestor.com##.abc
 convertinmp4.com###b300ib
 convertinmp4.com###b728l
@@ -104234,8 +104236,6 @@ memedroid.com##div[id^="freestar-ad-"]
 memes.tw##.nice-box
 memexie.com##div[style^="width:9"][style$="#C8E4F0"]
 mengzhan123.com,mengzhan521.com##a[href^="http"]:not([href*="mengzhan"]) > img[src^="http"]
-mentalfloss.com##.ad_1tdq7q5
-mentalfloss.com##.style_k8mr7b-o_O-style_uhlm2
 mentalmars.com##.menta-target
 mercurynews.com,nssmag.com##.header-banners
 merriam-webster.com##.home-redesign-ad
@@ -105923,7 +105923,6 @@ pcgamesn.com,theloadout.com##.sticky_rail600
 pcgamingwiki.com###gog_summer_sale_2021
 pcgamingwiki.com##.home-gamesplanet-promo
 pcgamingwiki.com##.upcoming-releases.home-card:first-child
-pcguide.com##.wepc-takeover
 pch.com###div-pch-gpt-placement-bottom
 pch.com###div-pch-gpt-placement-multiple
 pch.com###div-pch-gpt-placement-top
@@ -109002,7 +109001,6 @@ sweethentai.com##[href^="https://gadlt.nl/"]
 swfchan.com,tokder.org###aaaa
 swimcompetitive.com##.waldo-display-unit
 swimcompetitive.com##[href^="https://www.swimoutlet.com/"]
-swimsuit.si.com##.style_hfl21i-o_O-style_uhlm2
 swimswam.com##.homepage_block_ads
 swimswam.com##.polls-461
 swimswam.com##.swimswam-acf
@@ -129441,6 +129439,7 @@ zle.com$script
 ###midrect_ad
 ###midstrip_ad
 ###mini-ad
+###mm-player-placeholder-large-screen
 ###mobile-ad
 ###mobile-adhesion
 ###mobile-adhesion:not(#style_important)
@@ -133396,6 +133395,7 @@ zle.com$script
 ##.ad_180x150
 ##.ad_188_inner
 ##.ad_1day9
+##.ad_1tdq7q5
 ##.ad_2
 ##.ad_200
 ##.ad_200x200
@@ -142102,6 +142102,7 @@ zle.com$script
 ##.stripad
 ##.stui-vodlist__thumb.lazyload[href^="http"][target="_blank"]
 ##.stui-vodlist__thumb.lazyload[href^="http"][target="_blank"] + .stui-vodlist__detail
+##.style_k8mr7b-o_O-style_uhlm2
 ##.sub-ad
 ##.subAdBannerArea
 ##.subAdBannerHeader
