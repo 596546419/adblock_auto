@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: m3P7ntn8hUtr+XKjjbsKGA
+! Checksum: jO1uNQm8EGnT7ObE2n7BeQ
 ! Title: 混合规则(自动更新)
-! Version: 20240710162754
+! Version: 20240711002627
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-10 16:27:54
-! Total Count: 147805
+! Last modified: 2024-07-11 00:26:27
+! Total Count: 147823
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -11075,6 +11075,7 @@
 ||atax.teamxbox.com^
 ||ataxiasfaulds.shop^
 ||atbdkmt.xyz^
+||atbif.cn^
 ||atcelebitor.com^
 ||atchshipsmoter.com^
 ||atchshipsmotor.com^
@@ -17946,6 +17947,7 @@
 ||cf222.art^
 ||cf433af11b.com^
 ||cf76b8779a.com^
+||cf959857.live^
 ||cf97134c89.com^
 ||cfasync.tk^
 ||cfateu.xyz^
@@ -18737,6 +18739,7 @@
 ||cicamica.xyz^
 ||cicelysewans.com^
 ||cichiji.top^
+||cickofou.com^
 ||cicqdaqtrws.info^
 ||cideparenhem.com^
 ||cidhdgv.xyz^
@@ -21666,6 +21669,7 @@
 ||cryptosmoke.care^
 ||cryptosplash.care^
 ||cryptotrials.care^
+||cryptotyc.care^
 ||cryptraffic.de^
 ||crystal-ad.ge^
 ||crystalboulevard.com^$third-party
@@ -29369,6 +29373,7 @@
 ||f5v1x3kgv5.com^
 ||f6176563.site^
 ||f6b458fd.xyz^
+||f700fa18.live^
 ||f709c496d6.com^
 ||f773a03dcb.com^
 ||f775.thehour.com^
@@ -38515,6 +38520,7 @@
 ||hutajkerfvbman.com^
 ||hutanz.xyz^
 ||hutlockshelter.com^
+||hutoumseet.com^
 ||hutremindbond.com^
 ||huuocxu.icu^
 ||huvohjvpaog.com^
@@ -43069,6 +43075,7 @@
 ||jrs2igoimq.ru^
 ||jrsmnddakpce.com^
 ||jrtbjai.com^
+||jrtlisa.top^
 ||jrtqaliyucgpaes.com^
 ||jrtwi.xyz^
 ||jrvrkzrbkqaoz.top^
@@ -58371,6 +58378,7 @@
 ||paid-to-promote.net^
 ||paid.outbrain.com^
 ||paidforfree.com^
+||paidlemirkily.com^
 ||paidlinkz.net^
 ||paidonresults.net^
 ||paidsearchexperts.com^
@@ -75482,6 +75490,7 @@
 ||t.felmat.net^
 ||t.flix360.com^
 ||t.fml.rip^
+||t.fullres.net^
 ||t.gatorleads.co.uk^
 ||t.ghostboard.io^
 ||t.hypers.com.cn^
@@ -75519,6 +75528,7 @@
 ||t.rentcafe.com^
 ||t.screeb.app^
 ||t.seesaa.net^
+||t.semafor.com^
 ||t.sharethis.com^
 ||t.sieu-viet.com^
 ||t.simply-hentai.com^
@@ -94380,7 +94390,7 @@ androidauthority.com##.andro-in-article-sidebar-desktop-placement
 androidauthority.com##.andro-mid-article-placement
 androidauthority.com##a[data-sel="dealbar-link"]
 androidauthority.com##div:not([class]) > div[class^="_--_-___"]:has(> div[data-ad-type="leaderboard_atf"])
-androidauthority.com,britannica.com,courthousenews.com,diabetesjournals.org,imgmak.com,imgse.com,infobel.com,kuioo.com,linkedin.com,pilot007.org,radiotimes.com,soundguys.com,x13x.space##.ad-banner
+androidauthority.com,britannica.com,courthousenews.com,diabetesjournals.org,imgmak.com,imgse.com,infobel.com,kuioo.com,linkedin.com,pilot007.org,radiotimes.com,soundguys.com,topperlearning.com,x13x.space##.ad-banner
 androidauthority.com,efukt.com##[data-ad-type]
 androidcentral.com,crackberry.com,imore.com,technobuffalo.com,thrifter.com,windowscentral.com##.header-top-alert-bar
 androidcentral.com,imore.com##.no-amazon
@@ -94534,7 +94544,6 @@ apkmirror.com##.ezo_ad
 apkmirror.com##.gooWidget
 apkmirror.com##.google-ad-leaderboard
 apkmirror.com##.listWidget > .promotedAppListing
-apkmirror.com##.listWidget > div[class="appRow"]
 apkmirror.com##div[id^="adtester-container-"]
 apkmoddone.com###sn-Notif
 apkmody.io##.body-fixed-footer
@@ -95355,7 +95364,7 @@ beincrypto.com##.ad-post-right-sidebar-1
 beincrypto.com##.ad-post-right-sidebar-2
 beincrypto.com##.cont-wrapper
 beincrypto.com##.sponsored-badge
-beincrypto.com,bitcoinist.com,captainaltcoin.com,coincodex.com,coinpaprika.com,coinspeaker.com,crypto-news-flash.com,cryptonews.com,cryptonewsz.com,cryptopolitan.com,cryptopotato.com,insidebitcoins.com,news.bitcoin.com,philnews.ph,techreport.com,watcher.guru##[class*="clickout-"]
+beincrypto.com,bitcoinist.com,captainaltcoin.com,coincodex.com,coinpaprika.com,coinspeaker.com,crypto-news-flash.com,cryptonews.com,cryptonewsz.com,cryptopolitan.com,cryptopotato.com,insidebitcoins.com,news.bitcoin.com,newsbtc.com,philnews.ph,techreport.com,watcher.guru##[class*="clickout-"]
 bejson.com##.alert-dismissable
 bejson.com##.t-small-margin > ul:first-child
 bejson.com##.xf2-gg-left
@@ -98261,6 +98270,7 @@ drivespark.com###cmscontent-right1
 drivespark.com###fwnNewWdg
 drivespark.com##.dp-add-block
 drivespark.com##.topsection div[style^="float"]
+drivespark.com,express.co.uk,goodreturns.in##div[id^="taboola-"]
 drivespark.com,filmibeat.com##.photos-left-ad
 drivespark.com,filmibeat.com,gizbot.com##.photos-add
 drivespark.com,goodreturns.in###taboola-mid-category-thumbnails
@@ -98533,6 +98543,7 @@ eco-business.com###supporting_orgs
 ecommercetimes.com##.slink-text
 ecommercetimes.com##.slink-title
 ecommercetimes.com,ectnews.com,linuxinsider.com,macnewsworld.com,technewsworld.com##.bbframe
+economictimes.indiatimes.com##[class*="-ad-"]
 economist.com##.adComponent
 economist.com##.adComponent_advert__kPVUI
 economist.com##[class^="adComponent"]
@@ -98958,7 +98969,6 @@ express.co.uk###mobile_floating_test
 express.co.uk##.affiliate-widget
 express.co.uk##.ayl-native
 express.co.uk##.viafoura-standalone-mpu
-express.co.uk##div[id^="taboola-"]
 expreview.com##.babaBox
 expreview.com##.colbaba
 expreview.com##.crossAd
@@ -100905,6 +100915,7 @@ health.tvbs.com.tw##div[data-testid="ad-container"]
 healthbenefitstimes.com###ad-image-below
 healthbenefitstimes.com###google-adv-top
 healthgrades.com##ps-action-intercept
+healthing.ca##.sticky-ad-spacer-desktop
 healthleadersmedia.com##.adv-con
 healthline.com###DMR1__slot
 healthline.com##.css-0 + div:not([class]):last-of-type
@@ -105204,6 +105215,7 @@ news24.com##.featured-category
 news365.co.za##.stream-item-widget-content
 news9live.com###left_before_story
 newsbreak.com##div[style*="position:relative;width:100%;height:0;padding-bottom:"]
+newsbtc.com##.widget_premium_partners
 newsbusters.org###intranet_mid
 newscientist.com##.Outbrain
 newsday.com##.midPg
@@ -105923,6 +105935,8 @@ pcgamesn.com,theloadout.com##.sticky_rail600
 pcgamingwiki.com###gog_summer_sale_2021
 pcgamingwiki.com##.home-gamesplanet-promo
 pcgamingwiki.com##.upcoming-releases.home-card:first-child
+pcguide.com##.wepc-takeover-sides
+pcguide.com##.wepc-takeover-top
 pch.com###div-pch-gpt-placement-bottom
 pch.com###div-pch-gpt-placement-multiple
 pch.com###div-pch-gpt-placement-top
@@ -107318,6 +107332,7 @@ readmng.com##.scroll_target_top
 readneverland.com##.z-0
 readonepiece.com##div > b
 reaff.com,yangmaodang.org##.entry-content > p[style="text-indent:0"]
+realcanadiansuperstore.ca#?#.chakra-linkbox:-abp-contains(Sponsored)
 realclearhistory.com###warning_empty_div
 realclearpolitics.com###distro_right_rail
 realclearpolitics.com###realclear_jwplayer_container
@@ -109826,6 +109841,7 @@ timesofindia.indiatimes.com###c_wdt_sports_rhs_atf_ad_1
 timesofindia.indiatimes.com##.CeUoi
 timesofindia.indiatimes.com##._3JJMX
 timesofindia.indiatimes.com##.addblock
+timesofindia.indiatimes.com##.clearfix ~ div:has(> [id*="-gpt-ad-"])
 timesofindia.indiatimes.com##.d_jsH.mPws3
 timesofindia.indiatimes.com##.mgid_second_mrec_parent
 timesofindia.indiatimes.com##.paisa-wrapper
@@ -128899,6 +128915,7 @@ zle.com$script
 ###headerAdsWrapper
 ###headerAdv
 ###headerAdvert
+###headerTopAd
 ###header_ad
 ###header_ad_728
 ###header_ad_728_90
@@ -144248,6 +144265,7 @@ zle.com$script
 ##a[href^="https://lobimax.com/"]
 ##a[href^="https://loboclick.com"]
 ##a[href^="https://loboclick.com/"]
+##a[href^="https://lone-pack.com/"]
 ##a[href^="https://losingoldfry.com/"]
 ##a[href^="https://m.do.co/c/"] > img
 ##a[href^="https://maymooth-stopic.com/"]
