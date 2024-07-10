@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 8wFXTJ3ItxtgKZa+Ptkkjw
+! Checksum: vEReAVpsOUWf7OueoAhvFQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240710002644
+! Version: 20240710092730
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-10 00:26:44
-! Total Count: 28319
+! Last modified: 2024-07-10 09:27:30
+! Total Count: 28327
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5026,6 +5026,7 @@
 ||cbcvou.xyz^
 ||cbdm.weathercn.com^
 ||cbfw.cn/gonggong/chibi/cf_
+||cbgrqi.xyz^
 ||cbjs.baidu.com^
 ||cbthkumwa96.shop^
 ||cbttnmo.xyz^
@@ -6403,6 +6404,7 @@
 ||doujs05.xyz^
 ||doujs06.xyz^
 ||doujs07.xyz^
+||doujs08.xyz^
 ||doupocangqiong1.com/js/ptwap.js
 ||doutula.com/img/upupoo/
 ||douyin.com/api/user/getPcBanner?
@@ -8628,6 +8630,7 @@
 ||hrngmf.com^
 ||hrnkdr.xyz^
 ||hrnvfp.xyz^
+||hrrjff.xyz^
 ||hrtinqj.cn^
 ||hs.cnfol.com/Cm/Imgs/Load.gif
 ||hs640.com/js/jquery.js
@@ -9251,6 +9254,7 @@
 ||irayedo.cn^
 ||irmbyu.xyz^
 ||irtefs.xyz^
+||irtliso.top^
 ||iruacwa.xyz^
 ||is686.com^$third-party
 ||isancio.top^
@@ -11532,6 +11536,7 @@
 ||mtu.hlkcowp.cn^
 ||mtur.xkmnbt.xyz^
 ||mtwmuy.xyz^
+||mtwuxss.icu^
 ||mtwwzqdx.xyz^
 ||mu6m1.com^
 ||muddledaftermath.com^$third-party
@@ -14256,6 +14261,7 @@
 ||sgk.xyz/static/js/pc.js
 ||sglahyea.xyz^
 ||sgoijw.com^$third-party
+||sgru.cn^
 ||sgzhg.pornlovo.co^
 ||sh.sina.com.cn/iframe/522/
 ||sh.sina.com.cn/js/441/ZwyArticle_commo_23.js
@@ -16447,6 +16453,7 @@
 ||vs1.exo01.xyz^$image,third-party
 ||vserv.mobi^
 ||vsexshop.ru^$third-party
+||vsjrnh.xyz^
 ||vsnoon.com^$third-party
 ||vsping-*.myqcloud.com/ggw/
 ||vsping.com/website/adLinks?
@@ -16614,6 +16621,7 @@
 ||wddsva0.com^
 ||wdff.buzz/hengf.
 ||wdig.vo.llnwd.net^
+||wdipsume.top^
 ||wdoshbe.top^
 ||wdwdwd3d.com^
 ||wdygoi.xyz^
