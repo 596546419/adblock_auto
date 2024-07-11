@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: X/d5GOlq//MBn6rCDGXbcA
+! Checksum: lhcIK1naKOmq9at92XFeCw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240711002639
+! Version: 20240711092758
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-11 00:26:39
-! Total Count: 28329
+! Last modified: 2024-07-11 09:27:58
+! Total Count: 28339
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5925,6 +5925,7 @@
 ||dajiadu8.com/17.js
 ||dajiahao10.top^
 ||dajiahao17.top^
+||dajiahao8.top^
 ||dajiahao9.top^
 ||dajiazhao.com/login/reg.js
 ||dajkqqpz.top^
@@ -6010,6 +6011,7 @@
 ||dcdglb.xyz^
 ||dceuhnpc57.shop^
 ||dciep.xyz^
+||dclpjx.xyz^
 ||dcnjc4.com^
 ||dcnytdpke.xyz^
 ||dcqs4.com^
@@ -7326,6 +7328,7 @@
 ||fmhua.com/template/*/images/g_js/*.html
 ||fmild.xyz^
 ||fmjjvb.xyz^
+||fmmirep.icu^
 ||fmre1.com^
 ||fmssoj.icu^
 ||fmvbyji.cn^
@@ -7781,6 +7784,7 @@
 ||gizlnr.com^
 ||gjhjjhgc.cn^
 ||gjipd.xyz^
+||gjjskhdnm.top^
 ||gjmqqq.com^
 ||gjwind.com/xxmh.gif
 ||gjwxy.cn^
@@ -12045,6 +12049,7 @@
 ||oafishobservation.com^$third-party
 ||oaftaijo.net^$third-party
 ||oaihiiacb.com^
+||oakmn.top^
 ||oalmbmf.xyz^
 ||oapyrzde.xyz^
 ||oaqrui.xyz^
@@ -12143,6 +12148,7 @@
 ||one101.xyz/data/images/*.gif
 ||one6u.xyz^
 ||onedala.tv/uploads/banner/
+||onefuq.xyz^
 ||onegreen.net/MyFile/
 ||oneinstack.com/images/oneinstack-
 ||onetad.com^$third-party
@@ -13127,6 +13133,7 @@
 ||qd.x4399.com^
 ||qdaily.com/mount_details/pc/
 ||qdcxia.xyz^
+||qdipsumy.top^
 ||qdiwbhjpo.com^
 ||qdjimo.com/html/js/
 ||qdoshby.top^
@@ -13979,6 +13986,7 @@
 ||sc.smardroid.com^
 ||sc126.com^
 ||sc4mh.cn^
+||scanfang.com^
 ||scarcecard.com^$third-party
 ||scarcesign.com^$third-party
 ||scarcesurprise.com^$third-party
@@ -15220,6 +15228,7 @@
 ||tdljuuw.xyz^
 ||tdlyfz.xyz^
 ||tdoshbi.top^
+||tdpujn.xyz^
 ||tdsahkln.xyz^
 ||tduenkq839.shop^
 ||tdzvm.pw^$third-party
@@ -17491,6 +17500,7 @@
 ||yenauddk.com^
 ||yepgdita.xyz^
 ||yerecpa.cn/uploadsb/app_adv/
+||yerhfnytky.top^
 ||yes1.feng.com^$domain=feng.com
 ||yeshefb.com/template/conch/dd/
 ||yesky.com/s?z=
