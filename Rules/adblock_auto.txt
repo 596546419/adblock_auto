@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 3KZDLTZZYGwV7EGQZ29PyQ
+! Checksum: PmH8dyOxxtNNUQYJ28xJoQ
 ! Title: 混合规则(自动更新)
-! Version: 20240711092746
+! Version: 20240711162604
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-11 09:27:46
-! Total Count: 147881
+! Last modified: 2024-07-11 16:26:04
+! Total Count: 147888
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -12385,6 +12385,7 @@
 ||baijs05.xyz^
 ||baijs06.xyz^
 ||baijs07.xyz^
+||baijs08.xyz^
 ||baikalize.com^
 ||baike.com/iframeheightforad.
 ||baike.com/newtop/news.html
@@ -36931,6 +36932,7 @@
 ||hforuvqrgyvbspi.xyz^
 ||hfoyjg.cn^
 ||hfptbb.cn^
+||hfptbf.cn^
 ||hfpuhwqi.xyz^
 ||hfqdipw.cn^
 ||hfqjfnswctf.xyz^
@@ -45173,6 +45175,7 @@
 ||krsvpobbneyj.com^
 ||krt.asycxtz.cn^
 ||krtinonqtp.com^
+||krtlisd.top^
 ||krum.vsct.fr^
 ||krurkex.com^
 ||krut.link^
@@ -100139,6 +100142,8 @@ gelbooru.com##[href^='https://realbooru.com/']
 gemoo.com##.adlet_mobile
 gemoo.com##.sprtadv
 genius.com##.cujBpY
+genius.com##[class^="InnerSectionAd__"]
+genius.com##[class^="InreadContainer__"]
 genius.com##div[class^="DfpAd__Container-"]
 genius.com##div[class^="LeaderboardOrMarquee__"]
 genius.com##div[class^="SidebarAd_"]
@@ -125705,6 +125710,7 @@ zle.com$script
 ###WelcomeAd
 ###WidgetADVMIDDLE
 ###ZAML
+###Zi_ad_a_H
 ###\31 280_adv
 ###\31 x1_container.float-banner-footer
 ###__ads_dp
@@ -131449,6 +131455,7 @@ zle.com$script
 ##.XEad
 ##.ZERGNET
 ##.Zi_ad_a_H
+##.Zi_ad_a_SB
 ##.\[\&_\.gdprAdTransparencyCogWheelButton\]\:\!pjra-z-\[5\]
 ##._300_ad
 ##._300x250.item

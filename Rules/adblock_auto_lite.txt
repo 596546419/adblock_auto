@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: lhcIK1naKOmq9at92XFeCw
+! Checksum: S6EA7ILVMFXFvtg/RKeE/Q
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240711092758
+! Version: 20240711162615
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-11 09:27:58
-! Total Count: 28339
+! Last modified: 2024-07-11 16:26:15
+! Total Count: 28344
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4106,6 +4106,7 @@
 ||baijs05.xyz^
 ||baijs06.xyz^
 ||baijs07.xyz^
+||baijs08.xyz^
 ||baike.com/iframeheightforad.
 ||baimakanshu.com/assets/public/$script
 ||baishuku.com/news/$script
@@ -8419,6 +8420,7 @@
 ||hfjsliu.top^
 ||hfk7j.top^
 ||hfptbb.cn^
+||hfptbf.cn^
 ||hfresgtyytjncvvh.com^
 ||hfwld.cn^
 ||hgcgnfe.icu^
@@ -10205,6 +10207,7 @@
 ||kritgu.xyz^
 ||krjzxie.cn^
 ||krt.asycxtz.cn^
+||krtlisd.top^
 ||krutilka.net^
 ||kryjqq.com^
 ||kryptografie.de/js/wb_dead.js$script
@@ -24565,6 +24568,7 @@ zle.com$script
 ###TopAdvert
 ###Video-Shunt-Box + .container
 ###ZAML
+###Zi_ad_a_H
 ###\31 280_adv
 ###\31 x1_container.float-banner-footer
 ###__ads_dp
@@ -25121,6 +25125,7 @@ zle.com$script
 ##.Text-Advertising
 ##.TqAdShow
 ##.Zi_ad_a_H
+##.Zi_ad_a_SB
 ##._300x250.item
 ##.__bm_btn_div
 ##._ads
