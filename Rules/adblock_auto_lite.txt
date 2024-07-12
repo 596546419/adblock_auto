@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 1XoTAj1FyviWRPdHvP2y7w
+! Checksum: TlpRJJU9UpZLajh4NReJxg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240712002551
+! Version: 20240712092648
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-12 00:25:51
-! Total Count: 28347
+! Last modified: 2024-07-12 09:26:48
+! Total Count: 28353
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6320,6 +6320,7 @@
 ||dmeia.xyz^
 ||dmg-dd.oss-accelerate.aliyuncs.com^
 ||dmm.aizhan.com^
+||dmnqfn.xyz^
 ||dmnxkj.cn^
 ||dmpqjn.xyz^
 ||dmr.cnhoney.com^
@@ -9376,6 +9377,7 @@
 ||iyuwkbo.top^
 ||iyybqzv.cn^
 ||izalflh.cn^
+||izcqyy.xyz^
 ||izmiua.xyz^
 ||izmssk.xyz^
 ||izqogb.cn^
@@ -14023,6 +14025,7 @@
 ||scintillatingsilver.com^$third-party
 ||scintillatingspace.com^$third-party
 ||scjpqut.cn^
+||scoev.cn^
 ||sconline.com.tw/top/coolpc_
 ||scorecardresearch.com^
 ||scqaaf.cn^
@@ -14435,6 +14438,7 @@
 ||singlove.com/qq/qq.js
 ||singmwn51g.com^
 ||singroot.com^$third-party
+||singtao.ca/editions/affiliate_
 ||sinkbooks.com^$third-party
 ||sinodan.link/js/js4.js?v=
 ||sinolub.com/index.php?m=poster&
@@ -15230,6 +15234,7 @@
 ||tdhlmto.cn^
 ||tdhnxf.xyz^
 ||tdhserg.cn^
+||tdipsumi.top^
 ||tdjdpyrt.xyz^
 ||tdljuuw.xyz^
 ||tdlyfz.xyz^
@@ -17620,6 +17625,7 @@
 ||yjxzvqy.xyz^
 ||yjyc-ask.com/res/ads/
 ||ykad-data.youku.com^
+||ykcsldm.icu^
 ||ykgfcs.xyz^
 ||ykkhihg.cn^
 ||yklfg.cn^
