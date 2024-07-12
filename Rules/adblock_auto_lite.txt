@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: TlpRJJU9UpZLajh4NReJxg
+! Checksum: hnvV6byEkxT5IBjDuBVskw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240712092648
+! Version: 20240712162713
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-12 09:26:48
-! Total Count: 28353
+! Last modified: 2024-07-12 16:27:13
+! Total Count: 28359
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -178,6 +178,7 @@
 ||104.167.70.98^$domain=chuzuche8.com
 ||104.199.8.250^*/webservices/getDialogAdDetails.php
 ||107.167.16.*.gif
+||107.167.22.*.gif
 ||10fang.com/static/skin/tfy/layer/layer.js
 ||11.96131.com.cn^
 ||11.golang8.com^
@@ -848,6 +849,7 @@
 ||56img.com^*/baidu-promotion.js
 ||56img.com^*/search-engine-promotion.js
 ||56rmm.com:8888/js
+||57573zubo36833.com^
 ||57577.live^$csp=script-src
 ||576tv.com/Scripts/home.js
 ||57fx.com/img/20170508.jpg
@@ -7396,6 +7398,7 @@
 ||fpelfyeesuoivy.com^
 ||fpfbbn.xyz^
 ||fpjjjh.xyz^
+||fpninv.xyz^
 ||fpo.xxx/contents/other/player/porngame*.mp4
 ||fptbdr.xyz^
 ||fptdxkm.com^
@@ -9101,6 +9104,7 @@
 ||imgme.me/images/*.gif
 ||imgmega.com/i/*.gif$domain=18avtube.com|mm-cg.com
 ||imgopen.vip^
+||imgoss2255.top^
 ||imgoss511.top^
 ||imgroom.net/images/*.gif
 ||imgs.cc/images/ad_
@@ -14753,6 +14757,7 @@
 ||srnov.top^
 ||srootshare.com/otmyjs/
 ||srtb.msn.cn^
+||srtlisb.top^
 ||srv.dropkickmedia.com$third-party
 ||srwwce.xyz^
 ||srzpsbf.xyz^
@@ -15730,6 +15735,7 @@
 ||tuotianxia.top^
 ||tupian6666.com^
 ||tupian888.*.bcebos.com^
+||tupian88888.com^
 ||tupian9999.com^
 ||tuplzt.xyz^
 ||tupwiwm.com^

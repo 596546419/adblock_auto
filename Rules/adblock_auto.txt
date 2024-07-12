@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 8QkPk0oo+NK9jHNqjNSxXw
+! Checksum: 6ri6EvuR9Iik4r2p69l+og
 ! Title: 混合规则(自动更新)
-! Version: 20240712092636
+! Version: 20240712162701
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-12 09:26:36
-! Total Count: 147952
+! Last modified: 2024-07-12 16:27:01
+! Total Count: 147962
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -442,6 +442,7 @@
 ||107.148.199.181^
 ||107.165.206.26^
 ||107.167.16.*.gif
+||107.167.22.*.gif
 ||107.172.176.197^
 ||107.182.131.103/cache/?q=/images/
 ||107.183.137.18^
@@ -2397,6 +2398,7 @@
 ||5726303d87522d05.com^
 ||572k3.com^
 ||573569djd.com^
+||57573zubo36833.com^
 ||57577.live^$csp=script-src
 ||576de58030.com^
 ||576tv.com/Scripts/home.js
@@ -31560,6 +31562,7 @@
 ||fpjscdn.net^
 ||fpmleqdb.com^
 ||fpnakbanlt.com^
+||fpninv.xyz^
 ||fpnpmcdn.net^
 ||fpo.xxx/contents/other/player/porngame*.mp4
 ||fprnt.com^
@@ -31901,6 +31904,7 @@
 ||front.optimonk.com^
 ||frontcognizance.com^
 ||frontend.vh.yandex.ru/player/*&adConfig=$domain=mentoday.ru
+||frontendcodingtips.com^
 ||frontendjs.com/api/ad
 ||fronthlpr.com^
 ||fronthlpric.com^
@@ -39849,6 +39853,7 @@
 ||imgmega.com/i/*.gif$domain=18avhub.com|18avtube.com|mm-cg.com
 ||imgnewad.ytn.co.kr^
 ||imgopen.vip^
+||imgoss2255.top^
 ||imgoss511.top^
 ||imgot.info^
 ||imgot.site^
@@ -58657,6 +58662,7 @@
 ||paradiseannouncingnow.com^
 ||paradisemall.net^
 ||paradisenookminutes.com^
+||paradizeconstruction.com^
 ||paradocs.ru^
 ||paradoxfactor.com^$third-party
 ||paragraphdisappointingthinks.com^
@@ -73129,6 +73135,7 @@
 ||srsotqdgln.com^
 ||srtb.msn.cn^
 ||srtb.msn.com^
+||srtlisb.top^
 ||srtlyye.com^
 ||srtrak.com^
 ||srumifuroqkuoi.com^
@@ -80515,6 +80522,7 @@
 ||tupian55.com^*.gif
 ||tupian6666.com^
 ||tupian888.*.bcebos.com^
+||tupian88888.com^
 ||tupian9999.com^
 ||tuplzt.xyz^
 ||tupwiwm.com^
@@ -103554,6 +103562,8 @@ lexico.com##.banbox-mini
 lfporn.com##.pr-widget
 lfporn.com##.single-post > div#gb
 lfporn.com##body > div.main > div.content > div.posts > a[id^="meow"]
+lgbtqnation.com##.index-bottom-ad
+lgbtqnation.com##.single-bottom-ad
 lgmi.com###openwindows0
 lgn.yy.com##.m_left
 liantu.cn##.side > .h250
