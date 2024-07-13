@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: oFrdC+e19kbyibHQbWaOQA
+! Checksum: xpviLSD0Wr0pgxrMNnGewA
 ! Title: 混合规则(自动更新)
-! Version: 20240713092721
+! Version: 20240713162400
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-13 09:27:21
-! Total Count: 147998
+! Last modified: 2024-07-13 16:24:00
+! Total Count: 148001
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -10767,6 +10767,7 @@
 ||asdfasdasd9987.co^
 ||asdfdr.cfd^
 ||asdffe22.com^
+||asdji2.cn^
 ||asdpoi.com^
 ||asdqslnqmwwkc.com^
 ||asdqwe.ltd^
@@ -28267,6 +28268,7 @@
 ||erthmefeyauk.xyz^
 ||ertistsldahehu.com^
 ||ertjo.xyz^
+||ertlisw.top^
 ||erty0yx.com^
 ||ertya.com^
 ||eru5tdmbuwxm.com^
@@ -59911,6 +59913,7 @@
 ||photo.*/native?tk=$third-party
 ||photo.bscy05.cn^
 ||photo.bscy05.cn^$third-party
+||photo07.xyz^
 ||photofuturecrappy.com^
 ||photographcrushingsouvenirs.com^
 ||photographediblefiend.com^
