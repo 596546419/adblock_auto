@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: xpviLSD0Wr0pgxrMNnGewA
+! Checksum: 1puyX6rrUxdOwB+TvmQklQ
 ! Title: 混合规则(自动更新)
-! Version: 20240713162400
+! Version: 20240714002353
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-13 16:24:00
-! Total Count: 148001
+! Last modified: 2024-07-14 00:23:53
+! Total Count: 148004
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -13519,6 +13519,7 @@
 ||bekmhvbb.xyz^
 ||beknittykhana.life^
 ||belamicash.com^
+||belatedsafety.pro^
 ||belavoplay.com^
 ||belaya2shu1ba1.com^
 ||belazyelephant.com^
@@ -70231,6 +70232,7 @@
 ||shockeddump.pro^
 ||shockedfoxed.top^
 ||shocking-design.pro^
+||shocking-profile.pro^
 ||shockinggrass.com^$third-party
 ||shockingrobes.com^
 ||shockingship.com^$third-party
@@ -86730,6 +86732,7 @@
 ||whootascots.com^
 ||whootkhankah.com^
 ||whoppercreaky.com^
+||whopping-sea.com^
 ||whopstriglot.com^
 ||whoptoorsaub.com^
 ||whorlysenior.top^
