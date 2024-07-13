@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: M+pSQcQghuWCaVLnwjP3WA
+! Checksum: 0fQ3QQXlHZXmw0SouxkKFw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240713002640
+! Version: 20240713092732
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-13 00:26:40
-! Total Count: 28361
+! Last modified: 2024-07-13 09:27:32
+! Total Count: 28367
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -10841,6 +10841,7 @@
 ||lwlwlw.com/js/FVgg.js
 ||lwmzoaf.cn^
 ||lwonclbench.com^$third-party
+||lwprdv.xyz^
 ||lwrohd.xyz^
 ||lwtqqq.com^
 ||lwwlkj1.cn^
@@ -12084,6 +12085,7 @@
 ||ocpydszq.xyz^
 ||ocryndsu.xyz^
 ||ocwdkp.icu^
+||odipsumk.top^
 ||oe3.top^
 ||oehcxmhk.xyz^
 ||oektiu.xyz^
@@ -13044,6 +13046,7 @@
 ||puma.com^$popup,domain=hupu.com
 ||pumpedpancake.com^$third-party
 ||pumpedpurpose.com^$third-party
+||pungar85.shop^
 ||punyplant.com^$third-party
 ||puporn.com/xahnqhalt/
 ||pupsjr.xyz^
@@ -13543,6 +13546,7 @@
 ||rdnplpj.cn^
 ||rdpcom.com^
 ||rdpsht.xyz^
+||rdsgick.icu^
 ||rdufuxr.icu^
 ||rdx.autohome.com.cn^
 ||re.taotaosou.com^
@@ -16183,6 +16187,7 @@
 ||uxwkiyp.xyz^
 ||uxxux.com/js/zd.js
 ||uxzvjoj.cn^
+||uyaeco.xyz^
 ||uycxhgrp.xyz^
 ||uydzfldt.xyz^
 ||uyislot.top^
@@ -18144,6 +18149,7 @@
 ||zol.com.cn/active/*tmall
 ||zol.com.cn/adrs/
 ||zol.com.cn/js/ask/ask.js
+||zoltrl.xyz^
 ||zomcz.cyou^
 ||zone.pornlovo.co^
 ||zone1.bestporn24.com^
