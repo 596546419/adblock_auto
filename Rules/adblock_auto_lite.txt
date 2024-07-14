@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: w3YfRgQLH5gAh7mYT3Zokg
+! Checksum: J5pA3KZQIDsbQu8O971gvA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240714002404
+! Version: 20240714094057
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-14 00:24:04
-! Total Count: 28370
+! Last modified: 2024-07-14 09:40:57
+! Total Count: 28374
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7807,6 +7807,7 @@
 ||gkswas.xyz^
 ||gkutca.xyz^
 ||gkwrae.xyz^
+||gkypgw.xyz^
 ||gl.zle.com^
 ||gladglen.com^$third-party
 ||gleamingtrade.com^$third-party
@@ -10298,6 +10299,7 @@
 ||kwcmrfb.cn^
 ||kweriod.top^
 ||kwflvcdn.000dn.com^*.flv
+||kwiqcoh.icu^
 ||kwivb.cn^
 ||kwongwah.com.my/wp-content/plugins/dibs_engine/js/dibs_popup.js
 ||kwqnki.xyz^
@@ -10868,6 +10870,7 @@
 ||lyd.com.cn^*950-90.
 ||lydrnj.xyz^
 ||lyfwpt.com.cn^$third-party
+||lyislol.top^
 ||lysq.com/data/attachment/portal/
 ||lyuwkbl.top^
 ||lywww.com/data/js.php?id=
@@ -15343,6 +15346,7 @@
 ||tggsd07.com^
 ||tgidskii.top^
 ||tgjdbx.xyz^
+||tgrpzl.xyz^
 ||tgryfh.xyz^
 ||tgvgzt.xyz^
 ||tgwfaz.icu^

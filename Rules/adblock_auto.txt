@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 1puyX6rrUxdOwB+TvmQklQ
+! Checksum: SmMq3eNzVPPFLJeutoVSew
 ! Title: 混合规则(自动更新)
-! Version: 20240714002353
+! Version: 20240714094045
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-14 00:23:53
-! Total Count: 148004
+! Last modified: 2024-07-14 09:40:45
+! Total Count: 148013
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -952,6 +952,7 @@
 ||1buu1.penyouw.com^
 ||1c174d5fe7.com^
 ||1c447fc5b7.com^
+||1c52e1e2.live^
 ||1c7154dd67.com^
 ||1c7cf19baa.com^
 ||1cash.info^
@@ -33809,6 +33810,7 @@
 ||gkustph.cn^
 ||gkutca.xyz^
 ||gkwrae.xyz^
+||gkypgw.xyz^
 ||gkzba.com^
 ||gl-cash.com^
 ||gl-product-analytics.com^
@@ -45489,6 +45491,7 @@
 ||kwgefe.com^
 ||kwhenspokento.info^
 ||kwhhdwyuvi.com^
+||kwiqcoh.icu^
 ||kwivb.cn^
 ||kwiydaw.com^
 ||kwjfoeq.cn^
@@ -45804,6 +45807,7 @@
 ||laixi.com/tp/20
 ||laizuwhy.com^
 ||lajeshuru.pro^
+||lajevt.xyz^
 ||lajidewanyi.top^
 ||lajimeiguo.top^
 ||lajjuqamcwax.com^
@@ -48935,6 +48939,7 @@
 ||lygvtmeaekuv.com^
 ||lyingdownt.xyz^
 ||lyingshayride.com^
+||lyislol.top^
 ||lyjcwiwzkq.com^
 ||lyjegushe.pro^
 ||lyjiuban.com^
@@ -76913,6 +76918,7 @@
 ||tgktw.xyz^
 ||tgnlaigi.fun^
 ||tgolived.com^
+||tgrpzl.xyz^
 ||tgryfh.xyz^
 ||tgsscmaxfi.com^
 ||tgtag.io^
@@ -101454,6 +101460,7 @@ housefindeasy.com##div[style="display:inline-block; vertical-align:top; font-siz
 housing.com##.ad_pushup_paragraph
 housing.com##.ad_pushup_subtitle
 houstonchronicle.com,mysanantonio.com,sfgate.com##.mnh90px
+houstoniamag.com##.is-cream
 how2electronics.com##.stream-item-top
 how2electronics.com##[href^="https://www.nextpcb.com/"]
 how2electronics.com##[href^="https://www.pcbway.com/"]
@@ -108089,6 +108096,7 @@ sephora.com#?#div[class^="css-"]:-abp-has(>a:-abp-has(span:-abp-contains(Sponsor
 seqing.world,singlove.com,whichav.com,whichav.net,wokao.co##.qq
 serengeseba.com##.content > li > a[href^="http"]
 seroundtable.com###ninja_box
+serve.bussyhunter.com^
 serve.everydayporn.co^
 serve.yourporngod.com^
 serverhunter.com##.instant-visit
@@ -125522,6 +125530,7 @@ quickapp.cn
 reachmax.cn
 register.appsflyersdk.com^
 scorecardresearch.com
+serve.bussyhunter.com^
 serve.everydayporn.co^
 serve.yourporngod.com^
 show.ssports.com
