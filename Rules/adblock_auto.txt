@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: r49VeDDp3GIxZ08FK5U/0Q
+! Checksum: q7NentsuOzaxHlp8rDKnFg
 ! Title: 混合规则(自动更新)
-! Version: 20240714162755
+! Version: 20240715003724
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-14 16:27:55
-! Total Count: 148013
+! Last modified: 2024-07-15 00:37:24
+! Total Count: 148064
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1941,6 +1941,7 @@
 ||3r1kwxcd.top^
 ||3r3ijsa.cn^
 ||3redlightfix.com^
+||3ri.cc^
 ||3sk7d418al8u.com^
 ||3twentyfour.xyz^
 ||3uvz5.xyz^
@@ -10173,6 +10174,7 @@
 ||app0003.xyz^
 ||app2.*dfs.com^
 ||app2.10090dfs.com^
+||app2up.info^
 ||appaaaddd.com^
 ||appads.com^
 ||appanalysis*.banggood.com^
@@ -11428,6 +11430,7 @@
 ||aungoutsy.com^
 ||aungudie.com^
 ||aunsagoa.xyz^
+||aunsaick.com^
 ||auntants.com^$third-party
 ||auntlyseniors.top^
 ||auobxpvjej.xyz^
@@ -11441,6 +11444,7 @@
 ||aupteens.com^
 ||auptefee.net^
 ||aurabom.ru^
+||aurasport.net^
 ||aurdoagnoak.net^
 ||aurdosti.com^
 ||aurduwin.com^
@@ -11757,6 +11761,7 @@
 ||awkljjaaweyzm.top^
 ||awkwardpurfles.com^
 ||awkwardsuperstition.com^
+||awldcupu.com^
 ||awledconside.xyz^
 ||awleo.cn^
 ||awlov.info^
@@ -12071,6 +12076,7 @@
 ||b36a26f3ab.com^
 ||b37r5.cyou^
 ||b397db8f50.com^
+||b3b526dee6.com^
 ||b3kyo0de1fr0.com^
 ||b3mccglf4zqz.shop^
 ||b3ra6hmstrioek54er.com^
@@ -12681,6 +12687,7 @@
 ||baofeng.com/images/yiqi
 ||baohanhdienmayxanhvn.com^
 ||baohiemvietinbank.com^
+||baohiemxahoi.vnagov.com^
 ||baojia.steelcn.cn/images/$object
 ||baolanke.top^
 ||baoliny.com/js/jing.js
@@ -16340,6 +16347,7 @@
 ||bvrzwnq.xyz^
 ||bvtfutroyr.com^
 ||bvtvlp.xyz^
+||bvubasnf.com^
 ||bvudraqxpl.com^
 ||bvvb9.com^
 ||bvwxfok.cn^
@@ -18122,6 +18130,7 @@
 ||champaup.com^
 ||champedhyps.com^
 ||chamsockhachang.com^
+||chamsockhachhang-uudai-the-truc-tuyen.online^
 ||chamsockhachhang-uudaithe-thang6.com^
 ||chamsockhachhang-uudaitructuyen.online^
 ||chamsockhachhangnanghanmuctindungmsb.com^
@@ -18547,6 +18556,7 @@
 ||chinemcg.website^
 ||chinesean.com^$third-party
 ||chinesetoday.cn/2017/ad/*.gif
+||chinhphu.cc^
 ||chinkerdough.com^
 ||chinoismoras.com^
 ||chinsnakes.com^$third-party
@@ -19022,6 +19032,7 @@
 ||clampalarmlightning.com^
 ||clangearnest.com^
 ||clanker-events.squarespace.com^
+||clankexpelledidentification.com^
 ||clanklastingfur.com^
 ||clapperfone.uno^
 ||claquefumeuse.com^
@@ -29646,6 +29657,7 @@
 ||fam-ad.com^
 ||fameailmentcircumstantial.com^
 ||familialsimulation.com^
+||familiarpyromaniasloping.com^
 ||familiarrod.com^$third-party
 ||familyborn.com^
 ||familycomplexionardently.com^
@@ -32060,6 +32072,7 @@
 ||ftslrfl.com^
 ||ftte.fun^
 ||ftte.xyz^
+||fttervlvoj.com^
 ||fttjyji.com^
 ||fttxt.com/static/mh
 ||ftuaxqokbxow.com^
@@ -33566,6 +33579,7 @@
 ||gianwho.com^
 ||giaodich-quetthetindung.com^
 ||giaodich-quetthetindungvn.com^
+||giaodichdaquocgia.us^
 ||giaodichphieurutienmposvn.com^
 ||giaodichpostructuyenvn.com^
 ||giaodichquettindungpos247-online.com^
@@ -33629,6 +33643,7 @@
 ||gignfrfs.com^
 ||gigsmanhowls.top^
 ||gihehazfdm.com^
+||giiao.hangtietkiem.com^
 ||gijxsthpuqdwcn.com^
 ||gikefa.uno^
 ||gilarditus.com^
@@ -33865,6 +33880,7 @@
 ||glbtracker.com^
 ||glbtrk.com^
 ||glczys.xyz^
+||gldrdr.com^
 ||gleagainedam.info^
 ||gleamcalumnygeneralize.com^
 ||gleamcoupgently.com^
@@ -34745,6 +34761,7 @@
 ||gqdfgyz.cn^
 ||gqdvbkmnkox.com^
 ||gqedxf.com^
+||gqfuf.com^
 ||gqgfrgx.cn^
 ||gqhrflhprg.com^
 ||gqilaywrqy.com^
@@ -35066,6 +35083,7 @@
 ||groapeeque.com^
 ||grobido.info^
 ||grocerycookerycontract.com^
+||groceryshootworld.com^
 ||grocerysurveyingentrails.com^
 ||grocmaish.com^
 ||groglezapto.pro^
@@ -37520,6 +37538,7 @@
 ||hmttoly.com^
 ||hmutggsidcnhj.com^
 ||hmwang.icu/skin/images/*.gif
+||hmxg5mhyx.com^
 ||hmxogeovdbotm.com^
 ||hmyangshengji.com^
 ||hmyuokltxplqwfa.com^
@@ -39352,6 +39371,7 @@
 ||ifsussdehkgr.com^
 ||iftjwuu.cn^
 ||ifufen.com^
+||ifulasaweatherc.info^
 ||ifulidh.*/images/xb.jpg
 ||ifunmac.com/wp-content/uploads/*/alipay-
 ||ifvpetu.cn^
@@ -40836,6 +40856,7 @@
 ||interstitial-07.com^
 ||interstitial-08.com^
 ||interstitial-09.com^
+||intervention304.fun^
 ||interviewabonnement.com^
 ||interviewdegenerateperspective.com^
 ||interviewearnestlyseized.com^
@@ -45207,6 +45228,7 @@
 ||krjzxie.cn^
 ||krkcryk.cn^
 ||krkmkvxneig.com^
+||krkstrk.com^
 ||krkursist.com^
 ||krmlsuhicaapha.com^
 ||krnishwktki.com^
@@ -45944,6 +45966,7 @@
 ||lapatiya.info^
 ||lapblra5do4j7rfit7e.com^
 ||lapbscpgazh.com^
+||lapdatinternet.net^
 ||lapeduzis.org^
 ||lapowed.com^
 ||lapre28rmcat2.com^
@@ -48923,6 +48946,7 @@
 ||lydiapain.com^
 ||lydiz.com^
 ||lydrnj.xyz^
+||lyearsfoundhertob.com^
 ||lyemiatteffulrf.xyz^
 ||lyemmayrabawe.top^
 ||lyemmayrabzew.top^
@@ -51929,6 +51953,7 @@
 ||moistcargo.com^
 ||moistenmanoc.com^
 ||moistentrailed.top^
+||mojgov.weebly.com^
 ||mojoaffiliates.com^
 ||mojogike.net^
 ||mokeylife.cn^
@@ -53513,6 +53538,7 @@
 ||namesexual.com^
 ||namethatporn.com/assets/dev_popscript.js^
 ||nametraff.com^
+||namjzoa.xyz^
 ||namol.xyz^
 ||namystal.com^
 ||nan-net.com/*/bbs/s/inc/$subdocument
@@ -53542,6 +53568,7 @@
 ||nang-han-muc-vcs1-khcn-vib.com^
 ||nang-han-muc-vip-vpbank.com^
 ||nang-hang-ca-nhan-vib-mrk1.com^
+||nang-hang-the-vip2-vib.com^
 ||nang-hang-tin-dung-ca-nhan.com^
 ||nangalupeose.com^
 ||nangelsaidthe.info^
@@ -54103,6 +54130,7 @@
 ||nehodyshy.pro^
 ||nehree.com^
 ||neigh11.xyz^
+||neighborhood268.fun^
 ||neighborlywatch.com^$third-party
 ||neigna.com^
 ||neihan.co^
@@ -56479,6 +56507,7 @@
 ||ogtphoj.cn^
 ||ogtz5yn2u1.ru^
 ||ogvkyxx.com^
+||ogwkwcgmnarq.com^
 ||ogwmubfnjbzyo.com^
 ||ogwnjcumfbgm.com^
 ||ogwqkgtboxol.com^
@@ -57502,6 +57531,7 @@
 ||org-secured.com^
 ||orgagetnization.org^
 ||organexpectationsmaintain.com^
+||organiccopiedtranquilizer.com^
 ||organizecoldness.com^
 ||organrydipody.com^
 ||organsthud.com^
@@ -58562,6 +58592,7 @@
 ||palsybrush.com^
 ||palsyowe.com^
 ||paltryheadline.com^
+||paluinho.cloud^
 ||palvanquish.com^
 ||palycaid.life^
 ||palzscurou.com^
@@ -59827,6 +59858,7 @@
 ||pheselta.net^
 ||phesheet.net^
 ||phethikapso.pro^
+||phetsaikrugi.com^
 ||phewhouhopse.com^
 ||phexetos.com^
 ||phftcml.com^
@@ -62595,6 +62627,7 @@
 ||pseidpmubwu.com^
 ||psemotion.top^
 ||psensuds.net^
+||psergete.com^
 ||psestwotothr.cfd^
 ||pseudonym.cn^
 ||psf805.xyz^$document
@@ -64335,6 +64368,7 @@
 ||quamomo.vn^
 ||quanbailing.com^$third-party
 ||quancuncq.xyz^
+||quandoi-viettel.com^
 ||quangcao-*.epicdn.me^
 ||quangcao.24h.com.vn^
 ||quangcao.baovannghe.com.vn^
@@ -66038,6 +66072,7 @@
 ||renewedinexorablepermit.com^
 ||renewmodificationflashing.com^
 ||renewnewss.net^
+||renewpacificdistrict.com^
 ||renfs.xyz^
 ||rengbali.fun^
 ||renomeeguze.com^
@@ -66972,6 +67007,7 @@
 ||rmnsdh.xyz^
 ||rmqz.xyz^
 ||rmrtgsheui.com^
+||rmshqa.com^
 ||rmt.plus^
 ||rmtag.com^
 ||rmtckjzct.com^
@@ -68785,6 +68821,7 @@
 ||scktmdv.cn^
 ||scl6gc5l.site^
 ||sclerasliflod.top^
+||sclimbwidower.top^
 ||sclrnnp.com^
 ||scnd-tr.com^
 ||scnt.rambler.ru^
@@ -70462,6 +70499,7 @@
 ||shopeeshoppimg.com^
 ||shopeesmarket.com^
 ||shopeeson.com^
+||shopeesop.com^
 ||shopeesukien.com^
 ||shopeetiki.com^
 ||shopeetro.club^
@@ -70796,6 +70834,7 @@
 ||shrillwife.pro^
 ||shrillyfinland.com^
 ||shrimpexclusive.com^
+||shrimpgenerator.com^
 ||shrimpskins.org^
 ||shrinebroom.com^
 ||shrinersstor.com^
@@ -71214,6 +71253,7 @@
 ||siqwfy.cn^
 ||sirdata.io^
 ||sirdushi.xyz^
+||sirec.in^
 ||siredgynics.com^
 ||siredonlacs.com^
 ||sirepisode.com^
@@ -74637,6 +74677,7 @@
 ||succeedingpeacefully.com^
 ||succeedprosperity.com^
 ||success-news.net^
+||successcuff.com^
 ||successfulpatience.com^
 ||successfulscent.com^$third-party
 ||successfultogether.co.uk^
@@ -76373,6 +76414,7 @@
 ||tctm.co^
 ||tcuqqhj.icu^
 ||tcvmtp.xyz^
+||tcvnhomefic.com^
 ||tcwcs.com^
 ||tcwhycdinjtgar.xyz^
 ||tcx-beacon.docs.aws.dev^
@@ -76415,6 +76457,7 @@
 ||tdkt00.com^
 ||tdkt01.com^
 ||tdkt06.com^
+||tdkt07.com^
 ||tdljuuw.xyz^
 ||tdlyfz.xyz^
 ||tdmd.us^
@@ -77685,6 +77728,7 @@
 ||tikictv9.com^
 ||tikihk.com^
 ||tikiiii.com^
+||tikijaj2.com^
 ||tikimall.org^
 ||tikimall.top^
 ||tikimast.com^
@@ -77724,6 +77768,7 @@
 ||tikrailrou.com^
 ||tiksgayowqln.com^
 ||tikstok.fun^
+||tikt88.com^
 ||tiktakz.xyz^
 ||tiktok-ads.hara.vn^
 ||tiktokcy1.com^
@@ -82581,6 +82626,7 @@
 ||uuboos.com^
 ||uucfeebvz.com^
 ||uudai-tructuyen-chamsockhachhang-the.com.vn^
+||uudaikhachhang-tructuyen.com.vn^
 ||uudailienquan.com^
 ||uudainapthe.vn^
 ||uudainganhang.com^
@@ -83631,6 +83677,7 @@
 ||vghd.com^
 ||vghkncbu.xyz^
 ||vghnnh.xyz^
+||vgiao.hangtietkiem.com^
 ||vgimer.cn^
 ||vgjaxnuw.xyz^
 ||vgmnpjnrpj.com^
@@ -83696,6 +83743,7 @@
 ||viaviet03.mobie.in^
 ||vib-bank.com^
 ||vib-cardnew.shop^
+||vib-gold-card.shop^
 ||vib-mydiamon-khcn-uutien-vnc1.com^
 ||vib-nang-the.com^
 ||vib-nangcap.com^
@@ -84690,6 +84738,8 @@
 ||vnbitcoin.cc^
 ||vnbyclsboyoya.com^
 ||vnc63661s.com^
+||vnc69977s.com^
+||vnc75635s.com^
 ||vndcrknbh.xyz^
 ||vnduthianhgroup.com^
 ||vnebank.xyz^
@@ -89428,6 +89478,7 @@
 ||xxxrevpushclcdu.com^
 ||xxxuhx.xyz^
 ||xxxviijmp.com^
+||xxxvijmp.com^
 ||xxxvipporno.com^
 ||xxxvjmp.com^
 ||xxxwebtraffic.com^
