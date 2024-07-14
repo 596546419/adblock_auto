@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: SmMq3eNzVPPFLJeutoVSew
+! Checksum: r49VeDDp3GIxZ08FK5U/0Q
 ! Title: 混合规则(自动更新)
-! Version: 20240714094045
+! Version: 20240714162755
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-14 09:40:45
+! Last modified: 2024-07-14 16:27:55
 ! Total Count: 148013
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
@@ -45830,7 +45830,6 @@
 ||lamao.life^$document
 ||lamao.life^$~third-party
 ||lambangcap3giare.net^
-||lambda-url.us-east-1.on.aws^
 ||lambda.center^
 ||lambedbarbal.website^
 ||lamberslucina.website^
@@ -99338,6 +99337,7 @@ feixiaohao.com##.TopHomeLink
 feng.com##.ad-aside
 feng.com##.dd305
 feng.com##div[class^="ad_90"]
+fengchedmp.com,hdwan.net##body > div[style]
 fenghuo.in##.mimi
 fengniao.com###ad-head
 fengniao.com,zhiding.cn##div[id^="AD"]
@@ -101070,7 +101070,6 @@ hdtube.porn##.g-col-banners
 hdtube.porn##.under-player-link
 hdtube.porn,pornid.xxx,rat.xxx##.cs-under-player
 hdtube.porn,yourporngod.com,theporngod.com##+js(set-constant, flashvars.adv_pre_vast_alt, '')
-hdwan.net##body > div[style]
 hdzog.com,xcafe.com##a[href*="/cs/"]
 hdzone.org##a[style*="fixed"]
 he-games.com###he_banner_ad
@@ -121561,6 +121560,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /script/java.php?$xmlhttprequest
 /script/jeSus.js
 /script/liB1.js
+/script/liB2.js
 /script/naN.js
 /script/nasu.js$third-party
 /script/native_render.js
