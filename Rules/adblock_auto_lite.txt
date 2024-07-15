@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: U0vRKgfmO69aMHiZ2Izjeg
+! Checksum: 4Yu1H4yXlHKCc3jtwL8s0A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240715093631
+! Version: 20240715162716
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-15 09:36:31
-! Total Count: 28383
+! Last modified: 2024-07-15 16:27:16
+! Total Count: 28387
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8801,6 +8801,7 @@
 ||hyperadx.com^
 ||hypnoticwound.com^$third-party
 ||hypwbv.xyz^
+||hyretuu.top^
 ||hystericalcloth.com^$third-party
 ||hystericalfinger.com^$third-party
 ||hystericalhelp.com^$third-party
@@ -9319,6 +9320,7 @@
 ||itc.cn/mdevp/*-advert/
 ||itc.cn/w/u/0/old-insertAd-
 ||itdsmr.com^
+||iteyi.xyz^
 ||itheat.com/?show=
 ||ithome.com.tw/media/serve?
 ||ithome.com/api/lapin/
@@ -9429,6 +9431,7 @@
 ||janwzsqi.icu^
 ||jaowd.xyz^
 ||jappy.tv/i/wrbng/abb.png
+||jasdz1.cn^
 ||jatfugios.com^
 ||jav101.com/img5bbb0096f242f.gif
 ||jav789.com/assets/love/index.js
@@ -17235,6 +17238,7 @@
 ||xlyzjs.com$third-party
 ||xmawwbz.icu^
 ||xmcimg.com/js/m.js
+||xmhszb.xyz^
 ||xmi1.top^
 ||xmjajv.xyz^
 ||xmkmryu.icu^
