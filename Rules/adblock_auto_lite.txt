@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: U7ZyAEpltlKpJ7tY5wSaxA
+! Checksum: U0vRKgfmO69aMHiZ2Izjeg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240715003736
+! Version: 20240715093631
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-15 00:37:36
-! Total Count: 28377
+! Last modified: 2024-07-15 09:36:31
+! Total Count: 28383
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5829,6 +5829,7 @@
 ||cycyw.com/mf/
 ||cycyw.com/qdj/
 ||cyq3noz.icu^
+||cyretuf.top^
 ||cyuwkbf.top^
 ||czexrhl.cn^
 ||czouthy.cn^
@@ -6561,6 +6562,7 @@
 ||dustydime.com^$third-party
 ||dustyrabbits.com^$third-party
 ||dustywave.com^$third-party
+||duyewnf.icu^
 ||duyvtanrheje.xyz^
 ||dvbnmikxh.xyz^
 ||dvclhmt.cn^
@@ -7429,6 +7431,7 @@
 ||freedidi.com/wp-content/plugins/death-luhubaoyu/
 ||freee-porns.com/f.js
 ||freehao123.com/wp-content/uploads/2017/05/mmkdm.png
+||freeiptvplayer.net/wp-content/uploads/$script
 ||freejavbt.com/assets/images/banner
 ||freelivesex.tv/imgs/ad/
 ||freeporn.info/bobo/
@@ -15054,6 +15057,7 @@
 ||swoole.com/_images/w7.jpg
 ||swordgoose.com^$third-party
 ||swsegi.xyz^
+||swwdke.xyz^
 ||sx.fakjkwp.cn^
 ||sxakca.xyz^
 ||sxeimg.com/u/20191108/13082210.gif
@@ -15606,6 +15610,7 @@
 ||tqdpqq.com^
 ||tqjqripb.xyz^
 ||tqrznqs.cn^
+||tqtqvb.xyz^
 ||tquspo.com^
 ||tqvnzj.xyz^
 ||tqytqdrq.icu^
@@ -15942,6 +15947,7 @@
 ||udeztrb.cn^
 ||udheansv.com^
 ||udiab1.jianshu.com^
+||udipsumt.top^
 ||udjdpyrt.xyz^
 ||udkpcc.xyz^
 ||udn.com.tw/upf/*_banners/BD/

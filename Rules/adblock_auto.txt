@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: q7NentsuOzaxHlp8rDKnFg
+! Checksum: xO3hiGiL7Xt+3T8TDwktsg
 ! Title: 混合规则(自动更新)
-! Version: 20240715003724
+! Version: 20240715093620
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-15 00:37:24
-! Total Count: 148064
+! Last modified: 2024-07-15 09:36:20
+! Total Count: 148072
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1339,6 +1339,7 @@
 ||2526game.com^
 ||2529.com^$third-party
 ||254a.com^
+||258104d2.live^
 ||258a912d15.com^
 ||258ydh.com^
 ||258zw.com^$third-party
@@ -4850,6 +4851,7 @@
 ||ad-mapps.com^
 ||ad-maven.com^
 ||ad-mix.de^
+||ad-mixr.com^
 ||ad-move.jp^
 ||ad-ndtv.3s.com.vn^
 ||ad-nex.com^
@@ -22255,6 +22257,7 @@
 ||cypressreel.com^
 ||cyprie.com^
 ||cyq3noz.icu^
+||cyretuf.top^
 ||cyrigh.com^
 ||cyrwmgy.cn^
 ||cyrxvpnu.com^
@@ -26080,6 +26083,7 @@
 ||duxqonqkcaum.com^
 ||duyendangaodaivietnam2021.weebly.com^
 ||duyetdonlazada.com^
+||duyewnf.icu^
 ||duyixpy.top^
 ||duyvtanrheje.xyz^
 ||duzbhonizsk.com^
@@ -31761,6 +31765,7 @@
 ||freehookup.link^
 ||freehookupspace.com^
 ||freeiphone.info^
+||freeiptvplayer.net/wp-content/uploads/$script
 ||freejavbt.com/assets/images/banner
 ||freelancebeheld.com^
 ||freelancepicketpeople.com^
@@ -75343,6 +75348,7 @@
 ||swungencetacea.website^
 ||swuretecali.com^
 ||swvhwyaavewko.com^
+||swwdke.xyz^
 ||swwpush.com^
 ||swxun.com^
 ||swzgvmlvt.com^
@@ -78812,6 +78818,7 @@
 ||tqrjlqt.com^
 ||tqrznqs.cn^
 ||tqsrtyqpoeyp.com^
+||tqtqvb.xyz^
 ||tquspo.com^
 ||tquvbfl.com^
 ||tqvnzj.xyz^
@@ -81252,6 +81259,7 @@
 ||udiab1.jianshu.com^
 ||udifvi.cn^
 ||udinugoo.com^
+||udipsumt.top^
 ||udiy.club^
 ||udjdpyrt.xyz^
 ||udkcrj.com^
