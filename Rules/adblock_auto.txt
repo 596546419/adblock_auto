@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: d/QMjrLLZINIoSSt/ZtKSw
+! Checksum: u6xoFvB5QJkhB9uBsF+oHA
 ! Title: 混合规则(自动更新)
-! Version: 20240715162704
+! Version: 20240716002603
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-15 16:27:04
-! Total Count: 148082
+! Last modified: 2024-07-16 00:26:03
+! Total Count: 148089
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9862,6 +9862,7 @@
 ||aogk88.asia^
 ||aogkfujgtmfwp.xyz^
 ||aoihaizo.xyz^
+||aoiqa.top^
 ||aojeet.icu^
 ||aojgggbwish.xyz^
 ||aoji.cn/default/looyu/
@@ -26079,6 +26080,7 @@
 ||duwtkigcyxh.com^
 ||duwvinarma.com^
 ||duxesboddagh.com^
+||duxlveokumpmd.com^
 ||duxmhcj.cn^
 ||duxqonqkcaum.com^
 ||duyendangaodaivietnam2021.weebly.com^
@@ -74277,6 +74279,7 @@
 ||stonkstime.com^
 ||stoobsugree.net^
 ||stoobsut.com^
+||stoogouy.net^
 ||stookoth.com^
 ||stooliroori.com^
 ||stoolree.com^
@@ -81139,6 +81142,7 @@
 ||uahozcfq.xyz^
 ||uahpycewbx.com^
 ||uaiosio.top^
+||uaiqp.top^
 ||uakxkb.icu^
 ||uamobile.net^
 ||uamoctchgmkya.com^
@@ -101061,6 +101065,7 @@ hardwaretimes.com###tie-block_2144
 hardwaretimes.com###tie-block_3197
 hardwaretimes.com##.stream-item-size
 hardwaretimes.com,siasat.com##.stream-item-widget
+harvardmagazine.com##.adsbygoogle-block
 hashrate.no##.verticalAdContainer
 hashrate.no##center:has(.sevioads)
 haveibeenpwned.com##.actionsBar:has(.why1Password)
@@ -110950,6 +110955,8 @@ video.sina.cn##section.Card_Mb16
 videobb.com##.promo_tab
 videobin.co###startpopupcode
 videobug.net,videofun.me,vidzur.com##.randid
+videocardz.com###vc-intermid-desktop-ad
+videocardz.com##.google-sidebar
 videocelebs.net##.recl
 videofun.me###flowplayer > div[class][style]:first-child
 videogamemods.com##.topbanners
