@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: BoOQ6ApeNVWd37Eev1vHVw
+! Checksum: T4tnsNqaljgpFp3yKtgQAw
 ! Title: 混合规则(自动更新)
-! Version: 20240716162709
+! Version: 20240717002519
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-16 16:27:09
-! Total Count: 148105
+! Last modified: 2024-07-17 00:25:19
+! Total Count: 148117
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7155,6 +7155,7 @@
 ||aemediatraffic.com^
 ||aeneasclosure.website^
 ||aengbalz.fun^
+||aeonmedia.matomo.cloud^
 ||aeoonmail.com^
 ||aeoprw.cn^
 ||aeoqmogkswsd.com^
@@ -17778,6 +17779,7 @@
 ||cdolhlwq.xyz^
 ||cdosagebreakfast.com^
 ||cdoshbf.top^
+||cdp-eu.customer.io^
 ||cdp.asia^
 ||cdp.cloud.unity3d.com^
 ||cdp.vemt.com^
@@ -62202,6 +62204,7 @@
 ||probersnobles.com^
 ||probessanggau.com^
 ||probestrike.com^
+||probid.ai^
 ||probitystuck.com^
 ||probtn.com^
 ||procdn.asia^
@@ -75464,6 +75467,7 @@
 ||syncwowsails.com^
 ||syndapop.com^
 ||syndicate.payloadz.com^
+||syndicatedsearch.goog^
 ||syndication.adlinknetwork.vn^
 ||syndication.exosrv.com/splash.php?$xmlhttprequest,redirect=noop.txt,important,domain=hboav.com
 ||syndication.exosrv.com/splash.php?$xmlhttprequest,redirect=nooptext,important,domain=hboav.com
@@ -81264,6 +81268,7 @@
 ||udbaa.com^
 ||udbdf-v2.nimo.tv^
 ||udc.msn.com^
+||udd1i5.zhihu.com^
 ||udderexplosion.com^
 ||udegepq.com^
 ||udeoenm.cn^
@@ -95939,6 +95944,7 @@ bleedingcool.com,indy100.com,jamaicaobserver.com,pastemagazine.com###top_leaderb
 bleepingcomputer.com##.cz-toa-wrapp
 bleepingcomputer.com##.noty_bar
 bleepingcomputer.com##.s-ou-wrap
+bleepingcomputer.com##[href="https://try.flare.io/bleeping-computer/"]
 bleepingcomputer.com##[href^="https://www.bleepingcomputer.com/go/"]
 bleepingcomputer.com#?#.post_wrap:-abp-contains(AdBot)
 blenderartists.org,stonetoss.com###friends
@@ -104624,6 +104630,8 @@ mirror.co.uk,themirror.com###comments-standalone-mpu
 mirror.co.uk,themirror.com##.ad-placeholder
 mirrormedia.mg##.micro-ad
 mirrormedia.mg##.story__ad
+mirrormedia.mg##div[class^="gpt-placeholder"]
+mirrormedia.mg##div[class^="related-article-list__AdvertisementWrapper"]
 missav.ai,missav.com,missav.ws,missav123.com,missav789.com,myav.com##.lg\:block
 missav.ai,missav.com,missav.ws,missav123.com,missav789.com,myav.com##.lg\:hidden
 missav.ai,missav.com,missav.ws,missav123.com,missav789.com,myav.com##[x-show$="video_details'"] > div > .list-disc
@@ -111864,6 +111872,10 @@ xcyy.tv##body > style + [id] + img
 xd0.com###HtmlMoKua_775790
 xda-developers.com###xda_alert_bar
 xda-developers.com##.spon_banner
+xdaforums.com###xdaforums_leaderboard_atf
+xdaforums.com###xdaforums_leaderboard_btf
+xdaforums.com###xdaforums_right_1
+xdaforums.com###xdaforums_right_2
 xdf.cn##.footadv
 xdf.cn##.middleadv
 xdf.cn##[class^="bottom_ad"]
