@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: u6xoFvB5QJkhB9uBsF+oHA
+! Checksum: l1w/I0XrVkCSiSYHFLKDsw
 ! Title: 混合规则(自动更新)
-! Version: 20240716002603
+! Version: 20240716093532
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-16 00:26:03
-! Total Count: 148089
+! Last modified: 2024-07-16 09:35:32
+! Total Count: 148104
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1796,6 +1796,7 @@
 ||37e5693aa7.com^
 ||37io.com^
 ||37tek.fun^
+||38.33.15.10^
 ||380.tw^
 ||380.tw^$popup,third-party
 ||380tv.com/upload/*-ad-
@@ -2070,6 +2071,7 @@
 ||4a136c118e.com^
 ||4a167ec12d.com^
 ||4a623a5a49.com^
+||4a9517991d.com^
 ||4aae8f.site^
 ||4adtf.com.^
 ||4adtf.com^
@@ -8056,6 +8058,7 @@
 ||akmh047.vip^
 ||akmh049.vip^
 ||akmxts.com^
+||akn.analytics.autodesk.com^
 ||akncklacnvka.com^
 ||aknkvallbfml.com^
 ||aknusp.cn^
@@ -12879,6 +12882,7 @@
 ||bavde3.icu^
 ||bavei.com/img/*.png
 ||bavkvoks.xyz^
+||bavotr.xyz^
 ||bavxuhaxtqi.com^
 ||bavxxf.xyz^
 ||bawdybalance.com^$third-party
@@ -27326,6 +27330,7 @@
 ||eitish.com^
 ||eitka.com^
 ||eitney.com^
+||eiuoom.xyz^
 ||eiv.baidu.com^
 ||eiwojaavyvc.com^
 ||eiwyhwha.xyz^
@@ -35718,6 +35723,7 @@
 ||gzdpae.cyou^
 ||gzdszb.cn^
 ||gzexsc.top^
+||gzglmoczfzf.com^
 ||gzhying1.cn^
 ||gzhying1.cn^$third-party
 ||gzifhovadhf.com^
@@ -43750,6 +43756,7 @@
 ||jybaekajjmrqw.top^
 ||jydydmctzxcea.com^
 ||jyewkb.icu^
+||jyfdbj.xyz^
 ||jyfirjqojg.xyz^
 ||jyfw.cn/gonggong/jiayu/cf_
 ||jyfw.cn/nav/cf_
@@ -66570,6 +66577,7 @@
 ||rfeablduda.com^
 ||rferl.c.goolara.net^
 ||rfhddwa.com^
+||rficarolnak.com^
 ||rfidworld.com.cn/Notice/Home
 ||rfidworld.com.cn/js/RFID.js
 ||rfidworld.com.cn/js/RFIDExec.js
@@ -69145,6 +69153,7 @@
 ||sebeewho.xyz^
 ||sebkhapaction.com^
 ||sec-cloud.cn^
+||sec.webeyez.com^
 ||secclhkiuj.com^
 ||secezo.uno^
 ||seclick.ru^
@@ -83136,6 +83145,7 @@
 ||vavhhpkmfc.com^
 ||vavietcombank.cc^
 ||vavilisys.com^
+||vavuwetus.com^
 ||vawauoggraokog.com^
 ||vawsmoocah.com^
 ||vax-boost.com^
@@ -84060,6 +84070,7 @@
 ||vietnamairliness.com^
 ||vietnamairslines.com^
 ||vietnamairslines.vn^
+||vietnamdaily-log.trithuccuocsong.vn^
 ||vietnamdebd.com^
 ||vietnamdsa.site^
 ||vietnamfb.com^
@@ -85927,6 +85938,7 @@
 ||wbidr.com^
 ||wbilvnmool.com^
 ||wbjjkdofo.xyz^
+||wbk9sohp.jdpz.link^
 ||wbkaqly.cn^
 ||wbnbocz.xyz^
 ||wbnhqq.com^
@@ -87371,6 +87383,7 @@
 ||wnllmyw.xyz^
 ||wnmaoc.xyz^
 ||wnnbvnj.cn^
+||wnootzc.icu^
 ||wnp.com^
 ||wnqzlw.xyz^
 ||wnrrhcyok.xyz^
@@ -93023,7 +93036,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 20-0.net###biedamadeyouchongtule-aa
 2000fun.com##.single-box
 200sht.info,sehuatang.org##.show-text
-212.32.226.234###floatcenter
+212.32.226.234,animetrilogy.com,kissanime9.net###floatcenter
 21cn.com###embed_hzh_div
 21cn.com##.h-gg
 21cn.com##.xuantu
@@ -94660,8 +94673,9 @@ animehub.ac,secretmine.net###main-content > center
 animeland.su,itcats.ru,nekto.me,noadsradio.ru,sharkgame.ru,studies.in.ua,w10.jeanzzz.ru##.no-adb
 animenewsnetwork.com##.gutter
 animenewsnetwork.com##.iab
+animetrilogy.com,animexin.vip,hentaiff.com###overplay
+animetrilogy.com,xcalibrscans.com###close-teaser
 animewld.club##.header-img
-animexin.vip,hentaiff.com###overplay
 animixplay.to###belowcomment
 animixplay.to###streambottomright
 animixplay.to###topmid
@@ -98054,7 +98068,7 @@ democraticunderground.com##.mediumrectangle-placeholder
 democraticunderground.com##.nhome-mediumrectangle-container
 democraticunderground.com##.skyscraper-placeholder
 democraticunderground.com,plos.org##.skyscraper-container
-demonslayermanga.com,fake-it.ws,famousinternetgirls.com,files.im,funporns.com,groundedtechs.com,helpnetsecurity.com,javstream.co,lowendbox.com,mydrivers.com,readsnk.com,sexasia.net,thelittleslush.com,tokyoghoulre.com,up-4ever.net,up-load.one##img[width="300"][height="250"]
+demonslayermanga.com,fake-it.ws,famousinternetgirls.com,files.im,funporns.com,groundedtechs.com,helpnetsecurity.com,javstream.co,lowendbox.com,mydrivers.com,oann.com,readsnk.com,sexasia.net,thelittleslush.com,tokyoghoulre.com,up-4ever.net,up-load.one##img[width="300"][height="250"]
 demonslayermanga.com,readjujutsukaisen.com,readneverland.com##.js-a-container
 departures.com##.paid-banner
 depositfiles.com,depositfiles.org,dfiles.eu,dfiles.ru,sojson.com,wbzol.com,xizi.com##.banner1
@@ -99138,6 +99152,7 @@ euronews.com##.c-card-sponsor
 euronews.com##.enw-MPU
 euronews.com##.m-object--is-branded
 euronews.com##.m-object--is-partner-content
+euronews.com##.m-object:has(.m-object__spons-quote)
 euronews.com##.qa-dfpLeaderBoard
 europeangaming.eu###mvp-leader-wrap > a[href^="https://www.softswiss.com/"]
 europeanpharmaceuticalreview.com##.europ-fixed-footer
@@ -99849,6 +99864,7 @@ freegames.org###gla
 freehdinterracialporn.in###video > div.border + div[class]
 freehdinterracialporn.in##.my-ad
 freehotporntubes.com#?#.thumb > iframe[width="300"]:upward(1)
+freeiptvplayer.net##.iptv_ads
 freejavbt.com##div[data-selector*="ai-insert-"]
 freelogovectors.net##div[class^="popup"]
 freemovies.tv,gayfuror.com,pornjam.com##.publis-bottom
@@ -103306,7 +103322,6 @@ kiryuu.id##.wp-image-465340
 kiryuu.id##[width="1280"]
 kiss-anime.asia,kissanime.mobi##.countdown.btn
 kissanime.com.ru##.close_ad_button
-kissanime9.net###floatcenter
 kisscartoon.city##.brand_resp
 kisscenter.net,kissorg.net,ksnews.me##.avm
 kisscos.net##.video-sponsor
@@ -104336,6 +104351,7 @@ marketscreener.com###zppMiddle2
 marketscreener.com###zppRight2
 marketscreener.com##.bas
 marketscreener.com##.hPubRight2
+marketscreener.com##.zppAds
 marketsfarm.com##.gfm-ad-network-ad
 marketwatch.com##.container--sponsored
 marketwatch.com##.cxense-loading
@@ -111824,7 +111840,6 @@ xc6b.com##.navbar + .clearfix
 xc6b.com##a[href="http://61.160.236.52"]
 xcafe.com##.content_source
 xcafe.com##.footer-block
-xcalibrscans.com###close-teaser
 xcar.com.cn###eMeng
 xcar.com.cn###show_car
 xcar.com.cn##div[class^="adset"]

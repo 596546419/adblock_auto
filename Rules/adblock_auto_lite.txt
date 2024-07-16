@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: oUIcHIiXfZtI//caGUtQeA
+! Checksum: lBNw5DhpkV3Detg7pi5C8Q
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240716002614
+! Version: 20240716093543
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-16 00:26:14
-! Total Count: 28389
+! Last modified: 2024-07-16 09:35:43
+! Total Count: 28394
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -608,6 +608,7 @@
 ||37dv.com^
 ||37io.com^
 ||37tek.fun^
+||38.33.15.10^
 ||380.tw^$popup,third-party
 ||380tv.com/upload/*-ad-
 ||38bw0.space^
@@ -4172,6 +4173,7 @@
 ||bavde3.icu^
 ||bavei.com/img/*.png
 ||bavkvoks.xyz^
+||bavotr.xyz^
 ||bavxxf.xyz^
 ||bawdybalance.com^$third-party
 ||bawdybeast.com^$third-party
@@ -6821,6 +6823,7 @@
 ||eignky.xyz^
 ||eiqsky.xyz^
 ||eitb7.top^
+||eiuoom.xyz^
 ||eiv.baidu.com^
 ||ej65.xyz^
 ||ejdhmed.xyz^
@@ -9913,6 +9916,7 @@
 ||jy135.com^$third-party
 ||jy147a.com^
 ||jyewkb.icu^
+||jyfdbj.xyz^
 ||jyfw.cn/gonggong/jiayu/cf_
 ||jyfw.cn/nav/cf_
 ||jygiizv.icu^
@@ -16853,6 +16857,7 @@
 ||wnllmyw.xyz^
 ||wnmaoc.xyz^
 ||wnnbvnj.cn^
+||wnootzc.icu^
 ||wnzle.com^
 ||woaidu.org/images/20180802/3.jpg
 ||wocoqs.xyz^
