@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: pmH4xnNCA+HfkrVjJU9+ZQ
+! Checksum: UKWdCkMUHfTS842klGQFJQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240717162655
+! Version: 20240718002709
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-17 16:26:55
-! Total Count: 28401
+! Last modified: 2024-07-18 00:27:09
+! Total Count: 28404
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4441,6 +4441,7 @@
 ||bhktalt.cn^
 ||bhlntz.xyz^
 ||bi.yeshen.com^
+||bi25.cc/js/hf
 ||bian-min.com/javascript/a/detail.js
 ||biancheng.net/uploads/ggxc/
 ||biancitiao.com^
@@ -9126,6 +9127,7 @@
 ||imgs.cc/img/8Pl6FJY.gif
 ||imgs.cc^$domain=fun1shot.com
 ||imgs.itxueyuan.com/advPicture/
+||imgsrc.baidu.com/*/pic/*.jpg$domain=aeahsck.cc
 ||imgsrc.baidu.com/tieba/pic/item/$image
 ||imgtg.com^*.gif
 ||imgtp.com/2023/02/18/KkRe64ff.png
@@ -11289,6 +11291,7 @@
 ||miguyu.com/AD/
 ||miiepofl.xyz^
 ||mikanani.me/images/Masha/
+||mikka.app^
 ||mikuclub.*/pub/
 ||mil.news.sina.com.cn/iframe/109/2012/1024/photo.html
 ||mil.news.sina.com.cn/iframe/109/2013/1015/hotpic.html
