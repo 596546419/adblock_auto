@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: u0mMtiZ/aTHCKIcmakPoRw
+! Checksum: pfdHV5M/vWALLY6DSFn+tg
 ! Title: 混合规则(自动更新)
-! Version: 20240717092803
+! Version: 20240717162644
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-17 09:28:03
-! Total Count: 148143
+! Last modified: 2024-07-17 16:26:44
+! Total Count: 148250
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -51527,6 +51527,7 @@
 ||mklrty.info^
 ||mkopli-1.live^
 ||mkscuty.cn^
+||mkscy6.cn^
 ||mkshopmobi.xyz^
 ||mkt.hoanghamobile.com^
 ||mkt3261.com^
@@ -54393,6 +54394,7 @@
 ||newnns.com^
 ||newnudecash.com^
 ||newoctads.com^
+||newormedia.com^
 ||newpgqnfapkamg.xyz^
 ||newprofitcontrol.com^
 ||newrevive.detik.com^
@@ -57922,6 +57924,7 @@
 ||outbalanceleverage.com^
 ||outbanner.hu.co.kr^
 ||outblewmorga.com^
+||outbrain.com^
 ||outbrain.com^$domain=wenxuecity.com
 ||outbrain.com^$third-party
 ||outbrainimg.com^$domain=rocketnews24.com|youpouch.com|soranews24.com
@@ -75834,6 +75837,7 @@
 ||tabloidwept.com^
 ||taboola.com.cn^
 ||taboola.com^
+||taboolasyndication.com^
 ||tabooporn.tv^$domain=63290r.com
 ||taboringrigri.com^
 ||taborsfields.top^
@@ -94992,6 +94996,7 @@ atlantatribune.com,barrettsportsmedia.com,footballleagueworld.co.uk,ioncinema.co
 atlanticsuperstore.ca,fortinos.ca,loblaws.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
 atlanticsuperstore.ca,fortinos.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca##.block-wrapper:has(.element-header__sponsoredLabel)
 atlanticsuperstore.ca,fortinos.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca#?#[data-testid="card"]:-abp-contains(sponsored)
+atlasobscura.com##.ProgrammaticMembershipCallout--taboola-member-article-container
 atlasobscura.com##.ad-site-top-full-width
 atlasobscura.com##.advertisement-disclaimer
 atlasobscura.com##.advertisement-shadow
@@ -103175,6 +103180,7 @@ juqingba.cn##.jqright1
 jurong.cn##.ad_190_60_5s
 jurong.cn,ld0766.com##.totalad
 just-dice.com##.realcontent
+just-food.com##.gdm-company-profile-unit__container
 just-for-fun.ru##body > div[class*="-container"][class*="-hide"]
 justdial.com###gptAds2
 justdial.com###gptAdsDiv
@@ -109609,6 +109615,7 @@ telegraph.co.uk##.article-betting-unit-container
 telegraph.co.uk##.commercial-unit
 telegraphindia.com##.ttdadbox310
 telegraphindia.com##.uk-background-muted
+telescopius.com##tlc-ad-banner
 telesputnik.ru##.adbPopup
 tellows-au.com,tellows-tr.com,tellows.at,tellows.be,tellows.co,tellows.co.nz,tellows.co.uk,tellows.co.za,tellows.com,tellows.com.br,tellows.cz,tellows.de,tellows.es,tellows.fr,tellows.hu,tellows.in,tellows.it,tellows.jp,tellows.mx,tellows.net,tellows.nl,tellows.org,tellows.pl,tellows.pt,tellows.ru,tellows.se,tellows.tw##li > .comment-body[style*="min-height: 250px;"]
 tellymix.co.uk###sidebar > div[style]
@@ -111263,6 +111270,7 @@ watchcartoononline.bz##.adkiss
 watcher.guru##.add-header
 watchgayporn.online##+js(noeval-if, popunder)
 watchhentaivideo.com##.bannerBottom
+watchinamerica.com##.smartmag-widget-codes
 watchindianporn.net##.spots-wr
 watchmdh.to,watchporn.to,fuckcelebs.net,perverttube.com,sexlist.tv,mangovideo.club,cwtvembeds.com##+js(set-constant, flashvars.video_click_url, '')
 watchmovierulz.to##.ad_watch_now
@@ -128054,6 +128062,7 @@ zle.com$script
 ###appss[style="padding:15px;"]
 ###arBRyGHxuDYU
 ###arlinablock
+###around-the-web
 ###article-ad
 ###article-ad-container
 ###article-ad-content
@@ -128280,6 +128289,7 @@ zle.com$script
 ###block-openads-5
 ###block-sidebarad1
 ###block-sponsors
+###block-taboolablock
 ###block-vh-dfp-dfp-ad-r2
 ###block-views-ads-header-0-block-block
 ###block-views-ads-header-top-block-block
@@ -129005,6 +129015,7 @@ zle.com$script
 ###fwin_popad_7ree
 ###fwin_popad_7ree + #fwin_dialog
 ###g-adblock2
+###g-outbrain
 ###gAds
 ###gBnrAd
 ###gBottomRightAd
@@ -129480,11 +129491,14 @@ zle.com$script
 ###iv728ad
 ###j-new-ad
 ###jobs-ad
+###js-Taboola-Container-0
 ###js-ad-billboard
 ###js-ad-leaderboard
 ###js-ad-map
 ###js-image-ad-mpu
 ###js-outbrain-ads-module
+###js-outbrain-module
+###js-outbrain-relateds
 ###js-outbrain-rightrail-ads-module
 ###js-page-ad-top
 ###js-popup-blocker
@@ -129794,6 +129808,7 @@ zle.com$script
 ###modalgg
 ###module-ads-01
 ###module-ads-02
+###moduleTaboolaRightRail
 ###module_ad
 ###module_box_ad
 ###module_sky_scraper
@@ -129901,10 +129916,16 @@ zle.com$script
 ###openx_iframe
 ###optadATF
 ###or-ad
+###outbrain
+###outbrain-id
+###outbrain-section
 ###outbrain-wrapper
+###outbrain1
 ###outbrainAdWrapper
+###outbrainWidget
 ###outbrain_dual_ad_fs_0_dual
 ###outbrain_vertical
+###outbrain_widget_0
 ###ovAdWrap
 ###ovadsense
 ###overlay-ad-bg
@@ -130020,6 +130041,7 @@ zle.com$script
 ###popupBottomAd
 ###popup_ad_wrapper
 ###popupadunit
+###possible_taboola
 ###post-ad
 ###post-ads
 ###post-bottom-ads
@@ -130819,26 +130841,52 @@ zle.com$script
 ###table1[width="794"][height="60"]
 ###table1[width="812"][height="50"]
 ###table1[width="812"][height="60"]
+###taboola
+###taboola-above-homepage-thumbnails
 ###taboola-ad
 ###taboola-adverts
 ###taboola-below
 ###taboola-below-article-1
 ###taboola-below-article-thumbnails
+###taboola-below-article-thumbnails-2
 ###taboola-below-article-thumbnails-express
 ###taboola-below-article-thumbnails-v2
+###taboola-below-disco-board
 ###taboola-below-forum-thumbnails
+###taboola-below-homepage-thumbnails-2
+###taboola-below-homepage-thumbnails-3
+###taboola-below-main-column
+###taboola-belowarticle
+###taboola-bottom
+###taboola-bottom-main-column
 ###taboola-content
+###taboola-div
 ###taboola-footer-ad
+###taboola-homepage-thumbnails
+###taboola-homepage-thumbnails-desktop
+###taboola-horizontal-toolbar
+###taboola-in-feed-thumbnails
 ###taboola-main-container
 ###taboola-mid-article-thumbnails
 ###taboola-mid-article-thumbnails-ii
+###taboola-mid-main-column-thumbnails
 ###taboola-mobile-article-thumbnails
+###taboola-native-right-rail-thumbnails
 ###taboola-placeholder
 ###taboola-right-rail
 ###taboola-right-rail-express
+###taboola-right-rail-text-right
+###taboola-right-rail-thumbnails
+###taboola-right-rail-thumbnails-2nd
+###taboola-text-2-columns-mix
 ###taboola-top-banner-abp
+###taboola-vid-container
+###taboola-widget-wrapper
+###taboola_bottom
 ###taboola_related
 ###taboola_responsive_wrapper
+###taboola_side
+###taboola_wrapper
 ###takeover-ad
 ###takeover_ad
 ###takeoverad
@@ -131485,8 +131533,10 @@ zle.com$script
 ##.ArticleAd
 ##.ArticleAdSide
 ##.ArticleAdWrapper
+##.ArticleFooter-outbrain
 ##.ArticleInlineAd
 ##.ArticleInnerAD
+##.ArticleOutbrainLocal
 ##.Article__Ad
 ##.BOX_Ad
 ##.BOX_LeadAd
@@ -131589,9 +131639,11 @@ zle.com$script
 ##.NavBarAd
 ##.Normal-add
 ##.OAS_wrap
+##.OUTBRAIN
 ##.OUTBRAIN[data-widget-id^="FMS_REELD_"]
 ##.OcelotAdModule
 ##.OcelotAdModule-ad
+##.Outbrain
 ##.PPD_ADS_JS
 ##.Page-ad
 ##.PageTopAd
@@ -136773,6 +136825,7 @@ zle.com$script
 ##.articleHeaderAd
 ##.articleTop-ads
 ##.articleTopAd
+##.article_OutbrainContent
 ##.article__ad-holder
 ##.article__adblock
 ##.article__adhesion
@@ -137390,6 +137443,7 @@ zle.com$script
 ##.box-fixed-ads
 ##.box-footer-ad
 ##.box-google-text-ad
+##.box-outbrain
 ##.box-radvert
 ##.box-recommend-ad
 ##.box-taboola-content
@@ -137609,6 +137663,7 @@ zle.com$script
 ##.c-sitenav-adslot
 ##.c-sitenavPlaceholder__ad
 ##.c-teaser__advertising
+##.c2_outbrain
 ##.cA-adStack
 ##.cA-adStrap
 ##.cColumn-TextAdsBox
@@ -137824,6 +137879,7 @@ zle.com$script
 ##.component-ddb-728x90-v1
 ##.component-ddb-728x90-v2
 ##.component-header-sticky-ad
+##.component-outbrain
 ##.component-sponsored-links
 ##.component-zergnet
 ##.components-Ad-___Ad__ad
@@ -138288,6 +138344,7 @@ zle.com$script
 ##.divider-ad
 ##.divider-advert
 ##.divider-full-width-ad
+##.divider-taboola
 ##.divider_ad
 ##.diysdk_webServices_banners1und1MainContent
 ##.dlSponsoredLinks
@@ -139849,6 +139906,7 @@ zle.com$script
 ##.js-sticky-advert-details-mpu
 ##.js-stream-ad
 ##.js-stream-featured-ad
+##.js-taboola
 ##.js-toggle-ad
 ##.js-underplayerAd
 ##.js-widget-distroscale
@@ -140158,6 +140216,7 @@ zle.com$script
 ##.m-advert
 ##.m-advertisement
 ##.m-advertisement--container
+##.m-article-taboola
 ##.m-balloon-header--ad
 ##.m-block-ad
 ##.m-content-advert
@@ -140232,6 +140291,7 @@ zle.com$script
 ##.masthead__ad
 ##.mb-advert__incontent
 ##.mbads
+##.mc-column-Taboola
 ##.mdp-deblocker-wrapper
 ##.media-viewer__ads-container
 ##.media__ad
@@ -140712,6 +140772,7 @@ zle.com$script
 ##.ob-ad-carousel-layout
 ##.ob-hover
 ##.ob-p.ob-dynamic-rec-container
+##.ob-smartfeed-wrapper
 ##.ob-strip-layout
 ##.ob-widget-header
 ##.ob_ads_header
@@ -140744,15 +140805,34 @@ zle.com$script
 ##.os-header-ad
 ##.otd-ad-top
 ##.outBrainWrapper
+##.outbrain
 ##.outbrain-ad-slot
 ##.outbrain-ad-units
+##.outbrain-ads
 ##.outbrain-bg
+##.outbrain-bloc
+##.outbrain-content
+##.outbrain-group
+##.outbrain-module
+##.outbrain-placeholder
+##.outbrain-recommended
+##.outbrain-reserved-space
+##.outbrain-single-bottom
 ##.outbrain-widget
+##.outbrain-wrap
+##.outbrain-wrapper
+##.outbrain-wrapper-container
+##.outbrain-wrapper-outer
 ##.outbrainAdHeight
+##.outbrainWidget
+##.outbrain__main
 ##.outbrain_ad_li
+##.outbrain_container
 ##.outbrain_dual_ad_whats_class
+##.outbrain_skybox
 ##.outbrain_ul_ad_top
 ##.outbrainad
+##.outbrainbox
 ##.outer-ad-container
 ##.outer-ad-unit-wrapper
 ##.outerAdWrapper
@@ -141729,6 +141809,7 @@ zle.com$script
 ##.showheroes-ad-slot
 ##.shr-ads-container
 ##.si-adRgt
+##.sics-component__outbrain
 ##.sics-component__sticky-ad-placeholder
 ##.sidbaread
 ##.side-ad
@@ -141848,6 +141929,7 @@ zle.com$script
 ##.sidebar-content-ad
 ##.sidebar-digiads
 ##.sidebar-header-ads
+##.sidebar-outbrain
 ##.sidebar-paid-ad-label
 ##.sidebar-product-ad
 ##.sidebar-skyscraper-ad
@@ -142024,6 +142106,7 @@ zle.com$script
 ##.slot-box-marker-ad
 ##.slot-customcontentad
 ##.slot__ad
+##.slottaboola
 ##.sm-ad
 ##.sm-admgnr-unit
 ##.sm-ads
@@ -142480,22 +142563,37 @@ zle.com$script
 ##.tablet-ad
 ##.tablet_ad_box
 ##.tablet_ad_head
+##.taboola
 ##.taboola-above-article
 ##.taboola-above-article-thumbnails
 ##.taboola-ad
+##.taboola-banner
 ##.taboola-block
+##.taboola-bottom-adunit
+##.taboola-container
+##.taboola-frame
 ##.taboola-general
 ##.taboola-in-plug-wrap
 ##.taboola-inbetweener
 ##.taboola-item
 ##.taboola-left-rail-wrapper
+##.taboola-like-block
+##.taboola-module
 ##.taboola-partnerlinks-ad
 ##.taboola-placeholder
 ##.taboola-placement
+##.taboola-recommends
+##.taboola-sidebar
+##.taboola-sidebar-container
 ##.taboola-single-asset-ads
+##.taboola-skip-wrapper
+##.taboola-thumbnails-container
 ##.taboola-unit
+##.taboola-vertical
 ##.taboola-widget
+##.taboola-wrapper
 ##.taboolaArticle
+##.taboolaDiv
 ##.taboolaHeight
 ##.taboola__container
 ##.taboola_advertising
@@ -142504,6 +142602,8 @@ zle.com$script
 ##.taboola_body_ad
 ##.taboola_container
 ##.taboola_lhs
+##.taboola_module
+##.taboolaloader
 ##.tadm_ad_unit
 ##.tads
 ##.tag-hide_inline_content_ads
@@ -142891,6 +142991,8 @@ zle.com$script
 ##.trb_taboola
 ##.trc-content-sponsored
 ##.trc-content-sponsoredUB
+##.trc-first-recommendation
+##.trc-spotlight-first-recommendation
 ##.trc_excludable
 ##.trc_excludable.syndicatedItem
 ##.trc_rbox
@@ -142902,6 +143004,7 @@ zle.com$script
 ##.trc_rbox_div .syndicatedItemUB
 ##.trc_related_container
 ##.trc_related_container div[data-item-syndicated="true"]
+##.trc_spotlight_item
 ##.trend-card-advert
 ##.trend-card-advert__title
 ##.tsm-ad
@@ -143063,6 +143166,7 @@ zle.com$script
 ##.vm-ad-horizontal
 ##.vmag_medium_ad
 ##.vmp-ad
+##.voc-ob-wrapper
 ##.vod_ad
 ##.vodads
 ##.vodl-ad__bigsizebanner
@@ -143262,6 +143366,8 @@ zle.com$script
 ##.widget_njads_single_widget
 ##.widget_ok_zergnet_widget
 ##.widget_openxwpwidget
+##.widget_outbrain
+##.widget_outbrain_widget
 ##.widget_plugrush_widget
 ##.widget_pmc-ads-widget
 ##.widget_po_ads_widget
@@ -143513,6 +143619,7 @@ zle.com$script
 ##[data-revive-zoneid]
 ##[data-revive-zoneid] > iframe
 ##[data-role="tile-ads-module"]
+##[data-taboola-options]
 ##[data-template-type="nativead"]
 ##[data-testid="adBanner-wrapper"]
 ##[data-testid="ad_testID"]
