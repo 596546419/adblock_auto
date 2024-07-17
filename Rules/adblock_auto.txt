@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: T4tnsNqaljgpFp3yKtgQAw
+! Checksum: u0mMtiZ/aTHCKIcmakPoRw
 ! Title: 混合规则(自动更新)
-! Version: 20240717002519
+! Version: 20240717092803
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-17 00:25:19
-! Total Count: 148117
+! Last modified: 2024-07-17 09:28:03
+! Total Count: 148143
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -132,6 +132,7 @@
 ||0302.pghwwjd.com/777dvd/gg.html
 ||0302.pghwwjd.com/777dvd/wapbb.html
 ||0302.pghwwjd.com/777dvd/wapbb.js
+||03180d2d.live^
 ||0322cfmtl.cc^
 ||033.com^$third-party
 ||033dfgh.com^
@@ -749,6 +750,7 @@
 ||163jiankang.com/zhuanqian/m/myad-
 ||164.155.185.254^
 ||1647871863.rsc.cdn77.org^
+||164de830.live^
 ||16577716.com^
 ||165tchuang.com^
 ||1661795914.rsc.cdn77.org^
@@ -1450,7 +1452,7 @@
 ||2d4f.com/love/
 ||2d6g0ag5l.de^
 ||2d77c9dd09.com^
-||2d8bc293.xyz
+||2d8bc293.xyz^
 ||2d941.site^
 ||2df0b2e308.com^
 ||2e4b7fc71a.com^
@@ -11470,6 +11472,7 @@
 ||auspipe.com^
 ||austaihauna.com^
 ||austaits.xyz^
+||austere-familiar.com^
 ||austeritylegitimate.com^
 ||austow.com^
 ||autchoog.net^
@@ -13236,6 +13239,7 @@
 ||beacon-1.newrelic.com^
 ||beacon-api.aliyuncs.com^
 ||beacon-fullpage-predictor.goguardian.com^
+||beacon-v2.helpscout.net^
 ||beacon.adelphic.com^
 ||beacon.affil.walmart.com^
 ||beacon.aimtell.com^
@@ -13910,6 +13914,7 @@
 ||bewarevampiresister.com^
 ||bewathis.com^
 ||bewdnkh.com^
+||bewhigwithier.com^
 ||bewilderedbattle.com^
 ||bewilderedbattle.com^$third-party
 ||bewilderedblade.com^$third-party
@@ -14563,6 +14568,7 @@
 ||bkujacocdop.com^
 ||bkvps.com^$third-party
 ||bkvtrack.com^
+||bkxpph.xyz^
 ||bkxuprh.cn^
 ||bkyqhavuracs.com^
 ||bkyratafrni.com^
@@ -16144,6 +16150,7 @@
 ||bungalowsimply.com^
 ||bungarovet.com^
 ||bungeedubbah.com^
+||bungingimpasto.com^
 ||bunintruder.com^
 ||bunny-net.com^
 ||bunnymediaserver.com^
@@ -18231,6 +18238,7 @@
 ||charterunwelcomealibi.com^
 ||chasmsnaa.com^
 ||chassirsaud.com^
+||chassnincom.com^
 ||chastehandkerchiefclassified.com^
 ||chat-lab.tokyo/adCode.js
 ||chatbox-static.botbanhang.vn^
@@ -19780,6 +19788,7 @@
 ||cnt.tubeon.
 ||cnt.vivatube.
 ||cnt.vivatube.com^
+||cnt.web-apps-prod.wo-cloud.com^
 ||cnt.winporn.
 ||cnt.xhamster.com^
 ||cnt.yeptube.
@@ -44204,6 +44213,7 @@
 ||keephapi.com^
 ||keepinfit.net^
 ||keepingconcerned.com^
+||keepsagri.net^
 ||keepsosto.com^
 ||keepsouh.com^
 ||keeptaza.com^
@@ -46315,6 +46325,7 @@
 ||ldgjwdohqbi.xyz^
 ||ldimnveryldgittl.com.ua^
 ||ldimnveryldgitwe.xyz^
+||ldipsuml.top^
 ||ldisgmftfxanwb.com^
 ||lditsdebriisar.cfd^
 ||ldjhlqr.cn^
@@ -46602,6 +46613,7 @@
 ||leonardoadv.it^
 ||leonbetvouum.com^
 ||leonidwolvers.com^
+||leonistenstyle.com^
 ||leonodikeu9sj10.com^
 ||leoohpwquexxoyt.com^
 ||leoojlxbcvnmpbe.com^
@@ -50421,6 +50433,7 @@
 ||mediative.com^
 ||mediatoday.ru^
 ||mediator.imgsmail.ru^
+||mediatradecraft.com^
 ||mediatraffic.com.ua^
 ||mediatraks.com^
 ||mediav.com^
@@ -50445,6 +50458,7 @@
 ||mediego.com^
 ||medigaly.com^
 ||medimnbream.top^
+||medinewaps.com^
 ||mediocrecount.com^
 ||medipartner.jp^
 ||meditateenhancements.com^
@@ -54190,6 +54204,7 @@
 ||neopowerlab.com^
 ||neornad.cn^
 ||neosap.ru^
+||neousaunce.com^
 ||nepalon.com^
 ||nepohita.com^
 ||neqty.net^
@@ -60170,6 +60185,7 @@
 ||pigletinerm.com^
 ||pigletsmunsee.top^
 ||pigment-adv.co.il^
+||pigmewpiete.com^
 ||pigmydocent.com^
 ||pignuwoa.com^
 ||pigrewartos.com^
@@ -60767,6 +60783,7 @@
 ||pleastevallege.xyz^
 ||pleasureflatteringmoonlight.com^
 ||plecki.com^
+||plecnyz.icu^
 ||pledgeexceptionalinsure.com^
 ||pledgeincludingsteer.com^
 ||pledgetolerate.com^
@@ -62046,6 +62063,7 @@
 ||prevostslakier.top^
 ||prevuesthurl.com^
 ||preyersbowe.top^
+||prezna.com^
 ||prf.hn^$third-party
 ||prf.vagnt.com^
 ||prfct.co^
@@ -63825,6 +63843,7 @@
 ||qhres.com/static/b4f92ac067a4768b/v4/modules/footer.js
 ||qhres.com^*/baidu_
 ||qhrixol.cn^
+||qhscsu.xyz^
 ||qhskskb.com^
 ||qhsqrtva.com^
 ||qhssjyb.xyz^
@@ -77832,6 +77851,7 @@
 ||timidtraumaticterminate.com^
 ||timingbitternessgreasy.com^
 ||timivay.com^
+||timmerintice.com^
 ||timoggownduj.com^
 ||timot-cvk.info^
 ||timothy.wang^
@@ -84867,6 +84887,7 @@
 ||vocationalenquired.com^
 ||vod-cash.com^
 ||vodafone-direkt.de^
+||voderbhungi.com^
 ||vodjnqarncm.com^
 ||vodkaquang.com^
 ||vodlpsf.com^
@@ -85432,6 +85453,7 @@
 ||vx4n.icu^
 ||vxdgsgdsvlwz.com^
 ||vxdpmxw.xyz^
+||vxdrfr.xyz^
 ||vxeynuboasnc.com^
 ||vxfdepn.cn^
 ||vxfpsgwhm.com^
@@ -85789,6 +85811,7 @@
 ||washinexhaustible.com^
 ||washingbustlewhack.com^
 ||washingoccasionally.com^
+||washokanap.com^
 ||washpottelly.website^
 ||wasortg.com^
 ||wasp-182b.com^
@@ -92482,7 +92505,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 100bt.com##.aolasidebar__ad1
 100ec.cn##.detail_top_ad
 100ksw.com###ad_move_sg
-100percentfedup.com,180gadgets.com,247media.com.ng,academicful.com,addapinch.com,aiarticlespinner.co,allaboutfpl.com,alltechnerd.com,americanmilitarynews.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,asurascans.com,australiangeographic.com.au,autodaily.com.au,bigleaguepolitics.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,charlieintel.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,coincodecap.com,conservativebrief.com,cookingwithdog.com,corrosionhour.com,crimereads.com,cryptobriefing.com,cryptointelligence.co.uk,cryptopotato.com,cryptoreporter.info,cryptoslate.com,dafontfree.io,dailynewshungary.com,dcenquirer.com,dexdotexe.com,dorohedoro.online,epicdope.com,eurweb.com,exeo.app,fandomwire.com,fap-nation.com,firstsportz.com,flickeringmyth.com,flyingmag.com,freemagazines.top,fyptt.to,gadgetinsiders.com,gamegill.com,gameinfinitus.com,gamertweak.com,gatewaynews.co.za,geekdashboard.com,getdroidtips.com,goodyfeed.com,greekreporter.com,hard-drive.net,hdmovies4u.live,hollywoodinsider.com,hollywoodunlocked.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,japaneseasmr.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,jujustukaisen.com,libertyunlocked.com,linuxfordevices.com,lithub.com,mb.com.ph,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,nationalfile.com,nintendoeverything.com,notalwaysright.com,nsw2u.com,nxbrew.com,organicfacts.net,patriotfetch.com,premiumtimesng.com,protrumpnews.com,pureinfotech.com,quickanswer.blog,redrightvideos.com,reneweconomy.com.au,reptilesmagazine.com,respawnfirst.com,rezence.com,roadaheadonline.co.za,rok.guide,saabplanet.com,sciencenotes.org,sdnews.com,simscommunity.info,small-screen.co.uk,storypick.com,streamingbetter.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techpp.com,techrounder.com,techviral.net,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,thepeoplesvoice.tv,thewincentral.com,trendingpolitics.com,trendingpoliticsnews.com,twistedvoxel.com,videogamer.com,vjmedia.com.hk,walletinvestor.com,washingtonblade.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,win.gg,wisden.com,wnd.com,zerohanger.com##.code-block
+100percentfedup.com,180gadgets.com,247media.com.ng,academicful.com,addapinch.com,aiarticlespinner.co,allaboutfpl.com,alltechnerd.com,americanmilitarynews.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,asurascans.com,australiangeographic.com.au,autodaily.com.au,bigleaguepolitics.com,bipartisanreport.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,charlieintel.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,coincodecap.com,conservativebrief.com,cookingwithdog.com,corrosionhour.com,crimereads.com,cryptobriefing.com,cryptointelligence.co.uk,cryptopotato.com,cryptoreporter.info,cryptoslate.com,dafontfree.io,dailynewshungary.com,dcenquirer.com,dexdotexe.com,dorohedoro.online,epicdope.com,eurweb.com,exeo.app,fandomwire.com,fap-nation.com,firstsportz.com,flickeringmyth.com,flyingmag.com,freemagazines.top,fyptt.to,gadgetinsiders.com,gamegill.com,gameinfinitus.com,gamertweak.com,gatewaynews.co.za,geekdashboard.com,getdroidtips.com,goodyfeed.com,greekreporter.com,hard-drive.net,hdmovies4u.live,hollywoodinsider.com,hollywoodunlocked.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,japaneseasmr.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,jujustukaisen.com,libertyunlocked.com,linuxfordevices.com,lithub.com,mb.com.ph,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,nationalfile.com,nintendoeverything.com,notalwaysright.com,nsw2u.com,nxbrew.com,organicfacts.net,patriotfetch.com,politizoom.com,premiumtimesng.com,protrumpnews.com,pureinfotech.com,quickanswer.blog,redrightvideos.com,reneweconomy.com.au,reptilesmagazine.com,respawnfirst.com,rezence.com,roadaheadonline.co.za,rok.guide,saabplanet.com,sciencenotes.org,sdnews.com,simscommunity.info,small-screen.co.uk,storypick.com,streamingbetter.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techpp.com,techrounder.com,techviral.net,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,thepeoplesvoice.tv,thewincentral.com,trendingpolitics.com,trendingpoliticsnews.com,twistedvoxel.com,videogamer.com,vjmedia.com.hk,walletinvestor.com,washingtonblade.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,win.gg,wisden.com,wnd.com,zerohanger.com##.code-block
 101.ru##.showMessageAdBlock
 1010dy3.com###arBRyGHxuDYU
 1010dy3.com##.text-center[style]
@@ -94268,7 +94291,9 @@ africam.com##[style="min-height: 250px;"]
 africam.com,open3dlab.com##[style="min-height: 90px;"]
 africanadvice.com,pspad.com,sudantribune.com,thehackernews.com##.google
 africanews.com##.right-legend
+afro.com###block-10
 afro.com##.a-215.g-single
+afro.com,ghacks.net##.category-sponsored
 afrol.com##table[height="70"]
 afterdawn.com##.ni_box
 afullcup.com##.promos
@@ -97848,6 +97873,8 @@ dailygh.com##.div_removeable
 dailyherald.com##.stnContainer
 dailyjournalonline.com##.g-dyn
 dailykos.com##.ad__placeholder
+dailykos.com##.ad_leaderboard__container
+dailykos.com##.ad_right_rail
 dailykos.com##.story-banner-ad-placeholder
 dailymail.co.uk###promo-unit
 dailymail.co.uk###sky-right
@@ -100423,7 +100450,6 @@ ggrecon.com##.mainVenatusBannerContainer
 ggrecon.com##.venatus-block
 ghacks.net###download-widget
 ghacks.net###snhb-snhb_ghacks_bottom-0
-ghacks.net##.category-sponsored
 ghacks.net##.ftd-item
 ghacks.net##.ftd-item.home-posts
 ghacks.net##.ghacks-ad

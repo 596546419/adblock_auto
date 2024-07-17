@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: owHu0NJg7pt5SK4kZM+giw
+! Checksum: ub/bneaJGEM8L1WD+j0YQA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240717002530
+! Version: 20240717092815
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-17 00:25:30
-! Total Count: 28395
+! Last modified: 2024-07-17 09:28:15
+! Total Count: 28400
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4531,6 +4531,7 @@
 ||bkjia.com/bkjia/js/subnavtop.js
 ||bkjlf58.com^
 ||bkvps.com^$third-party
+||bkxpph.xyz^
 ||bkxuprh.cn^
 ||bkzmtp.xyz^
 ||bl-doujinsouko.com/fam2.html
@@ -10452,6 +10453,7 @@
 ||ld0766.com/*20*a/
 ||ldb.cc/js/top.js
 ||ldgjwdohqbi.xyz^
+||ldipsuml.top^
 ||ldjhlqr.cn^
 ||ldjnbn.xyz^
 ||ldmnq.com^$third-party,badfilter
@@ -12666,6 +12668,7 @@
 ||playtv.com.cn/Pictuer/
 ||plbs9k.icu^
 ||pleasantpump.com^$third-party
+||plecnyz.icu^
 ||plnbnd.xyz^
 ||plnrkgc.xyz^
 ||plnshao.xyz^
@@ -13213,6 +13216,7 @@
 ||qhres.com/static/*/common/seed.js
 ||qhres.com/static/4b6ab193405b6ca3.js
 ||qhres.com^*/baidu_
+||qhscsu.xyz^
 ||qhssjyb.xyz^
 ||qhtdmlf.xyz^
 ||qhx1h2g.com^
@@ -16563,6 +16567,7 @@
 ||vwyycnq.cn^
 ||vx4n.icu^
 ||vxdpmxw.xyz^
+||vxdrfr.xyz^
 ||vxfdepn.cn^
 ||vxhtxt.xyz^
 ||vxinzheng.xyz^$third-party
