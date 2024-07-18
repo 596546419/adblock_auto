@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: jfxo0OhjMZlNiC1RCJmpww
+! Checksum: Gk1BLt8v4QSe1PnUFxh/AA
 ! Title: 混合规则(自动更新)
-! Version: 20240718092638
+! Version: 20240718162615
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-18 09:26:38
-! Total Count: 148333
+! Last modified: 2024-07-18 16:26:15
+! Total Count: 148339
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -12429,6 +12429,7 @@
 ||baihbw.cn^
 ||baihuwang.com^$third-party
 ||baijav.com^
+||baijs010.xyz^
 ||baijs02.xyz^
 ||baijs03.xyz^
 ||baijs05.xyz^
@@ -25413,6 +25414,7 @@
 ||doujs06.xyz^
 ||doujs07.xyz^
 ||doujs08.xyz^
+||doujs09.xyz^
 ||doukoula.com^
 ||doumobhaia.site^
 ||doumuleet.net^
@@ -34564,6 +34566,7 @@
 ||google-analytics.com^$object,redirect-rule=noopjs
 ||google-js-01.xyz^
 ||google-js-02.xyz^
+||google-js-08.xyz^
 ||google-pagerank.net^
 ||google-shopping-v2.sapoapps.vn^
 ||google-shopping.sapoapps.vn^
@@ -37465,6 +37468,7 @@
 ||hjprhubzqgw.com^
 ||hjqdwmekhur.com^
 ||hjqwe.com^
+||hjrcjz.xyz^
 ||hjrvsw.info^
 ||hjrwwwlqcovom.com^
 ||hjshal.com^
@@ -93038,7 +93042,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 18comic.*##body .bot-per
 18comic.*##div[data-height="90"][data-width="728"]
 18comic.*#?#body .bot-per
-18comic.org,18comic.vip##+js(set-constant, adv_resize, noopFunc)
 18comic.org,18comic.vip##div[class="row"][style="display: flex;flex-wrap: wrap;"]
 18comic.org,18comic.vip##div[data-group^="photo_center_games_"]
 18comic.org,18comic.vip##div[data-group^="skyscraper_"]
@@ -94971,6 +94974,7 @@ arcadebomb.com##.colunit1
 arcadespot.com##.as-incontent
 arcadespot.com##.as-label
 arcadespot.com##.as-unit
+archaeology.org##.site-header__iykyk
 archaeology.org##.top_black
 archdaily.com##.ad-300-250
 architecturesideas.com##.linkpub_right_img
@@ -104044,6 +104048,8 @@ lowes.com###lws_hp_recommendations_belowimage_1
 lowes.com##.lws_pdp_recommendations_southdeep
 lowes.com##.lws_pdp_recommendations_sponsored
 lowfuelmotorsport.com##.ads-stats
+lowfuelmotorsport.com##.skyscraper-right
+lowfuelmotorsport.com,newsnow.co.uk##.skyscraper-left
 lowtoxlife.com##.openpay-footer
 lpl.qq.com,v.qq.com##+js(set-constant, CreativePlayerwebPlugin.AD_EVENT.AD_DESTROY, '')
 lpl.qq.com,v.qq.com##+js(set-constant, CreativePlayerwebPlugin.AD_EVENT.AD_LOAD_START, '')
@@ -104730,6 +104736,7 @@ mirror.co.uk##.shopwindow-advertorial
 mirror.co.uk##.vf3-conversations-list__promo
 mirror.co.uk,themirror.com###comments-standalone-mpu
 mirror.co.uk,themirror.com##.ad-placeholder
+mirrored.to##form[action^="//filesdl.cloud/"]
 mirrormedia.mg##.micro-ad
 mirrormedia.mg##.story__ad
 mirrormedia.mg##div[class^="gpt-placeholder"]
@@ -105624,7 +105631,6 @@ newsnext.live##.size-large
 newsnow.co.uk##.grid-column__container
 newsnow.co.uk##.hero-wrapper
 newsnow.co.uk##.js-banner-strip
-newsnow.co.uk##.skyscraper-left
 newspointapp.com##.Ad_wrapper
 newspointapp.com##.fbgooogle-wrapper
 newspointapp.com##[ctn-style]
@@ -108210,6 +108216,7 @@ searchencrypt.com##.serp__top-ads
 searchencrypt.com##.web-result.unloaded.sr
 searchenginejournal.com###sej-pop-wrapper
 searchenginejournal.com###sej-pop-wrapper_v2
+searchenginejournal.com###sej-pop-wrapper_v3
 searchenginejournal.com###spcat_ifr
 searchenginejournal.com###sspcat_ifr
 searchenginejournal.com###summita-wrapa-1
@@ -108218,11 +108225,10 @@ searchenginejournal.com##.h420
 searchenginejournal.com##.img-m_max-100
 searchenginejournal.com##.img-mmax-100
 searchenginejournal.com##.sej-hello-bar
-searchenginejournal.com##.sej-tt-link
+searchenginejournal.com##.sej-ttt-link
 searchenginejournal.com##.ss_slot
 searchenginejournal.com##.sss2_sllo_o2
 searchenginejournal.com##.sss2_sllo_o3
-searchenginejournal.com##.sss2_sllo_o5
 searchenginejournal.com##.sss_sllo_o
 searchenginejournal.com##.sss_slot
 searchenginejournal.com##.top_lead

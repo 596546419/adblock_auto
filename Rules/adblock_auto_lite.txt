@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 8Kzpy2mSMzwJMHBEwmFdxg
+! Checksum: Dwy2mAKNcsoiMzN81MqyOQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240718092650
+! Version: 20240718162626
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-18 09:26:50
-! Total Count: 28409
+! Last modified: 2024-07-18 16:26:26
+! Total Count: 28413
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4109,6 +4109,7 @@
 ||baiduvjsbvjknlsvsv.com^
 ||baifen.music.baidu.com^
 ||baihuwang.com^$third-party
+||baijs010.xyz^
 ||baijs02.xyz^
 ||baijs03.xyz^
 ||baijs05.xyz^
@@ -6426,6 +6427,7 @@
 ||doujs06.xyz^
 ||doujs07.xyz^
 ||doujs08.xyz^
+||doujs09.xyz^
 ||doupocangqiong1.com/js/ptwap.js
 ||doutula.com/img/upupoo/
 ||douyin.com/api/user/getPcBanner?
@@ -7944,6 +7946,7 @@
 ||google-analytics.com^$object,redirect-rule=noopjs
 ||google-js-01.xyz^
 ||google-js-02.xyz^
+||google-js-08.xyz^
 ||google.com/ads/search/app?*&caps=*sdkAdmobApiForAds
 ||googleads.g.doubleclick.net/pagead/ads$subdocument,redirect=noop.html,domain=rjno1.com,important
 ||googleads.g.doubleclick.net/pagead/id^$xmlhttprequest,redirect-rule=nooptext
@@ -8518,6 +8521,7 @@
 ||hjkiguy.com^
 ||hjnjjcw.xyz^
 ||hjpqt.cn^
+||hjrcjz.xyz^
 ||hjshal.com^
 ||hjtedf.xyz^
 ||hk-pub.com/forum/images/2009/gifbanner
