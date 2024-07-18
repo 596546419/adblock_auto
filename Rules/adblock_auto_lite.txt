@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: UKWdCkMUHfTS842klGQFJQ
+! Checksum: 8Kzpy2mSMzwJMHBEwmFdxg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240718002709
+! Version: 20240718092650
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-18 00:27:09
-! Total Count: 28404
+! Last modified: 2024-07-18 09:26:50
+! Total Count: 28409
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -250,6 +250,7 @@
 ||154.7.80.158^
 ||155zn.com^
 ||156.233.32.123^$third-party
+||156xsw.com/css/js/tools.
 ||158zm.com/head.js
 ||158zm.com/top.js
 ||159i.com/nd/b_slest.php
@@ -4291,6 +4292,7 @@
 ||bdimg.com/static/m-question-new/widget/ad-union-
 ||bdimg.com/static/wkcore/widget/commerce/fengchao/
 ||bdimg.com/static/wkview/widget/download_after_activity_new/download_after_activity_new_
+||bdipsumv.top^
 ||bdjdpyrt.xyz^
 ||bdjfea.cn^
 ||bdjiaoben.wmxa.cn^
@@ -8921,6 +8923,7 @@
 ||iephrenhq.com^
 ||ievvo.xyz^
 ||iewtwo.xyz^
+||ieymhkx.icu^
 ||ifbfksf.xyz^
 ||ifbqves.cn^
 ||ifc-edu.cn^$third-party
@@ -9875,6 +9878,7 @@
 ||juyqiolna.cyou^
 ||juzi6.com/js/dp.js
 ||juzi6.com/js/gd.js
+||juznlx.xyz^
 ||juzwrl.xyz^
 ||jvjlkih.com^
 ||jvjmjt.xyz^
@@ -11461,6 +11465,7 @@
 ||molibaike.com/js/ads.
 ||molimao.top/ad*.js
 ||molimao.top/imp/upload/vod/*.gif
+||molpmh.xyz^
 ||momoguoji.xyz^
 ||momoshop.com.tw/goods/GoodsDetail.jsp?$subdocument
 ||momoshop.com.tw/league/$domain=beephone.com.tw
