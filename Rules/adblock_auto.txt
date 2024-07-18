@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Gk1BLt8v4QSe1PnUFxh/AA
+! Checksum: Du3Th+TpsrJp5HksV1Bt/A
 ! Title: 混合规则(自动更新)
-! Version: 20240718162615
+! Version: 20240719002614
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-18 16:26:15
-! Total Count: 148339
+! Last modified: 2024-07-19 00:26:14
+! Total Count: 148345
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7713,6 +7713,7 @@
 ||ahoravideo-schnellvpn.com^
 ||ahoravideo-schnellvpn.xyz^
 ||ahoxirsy.com^
+||ahoy-internal-ads-hv.b-cdn.net^
 ||ahp1.site^
 ||ahp10.site^
 ||ahp11.site^
@@ -60142,6 +60143,7 @@
 ||pic.gongkong.com/UploadPic/gongkong/
 ||pic.ivzfpwm.cn^$script,third-party
 ||pic.pimg.tw/cwyuni/*.gif?v=$domain=cwyuni.tw
+||pic.shedsgs.cn/upload_*/upload/*.gif$domain=91porna.com
 ||pic.touleb.cn/banner/
 ||pic.yupoo.com/showflash/
 ||pic1.dianshu119.com^
@@ -94039,6 +94041,10 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 91porn.com##iframe[src$="/fans/ad.php"]
 91porn.com#?##videodetails > div:has(> a[href][target="_blank"])
 91porn.com,its.porn##.preroll-blocker
+91porna.com##.carousel-container:has(#carouselExampleInterval)
+91porna.com##.row > div.flex-container:has(> a[href][target="_blank"] > img)
+91porna.com##.row > div[class^="col"]:has(> .video-wrap > a.checkNum)
+91porna.com##div[class^="col"] div.filters:has(a.checkNum)
 91porny.com##.row > div.colVideoList:has(> div.video-elem > a[target="_blank"])
 91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz,jiuse970.com##.container-fluid.p-0[class*="mb-"]
 91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz,jiuse970.com##.jsv-g1
@@ -95081,7 +95087,7 @@ atyun.com###r_banner > ul > li > a[href^="http"]:not([href*="atyun."])
 atyun.com,rrjc.com##.coupletbox
 auctionzip.com##.az-header-ads-container
 audacy.com##.component--google-ad-manager
-audi-sport.net,beermoneyforum.com,forums.sailinganarchy.com,geekdoing.com,skitalk.com,sportfishingbc.com,studentdoctor.net##.samBannerUnit
+audi-sport.net,beermoneyforum.com,clubsearay.com,forums.sailinganarchy.com,geekdoing.com,skitalk.com,sportfishingbc.com,studentdoctor.net##.samBannerUnit
 audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
 audiobacon.net##.audio-widget.et_pb_widget
 audiobookbay.is##[href="/ddeaatr"]

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Dwy2mAKNcsoiMzN81MqyOQ
+! Checksum: vKEn6ciSi0eMXPEHomG7aA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240718162626
+! Version: 20240719002625
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-18 16:26:26
-! Total Count: 28413
+! Last modified: 2024-07-19 00:26:25
+! Total Count: 28415
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3297,6 +3297,7 @@
 ||ahlife.com/api.php?mod=adv&
 ||ahm.135320.com^
 ||ahmestatic.fuckandcdn.com/ah-me/ahmestatic/mobile/ads/
+||ahoy-internal-ads-hv.b-cdn.net^
 ||ahporntube.com^
 ||ahpphkc.xyz^
 ||ahtfzhs.xyz^
@@ -12589,6 +12590,7 @@
 ||pic.gongkong.com/UploadPic/gongkong/
 ||pic.ivzfpwm.cn^$script,third-party
 ||pic.pimg.tw/cwyuni/*.gif?v=$domain=cwyuni.tw
+||pic.shedsgs.cn/upload_*/upload/*.gif$domain=91porna.com
 ||pic.touleb.cn/banner/
 ||pic.yupoo.com/showflash/
 ||pic1.dianshu119.com^
