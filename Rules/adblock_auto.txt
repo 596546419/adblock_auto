@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ol3tO4YpuDAY0yAtc+6Qlw
+! Checksum: mCwQXDdIa1nFaJA3EuP7zA
 ! Title: 混合规则(自动更新)
-! Version: 20240719092741
+! Version: 20240719162555
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-19 09:27:41
-! Total Count: 148360
+! Last modified: 2024-07-19 16:25:55
+! Total Count: 148368
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -18303,6 +18303,7 @@
 ||chazidian.com/mobile_general_
 ||chazidian.com/statics/images/wangke.jpg
 ||chbheroq.xyz^
+||chbujyjyvshtcr.com^
 ||chbvrgjgkuv.com^
 ||chdbits.co/pic/*-*.gif
 ||chdkxgjtwflba.com^
@@ -23938,6 +23939,7 @@
 ||dfepm.xyz^
 ||dfepsqnbje.com^
 ||dfes68.com^
+||dffa09cade.com^
 ||dffhhqka.com^
 ||dffhncwicaqm.com^
 ||dffrahax.com^
@@ -38156,6 +38158,7 @@
 ||hpcwwd.com^
 ||hpcyk.com^
 ||hpdwfd2.com^
+||hpeaxbmuh.com^
 ||hpejlsb.com^
 ||hpepeepce.com^
 ||hpfbiu.com^
@@ -42308,6 +42311,7 @@
 ||jekzyyowqwwrz.top^
 ||jekzyyowqwwwy.top^
 ||jelfmtsr5i.ru^
+||jelliescroon.click^
 ||jellifygummier.top^
 ||jellifytayer.com^
 ||jelllearnedhungry.com^
@@ -44142,6 +44146,7 @@
 ||kba8i.icu^
 ||kbabqnd.cn^
 ||kbadguhvqig.xyz^
+||kbadkxocv.com^
 ||kbao7755.de^
 ||kbayke.xyz^
 ||kbbqwhf.cn^
@@ -55980,6 +55985,7 @@
 ||nzlebmxoebtff.com^
 ||nzlrfdv.xyz^
 ||nzme-ads.co.nz^
+||nznkaq5.cn^
 ||nzporf.xyz^
 ||nzq5.u95ivu.xyz^
 ||nzq5.u95ivu.xyz^$third-party
@@ -58052,6 +58058,7 @@
 ||ouvyil.com^
 ||ouwhejoacie.xyz^
 ||ouwmdvd.cn^
+||ouxourtoo.com^
 ||ouxutong.com^
 ||ouxvgihpkjfkhs.xyz^
 ||ouyaoxiazai.com/static/img/cqthree.gif
@@ -62859,6 +62866,7 @@
 ||ptaissud.com^
 ||ptaixout.net^
 ||ptalribs.xyz^
+||ptamselrou.com^
 ||ptanguth.com^
 ||ptapjmp.com^
 ||ptarepjx.com^
