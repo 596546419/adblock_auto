@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 6YfcOISNGl/tWpMBQ4IsTQ
+! Checksum: giSbBAmhnPlLPwGJ639oeg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240720002641
+! Version: 20240720092610
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-20 00:26:41
-! Total Count: 28425
+! Last modified: 2024-07-20 09:26:10
+! Total Count: 28432
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5227,6 +5227,7 @@
 ||chaomi.cc/js/cms_
 ||chaospace.fun/wp-content/uploads/*/%E6%A3%8B%E7%89%8C-
 ||chaospace.fun/wp-content/uploads/*/tg-
+||chaoyumiao.com^
 ||chapm.com^$third-party
 ||charmingcough.com^$third-party
 ||charmingplate.com^$third-party
@@ -5730,6 +5731,7 @@
 ||crosspromotion-us.avosapps.us^
 ||crosspromotion.weplayer.cc^
 ||crowdedmass.com^$third-party
+||crtlisf.top^
 ||crulxoits.com^$third-party
 ||crumpet.xxxpornhd.pro^
 ||crvbnac.xyz^
@@ -7270,6 +7272,7 @@
 ||fhdjdv.xyz^
 ||fherunm.cn^
 ||fhglcpf.icu^
+||fhnbrx.xyz^
 ||fhtfnb.xyz^
 ||fhvbhx.xyz^
 ||fhvzrr.xyz^
@@ -8923,6 +8926,7 @@
 ||idv.st/dns/bar.htm
 ||idynbff.cn^
 ||ieapak.xyz^
+||iecmca.xyz^
 ||ieequd.icu^
 ||ieforex.com/r/cms/www/red/red2/images/*0.
 ||ielgag.top^
@@ -13798,6 +13802,7 @@
 ||rockradio.com^*/blockadblock-$script,domain=rockradio.com
 ||rockstargame.su/adb_script$script
 ||rodeopolice.com^$third-party
+||rodmfv.xyz^
 ||rofmjd.xyz^
 ||roio.top^
 ||rollconnection.com^$third-party
@@ -15947,6 +15952,7 @@
 ||u2w95z.xyz^
 ||u33011.com^
 ||u33022.com^
+||u4ccj.icu^
 ||u55011.com^
 ||u55022.com^
 ||u5nvu.xyz^
@@ -16224,6 +16230,7 @@
 ||uuysiaq.com^
 ||uuzsfpju.xyz^
 ||uuzwvqc.cn^
+||uvekyvs.icu^
 ||uvklgw.xyz^
 ||uvpqrydt.xyz^
 ||uwandlt.top^
