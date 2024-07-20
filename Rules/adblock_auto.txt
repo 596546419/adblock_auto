@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: sgig+7ANuH+378reUit3Ug
+! Checksum: 39/9UTsee+HOCmL2ons+5g
 ! Title: 混合规则(自动更新)
-! Version: 20240720092559
+! Version: 20240720162409
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-20 09:25:59
-! Total Count: 148418
+! Last modified: 2024-07-20 16:24:09
+! Total Count: 148430
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3416,6 +3416,7 @@
 ||8e6d77310c.com^
 ||8e9d62ac9b.com^
 ||8ec9b7706a.com^
+||8eef59a5.live^
 ||8en.net^$third-party
 ||8f2587daa3.com^
 ||8f2b4c98e7.com^
@@ -25425,6 +25426,7 @@
 ||doujinnomori.com/ad/
 ||doujl.cn^
 ||doujs01.xyz^
+||doujs010.xyz^
 ||doujs02.xyz^
 ||doujs03.xyz^
 ||doujs05.xyz^
@@ -75235,6 +75237,7 @@
 ||surfierunreel.com^
 ||surfingmister.com^
 ||surfmdia.com^
+||surfwestlaw.com^
 ||surge.systems^
 ||surgeprice.com^
 ||surgermystem.xyz^
@@ -86617,6 +86620,7 @@
 ||werbeflut.net^
 ||weredthechild.info^
 ||wereksbeforebut.info^
+||weremoiety.com^
 ||wereriskbarnacle.com^
 ||wererxrzmp.com^
 ||wergy.xyz^
@@ -91570,6 +91574,7 @@
 ||zeti.com^
 ||zetporn.com/*/custom_vast/$xmlhttprequest
 ||zetporn.com/LQMDQSMLDAZAEHERE/
+||zetutsooz.net^
 ||zeuqmpe.icu^
 ||zeusadx.com^
 ||zeustechnology.com^
@@ -92633,7 +92638,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 100bt.com##.aolasidebar__ad1
 100ec.cn##.detail_top_ad
 100ksw.com###ad_move_sg
-100percentfedup.com,180gadgets.com,247media.com.ng,academicful.com,addapinch.com,aiarticlespinner.co,allaboutfpl.com,alltechnerd.com,americanmilitarynews.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,asurascans.com,australiangeographic.com.au,autodaily.com.au,bigleaguepolitics.com,bipartisanreport.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,charlieintel.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,coincodecap.com,conservativebrief.com,cookingwithdog.com,corrosionhour.com,crimereads.com,cryptobriefing.com,cryptointelligence.co.uk,cryptopotato.com,cryptoreporter.info,cryptoslate.com,dafontfree.io,dailynewshungary.com,dcenquirer.com,dexdotexe.com,dorohedoro.online,epicdope.com,eurweb.com,exeo.app,fandomwire.com,fap-nation.com,firstsportz.com,flickeringmyth.com,flyingmag.com,freemagazines.top,fyptt.to,gadgetinsiders.com,gamegill.com,gameinfinitus.com,gamertweak.com,gatewaynews.co.za,geekdashboard.com,getdroidtips.com,goodyfeed.com,greekreporter.com,hard-drive.net,hdmovies4u.live,hollywoodinsider.com,hollywoodunlocked.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,japaneseasmr.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,jujustukaisen.com,libertyunlocked.com,linuxfordevices.com,lithub.com,mb.com.ph,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,mymotherlode.com,nationalfile.com,nintendoeverything.com,notalwaysright.com,nsw2u.com,nxbrew.com,organicfacts.net,patriotfetch.com,politizoom.com,premiumtimesng.com,protrumpnews.com,pureinfotech.com,quickanswer.blog,redrightvideos.com,reneweconomy.com.au,reptilesmagazine.com,respawnfirst.com,rezence.com,roadaheadonline.co.za,rok.guide,saabplanet.com,sciencenotes.org,sdnews.com,simscommunity.info,small-screen.co.uk,storypick.com,streamingbetter.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techpp.com,techrounder.com,techviral.net,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,thepeoplesvoice.tv,thewincentral.com,trendingpolitics.com,trendingpoliticsnews.com,twistedvoxel.com,videogamer.com,vjmedia.com.hk,walletinvestor.com,washingtonblade.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,win.gg,wisden.com,wnd.com,zerohanger.com##.code-block
+100percentfedup.com,180gadgets.com,247media.com.ng,academicful.com,addapinch.com,aiarticlespinner.co,allaboutfpl.com,alltechnerd.com,americanmilitarynews.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,asurascans.com,australiangeographic.com.au,autodaily.com.au,bigleaguepolitics.com,bipartisanreport.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,charlieintel.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,coincodecap.com,conservativebrief.com,cookingwithdog.com,corrosionhour.com,crimereads.com,cryptobriefing.com,cryptointelligence.co.uk,cryptopotato.com,cryptoreporter.info,cryptoslate.com,dafontfree.io,dailynewshungary.com,dcenquirer.com,dexdotexe.com,dorohedoro.online,epicdope.com,eurweb.com,exeo.app,fandomwire.com,fap-nation.com,firstsportz.com,flickeringmyth.com,flyingmag.com,freefontsfamily.net,freemagazines.top,fyptt.to,gadgetinsiders.com,gamegill.com,gameinfinitus.com,gamertweak.com,gatewaynews.co.za,geekdashboard.com,getdroidtips.com,goodyfeed.com,greekreporter.com,hard-drive.net,hdmovies4u.live,hollywoodinsider.com,hollywoodunlocked.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,japaneseasmr.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,jujustukaisen.com,libertyunlocked.com,linuxfordevices.com,lithub.com,mb.com.ph,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,mymotherlode.com,nationalfile.com,nintendoeverything.com,notalwaysright.com,nsw2u.com,nxbrew.com,organicfacts.net,patriotfetch.com,politizoom.com,premiumtimesng.com,protrumpnews.com,pureinfotech.com,quickanswer.blog,redrightvideos.com,reneweconomy.com.au,reptilesmagazine.com,respawnfirst.com,rezence.com,roadaheadonline.co.za,rok.guide,saabplanet.com,sciencenotes.org,sdnews.com,simscommunity.info,small-screen.co.uk,storypick.com,streamingbetter.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techpp.com,techrounder.com,techviral.net,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,thepeoplesvoice.tv,thewincentral.com,trendingpolitics.com,trendingpoliticsnews.com,twistedvoxel.com,videogamer.com,vjmedia.com.hk,walletinvestor.com,washingtonblade.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,win.gg,wisden.com,wnd.com,zerohanger.com##.code-block
 101.ru##.showMessageAdBlock
 1010dy3.com###arBRyGHxuDYU
 1010dy3.com##.text-center[style]
@@ -101887,6 +101892,7 @@ huya.com,ixigua.com,toutiao.com##.J_ad
 hvhbbs.com##.block[data-widget-definition="SwiperWidget"]
 hvhbbs.com##.margin-add > style + div
 hwbot.org###partner-tiles
+hwbusters.com##section.widget:has(> div[data-hwbus-trackbid])
 hwhills.com###footerbanner
 hwhills.com###sb_left_tower
 hwhills.com,nikktech.com,revizoronline.com,smallscreenscoop.com###headerbanner
@@ -105177,6 +105183,7 @@ music-news.com,thebeet.com##.amazon
 music.wandhi.com##.google-auto-placed
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.uz##body > div[style^="min-height"] > .notify
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.uz##body > div[style^="min-height"] > .notify *
+musicbusinessworldwide.com##[href^="https://wynstarks.lnk.to/"]
 muslimobserver.com##.add2
 muzhi.baidu.com##.leftnest
 muzhi.baidu.com##.quick-ask-2 + .android + div
@@ -111114,6 +111121,7 @@ vaughn.live##.vs_v75_MvnAbvsLowerThirdWrapper
 vaughn.live##.vs_v9_LTabvsLowerThirdWrapper
 vaughn.live##.vs_v9_LTabvsLower_beta
 vaughn.live##div[style*="min-height:90px"]
+vccircle.com##.ads_ads__qsWIu
 vdianying.cc##.xintheme-gg
 vdisk.weibo.com###ads_layer
 vedantbhoomi.com##.elementor-widget-smartmag-codes
@@ -111633,6 +111641,7 @@ wenwen.sogou.com##.recommend-list
 wenwen.sogou.com##.sgui-hint.sgui-item
 wenxuecity.com###adt
 wenxuecity.com###gg_multitext
+wenxuecity.com###gg_rightside
 wenxuecity.com###marquee
 wenxuecity.com###morehealth-banner-1
 wenxuecity.com##+js(set-constant, adsbygoogle, noopFunc)
@@ -111642,6 +111651,7 @@ wenxuecity.com##.topbannerw
 wenxuecity.com##a[href^="http://bbs.wenxuecity.com/bbs/advpost/"]
 wenxuecity.com##a[href^="http://oascentral.wenxuecity.com/"]
 wenxuecity.com##label[style*="darkgrey"]
+wenxuecity.com#?#div[class]:-abp-has(>.adlab_border)
 weraveyou.com##div[id^="werav-"]
 westcapenews.com###leaderboardspace
 westernjournal.com###stnvideo
@@ -111853,7 +111863,9 @@ worldsex.com##.center.da-by
 worldsex.com##.currently-blokje-block
 worldsex.com##.currently-blokje-block-inner
 worldsex.com##.dazone
+worldsoccertalk.com##.article-banner-desktop
 worldsoccertalk.com##.odds-slider-widget
+worldsoccertalk.com##[id*="primis_"]
 worldstar.com,worldstarhiphop.com##div[style^="width:972px;height:250px;"]
 worldtimebuddy.com##.block2
 worldtimezone.com##.spon-menu
