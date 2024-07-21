@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: UieYW9iCT9eiqtU027iwow
+! Checksum: aCvgDXCrfWqtiS2hwTGy3A
 ! Title: 混合规则(自动更新)
-! Version: 20240721162359
+! Version: 20240722002643
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-21 16:23:59
-! Total Count: 148483
+! Last modified: 2024-07-22 00:26:43
+! Total Count: 148489
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -58965,6 +58965,7 @@
 ||parsiheep.net^
 ||parsimoniousinvincible.net^
 ||parsimoniouspolice.com^$third-party
+||parsley.detik.com^
 ||parsleyagencyoutnumber.com^
 ||parsleybunwalnut.com^
 ||parsonhimaircraft.com^
@@ -103543,6 +103544,7 @@ kijiji.ca#?#[data-testid^="listing-card-list-item-"]:-abp-contains(TOP AD)
 kikinote.net##.pc_ad
 kimcartoon.li###hideAds
 kimcartoon.li##.kcAds1
+kimcartoon.li##[style="margin: 0px auto; text-align: center; overflow: hidden; width: 610px;"]
 kimcartoon.li##div[style="font-size: 0; position: relative; text-align: center; margin: 10px auto; width: 300px; height: 250px; overflow: hidden;"]
 kimochi.info##.gridlove-posts > .layout-simple:has(.gridlove-archive-ad)
 kingkong.com.tw##.public-activity
@@ -105744,6 +105746,7 @@ newser.com##.fu4elsh1yd
 newser.com##div[style="min-height:398px;"]
 newser.com##div[style^="display:inline-block;width:728px;"]
 newsfirst.lk###sponsored-content-1
+newsfirst.lk##div:has(> [class*="hide_ad"])
 newshub.co.nz###island-unit-2
 newshub.co.nz##[data-belt-widget]
 newslogic.in##[href^="https://4i1n.short.gy/"]
@@ -107787,7 +107790,7 @@ radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.p
 radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se##div[class] > div[class]:has(> div[class] > div[id^="RAD_D_"])
 radio.yandex.by,radio.yandex.kz,radio.yandex.ru##.notify
 radiocaroline.co.uk###photographsforeverDiv
-radiocaroline.co.uk##.home-banner
+radiocaroline.co.uk,wishesh.com##.home-banner
 radiocity.in##.advertisement-horizontal-small
 radiocity.in##.horiozontal-add
 radiocity.in##.vertical-big-add
@@ -108445,6 +108448,7 @@ seselah.com###video-ads
 setapp.com##.side-scrolling__banner
 setapp.com,thesaturdaypaper.com.au##.promo-banner
 setdartwatches.com##[class^="boxzilla-"]
+setlist.fm##.prmtnMbanner
 setlist.fm##.prmtnTop
 setn.com###FBAnchor
 setn.com###aspnetForm > .rightFloat
@@ -111852,6 +111856,7 @@ wish.com##div[class^="ProductGrid__FeedTileWidthWrapper-"]:has(div[class^="FeedT
 wish.com##div[class^="ProductTray__ProductStripItem-"]:has(div[class^="DesignSpec__TextSpecWrapper-"][color="#6B828F"][data-testid] + div[class^="DesignSpec__TextSpecWrapper-"][color="#6B828F"])
 wish.com##div[class^="WishExpressProductsRow__FeedTileColumnWrapper-"]:has(div[class^="FeedTile__ProductBoostLabelWrapper-"])
 wishdown.com##img[href*=".41gw.com/"]
+wishesh.com##.article-body-banner
 witcp.com##.global_ifmobile_mask
 wjbc.com##a[href^="http://sweetdeals.com/bloomington/deals"]
 wjbc.com##a[href^="https://www.farmweeknow.com/rfd_radio/"]
@@ -147367,6 +147372,7 @@ zle.com$script
 @@||freereceivesms.com/js/peel1.js
 @@||friday.tw/backend/uploadpic/adindex/
 @@||fscinda.com/ad/$~third-party
+@@||fundingchoicesmessages.google.com^$script,domain=hurriyet.com.tr
 @@||fusacq.com/javascript/advertising.js|$script
 @@||fxporn69.com^$generichide
 @@||g.alicdn.com/??*/criteo
