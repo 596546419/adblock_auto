@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: yIuZ0Z4JINeVDLi7VvSL6Q
+! Checksum: dxvXkwSpZTTkWmehlTW6OA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240721002602
+! Version: 20240721093954
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-21 00:26:02
-! Total Count: 28433
+! Last modified: 2024-07-21 09:39:54
+! Total Count: 28439
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -883,6 +883,7 @@
 ||591hx.com/zyrk_dy/gwjl.html
 ||5976tp1.com^
 ||5axxw.com/extends/ad/
+||5brxi.icu^
 ||5dmail.net/image/$object
 ||5dmail.net/image/ORF_1000.gif
 ||5dmail.net/image/ad_
@@ -8674,6 +8675,7 @@
 ||hrnvfp.xyz^
 ||hrrjff.xyz^
 ||hrtinqj.cn^
+||hrtlisu.top^
 ||hs.cnfol.com/Cm/Imgs/Load.gif
 ||hs640.com/js/jquery.js
 ||hsadeg.site^
@@ -11995,6 +11997,7 @@
 ||nostalgicknot.com^$third-party
 ||nostalgicneed.com^$third-party
 ||nothingunit.com^$third-party
+||nouusup.icu^
 ||novipnoad.com/bd/
 ||novipnoad.com/theme/js/helper.
 ||novipnoad.net/theme/js/sponsor/
@@ -15890,6 +15893,7 @@
 ||tyodot.icu^
 ||typicalairplane.com^$third-party
 ||typicalteeth.com^$third-party
+||tyretui.top^
 ||tyrsn6di.icu^
 ||tyuetxt.com^
 ||tyuwkbi.top^
@@ -16159,6 +16163,7 @@
 ||upyerxzn.xyz^
 ||upytsgo.cn^
 ||upyzqf.cn^
+||uqaagi.xyz^
 ||uqeuxpl.cn^
 ||uqjqripb.xyz^
 ||uqrcuxp.cn^
@@ -18301,6 +18306,7 @@
 ||zxrcfw.com^
 ||zxw51.com^$third-party
 ||zyauopr.icu^
+||zyfnbl.xyz^
 ||zypzzv.xyz^
 ||zyrwfd.xyz^
 ||zys13.top^
