@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: dxvXkwSpZTTkWmehlTW6OA
+! Checksum: /Sgzo7fmivKgeuo1Gs6rUQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240721093954
+! Version: 20240721162410
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-21 09:39:54
-! Total Count: 28439
+! Last modified: 2024-07-21 16:24:10
+! Total Count: 28449
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -477,6 +477,7 @@
 ||2510avporn.com/wp-content/uploads/*/banner
 ||2510avporn.com/wp-content/uploads/2017/09/2510avporn-960x100.jpg
 ||2529.com^$third-party
+||25662zubo23739.com^
 ||258zw.com^$third-party
 ||25ktra.cn^
 ||268de.com/js/
@@ -609,7 +610,7 @@
 ||37dv.com^
 ||37io.com^
 ||37tek.fun^
-||38.33.15.10^
+||38.33.15.*.gif
 ||380.tw^$popup,third-party
 ||380tv.com/upload/*-ad-
 ||38bw0.space^
@@ -1133,6 +1134,7 @@
 ||880sy.com/Public/js/*_gg.js
 ||88148.com/UpFile/a/2016040849191350.jpg
 ||883.engine.mobileapptracking.com^
+||88362zubo95838.com^
 ||88448.com/images/appkai980x100.gif
 ||8861198.com^
 ||8861202.com^
@@ -4112,6 +4114,7 @@
 ||baifen.music.baidu.com^
 ||baihuwang.com^$third-party
 ||baijs010.xyz^
+||baijs011.xyz^
 ||baijs02.xyz^
 ||baijs03.xyz^
 ||baijs05.xyz^
@@ -5634,6 +5637,7 @@
 ||correctchaos.com^$third-party
 ||corrosif.science^$domain=filerev.cc|pencurimovie.pw
 ||cos.ap-*.myqcloud.com^$third-party
+||cosmo001.top^
 ||cosmosjackson.com^$third-party
 ||cosplayporntube.com/creatives/
 ||costarg.com^
@@ -7954,6 +7958,7 @@
 ||google-js-01.xyz^
 ||google-js-02.xyz^
 ||google-js-08.xyz^
+||google-js-09.xyz^
 ||google.com/ads/search/app?*&caps=*sdkAdmobApiForAds
 ||googleads.g.doubleclick.net/pagead/ads$subdocument,redirect=noop.html,domain=rjno1.com,important
 ||googleads.g.doubleclick.net/pagead/id^$xmlhttprequest,redirect-rule=nooptext
@@ -11877,6 +11882,7 @@
 ||news.sina.com.cn/js/792/*head*.js
 ||news.sina.com.cn/pfpnews/js/libweb.js$domain=~www.sina.com.cn
 ||news.sina.com.tw/js/ti.js
+||news.ssp.qq.com/ad
 ||news.ssp.qq.com/app
 ||news.tagtoo.co^$third-party
 ||news18a.com/image/ad_ina/
@@ -12976,6 +12982,7 @@
 ||pptclb.xyz^
 ||pptv.com/game/aplus/client/gamedetail.html
 ||ppvpmrt.xyz^
+||ppxscy1.cn^
 ||pqjeoqa.cn^
 ||pqldzp.xyz^
 ||pqnqrjxe.xyz^
@@ -16263,6 +16270,7 @@
 ||uymahuxv.xyz^
 ||uyohyy.xyz^
 ||uyq3ruf.icu^
+||uyretut.top^
 ||uysdxmo.com^
 ||uyt79.top^
 ||uyulwc.xyz^
@@ -18249,6 +18257,7 @@
 ||zpzlbv.xyz^
 ||zq.lansedir.com^
 ||zqgixxp.icu^
+||zqkxlf.com^
 ||zqwlkj.cn^
 ||zqzq*.com:*/da.aspx
 ||zrakpxsf.com^
@@ -25770,6 +25779,7 @@ zle.com$script
 ##.iHead960x90
 ##.ibtad
 ##.ima-ad-container
+##.imagegg-container
 ##.img-cctv.lazyLoad
 ##.imgBox > div[class^="ad"]
 ##.imgad

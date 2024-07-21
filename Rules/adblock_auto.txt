@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: bWpNcpTeHTcdo9LH2TMhvQ
+! Checksum: UieYW9iCT9eiqtU027iwow
 ! Title: 混合规则(自动更新)
-! Version: 20240721093942
+! Version: 20240721162359
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-21 09:39:42
-! Total Count: 148472
+! Last modified: 2024-07-21 16:23:59
+! Total Count: 148483
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1345,6 +1345,7 @@
 ||2526game.com^
 ||2529.com^$third-party
 ||254a.com^
+||25662zubo23739.com^
 ||258104d2.live^
 ||258a912d15.com^
 ||258ydh.com^
@@ -1802,7 +1803,7 @@
 ||37e5693aa7.com^
 ||37io.com^
 ||37tek.fun^
-||38.33.15.10^
+||38.33.15.*.gif
 ||380.tw^
 ||380.tw^$popup,third-party
 ||380tv.com/upload/*-ad-
@@ -3295,6 +3296,7 @@
 ||880sy.com/Public/js/*_gg.js
 ||88148.com/UpFile/a/2016040849191350.jpg
 ||883.engine.mobileapptracking.com^
+||88362zubo95838.com^
 ||883ads.com^*.js
 ||884329.com^
 ||884352.com^
@@ -12441,6 +12443,7 @@
 ||baihuwang.com^$third-party
 ||baijav.com^
 ||baijs010.xyz^
+||baijs011.xyz^
 ||baijs02.xyz^
 ||baijs03.xyz^
 ||baijs05.xyz^
@@ -18975,6 +18978,7 @@
 ||cizion.com^
 ||cizzwykcug.com^
 ||cj-cy.com^
+||cj2550.com^
 ||cj7g.top^
 ||cja-1223.cc^
 ||cjbpqq.com^
@@ -20988,6 +20992,7 @@
 ||cosmi.io^
 ||cosmicpartially.com^
 ||cosmismnatchez.com^
+||cosmo001.top^
 ||cosmosjackson.com^$third-party
 ||cosplayporntube.com/creatives/
 ||cosseterrits.com^
@@ -34606,6 +34611,7 @@
 ||google-js-01.xyz^
 ||google-js-02.xyz^
 ||google-js-08.xyz^
+||google-js-09.xyz^
 ||google-pagerank.net^
 ||google-shopping-v2.sapoapps.vn^
 ||google-shopping.sapoapps.vn^
@@ -54549,6 +54555,7 @@
 ||news.sina.com.cn/js/792/*head*.js
 ||news.sina.com.cn/pfpnews/js/libweb.js$domain=~www.sina.com.cn
 ||news.sina.com.tw/js/ti.js
+||news.ssp.qq.com/ad
 ||news.ssp.qq.com/app
 ||news.tagtoo.co^$third-party
 ||news.truth.delivery^
@@ -61903,6 +61910,7 @@
 ||ppvpmrt.xyz^
 ||ppwrc.xyz^
 ||ppxkknbkpekjbvb.com^
+||ppxscy1.cn^
 ||ppyibei.com^
 ||pqaz.xyz^
 ||pqfgtp.cn^
@@ -82952,6 +82960,7 @@
 ||uyojnhqeipyb.xyz^
 ||uypsmaxzejvpqx.com^
 ||uyq3ruf.icu^
+||uyretut.top^
 ||uysdxmo.com^
 ||uyt79.top^
 ||uyueread.com^
@@ -92229,6 +92238,7 @@
 ||zqiew.xyz^
 ||zqizn.com^
 ||zqksqsjupnb.com^
+||zqkxlf.com^
 ||zqmblmebyeloq.top^
 ||zqmmtbwqymhrru.com^
 ||zqmwf.xyz^
@@ -101435,8 +101445,6 @@ hellenicshippingnews.com##.bigbanner
 hellmoms.com,xbabe.com,xcum.com,hellporno.com##iframe[src^="/_a_xb/"]
 hellocare.com.au##.post-wrapper__portrait-ads
 hellogiggles.com##.karma_unit
-hellomagazine.com##.-variation-bannerinferior
-hellomagazine.com##.-variation-megabanner
 hellomagazine.com##.-variation-robainferior
 hellomagazine.com##.-variation-robapaginas
 hellomagazine.com##.adContainerClass_acvudum
@@ -101444,6 +101452,8 @@ hellomagazine.com##.hm-ad-container
 hellomagazine.com##.promohola
 hellomagazine.com##.sponsored-news
 hellomagazine.com##div[id^="div-hola-slot-"]
+hellomagazine.com,hola.com##.-variation-bannerinferior
+hellomagazine.com,hola.com##.-variation-megabanner
 helloyishi.com.tw##.article-desktop-ad-wrapper
 hellporno.com###InPlayerAds
 hellporno.com###XBm-Native-Bottom-3-row + p.rel-tit
@@ -101666,6 +101676,7 @@ hog.*,sexu.*##.player-block__square
 hog.mobi,sexu.com,hog.tv##.content__body > .content__top > div > h3.content__title.title--sm
 hog.tv##a[href^="https://clickaine.com"]
 hoho.tv##[class^="hoho-ad"],[data-ad-client]
+hola.com##.hm-sticky-sidebar
 hola.com##[id^="div-hola-slot-"]
 holiday-weather.com##.resp-leaderboard
 hollywoodreporter.com##.above-header-ad
