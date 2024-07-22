@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: TclJYUcybAc1VB2h5VyQAw
+! Checksum: cO7rB3vmjITae1Cjp+E9XQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240722002655
+! Version: 20240722093722
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-22 00:26:55
-! Total Count: 28450
+! Last modified: 2024-07-22 09:37:22
+! Total Count: 28457
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5201,6 +5201,7 @@
 ||ceseasons.com^
 ||ceshi*.ink/s/*?_=$third-party
 ||ceshi1.ink^
+||cetlwsf.top^
 ||cex8jw.cn^
 ||cf-ads.pinger.com^
 ||cfateu.xyz^
@@ -6149,6 +6150,7 @@
 ||df888.eastday.com^
 ||dfadas13.com^
 ||dfaikhkm.xyz^
+||dfan4.icu^
 ||dfcfw.com/EMFloatFrame/
 ||dfcfw.com/js/*/emfloatmedia_
 ||dfcfw.com/js/default/left_
@@ -6393,6 +6395,7 @@
 ||dohomemadeporn.com/js/ghslz.js
 ||doii.cc/mmm/
 ||dojyiu8.com^
+||dokfrl.xyz^
 ||doko.moe^$domain=pantsu.cat
 ||dollardelta.com^$third-party
 ||dolldetail.com^$third-party
@@ -7362,6 +7365,7 @@
 ||fmhua.com/template/*/images/g_js/*.html
 ||fmild.xyz^
 ||fmjjvb.xyz^
+||fmkipgm.icu^
 ||fmmirep.icu^
 ||fmre1.com^
 ||fmssoj.icu^
@@ -7693,6 +7697,7 @@
 ||gcw*.2liang.cn^
 ||gcwwsv.icu^
 ||gcxa.cn/a/gb.gif
+||gcylkq.xyz^
 ||gd.189.cn*/push/$popup
 ||gd.189.cn/ad/$popup,third-party
 ||gd.189.cn/gz/promotion/$popup,third-party
@@ -10817,6 +10822,7 @@
 ||lsforum.net/cam2/*.gif
 ||lsforum.net/yahooad/
 ||lshuaibin.cn^
+||lsjazn.xyz^
 ||lsjxs.cc/js/html
 ||lskjwica.cn^
 ||lskmipb.icu^
@@ -18294,6 +18300,7 @@
 ||zvasuzb.icu^
 ||zvdc9y.icu^
 ||zvfaxh.xyz^
+||zvhlzb.xyz^
 ||zvnjvd.xyz^
 ||zvtnj.icu^
 ||zvvlbf.xyz^
