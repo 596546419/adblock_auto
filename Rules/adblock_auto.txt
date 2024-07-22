@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 8Oj45Uymx1UtuouppYu0+g
+! Checksum: t2JDYQkS7LkLy+wCVm4wxQ
 ! Title: 混合规则(自动更新)
-! Version: 20240722093711
+! Version: 20240722162754
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-22 09:37:11
-! Total Count: 148505
+! Last modified: 2024-07-22 16:27:54
+! Total Count: 148489
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1352,7 +1352,6 @@
 ||258zw.com^$third-party
 ||259luxu.xyz^
 ||25haich4342.ru^
-||25ktra.cn^
 ||25obpfr.de^
 ||2639iqjkl.de^
 ||26485.top^
@@ -1839,7 +1838,6 @@
 ||39jz.com^
 ||39mydp.xyz^
 ||39nw.com^
-||39rvye.cn^
 ||3a17d27bf9.com^
 ||3a2e.site^
 ||3a55f02d.xyz^
@@ -24905,7 +24903,6 @@
 ||dlads.cn^
 ||dlads.cn^$third-party
 ||dlazblsihdoi.com^
-||dlbghx.xyz^
 ||dlbooks.to/img/smart/bn_
 ||dldsrs.com^
 ||dle-news.xyz^
@@ -31244,7 +31241,6 @@
 ||fnasmpygwa.com^
 ||fnaycb.com^
 ||fnbauniukvi.com^
-||fnbhxv.xyz^
 ||fncash.com^
 ||fncnet1.com^
 ||fnelqqh.com^
@@ -38232,7 +38228,6 @@
 ||hppmy.cn^
 ||hppvkbfcuq.com^
 ||hpr.outbrain.com^
-||hprinb.xyz^
 ||hprmbmtegydcwc.com^
 ||hprmnfctkj.com^
 ||hprofits.com^
@@ -39828,7 +39823,6 @@
 ||im.cbsileads.com^
 ||im.ov.yahoo.co.jp^
 ||im286.net/286/
-||im71za.cn^
 ||image-rentracks.com^
 ||image-shop.baidu.com/n/imageproduct?
 ||image.39.net/style/
@@ -52687,7 +52681,6 @@
 ||mqsnce.xyz^
 ||mquawbxc.com^
 ||mqwmgs.xyz^
-||mqxnid.cn^
 ||mqznjujv.xyz^
 ||mr-rank.de^
 ||mr2cnjuh34jb.com^
@@ -54848,7 +54841,6 @@
 ||nhtieoo.cn^
 ||nhungmiu.me^
 ||nhuzqnpnbjm.com^
-||nhvgrb.xyz^
 ||nhwvxjpjn.com^
 ||nhyvhmvw.com^
 ||ni87.com^
@@ -55957,7 +55949,6 @@
 ||nxcount.com^
 ||nxdcyhmwxlqc.com^
 ||nxdfg.xyz^
-||nxditl.xyz^
 ||nxexydg.com^
 ||nxflv.com/nxflv.js
 ||nxhh.net/gw/gw.js
@@ -60679,7 +60670,6 @@
 ||pjunnest.cyou^
 ||pjuulzj.cn^
 ||pjvartonsbewand.info^
-||pjvkhh.xyz^
 ||pjvunkjgh.com^
 ||pjwshrlhyjyhqu.xyz^
 ||pjy55d.com^
@@ -63650,7 +63640,6 @@
 ||pzqfmhy.com^
 ||pzqqstb.icu^
 ||pztezl.xyz^
-||pztjlr.xyz^
 ||pzwdtz.com^
 ||pzwjonv.icu^
 ||pzykrcq.cn^
@@ -67139,7 +67128,6 @@
 ||rljjt.cn^
 ||rljybcormiv.com^
 ||rlllwby.cn^
-||rlllxn.xyz^
 ||rlog-api.under9.co^
 ||rlog.9gag.com^
 ||rlojitu.xyz^
@@ -72191,6 +72179,7 @@
 ||snarlaptly.com^
 ||snat.goguardian.com^
 ||snbklas.cn^
+||sncop.uioozpxq.com^
 ||sncop.uioozpxq.com^$all
 ||sndkorea.co.kr^
 ||sneakersisverige.com^
@@ -83544,7 +83533,6 @@
 ||vbtrax.com^
 ||vbutjg.com^
 ||vbutycp.cn^
-||vbzfjh.xyz^
 ||vbzrkme.xyz^
 ||vbzsjkrnsqewy.com^
 ||vcawmm.com^
@@ -85384,7 +85372,6 @@
 ||vrtzads.com^
 ||vrvthmwyvbedy.com^
 ||vrwdsvr.icu^
-||vrxhnr.xyz^
 ||vry9.destinia.com^
 ||vs*.bozhou666.com^$third-party
 ||vs-api.voodoo-tech.io^
@@ -85489,7 +85476,6 @@
 ||vtvnnl.xyz^
 ||vtxluebammbfs.com^
 ||vtzkyckmdcecs.com^
-||vu43lh.cn^
 ||vuabem.com^
 ||vuacltxmomo.net^
 ||vuamomo.com^
@@ -85696,6 +85682,7 @@
 ||vztfc.com^
 ||vztkmhf.cn^
 ||vztlivv.com^
+||vzttq.brfvyrrp.com^
 ||vzttq.brfvyrrp.com^$all
 ||vzufzah.com^
 ||vzvvifw.cn^
@@ -88718,7 +88705,6 @@
 ||xdyjt.com^
 ||xdypuudfxmecd.com^
 ||xdytt.com/b_*.js
-||xdzjbn.xyz^
 ||xeazoj.icu^
 ||xebadu.com^
 ||xebohjhh.xyz^
@@ -89504,7 +89490,6 @@
 ||xtvrgxbiteit.xyz^
 ||xtvrtrya.xyz^
 ||xtxa.net^
-||xtxidx.xyz^
 ||xtxlijkjtlln.xyz^
 ||xtygfksar.xyz^
 ||xtyzlkphfzjir.com^
@@ -91662,7 +91647,6 @@
 ||zfobfybira.com^
 ||zfood029.com^
 ||zfp32.buzz^
-||zfpkrl.xyz^
 ||zfsfkp.com^
 ||zfteiv.xyz^
 ||zfvltd.xyz^
@@ -92436,7 +92420,6 @@
 ||zvjkhrdp.com^
 ||zvkoukk.cn^
 ||zvkytbjimbhk.com^
-||zvnjvd.xyz^
 ||zvrvwpcqweiwhm.com^
 ||zvtnj.icu^
 ||zvvajeokyboae.top^
@@ -93139,7 +93122,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 18av.mm-cg.com###primary_content > #Dfrom
 18av.mm-cg.com##.ut_ad_box
 18av.pro##.video-server > .inplayer
-18avhub.com,18avtube.com,adultwefong.com,aicoin.cn,aicoin.net.cn,allmyfaves.com,allthetests.com,av1868.com,avmimi.com,bing.com,dailynews.lk,dealsonwheels.co.nz,dosgamesarchive.com,edc1014070.pixnet.net,eth-converter.com,farmtrader.co.nz,freealts.pw,fsdpp.cn,goosegame.io,greatbritishchefs.com,ip138.com,m.youku.com,mangahax.com,massfans.cc,massrips.cc,mm-cg.com,moviesfoundonline.com,openstreetmap.org,pajiba.com,sexapi.xyz,sports.qq.com,sundayobserver.lk,suopao.org,techconnect.com,timecn.cn,ting56.com,txzqw.me,vstreamhub.com,youxi.baidu.com###banner
+18avhub.com,18avtube.com,adultwefong.com,aicoin.cn,aicoin.net.cn,allmyfaves.com,allthetests.com,av1868.com,avmimi.com,bing.com,dailynews.lk,dealsonwheels.co.nz,dosgamesarchive.com,edc1014070.pixnet.net,eth-converter.com,farmtrader.co.nz,freealts.pw,fsdpp.cn,goosegame.io,greatbritishchefs.com,ip138.com,m.youku.com,mangahax.com,massfans.cc,massrips.cc,mm-cg.com,moviesfoundonline.com,mp3-convert.org,openstreetmap.org,pajiba.com,sexapi.xyz,sports.qq.com,sundayobserver.lk,suopao.org,techconnect.com,timecn.cn,ting56.com,txzqw.me,vstreamhub.com,youxi.baidu.com###banner
 18avhub.com,18avtube.com,avmimi.com,mm-cg.com###friendLink
 18avhub.com,18avtube.com,mm-cg.com###partner
 18avhub.com,18avtube.com,mm-cg.com##.CN_qmvtoy
@@ -94165,6 +94148,8 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 91porny.com##.row > div.colVideoList:has(> div.video-elem > a[target="_blank"])
 91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz,jiuse970.com##.container-fluid.p-0[class*="mb-"]
 91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz,jiuse970.com##.jsv-g1
+91porny.org,jsav2.com,x9av1.com,x9av7.com###main > div[id^="rd"]
+91porny.org,jsav2.com,x9av1.com,x9av7.com##.footer + .block
 91short.com##.player-info
 91short.com##[class$="i"][style*="bottom"],[class$="h"][style*="bottom"],[class$="_b"],[class$="c"][style*="bottom"],embed[src],canvas,*[style*="fixed"][style*="bottom"][style*="display"][style*="block"][style*="vw"],img[src*="cn-chengdu.aliyuncs.com/"],a[href*=".top"] > img[src],div[class^="shortcuts-"][class$="-overlay"],a[href] > h3,[class][style*="131px"]
 91wenmi.com###xzsp
@@ -102946,8 +102931,8 @@ jambase.com##.sense-headin
 jamendo.com##.col_extra
 jamieoliver.com##.top-avocado
 jandan.net###random-ads
-jandan.net###sidebar > UL:nth-child(2)
 jandan.net###sidebar > div#box
+jandan.net###sidebar > ul:nth-child(2)
 jandan.net###sidebar > ul[style="height:480px"]
 jandan.net##.goods2-list
 jandan.net##.post[style="padding-left:150px;width:336px;height:280px;"]
@@ -103283,8 +103268,6 @@ js0573.com###adv2
 js0573.com###gotopl
 js0573.com###gotopr
 js0573.com##.gg_bnr
-jsav2.com,91porny.org,x9av1.com,x9av7.com###main > div[id^="rd"]
-jsav2.com,91porny.org,x9av1.com,x9av7.com##.footer + .block
 jsav2.com,91porny.org,x9av1.com,x9av7.com#?#.card:-abp-has(>.card-image>a[href^="http"])
 jsjiami.com##.asd > li > a.shaky
 jsjiami.com##.banner-container li._logo ~ li > a[target="_blank"]
@@ -105631,7 +105614,7 @@ new-kissanime.me###CvBNILUxis
 new-porn.club##+js(abort-current-script, document.attachEvent, prt)
 new-reporter.com##div[id^="mdl-elmt-"]
 new.qq.com##+js(set, SSPAd.prototype.loadAd, noopFunc)
-new.qq.com,v.qq.com,www.qq.com##+js(json-prune, ads)
+new.qq.com,news.qq.com,v.qq.com,www.qq.com##+js(json-prune, ads)
 newagebd.net##.editorialMid
 newagebd.net##.homeSlideRightSecTwo
 newagebd.net##.postPageRightInTop
@@ -114742,6 +114725,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 .site:20443/*.js^$script,third-party
 .sk/ads/
 .sponsorads.
+.st/ads/
 .streamads.
 .swf?clicktag=
 .test15./

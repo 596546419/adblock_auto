@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: cO7rB3vmjITae1Cjp+E9XQ
+! Checksum: n8B5IelprH8T/sDTPyo2Gw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240722093722
+! Version: 20240722162805
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-22 09:37:22
-! Total Count: 28457
+! Last modified: 2024-07-22 16:28:05
+! Total Count: 28438
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -479,7 +479,6 @@
 ||2529.com^$third-party
 ||25662zubo23739.com^
 ||258zw.com^$third-party
-||25ktra.cn^
 ||268de.com/js/
 ||26gg.bnq86.com^$third-party
 ||26niao20230505.live^
@@ -629,7 +628,6 @@
 ||39jz.com^
 ||39mydp.xyz^
 ||39nw.com^
-||39rvye.cn^
 ||3ad5iot.com^
 ||3alian.net^$third-party
 ||3azpx.xyz^
@@ -6308,7 +6306,6 @@
 ||dla.tuobeng.net/*-*.apk$document
 ||dla.tuobeng.net/*-*.apk$~third-party
 ||dlads.cn^$third-party
-||dlbghx.xyz^
 ||dlbooks.to/img/smart/bn_
 ||dljzcl.cn^
 ||dlkoo.cc/down/$subdocument
@@ -7373,7 +7370,6 @@
 ||fmvzzh.xyz^
 ||fmzifaqi.xyz^
 ||fn9u.fun^
-||fnbhxv.xyz^
 ||fnfhjka.xyz^
 ||fngcgbl.icu^
 ||fnitw.xyz^
@@ -8657,7 +8653,6 @@
 ||hphvd.cn^
 ||hpjzpn.xyz^
 ||hppmy.cn^
-||hprinb.xyz^
 ||hpt73.cn^$domain=9xav.cc
 ||hptyp.icu^
 ||hpvl2kb.icu^
@@ -9048,7 +9043,6 @@
 ||im.51yaliesha.com^$third-party
 ||im.ov.yahoo.co.jp^
 ||im286.net/286/
-||im71za.cn^
 ||image-shop.baidu.com/n/imageproduct?
 ||image.39.net/style/
 ||image.51cto.com/ad/
@@ -11561,7 +11555,6 @@
 ||mqsjzm.cn^
 ||mqsnce.xyz^
 ||mqwmgs.xyz^
-||mqxnid.cn^
 ||mqznjujv.xyz^
 ||mr956.xyz^
 ||mrbtkyn.xyz^
@@ -11921,7 +11914,6 @@
 ||ngnxyub.cn^
 ||nhcdn.cn^
 ||nhjkm.com^
-||nhvgrb.xyz^
 ||nhyvhmvw.com^
 ||nickhel.com^
 ||nieae.xyz^
@@ -12081,7 +12073,6 @@
 ||nwuidsbjak.com^
 ||nwxaxx.xyz^
 ||nwxs5.com/js/
-||nxditl.xyz^
 ||nxflv.com/nxflv.js
 ||nxhwvt.xyz^
 ||nxing.cn/uploads/uploads/*-size1220x
@@ -12678,7 +12669,6 @@
 ||pjdthz.xyz^
 ||pjsbuhl.icu^
 ||pjtime.com/js/show_ad
-||pjvkhh.xyz^
 ||pjy55d.com^
 ||pjzmbhf.cn^
 ||pjzxdl.xyz^
@@ -13173,7 +13163,6 @@
 ||pzpivx.xyz^
 ||pzqqstb.icu^
 ||pztezl.xyz^
-||pztjlr.xyz^
 ||pzwjonv.icu^
 ||pzykrcq.cn^
 ||q02orc.cn^
@@ -13794,7 +13783,6 @@
 ||rkv9.top^
 ||rkxy.com.cn/js/text_
 ||rlhtnnm.xyz^
-||rlllxn.xyz^
 ||rlqoyht.icu^
 ||rltdxt.com/files/h5/
 ||rlw86.cyou^
@@ -16351,7 +16339,6 @@
 ||vbgr7.cn^
 ||vbiakpu.icu^
 ||vbutycp.cn^
-||vbzfjh.xyz^
 ||vbzrkme.xyz^
 ||vcbppb.xyz^
 ||vcdn.biz/*_mggads/
@@ -16563,7 +16550,6 @@
 ||vrr.name^
 ||vrrw.net//templets/default/js/ad.js
 ||vrwdsvr.icu^
-||vrxhnr.xyz^
 ||vs*.bozhou666.com^$third-party
 ||vs-api.voodoo-tech.io^
 ||vs1.exo01.xyz^$image,third-party
@@ -16583,7 +16569,6 @@
 ||vtnmxx.xyz^
 ||vttqld.xyz^
 ||vtvnnl.xyz^
-||vu43lh.cn^
 ||vucve6is.icu^
 ||vuedivv.icu^
 ||vueegqt.xyz^
@@ -17148,7 +17133,6 @@
 ||xdybwjpa.xyz^
 ||xdyjt.com^
 ||xdytt.com/b_*.js
-||xdzjbn.xyz^
 ||xeazoj.icu^
 ||xebohjhh.xyz^
 ||xedpzh.xyz^
@@ -17407,7 +17391,6 @@
 ||xtpwfb.xyz^
 ||xtvrtrya.xyz^
 ||xtxa.net^
-||xtxidx.xyz^
 ||xu27r.com^
 ||xucyufv.icu^
 ||xudarl.xyz^
@@ -18078,7 +18061,6 @@
 ||zfmtyv.xyz^
 ||zfnclk.buzz^
 ||zfp32.buzz^
-||zfpkrl.xyz^
 ||zfteiv.xyz^
 ||zfvltd.xyz^
 ||zfvtswv.xyz^
@@ -18301,7 +18283,6 @@
 ||zvdc9y.icu^
 ||zvfaxh.xyz^
 ||zvhlzb.xyz^
-||zvnjvd.xyz^
 ||zvtnj.icu^
 ||zvvlbf.xyz^
 ||zwdtvx.xyz^
