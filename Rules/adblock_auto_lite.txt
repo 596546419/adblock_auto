@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: n8B5IelprH8T/sDTPyo2Gw
+! Checksum: HMB6GPoqkdr/xJmI/trICg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240722162805
+! Version: 20240723002710
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-22 16:28:05
-! Total Count: 28438
+! Last modified: 2024-07-23 00:27:10
+! Total Count: 28441
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6583,6 +6583,7 @@
 ||dustywave.com^$third-party
 ||duyewnf.icu^
 ||duyvtanrheje.xyz^
+||dv4ku.icu^
 ||dvbnmikxh.xyz^
 ||dvclhmt.cn^
 ||dvdgayporn.com/wp-content/plugins/POit-*.js
@@ -8026,6 +8027,7 @@
 ||greyinstrument.com^$third-party
 ||gridline.cn^
 ||gripcorn.com^$third-party
+||grondrens.com^
 ||grouchypush.com^$third-party
 ||grtarpcf963.top^
 ||grthhr.xyz^
@@ -12357,6 +12359,7 @@
 ||oyksoft.com/assets/images/*.gif
 ||oyksoft.com/show/b.
 ||oyotqp.icu^
+||oyretuk.top^
 ||oyugspe.cn^
 ||oyuwkbk.top^
 ||oyvyxj.cn^$third-party
@@ -25074,7 +25077,7 @@ zle.com$script
 ###piao_div_3[style*="width:140px;"]
 ###piao_div_4[style*="width:140px;"]
 ###piao_div_5[style*="width:140px;"]
-###play[style="padding: 10px;"] > a[href="/0705.html"]
+###play[style="padding: 10px;"] > a[href*=".xmcdn.com"]
 ###player-bottom-ads
 ###playerAd
 ###playerAdvLayer
