@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: EVCXACJAi4LB4FCVCEy8kg
+! Checksum: nd1/Z2FzZ6Y3FGnHSaGisA
 ! Title: 混合规则(自动更新)
-! Version: 20240723002659
+! Version: 20240723092800
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-23 00:26:59
-! Total Count: 148496
+! Last modified: 2024-07-23 09:28:00
+! Total Count: 148522
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -234,6 +234,7 @@
 ||0885.net^$third-party
 ||0898hhh.com^
 ||08af0e4303.com^
+||08f8f073.xyz^
 ||08u6q.com^
 ||08uxmg2bz7hc.top^
 ||0916video.ru^
@@ -498,6 +499,7 @@
 ||1134555.com^
 ||1136999.com^
 ||1138555.com^
+||1138873808.rsc.cdn77.org^
 ||1139724980.rsc.cdn77.org^
 ||113aa22d76.com^
 ||1147112108.rsc.cdn77.org^
@@ -706,6 +708,7 @@
 ||1564285319.rsc.cdn77.org^
 ||156fd4.xyz^
 ||156xsw.com/css/js/tools.
+||1574705750.rsc.cdn77.org^
 ||158.247.208.
 ||1582020.com^
 ||1583030.com^
@@ -823,6 +826,7 @@
 ||174.139.53.195^
 ||17500.cn/Public/Mobile/img/enjoyswiss.jpg
 ||17500.cn/template/images/*_960X90.
+||1756119262.rsc.cdn77.org
 ||1759123620.rsc.cdn77.org^
 ||175bar.com^
 ||1770542895.rsc.cdn77.org^
@@ -857,6 +861,7 @@
 ||1818bobo.com^
 ||181m2fscr.de^
 ||1821z.website^
+||1834071374.rsc.cdn77.org^
 ||183yf.cn/img/nz.png
 ||1843942256.rsc.cdn77.org^
 ||184c4i95p.de^
@@ -1048,6 +1053,7 @@
 ||1odi7j43c.de^
 ||1p1eqpotato.com^
 ||1p3opxwwet.ru^
+||1p3yg.icu^
 ||1p8ln1dtr.de^
 ||1papa.top^
 ||1pel.com^
@@ -7674,6 +7680,7 @@
 ||ahcdsply.com^
 ||ahclyq.xyz^
 ||ahcnxuepput.com^
+||ahdvpuovkaz.com^
 ||ahdytiyc.xyz^
 ||ahdyvor.cn^
 ||ahe.so^
@@ -11479,6 +11486,7 @@
 ||aurdosti.com^
 ||aurduwin.com^
 ||auredzeon.com^
+||aurgersoagnu.net^
 ||aurgoast.com^
 ||aurora-d3.herokuapp.com^
 ||auroraveil.bid^
@@ -11854,6 +11862,7 @@
 ||axcdt.cn^
 ||axcdy.cn^
 ||axchggobulz.com^
+||axductile.com^
 ||axedbwjpwdc.com^
 ||axeldivision.com^
 ||axelsermit.com^
@@ -12560,6 +12569,7 @@
 ||banamertur.com^
 ||banana.le.com/
 ||banana.le.com/letv_tracker.js$domain=m.le.com
+||banawgaht.com^
 ||banawyhjc.com^
 ||banbf.com^
 ||banbuyserve.com^
@@ -16900,6 +16910,7 @@
 ||calichevigogne.com^
 ||calicutscrubby.top^
 ||caliphmalign.website^
+||calksenfire.com^
 ||call-tracking.by^
 ||call-tracking.co.uk^
 ||callalelel.info^
@@ -22304,6 +22315,7 @@
 ||cyih0e43aty7.com^
 ||cyijr.com^
 ||cyilxkpkf.com^
+||cykcxgsvg.com^
 ||cyl3h68.cn^
 ||cylindermonastery.com^
 ||cylindrical-form.com^
@@ -25733,6 +25745,7 @@
 ||drfdisvc.walmart.com^
 ||drfvtgbyk.xyz^
 ||drfvtgbyk.xyz^$third-party
+||drgcnsnohnf.com^
 ||dribbleads.com^
 ||dribletbogled.com^
 ||dribturbot.com^
@@ -29518,6 +29531,7 @@
 ||f4nfg.site^
 ||f5080f5cee5a00.com^
 ||f55f5b7e4b.com^
+||f59408d48d.com^
 ||f5e52a0d14.com^
 ||f5v1x3kgv5.com^
 ||f6176563.site^
@@ -31946,6 +31960,7 @@
 ||fretsawlekanai.com^
 ||frettedmalta.top^
 ||freutz.com^
+||freyaacronal.com^
 ||freychang.fun^
 ||freyrclogs.com^
 ||frfetchme.com^
@@ -37017,6 +37032,7 @@
 ||hethonggiaodichvidientu247.com^
 ||hethongquatang.vn^
 ||hethongviet99.com^
+||hetlwsu.top^
 ||hetsclaxqke.com^
 ||hetsouds.net^
 ||heucoucjrwno.com^
@@ -40141,6 +40157,7 @@
 ||imperturbableclothes.com^
 ||imperturbableresponsive.com^
 ||imperturbablesum.com^
+||imperysavers.click^
 ||impetremondial.com^
 ||impishelizabethjumper.com^
 ||implementedinstalled.com^
@@ -50145,6 +50162,7 @@
 ||maxymiser.com^
 ||maxymiser.net^
 ||maxytrk.com^
+||maya15.site^
 ||mayanpuzzle.com^
 ||maybejanuarycosmetics.com^
 ||maybenowhereunstable.com^
@@ -52602,6 +52620,7 @@
 ||mpbohwtqqnw.com^
 ||mpbpuctr.com^
 ||mpc.nicequest.com^
+||mpcbjnku.com^
 ||mpcrvcbwdouo.com^
 ||mpecehfd.xyz^
 ||mpfofpynoououe.xyz^
@@ -57317,6 +57336,7 @@
 ||oonasuhghjmzyw.com^
 ||oongouha.xyz^
 ||oonsaigu.xyz^
+||oonsouque.com^
 ||ooo.0o0.ooo/2017/11/03/59fc6b3c5b723.jpg
 ||oopatet.com^
 ||oopej.xyz^
@@ -64130,6 +64150,7 @@
 ||qjekt0c.xyz^
 ||qjing39.top^
 ||qjkfqcmxzxhg.ink^
+||qjmlmaffrqj.com^
 ||qjoqos.xyz^
 ||qjpotvwljgw.xyz^
 ||qjrhacxxk.xyz^
@@ -66058,6 +66079,7 @@
 ||reingod.com^
 ||reinstandpointdumbest.com^
 ||reinvigorate.net^
+||reisoctene.com^
 ||reissue2871.xyz^
 ||reitbokgona.com^
 ||reitingas.lt^
@@ -71132,6 +71154,7 @@
 ||sicksmash.com^$third-party
 ||sicleclarets.com^
 ||sicongyyds.com^
+||sicouthautso.net^
 ||sid.nordstrom.com^
 ||sidanarchy.com^
 ||sidanarchy.net^
@@ -84612,6 +84635,7 @@
 ||visa-vpbank-uu-tien.com^
 ||visadd.com^
 ||visaexasperation.com^
+||visargadimmit.com^
 ||visariomedia.com^
 ||visaspecialtyfluid.com^
 ||viscosestroma.com^
@@ -90140,6 +90164,7 @@
 ||yeyuly.love^
 ||yezi.cn/_ad/
 ||yezilm.com^$third-party
+||yfasjfk.icu^
 ||yfbduqlo.xyz^
 ||yfbnlrprmjj.com^
 ||yfddaetiu.xyz^
@@ -92499,6 +92524,7 @@
 ||zxzjtv.com/t.js
 ||zy1017421.xyz^
 ||zy16eoat1w.com^
+||zyaaobgwnhts.com^
 ||zyauopr.icu^
 ||zybbiez.com^
 ||zybrdr.com^
