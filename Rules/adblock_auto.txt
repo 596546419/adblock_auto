@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: E0Dr3IJN+37Yy7I1Q8SWUg
+! Checksum: Qj1FBOHbxyKMQycc8cSh5w
 ! Title: 混合规则(自动更新)
-! Version: 20240723162817
+! Version: 20240724002928
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-23 16:28:17
-! Total Count: 148531
+! Last modified: 2024-07-24 00:29:28
+! Total Count: 148537
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -32086,6 +32086,7 @@
 ||frustrationfungus.com^
 ||frustrationtrek.com^
 ||frutrun.com^
+||frutwafiwah.com^
 ||frvfrv.com^
 ||frwyfaxed.com^
 ||frxcdn.xyz^
@@ -98178,6 +98179,7 @@ danpatrick.com###topBannerContainer
 danpatrick.com##.needsclick
 danyang.com###global-hd > div[align="center"]
 danzhaowang.com##.qxzx_scho
+daohang.qq.com##.banner-adv-new
 daohang.qq.com,hao.qq.com,sogou.com##div[id^="AD_"]
 daohangtx.com,jojf.cn##.indexgg
 dapengjiaoyu.com##.toUnfold
@@ -103511,6 +103513,7 @@ kbb.com##.ads__container-kbbLockedAd
 kbjfree.com##.relative.w-full:has(> .video-card[target="_blank"])
 kbjfree.com##.w-\[728px\]
 kbjfree.com,posemaniacs.com##.h-\[250px\]
+kc.linksgen.com,kimcartoon.li,kisscartoon.se##[style="margin: 0px auto; text-align: center; overflow: hidden; width: 610px;"]
 kcra.com,ketv.com,kmbc.com,wcvb.com,wpbf.com,wtae.com##.slideshowCover
 kdhome.net###bottomadv
 kdhome.net,prohaircut.com,xinhuanet.com,yxdm.li##.adv3
@@ -103583,7 +103586,6 @@ kijiji.ca#?#[data-testid^="listing-card-list-item-"]:-abp-contains(TOP AD)
 kikinote.net##.pc_ad
 kimcartoon.li###hideAds
 kimcartoon.li##.kcAds1
-kimcartoon.li##[style="margin: 0px auto; text-align: center; overflow: hidden; width: 610px;"]
 kimcartoon.li##div[style="font-size: 0; position: relative; text-align: center; margin: 10px auto; width: 300px; height: 250px; overflow: hidden;"]
 kimochi.info##.gridlove-posts > .layout-simple:has(.gridlove-archive-ad)
 kingkong.com.tw##.public-activity
@@ -116782,9 +116784,11 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adifyoverlay.
 /adim.html?ad
 /adimage.
+/adimage.$image,script,stylesheet
 /adimage/*
 /adimage?
 /adimages.
+/adimages.$script
 /adimages/*$~subdocument
 /adimg.$domain=~adimg.ru|~nate.com
 /adimg/*
@@ -119105,6 +119109,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /click?adv=
 /click?adv=$popup
 /clickads/*
+/clickadu300.aspx
 /clickboothad.
 /clicksor.$domain=~clicksor.com
 /clicktotal/ClickTotal.js
@@ -125716,6 +125721,7 @@ _iad.html?
 _id/ads/
 _iframe_ad_
 _images/ad.
+_images/ad.$image
 _images/ad_
 _images/ads/
 _index_ad.
