@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: nDXLsnZfVkwGNmBCdmgIfw
+! Checksum: 2LWPkCI5pOYHIb0qQt+k/Q
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240723092811
+! Version: 20240723162828
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-23 09:28:11
-! Total Count: 28444
+! Last modified: 2024-07-23 16:28:28
+! Total Count: 28449
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8460,6 +8460,7 @@
 ||hfhytx.xyz^
 ||hfjhr.cn^
 ||hfjk3wa.com^
+||hfjmvr.xyz^
 ||hfjsbf.xyz^
 ||hfjsliu.top^
 ||hfk7j.top^
@@ -10917,6 +10918,7 @@
 ||lydrnj.xyz^
 ||lyfwpt.com.cn^$third-party
 ||lyislol.top^
+||lyretul.top^
 ||lysq.com/data/attachment/portal/
 ||lyuwkbl.top^
 ||lywww.com/data/js.php?id=
@@ -12177,6 +12179,7 @@
 ||oiljomy.xyz^
 ||oimzak.xyz^
 ||oiqdjksgpo.com^
+||oiu09.cn^
 ||oiunga.com^
 ||ojuhwc.xyz^
 ||ojvpigx.xyz^
@@ -14744,6 +14747,7 @@
 ||soutubot.moe/static/airport
 ||sowlettuce.com^$third-party
 ||sowsuwm.icu^
+||sowwoy.xyz^
 ||sowx.cn^
 ||sozi.cn/images/tj/downad
 ||sozi.cn/images/tj/hukead.gif
@@ -17142,6 +17146,7 @@
 ||xebohjhh.xyz^
 ||xedpzh.xyz^
 ||xeghes.fun^
+||xehodv.xyz^
 ||xeikwh.icu^
 ||xeiyt.cyou^
 ||xekmhvbb.xyz^

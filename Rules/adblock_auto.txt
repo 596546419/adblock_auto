@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: nd1/Z2FzZ6Y3FGnHSaGisA
+! Checksum: E0Dr3IJN+37Yy7I1Q8SWUg
 ! Title: 混合规则(自动更新)
-! Version: 20240723092800
+! Version: 20240723162817
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-23 09:28:00
-! Total Count: 148522
+! Last modified: 2024-07-23 16:28:17
+! Total Count: 148531
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -37101,6 +37101,7 @@
 ||hfib5s-sdds-248d.xyz^
 ||hfjhr.cn^
 ||hfjk3wa.com^
+||hfjmvr.xyz^
 ||hfjoksuriyy.com^
 ||hfjsbf.xyz^
 ||hfjsliu.top^
@@ -49138,6 +49139,7 @@
 ||lypn.com^
 ||lypn.net^
 ||lypxbwub.com^
+||lyretul.top^
 ||lyrfyti.cn^
 ||lyricalattorneyexplorer.com^
 ||lyricalbarb.com^
@@ -56758,6 +56760,7 @@
 ||oiqdjksgpo.com^
 ||oisafnik.space^
 ||oisqckeiqwyg.com^
+||oiu09.cn^
 ||oiunga.com^
 ||oiuqwppcsdf.com^
 ||oivay.app^
@@ -72760,6 +72763,7 @@
 ||sowlettuce.com^$third-party
 ||sowp.cloud^
 ||sowsuwm.icu^
+||sowwoy.xyz^
 ||sowx.cn^
 ||soxscc.org/wsc/
 ||soyjlnfatgxpfd.com^
@@ -79523,6 +79527,7 @@
 ||tracking.blt.se^
 ||tracking.bonnier.news^
 ||tracking.borlangetidning.se^
+||tracking.borssnack.di.se^
 ||tracking.brandmentions.com^
 ||tracking.bt.se^
 ||tracking.buygoods.com^
@@ -88741,6 +88746,7 @@
 ||xeghes.fun^
 ||xegluwate.com^
 ||xegmsox.com^
+||xehodv.xyz^
 ||xeiatmf.cn^
 ||xeihy.com^
 ||xeijckcsg.com^
@@ -136984,6 +136990,8 @@ zle.com$script
 ##.ap-ad-block
 ##.apadam-ads
 ##.apd-footer
+##.apd-home
+##.apd-right
 ##.ape-ads-container
 ##.apexAd
 ##.apiAdMarkerAbove
@@ -144249,6 +144257,7 @@ zle.com$script
 ##a[href*=".kekexc.com/"]
 ##a[href*=".kluvcc.com/"]
 ##a[href*=".ktvxn.com/"]
+##a[href*=".labsda.com"]
 ##a[href*=".las88889999.com:"]
 ##a[href*=".lvdou.life/"][target="_blank"]
 ##a[href*=".mamsou.com/"]
