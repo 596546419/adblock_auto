@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: /Pzy4/MeF2H25GTXLSImfA
+! Checksum: bBQoN9wkJuQ1ZFJkRIeWGg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240724162602
+! Version: 20240725002649
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-24 16:26:02
-! Total Count: 28461
+! Last modified: 2024-07-25 00:26:49
+! Total Count: 28466
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4864,6 +4864,7 @@
 ||byjykj.xyz^
 ||byjykj.xyz^$third-party,image
 ||bymahuxv.xyz^
+||byretuv.top^
 ||byscy.cn^$third-party
 ||bytegoofy.com/goofy/*/push.js?
 ||bytravel.cn/images/cus/
@@ -15692,6 +15693,7 @@
 ||trafficjam.cn^$third-party
 ||trafficjunky.com^
 ||trafficjunky.net^
+||trafficmanager.net^
 ||trafmag.com^
 ||traktum.com^
 ||trandgid.com^$third-party
@@ -17394,6 +17396,7 @@
 ||xrrhwgj.xyz^
 ||xrrxodz.xyz^
 ||xs.houyi.baofeng.net^
+||xs6po.icu^
 ||xsbdj6.com^
 ||xsfajf.xyz^
 ||xstt5.com/skin/v3/js/dibu.js
@@ -17693,6 +17696,7 @@
 ||yingav.net/images/content/spot01.jpg
 ||yingce.asia^
 ||yinghua*.*/bar/$script,~third-party
+||yinghua8.*/bar/
 ||yinghua8.tv/bar/
 ||yinghuacd.com/bar/
 ||yinghuavideo.com/bar/
@@ -17719,6 +17723,7 @@
 ||yiw2iei.icu^
 ||yjbdyjnctgj.top^
 ||yjcf360.com/ad.
+||yje912.cn^
 ||yjnhkd.com^
 ||yjnhndt.com^
 ||yjnkas.com^

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: NYbKlakuGyiROyQLRBWwRg
+! Checksum: nvoe54n+5I6iW7j0VeA3zQ
 ! Title: 混合规则(自动更新)
-! Version: 20240724162551
+! Version: 20240725002637
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-24 16:25:51
-! Total Count: 148569
+! Last modified: 2024-07-25 00:26:37
+! Total Count: 148598
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2029,6 +2029,7 @@
 ||4480dy.net^
 ||44a9217f10.com^
 ||44afd3eae5.com^
+||44e29c19ac.com^
 ||44ffd27303.com^
 ||44j4oo2a.cn^
 ||44jq.cn^
@@ -2843,6 +2844,7 @@
 ||68069795d1.com^
 ||68109deb96.com^
 ||6810f7dd2b.com^
+||68287zubo85737.com^
 ||682891.com^
 ||684d203fe1.com^
 ||6863fd0afc.com^
@@ -3597,6 +3599,7 @@
 ||962.net/show/cms_$script
 ||962.net/show/down_
 ||962.net/show/index_
+||96382zubo66756.com^
 ||96424fcd96.com^
 ||964e7c340a.com^
 ||9655128.vip^
@@ -13308,6 +13311,7 @@
 ||beacon.netflix.com^
 ||beacon.nuskin.com^
 ||beacon.qq.com^
+||beacon.radiko.jp^
 ||beacon.riskified.com^
 ||beacon.s.llnwi.net^
 ||beacon.samsclub.com^
@@ -16529,6 +16533,7 @@
 ||bypassprofessordemonstrate.com^
 ||bypfpuldupkyy.com^
 ||byqiu.xyz^
+||byretuv.top^
 ||byrkmeibah.com^
 ||byrledmtscmd.com^
 ||byrprsi.cn^
@@ -16618,6 +16623,7 @@
 ||c.autohome.com.cn^
 ||c.bannerflow.net^
 ||c.bazo.io^
+||c.bigcomics.win^
 ||c.bigmir.net
 ||c.bigmir.net^
 ||c.blockdetector.org^
@@ -34601,6 +34607,7 @@
 ||goo-access-analytics.appspot.com^
 ||goo.kkjshsj.com^
 ||gooblesdd.com^
+||good-ads-online.com^
 ||good4younow.club^
 ||good8866.com/js/*.js
 ||goodads.de^
@@ -38315,6 +38322,7 @@
 ||hqtlw.cn^
 ||hqtwyhampwu.xyz^
 ||hqwa.xyz^
+||hqxghzyfvxrdpt.com^
 ||hqycr.cn^
 ||hqykvshuj.com^
 ||hqzcths.cn^
@@ -54165,6 +54173,7 @@
 ||nczsks.com/SCWB/WebResource.axd
 ||nczxuga.com^
 ||ndandinter.hair^
+||ndaspiratiotyukn.com^
 ||ndaymidydlesswale.info^
 ||ndbaxn.xyz^
 ||ndblowthroug.info^
@@ -56114,6 +56123,7 @@
 ||o333o.com^$third-party,important
 ||o365diagtelemetry.trafficmanager.net^
 ||o398.trumbulltimes.com^
+||o3sxhw5ad.com^
 ||o4nofsh6.de^
 ||o4svlxhjun.xyz^
 ||o4uxrk33.com^
@@ -62776,6 +62786,7 @@
 ||prvc.io^
 ||prvsz4pe.micpn.com^
 ||prwave.info^
+||prwfwayui.com^
 ||prx.wayfair.com^
 ||prxeceafdxdlc.xyz^
 ||prxy.online^
@@ -62997,6 +63008,7 @@
 ||ptecmuny.com^
 ||ptedreer.com^
 ||ptedroab.xyz^
+||pteegostie.com^
 ||pteeksou.xyz^
 ||pteeptamparg.xyz^
 ||pteevaih.xyz^
@@ -67320,6 +67332,7 @@
 ||rocketyield.com^
 ||rockfellertest.com^
 ||rockierfought.top^
+||rockingfolders.com^
 ||rockmostbet.com^
 ||rockpicky.com^
 ||rockportskorsverige.com^
@@ -73207,6 +73220,7 @@
 ||spoiledpresence.com^
 ||spoilmagicstandard.com^
 ||spoilphysiqueteenagers.com^
+||spokesperson254.fun^
 ||spoki-noki.net^
 ||spolecznosci.net^
 ||spondeetougher.guru^
@@ -79980,6 +79994,7 @@
 ||trafficlide.com^
 ||trafficmagnates.com^
 ||trafficman.io^
+||trafficmanager.net^
 ||trafficmaxx.de^
 ||trafficmediaareus.com^
 ||trafficmoon.com^
@@ -82183,6 +82198,8 @@
 ||unlockdienthoai.zyrosite.com^
 ||unlockecstasyapparatus.com^
 ||unlockmaddenhooray.com^
+||unlocky.org^
+||unlocky.xyz^
 ||unloetiosal.com^
 ||unluciddesmids.top^
 ||unluckydead.pro^
@@ -82985,6 +83002,7 @@
 ||uxernab.com^
 ||uxiaaip.cn^
 ||uxicgxqq.com^
+||uxjpyfzorpkcg.com^
 ||uxlidt.ink^
 ||uxlqwra.cn^
 ||uxlvk.cn^
@@ -85444,6 +85462,7 @@
 ||vsexshop.ru^$third-party
 ||vsftsyriv.com^
 ||vsgfjfsmcewnuhx.com^
+||vsgyfixkbow.com^
 ||vshzouj.com^
 ||vsjrnh.xyz^
 ||vskfeduxg.xyz^
@@ -89480,6 +89499,7 @@
 ||xruolsogwsi.com^
 ||xryjyfb.cn^
 ||xs.houyi.baofeng.net^
+||xs6po.icu^
 ||xs8.cn/qreport?
 ||xsafdsv.cn^
 ||xsbdj6.com^
@@ -90401,6 +90421,7 @@
 ||yingce.asia^
 ||yingforthemoo.info^
 ||yinghua*.*/bar/$script,~third-party
+||yinghua8.*/bar/
 ||yinghua8.tv/bar/
 ||yinghuacd.com/bar/
 ||yinghuavideo.com/bar/
@@ -90471,6 +90492,7 @@
 ||yjbdyjnctgj.top^
 ||yjcf360.com/ad.
 ||yjdigtr.com^
+||yje912.cn^
 ||yjegf.com^
 ||yjgkcbvmnqnicep.xyz^
 ||yjgqpfj.cn^
@@ -94899,7 +94921,7 @@ androidauthority.com##.---___nb
 androidauthority.com##.--qc
 androidauthority.com##.-Ci
 androidauthority.com##.-Yc
-androidauthority.com##._--_-___Qb
+androidauthority.com##._--_-___0b
 androidauthority.com##._--_-___Yb
 androidauthority.com##.andro-in-article-sidebar-desktop-placement
 androidauthority.com##.andro-mid-article-placement
@@ -96030,9 +96052,11 @@ bilibili.com##.bili-dyn-ads
 bilibili.com##.bili-video-card:has(.bili-video-card__info--ad) > .bili-video-card__wrap
 bilibili.com##.bili-video-card:has(.bili-video-card__info--creative-ad) > .bili-video-card__wrap
 bilibili.com##.bili-video-card__wrap > a[href^="http"]:not([href*=".bilibili.com/"])
+bilibili.com##.container > div.bili-video-card.is-rcmd:not(:has(> *))
 bilibili.com##.desktop-download-tip
 bilibili.com##.eva-banner
 bilibili.com##.float-btn
+bilibili.com##.floor-single-card:has(.floor-skeleton):not(:has(> div.bili-video-card__skeleton))
 bilibili.com##.gg-floor-module
 bilibili.com##.gg-floor-module,#slide_ad,a[href^="//cm.bilibili.com"]
 bilibili.com##.index-promote
@@ -109306,6 +109330,7 @@ spiceworks.com##.gp-standard-header
 spiceworks.com##.listing-ads
 spiegel.de###vi-stories-main-container
 spiegel.de##.emsAnzeige
+spiegel.de##.ob-dynamic-rec-container.ob-p
 spiegel.de##.vi-stories-top-div
 spiegel.de##a[data-nvp*="'trafficUrl':'https://paid.outbrain.com/network/redir?"]
 spiegel.de##a[href^="http://paid.outbrain.com/network/redir?"]
@@ -110881,6 +110906,10 @@ tweaktown.com###DesktopTop
 tweaktown.com##.DesktopRightBA
 tweaktown.com##.center-tag-rightad
 twidouga.net##.item_w360
+twiiter.com,twitter.com,x.com##div[data-testid="UserCell"]:has(path[d$="10H8.996V8h7v7z"])
+twiiter.com,twitter.com,x.com##div[data-testid="eventHero"]:has(path[d$="10H8.996V8h7v7z"])
+twiiter.com,twitter.com,x.com##div[data-testid="placementTracking"]:has(div[data-testid$="-impression-pixel"])
+twiiter.com,twitter.com,x.com##div[data-testid="trend"]:has(path[d$="10H8.996V8h7v7z"])
 twiman.net##div[class*="my-"][class*="px\]"]
 twinfinite.net###mvp-main-content-wrap
 twistedsifter.com##.widget_sifter_ad_bigbox_widget
@@ -110897,11 +110926,7 @@ twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion,x.com
 twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion,x.com##a[href*="src=promoted_trend_click"] + div
 twitter.com,x.com##.tweet:has(.promo)
 twitter.com,x.com##article[data-testid="tweet"]:has(path[d$="10H8.996V8h7v7z"])
-twitter.com,x.com##div[data-testid="UserCell"]:has(path[d$="10H8.996V8h7v7z"])
 twitter.com,x.com##div[data-testid="cellInnerDiv"] > div > div[class] > div[class][data-testid="placementTracking"]
-twitter.com,x.com##div[data-testid="eventHero"]:has(path[d$="10H8.996V8h7v7z"])
-twitter.com,x.com##div[data-testid="placementTracking"]:has(div[data-testid$="-impression-pixel"])
-twitter.com,x.com##div[data-testid="trend"]:has(path[d$="10H8.996V8h7v7z"])
 twitter.com,x.com#?#h2[role="heading"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสมพนธ|परचरत|বজঞপত|تشہیر شدہ|مروج|تبلیغی|מקודם/)
 twpkinfo.com###div_close_cf
 txahz.com###archy_ad2
@@ -112624,6 +112649,7 @@ yandex.*##.ProductGallery
 yandex.*##.mini-suggest__item[data-suggest-counter*="/yandex.ru/clck/safeclick/"]
 yandex.*##.search-list-view__advert-offer-banner
 yandex.*##.search-snippet-view:has(span.search-advert-badge__advert)
+yandex.*##a[href^="https://yandex.ru/an/count/"]
 yandex.*##li[class*="_card"]:has(a[href^="https://yabs.yandex.ru/count/"])
 yandex.*##li[class*="_card"]:has(a[href^="https://yandex.com/search/_crpd/"])
 yandex.by,yandex.com,yandex.com.tr,yandex.eu,yandex.fr,yandex.kz,yandex.net,yandex.ru,yandex.ua,yandex.uz##div[id^="yandex_ad"]
@@ -112633,6 +112659,7 @@ yandex.com##.ImagesViewer-SidebarAdv
 yandex.com##.ProductGallery
 yandex.com##.search-list-view__advert-offer-banner
 yandex.com##.search-snippet-view:has(span.search-advert-badge__advert)
+yandex.com##a[href^="https://yandex.ru/an/count/"]
 yandex.com##div[aria-label="Ad"]
 yandex.com##div[data-name="adWrapper"]
 yandex.com##li[class*="_card"]:has(a[href^="https://yabs.yandex.ru/count/"])
@@ -113501,6 +113528,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 -120x600_
 -1316632262.cos.
 -1316899192.cos.
+-1321533417.cos.
 -160-600.
 -160x400-
 -160x600-
@@ -120707,6 +120735,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /jypro.html?c=pxza$document
 /jypro.html?c=pxza$~third-party
 /k120g270.
+/k228.oss-
 /k300g250.
 /k960g90.
 /k_ads/*
