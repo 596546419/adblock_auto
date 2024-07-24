@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Qj1FBOHbxyKMQycc8cSh5w
+! Checksum: bZK+x0ax/LyQrXAbaVL8KA
 ! Title: 混合规则(自动更新)
-! Version: 20240724002928
+! Version: 20240724092808
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-24 00:29:28
-! Total Count: 148537
+! Last modified: 2024-07-24 09:28:08
+! Total Count: 148562
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1392,6 +1392,7 @@
 ||2898.com/index/flowexchange/getGoods?
 ||28acglz.com^
 ||28adea9220.com^
+||28d287b9.xyz^
 ||28d591da.xyz^
 ||28e096686b.com^
 ||28hse.com/adsman/www/images/
@@ -2036,6 +2037,7 @@
 ||44pv.com^$third-party
 ||452tapgn.de^
 ||453130fa9e.com^
+||45496fee.xyz^
 ||4567.org^$third-party
 ||456vdghgj30.dyndns.org^
 ||46186911.vtt^
@@ -2046,6 +2048,7 @@
 ||468.vologdainfo.ru^
 ||4690y10pvpq8.com^
 ||469716.top^
+||46bd8e62a2.com^
 ||46d84abb3a.com^
 ||46d983eade.com^
 ||46f4vjo86.com^
@@ -3934,6 +3937,7 @@
 ||a.tyncar.com^
 ||a.ucoz.net^
 ||a.viethu.com^
+||a.visme.co^
 ||a.vturb.net^
 ||a.vtvdigital.vn^
 ||a.walla.co.il^
@@ -10080,6 +10084,7 @@
 ||api.setting.intl.miui.com^
 ||api.share.mob.com^
 ||api.simpletra.com^
+||api.sprig.com^
 ||api.subiz.com.vn^
 ||api.subiz.net^
 ||api.subiz.xyz^
@@ -13606,6 +13611,7 @@
 ||believersymphonyaunt.com^
 ||belightpeonize.com^
 ||belikeelean.life^
+||beliketheappyri.info^
 ||belindanbd.com^
 ||belittlepads.com^
 ||bellaads.com^
@@ -14408,6 +14414,7 @@
 ||birqmiowxfh.com^
 ||birter.com^
 ||birthcaker.cn^
+||birthday3452.fun^
 ||birthdayforester.com^
 ||birthdayinhale.com^
 ||birthdiscipline.com^
@@ -15692,6 +15699,7 @@
 ||breynvqbjwaz.top^
 ||brfgbn.xyz^
 ||brfvyrrp.com^
+||brfzpaffgni.com^
 ||briareddollier.com^
 ||briarsbarrer.guru^
 ||bribrieslabon.com^
@@ -28048,6 +28056,7 @@
 ||entuvmcdcedli.com^
 ||enueduringhere.info^
 ||enuewasadirectres.info^
+||enuksg.xyz^
 ||enuresdairi.com^
 ||enviabledilate.com^
 ||enviablesavouropinion.com^
@@ -28268,6 +28277,7 @@
 ||er.5ykj.cn^
 ||er.5ykj.com^
 ||er.search.naver.com^
+||er1h4.icu^
 ||era.easyvoyage.com^
 ||era67hfo92w.com^
 ||eraaoec.cn^
@@ -28844,6 +28854,7 @@
 ||events.devcycle.com^
 ||events.elev.io^
 ||events.flagship.io^
+||events.framer.com^
 ||events.funnelish.com^
 ||events.getsitectrl.com^
 ||events.iap.unity3d.com^
@@ -39395,6 +39406,7 @@
 ||iephrenhq.com^
 ||iesandb.cfd^
 ||ietbwrkg.com^
+||ietlwso.top^
 ||ietyofedinj89yewtburgh.com^
 ||ieuhd.com^
 ||ieurop.net^
@@ -40732,6 +40744,7 @@
 ||insightexpressai.com^
 ||insightgrit.com^
 ||insights-collector.newrelic.com^
+||insights-mxp.coursecareers.com^
 ||insights.algolia.io^
 ||insights.sitesearch360.com^
 ||insigit.com^
@@ -42299,6 +42312,7 @@
 ||jdcnwd.com^
 ||jddaw.com^
 ||jdexcgb.cn^
+||jdfzfd.xyz^
 ||jdgsgl.com^
 ||jdhgswknl.com^
 ||jdhpfnfc.com^
@@ -53170,6 +53184,7 @@
 ||mvlxwnbeucyrfam.xyz^
 ||mvlxxocul.xyz^
 ||mvlyimxovnsw.xyz^
+||mvmzlg.xyz^
 ||mvng.cn^
 ||mvnmkbixlvb.com^
 ||mvntaalwjvk.com^
@@ -61911,6 +61926,7 @@
 ||ppjttn.xyz^
 ||pplferio.com^
 ||pplgwic.com^
+||pplkrh.xyz^
 ||pplnjoow.com^
 ||ppltxv.xyz^
 ||ppluoli.xyz^*.gif
@@ -61975,6 +61991,7 @@
 ||practicallyutmost.com^
 ||practicallyvision.com^
 ||practicalwhich.info^
+||practice3452.fun^
 ||practiceddrummerballast.com^
 ||practicedeaf.com^
 ||practicedearest.com^
@@ -63272,6 +63289,7 @@
 ||pupur.net^
 ||pupur.pro^
 ||puqobfkghmyb.com^
+||puraquealtered.shop^
 ||purchaserdisgustingwrestle.com^
 ||purchaserteddy.com^
 ||purchasertormentscoundrel.com^
@@ -68182,6 +68200,7 @@
 ||ryminos.com^
 ||rympsxilkdqywd.com^
 ||rypqxxsx.com^
+||ryqgdrh.icu^
 ||ryqlbqdj.com^
 ||ryremovement.com^
 ||ryretyequiremuke.info^
@@ -70258,6 +70277,7 @@
 ||shatterconceal.com^
 ||shattermessseedling.com^
 ||shaufoal.com^
+||shaugacakro.net^
 ||shauhacm.net^
 ||shauhaik.xyz^
 ||shauksug.com^
@@ -71143,6 +71163,7 @@
 ||sibehgtq.xyz^
 ||sibergy.com^
 ||siberiabecrush.com^
+||siberreklam.com^
 ||sibgycqzgj.com^
 ||siblastid.top^
 ||sibulla.com^
@@ -72729,6 +72750,7 @@
 ||soupteep.xyz^
 ||soupteewhish.com^
 ||souptightswarfare.com^
+||soupy-user.com^
 ||souraivo.xyz^
 ||source.advisible.com^
 ||sourcebloodless.com^
@@ -73876,6 +73898,7 @@
 ||static.parsely.com^
 ||static.rongkao.com^
 ||static.rqmob.com/sa^
+||static.runconverge.com^
 ||static.stat.truthlyanalytics.com^
 ||static.step.dk^
 ||static.subiz.com^
@@ -85305,6 +85328,7 @@
 ||vpbban.com^
 ||vpbbank.com^
 ||vpbbc.cn^
+||vpbpb.com^
 ||vpbsvn.com^
 ||vpeucmbkrobe.com^
 ||vpfudjdi.com^
@@ -87969,6 +87993,7 @@
 ||wqprtyg.cn^
 ||wqvbuj.icu^
 ||wqweiog.xyz^
+||wqyjkupqj.com^
 ||wqyloitd.cn^
 ||wqzjfsmudvpct.com^
 ||wqzmed.cn^
@@ -106188,6 +106213,7 @@ old.reddit.com##.native-ad-container
 oldies.name###stop_ad2
 olehd.com,olevod.com,olevod.eu##a[style*="/upload/site/"]
 olehdtv.com##.container > div[class^="B1"]
+olehdtv.com,olevod.eu,runningmanzx.com##.guangao
 olevod.com##.A4R
 olevod.com##.B1L
 olevod.com##.B1R
@@ -106199,7 +106225,6 @@ olevod.com##div[class^="ad"][style="margin-top: 0.05rem;"]
 olevod.com##div[style*="%;float: left;"] > a[target="_blank"]
 olevod.com#$?#.swiper-wrapper > li.swiper-slide:has(> a[target="_blank"]:not([href^="/"])) { remove: true; }
 olevod.eu##a.wbalist_thumb[target="_blank"]
-olevod.eu,runningmanzx.com##.guangao
 olevod.tv##a[href^="https://www.yywhale.com"]
 olgame.tw##.nex_floor_banner
 olgame.tw##.nex_index_ads

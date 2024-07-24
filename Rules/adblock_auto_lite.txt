@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: IjamA1aqkTmgPQqSe3TSOg
+! Checksum: AgegoCwzbkZsDWa2czAGAw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240724002940
+! Version: 20240724092820
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-24 00:29:40
-! Total Count: 28452
+! Last modified: 2024-07-24 09:28:20
+! Total Count: 28458
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6930,6 +6930,7 @@
 ||entertainingeyes.com^$third-party
 ||enthusiasticdad.com^$third-party
 ||entry.baidu.com/rp/home?
+||enuksg.xyz^
 ||enviousinevitable.com^
 ||enviousshape.com^$third-party
 ||enviousthread.com^$third-party
@@ -6967,6 +6968,7 @@
 ||eqwyym.com/js/dom.js$third-party
 ||er.5ykj.cn^
 ||er.5ykj.com^
+||er1h4.icu^
 ||eraaoec.cn^
 ||eraygc.xyz^
 ||erbiscusysexbu.info^
@@ -8945,6 +8947,7 @@
 ||ielgag.top^
 ||iepda.xyz^
 ||iephrenhq.com^
+||ietlwso.top^
 ||ievvo.xyz^
 ||iewtwo.xyz^
 ||ieymhkx.icu^
@@ -9520,6 +9523,7 @@
 ||jdbstatic.com/ads/
 ||jdcnwd.com^
 ||jddaw.com^
+||jdfzfd.xyz^
 ||jdipsuma.top^
 ||jdoshba.top^
 ||jdpm.net.cn^
@@ -12978,6 +12982,7 @@
 ||pp1hl.xyz^
 ||ppenid.xyz^
 ||ppjttn.xyz^
+||pplkrh.xyz^
 ||pplnjoow.com^
 ||ppltxv.xyz^
 ||ppluoli.xyz^*.gif
@@ -13949,6 +13954,7 @@
 ||rydzfldt.xyz^
 ||ryhkft.xyz^
 ||ryhuzj.xyz^
+||ryqgdrh.icu^
 ||ryrmvd.xyz^
 ||ryvexulg.xyz^
 ||ryyuvrt.cn^
