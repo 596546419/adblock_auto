@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: bZK+x0ax/LyQrXAbaVL8KA
+! Checksum: NYbKlakuGyiROyQLRBWwRg
 ! Title: 混合规则(自动更新)
-! Version: 20240724092808
+! Version: 20240724162551
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-24 09:28:08
-! Total Count: 148562
+! Last modified: 2024-07-24 16:25:51
+! Total Count: 148569
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -13965,6 +13965,7 @@
 ||bewilderedblade.com^$third-party
 ||bewitchadmiringconstraint.com^
 ||bewoobaton.com^
+||bewr1.com^
 ||bewsejqcbm.com^
 ||bexxhlatjhmyei.xyz^
 ||beyanmaan.com^
@@ -25463,6 +25464,7 @@
 ||douhooke.net^
 ||doujinnomori.com/ad/
 ||doujl.cn^
+||doujs01.shop^
 ||doujs01.xyz^
 ||doujs010.xyz^
 ||doujs02.xyz^
@@ -36741,6 +36743,7 @@
 ||heaterpealarouse.com^
 ||heaterrobotscompute.com^
 ||heatertried.com^
+||heatherssb.com^
 ||heathertravelledpast.com^
 ||heatmap.emma.tools^
 ||heatmap.it^
@@ -92668,6 +92671,7 @@ $script,third-party,denyallow=linkvertise.com|fastly.net|statically.io|sharecast
 $script,third-party,domain=52movieba.com|audio699.com|cilimao.co|cilimao.one|colamanga.com|kan-tv.com|m.supfree.net|movieffm.net|torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.se|torrentkitty.tv|torrkitty.com|xiaoheimi.net|xiaoxintv.net
 $script,third-party,websocket,domain=52codes.net
 $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|webhd.cc|xyg688.com|xyg688.xyz|zzzzz688.com
+$third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.xyz
 $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|colourlovers.com|fastpic.ru|fileone.tv|filmlinks4u.is|imagefap.com|keepvid.com|megaup.net|olympicstreams.me|pocketnow.com|pornhub.com|pornhubthbh7ap3u.onion|powvideo.net|redtube.com|redtube.com.br|roadracerunner.com|shorte.st|tribune.com.pk|tube8.com|tube8.es|tube8.fr|tune.pk|vcpost.com|vidmax.com|vidoza.net|vidtodo.com|xtube.com|youporn.com|youporngay.com
 000webhost.com###bottom-banner-with-counter-holder-desktop
@@ -100016,6 +100020,7 @@ fool.com##.promobox-container
 fool.com##.show-ad-label
 football-tribe.com##div[id^="da-article-"]
 football365.com,planetf1.com,planetrugby.com##.ps-block-a
+footballdb.com##.rightcol_ad
 footballtransfers.com##div[style*="min-height: 250px;"]
 footballtransfertavern.com,forums.bluemoon-mcfc.co.uk,gpfans.com###snack_ldb
 footybite.cc##div[style^="border: 2px solid "]
@@ -111368,6 +111373,7 @@ voflix.com##[class*="module-adslist"]
 voflix.com##img[importance="low"][onclick*="window.open"][src][lazyload]
 vofomovies.info##a[href="https://futaonfemale.com"]
 vofomovies.info#?#a13:-abp-contains( Ad)
+vogue.com.au##.dYmYok
 voiceofsandiego.org##.-sponsored
 voicetube.com###tab-ad-site
 voiranime.com###mg_vd
@@ -113430,6 +113436,7 @@ $script,third-party,denyallow=linkvertise.com|fastly.net|statically.io|sharecast
 $script,third-party,domain=52movieba.com|audio699.com|cilimao.co|cilimao.one|colamanga.com|kan-tv.com|m.supfree.net|movieffm.net|torkitty.com|torrentkitty.app|torrentkitty.asia|torrentkitty.cam|torrentkitty.ink|torrentkitty.io|torrentkitty.live|torrentkitty.lol|torrentkitty.net|torrentkitty.se|torrentkitty.tv|torrkitty.com|xiaoheimi.net|xiaoxintv.net
 $script,third-party,websocket,domain=52codes.net
 $third-party,xmlhttprequest,domain=subhd.tv|subhdtw.com|webhd.cc|xyg688.com|xyg688.xyz|zzzzz688.com
+$third-party,xmlhttprequest,websocket,domain=qiyoudy2.com|qiyoudy4.com
 $third-party,~script,~stylesheet,domain=xs77.cc|xs77.com|xs77.buzz|xs77.cn|xs77.xyz
 $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|colourlovers.com|fastpic.ru|fileone.tv|filmlinks4u.is|imagefap.com|keepvid.com|megaup.net|olympicstreams.me|pocketnow.com|pornhub.com|pornhubthbh7ap3u.onion|powvideo.net|redtube.com|redtube.com.br|roadracerunner.com|shorte.st|tribune.com.pk|tube8.com|tube8.es|tube8.fr|tune.pk|vcpost.com|vidmax.com|vidoza.net|vidtodo.com|xtube.com|youporn.com|youporngay.com
 &AdType=
