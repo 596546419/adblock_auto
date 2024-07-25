@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: lsGBN70aLnLnH70Q5f/tJQ
+! Checksum: QTcE5R4k2WH8o9XkZrVluA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240725092813
+! Version: 20240725162735
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-25 09:28:13
-! Total Count: 28475
+! Last modified: 2024-07-25 16:27:35
+! Total Count: 28478
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1200,6 +1200,7 @@
 ||8mg050.n3cdn1.secureserver.net^*.gif
 ||8mg050.n3cdn1.secureserver.net^*/960
 ||8ovgk.online^
+||8q88n.icu^
 ||8s8s.com/data/banner/
 ||8seaa.com/template/assets1/js/vue.js
 ||8suis.top^
@@ -11732,6 +11733,7 @@
 ||myqcloud.com/ad/
 ||myqcloud.com/wp-content/uploads/huoxingyun.
 ||myreadcloud.com^
+||myretux.top^
 ||mysexbossy.com/scripts/$script,important
 ||mysexgames.com/pix/best-sex-games/
 ||mysexgames.com/plop.js
@@ -14407,6 +14409,7 @@
 ||sharkyporn.com/img/11490.gif
 ||sharppatch.com^$third-party
 ||shbear.com^*/ad/
+||shbzegs.cn^
 ||shellcat.ru^$third-party
 ||sheltercellar.com^$third-party
 ||shen4club.com/style/*.js?v=
