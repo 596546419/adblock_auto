@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: QTcE5R4k2WH8o9XkZrVluA
+! Checksum: gwOt7ForrWzSHJSny00qZA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240725162735
+! Version: 20240726002700
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-25 16:27:35
-! Total Count: 28478
+! Last modified: 2024-07-26 00:27:00
+! Total Count: 28479
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6512,6 +6512,7 @@
 ||dripappliance.com^$third-party
 ||drive2.ru/assets/*/banner.html
 ||driverequest.com^$third-party
+||drjs123.com^
 ||drjyjr.xyz^
 ||drmcmm.baidu.com^
 ||drpsjp.xyz^
@@ -14410,6 +14411,7 @@
 ||sharppatch.com^$third-party
 ||shbear.com^*/ad/
 ||shbzegs.cn^
+||shbzqgs.cn^
 ||shellcat.ru^$third-party
 ||sheltercellar.com^$third-party
 ||shen4club.com/style/*.js?v=
@@ -15702,7 +15704,6 @@
 ||trafficjam.cn^$third-party
 ||trafficjunky.com^
 ||trafficjunky.net^
-||trafficmanager.net^
 ||trafmag.com^
 ||traktum.com^
 ||trandgid.com^$third-party
