@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: nvoe54n+5I6iW7j0VeA3zQ
+! Checksum: Iu4VjGWrApzKUotyrpA6qw
 ! Title: 混合规则(自动更新)
-! Version: 20240725002637
+! Version: 20240725092802
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-25 00:26:37
-! Total Count: 148598
+! Last modified: 2024-07-25 09:28:02
+! Total Count: 148617
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2498,6 +2498,7 @@
 ||5ca59a669a.com^
 ||5caa478343.com^
 ||5cbbdb4434.com^
+||5cc3ac02.xyz^
 ||5ceea3.xyz^
 ||5cf8606941.com^
 ||5d2d04464c.com^
@@ -3460,6 +3461,7 @@
 ||8ovgk.online^
 ||8po6fdwjsym3.com^
 ||8q2h.icu^
+||8q88n.icu^
 ||8s32e590un.com^
 ||8s8s.com/data/banner/
 ||8seaa.com/template/assets1/js/vue.js
@@ -12127,6 +12129,7 @@
 ||b3b526dee6.com^
 ||b3kyo0de1fr0.com^
 ||b3mccglf4zqz.shop^
+||b3mxnuvcer.com^
 ||b3ra6hmstrioek54er.com^
 ||b3stcond1tions.com^
 ||b3z29k1uxb.com^
@@ -20207,6 +20210,7 @@
 ||collector.megaxh.com^
 ||collector.ozeex.com^
 ||collector.pi.spectrum.net^
+||collector.plarium.com^
 ||collector.prod.expedia.com^
 ||collector.reelevant.com^
 ||collector.retailcrm.pro^
@@ -20426,6 +20430,7 @@
 ||complementimpassable.com^
 ||complementinstancesvarying.com^
 ||complementparadeforbid.com^
+||complete-afternoon.pro^
 ||completecabbage.com^$third-party
 ||completelystair.com^
 ||completelywrath.com^
@@ -22324,6 +22329,7 @@
 ||cycyw.com/mf/
 ||cycyw.com/qdj/
 ||cydippeespy.com^
+||cyeqeewyr.com^
 ||cyesesprerich.com^
 ||cygnus.com^
 ||cyhbrjf.cn^
@@ -32597,6 +32603,7 @@
 ||g.doubleclick.net^
 ||g.gegeyingshi.com^
 ||g.hsw.cn^
+||g.ign.com^
 ||g.jinti.com/f/a/a
 ||g.lznews.cn^
 ||g.mnw.cn^
@@ -42467,6 +42474,7 @@
 ||jesupe.com^
 ||jet.zbp.ru^
 ||jetbux.ir^
+||jetlwsa.top^
 ||jetordinarilysouvenirs.com^
 ||jetpgnebpwm.com^
 ||jetsdulce.com^
@@ -45683,6 +45691,7 @@
 ||kweriod.top^
 ||kwflvcdn.000dn.com^*.flv
 ||kwgefe.com^
+||kwgqaqf.icu^
 ||kwhenspokento.info^
 ||kwhhdwyuvi.com^
 ||kwiqcoh.icu^
@@ -50663,6 +50672,7 @@
 ||megaad.nz^
 ||megabestnews.net^
 ||megabookline.com^
+||megacot.com^
 ||megadata.co.kr^
 ||megadeliveryn.com^
 ||megae-aqn.com^
@@ -51665,6 +51675,7 @@
 ||mkd88.cc/16.32.jpg
 ||mkeliihb.com^
 ||mkenativji.com^
+||mkepacotck.com^
 ||mkgiiijigxwwn.com^
 ||mkhoj.com^
 ||mkihakfuzv.com^
@@ -63692,6 +63703,7 @@
 ||pzgbqbk.com^
 ||pzjizsyf.icu^
 ||pzlxnd.xyz^
+||pznlpp.xyz^
 ||pznqjhh.life^
 ||pzoynkxexnx.com^
 ||pzphmkf.xyz^
@@ -64863,6 +64875,7 @@
 ||qvftejz.cn^
 ||qvikar.com^
 ||qvjpjsglmvhcbv.xyz^
+||qvjqbtbt.com^
 ||qvkjkc.xyz^
 ||qvlczhitbsqpl.com^
 ||qvnbjjd.xyz^
@@ -65023,6 +65036,7 @@
 ||qzqyw.cn^
 ||qzsfmbt.cn^
 ||qzsgudj.com^
+||qzsvwo.xyz^
 ||qzthueo.cn^
 ||qzvzluu.xyz^
 ||qzwb.com/phpstat/
@@ -70201,6 +70215,7 @@
 ||shallowtwist.pro^
 ||shalomitll.top^
 ||shalse.com^
+||shameful-leader.com^
 ||shameless-sentence.pro^
 ||shamelesscry.pro^
 ||shamelessgoodwill.com^
@@ -70319,6 +70334,7 @@
 ||shbfinanoe.com^
 ||shbfinans.com^
 ||shbkhuyenmai.com^
+||shbzegs.cn^
 ||shcd.me^
 ||shcy3.com^
 ||shcylxl.com^
@@ -81686,6 +81702,7 @@
 ||uibjhqwkl.com^
 ||uibqwl.xyz^
 ||uibtxv.cn^
+||uicdns.xyz^
 ||uid.mediacorp.sg^
 ||uidhealth.com^
 ||uidhome.com^
@@ -85351,6 +85368,7 @@
 ||vpbbc.cn^
 ||vpbpb.com^
 ||vpbsvn.com^
+||vpdnjl.xyz^
 ||vpeucmbkrobe.com^
 ||vpfudjdi.com^
 ||vpico.com^
@@ -86220,6 +86238,7 @@
 ||wboux.com^
 ||wbowoheflewroun.info^
 ||wbqosw.xyz^
+||wbqqo.com^$third-party
 ||wbsads.com^
 ||wbshu.com^$third-party
 ||wbtrk.net^
