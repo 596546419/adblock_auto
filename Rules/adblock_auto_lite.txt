@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: gwOt7ForrWzSHJSny00qZA
+! Checksum: RihrU3Dr/2z6VWkMEtSXTg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240726002700
+! Version: 20240726092718
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-26 00:27:00
-! Total Count: 28479
+! Last modified: 2024-07-26 09:27:18
+! Total Count: 28484
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5468,6 +5468,7 @@
 ||cloudservice24.kingsoft-office-service.com/cards
 ||clovercabbage.com^$third-party
 ||clplrhum.xyz^
+||clqjyw.xyz^
 ||clqkqq.com^
 ||clrjnhxi.xyz^
 ||cls.vrvm.com^
@@ -6481,6 +6482,7 @@
 ||dpj0uvy.icu^
 ||dporn.com/edraovnjqohv/
 ||dporn.com/tpnxa/
+||dpweupc.icu^
 ||dpxynh.xyz^
 ||dpzplb.xyz^
 ||dq95d35.com^$third-party
@@ -6625,6 +6627,7 @@
 ||dxsjcz.cn^
 ||dxwpedu.me^$third-party
 ||dxxwdz.xyz^
+||dy10000.net^
 ||dy2018.com/js/tj.js
 ||dy2018.com/js17/
 ||dy2018.com/jsdd/
@@ -10095,6 +10098,7 @@
 ||kemas.top^
 ||keptafd.cn^
 ||ketchapp.org^
+||ketlwsd.top^
 ||kewaishu.org/m-
 ||key.sexymovie.name^
 ||key8.com/cache/www/banner_
@@ -17281,6 +17285,7 @@
 ||xizi.com/js/rotator.js
 ||xjappzvz.xyz^
 ||xjnyjt.xyz^
+||xjpmlf.xyz^
 ||xjpsrb.xyz^
 ||xjxbdh.xyz^
 ||xjzyhp.xyz^
