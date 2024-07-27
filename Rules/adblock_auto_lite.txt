@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Htbxd24KiEgQkReVhldDWw
+! Checksum: eXKMb0N+ICZFCii8NxEi9g
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240727092703
+! Version: 20240727162405
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-27 09:27:03
-! Total Count: 28493
+! Last modified: 2024-07-27 16:24:05
+! Total Count: 28499
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -79,6 +79,7 @@
 ||0a2b3c4d5e.com^
 ||0efghij.com^
 ||0ghijkl.com^
+||0h3uds.com^
 ||0hlc8.top^
 ||0hq6k.site^
 ||0i0i0i0.com^$third-party,important
@@ -8810,6 +8811,7 @@
 ||hw-ot-ad.a.yximgs.com^
 ||hw0.com.cn^
 ||hwcdn.net^*.mp4|$domain=pornachi.com|pornchimp.com
+||hwerilxu.top^
 ||hweriou.top^
 ||hwfoct.icu^
 ||hwhacum.cn^
@@ -9981,6 +9983,7 @@
 ||jyuwkba.top^
 ||jyvith.xyz^
 ||jyxfvp.xyz^
+||jz4u1.icu^
 ||jz5u.com/public/js/t$script
 ||jz5u.com/public/new/
 ||jzb.com/website/fe/pub_js/dbclickshow.js
@@ -14422,6 +14425,7 @@
 ||shbear.com^*/ad/
 ||shbzegs.cn^
 ||shbzqgs.cn^
+||shbzqkj.cn^
 ||shellcat.ru^$third-party
 ||sheltercellar.com^$third-party
 ||shen4club.com/style/*.js?v=
@@ -15241,6 +15245,7 @@
 ||t.quandangdang.net/vtdd
 ||t.yzwr588.com^$third-party
 ||t0pan.top^
+||t0sfe1.com^
 ||t1.612.com^
 ||t1.xuefen.com.cn^
 ||t2.picb.cc/2022/08/07/6rpPj1.jpg
@@ -15623,6 +15628,7 @@
 ||tnmpd.xyz^
 ||tns.simba.taobao.com^
 ||tnvnnn.xyz^
+||tnzjrj.xyz^
 ||to8to.com^$subdocument,third-party
 ||toadtexture.com^$third-party
 ||tobyxev.com^

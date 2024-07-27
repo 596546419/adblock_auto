@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: LZeHehRGj72S9KTDtDsUXg
+! Checksum: Oa5nCU8kOVvbA5qDiv3ceQ
 ! Title: 混合规则(自动更新)
-! Version: 20240727092652
+! Version: 20240727162354
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-27 09:26:52
-! Total Count: 148832
+! Last modified: 2024-07-27 16:23:54
+! Total Count: 148852
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -283,6 +283,7 @@
 ||0ftyz.top^
 ||0ghijkl.com^
 ||0gw7e6s3wrao9y3q.pro^
+||0h3uds.com^
 ||0hlc8.top^
 ||0hq6k.site^
 ||0i0i0i0.com^
@@ -27689,6 +27690,7 @@
 ||elmiestkanuri.top^
 ||elmkrljayamrb.top^
 ||elmonopolicycr.info^
+||elneagog.com^
 ||eloer.cn^
 ||elogiumtagmeme.com^
 ||elogs.vnexpress.net^
@@ -30377,7 +30379,6 @@
 ||felipby.live^
 ||felix.data.tm-awx.com^
 ||felixflow.com^
-||feliz.data.tm-awx.com^
 ||fellap.com^
 ||fellerbeeline.top^
 ||fellowsargean.com^
@@ -38899,6 +38900,7 @@
 ||hwcdn.net^*.mp4|$domain=pornachi.com|pornchimp.com
 ||hwchvgpc.xyz^
 ||hwderdk.com^
+||hwerilxu.top^
 ||hweriou.top^
 ||hwfmynim.com^
 ||hwfnlmmqn.com^
@@ -42182,6 +42184,7 @@
 ||jakescribble.com^
 ||jakeycorkage.digital^
 ||jakid.xyz^
+||jakosoafdom.shop^
 ||jalapamaro.com^
 ||jaletemetia.com^
 ||jalewaads.com^
@@ -42495,6 +42498,7 @@
 ||jeetyetmedia.com^
 ||jeewhaituph.net^
 ||jefweev.com^
+||jeghosso.net^
 ||jehobsee.com^
 ||jeidd.xyz^
 ||jeivreeultvgt.com^
@@ -44056,6 +44060,7 @@
 ||jyxfvp.xyz^
 ||jyxrdfxli.com^
 ||jyzkut.com^
+||jz4u1.icu^
 ||jz5u.com/public/js/t$script
 ||jz5u.com/public/new/
 ||jz8b.top^
@@ -44201,6 +44206,7 @@
 ||kalganpuppycensor.com^
 ||kalifthorons.top^
 ||kalitereklam.com^
+||kallimaacoasm.com^
 ||kalmukrattail.com^
 ||kalongyyds.com^
 ||kalooga.com^
@@ -54508,6 +54514,7 @@
 ||nerydw.xyz^
 ||nesefurthere.info^
 ||nesfspublicate.info^
+||neshigreek.com^
 ||nesiotcusses.space^
 ||neslaveswedge.guru^
 ||nesokiahld.com^
@@ -60291,6 +60298,7 @@
 ||phooghoo.com^
 ||phoognol.com^
 ||phoojeex.xyz^
+||phookroamte.xyz^
 ||phooreew.net^
 ||phoossax.net^
 ||phoosuss.net^
@@ -60763,6 +60771,7 @@
 ||pixel.europapress.net^
 ||pixel.ex.co^
 ||pixel.facebook.com^
+||pixel.fohr.co^
 ||pixel.glimr.io^
 ||pixel.homebook.pl^
 ||pixel.honestjohn.co.uk^
@@ -70486,6 +70495,7 @@
 ||shbkhuyenmai.com^
 ||shbzegs.cn^
 ||shbzqgs.cn^
+||shbzqkj.cn^
 ||shcd.me^
 ||shcy3.com^
 ||shcylxl.com^
@@ -73374,6 +73384,7 @@
 ||splicky.com^
 ||splief.com^
 ||splinky.com^
+||splintmuses.com^
 ||splitbee.io^
 ||splittag.com^
 ||splittingpick.com^
@@ -76167,6 +76178,7 @@
 ||t0gkj99krb24.com^
 ||t0p0ff3rs.com^
 ||t0pan.top^
+||t0sfe1.com^
 ||t1.612.com^
 ||t1.musthird.com^
 ||t1.trex.media^
@@ -78682,6 +78694,7 @@
 ||tnudztz.com^
 ||tnvnnn.xyz^
 ||tnwlpbxyto.com^
+||tnzjrj.xyz^
 ||to.getnitropack.com^
 ||to7cc27p.su^
 ||to8to.com/assets/wap//common/widgets/appGuide/appGuide.
@@ -81118,6 +81131,7 @@
 ||tuskercampe.life^
 ||tuskhautein.com^
 ||tusno.com^
+||tussisinjelly.com^
 ||tutorlylaggard.top^
 ||tutorthing.com^$third-party
 ||tutphiarcox.com^
@@ -99748,7 +99762,9 @@ exportfromnigeria.info##[src^="http://storage.proboards.com/"]
 exportfromnigeria.info##[src^="http://storage2.proboards.com/"]
 exportfromnigeria.info##[src^="https://storage.proboards.com/"]
 exportfromnigeria.info##[src^="https://storage2.proboards.com/"]
+express.co.uk###mantis-recommender-placeholder
 express.co.uk###mobile_floating_test
+express.co.uk###ovp-primis
 express.co.uk##.affiliate-widget
 express.co.uk##.ayl-native
 express.co.uk##.viafoura-standalone-mpu
@@ -100138,6 +100154,7 @@ firefoxchina.cn,vlxx.sex##.ff-banner
 firmwarefile.com###spon
 firstforwomen.com##.article-content__sponsored_tout_ad___1iSJm
 firstforwomen.com##div[class^="article-content__www_ex_co_video_player_"]
+firstpost.com##.bn-add
 firstpost.com##.mblad
 firstpost.com##.newadd
 firstpost.com##.newtopadd
@@ -105343,6 +105360,7 @@ motherless.com###topsites
 motherless.com##.top-referers
 motherless.com##div > table[style][border]
 motherless.com##table[style*="max-width:"]
+mothership.sg##.events
 motobuy.com.tw##.AD1
 motobuy.com.tw##.adbig
 motor1.com##.ap
@@ -106334,6 +106352,7 @@ nowscore.com###toperAd
 nowscore.com###toperBaskText
 nowscore.com###toperText
 nowscore.com##div[style="background-color:#F0F0F0;line-height:25px;height:25px;text-align:center"]
+nowtoronto.com##.nt-ad-wrapper
 noy1.top##+js(no-xhr-if, /api/ads)
 nplusonemag.com##.nurble
 npr.org##.ad-config
@@ -111286,6 +111305,7 @@ ultrabookreview.com###zzifhome2
 ultrabookreview.com##.postzzif3
 ultrahorny.com,veporn.com##.ads-on-player
 umassathletics.com##.c-sticky-leaderboard
+umod.org##ins[data-revive-id]
 unblockit.boo##a[href^="/netflixPromo"]
 unblockit.boo##a[href^="https://www.cricketbook.com/"]
 uncanceled.news##.uncan-content_11
