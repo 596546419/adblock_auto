@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Oa5nCU8kOVvbA5qDiv3ceQ
+! Checksum: nUiICH0lNFNcLqQydM+PCA
 ! Title: 混合规则(自动更新)
-! Version: 20240727162354
+! Version: 20240728002533
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-27 16:23:54
-! Total Count: 148852
+! Last modified: 2024-07-28 00:25:33
+! Total Count: 148853
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -45489,7 +45489,6 @@
 ||kqwip.cyou^
 ||kqwtnuybueae.com^
 ||kqyywvok.xyz^
-||kr-col-ext.nelo.navercorp.com^
 ||kraken.rambler.ru^
 ||krankenwagenmotor.com^
 ||krasisa.info^
@@ -70494,6 +70493,7 @@
 ||shbfinans.com^
 ||shbkhuyenmai.com^
 ||shbzegs.cn^
+||shbzogs.cn^
 ||shbzqgs.cn^
 ||shbzqkj.cn^
 ||shcd.me^
@@ -105458,6 +105458,7 @@ msn.cn,msn.com##cs-native-ad-card
 msn.com###displayAdCard
 msn.com###div[id^="mrr-topad-"]
 msn.com###taboola-above-homepage-thumbnails
+msn.com##.ad-banner-wrapper
 msn.com##.articlePage_bannerAd_wrapper-DS-EntryPoint1-1
 msn.com##.articlePage_eoabNativeAd_new-DS-EntryPoint1-1
 msn.com##.bannerAdContainer-DS-EntryPoint1-1
