@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: CUO0M3uKkeqpcMcMN21Duw
+! Checksum: VjyaPik1+N6o6LWafFJw3A
 ! Title: 混合规则(自动更新)
-! Version: 20240728094011
+! Version: 20240728162329
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-28 09:40:11
-! Total Count: 148864
+! Last modified: 2024-07-28 16:23:29
+! Total Count: 148870
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2556,6 +2556,7 @@
 ||5lu8.com^
 ||5lu8.com^$popup,third-party
 ||5mcwl.pw^$third-party
+||5mltq.icu^
 ||5mm.zxfw5.cn^
 ||5mno3.com^
 ||5moxhf6z8c.ru^
@@ -8976,6 +8977,7 @@
 ||analy.qq.com^
 ||analy.tuniu.cn^
 ||analy1.dtnnetwork.be^
+||analys.landskrona.se^
 ||analyse.bcovery.com^
 ||analyse.lnearn.com^
 ||analyse.weather.com.cn^
@@ -27276,6 +27278,7 @@
 ||eessoost.net^
 ||eetchaid.net^
 ||eethilsi.com^
+||eetlwsw.top^
 ||eetognauy.net^
 ||eetsegeb.net^
 ||eetsooso.net^
@@ -41942,6 +41945,7 @@
 ||iwe.ktvgv.com^
 ||iwearthbharal.com^
 ||iwebtrack.com^
+||iwerilxo.top^
 ||iwerioo.top^
 ||iwevxujxzdpb.com^
 ||iwfxgkixsoma.com^
@@ -70503,8 +70507,10 @@
 ||shbfinanoe.com^
 ||shbfinans.com^
 ||shbkhuyenmai.com^
+||shbzdkj.cn^
 ||shbzegs.cn^
 ||shbzogs.cn^
+||shbzokj.cn^
 ||shbzqgs.cn^
 ||shbzqkj.cn^
 ||shcd.me^
