@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: nUiICH0lNFNcLqQydM+PCA
+! Checksum: CUO0M3uKkeqpcMcMN21Duw
 ! Title: 混合规则(自动更新)
-! Version: 20240728002533
+! Version: 20240728094011
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-28 00:25:33
-! Total Count: 148853
+! Last modified: 2024-07-28 09:40:11
+! Total Count: 148864
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2005,6 +2005,7 @@
 ||4251.tech^
 ||42a5d530ec972d8994.com^
 ||42cao.com/ckplay/js.jpg
+||42ce2b0955.com^
 ||42d61f012e27b36d53.com^
 ||42e228ef6f.com^
 ||42eed1a0d9c129.com^
@@ -3621,6 +3622,7 @@
 ||973.com/static/js/pccom.js
 ||9738624519.com^
 ||973e017e67.com^
+||97496b9d.xyz^
 ||975.vn^
 ||977878.xyz^
 ||978655.online^
@@ -13426,6 +13428,7 @@
 ||beautifulasaweath.info^
 ||beautifulhobbies.com^$third-party
 ||beautifullyinflux.com^
+||beauty1.xyz^
 ||beautyspumoid.top^
 ||beaverads.com^
 ||beaverculbert.uno^
@@ -27328,6 +27331,7 @@
 ||effectivemeasure.net^
 ||effectiveperformanceformat.com^
 ||effectiveperformancenetwork.com^
+||effectscouncilman.com^
 ||effectsembower.top^
 ||effectsglancefirmly.com^
 ||effectslacybulb.com^
@@ -28782,6 +28786,7 @@
 ||eum-appdynamics.com^
 ||eum.instana.io^
 ||eumnxwvp.ink^
+||eunow4u.com^
 ||eunzkvf.com^
 ||euonymcalvous.com^
 ||euosicjxjv.com^
@@ -30226,6 +30231,7 @@
 ||fdsur.com^
 ||fdswrgg.cn^
 ||fdtikenfxgkie.com^
+||fdtlfl.xyz^
 ||fdtrjz.xyz^
 ||fdubbogbean.guru^
 ||fdveqpc.cn^
@@ -41948,6 +41954,7 @@
 ||iwjerwaxjblelve.com^
 ||iwjgwis.cn^
 ||iwkeoxtaoi.com^
+||iwmigu.xyz^
 ||iwmqbimuaibsvr.com^
 ||iwoiclbfxkxgd.com^
 ||iwouhoft.com^
@@ -42281,6 +42288,7 @@
 ||jav777.cc/wp-content/themes/baskerville/js/jquery-ui
 ||jav789.com/assets/love/index.js
 ||java8.xyz^
+||javacid.fun^
 ||javacript.cf^
 ||javacript.gq^
 ||javacript.tk^
@@ -42300,6 +42308,7 @@
 ||javhoo.net/pop/pop.jpg
 ||javhub.net/img/r18_banner1.jpg
 ||javmilk.org^
+||javmust.fun^
 ||javporn.best/asset/default/player/plugins/vast-*.js
 ||javporn.tv/wp-content/uploads/*.mp4
 ||javpornclub.com/images/banners/takefile72890.gif
@@ -47990,6 +47999,7 @@
 ||localau.vip/plugin/show.php
 ||localau.vip/tccenter/ad/
 ||localedgemedia.com^
+||locallycompare.com^
 ||locallyhastefowl.com^
 ||localpoint.ch^
 ||localsearch24.co.uk^
@@ -60081,6 +60091,7 @@
 ||pgbank.info^
 ||pgbmjuhwiej.xyz^
 ||pgccaoy.cn^
+||pgcciax.icu^
 ||pgdmon.com^
 ||pgdt.gtimg.cn/gdt/$domain=info.3g.qq.com
 ||pgdt.gtimg.cn^
@@ -98563,6 +98574,7 @@ ddys.*,ddrk.me##+js(set-constant, Object.prototype.cnobpreroll_, true)
 ddys.tv##div#kasjbgih
 ddys.tv,ddys.art,ddys.*,ddrk.me,ddys.pro,ddys2.me##div > a[href][target="_blank"] > img
 ddys.tv,ddys.art,ddys.*,ddrk.me,ddys.pro,ddys2.me##div > span > a > img
+ddzimu.com,pornstargold.com,safetydetectives.com,univisa.com.cn###popup
 de-sexy-tube.ru,pornxs.com,tubsxxx.com##+js(no-setTimeout-if, window.location.href)
 de.as.pptv.com
 dead-frog.com###site_top
@@ -107602,7 +107614,6 @@ pornstarbyface.com##div[id^="sponcored-content-"]
 pornstarchive.com##.squarebanner
 pornstargold.com###basePopping
 pornstargold.com##.et_bloom_popup
-pornstargold.com,safetydetectives.com,univisa.com.cn###popup
 pornstash.in##+js(abort-current-script, document.createElement, Popunder)
 pornstream.org##.player > div.right
 pornstreams.eu###menu-menu > li > a[target="_blank"]
