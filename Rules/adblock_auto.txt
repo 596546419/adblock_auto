@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: VjyaPik1+N6o6LWafFJw3A
+! Checksum: 85hx6DZ8LsrQss3xAR0zCA
 ! Title: 混合规则(自动更新)
-! Version: 20240728162329
+! Version: 20240729002601
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-28 16:23:29
-! Total Count: 148870
+! Last modified: 2024-07-29 00:26:01
+! Total Count: 148875
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -55371,6 +55371,7 @@
 ||nmwbank.cn^
 ||nmxcadosdrcbd.com^
 ||nmxqtuyyojgm.com^
+||nmxxvr.xyz^
 ||nmybyxnjscf.com^
 ||nnavigation.info^
 ||nncvwymtn.com^
@@ -98025,7 +98026,7 @@ cotton.pink,inmywordz.com,pixnet.net,sharonlife.tw##.adsbyfalcon
 coub.com##.timeline-banner
 counselheal.com,mobilenapps.com,newseveryday.com###vplayer_large
 countdown.co.nz##cdx-card:has(product-badge-list)
-countdown.co.nz,irishnews.com,iwan.baidu.com,jns.org,nscreenmedia.com,whoscored.com##.banner-container
+countdown.co.nz,ero-anime.website,irishnews.com,iwan.baidu.com,jns.org,nscreenmedia.com,whoscored.com##.banner-container
 counter.dev,lindaikejisblog.com##.da
 counterpunch.org##.header-center
 couplesinternational.com##a[href^="https://www.redhotpie.com"]
@@ -105808,6 +105809,7 @@ namethatporn.com##div[data-flba^="https://landing.brazzersnetwork.com/"]
 namethatporn.com##div[onclick^="FAB"]
 namethatporn.com##iframe[src*="//a.adtng.com/"]
 namethatpornad.com,vxxx.com##a[href^="https://www.g2fame.com/"]
+namu.wiki##div[id][class]:empty
 nanfengyl.com##.index-top-ad1
 nanfengyl.com,ziyuanba.com##.top-ad-txt
 nanoreview.net###float-sb-right
@@ -111833,6 +111835,7 @@ washingtonpost.com##[data-qa="article-body-ad"]
 washingtonpost.com##[data-qa="right-rail-ad"]
 washingtonpost.com##[data-sc-c="adslot"]
 washingtonpost.com##[data-testid="fixed-bottom-ad"]
+washingtonpost.com##[data-testid="outbrain"]
 washingtonpost.com##[data-testid="placeholder-box"]
 washingtontimes.com##.connatixcontainer
 washingtontimes.com##.piano-in-article-reco
@@ -112324,6 +112327,8 @@ ws://*/api/wss/GetNotReadCount$third-party
 wsj.com###coupon-links
 wsj.com###in_ad_col_b
 wsj.com###saving-united-coupon-list
+wsj.com##.css-c54t2t:has(> .adWrapper)
+wsj.com##.css-c54t2t:has(> .adWrapper) + hr
 wsj.com##.w27771
 wsj.com##.wsj-ad-label
 wsj.com##[aria-label="Sponsored Offers"]

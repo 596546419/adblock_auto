@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: FdXPRH9lgvUrkVjYqWRC7A
+! Checksum: /RQZxzFvWr3IXZAlCQo8nQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240728162340
+! Version: 20240729002613
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-28 16:23:40
-! Total Count: 28503
+! Last modified: 2024-07-29 00:26:13
+! Total Count: 28509
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -905,6 +905,7 @@
 ||5lfgdju.com^
 ||5lu8.com^$popup,third-party
 ||5mcwl.pw^$third-party
+||5mltq.icu^
 ||5mm.zxfw5.cn^
 ||5nj.com/images/appdown.gif
 ||5nj.com/js/cnzz
@@ -6814,6 +6815,7 @@
 ||eepw.com.cn/event/action/rightbd/microchip*.js
 ||eepw.com.cn/pub/js/TopFullScreen.js
 ||eers0cy.com^
+||eetlwsw.top^
 ||eexlgyn.cn^
 ||eeyy.cc/style/yxj.js
 ||eeyy.com/otherhtml/js/ad650.js
@@ -9428,6 +9430,7 @@
 ||iwanshang8.asia^
 ||iwarship.net/wowsdb/static/img/banner.png
 ||iwatojc.cn^
+||iwerilxo.top^
 ||iwerioo.top^
 ||iwmigu.xyz^
 ||iwwmaq.xyz^
@@ -12005,6 +12008,7 @@
 ||nmntgd.cn^
 ||nmssdbgmf.xyz^
 ||nmtibv.xyz^
+||nmxxvr.xyz^
 ||nndytv.xyz^
 ||nndzsw.com^
 ||nndzsw1.com^
@@ -14426,8 +14430,10 @@
 ||sharkyporn.com/img/11490.gif
 ||sharppatch.com^$third-party
 ||shbear.com^*/ad/
+||shbzdkj.cn^
 ||shbzegs.cn^
 ||shbzogs.cn^
+||shbzokj.cn^
 ||shbzqgs.cn^
 ||shbzqkj.cn^
 ||shellcat.ru^$third-party
