@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 7jaONgCnjfsWVVn1YUE6LQ
+! Checksum: s6aUF4LWaJ2Za1krWayZpg
 ! Title: 混合规则(自动更新)
-! Version: 20240729162713
+! Version: 20240730002726
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-29 16:27:13
-! Total Count: 148927
+! Last modified: 2024-07-30 00:27:26
+! Total Count: 148947
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9048,6 +9048,7 @@
 ||analytics-ingestion.production-public.tubi.io^
 ||analytics-ingress-global.bitmovin.com^
 ||analytics-ingress.bitmovin.com^
+||analytics-logger.service.junctiontv.net^
 ||analytics-mkt.wemakeprice.com^
 ||analytics-prd.aws.wehaa.net^
 ||analytics-rollout-*.amazonaws.com^
@@ -9065,6 +9066,7 @@
 ||analytics-tracking.meetup.com^
 ||analytics-union.sandai.net^
 ||analytics-union.xunlei.com^
+||analytics-v2.wetransfer.com^
 ||analytics-wcms.joins.net^
 ||analytics.*.sky.com^
 ||analytics.126.net^
@@ -9390,6 +9392,7 @@
 ||analytics.rover.io^
 ||analytics.s3.amazonaws.com^
 ||analytics.saas-vn.network^
+||analytics.saikosoft.jp^
 ||analytics.salesanalytics.io^
 ||analytics.samsungknox.com^
 ||analytics.sanoma.fi^
@@ -12120,6 +12123,7 @@
 ||b0e8.com^
 ||b0eb63.xyz^
 ||b0f1d2.com^
+||b0f2f18e.xyz^
 ||b0oie4xjeb4ite.com^
 ||b0rbgroup.xyz^
 ||b0ufmrzl.icu^
@@ -19262,6 +19266,7 @@
 ||cleaningmaturegallop.com^
 ||cleanmediaads.com^
 ||cleanmypc.click^
+||cleannow.click^
 ||cleanplentifulnomad.com^
 ||cleantrafficrotate.com^
 ||clear-request.com^
@@ -26987,6 +26992,7 @@
 ||echocultdanger.com^
 ||echoeshamauls.com^
 ||echoizepheeal.uno^
+||echopixelwave.net^
 ||echskbpghlc.com^
 ||eciea.xyz^
 ||eciivxqtur.com^
@@ -34872,6 +34878,7 @@
 ||gosquared.com^
 ||gossipcase.com^
 ||gossipfinestanalogy.com^
+||gossipinvest.com^
 ||gossipprotectioncredentials.com^
 ||gossipsize.com^
 ||gossipylard.com^
@@ -45731,6 +45738,7 @@
 ||kuqi.com^$third-party
 ||kuqqwpxwaji.com^
 ||kurilo.pro^
+||kurjutodbxca.com^
 ||kurlipush.com^
 ||kursatarak.com^
 ||kurtgeigers.co^
@@ -60355,6 +60363,7 @@
 ||photographpan.com^$third-party
 ||photographyprovincelivestock.com^
 ||photorank.me^
+||photos18.com/images/friend/
 ||photospace.life^
 ||photovault.pics^
 ||photovault.store^
@@ -66895,6 +66904,7 @@
 ||revelationneighbourly.com^
 ||revelationschemes.com^
 ||revengeremarksrank.com^
+||revengine-tracker.remp.dailymaverick.co.za^
 ||revenue.com^
 ||revenuebosom.com^
 ||revenueclamp.com^
@@ -70536,6 +70546,7 @@
 ||shbzegs.cn^
 ||shbzogs.cn^
 ||shbzokj.cn^
+||shbzpgs.cn^
 ||shbzqgs.cn^
 ||shbzqkj.cn^
 ||shcd.me^
@@ -74152,6 +74163,7 @@
 ||static.subiz.com^
 ||static.surfe.pro/js/net.js$script,redirect-rule=noopjs
 ||static.surfe.pro/js/net.js$xmlhttprequest,redirect-rule=nooptext
+||static.target2sell.com^
 ||static.terratraf.io^
 ||static.terrhq.ru^
 ||static.tianyaui.com^*/stat_20080313.js
@@ -79630,6 +79642,7 @@
 ||tracker.$xhr,websocket,script,ping
 ||tracker.520call.me^
 ||tracker.adbinead.com^
+||tracker.adsales.rakuten.co.jp^
 ||tracker.affirm.com^
 ||tracker.ai.xiaomi.com^
 ||tracker.anandtech.com^
@@ -86105,6 +86118,7 @@
 ||wafmedia6.com^
 ||waframedia5.com^
 ||wafwuoymuqhu.com^
+||wagaloo.co.in^
 ||wagecolorful.com^
 ||wagepulsate.com^
 ||wagerjoint.com^
@@ -89566,6 +89580,7 @@
 ||xmzurh.xyz^
 ||xmzwdgm.com^
 ||xn--*.xn--fiqs8s^$~third-party
+||xn----7sbbeeptbfadjdvm5ab9bqj.xn--p1ai/wp-content/uploads/*/rek_*.png
 ||xn--1qwynp09f.net^
 ||xn--2qu92fhtxsxexqab.xn--fiqs8s^
 ||xn--2qu96gouvko1a.com^
@@ -94498,6 +94513,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 91porn.com##iframe[src$="/fans/ad.php"]
 91porn.com#?##videodetails > div:has(> a[href][target="_blank"])
 91porn.com,its.porn##.preroll-blocker
+91porna.com##.carousel-container-bottom
 91porna.com##.carousel-container:has(#carouselExampleInterval)
 91porna.com##.row > div.flex-container:has(> a[href][target="_blank"] > img)
 91porna.com##.row > div[class^="col"]:has(> .video-wrap > a.checkNum)
@@ -102796,6 +102812,8 @@ indy100.com###content_5
 indy100.com###content_6
 indy100.com###content_7
 indy100.com###thirdparty01
+indy100.com##.ad_300x250
+indy100.com##.addressed_cls
 indysmix.com,wzpl.com##.block-content > a[href^="https://sweetjack.com/local"]
 inews.co.uk##.inews__advert
 inews.co.uk##.inews__mpu
@@ -114060,6 +114078,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 -ads/ad-
 -ads/assets/
 -ads/assets/$domain=~web-ads.org
+-ads/assets/$script,domain=~web-ads.org
 -ads/get?
 -ads/img/
 -ads/oas/
@@ -145172,6 +145191,7 @@ zle.com$script
 ##a[href^="http://www.onclickmega.com/jump/next.php?"]
 ##a[href^="http://www.onwebcam.com/random?t_link="]
 ##a[href^="http://yunbofangbt."]
+##a[href^="https://123-stream.org/"]
 ##a[href^="https://1betandgonow.com/"]
 ##a[href^="https://1startfiledownload1.com/"]
 ##a[href^="https://6-partner.com/"]

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: zuGuyAUSuyRzhn96MXJjKA
+! Checksum: l0AWt6UL8Qjejo7nn2YMhQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240729162725
+! Version: 20240730002738
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-29 16:27:25
-! Total Count: 28517
+! Last modified: 2024-07-30 00:27:38
+! Total Count: 28520
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -12626,6 +12626,7 @@
 ||photo.bscy05.cn^$third-party
 ||photo07.xyz^
 ||photographpan.com^$third-party
+||photos18.com/images/friend/
 ||php.cn/ad1.
 ||php.cn/hezuo/
 ||php1.cn/uploads/huayun.jpg
@@ -14437,6 +14438,7 @@
 ||shbzegs.cn^
 ||shbzogs.cn^
 ||shbzokj.cn^
+||shbzpgs.cn^
 ||shbzqgs.cn^
 ||shbzqkj.cn^
 ||shellcat.ru^$third-party
@@ -17368,6 +17370,7 @@
 ||xmxupz.xyz^
 ||xmzurh.xyz^
 ||xn--*.xn--fiqs8s^$~third-party
+||xn----7sbbeeptbfadjdvm5ab9bqj.xn--p1ai/wp-content/uploads/*/rek_*.png
 ||xn--1qwynp09f.net^
 ||xn--2qu96gouvko1a.com^
 ||xn--2quv4et7i4yno8fbua.xn--fiqs8s^
