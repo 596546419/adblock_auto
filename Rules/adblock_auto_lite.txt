@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: /RQZxzFvWr3IXZAlCQo8nQ
+! Checksum: 78YWWZFkMb7S9XthMKBLcg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240729002613
+! Version: 20240729093721
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-29 00:26:13
-! Total Count: 28509
+! Last modified: 2024-07-29 09:37:21
+! Total Count: 28515
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3327,6 +3327,7 @@
 ||aili.com^$third-party
 ||ainunu.*/vad.js
 ||aipp99.com/haose/
+||aiqks.top^
 ||aiqu288.com/*/*.js$~third-party
 ||airav.cc/AirADPic/
 ||airav.cc/Ucenter/*_Ad
@@ -9455,6 +9456,7 @@
 ||izmssk.xyz^
 ||izqogb.cn^
 ||iztwp.com/images/
+||izwmfmu.icu^
 ||j.baminw.cn^
 ||j.diangon.com^
 ||j.sdqoi2d.com^$third-party
@@ -14505,6 +14507,8 @@
 ||sifyeldb.top^
 ||sigjuw.xyz^
 ||sihbb.com/yang/
+||sikapo.top^
+||sikaq.top^
 ||silentcredit.com^$third-party
 ||silentwrench.com^$third-party
 ||siliconslow.com^$third-party
@@ -16096,6 +16100,7 @@
 ||uhwnrfu.cn^
 ||ui8l2.xyz^
 ||uiakq.top^
+||uiatkc.xyz^
 ||uibjhqwkl.com^
 ||uicdns.xyz^
 ||uidwyx.icu^
@@ -16849,6 +16854,7 @@
 ||westca.com/server/
 ||weste.net/js/showpagead.js
 ||westover.cn^
+||wetlwse.top^
 ||wetpussy.sexy/js/index-nb.js
 ||wew.dushiwenxue.net^
 ||wewbnso.cn^

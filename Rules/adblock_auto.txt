@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 85hx6DZ8LsrQss3xAR0zCA
+! Checksum: Iuv8LN0EXNbLP5yQmgtSXw
 ! Title: 混合规则(自动更新)
-! Version: 20240729002601
+! Version: 20240729093709
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-29 00:26:01
-! Total Count: 148875
+! Last modified: 2024-07-29 09:37:09
+! Total Count: 148916
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -924,6 +924,7 @@
 ||1969321160.rsc.cdn77.org^
 ||19719197.com^
 ||1973440310.rsc.cdn77.org^
+||1979087343.rsc.cdn77.org^
 ||19811231.me^
 ||1987292064.rsc.cdn77.org^
 ||199.180.100.185/love44^
@@ -2019,6 +2020,7 @@
 ||4399.com/loadimg/loading.htm
 ||4399sj.com^*/mask-ad
 ||43bb528775.com^
+||43e1628a5f.com^
 ||43ors1osh.com^
 ||43sjmq3hg.com^
 ||43t53c9e.de^
@@ -4060,6 +4062,7 @@
 ||a4mt150303tl.com^
 ||a57e6264ed.com^
 ||a5b80ef67b.com^
+||a5d2d040.xyz^
 ||a5ff528ff9.com^
 ||a5g.oves.biz^
 ||a5game.win^
@@ -7891,6 +7894,7 @@
 ||aipp99.com/haose/
 ||aiqdviuyvlcplis.xyz^
 ||aiqidwcfrm.com^
+||aiqks.top^
 ||aiqu288.com/*/*.js$~third-party
 ||aiquqqaadd.xyz^
 ||air2s.com^
@@ -7906,6 +7910,7 @@
 ||airborneold.com^
 ||airconditionpianoembarrassment.com^
 ||aircraftairliner.com^
+||aircraftreign.com^
 ||aircraftsplendid.com^
 ||airdilute.com^
 ||airdoamoord.com^
@@ -10839,6 +10844,7 @@
 ||asdfdr.cfd^
 ||asdffe22.com^
 ||asdji2.cn^
+||asdkfefanvt.com^
 ||asdpoi.com^
 ||asdqslnqmwwkc.com^
 ||asdqwe.ltd^
@@ -13833,6 +13839,7 @@
 ||best-seat.pro^
 ||best-top.de^
 ||best-top.ro^
+||best-video-app.com^
 ||best-vpn-app.com^
 ||best-vpn.click^
 ||best18porn.com/best18.js
@@ -30656,6 +30663,7 @@
 ||fhsvyfoadsbo.com^
 ||fhtfnb.xyz^
 ||fhuafkxvrzgmyn.com^
+||fhujotrb.com^
 ||fhuldusmtyenuf.com^
 ||fhuvfdycagmkhr.com^
 ||fhvabdiebmxxok.xyz^
@@ -33280,6 +33288,7 @@
 ||geazjxqwbr.com^
 ||gebadu.com^
 ||gebiqxmcc.com^
+||gecdwmkee.com^
 ||geckad.com^
 ||geckibou.com^
 ||gecko-sg.byteoversea.com^
@@ -33800,6 +33809,7 @@
 ||ghxadv.com^
 ||ghyhwiscizax.com^
 ||ghyjajvriaf.com^
+||ghyxmovcyj.com^
 ||gi-client-tracking.goodgamestudios.com^
 ||giacatloi.info^
 ||giaingan799.com^
@@ -37160,6 +37170,7 @@
 ||hethongquatang.vn^
 ||hethongviet99.com^
 ||hetlwsu.top^
+||hetnu.com^
 ||hetsclaxqke.com^
 ||hetsouds.net^
 ||heucoucjrwno.com^
@@ -38282,6 +38293,7 @@
 ||houfang8.com^
 ||houfopsichoa.com^
 ||houjachy.com^
+||houjoque.com^
 ||houlb.com^
 ||houndcost.com^
 ||hounddramatic.com^
@@ -39017,6 +39029,7 @@
 ||hyhfsj.com^
 ||hyibpgaa.com^
 ||hyislou.top^
+||hyistkechaukrguke.com^
 ||hyjbdt.xyz^
 ||hyjdz.cn^
 ||hyk9.xyz^
@@ -42069,6 +42082,7 @@
 ||izrvuofcrrhsm.com^
 ||iztwp.com/images/
 ||izuis.com^
+||izwmfmu.icu^
 ||izzcwww7.live^
 ||izzcwww7.world^
 ||izzcwww8.xyz^
@@ -43613,6 +43627,7 @@
 ||jseuprrsedc.com^
 ||jsf.cnlinfo.net^
 ||jsfeedadsget.com^
+||jsfir.cyou^
 ||jsfrfeuubna.com^
 ||jsftfmegwcyhsed.com^
 ||jsftzha.com^
@@ -48887,6 +48902,7 @@
 ||lsuoaeqmubc.xyz^
 ||lsvblpynuezkbf.com^
 ||lsyliel.top^
+||lszydrtzsh.com^
 ||lt*.tritondigital.com^
 ||ltaaazb.cn^
 ||ltaome.cn^
@@ -56113,6 +56129,7 @@
 ||nvqonvfylkxdjc.com^
 ||nvsheng.com/js/gg.js
 ||nvswnur.cn^
+||nvtvssczb.com^
 ||nvudvvaecq.com^
 ||nvuwqcfdux.xyz^
 ||nvvmslfqowhkkv.com^
@@ -64601,6 +64618,7 @@
 ||qqnde.xyz^
 ||qqnggnsy.fun^
 ||qqohtssdp.com^
+||qqoomtwod.com^
 ||qqpian.com/8hgae/
 ||qqpwhge.cn^
 ||qqqqbdma.com^
@@ -66127,6 +66145,7 @@
 ||reedthatm.biz^
 ||reefcolloquialseptember.com^
 ||reefingcolures.com^
+||reeledou.com^
 ||reelnk.com^
 ||reemo-ad.jp^
 ||reemoume.com^
@@ -66999,6 +67018,7 @@
 ||rfxnff.xyz^
 ||rfxxjpuh.com^
 ||rfyqtv2.com^
+||rfzawaydywe.com^
 ||rfzlfsedzesgp.com^
 ||rg-be.ru^
 ||rgadvert.com^
@@ -67345,6 +67365,7 @@
 ||rknwwtg.com^
 ||rkohksa.cn^
 ||rkomf.com^
+||rkskillsombineukd.com^
 ||rksnqq.com^
 ||rktddv.xyz^
 ||rktu.com^
@@ -71457,6 +71478,7 @@
 ||sightyiambs.com^
 ||sigilsspeiss.com^
 ||sigjuw.xyz^
+||signalassure.com^
 ||signalayer.com^
 ||signals.carrefoursa.com^
 ||signalsparfum.uno^
@@ -71474,6 +71496,8 @@
 ||sihokpfbv.com^
 ||siiwptfum.xyz^
 ||sikai.ink^
+||sikapo.top^
+||sikaq.top^
 ||sikaza.com^
 ||sikelypleaste.site^
 ||sikimischultz.website^
@@ -74566,6 +74590,7 @@
 ||stemredeem.com^
 ||stemsshutdown.com^
 ||stenadewy.pro^
+||stenchyouthful.com^
 ||stengskelped.com^
 ||stentorsaumont.com^
 ||step-step-go.com^
@@ -77227,6 +77252,7 @@
 ||tenhousewife.com^
 ||tenmax.io^
 ||tenmax.io^$third-party
+||tenmtajhepsnt.com^
 ||tenping.kr^
 ||tensagesic.com^
 ||tense-print.pro^
@@ -81095,6 +81121,7 @@
 ||tupian9999.com^
 ||tuplzt.xyz^
 ||tupwiwm.com^
+||tuqgtpirrtuu.com^
 ||tuqizi.uno^
 ||tuqnwz.icu^
 ||tuquesrefuser.website^
@@ -81107,6 +81134,7 @@
 ||turboadv.com^
 ||turbocap.net^
 ||turbolion.io^
+||turbolit.biz^
 ||turbostats.xyz^
 ||turbotaedile.com^
 ||turbulent-bedroom.pro^
@@ -81898,6 +81926,7 @@
 ||ui02.com^
 ||ui8l2.xyz^
 ||uiakq.top^
+||uiatkc.xyz^
 ||uibjhqwkl.com^
 ||uibqwl.xyz^
 ||uibtxv.cn^
@@ -84359,6 +84388,7 @@
 ||videojj.com/api/v1/plat_tags?
 ||videojj.com/flash/bin/vjj_config.xml
 ||videoklass.ru^
+||videolute.biz^
 ||videoo.tv^
 ||videoplus.vo.llnwd.net^
 ||videopotok.pro^
@@ -87002,6 +87032,7 @@
 ||wet-slice.com^
 ||wetips.cn^
 ||wetlinepursuing.com^
+||wetlwse.top^
 ||wetpeachcash.com^
 ||wetpussy.sexy/js/index-nb.js
 ||wetryprogress.com^
@@ -89745,6 +89776,7 @@
 ||xsknvlmjvrdqo.com^
 ||xskttd5d.com^
 ||xsqfyvsc.com^
+||xsqwhlldud.com^
 ||xsrs.com^
 ||xstalkx.ru^
 ||xstreamsoftwar3x.com^
@@ -97087,6 +97119,8 @@ castanet.net###hdad
 caster.fm##.sidebar_ablock
 cathnews.co.nz,cryptoreporter.info,net-load.com,vgleaks.com,wakingtimes.com,zhujiceping.com###text-12
 catholic.net##.publicidad
+cathstan.org##.enticement-link
+cathstan.org##.squat
 cattime.com,dogtime.com,liveoutdoors.com,playstationlifestyle.net,thefashionspot.com##.pb-in-article-content
 cb.com.cn##.box > a[href^="http"]:not([href*=".cb."])
 cb.wpio.xyz##.tpc_content > a[target="_blank"][onmouseout]
@@ -102024,6 +102058,7 @@ hoho.tv##[class^="hoho-ad"],[data-ad-client]
 hola.com##.hm-sticky-sidebar
 hola.com##[id^="div-hola-slot-"]
 holiday-weather.com##.resp-leaderboard
+hollywoodlife.com##.ad--horizontal
 hollywoodreporter.com##.above-header-ad
 hollywoodreporter.com##[id^="jwplayer"]
 holymanga.net##.svl_ads_right
@@ -107105,6 +107140,9 @@ plainenglish.io##.PromoContainer_container__sZ3ls
 plainenglish.io##.blog-banner-container
 planefinder.net###map-ad-container
 planetf1.com##.skybetbar
+planetizen.com###navbar-top
+planetizen.com##.revive-sitewide-banner-2__wrapper
+planetizen.com##.revive-sitewide-banner__wrapper
 planetminecraft.com###box_300atf
 planetminecraft.com###box_300btf
 planetminecraft.com###box_pmc_300btf
@@ -108175,6 +108213,8 @@ randomarchive.com##.desktop[style="text-align:center"]
 rankedboost.com##.Article-A-Align
 rankedboost.com##.above-article-section
 ranker.com###BLOG_AD_SLOT_1
+ranker.com###GRID_AD_SLOT_1
+ranker.com##.nativeAdSlot_nativeAdContainer__NzSO_
 ranker.com##.relatedInline_container__Ux4lS
 ranobes.top##.free-support-top
 rapidgatorporn.net##.full-block > center > [href][target="_blank"] > img
@@ -109916,6 +109956,7 @@ sydneytoday.com##.news-list > .row > .col-xs-12
 sydneytoday.com##div[style$="-144px;top: 115px;"]
 syfy.com##.mps-container
 symbaloo.com##div[data-test="homepageBanner"]
+symbl.cc##.ad-incontent-rectangle
 synacast.com
 sysin.org##img[src^="/img/promotion"]
 systutorials.com###after-content-1
