@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ippVSN75dWGLyRBP8QgGaQ
+! Checksum: bx1nzKz3oY2Zyl16ymMgUg
 ! Title: 混合规则(自动更新)
-! Version: 20240730162547
+! Version: 20240731002733
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-30 16:25:47
-! Total Count: 148966
+! Last modified: 2024-07-31 00:27:33
+! Total Count: 148977
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -12592,6 +12592,7 @@
 ||baleiambwee.com^
 ||baletingo.com^
 ||baliadv.com^
+||balili2024.top^
 ||balimon.info^
 ||balkscaked.com^
 ||ballarduous.com^
@@ -26047,6 +26048,7 @@
 ||dszhqww.cn^
 ||dt.beyla.site^
 ||dt.vnecdn.com^
+||dt.xfyun.cn^
 ||dt00.net^
 ||dt07.net^
 ||dt4ever.com^
@@ -47731,6 +47733,7 @@
 ||lixonj.xyz^
 ||lixsbdifa.com^
 ||lixuhwuwychupbd.com^
+||lixxqkaqaragxu.com^
 ||liyiyue.xyz^
 ||liyuan.cloud^
 ||lizapaisan.com^
@@ -77551,6 +77554,7 @@
 ||thatincidentwad.com^
 ||thatmonkeybites3.com^
 ||thatshab.website^
+||thauckeesse.net^
 ||thaucmozsurvey.space^
 ||thaudray.com^
 ||thauftoa.net^
@@ -86059,6 +86063,8 @@
 ||w.xiaopiaoyou.com^
 ||w.zenback.jp^
 ||w0057.com^
+||w0079.com^
+||w0082.com^
 ||w00f.net^
 ||w00tmedia.net^
 ||w010w.com.cn^$subdocument
@@ -99616,10 +99622,10 @@ engadget.com###ldrBoardAd
 engadget.com###outstreamPlayer-inArticle
 engadget.com##.Mih\(90px\)
 engadget.com##.Py\(30px\).Bgc\(engadgetGhostWhite\)
-engadget.com##.Td\(n\).Bdbc\(engadgetGutter\).Py\(40px\)
 engadget.com##.da-container
 engadget.com##.inline-emphasis
 engadget.com##.related-content-lazyload
+engadget.com##.wafer-benji
 engadget.com#?#.Py\(40px\):-abp-has(> article > .D\(f\) > .Pos\(r\)[data-ylk*=":AD;"])
 engadget.com,sports.yahoo.com##.post-article-ad
 engadget.com,yahoo.com##.caas-da
@@ -102350,6 +102356,7 @@ huya.com###huya-ab
 huya.com###huya-ab-fixed
 huya.com###hy-ad,#hy-ab,#huya-ab
 huya.com##.ab-content
+huya.com##.component-ab
 huya.com##.end-ab-banner
 huya.com##.end-ab-wrap
 huya.com##.huya-ab
@@ -102360,6 +102367,7 @@ huya.com##.room-gg-chat
 huya.com##.room-sidebar #public-screen-ab
 huya.com##.small-handle-tip
 huya.com##.tt[style*="1200px"]
+huya.com##a[class^="Ad--"]
 huya.com,ixigua.com,toutiao.com##.J_ad
 hvhbbs.com##.block[data-widget-definition="SwiperWidget"]
 hvhbbs.com##.margin-add > style + div
@@ -104250,6 +104258,8 @@ ldqk.xyz,masuit.com#?#.panel:-abp-has(>.panel-body>a>img)
 le.com###a_body_11628
 le.com###a_title_11628
 le.com##+js(set, isAdLoaded, true)
+le.com##+js(set-constant, Object.prototype.noAD, true)
+le.com##+js(set-constant, isAdLoaded, true)
 le.com##.H-tg
 le.com##.ad_layer
 le.com##.broadcast-adv
@@ -144939,6 +144949,7 @@ zle.com$script
 ##a[href*="/entry/register"][href*="i_code"]
 ##a[href*="/ftyvrfy05.com"]
 ##a[href*="/g3656.com:"]
+##a[href*="/gg1132.vip"]
 ##a[href*="/h91.tv"]
 ##a[href*="/hgcool360.top"]
 ##a[href*="/hgcoolaa.top"]

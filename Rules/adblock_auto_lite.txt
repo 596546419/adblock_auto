@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: zA86Zsx+LTdBImspg7AlWA
+! Checksum: WZW22sTf2T4gWWZYfT+ktg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240730162559
+! Version: 20240731002745
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-30 16:25:59
-! Total Count: 28530
+! Last modified: 2024-07-31 00:27:45
+! Total Count: 28534
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4145,6 +4145,7 @@
 ||baizhan.net/js/136/jingyun_righttop.
 ||baizhu.cc^$third-party
 ||baj.fanwenzhan.com^
+||balili2024.top^
 ||ballive.*/addm/
 ||balloonbit.com^$third-party
 ||balloontexture.com^$third-party
@@ -16704,6 +16705,8 @@
 ||w.anmeihe.cn^
 ||w.xiaopiaoyou.com^
 ||w0057.com^
+||w0079.com^
+||w0082.com^
 ||w010w.com.cn^$subdocument
 ||w11.zhongkaohelp.com^
 ||w18.9939.com^
@@ -26626,6 +26629,7 @@ zle.com$script
 ##a[href*="/dsf71.cc"]
 ##a[href*="/dsf88.cc"]
 ##a[href*="/entry/register"][href*="i_code"]
+##a[href*="/gg1132.vip"]
 ##a[href*="/h91.tv"]
 ##a[href*="/hgcool360.top"]
 ##a[href*="/hgcoolaa.top"]
