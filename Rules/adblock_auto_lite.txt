@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: l0AWt6UL8Qjejo7nn2YMhQ
+! Checksum: NVOhSjFjtTnmU4ndVKFu7w
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240730002738
+! Version: 20240730092838
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-30 00:27:38
-! Total Count: 28520
+! Last modified: 2024-07-30 09:28:38
+! Total Count: 28526
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4855,6 +4855,7 @@
 ||bxbyll.xyz^
 ||bxjhlhk.xyz^
 ||bxlmrl.xyz^
+||bxmazls.icu^
 ||bxnxdlb.xyz^
 ||bxoaeju.icu^
 ||bxoiksm.xyz^
@@ -8148,6 +8149,7 @@
 ||gushi.network^
 ||guuds.cyou^
 ||guwohvw.icu^
+||guyhok.xyz^
 ||guysfair.com^
 ||guzsjdl.cn^
 ||gvbhae0.com^
@@ -8673,6 +8675,7 @@
 ||houseads.ttpsdk.info^
 ||houstonbbs.com/data/ad/
 ||houyi.baofeng.net^*.html
+||hov15.icu^
 ||hoxdotye.icu^
 ||hozatr.xyz^
 ||hpcwwd.com^
@@ -9941,6 +9944,7 @@
 ||jwandla.top^
 ||jweod.xyz^
 ||jweoe.xyz^
+||jwerilxa.top^
 ||jwerioa.top^
 ||jwfesuk.cn^
 ||jwhdgt.icu^
@@ -12119,6 +12123,7 @@
 ||nxing.cn/uploads/uploads/*-size1220x
 ||nxledn.xyz^
 ||nxtxxcm.xyz^
+||nxxkxr.xyz^
 ||nyaa.*/static/js/ccheck.js
 ||nyaa.fun/static/js/*_costcheck_a.js
 ||nyaasokuvip.net/wp-content/uploads/*/ad_manga_
@@ -13522,6 +13527,7 @@
 ||qvpublish.com^
 ||qvrdlvz.cn^
 ||qvrfddm.cn^
+||qvxtzi.xyz^
 ||qvxvvjom.com^
 ||qw9cu.cyou^
 ||qwandly.top^

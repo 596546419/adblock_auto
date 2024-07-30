@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: s6aUF4LWaJ2Za1krWayZpg
+! Checksum: WkgxAXFRlvpnNk70RA4UgQ
 ! Title: 混合规则(自动更新)
-! Version: 20240730002726
+! Version: 20240730092826
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-30 00:27:26
-! Total Count: 148947
+! Last modified: 2024-07-30 09:28:26
+! Total Count: 148960
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -575,6 +575,7 @@
 ||123-bt.cn/Public/static/images/*-
 ||123-counter.de^
 ||123-movies.bz^
+||123-stream.org^
 ||123-vay.com^
 ||123.sogou.com/discover/?
 ||12333sbt.com/inc/
@@ -4044,6 +4045,7 @@
 ||a32fc87d2f.com^
 ||a356ff8a25.com^
 ||a3595ccd38.com^
+||a35e803f21.com^
 ||a39fa0bea6.com^
 ||a3h.de^
 ||a3ion.com^
@@ -4750,6 +4752,7 @@
 ||acridtaxiworking.com^
 ||acridtubsource.com^
 ||acridtwist.com^$third-party
+||acrobaticdesire.com^
 ||acronkkky.com^
 ||acronym.com^
 ||acrossbrittle.com^
@@ -16525,6 +16528,7 @@
 ||bxlidv.ink^
 ||bxlmrl.xyz^
 ||bxly.xyz^
+||bxmazls.icu^
 ||bxmpcfzlllej.com^
 ||bxnxdlb.xyz^
 ||bxoaeju.icu^
@@ -23884,6 +23888,7 @@
 ||desigactinific.org^
 ||designatejay.com^
 ||designerdeclinedfrail.com^
+||designernoise.com^
 ||designeropened.com^
 ||designingbadlyhinder.com^
 ||designingpupilintermediary.com^
@@ -35809,6 +35814,7 @@
 ||guxsxexlkdk.xyz^
 ||guyabe.xyz^
 ||guybaafvpv.com^
+||guyhok.xyz^
 ||guysfair.com^
 ||guyu8855.club^
 ||guywireincorp.com^
@@ -38330,6 +38336,7 @@
 ||houthaub.xyz^
 ||houtouchekan.space^
 ||houyi.baofeng.net^*.html
+||hov15.icu^
 ||hoverclassicalroused.com^
 ||hoverr.co^
 ||hoverr.media^
@@ -39956,6 +39963,7 @@
 ||illustcutesy.com^
 ||illustrateartery.com^
 ||illustrationapplausespotlight.com^
+||illustrious-challenge.pro^
 ||illustriousmind.pro^
 ||illustriousoatmeal.com^
 ||illustriousoatmeal.com^$third-party
@@ -42271,6 +42279,7 @@
 ||japw.cloud^
 ||jaqgkyfupna.com^
 ||jaqwtyajwp.com^
+||jaqxaqoxwhce.com^
 ||jargonwillinglybetrayal.com^
 ||jarguvie.xyz^
 ||jarldomtemplar.top^
@@ -43964,6 +43973,7 @@
 ||jweod.xyz^
 ||jweoe.xyz^
 ||jweqtiikcx.com^
+||jwerilxa.top^
 ||jwerioa.top^
 ||jwfesuk.cn^
 ||jwfobgoeobehy.com^
@@ -56211,6 +56221,7 @@
 ||nxwly.com^
 ||nxwpxtaik.xyz^
 ||nxwrgrymkfp.com^
+||nxxkxr.xyz^
 ||nxxyjn.com^
 ||nxyerol.cn^
 ||nxymehwu.com^
@@ -65081,6 +65092,7 @@
 ||qvrfddm.cn^
 ||qvtcigr.com^
 ||qvxhgni.cn^
+||qvxtzi.xyz^
 ||qvxvvjom.com^
 ||qvyzdox.cn^
 ||qw9cu.cyou^
@@ -76738,6 +76750,7 @@
 ||targaubs.com^
 ||targeet.shop^
 ||target-us.samsung.com^
+||target.hidabroot.org^
 ||target.mirtesen.ru^
 ||target.smi2.net^
 ||target.smi2.ru^
