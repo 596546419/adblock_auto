@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: WkgxAXFRlvpnNk70RA4UgQ
+! Checksum: ippVSN75dWGLyRBP8QgGaQ
 ! Title: 混合规则(自动更新)
-! Version: 20240730092826
+! Version: 20240730162547
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-30 09:28:26
-! Total Count: 148960
+! Last modified: 2024-07-30 16:25:47
+! Total Count: 148966
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2167,6 +2167,7 @@
 ||4m5t.cn^
 ||4mlhn1ocg4.com^
 ||4oney.com^
+||4oz4n.icu^
 ||4p68.com^
 ||4p74i5b6.de^
 ||4p85.cn^
@@ -45841,6 +45842,7 @@
 ||kwdgudw.cn^
 ||kweaake.cyou^
 ||kwedzcq.com^
+||kwerilxd.top^
 ||kweriod.top^
 ||kwflvcdn.000dn.com^*.flv
 ||kwgefe.com^
@@ -64149,6 +64151,7 @@
 ||qerusgreyt.com^
 ||qescaen.com^
 ||qetdpyialxousr.com^
+||qetlwsy.top^
 ||qetskupch581.shop^
 ||qetskupyka61.shop^
 ||qeuckn.icu^
@@ -70556,6 +70559,7 @@
 ||shbkhuyenmai.com^
 ||shbzdkj.cn^
 ||shbzegs.cn^
+||shbzngs.cn^
 ||shbzogs.cn^
 ||shbzokj.cn^
 ||shbzpgs.cn^
@@ -95239,7 +95243,7 @@ androidpolice.com,constructionreviewonline.com,cryptobriefing.com,dereeze.com,ty
 androidsage.com##.code-block-9
 androidsage.com,cookingwithdog.com,cryptoreporter.info,ets2.lt,geekdashboard.com,geekspin.co,getdroidtips.com,kanonitv.net,streamtelly.com,techpp.com,whats-on-netflix.com##.code-block-1
 androidsage.com,patriotfetch.com,scienceabc.com##.code-block-5
-androidtrends.com,backthetruckup.com,bingehulu.com,buffalorising.com,streamsgeek.com,techcentral.co.za,techrushi.com,trendstorys.com,vedantbhoomi.com##.a-wrap
+androidtrends.com,aviationa2z.com,backthetruckup.com,bingehulu.com,buffalorising.com,streamsgeek.com,techcentral.co.za,techrushi.com,trendstorys.com,vedantbhoomi.com##.a-wrap
 androidweblog.com##.cgdyh > [data-adid]
 andscape.com##.ad-incontent-wrapper
 anews.com.tr##.adControl
@@ -101992,6 +101996,7 @@ hindustantimes.com##.affilaite-widget
 hindustantimes.com##.ht_taboola
 hindustantimes.com##.m_headBanner
 hindustantimes.com##.moreFrom
+hindustantimes.com##.noAdLabel
 hindustantimes.com##.pramotedWidget
 hindustantimes.com##.rgtAdSection
 hindustantimes.com,hkepc.com##.headBanner
@@ -105912,6 +105917,7 @@ nationalmemo.com##.content_nm_placeholder
 nationalmemo.com##.listicle--ad-tag
 nationalmemo.com,spectrum.ieee.org,theodysseyonline.com##div[class^="rblad-"]
 nationalpost.com,vancouversun.com##.ad__inner
+nationalrail.co.uk##.styled__StyledFreeFormAdvertWrapper-sc-7prxab-4
 nationalrail.co.uk##div[id^="ad-advert-"]
 nationalreview.com##.ad-skeleton
 nationalreview.com##.header-billboard-wrap

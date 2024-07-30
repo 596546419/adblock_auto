@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: NVOhSjFjtTnmU4ndVKFu7w
+! Checksum: zA86Zsx+LTdBImspg7AlWA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240730092838
+! Version: 20240730162559
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-30 09:28:38
-! Total Count: 28526
+! Last modified: 2024-07-30 16:25:59
+! Total Count: 28530
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -732,6 +732,7 @@
 ||4k123.com/data/attachment/portal/201712/20/194208ao9pevvvg0xr0n1p.jpg
 ||4kwu.cc/static/js/tj.js
 ||4l903.com^
+||4oz4n.icu^
 ||4p68.com^
 ||4paradigm.com^$domain=sina.com.cn
 ||4sexmail.com^
@@ -10376,6 +10377,7 @@
 ||kvtnnn.top^$third-party
 ||kvyyyde.cn^
 ||kwcmrfb.cn^
+||kwerilxd.top^
 ||kweriod.top^
 ||kwflvcdn.000dn.com^*.flv
 ||kwgqaqf.icu^
@@ -13270,6 +13272,7 @@
 ||qejjhnq.cn^
 ||qerbert78.xyz^
 ||qescaen.com^
+||qetlwsy.top^
 ||qetskupch581.shop^
 ||qetskupyka61.shop^
 ||qeuckn.icu^
@@ -14442,6 +14445,7 @@
 ||shbear.com^*/ad/
 ||shbzdkj.cn^
 ||shbzegs.cn^
+||shbzngs.cn^
 ||shbzogs.cn^
 ||shbzokj.cn^
 ||shbzpgs.cn^
