@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: vWob7gi0ZX+wZynaD2nw6w
+! Checksum: tnFNKsj5LHrQQT3MIM1Wmg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240731091409
+! Version: 20240731162415
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-31 09:14:09
-! Total Count: 28538
+! Last modified: 2024-07-31 16:24:15
+! Total Count: 28542
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6449,6 +6449,7 @@
 ||doujs010.xyz^
 ||doujs02.shop^
 ||doujs02.xyz^
+||doujs03.shop^
 ||doujs03.xyz^
 ||doujs05.xyz^
 ||doujs06.xyz^
@@ -14449,6 +14450,7 @@
 ||shbzdkj.cn^
 ||shbzegs.cn^
 ||shbzngs.cn^
+||shbznkj.cn^
 ||shbzogs.cn^
 ||shbzokj.cn^
 ||shbzpgs.cn^
@@ -15169,6 +15171,7 @@
 ||swellstocking.com^$third-party
 ||swelteringsleep.com^$third-party
 ||swelteringsmile.com^$third-party
+||swerilxb.top^
 ||sweriob.top^
 ||swicgq.xyz^
 ||swimslope.com^$third-party
@@ -15438,6 +15441,7 @@
 ||teslaamg.obs.cn-east-3.myhuaweicloud.com^
 ||testadmiral.com^$third-party
 ||testedtouch.com^$third-party
+||tetlwsi.top^
 ||teusyxz.icu^
 ||tewsdnka35.xyz^
 ||texnet.com.cn/images/cnbanner/

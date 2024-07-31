@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: e4g6X38knYesIbfrJE3cMw
+! Checksum: zt/fYWvyIOUfwoY4bDh9UQ
 ! Title: 混合规则(自动更新)
-! Version: 20240731091357
+! Version: 20240731162404
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-31 09:13:57
-! Total Count: 149027
+! Last modified: 2024-07-31 16:24:04
+! Total Count: 149035
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -25583,6 +25583,7 @@
 ||doujs010.xyz^
 ||doujs02.shop^
 ||doujs02.xyz^
+||doujs03.shop^
 ||doujs03.xyz^
 ||doujs05.xyz^
 ||doujs06.xyz^
@@ -70601,6 +70602,7 @@
 ||shbzdkj.cn^
 ||shbzegs.cn^
 ||shbzngs.cn^
+||shbznkj.cn^
 ||shbzogs.cn^
 ||shbzokj.cn^
 ||shbzpgs.cn^
@@ -75839,6 +75841,7 @@
 ||sweptbroadarchly.com^
 ||sweptgrimace.com^
 ||sweptpeculiar.com^
+||swerilxb.top^
 ||sweriob.top^
 ||swesomepop.com^
 ||swetrix.org^
@@ -77437,6 +77440,7 @@
 ||tetigi.com^
 ||tetlienquan.com^
 ||tetlienquan2023.website^
+||tetlwsi.top^
 ||tetoolbox.com^
 ||tetquatang.vn^
 ||tetractsycon.uno^
@@ -94835,7 +94839,7 @@ addictivetips.com###at_popup_modal
 addictivetips.com,coinweek.com,lxapk.com,lzacg.one,news365.co.za,simscommunity.info##.custom-html-widget
 additivemanufacturing.media,compositesworld.com,ptonline.com##.DisplayBar
 additudemag.com,organicfacts.net##.header-ad
-adexchanger.com##.widget_ai_ad_widget
+adexchanger.com,live-adexchanger.pantheonsite.io##.widget_ai_ad_widget
 adfoc.us##.content > iframe
 adfoc.us##a[href^="https://www.survivalservers.com/"]
 adguard.info,adguard.com,adguard.app##.hello_from_adguard_chinese
@@ -105976,6 +105980,8 @@ nationalmemo.com##.content_nm_placeholder
 nationalmemo.com##.listicle--ad-tag
 nationalmemo.com,spectrum.ieee.org,theodysseyonline.com##div[class^="rblad-"]
 nationalpost.com,vancouversun.com##.ad__inner
+nationalrail.co.uk###ad-homepage-advert-a-grey-b-wrapper
+nationalrail.co.uk###ad-homepage-advert-d-grey-b-wrapper
 nationalrail.co.uk##.styled__StyledFreeFormAdvertWrapper-sc-7prxab-4
 nationalrail.co.uk##div[id^="ad-advert-"]
 nationalreview.com##.ad-skeleton
@@ -108593,6 +108599,7 @@ roosterteeth.com##.vjs-marker
 roseindia.net##.col-md-4
 roseindia.net##.tutorialsstaticdata
 rottentomatoes.com##.leaderboard_wrapper
+rottentomatoes.com##ad-unit
 rou.video##.grid > div[class^="col-span"]:has(> div[class] > div[id^="ts_ad_native"])
 rou.video##.grid > div[class^="col-span"]:has(> div[class] > ins)
 rouman5.com##.fixed-bottom
@@ -110517,6 +110524,7 @@ thegfporn.com##img[class^="ads"]
 thegfporn.com#$#body > #main { display: block !important; }
 thegfporn.com,xxx888porn.com##.adcen
 theglobeandmail.com##.BaseAd__StyledRootBaseAd-sc-1khlkqq-1
+theglobeandmail.com##.c-ad--base
 theglobeandmail.com##.c-ad-sticky
 theglobeandmail.com##div[class^="BaseAd_"]
 thegoodchoice.ca,wandering-bird.com##.cb-box
