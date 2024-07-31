@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: tnFNKsj5LHrQQT3MIM1Wmg
+! Checksum: /CZ3xZ01nH4r0pvbvkponQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240731162415
+! Version: 20240801002647
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-31 16:24:15
-! Total Count: 28542
+! Last modified: 2024-08-01 00:26:47
+! Total Count: 28548
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -592,6 +592,7 @@
 ||360buyimg.com/jzt/temp/js/
 ||360buyimg.com^$domain=chdbits.co|qianggou5.com
 ||360doc.com^*.html?t=
+||360doc.com^*.html?t=$badfilter
 ||360kan.com/special/
 ||360kan.com/v1/block?blockid=544&
 ||360xs.com/templates/html5/js/djtop.js
@@ -14164,6 +14165,7 @@
 ||screen.buzzvil.com^
 ||scribblestring.com^$third-party
 ||script-bd.baixing.net^
+||script302.top^
 ||scrollservice.com^$third-party
 ||scru.cn^
 ||scrubswim.com^$third-party
@@ -14449,6 +14451,7 @@
 ||shbear.com^*/ad/
 ||shbzdkj.cn^
 ||shbzegs.cn^
+||shbzkkj.cn^
 ||shbzngs.cn^
 ||shbznkj.cn^
 ||shbzogs.cn^
@@ -16103,6 +16106,7 @@
 ||uejnmjdpd.xyz^
 ||uekmhvbb.xyz^
 ||uessnah.icu^
+||uetlwst.top^
 ||ueumdkc.cn^
 ||ufile.cc/crod.js
 ||ufjslit.top^
@@ -26422,6 +26426,7 @@ zle.com$script
 ##a[href*=".app003.cc"]
 ##a[href*=".asd245796.com:"]
 ##a[href*=".asd252466.com:"]
+##a[href*=".asd257642.com:"]
 ##a[href*=".bd379.vip"]
 ##a[href*=".bet365.gdn"]
 ##a[href*=".bilibilitool.site"]
@@ -26520,6 +26525,7 @@ zle.com$script
 ##a[href*=".uu2123sd.vip"]
 ##a[href*=".uxfqh.com/"]
 ##a[href*=".vip:"] > img[src]
+##a[href*=".ww1425pw.vip"]
 ##a[href*=".wzfqitm.com/"]
 ##a[href*=".xacg.info/"]
 ##a[href*=".xlgqy.com/"]
