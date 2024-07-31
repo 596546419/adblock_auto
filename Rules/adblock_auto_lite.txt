@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: WZW22sTf2T4gWWZYfT+ktg
+! Checksum: vWob7gi0ZX+wZynaD2nw6w
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240731002745
+! Version: 20240731091409
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-07-31 00:27:45
-! Total Count: 28534
+! Last modified: 2024-07-31 09:14:09
+! Total Count: 28538
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7139,6 +7139,7 @@
 ||f8dy.tv/template/m1938/js/foot.js
 ||f9s6.top^
 ||faaqgje.icu^
+||fabu333.top^
 ||fabulousterritory.com^$third-party
 ||fabuye.vip/zhuanfa/
 ||facai383.oss-cn-guangzhou.aliyuncs.com^
@@ -14409,6 +14410,7 @@
 ||sglahyea.xyz^
 ||sgoijw.com^$third-party
 ||sgru.cn^
+||sgwsss.xyz^
 ||sgzhg.pornlovo.co^
 ||sh.sina.com.cn/iframe/522/
 ||sh.sina.com.cn/js/441/ZwyArticle_commo_23.js
@@ -16242,6 +16244,7 @@
 ||upytsgo.cn^
 ||upyzqf.cn^
 ||uqaagi.xyz^
+||uqcktxp.icu^
 ||uqeuxpl.cn^
 ||uqjqripb.xyz^
 ||uqrcuxp.cn^
@@ -16495,6 +16498,7 @@
 ||vhsutpgui.xyz^
 ||vhutitpu.icu^
 ||vhvwlb.xyz^
+||vhzivz.xyz^
 ||vibber.download^
 ||vibrantsundown.com^$third-party
 ||victoriajumpc.com^
