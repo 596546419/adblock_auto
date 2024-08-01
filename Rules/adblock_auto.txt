@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 3dLDMS0yumqnpIHHqPVsqw
+! Checksum: 9T8VOQotkkG2D2FDTn8y1A
 ! Title: 混合规则(自动更新)
-! Version: 20240801002635
+! Version: 20240801094204
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-01 00:26:35
-! Total Count: 149057
+! Last modified: 2024-08-01 09:42:04
+! Total Count: 149087
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4749,6 +4749,7 @@
 ||acquaintplentifulemotions.com^
 ||acquirethem.com^
 ||acquisitionsneezeswell.com^
+||acrelicenseblown.com^
 ||acrepantherrecite.com^
 ||acrevenene.com^
 ||acridtaxiworking.com^
@@ -7326,6 +7327,7 @@
 ||affiliando.com^
 ||affiliate-api.raptive.com^
 ||affiliate-b.com^
+||affiliate-cdn.raptive.com^
 ||affiliate-robot.com^
 ||affiliate-script-pr.firebaseapp.com^
 ||affiliate-wg.com^
@@ -11226,6 +11228,7 @@
 ||atgthkqt.com^
 ||athbzeobts.com^
 ||athecsz.cn^
+||atheegrun.net^
 ||atheismashamedcomfort.com^
 ||atheismperplex.com^
 ||athena.api.kwalee.com^
@@ -16083,6 +16086,7 @@
 ||btkwlsfvc.com^
 ||btloader.com^
 ||btmao.cc/Public/yd/
+||btmarketing.it^
 ||btmovi.in/static/js/xf.js
 ||btmulu.com/assets/*/ad02.gif
 ||btn.onlylady.com^
@@ -21064,6 +21068,7 @@
 ||coreportions.com^
 ||corepsh.top^
 ||coresepyllia.com^
+||corgouzaptax.com^
 ||corialthanes.life^
 ||corixaraphide.top^
 ||corkremembranceastray.com^
@@ -22878,6 +22883,7 @@
 ||damozelmikvahs.com^
 ||dampapproach.com^
 ||dampdock.com^$third-party
+||dampedvisored.com^
 ||dampwarabi.com^
 ||damskiy.xyz^
 ||damumu.xyz^
@@ -23274,6 +23280,7 @@
 ||dc3b671cce.com^
 ||dc564d181f.com^
 ||dc8a004603.com^
+||dcad1d97.xyz^
 ||dcayljcvr.com^
 ||dcba.zle.com^
 ||dcbpm.suning.cn^
@@ -26591,6 +26598,7 @@
 ||e.qq.com^
 ||e.sexbule.xxx^
 ||e.so.com/search/pcnew?
+||e.truedata.co^
 ||e.tw.cx^
 ||e.viously.com^
 ||e.zg-api.com^
@@ -42561,6 +42569,7 @@
 ||jeejujou.net^
 ||jeekomih.com^
 ||jeelmuyusa.com^
+||jeeng-api-prod.azureedge.net
 ||jeephiney.net^
 ||jeepyy.com^$third-party
 ||jeerinfluencemedical.com^
@@ -48876,6 +48885,7 @@
 ||lqsbqjuld.com^
 ||lqsw2.top^
 ||lqsw3.top^
+||lqtiwevsan.com^
 ||lqwswjwpmaih.com^
 ||lqxbkqdtvtdhw.xyz^
 ||lqxuwqhh.com^
@@ -49859,6 +49869,7 @@
 ||maintopmakes.website^
 ||maio.jp^
 ||maioux.xyz^
+||maipheeg.com^
 ||maipofok.net^
 ||maiptica.com^
 ||maiqi.xyz^
@@ -51927,6 +51938,7 @@
 ||mljcfymfve.com^
 ||mlkpbktmqrsry.com^
 ||mllatydz.com^
+||mllqfiucttnuzn.com^
 ||mlmyobhn.com^
 ||mlnadvertising.com^
 ||mlno6.com^
@@ -55793,6 +55805,7 @@
 ||novem.pl^
 ||novemberadventures.com^
 ||novemberadventures.name^
+||novemberassimilate.com^
 ||novemberseatsuccession.com^
 ||novembersightsoverhear.com^
 ||novemberslantwilfrid.com^
@@ -55923,6 +55936,7 @@
 ||nrsfh.com/neirong/
 ||nrunmoldy.com^
 ||nrvbadypy.com^
+||nrxdmssm.com^
 ||nrxduw5.com^
 ||nryanocytqc.com^
 ||nryceuula.com^
@@ -61357,6 +61371,7 @@
 ||pmelon.com^
 ||pmetorealiukze.xyz^
 ||pmeuehivfps.com^
+||pmi.flowplayer.com^
 ||pmi1yarhxx.com^
 ||pmieprlpq.com^
 ||pmimdcjx.com^
@@ -61644,6 +61659,7 @@
 ||poozifahek.com^
 ||pop-parad.
 ||pop-under.
+||pop.devil.services^
 ||pop.dojo.cc^
 ||pop.verplusonline.com^
 ||pop.wioau.com^
@@ -69371,6 +69387,7 @@
 ||scornphiladelphiacarla.com^
 ||scotcheliza.com^
 ||scotianosed290noelind.com^
+||scotizeoperae.com^
 ||scotsmaut.top^
 ||scounter.rambler.ru^
 ||scousepneuma.com^
@@ -72871,6 +72888,7 @@
 ||soloisthaulchoir.com^
 ||sololockscoin.com^
 ||solomon89.xyz^
+||solrtrqaitnjy.com^
 ||soltaixa.com^
 ||soltitate.site^
 ||solublearcher.com^
@@ -77615,6 +77633,7 @@
 ||thaucmozsurvey.space^
 ||thaudray.com^
 ||thauftoa.net^
+||thauhoux.com^
 ||thaujauk.net^
 ||thaust.com^
 ||thautept.xyz^
@@ -77678,6 +77697,7 @@
 ||theenfu.com^
 ||theensos.xyz^
 ||theepsie.com^
+||theeptoah.com^
 ||theessoapt.com^
 ||theetholri.xyz^
 ||theextensionexpert.com^
@@ -80758,6 +80778,7 @@
 ||trmwidget.eu^
 ||trocado.at^
 ||trodpigbays.com^
+||trodspivery.com^
 ||troduc.com^
 ||trofvid.com^
 ||trojangfw.xyz^
@@ -82141,6 +82162,7 @@
 ||uljoifw.cn^
 ||ulktyi.xyz^
 ||ullis-airbrush-shop.de^
+||ullucupuces.click^
 ||ulm-news.de/image/banners
 ||ulmmmvjfbbmk.com^
 ||ulmoyc.com^
@@ -84055,6 +84077,7 @@
 ||vebv8me7q.com^
 ||vec4o.fun^
 ||vec4o.top^
+||vecggfp.icu^
 ||vecohgmpl.info^
 ||vectisamerica.com^
 ||vectisruntier.top^
@@ -87649,6 +87672,7 @@
 ||willingnessaggravationfits.com^
 ||willingnesslookheap.com^
 ||willtissuetank.com^
+||wilrimowpaml.com^
 ||wilslide.com^
 ||wiltedfuture.pro^
 ||wimmon.com^
@@ -89984,6 +90008,7 @@
 ||xukang09.cn^
 ||xukevxdf.com^
 ||xukou.net^
+||xukpqemfs.com^
 ||xukpresesmr.info^
 ||xuldtcip.icu^
 ||xuliglsw.space^
@@ -97107,6 +97132,7 @@ callofwar.com,macworld.co.uk,supremacy1914.com,techadvisor.com##img[referrerpoli
 calmlab.com##[style="position:relative;z-index:2147483647"]
 calorieking.com##.jss2
 calorieking.com##.jss356
+cam4.*##div[class^="SponsoredAds_"]
 cam4.com###Cam4DialogContainer
 cam4.com###disclaimerModal
 cam4.com###goldNavbar
@@ -97120,6 +97146,7 @@ cam4.com##.sponsorAd
 cam4.com##.stickyAd
 cam4.com##.xmlAdsTitle
 cam4.com##.xmlAdsWrapper
+cam4.com,cam4.eu##div[class^="SponsoredAds_"]
 cam4.com,cam4.tw##.hbanner
 cam4.tw###newTippingViewer + div[data-ab]
 cam4.tw##.subfoot-section
@@ -98428,6 +98455,7 @@ curioustic.com##.grey
 currys.co.uk##.cretio-sponsored-product
 currys.co.uk##.criteoproducts-section
 curseforge.com###cdm-zone-03
+curseforge.com##.maho-container
 curseforge.com##.project-description [href^="/linkout?remoteUrl="][href*="billing.ember.host"] > img
 curseforge.com##.project-description [href^="/linkout?remoteUrl="][href*="billing.kinetichosting.net"] > img
 curseforge.com##.project-description [href^="/linkout?remoteUrl="][href*="bisecthosting.com"] > img
@@ -100464,6 +100492,7 @@ forced-tube.net,hqasianporn.org##.coverup
 forebet.com##.rbannerDiv
 foreca.com##.a1sjxe3a
 foreca.com##.anlu8i5
+forecast7.com##.ad[align="center"]
 forestriverforums.com##.recommended-stories
 forexlive.com##.article-slot__wrapper:has(.article-header__sponsored)
 forexlive.com##.top-forex-brokers__wrapper
@@ -109175,6 +109204,7 @@ sherbrookerecord.com##.sam-pro-container
 sherdog.com###adViAi
 shfq.com##.index_banner_ad
 shine.cn###pdfModal
+shipt.com##.searchPageStaticBanner:has([href*="/shop/featured-promotions"])
 shipt.com##[id^="cms-ad_banner"]
 shipt.com#?#div.swiper-slide:-abp-contains(Sponsored)
 shipt.com#?#li[class$="eBAnBw"]:-abp-contains(Sponsored)
