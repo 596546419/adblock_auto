@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ISquU5rH+irl9bQsronCBQ
+! Checksum: D4Y3aLQorNdk9BYSclAQqQ
 ! Title: 混合规则(自动更新)
-! Version: 20240801162647
+! Version: 20240802002658
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-01 16:26:47
-! Total Count: 149094
+! Last modified: 2024-08-02 00:26:58
+! Total Count: 149105
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -15818,6 +15818,7 @@
 ||brilig.com^
 ||brillianceherewife.com^
 ||brilliant-raise.pro^
+||brilliantcollector.com^
 ||brimmallow.com^
 ||brimmedbryozoa.com^
 ||bringclockwise.com^
@@ -29157,6 +29158,7 @@
 ||ewefbeu.cn^$~third-party
 ||eweiwykaruwvbi.com^
 ||ewerhodub.com^
+||ewerilxw.top^
 ||eweriow.top^
 ||ewesmedia.com^
 ||ewfsef.com^
@@ -31089,6 +31091,7 @@
 ||fl6n.com/adtop/
 ||fla4n6ne7r8ydcohcojnnor.com^
 ||flabbyyolkinfection.com^
+||flag.lab.amplitude.com^
 ||flag.lab.eu.amplitude.com^
 ||flagads.net^
 ||flagcounter.com^
@@ -51939,6 +51942,7 @@
 ||mljcfymfve.com^
 ||mlkpbktmqrsry.com^
 ||mllatydz.com^
+||mlldrlujqg.com^
 ||mllqfiucttnuzn.com^
 ||mlmyobhn.com^
 ||mlnadvertising.com^
@@ -70631,6 +70635,7 @@
 ||shbzdkj.cn^
 ||shbzegs.cn^
 ||shbzkkj.cn^
+||shbzlkj.cn^
 ||shbzngs.cn^
 ||shbznkj.cn^
 ||shbzogs.cn^
@@ -81795,6 +81800,7 @@
 ||ubbfpm.com^
 ||ubdiysvv.com^
 ||ubdjdtraxe.com^
+||ubeaui.xyz^
 ||ubeestis.net^
 ||ubembed.com^
 ||ubercpm.com^
@@ -101833,8 +101839,8 @@ hardwaretimes.com,siasat.com##.stream-item-widget
 harpersbazaar.in##.add_box
 harpersbazaar.in##.add_wrapper
 harvardmagazine.com##.adsbygoogle-block
-hashrate.no##.verticalAdContainer
 hashrate.no##center:has(.sevioads)
+hashrate.no,thelancet.com##.verticalAdContainer
 haveibeenpwned.com##.actionsBar:has(.why1Password)
 haveibeenpwned.com##.bodyGradient > :has(.why1Password)
 hawaiisbesttravel.com###block-103
@@ -102457,6 +102463,7 @@ huya.com###ggcomment
 huya.com###huya-ab
 huya.com###huya-ab-fixed
 huya.com###hy-ad,#hy-ab,#huya-ab
+huya.com##+js(set-constant, adInfo, {})
 huya.com##.ab-content
 huya.com##.component-ab
 huya.com##.end-ab-banner
@@ -106074,6 +106081,7 @@ nb.zol.com.cn##.article-cont > div.zol-eshop
 nba.hupu.com##div[class^="nba-ad"]
 nbcsports.com###nbcsports-leaderboard
 nbcsports.com##[bsp-reverse-scroll-ad]
+nbsnews.com##.TaboolaFeed
 ncaa.com###banner-purse
 ncnews.com.cn##div[id^="ban"]
 ncno1.playno1.com##.eis_box_s > div:first-child
@@ -111306,6 +111314,7 @@ tutorialink.com##.tutorialink-ad3
 tutorialink.com##.tutorialink-ad4
 tutorialink.com##.widget_ti_add_widget
 tutorialspoint.com###adp_top_ads
+tutorialspoint.com###pg_top_ads
 tutorialspoint.com##.panel-htop.layout-panel-east
 tutorviacomputer.com##.topMargin15
 tutsplus.com##.avert
@@ -120592,6 +120601,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /googleleader.
 /googleleads.
 /googlempu.
+/gospel2Truth.js
 /gourmetads-
 /gpt-prebid.js
 /gpt.js$script,xmlhttprequest
@@ -130346,6 +130356,7 @@ zle.com$script
 ###kfpopupDiv
 ###ks > .DaKuang
 ###kt_player > a[target="_blank"]
+###kt_player > div[style$="display: block;"][style*="inset: 0px;"]
 ###kt_player > div[style="position: absolute; inset: 0px; z-index: 170;"]
 ###kt_player>a[target="_blank"]
 ###large-ads
