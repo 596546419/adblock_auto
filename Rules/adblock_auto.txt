@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 9T8VOQotkkG2D2FDTn8y1A
+! Checksum: ISquU5rH+irl9bQsronCBQ
 ! Title: 混合规则(自动更新)
-! Version: 20240801094204
+! Version: 20240801162647
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-01 09:42:04
-! Total Count: 149087
+! Last modified: 2024-08-01 16:26:47
+! Total Count: 149094
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5047,6 +5047,7 @@
 ||ad.juksy.com^
 ||ad.khan.co.kr^
 ||ad.kinozal.website^
+||ad.kisstvshow.es^
 ||ad.kmib.co.kr^
 ||ad.kshuiz.top^
 ||ad.kshuiz.top^$third-party
@@ -57672,6 +57673,7 @@
 ||opcharizardon.com^
 ||opchikoritar.com^
 ||opclauncheran.com^
+||opclck.com^
 ||opdavplcufic.com^
 ||opdowvamjv.com^
 ||opealleven.com^
@@ -66971,6 +66973,7 @@
 ||rev2pub.com^
 ||rev4rtb.com^
 ||revampcdn.com^
+||revboostprocdnadsprod.azureedge.net^
 ||revcatch.com^
 ||revcontent.com^
 ||revcontent.com^$third-party
@@ -97255,6 +97258,9 @@ cartoq.com##.side-a
 cartoq.com##.top-a
 cartoq.com##.top-ad-blank-div
 castanet.net###hdad
+castanet.net##div[style*="height:900px"]
+castanet.net##div[style*="width:300px;"]
+castanet.net##div[style*="width:640px;"]
 caster.fm##.sidebar_ablock
 cathnews.co.nz,cryptoreporter.info,net-load.com,vgleaks.com,wakingtimes.com,zhujiceping.com###text-12
 catholic.net##.publicidad
@@ -110772,6 +110778,7 @@ theweather.com,theweather.net,yourweather.co.uk##.meteored-ads
 theweather.net##.creatividad
 theweathernetwork.com##.gGthWi
 theweathernetwork.com##[data-testid="content-feed-ad-slot"]
+theweathernetwork.com##[data-testid="header-ad-content"]
 theweathernetwork.com##[data-testid="pre-ad-text"]
 thewindowsclub.com,lesbian8.com,bigtitslust.com,sexe-libre.org##a[rel$="sponsored"]
 thewire.in##div[id^="ATD_"]
