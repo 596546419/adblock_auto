@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: p/dnCGFRDjXISeWnKf9ikw
+! Checksum: AC1p8dVOAlME+1oJLqoLCg
 ! Title: 混合规则(自动更新)
-! Version: 20240802092802
+! Version: 20240802162606
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-02 09:28:02
-! Total Count: 149152
+! Last modified: 2024-08-02 16:26:06
+! Total Count: 149153
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -94670,6 +94670,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 91lai.com##.D_guanggaotu3
 91lai.com##.showimgs
 91mjw.com,hahamx.cn##a[href^="https://s.click.taobao.com/"]
+91mobiles.com,techyv.com##.td-header-header
 91p20.space
 91porn.com##+js(set-constant, player.preroll, noopFunc)
 91porn.com##.vjs-preroll
@@ -104591,6 +104592,7 @@ limesurvey.org###partnerbanner
 limesurvey.org,mobygames.com,taskcoach.org##.well
 limetorrents.lol##.downloadareabig:has([title^="Anâ€Œonâ€Œymous Download"])
 limetorrents.lol##a[href^="/leet/"]
+limetorrents.ninjaproxy1.com##[href^="https://gamestoday.org/"]
 limetorrents.pro##a[href^="/leet/?"] > img[src^="/static/images/download"]
 lincolnshireworld.com,nationalworld.com##.helper__AdContainer-sc-12ggaoi-0
 line.me###install_line
@@ -110396,7 +110398,6 @@ techug.com##a[href*="/eee.html"]
 techug.com,webhek.com##.aatb
 techug.com,webhek.com##a[href*="/4r4.html"]
 techweekmag.com##.widget_codewidget
-techyv.com##.td-header-header
 techyv.com##.wpb_raw_code
 tecmint.com###tecmint_incontent
 tecmint.com###tecmint_leaderboard_article_top
