@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Q1/q9GLXCcTp19brM0JEkg
+! Checksum: sfLl7hLGE8F9K8QM1eQvWA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240802002710
+! Version: 20240802092814
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-02 00:27:10
+! Last modified: 2024-08-02 09:28:14
 ! Total Count: 28552
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
