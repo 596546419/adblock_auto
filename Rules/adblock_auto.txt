@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: qB8KwSdJtb+YJ0FVzcOhPQ
+! Checksum: OHFpzH6/zk+ji51UPR+IBQ
 ! Title: 混合规则(自动更新)
-! Version: 20240803002730
+! Version: 20240803092726
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-03 00:27:30
-! Total Count: 149163
+! Last modified: 2024-08-03 09:27:26
+! Total Count: 149187
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9057,6 +9057,7 @@
 ||analytics-dataplane.invideo.io^
 ||analytics-egain.com^
 ||analytics-events.inshorts.com^
+||analytics-fe.digital-cloud.medallia.eu^
 ||analytics-gateway.delta.dp.lightricks.com^
 ||analytics-ingestion.pbpms.de^
 ||analytics-ingestion.production-public.tubi.io^
@@ -9398,6 +9399,7 @@
 ||analytics.redbubble.com^
 ||analytics.regex101.com^
 ||analytics.residencemagazine.se^
+||analytics.rev.iq^
 ||analytics.rever.vn^
 ||analytics.reyrey.net^
 ||analytics.ripped.guide^
@@ -11521,6 +11523,7 @@
 ||aulsidakr.com^
 ||aulteeby.net^
 ||aultesou.net^
+||aultopurg.xyz^
 ||aultseemedto.xyz^
 ||aumaupoy.net^
 ||aumeryyaruran.live^
@@ -13802,6 +13805,7 @@
 ||beonixom.com^
 ||bepapersurmise.space^
 ||beparaspr.com^
+||bepawrepave.com^
 ||bephb.in^
 ||bephungoagno.com^
 ||bepilelaities.com^
@@ -15723,6 +15727,7 @@
 ||bravoporn.com/player/html.php
 ||bravoporn.com/v/if2
 ||bravotrk.com^
+||brawerverism.com^
 ||brawlperennialcalumny.com^
 ||brazenwholly.com^
 ||brazzerssurvey.com^
@@ -18422,6 +18427,7 @@
 ||chaubseet.com^
 ||chauckee.net^
 ||chauckoo.xyz^
+||chaudoubeets.net^
 ||chaudrep.net^
 ||chaugroo.net^
 ||chauinubbins.com^
@@ -26355,6 +26361,7 @@
 ||dvigutying.top^
 ||dvjkmskks.xyz^
 ||dvklfkssxirup.xyz^
+||dvkxchzb.com^
 ||dvmludkami.com^
 ||dvmsmm.cn^
 ||dvnqhdmze.xyz^
@@ -26625,6 +26632,7 @@
 ||e0575.com/index.php
 ||e076.xyz^
 ||e0a79821ec.com^
+||e0ad1f3ca8.com^
 ||e0e5bc8f81.com^
 ||e10000.cn/Images/link_td01.gif
 ||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz^
@@ -26689,6 +26697,7 @@
 ||e8100325bc.com^
 ||e822e00470.com^
 ||e89dafb480.com^
+||e8e2063b.xyz^
 ||e8f6c9133b.com^
 ||e8jp9.com^
 ||e91c222079.com^
@@ -28047,6 +28056,7 @@
 ||energeticrecognisepostcard.com^
 ||energypopulationpractical.com^
 ||enet.com.cn/counter.php
+||eneughghaffir.com^
 ||eneverals.biz^
 ||eneverseen.org^
 ||enews10.yxlady.net^
@@ -31582,6 +31592,7 @@
 ||foolproofanatomy.com^
 ||fooluminou.review^
 ||foomaque.net^
+||foonerne.com^
 ||fooptoat.com^
 ||foot.wiki^
 ||footageaccomplishment.com^
@@ -38756,6 +38767,7 @@
 ||hugenicholas.com^
 ||hugfromoctopus.com^
 ||huggerrailly.top^
+||huggerslycaena.com^
 ||hughester.com^
 ||hughjonah.com^
 ||hugo3c.tw^$csp=script-src 'self' * 'unsafe-inline'
@@ -38816,6 +38828,7 @@
 ||hulewangsi.cn^
 ||hulichuang.mobi^
 ||hulledaries.top^
+||hulocvvma.com^
 ||huloxakuxukwduo.xyz^
 ||hulsairtid.com^
 ||huluxia.com^$third-party
@@ -54928,6 +54941,7 @@
 ||newthbvttskt.xyz^
 ||newthuads.com^
 ||newtits.name^
+||newton1.ru^
 ||newtueads.com^
 ||newume.com/v1/data/ume-
 ||newvideoapp.pro^
@@ -56192,6 +56206,7 @@
 ||nutchaungong.com^
 ||nutga.com^
 ||nutgxfwechkcuf.com^
+||nutiipwkk.com^
 ||nutletcorvees.com^
 ||nutmegshow.com^
 ||nutrientassumptionclaims.com^
@@ -58080,6 +58095,7 @@
 ||orrisesdepute.com^
 ||orrmmdsdc.com^
 ||orrvucstaxip.com^
+||orrwavakgqr.com^
 ||orsrmrx.cn^
 ||orssengseen.com^
 ||orthitepetrous.com^
@@ -61635,6 +61651,7 @@
 ||polygraphpretenceraw.com^
 ||polyh-nce.com^
 ||polymorphicads.jp^
+||polypedoutkeep.com^
 ||polypivulgars.com^
 ||polyserbdom.com^
 ||polyvalent.co.in^
@@ -78537,6 +78554,7 @@
 ||tingiaitrian.com^
 ||tingiovang777.com^
 ||tingiovangvn.com^
+||tingisincused.com^
 ||tingledpredy.com^
 ||tingleswhisker.top^
 ||tinglian.com^
@@ -79956,6 +79974,7 @@
 ||tracking.atreemo.com^
 ||tracking.audio.thisisdax.com^
 ||tracking.avestatidning.com^
+||tracking.aws.judge.me^
 ||tracking.b-cdn.net^
 ||tracking.bababam.com^
 ||tracking.bandypuls.se^
@@ -90455,6 +90474,7 @@
 ||yatab.net^
 ||yatemy.cn^
 ||yathmoth.com^
+||yatr.ru^
 ||yaudience.com^
 ||yaupersjejunum.top^
 ||yausbprxfft.xyz^
@@ -94878,6 +94898,8 @@ accuradio.com###pl_leaderboard
 accuradio.com###slot2Wrapper
 accuradio.com##.MobileSquareAd__Container-sc-1p4cjdt-0
 accuratefiles.com##.box-result
+accuweather.com##.connatix-player
+accuweather.com##.feature-tag
 acdn.live,worldtimebuddy.com###toprek
 aceshowbiz.com##div[style="display:inline-block;min-height:300px"]
 aceshowbiz.com,cmr24.net##.ne-banner-layout1
@@ -95183,7 +95205,7 @@ alloldpics.com,sexygirlspics.com##.live-spot
 allradio.net##div[class^="GoogleAdsenseContainer_"]
 allrecipes.com###cal-app
 allrecipes.com##.docking-leaderboard-container
-allrecipes.com##.mntl-jwplayer-broad
+allrecipes.com,lifewire.com##.mntl-jwplayer-broad
 allscrabblewords.com,c114.com.cn,chemicalbook.com,china.com.cn,dy.xdf.cn,famously-dead.com,famouslyarrested.com,famouslyscandalous.com,foodmate.net,haoweichi.com,hibiquan.com,khaama.com,mpog100.com,qingdaonews.com##.ad2
 allsex.xxx##div[class^="block-"] > .table
 allthatsinteresting.com##.native-box
@@ -99337,6 +99359,7 @@ drtuber.com##a[href^="/partner/"]
 drtuber.com,iceporn.com,nuvid.com,proporn.com,viptube.com,winporn.com##.drt-spot-box
 drtuber.com,nuvid.com,proporn.com,winporn.com##.drt-sponsor-block
 drtuber.desi,iceporn.*###spot_video_partner_banner
+drudgereport.com##.DR-AD-SPACE
 drugs.com##.topbanner-wrap
 drupal.org##.pane-style-sponsor
 drv5.cn###xzq
@@ -110806,6 +110829,7 @@ thestockmarketwatch.com##.adSpotPad
 thestranger.com##.fish-butter
 thestreamable.com###promo-signup-bottom-sheet
 thestreamable.com##.d-md-flex
+thestreet.com##.csw-ae-wide
 thestreet.com##.is-video-footer-enabled
 thestreet.com##.m-balloon-header
 thestreet.com##.m-video-unit
