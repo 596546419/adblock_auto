@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: OHFpzH6/zk+ji51UPR+IBQ
+! Checksum: 6TNtoWUuW7lmq2tHBiYvEg
 ! Title: 混合规则(自动更新)
-! Version: 20240803092726
+! Version: 20240803162536
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-03 09:27:26
-! Total Count: 149187
+! Last modified: 2024-08-03 16:25:36
+! Total Count: 149189
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -97105,6 +97105,7 @@ businessday.ng##.vc_custom_1627979893469
 businessesview.com.au,holidayview.com.au,realestateview.com.au,ruralview.com.au##.add-item
 businessgreen.com###rdm-below-header
 businessgreen.com,computing.co.uk##.notice-slot-full-below-header
+businessinsider.com##.l-ad
 businessinsider.com##.right-rail-min-height-250
 businessinsider.com,insider.com##.commerce-coupons-module
 businessinsider.com,insider.com##.in-post-sticky
@@ -107152,6 +107153,7 @@ pcwdld.com##.sbcontent
 pcworks.cn##.md-show
 pcworks.cn,vdianying.cc##.xintheme-ad
 pcworld.com##.coupons
+pcworld.com##.is-half-width.product-widget
 pcworld.com##.topDeals
 pcworld.com,techhive.com###tso
 pcworld.idg.com.au##.module-rhs-brandpost
