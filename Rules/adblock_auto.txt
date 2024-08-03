@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 6TNtoWUuW7lmq2tHBiYvEg
+! Checksum: nzxBVRfEXOFTLl8MCcqxYg
 ! Title: 混合规则(自动更新)
-! Version: 20240803162536
+! Version: 20240804002643
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-03 16:25:36
-! Total Count: 149189
+! Last modified: 2024-08-04 00:26:43
+! Total Count: 149195
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -76959,6 +76959,7 @@
 ||tatdunsit.com^
 ||tatersbilobed.com^
 ||tatleadlam.live^
+||tatrck.com^
 ||tatsumi-sys.jp^
 ||tattepush.com^
 ||tattle.api.osano.com^
@@ -106800,11 +106801,13 @@ olgame.tw##.nex_floor_banner
 olgame.tw##.nex_index_ads
 olgame.tw##.nex_mid_ads
 olx.com.pk##.react-swipeable-view-container:has([href*="http://onelink.to"])
+olympics.com###header-adv-banner
 olympics.com##.-adv
 olympics.com##.\-partners
 olympics.com##.ad-margin-big
 olympics.com##.b2p-list__item:has(> .adv-fluid)
 olympics.com##[data-row-type="custom-row-adv"]
+olympics.com##section[data-cy="ad"]
 olympics.com,scmp.com##.header-ad-slot
 omniglot.com,youthwant.com.tw##.flex-container
 omnitalk.com##td[bgcolor="#ffffc8"]
@@ -117901,6 +117904,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads/create_
 /ads/creatives/*
 /ads/cube-
+/ads/custom_ads.js
 /ads/daily.
 /ads/daily_
 /ads/dart.
@@ -121844,6 +121848,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ome.ads.
 /oncc-ad.
 /oncc-ad.js
+/oncc-adbanner.js
 /onead.
 /onead_
 /onecam4ads.
@@ -122137,6 +122142,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /plugins_ads_
 /plus/ad_
 /pm_ads/*
+/pmc-adm-v2/build/setup-ads.js$domain=bgr.com|deadline.com|rollingstone.com
 /pn07uscr/f/tr/zavbn/*
 /pn07uscr/f/tr/zavbn/*$third-party
 /poker-ad.
