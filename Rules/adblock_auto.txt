@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: nzxBVRfEXOFTLl8MCcqxYg
+! Checksum: 8RlzVnDsUUoyh8DSyIcITQ
 ! Title: 混合规则(自动更新)
-! Version: 20240804002643
+! Version: 20240804094051
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-04 00:26:43
-! Total Count: 149195
+! Last modified: 2024-08-04 09:40:51
+! Total Count: 149214
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -454,6 +454,7 @@
 ||107cine.com/front/js/layer.js
 ||108.171.248.234^
 ||1080872514.rsc.cdn77.org^
+||1084092795.rsc.cdn77.org^
 ||1085549509.rsc.cdn77.org^
 ||1089006802.rsc.cdn77.org^
 ||1090pjopm.de^
@@ -858,6 +859,7 @@
 ||180.96.27.85^*.htm
 ||1800cnt.com^
 ||1810793056.rsc.cdn77.org^
+||1813853057.rsc.cdn77.org^
 ||1818027024.rsc.cdn77.org^
 ||18183.com/common/js/side.js
 ||18183.com^*.php?
@@ -9715,6 +9717,7 @@
 ||anlytics.co^
 ||anmdr.link^
 ||anmgaxrujfru.com^
+||anmhtutajog.com^
 ||anmiphglqn.com^
 ||anmjqqtevhsqwb.com^
 ||anncmq.com^
@@ -12177,6 +12180,7 @@
 ||b16a07996c.com^
 ||b17.8794.cn^
 ||b18a21ab3c9cb53.com^
+||b194c1c862.com^
 ||b1bf05979e.com^
 ||b1dd039f40.com^
 ||b1img.com^
@@ -27110,6 +27114,7 @@
 ||ecusemis.com^
 ||ecustomeropinions.com^
 ||ecwmvlhy.com^
+||ecxgjqjjkpsx.com^
 ||ecypliujlkuh.com^
 ||ecyxbhvnntj.com^
 ||eczemagrison.uno^
@@ -28892,6 +28897,7 @@
 ||euugbutvb.com^
 ||euvsgap.cn^
 ||euvtoaw.com^
+||euygjjorvxty.com^
 ||euyvpgn.cn^
 ||euz.net^
 ||ev-dating.com^
@@ -29611,6 +29617,7 @@
 ||eywvmnf.cn^
 ||eyxtfk.cn^
 ||eyyicbskhglf.com^
+||eyyngo.xyz^
 ||eyyqwd.icu^
 ||ezacci.xyz^
 ||ezaicmee.xyz^
@@ -40588,6 +40595,7 @@
 ||indefinitelyunlikelyplease.com^
 ||indefinitelyworkplacesimple.com^
 ||indeliblehang.pro^
+||indeliblestill.com^
 ||indelicatecanvas.com^
 ||indelicatepokedoes.com^
 ||indelphoxom.com^
@@ -44935,6 +44943,7 @@
 ||kihudevo.pro^
 ||kihwmtvzvi.com^
 ||kiiepofl.xyz^
+||kiisetbtkaul.com^
 ||kiisvpby.xyz^
 ||kiiysgjmuy.com^
 ||kijkxx.com^
@@ -45540,6 +45549,7 @@
 ||koublxdh.com^
 ||kouceeptait.com^
 ||koucerie.com^
+||koucqfpnsamftw.com^
 ||koudaiyundong.com^
 ||koudaiyundong.com^$third-party
 ||kougloar.com^
@@ -47051,6 +47061,7 @@
 ||letitnews.com^
 ||letitredir.com^
 ||letitsoft.com^
+||letlwsl.top^
 ||letong.xyz^
 ||letopreseynatc.org^
 ||letqejcjo.xyz^
@@ -63152,6 +63163,7 @@
 ||psaurteepo.com^
 ||psausuck.net^
 ||psautiultvvsqxj.xyz^
+||psauwaun.com^
 ||psauwush.net^
 ||psclicks.com^
 ||psdn.xyz^
@@ -72121,6 +72133,7 @@
 ||skjwebmr.com^
 ||skldbklsbvss.com^
 ||sklsnpqr.com^
+||skltrachqwbd.com^
 ||skluff.com^
 ||skluff.com^$third-party
 ||skmtyaw.cn^
@@ -81125,6 +81138,7 @@
 ||ttmetrics.jcpenney.com^
 ||ttmomo.win^
 ||ttney.com^
+||ttnpxtsp.com^
 ||ttnrd.com^
 ||ttnwxhjv.xyz^
 ||ttoc8ok.com^
@@ -81470,6 +81484,7 @@
 ||twentydruggeddumb.com^
 ||twentyexaggerate.com^
 ||twentyqueen.com^
+||twerilxi.top^
 ||twerioi.top^
 ||twerwew.org^
 ||twgzgqqu.com^
@@ -81709,6 +81724,7 @@
 ||tzvroyuhmkvlsa.com^
 ||tzwaw.pw^$third-party
 ||tzyjotwoocku.com^
+||tzyzlow.cn^
 ||u*.takru.com^
 ||u-50-rbdm.com^
 ||u-ad.info^
@@ -84428,6 +84444,7 @@
 ||vhgunzr.cn^
 ||vhhxnb.xyz^
 ||vhihvqsuarpp.com^
+||vhjgeivll.com^
 ||vhjxrj.xyz^
 ||vhkbvpbuhwon.com^
 ||vhlret.cn^
@@ -88233,6 +88250,7 @@
 ||woodymotherhood.com^
 ||woofoafi.xyz^
 ||woogoust.com^
+||woohazaz.net^
 ||woolasib.net^
 ||wooledswards.com^
 ||woolenabled.com^
@@ -99977,6 +99995,7 @@ euronews.com##.m-object:has(.m-object__spons-quote)
 euronews.com##.qa-dfpLeaderBoard
 europeangaming.eu###mvp-leader-wrap > a[href^="https://www.softswiss.com/"]
 europeanpharmaceuticalreview.com##.europ-fixed-footer
+eurovisionworld.com##.teaser_flex_united24
 euroweeklynews.com###banner-970
 euroweeklynews.com##[data-revive-zoneid]
 euroxxx.net,theneworleanstribune.com###block-15

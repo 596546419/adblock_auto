@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: UkR3LCxy9cx2pQuHx9RRoQ
+! Checksum: oTRKKfN9fiCLwtbP754HAw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240804002655
+! Version: 20240804094102
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-04 00:26:55
-! Total Count: 28553
+! Last modified: 2024-08-04 09:41:02
+! Total Count: 28557
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7116,6 +7116,7 @@
 ||eyusky.net/weixin-img/zhifubao.jpg
 ||eyuwkbw.top^
 ||eyuyao.com/yyad/
+||eyyngo.xyz^
 ||eyyqwd.icu^
 ||ezacci.xyz^
 ||ezeqcy.xyz^
@@ -10586,6 +10587,7 @@
 ||lestv10.icu^
 ||lestv7.icu^
 ||letitbit-porno.com^$popup,domain=fastpik.net
+||letlwsl.top^
 ||lettucecopper.com^$third-party
 ||lettucelimit.com^$third-party
 ||letv.com/pzt/hyhmzq/index.shtml
@@ -15932,6 +15934,7 @@
 ||twavtv.com/js/jquery.colorbox
 ||twbqqq.com^
 ||tweezesmalanga.com^
+||twerilxi.top^
 ||twerioi.top^
 ||twgzgqqu.com^
 ||twinrdsrv.com$xmlhttprequest,third-party
@@ -15993,6 +15996,7 @@
 ||tzfdc.com/fdcSell/
 ||tznizrhd.xyz^
 ||tzwaw.pw^$third-party
+||tzyzlow.cn^
 ||u-ad.info^
 ||u.ctrip.com/showcaseadvertisementsit/
 ||u.qxen.com^
