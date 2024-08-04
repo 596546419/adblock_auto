@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: HrlfM3nmvJjA8o29HxpxNg
+! Checksum: cOwgV2Et2DdNr2c8BcImoQ
 ! Title: 混合规则(自动更新)
-! Version: 20240804162341
+! Version: 20240805002404
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-04 16:23:41
-! Total Count: 149217
+! Last modified: 2024-08-05 00:24:04
+! Total Count: 149227
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5803,6 +5803,7 @@
 ||admilk.ru^
 ||admin-vayvonvietthanh.com^
 ||admin.appnext.com^
+||admin.giaminhmedia.vn^
 ||admin.phunusuckhoe.vn^
 ||admin.sothuchi.vn^
 ||admin.voh.com.vn^
@@ -6164,6 +6165,7 @@
 ||ads.akaup.com^
 ||ads.alaatv.com^
 ||ads.aland.com^
+||ads.alobacsi.vn^
 ||ads.annonsbladet.com^
 ||ads.appsgeyser.com^
 ||ads.autonet.com.vn^
@@ -6217,6 +6219,7 @@
 ||ads.gazetaesportiva.net^
 ||ads.gencgazete.net^
 ||ads.gercekgundem.com^
+||ads.giaminhmedia.vn^
 ||ads.go2net.com.ua^
 ||ads.gosu.vn^
 ||ads.greengeeks.com^
@@ -6239,6 +6242,7 @@
 ||ads.jp.ap.g.valuecommerce.com^
 ||ads.karzar.net^
 ||ads.kelkoo.com^
+||ads.ketnoitatca.net^
 ||ads.kiemsat.vn^
 ||ads.kiktu.com^$xmlhttprequest,redirect-rule=noop.txt
 ||ads.kmib.co.kr^
@@ -6863,6 +6867,7 @@
 ||adv.autosurf.vn^
 ||adv.bandi.so^
 ||adv.baoangiang.com.vn^
+||adv.baotayninh.vn^
 ||adv.baotintuc.vn^
 ||adv.baovemoitruong.org.vn^
 ||adv.dailyissue.co.kr^
@@ -65411,6 +65416,7 @@
 ||r.yabancidizi.in^
 ||r.z2.fm^
 ||r.z3.fm^
+||r01lacou.azidp.tech^
 ||r023m83skv5v.com^
 ||r0wa9z6t8t.ru^
 ||r1.ati.su^
@@ -79967,6 +79973,7 @@
 ||tracking-web.smobgame.com^
 ||tracking-widget.fillr.com^
 ||tracking.*.miui.com^
+||tracking.10gb.vn^
 ||tracking.aatkit.com^
 ||tracking.adactioninteractive.com^
 ||tracking.adalyser.com^
@@ -80198,6 +80205,7 @@
 ||tracking.rtl.de^
 ||tracking.s24.com^
 ||tracking.salaallehanda.com^
+||tracking.saostar.vn^
 ||tracking.scenepass.com^
 ||tracking.searchmarketing.com^
 ||tracking.sembox.it^
@@ -91825,6 +91833,7 @@
 ||z8g0wlq5p0f6jg3k7eh2kyd58hjeskx0w9g5eu7q3m5hyq8l0xwofj3ap2nv.me^
 ||z91f4.top^
 ||z929.fuelfix.com^
+||zSmhlV.zgbv.tech^
 ||za-ads.de^
 ||za.agiay.vn^
 ||za.baomoi.com^
@@ -111270,6 +111279,7 @@ tradekey.com##.float_left
 trademe.co.nz##.tm-display-ad__wrapper
 trademe.co.nz##tm-display-ad
 tradetrucks.com.au##.middle-banner-list
+tradingview.com###charting-ad
 traditionalmusic.co.uk##.skys-right
 trakt.tv###hu-ck-s-t-er-de-sk-top-sidenav
 trakt.tv###hu-ck-s-t-er-de-sk-top-wrapper
