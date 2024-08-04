@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 8RlzVnDsUUoyh8DSyIcITQ
+! Checksum: HrlfM3nmvJjA8o29HxpxNg
 ! Title: 混合规则(自动更新)
-! Version: 20240804094051
+! Version: 20240804162341
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-04 09:40:51
-! Total Count: 149214
+! Last modified: 2024-08-04 16:23:41
+! Total Count: 149217
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -99997,6 +99997,9 @@ europeangaming.eu###mvp-leader-wrap > a[href^="https://www.softswiss.com/"]
 europeanpharmaceuticalreview.com##.europ-fixed-footer
 eurovisionworld.com##.teaser_flex_united24
 euroweeklynews.com###banner-970
+euroweeklynews.com##.banner-970
+euroweeklynews.com##.c-advert__sticky
+euroweeklynews.com##.c-inblog_ad
 euroweeklynews.com##[data-revive-zoneid]
 euroxxx.net,theneworleanstribune.com###block-15
 ev-database.org##.adslot_detail1
