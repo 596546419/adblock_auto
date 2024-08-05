@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: av91VWmkgTaYOIIKhtEXIA
+! Checksum: 21HJprSef9US4Zt9ZZrtVQ
 ! Title: 混合规则(自动更新)
-! Version: 20240805162710
+! Version: 20240806002615
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-05 16:27:10
-! Total Count: 149242
+! Last modified: 2024-08-06 00:26:15
+! Total Count: 149257
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4343,6 +4343,7 @@
 ||abidepeachy.com^
 ||abiderestless.com^
 ||abieaoa.cn^
+||abjalrq.cn^
 ||abjectattempt.com^$third-party
 ||abjectionblame.com^
 ||abjectionomnipresent.com^
@@ -11934,6 +11935,7 @@
 ||awzddev.cn^
 ||awzvpbg.com^
 ||ax.*.ifeng.com^
+||ax.amnezia.org^
 ||ax.babe.today^
 ||ax.idg.se^
 ||ax.ifeng.com^
@@ -72787,6 +72789,7 @@
 ||soccerprolificforum.com^
 ||soccertakeover.com^
 ||socde.com^
+||socdem-enrich.getshop.tv^
 ||socdm.com^
 ||socgate.ru^
 ||sochetat.net^
@@ -78876,6 +78879,7 @@
 ||tmnbocewmddu.com^
 ||tmnsstf.com^
 ||tmochyf.cn^
+||tmoclbf.icu^
 ||tmozs.com^
 ||tmrhoe2.com^
 ||tmrjaghtledm.com^
@@ -83432,6 +83436,7 @@
 ||uvwtmppnbqgzha.com^
 ||uvxclrl.com^
 ||uvymccn.cn^
+||uvyuqzx.cn^
 ||uvzomxvbpbgo.com^
 ||uvzsmwfxa.com^
 ||uwadakest.cyou^
@@ -86247,6 +86252,7 @@
 ||w.sharethis.com^
 ||w.xiaopiaoyou.com^
 ||w.zenback.jp^
+||w0054.com^
 ||w0057.com^
 ||w0079.com^
 ||w0082.com^
@@ -86830,6 +86836,7 @@
 ||web-affiliation.com^
 ||web-analytic.ghtk.vn^
 ||web-analytics.ica.se^
+||web-analytics.lastpass.com^
 ||web-analytics.mona.host^
 ||web-boosting.net^
 ||web-counter.net^
@@ -89699,6 +89706,7 @@
 ||xlivesex.com^
 ||xlivrdr.com^
 ||xlkdbbvy.xyz^
+||xlmdtiyqbkygtfkh.com^
 ||xlmygeuxtv.com^
 ||xlnuj.com^
 ||xlnvvbk.xyz^
@@ -91030,6 +91038,7 @@
 ||ykrwopdxkw.com^
 ||yktj.yzz.cn^
 ||ykujch.icu^
+||ykwykw.xyz^
 ||ykxafzdu.xyz^
 ||ykxscghselpj.com^
 ||ykxwn.com^
@@ -98146,7 +98155,7 @@ cointelegraph.com##.sidebar__promo-button
 cointelegraph.com##div[class^="ad-slot_"]
 cointelegraph.com##mm-collectors
 coinweek.com##.g-389
-colamanga.com#$#div[class^="layui-layer-"] { display: none !important; }
+colamanga.com#$#div[class^="layui-layer-"]:not(#color) { display: none !important; }
 colamanga.com,ezneering.com#$#html { overflow: auto !important; }
 colamanhua.com,colamanga.com##[class$="i"][style*="bottom"],[class$="h"][style*="bottom"],[class$="_b"],[class$="c"][style*="bottom"],embed[src],canvas,*[style*="fixed"][style*="bottom"][style*="display"][style*="block"][style*="vw"]
 colamanhua.com,ddgys.com,ddg66.com,ddg44.com,ddg33.com,dadagui.me,colamanga.com##[class$="i"][style*="bottom"],[class$="h"][style*="bottom"],[class$="_b"],[class$="c"][style*="bottom"]
@@ -101979,7 +101988,9 @@ hcbbs.com###framedtSuR9
 hcbbs.com###framemI4t76
 hcbbs.com###framerG6o99_left
 hcbbs.com###portal_block_2652
+hcbbs.com###portal_block_3441
 hcbbs.com##.a_cn_pb
+hcbbs.com##a[href*="&adid="]
 hcbbs.com##table[width="100%"][bordercolor="#CCCCCC"]
 hcbbs.com,isiyuan.net##.ke-zeroborder
 hcbdsm.com,lzep.cn,momvids.com,motherporno.com##.aside
@@ -102575,6 +102586,7 @@ huya.com###huya-ab-fixed
 huya.com###hy-ad,#hy-ab,#huya-ab
 huya.com##+js(set-constant, adInfo, {})
 huya.com##.ab-content
+huya.com##.ab-wrap
 huya.com##.component-ab
 huya.com##.end-ab-banner
 huya.com##.end-ab-wrap
@@ -102587,6 +102599,7 @@ huya.com##.room-sidebar #public-screen-ab
 huya.com##.small-handle-tip
 huya.com##.tt[style*="1200px"]
 huya.com##a[class^="Ad--"]
+huya.com#?#.item-pic:-abp-has(>.img-tips)
 huya.com,ixigua.com,toutiao.com##.J_ad
 hvhbbs.com##.block[data-widget-definition="SwiperWidget"]
 hvhbbs.com##.margin-add > style + div
@@ -107065,6 +107078,7 @@ parentdish.co.uk###rr-amazon
 parkers.co.uk##.inline-leaderboard-ad-wrapper
 paryatanbazar.com##.ad--space
 passiontimes.hk##.rectAd680
+passwordsgenerator.net###ADCENTER
 passwordsgenerator.net###ADTOP
 paste.fo##.texta
 paste.fo##a[href][class] img
@@ -145373,6 +145387,7 @@ zle.com$script
 ##a[href="https://www.ledlandi.com"]
 ##a[href="https://www.ybvip1879.vip"]
 ##a[href="https://xq97.com"]
+##a[href="https://yk63.me"]
 ##a[href="javascript:;"][onclick^="iwjfewufewekjr"]
 ##a[href="javascript:GoGd();"]
 ##a[href="javascript:GoTp();"]

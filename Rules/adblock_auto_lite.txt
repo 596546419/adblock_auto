@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: JU4VfYZUye/pfEbH3U/RqQ
+! Checksum: 9Pry1kz+1805UJFVd6j6Pw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240805162721
+! Version: 20240806002627
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-05 16:27:21
-! Total Count: 28557
+! Last modified: 2024-08-06 00:26:27
+! Total Count: 28564
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1566,6 +1566,7 @@
 ||abdluv.xyz^
 ||abds.pingpingw.com^
 ||abe1.cn^
+||abjalrq.cn^
 ||abjectattempt.com^$third-party
 ||ablsrv.com^
 ||abmedia.io/*/pum/
@@ -15653,6 +15654,7 @@
 ||tmjetb.xyz^
 ||tmjwlmhc.xyz^
 ||tmlwvxae.xyz^
+||tmoclbf.icu^
 ||tmrhoe2.com^
 ||tmvebl.xyz^
 ||tmwbszn.icu^
@@ -16336,6 +16338,7 @@
 ||uvekyvs.icu^
 ||uvklgw.xyz^
 ||uvpqrydt.xyz^
+||uvyuqzx.cn^
 ||uwandlt.top^
 ||uwants.com/dfp_forum.php?au=Uwants_Web_
 ||uwants.com^*_prod.html
@@ -16725,6 +16728,7 @@
 ||vzvvifw.cn^
 ||w.anmeihe.cn^
 ||w.xiaopiaoyou.com^
+||w0054.com^
 ||w0057.com^
 ||w0079.com^
 ||w0082.com^
@@ -17381,6 +17385,7 @@
 ||xliffnsc.xyz^
 ||xlivesex.com^
 ||xlkdbbvy.xyz^
+||xlmdtiyqbkygtfkh.com^
 ||xlnvvbk.xyz^
 ||xlplrhum.xyz^
 ||xlpu.cc/adv/
@@ -17823,6 +17828,7 @@
 ||yklfg.cn^
 ||yktj.yzz.cn^
 ||ykujch.icu^
+||ykwykw.xyz^
 ||ykxafzdu.xyz^
 ||ykxwn.com^
 ||yl04z4v.cn^
@@ -26762,6 +26768,7 @@ zle.com$script
 ##a[href="https://ttzzz11.com"]
 ##a[href="https://ttzzz22.com"]
 ##a[href="https://xq97.com"]
+##a[href="https://yk63.me"]
 ##a[href="javascript:;"][onclick^="iwjfewufewekjr"]
 ##a[href="javascript:GoGd();"]
 ##a[href="javascript:GoTp();"]
