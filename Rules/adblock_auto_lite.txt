@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 9Pry1kz+1805UJFVd6j6Pw
+! Checksum: k9c7R0mqONGJfRHBcWIhCw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240806002627
+! Version: 20240806093520
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-06 00:26:27
-! Total Count: 28564
+! Last modified: 2024-08-06 09:35:20
+! Total Count: 28569
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4127,6 +4127,7 @@
 ||baijs02.shop^
 ||baijs02.xyz^
 ||baijs03.xyz^
+||baijs04.shop^
 ||baijs05.xyz^
 ||baijs06.xyz^
 ||baijs07.xyz^
@@ -6454,6 +6455,7 @@
 ||doujs02.xyz^
 ||doujs03.shop^
 ||doujs03.xyz^
+||doujs04.shop^
 ||doujs05.xyz^
 ||doujs06.xyz^
 ||doujs07.xyz^
@@ -10394,6 +10396,7 @@
 ||kwongwah.com.my/wp-content/plugins/dibs_engine/js/dibs_popup.js
 ||kwqnki.xyz^
 ||kwtgntyu.xyz^
+||kwumme.xyz^
 ||kx4.firstsexfilm.com^
 ||kxcdn.com^$xmlhttprequest
 ||kxcp365.com^
@@ -11326,6 +11329,7 @@
 ||mfadsrvr.com^
 ||mfaec.cn^
 ||mfav88.com/yinzi/
+||mfemiac.icu^
 ||mffdn.xyz^
 ||mfifsux.xyz^
 ||mflybplr.xyz^
@@ -13277,6 +13281,7 @@
 ||qdtjjxr.xyz^
 ||qdtzbbh.xyz^
 ||qdzyspjx.com^
+||qedgcxi.cn^
 ||qeedaa.xyz^
 ||qejjhnq.cn^
 ||qerbert78.xyz^
