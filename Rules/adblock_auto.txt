@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Zh7BkNzQfyuJa/XGyBGGiQ
+! Checksum: 5p7O4DLyWM8oEvHZaRUkpQ
 ! Title: 混合规则(自动更新)
-! Version: 20240807162630
+! Version: 20240808002708
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-07 16:26:30
-! Total Count: 149347
+! Last modified: 2024-08-08 00:27:08
+! Total Count: 149369
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -12227,6 +12227,7 @@
 ||b3ra6hmstrioek54er.com^
 ||b3stcond1tions.com^
 ||b3z29k1uxb.com^
+||b41732fb1b.com^
 ||b42rracj.com^
 ||b44794baad.com^
 ||b477.life^
@@ -16673,6 +16674,7 @@
 ||bytesdictatescoop.com^
 ||bytesreunitedcedar.com^
 ||byteyieldcreated.com^
+||bytmfj.xyz^
 ||bytogeticr.com^
 ||bytravel.cn/images/cus/
 ||bytravel.cn/images/t/usa_250_120.gif
@@ -23111,6 +23113,7 @@
 ||data.hicloud.com^
 ||data.imakenews.com^
 ||data.kameleoon.io^
+||data.media-lab.ai^
 ||data.mimikama.at^
 ||data.minute.ly^
 ||data.mistat.india.xiaomi.com^
@@ -28301,6 +28304,7 @@
 ||eoapxl.com^
 ||eoasxirquewfyn.com^
 ||eobvppi.com^
+||eoedchucdtkep.com^
 ||eofemms.cn^
 ||eofripvanwin.org^
 ||eofst.com^
@@ -32795,6 +32799,7 @@
 ||fzgetdy.cn^
 ||fzgrpqktmq.com^
 ||fzipipalkri.com^
+||fzivunnigra.com^
 ||fzllis.cn^
 ||fzlol.com/images/$script
 ||fznpq.com^
@@ -42459,6 +42464,7 @@
 ||javdawn.fun^
 ||javddngx.cyou^
 ||javdove.com/templates/frontend/javdove/*/partialviewslider.
+||javgenetic11.fun^
 ||javgg.eu^
 ||javgulf.fun^
 ||javhd.com/banners-mainpage/
@@ -45796,6 +45802,7 @@
 ||ktnwxhjv.xyz^
 ||ktobedirectu.xyz^
 ||ktoioo.xyz^
+||ktpcsqnij.com^
 ||ktqiyjojiya.com^
 ||ktrackdata.com^
 ||ktrfzka.com^
@@ -49666,6 +49673,7 @@
 ||m.vpadn.com^
 ||m.wxrw123.com/style/js/feimobile.js
 ||m.wxrw123.com/style/js/tongji.js
+||m.xianqihaotianmi.org/4ENSM9hu/*.js
 ||m.xiaoxiangxs.com/public/js/zepto-
 ||m.xrum.info^
 ||m.xs26.com/wap.js
@@ -50343,6 +50351,7 @@
 ||masqueradeflashy.com^
 ||massacreintentionalmemorize.com^
 ||massacresurrogate.com^
+||massagefumaria.click^
 ||massariuscdn.com^
 ||massbrag.care^
 ||massecephid.uno^
@@ -55663,6 +55672,7 @@
 ||noiselessplough.com^$third-party
 ||noiselessvegetables.com^
 ||noiseslaveoutfit.com^
+||noisesperusemotel.com^
 ||noisesuperserver.com^
 ||noisyassistance.pro^
 ||noisybeforemorton.com^
@@ -82277,6 +82287,7 @@
 ||ukfareputfea.xyz^
 ||ukgfniu.cn^
 ||ukidiayddbshfl.com^
+||ukindwouldmeu.com^
 ||ukiyoyechromy.com^
 ||ukizeiasninan.info^
 ||ukjwyv.icu^
@@ -85899,6 +85910,7 @@
 ||vpie.net^$third-party
 ||vpipi.com^
 ||vpixrlkggv.com^
+||vpkdrxyx.com^
 ||vplgggd.com^
 ||vpn-access.site^
 ||vpn-defend.com^
@@ -92523,6 +92535,7 @@
 ||zhyl.info^
 ||zhzclbysg.com^
 ||zhzyw.com/js/InsertJS.js
+||zi3nna.xyz^
 ||zi8ivy4b0c7l.com^
 ||zibaweva.com^
 ||ziblo.cloud^
@@ -92796,6 +92809,7 @@
 ||zoltrl.xyz^
 ||zombiharshen.top^
 ||zombisarake.top^
+||zombyfairfax.com^
 ||zomcz.cyou^
 ||zona1.at.ua^
 ||zone.pornlovo.co^
@@ -98083,8 +98097,10 @@ cntronics.com##.ads970-90
 cntronics.com##.cnt-ads90
 cntv.cn##div[class^="tchmk_"]
 cnx-software.com###fixeddbar
+cnx-software.com##.fixedmbar
 cnx-software.com##.ghelpme
 cnx-software.com##.gno
+cnx-software.com##.gsangle
 cnx-software.com##.gvoodoo
 cnxz.cn###js_focusimg3
 cnxz.cn##.showad
@@ -104134,6 +104150,7 @@ justthenews.com##.video--container
 justthenews.com##.video--vdo-ai
 justthenews.com##.view--breaking-news-sponsored
 justthenews.com##div[class*="block-simple-blockad-"]
+justthenews.com,lenovo.com.cn,movieweb.com,screenrant.com##.video
 justwatch.com##.sponsored-recommendation
 juxia.com###fmt
 juxia.com##.game_img_list
@@ -104636,7 +104653,6 @@ lenovo.com.cn##div[id^="ad_bd_"]
 lenovo.com.cn##div[id^="ad_bd_"] + .ad-mark
 lenovo.com.cn#?#.imgNewText:-abp-has(>footer>.info>.source:-abp-contains(/广告/))
 lenovo.com.cn#?#a:-abp-has(>div>p:-abp-contains(广告))
-lenovo.com.cn,movieweb.com,screenrant.com##.video
 lenovo.com.cn,so.lenovo.com.cn##.AdSite
 leo.org###adv-wbanner
 leopathu.com###block-accuwebhostingcontenttop
@@ -107245,6 +107261,7 @@ pchome.net###rightbar
 pclady.com.cn##.mdxyAppEnter
 pcmacstore.com##.mobileHide
 pcmag.com###rmn-link
+pcmag.com##.zmgad-full-width
 pconline.com.cn###JBestRecomm
 pconline.com.cn###JdlFixed
 pconline.com.cn###JnoLoginFixedBottom
@@ -109446,6 +109463,7 @@ shmet.com##.spb-biz-cont
 shobiddak.com###homeShobiddakAds
 shockwave.com##.ympb_target_banner
 shoesession.com##iframe[width="732"]
+shoprite.com##[class^="CitrusBannerXContainer"]
 shoprite.com,thefreshgrocer.com##.CitrusBannerWrapper--enollj
 shortlist.com##.align-xl-content-between
 shortwaveschedule.com###reclama_mijloc
@@ -109468,6 +109486,7 @@ shushudu.com##[style*="width:"][style*="100%"],[style*="width:"][style*="99%"],[
 si.com###mmvid
 si.com##.l-inline.m-detail--feature-container
 si.com##.m-balloon-header--spacer
+si.com##.style_hfl21i-o_O-style_uhlm2
 si.com##[data-target="ad"]
 siasat.com###tie-block_3274
 siasat.com##.awt_ad_code
@@ -110845,6 +110864,7 @@ theinertia.com##.inertia-ad-300x270
 theinertia.com##.inertia-ad-300x600
 theinertia.com##.inertia-ad-label
 theinertia.com##.inertia-ad-top
+theinertia.com##[data-spotim-module="tag-tester"]
 theiphoneappreview.com##.frame
 theiphoneappreview.com##.widget_links
 thejakartapost.com##.expandable-bottom-sticky
@@ -133829,7 +133849,9 @@ zle.com$script
 ##.ad-panorama-outer-container
 ##.ad-parallax
 ##.ad-parallax-wrap
+##.ad-parent-billboard
 ##.ad-parent-class
+##.ad-parent-halfpage
 ##.ad-parent-hockey
 ##.ad-pb
 ##.ad-pc
