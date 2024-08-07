@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: usDsU4HqCo3cfRt0KV8ToQ
+! Checksum: C/e9SOz9mzoSylBfCaEDTA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240807002650
+! Version: 20240807093623
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-07 00:26:50
-! Total Count: 28570
+! Last modified: 2024-08-07 09:36:23
+! Total Count: 28573
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7248,6 +7248,7 @@
 ||fdswrgg.cn^
 ||fdtlfl.xyz^
 ||fdtrjz.xyz^
+||fdyacma.icu^
 ||fdytdc.xyz^
 ||feakio.top^
 ||fearfowl.com^$third-party
@@ -16942,6 +16943,7 @@
 ||widgets.outbrain.com^$domain=apkmirror.com
 ||wigglygeese.com^$third-party
 ||wigglyindustry.com^$third-party
+||wiixqm.xyz^
 ||wikigifth.com^
 ||wildcommittee.com^$third-party
 ||wildernesscamera.com^$third-party
@@ -17260,6 +17262,7 @@
 ||xflybplr.xyz^
 ||xfn1688.com^
 ||xfqrsjq.cn^
+||xfqynrp.cn^
 ||xfrahb.xyz^
 ||xfztgxt.com^
 ||xfzyun.com^
