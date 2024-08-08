@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: rnJGtog31N1ZnXm6WwQpmg
+! Checksum: 9vDpmZXXzbx1vzSHfKxuaQ
 ! Title: 混合规则(自动更新)
-! Version: 20240808162701
+! Version: 20240809002711
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-08 16:27:01
-! Total Count: 149402
+! Last modified: 2024-08-09 00:27:11
+! Total Count: 149413
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -12567,6 +12567,7 @@
 ||baijs02.xyz^
 ||baijs03.xyz^
 ||baijs04.shop^
+||baijs05.shop^
 ||baijs05.xyz^
 ||baijs06.xyz^
 ||baijs07.xyz^
@@ -25658,6 +25659,7 @@
 ||doujs03.shop^
 ||doujs03.xyz^
 ||doujs04.shop^
+||doujs05.shop^
 ||doujs05.xyz^
 ||doujs06.xyz^
 ||doujs07.xyz^
@@ -29765,6 +29767,7 @@
 ||f4cebacks.com^
 ||f4nfg.site^
 ||f5080f5cee5a00.com^
+||f54cd504.xyz^
 ||f55f5b7e4b.com^
 ||f59408d48d.com^
 ||f5e52a0d14.com^
@@ -37462,6 +37465,7 @@
 ||hh010.com/static/image/fff/
 ||hh6820123.com^
 ||hhaobcj.cn^
+||hhausq.top^
 ||hhb123.tk^
 ||hhbypdoecp.com^
 ||hhcktiucw.xyz^
@@ -45806,6 +45810,7 @@
 ||ktggbk.com^
 ||ktien.vn^
 ||ktienld.top^
+||ktikpuruxasq.com^
 ||ktkjmp.com^
 ||ktkkt.com/js/tvb/
 ||ktkvcpqyh.xyz^
@@ -53588,6 +53593,7 @@
 ||mwcvu.com^
 ||mwcxljdywq.com^
 ||mwemsias.com^
+||mwerilxx.top^
 ||mweriox.top^
 ||mwfdaciicqhyrj.com^
 ||mwfyab.icu^
@@ -56572,6 +56578,7 @@
 ||oalsauwy.net^
 ||oalselry.com^
 ||oalsoagn.com^
+||oaltusoamp.com^
 ||oamoatch.com^
 ||oamtorsa.net^
 ||oanimsen.net^
@@ -79565,6 +79572,7 @@
 ||tpdethnol.com^
 ||tpe163.com^
 ||tpeoplesho.info^
+||tpfgcdelscgfatf.com^
 ||tphcrjth.xyz^
 ||tpic.kszvmqo.cn^$third-party
 ||tpic.mhslbqk.cn^
@@ -88400,6 +88408,7 @@
 ||word168.cn^
 ||wordbodily.com^
 ||wordego.com^
+||wordfence.me^
 ||wordierkonak.com^
 ||wordingget.com^
 ||wordlockdown.com^
@@ -103444,6 +103453,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + script + script + div[id]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com#?##content_left > [class]:-abp-has(span[data-tuiguang])
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com#?##content_left > [style*="important"]
+ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com#?##content_left > div.result[data-cost]:has(.c-row > a[target="_blank"] > span:contains(腾讯广告))
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com#?##content_left > div:-abp-has(.ec-tuiguang)
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com#?##content_right > [class]:-abp-has(span[data-tuiguang])
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com#?##content_right > div:-abp-has(.ec-tuiguang)
@@ -144802,6 +144812,7 @@ zle.com$script
 ##[href^="http://www.fleshlightgirls.com/"]
 ##[href^="http://www.mypillow.com/"] > img
 ##[href^="https://ad.admitad.com/"]
+##[href^="https://ad1.adfarm1.adition.com/"]
 ##[href^="https://affect3dnetwork.com/track/"]
 ##[href^="https://affiliate.fastcomet.com/"] > img
 ##[href^="https://antiagingbed.com/discount/"] > img

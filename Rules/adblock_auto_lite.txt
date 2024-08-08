@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: MUfF2WYog/hyfuu8Eb391Q
+! Checksum: mu4gXYItLLxsK7mKEK9dzA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240808162713
+! Version: 20240809002722
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-08 16:27:13
-! Total Count: 28579
+! Last modified: 2024-08-09 00:27:22
+! Total Count: 28583
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4128,6 +4128,7 @@
 ||baijs02.xyz^
 ||baijs03.xyz^
 ||baijs04.shop^
+||baijs05.shop^
 ||baijs05.xyz^
 ||baijs06.xyz^
 ||baijs07.xyz^
@@ -6457,6 +6458,7 @@
 ||doujs03.shop^
 ||doujs03.xyz^
 ||doujs04.shop^
+||doujs05.shop^
 ||doujs05.xyz^
 ||doujs06.xyz^
 ||doujs07.xyz^
@@ -8527,6 +8529,7 @@
 ||hh.jiankang.com^
 ||hh010.com/static/image/fff/
 ||hh6820123.com^
+||hhausq.top^
 ||hhff111222.com^
 ||hhffks967.shop^
 ||hhffnu135.shop^
@@ -11718,6 +11721,7 @@
 ||mvxz.com/img/
 ||mw6.me/images/*.gif
 ||mwandlx.top^
+||mwerilxx.top^
 ||mweriox.top^
 ||mwfyab.icu^
 ||mwqucr.icu^
