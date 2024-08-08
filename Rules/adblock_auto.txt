@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4FdilaG6lWl6ApyNGSLMow
+! Checksum: rnJGtog31N1ZnXm6WwQpmg
 ! Title: 混合规则(自动更新)
-! Version: 20240808093538
+! Version: 20240808162701
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-08 09:35:38
+! Last modified: 2024-08-08 16:27:01
 ! Total Count: 149402
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
@@ -99014,7 +99014,7 @@ deccanherald.com#?#div#container-text:-abp-contains(ADVERTISEMENT)
 deccanherald.com#?#div:-abp-has(> div > .ad-background)
 deccanherald.com#?#div[style^="min-height"]:-abp-has(> div > div[id*="-ad-separator"])
 deccanherald.com#?#span.container-text:-abp-contains(ADVERTISEMENT)
-decider.com##.nyp-video-player
+decider.com,pagesix.com##.nyp-video-player
 deckstats.net###header_right_big
 decoist.com##.r300
 decrypt.co##.aspect-video
