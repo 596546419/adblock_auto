@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: CPwSqPaT0vnI+zHAssuE2g
+! Checksum: RODSjuAjbrzHdbHBThn9jA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240808002720
+! Version: 20240808093549
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-08 00:27:20
-! Total Count: 28575
+! Last modified: 2024-08-08 09:35:49
+! Total Count: 28579
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6859,6 +6859,7 @@
 ||eheuye.xyz^
 ||ehfjup.xyz^$third-party
 ||ehhjfgs.xyz^
+||ehmhqcn.cn^
 ||ehrhrrx.xyz^
 ||eht116.com^
 ||ei1s7b.cn^
@@ -9045,6 +9046,7 @@
 ||ih336.com^*a.js
 ||ihais.com^
 ||ihcxue.xyz^
+||ihgluu.xyz^
 ||ihhmh.com/mg/show
 ||ihwdun.xyz^
 ||ihwlek.com^
@@ -12140,6 +12142,7 @@
 ||nxhwvt.xyz^
 ||nxing.cn/uploads/uploads/*-size1220x
 ||nxledn.xyz^
+||nxrajr.xyz^
 ||nxtxxcm.xyz^
 ||nxxkxr.xyz^
 ||nyaa.*/static/js/ccheck.js
@@ -18010,6 +18013,7 @@
 ||yvwuesh.icu^
 ||ywg.jobui.com^
 ||ywhws.cn^
+||ywokwlx.icu^
 ||yx.tellenw.top^$image
 ||yx1.managershare.com^
 ||yxad.com/baidu/
