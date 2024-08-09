@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 9vDpmZXXzbx1vzSHfKxuaQ
+! Checksum: S1KVq5ORqRdpgXQikiS2Og
 ! Title: 混合规则(自动更新)
-! Version: 20240809002711
+! Version: 20240809093639
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-09 00:27:11
-! Total Count: 149413
+! Last modified: 2024-08-09 09:36:39
+! Total Count: 149447
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -418,6 +418,7 @@
 ||100ytrf.com^
 ||1010pic.com/scripts/hd/yueyue
 ||1010pic.com/static/js/allpc.js
+||1012197447.rsc.cdn77.org^
 ||1017.cn^
 ||101m3.com^
 ||102320fef81194c7b0c7c6bbe64d845d.com^
@@ -663,6 +664,7 @@
 ||13p76nnir.de^
 ||13txt.net/js/ssgdd.
 ||1406240621.rsc.cdn77.org^
+||1413531821.rsc.cdn77.org^
 ||1413879490.rsc.cdn77.org^
 ||1417571542.rsc.cdn77.org^
 ||1419560424.rsc.cdn77.org^
@@ -2059,6 +2061,7 @@
 ||45496fee.xyz^
 ||4567.org^$third-party
 ||456vdghgj30.dyndns.org^
+||45f2a90583.com^
 ||4602306b.xyz^
 ||46186911.vtt^
 ||46243b6252.com^
@@ -4496,6 +4499,7 @@
 ||absorptionsuspended.com^
 ||absors.com^
 ||abstaininquisitive.com^
+||abstortvarna.com^
 ||abstractedamount.com^$third-party
 ||abstractedauthority.com^$third-party
 ||absump.com^
@@ -7973,6 +7977,7 @@
 ||aisaipty.xyz^
 ||aisastore.club^
 ||aisdd.xyz^
+||aisgnetaoasorjn.com^
 ||aishaibe.com^
 ||aishan.shop^
 ||aishangcan.com^
@@ -10268,6 +10273,7 @@
 ||app.haraloyalty.com^
 ||app.harasocial.com^
 ||app.hstatic.net^
+||app.kuvio.io^
 ||app.leadsrx.com^
 ||app.monetrack.com^
 ||app.mybigc.net^
@@ -11108,6 +11114,7 @@
 ||associationwish.com^
 ||associazio.com^
 ||assoctrac.com^
+||assodbobfad.com^
 ||assoilrehboc.top^
 ||assortmentberry.com^
 ||assortmentcriminal.com^
@@ -11596,6 +11603,7 @@
 ||auspipe.com^
 ||austaihauna.com^
 ||austaits.xyz^
+||austeemsa.com^
 ||austere-familiar.com^
 ||austeritylegitimate.com^
 ||austow.com^
@@ -12068,6 +12076,7 @@
 ||ayverwe.cn^
 ||ayvfzwttm.com^
 ||aywikhsw.xyz^
+||aywivflptwd.com^
 ||ayxfqtxrgoc.com^
 ||ayxuadkeh.com^
 ||ayxz.com/images/$script
@@ -18454,6 +18463,7 @@
 ||chatheez.net^
 ||chatinator.com^
 ||chatintr.com^
+||chatmazeful.shop^
 ||chatntr.com^
 ||chats2023.online^
 ||chattedhelio.top
@@ -19634,6 +19644,7 @@
 ||clksite.com^
 ||clkslvmiwadfsx.xyz^
 ||clkstat.china.cn^
+||clkwnl.xyz^
 ||cllctr.any.run^
 ||clmbtech.com^
 ||clmbtrk.com^
@@ -22162,6 +22173,7 @@
 ||cubbingrebbes.com^
 ||cubchannel.com^$third-party
 ||cubchillysail.com^
+||cubeletrewater.shop^
 ||cubeslichees.com^
 ||cubeuptownpert.com^
 ||cubgeographygloomily.com^
@@ -23488,6 +23500,7 @@
 ||dearfiring.com^
 ||dearlyseedsad.com^
 ||dearlystoop.com^
+||deasandcomemunic.com^
 ||deatchshipsmotor.com^
 ||deathssm.com^
 ||deavynuotbrohw.xyz^
@@ -27663,6 +27676,7 @@
 ||ejnrvilfilnz.com^
 ||ejolul.xyz^
 ||ejpzqnqwcszfsz.com^
+||ejqsqmqohwav.com^
 ||ejrigxesvg.com^
 ||ejsfnpjxc.com^
 ||ejsgxapv.xyz^
@@ -37692,6 +37706,7 @@
 ||hiringairport.com^
 ||hirmatrix.hu^
 ||hirted.com^
+||hirtplbsryjyfb.com^
 ||hirurdou.net^
 ||hiseewhatmyou.xyz^
 ||hishopes.com^
@@ -42028,6 +42043,7 @@
 ||ityonatallco.info^
 ||ityou2tcdb.icu^
 ||ityusio.top^
+||itzajear.com^
 ||itzekromom.com^
 ||itzripkkdkfny.com^
 ||iu9g.top^
@@ -42810,6 +42826,7 @@
 ||jfhoq.com^
 ||jfiacyg.cn^$document
 ||jfiacyg.cn^$~third-party
+||jfiavkaxdm.com^
 ||jfixhuovpa.com^
 ||jfjle4g5l.com^
 ||jfjlfah.com^
@@ -46318,6 +46335,7 @@
 ||lahoo.ca/api.php?mod=ad&
 ||lahoo.ca/slider
 ||laichook.net^
+||laichsbedamns.com^
 ||laidapproximatelylacerate.com^
 ||laifu365.com^
 ||lailoasaiho.com^
@@ -53163,6 +53181,7 @@
 ||mryshl.com^
 ||mrysogsix.uno^
 ||mrywvxuf.com^
+||mryzroahta.com^
 ||mrzhao.life^
 ||mrzikj.com^
 ||ms*.applvn.com^
@@ -53268,6 +53287,7 @@
 ||mtjrhfww.com^
 ||mtjwxcdjierrmw.com^
 ||mtk.pub^
+||mtkgyrzfygdh.com^
 ||mtlog.droid4x.cn^
 ||mtlsari.cn^
 ||mtm.qdqmedia.com
@@ -56832,6 +56852,7 @@
 ||octclck.xyz^
 ||octinerep.com^
 ||octkuhwuvxarsk.xyz^
+||octmikvehs.com^
 ||octoatesamhain.com^
 ||octobergypsydeny.com^
 ||octobermindless.com^
@@ -59967,6 +59988,7 @@
 ||pegasuson.com^
 ||peggyhypoid.com^
 ||pegirs.com^
+||peglikedioecia.com^
 ||pegloang.com^
 ||pehlvl.xyz^
 ||peigbv.cn^
@@ -61097,6 +61119,7 @@
 ||pixels.afcdn.com^
 ||pixels.ingbank.com.tr^
 ||pixels.livingsocial.com^
+||pixels.spotify.com^
 ||pixelspivot.com^
 ||pixeltrack.clientgear.com^
 ||pixelzirkus.gameforge.com^
@@ -61724,6 +61747,7 @@
 ||poliesgoral.com^
 ||poligh.com^
 ||polishsimilarlybutcher.com^
+||polisnetwork.io^
 ||politegoldfish.com^$third-party
 ||politemischievous.com^
 ||politenesscalmantiquarian.com^
@@ -68087,6 +68111,7 @@
 ||rpawarcnm.com^
 ||rpe.co.il^
 ||rpeoehkaferf.com^
+||rpeutxu.icu^
 ||rpfytkt.com^
 ||rpjbtni186w9.shop^
 ||rpllrsbmhahj.com^
@@ -70803,6 +70828,7 @@
 ||shbfinanoe.com^
 ||shbfinans.com^
 ||shbkhuyenmai.com^
+||shbxugs.cn^
 ||shbzdkj.cn^
 ||shbzegs.cn^
 ||shbzkkj.cn^
@@ -71757,6 +71783,7 @@
 ||sightyiambs.com^
 ||sigilsspeiss.com^
 ||sigjuw.xyz^
+||sigloiexedent.com^
 ||signalassure.com^
 ||signalayer.com^
 ||signals.carrefoursa.com^
@@ -72514,6 +72541,7 @@
 ||smart.idmnet.pl^
 ||smart.sunporno.com^
 ||smart.tinyhoneybee.com/log/
+||smart1adserver.com^
 ||smart2cnjuh34jb.com^
 ||smartad.ee^
 ||smartadnetwork.net^
@@ -78169,6 +78197,7 @@
 ||thongtindonhang.com^
 ||thongwarily.com^
 ||thoobsix.xyz^
+||thoocheegee.xyz^
 ||thoogleeds.com^
 ||thoohizoogli.xyz^
 ||thoorest.com^
@@ -82479,6 +82508,7 @@
 ||unafeed.com^
 ||unairedcushite.com^
 ||unalzlt.top^
+||unamplespalax.com^
 ||unanac.com^
 ||unanimousbrashtrauma.com^
 ||unanimouslyrejectproperly.com^
@@ -83380,6 +83410,7 @@
 ||utci9.cn^
 ||utecsfi.com^
 ||uterinecordis.top^
+||utewyc.xyz^
 ||uthecrimorew.com^
 ||uthecrimorew.info^
 ||uthegrathapron.com^
@@ -83945,6 +83976,7 @@
 ||varyinginvention.com^
 ||varyingsnarl.com^
 ||vasb.cn^
+||vasclabimorph.com^
 ||vasebehaved.com^
 ||vasgenerete.com^
 ||vasgenerete.site^
@@ -84440,6 +84472,7 @@
 ||verseballs.com^$third-party
 ||versedarkenedhusky.com^
 ||versedeceitlocation.com^
+||versinehopper.com^
 ||versionlatticecheek.com^
 ||versionsfordisplay.com^
 ||versionslent.com^
@@ -92673,6 +92706,7 @@
 ||zjliloveyou.ixiunv.com^
 ||zjmmkjayjjazy.top^
 ||zjo0tjqpm1.com^
+||zjplnz.xyz^
 ||zjpwrpo.com^
 ||zjqs.shop^
 ||zjrnyrranjjay.top^
