@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: S1KVq5ORqRdpgXQikiS2Og
+! Checksum: PKn8aAgh3LertVtXniVhHA
 ! Title: 混合规则(自动更新)
-! Version: 20240809093639
+! Version: 20240809162712
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-09 09:36:39
-! Total Count: 149447
+! Last modified: 2024-08-09 16:27:12
+! Total Count: 149450
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -21946,6 +21946,7 @@
 ||crusilyparonym.com^
 ||cruthdivisi.life^
 ||crutop.nu^
+||crutvncf.top^
 ||crvbnac.xyz^
 ||crvxhuxcel.com^
 ||crwdcntrl.net^
@@ -104844,6 +104845,7 @@ lincolnshireworld.com,nationalworld.com##.helper__AdContainer-sc-12ggaoi-0
 line.me###install_line
 line.me##.midAdModule-root
 lineageos18.com###contentLocker
+linetv.tw##+js(no-xhr-if, pagead2.googlesyndication.com)
 linetv.tw##.aspect-ratio > img.object-cover + .aspect-ratio-content + div[class^="absolute inset-"][class*="bg-brand"]
 lingohut.com##.al-board
 lingojam.com###adsense-area-label
@@ -108701,6 +108703,7 @@ rappler.com##.rappler-ad-container
 rarbg.to,rarbgaccess.org,rarbgmirror.com,rarbgmirror.org,rarbgproxy.com,rarbgproxy.org,rarbgunblock.com,rarbgunblocked.org##a[href][target="_blank"] > button
 rarbg.to,rarbgaccess.org,rarbgmirror.com,rarbgmirror.org,rarbgproxy.com,rarbgproxy.org,rarbgunblock.com,rarbgunblocked.org##tr > td + td[style*="height:"]
 rare-videos.net##.embed-container
+rasmussenreports.com##.rr-ad-image
 raspberryexpert.com##[style*="border-bottom: none;"]
 raspberrytips.com###block-11
 raspians.com###block-31
