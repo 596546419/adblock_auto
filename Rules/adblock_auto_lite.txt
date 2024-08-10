@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: OWBBjY+e7MQSdaDeG9OXjw
+! Checksum: G+FV9BP64lkS4hLjB4Bl+A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240809162723
+! Version: 20240810093614
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-09 16:27:23
-! Total Count: 28588
+! Last modified: 2024-08-10 09:36:14
+! Total Count: 28592
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5759,6 +5759,7 @@
 ||crtlisf.top^
 ||crulxoits.com^$third-party
 ||crumpet.xxxpornhd.pro^
+||crutvncf.top^
 ||crvbnac.xyz^
 ||crxs.me/plugins/jquery.modal/
 ||crxs.me/scripts/my_
@@ -7786,6 +7787,7 @@
 ||gexing.com/j/??zmask.js,easing.js?
 ||gfan.com/press/
 ||gfbdb1.com^
+||gfchck.xyz^
 ||gfdfegg.cn^
 ||gfdfgfgr.cn^
 ||gfdgfhh.cn^
@@ -10259,6 +10261,7 @@
 ||knowmore.cc/style/head.js
 ||knpkxgfp.xyz^
 ||knuaxfv.cn^
+||knuinws.icu^
 ||knxvwxe.cn^
 ||knyjes.xyz^
 ||kochava.com^
@@ -16562,6 +16565,7 @@
 ||vikiporn.com/js/license.*.js
 ||vikiporn.com/plugin.js
 ||viladram.xyz^
+||vinsgcs.com^
 ||violetreading.com^$third-party
 ||viope.cyou^
 ||vioyugo.cn^
