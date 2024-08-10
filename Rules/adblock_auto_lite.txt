@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: G+FV9BP64lkS4hLjB4Bl+A
+! Checksum: xAL7kgAAO1sNG3taV7itqQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240810093614
+! Version: 20240810162526
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-10 09:36:14
-! Total Count: 28592
+! Last modified: 2024-08-10 16:25:26
+! Total Count: 28596
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8731,6 +8731,7 @@
 ||hrrjff.xyz^
 ||hrtinqj.cn^
 ||hrtlisu.top^
+||hrutvncu.top^
 ||hs.cnfol.com/Cm/Imgs/Load.gif
 ||hs640.com/js/jquery.js
 ||hsadeg.site^
@@ -10934,6 +10935,7 @@
 ||lveodaz.icu^
 ||lvjtiaa.xyz^
 ||lvnlrmn.xyz^
+||lvnzrh.xyz^
 ||lvphbj.xyz^
 ||lvrvdn.xyz^
 ||lvse.cn/output/block/html/
@@ -14475,6 +14477,7 @@
 ||sharppatch.com^$third-party
 ||shbear.com^*/ad/
 ||shbxugs.cn^
+||shbxukj.cn^
 ||shbzdkj.cn^
 ||shbzegs.cn^
 ||shbzkkj.cn^
@@ -25591,6 +25594,7 @@ zle.com$script
 ##.ads_desktop
 ##.ads_mobile
 ##.ads_plugin
+##.ads_topBanner
 ##.adsblocked
 ##.adsbyexoclick
 ##.adsbytrafficjunky

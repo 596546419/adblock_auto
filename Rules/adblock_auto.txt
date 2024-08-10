@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 26QH11g1MuUqgUD+6kunnw
+! Checksum: yTrGz4uA6GpvHLSICzutfQ
 ! Title: 混合规则(自动更新)
-! Version: 20240810093603
+! Version: 20240810162515
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-10 09:36:03
-! Total Count: 149465
+! Last modified: 2024-08-10 16:25:15
+! Total Count: 149494
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3091,6 +3091,7 @@
 ||7893com.com/img/*.gif
 ||789peizi.com^
 ||78a3dd3c86.com^
+||78b78ff8.xyz^
 ||78bk5iji.de^
 ||78dfvv.com^
 ||78dm.net.cn/acg_201*_250
@@ -8266,6 +8267,7 @@
 ||algat.intergoles.me^
 ||algg.site^
 ||algiczonated.top^
+||algistemigre.shop^
 ||algjqsuzialktg.com^
 ||algolduckan.com^
 ||algopine.com^
@@ -10949,6 +10951,7 @@
 ||ashamedbirchpoorly.com^
 ||ashamedtriumphant.com^
 ||ashameoctaviansinner.com^
+||ashasvsucocesis.com^
 ||ashcdn.com^
 ||ashhgo.com^
 ||ashierbowler.com^
@@ -14209,6 +14212,7 @@
 ||bhhzlax.xyz^
 ||bhiagi.xyz^
 ||bhicxb.cn^
+||bhijizlez.com^
 ||bhj691.com^
 ||bhj699.com^
 ||bhjuy10.com^
@@ -16212,6 +16216,7 @@
 ||buckeyekantars.com^
 ||buckonealodies.com^
 ||buckridge.link^
+||buckumoore.com^
 ||buckwheatchipwrinkle.com^
 ||bucojjqcica.com^
 ||budaicius.com^
@@ -16767,7 +16772,7 @@
 ||c.autohome.com.cn^
 ||c.bannerflow.net^
 ||c.bazo.io^
-||c.bigcomics.win^
+||c.bigcomics.bid^
 ||c.bigmir.net
 ||c.bigmir.net^
 ||c.blockdetector.org^
@@ -18486,6 +18491,7 @@
 ||chaulsan.com^
 ||chaumsee.net^
 ||chaunsoops.net^
+||chaupsoz.net^
 ||chaursug.xyz^
 ||chaussew.net^
 ||chautcho.com^
@@ -30739,6 +30745,7 @@
 ||fg-z.com^
 ||fg.knlk2md.cn^$third-party
 ||fgadsqdma.top^
+||fgbnnholonge.info^
 ||fgbthrsxnlo.xyz^
 ||fgcxdr.cn^
 ||fgddrrr.com^
@@ -38652,6 +38659,7 @@
 ||hrtya.com^
 ||hrtyc.com^
 ||hrtye.com^
+||hrutvncu.top^
 ||hrxjqyxvdqidpv.com^
 ||hs-analytics.net^
 ||hs-scripts.com^
@@ -41317,6 +41325,7 @@
 ||interstitial-08.com^
 ||interstitial-09.com^
 ||intervention304.fun^
+||intervention423.fun^
 ||interviewabonnement.com^
 ||interviewdegenerateperspective.com^
 ||interviewearnestlyseized.com^
@@ -42522,6 +42531,7 @@
 ||javporn.tv/wp-content/uploads/*.mp4
 ||javpornclub.com/images/banners/takefile72890.gif
 ||javpremium11.fun^
+||javtrouble11.fun^
 ||javtype.fun^
 ||jawholeminable.com^
 ||jawinfallible.com^
@@ -49377,6 +49387,7 @@
 ||lvnmzhhod.com^
 ||lvnnqdgxdlhj.com^
 ||lvntekpejrmtb.com^
+||lvnzrh.xyz^
 ||lvodomo.info^
 ||lvojjayaaovry.top^
 ||lvomenbxbyl.com^
@@ -51310,6 +51321,7 @@
 ||messagereceiver.com^
 ||messenger-notify.digital^
 ||messenger-notify.xyz^
+||messengeridentifiers.com^
 ||messengerinternfair.com^
 ||messiahspoot.com^
 ||messic.lol^
@@ -55785,6 +55797,7 @@
 ||nongfumg.com^
 ||nongjih.cn^
 ||nongjitong.com/adm/
+||nongrayrestis.com^
 ||nongsonx.uno^
 ||nongzhifu.cn^
 ||nongzhifu.cn^$third-party
@@ -65722,6 +65735,7 @@
 ||rambobf.com^
 ||rambunctiousvoyage.com^$third-party
 ||rameejour.com^
+||ramieuretal.com^
 ||rammagepatagia.com^
 ||rammersdarvon.com^
 ||rammishruinous.com^
@@ -66563,6 +66577,7 @@
 ||register.xmpush.xiaomi.com^
 ||registercanoeinvaded.com^
 ||registercherryheadquarter.com^
+||registration423.fun^
 ||reglazetentie.com^
 ||reglienquan.online^
 ||reglowsupbar.com^
@@ -70838,6 +70853,7 @@
 ||shbfinans.com^
 ||shbkhuyenmai.com^
 ||shbxugs.cn^
+||shbxukj.cn^
 ||shbzdkj.cn^
 ||shbzegs.cn^
 ||shbzkkj.cn^
@@ -72892,6 +72908,7 @@
 ||soalouve.com^
 ||soap-wash.com^
 ||soaperdeils.com^
+||soaphoupsoas.xyz^
 ||soapingbourgs.top^
 ||soaprange.com^$third-party
 ||soapsmoke.com^$third-party
@@ -80698,6 +80715,7 @@
 ||translationbuddy.com^
 ||translationerrandviolin.com^
 ||transmatico.com^
+||transmission423.fun^
 ||transmitterincarnatebastard.com^
 ||transmittermerchant.com^
 ||transportationdealer.com^
@@ -81295,6 +81313,7 @@
 ||ttnwxhjv.xyz^
 ||ttoc8ok.com^
 ||ttpybz.xyz^
+||ttquix.xyz^
 ||ttrace.ru^
 ||ttrcegmkccshey.com^
 ||ttrruq749.shop^
@@ -82889,6 +82908,7 @@
 ||unskilfulwalkerpolitician.com^
 ||unskilledexamples.com^
 ||unslimtugger.top^
+||unsnareparroty.com^
 ||unsoggynek.life^
 ||unspeakablefreezing.com^
 ||unspeakablepurebeings.com^
@@ -84638,6 +84658,7 @@
 ||viaeatsdhpt.com^
 ||viaexploudtor.com^
 ||viagogo.se^
+||viaklera.com^
 ||viam.com.vn^
 ||viamariller.com^
 ||vianadserver.com^
@@ -89336,6 +89357,7 @@
 ||xcar.com.cn/dsp/ad
 ||xcaukve.cn^
 ||xccadc.com^
+||xcdkxayfqe.com^
 ||xcdzsw.com^
 ||xcec.ru^
 ||xcejarignt.com^
@@ -92823,6 +92845,7 @@
 ||zmomo.cc^
 ||zmonei.com^
 ||zmwbrza.com^
+||zmyjessp.com^
 ||zn46.com/images/*0x
 ||znaptag.com^
 ||znavidsde.cfd^
@@ -99160,6 +99183,7 @@ deviantart.com##[style="width: 308px; height: 316px;"]
 dexdotexe.com##iframe[title="Top Games"]
 dexerto.com##.external\:bg-custom-ad-background
 dexerto.com##.inline-block
+dexerto.com##.lg\:min-h-\[290px\]
 dexerto.com##div[id^="dex-ad-"]
 dexerto.com##div[id^="jwplayer_"]
 dexscreener.com##.custom-1hol5du
@@ -99842,6 +99866,7 @@ ecosia.org##.ecolink-search-result
 ecosia.org##.product-ads-carousel
 ecosia.org##div[data-test-id="mainline-result-ad"]
 ecosia.org##div[data-test-id="mainline-result-productAds"]
+ecowatch.com##.ot-vscat-C0004
 ecpoc.com##.arcbodyad
 edarabia.com##.leaderboard-728
 edarabia.com##.mpu-300
@@ -108806,6 +108831,7 @@ reddxxx.com#?#.items-center:-abp-contains(/^ad$/)
 reddxxx.com#?#[role="gridcell"]:-abp-contains(/^AD$/)
 redferret.net###lb_wrap
 redferret.net##.redfads
+redgifs.com##.InfoBar
 redgifs.com##.LaPF7yJs
 redgifs.com##._advertWrapper_f9sfb_1
 redgifs.com##.placard-wrapper
@@ -110668,6 +110694,7 @@ techspot.com##.adContainerSide2
 techspot.com##.billboard_placeholder_home
 techspot.com##.billboard_placeholder_min
 techspot.com##.blu
+techspot.com##.es3s
 techspot.com##.google-ad
 techspot.com##.oneText
 techspot.com##.onejob
@@ -136578,6 +136605,7 @@ zle.com$script
 ##.ads_tit
 ##.ads_title
 ##.ads_top
+##.ads_topBanner
 ##.ads_top_1
 ##.ads_top_banner
 ##.ads_top_both
@@ -149468,6 +149496,7 @@ wiki.fextralife.com#@#.ad-sidebar
 wired.com#@#.advertisement__leaderboard
 wired.com#@#.box-radvert
 wnacg.com#@#.pcd_ad
+wnacg.com#@#.pcgg
 woego.cn#@##topAds
 wololo.net,russianusa.tarima.org,lebakcyber.net,ifdreamscametrue.com,nudes7.com,switch-xci.xyz,meganebuk.net,teknomuda.com,ps4pkg.com,iptv4best.com,topnewsshow.com,arknovelonline.com,intelligentliving.co,apkmaza.net,serie-novelas.com,outplayed.it,nulleb.com,oyuncusoruyor.com,picgiraffe.com,cgtips.org,teknomobil.net,locurainformaticadigital.com,p4fcourses.com,polskiedrogi-tv.pl,alltutorialsworld.com,racefans.net,csitalia.org,yildizscript.com,aulianza.com,pkmods.com,projetoscanlator.com,foxaholic.com,game-2u.com,easytutoriel.com,junaedialwi.com,otakuwire.com,techturf.in,turkceyama.net,xiaomitools.com,cfd.ninja,bwe.su,ebookscart.com,sciotocountydailynews.com,blogarti.com,labkom.co.id,muratisbilir.com.tr,torrentmafya.org,saberprogramas.com,smarteranalyst.com,movieknowing.com,10elol.it,app.poweradspy.com,money-sense.club,dailymockup.com,ciclosport.com,litecompare.com,tv-livestream.online,legendas.dev,megasubtitles.com,sexgayhot.com,jstranslations1.com,ggwptech.com,ultimate-catch.eu,animexin.xyz,xingkbjm.com,avoiderrors.com,freejavbt.com,butchixanh.com,desirefx.me,healthlytalks.com,androidride.com,v2rayssr.com,amote69.com,embetronicx.com,evileaks.su,freemockup.net,bozuyukhaberajansi.com,shatter-box.com,haberpop.com,techidence.com,edmtunes.com,textfonts.net,wotcheatmods.com,grafixfather.com,asia-mag.com,dellwindowsreinstallationguide.com,yolgunlukleri.net,archi3x.com,downloadbull.com,amirantivirus.com,spaziogames.it,modernvalueinvesting.de,shirokuns.com,hulblog.com,omgmusik.com,omglyrics.com,phpscripttr.com,kkpmh.vip,allmacworld.com,resource-pack.com,kindleku.com,biryoo.com,onurcici.com,variatkowo.pl,lauxanh.org,robloxscripts.com,filmboxoffice.web.id,satcesc.com,teamsaiyajin.it,stilearte.it,gidabilinci.com,ipeenk.com,hanimeku.com,hwzone.co.il,bilgidehasi.com,tyrocity.com,plugintorrent.com,pinsystem.co.uk,comando4kfilmes.com,trgamestudio.com,terrarium.com.pl,rikucan.com,3dzip.org,turreta.com,elevatortoday.com,canalbpv.com,thesimarchitect.com,desktophut.com,hackinformer.com,bookflare.org,earmilk.com,baomay01.com,chimicamo.org,landscapenature.pw,chromeba.net,learnsql.xyz,otobelgesel.com,ad4msan.win,mediasobytiya.com,bambusmann.de,kkphm.com,haohaiyo.cc,51kkp.club,gizchina.com,msguides.com,csonline2.net,airlive.net,arch2o.com,asianhobbyist.com,automobile-propre.com,barboflacmusic.com,celebsepna.com,civetta.tv,culture-informatique.net,dl-wordpress.com,dubs.top,faq.ph,filesrom.com,freepreset.net,gamesmagnet.net,gktoday.in,jimods.com,jimtechs.biz,jkmk.net,jppinto.com,keys4free.com,learncpponline.com,ovagames.com,pesupdate.com,phonandroid.com,precitaj.si,programegratuitepc.com,resource-packs.de,rushtime.in,scat.gold,soskidkami.ru,thefalse9.com,torrentmafya.net,tutsgalaxy.com,ucuzaucak.net,unblockedgamming.com,veezie.st,wallstreams.com,x265mkv.ws,z3x-team.com#@##adSense
 workercn.cn#@#.ad_main
