@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: za/ajj5RzvAHdD7D1KmOOQ
+! Checksum: pFD4aSPN98rhjuLn/Vjy1w
 ! Title: 混合规则(自动更新)
-! Version: 20240811002728
+! Version: 20240811094220
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-11 00:27:28
-! Total Count: 149545
+! Last modified: 2024-08-11 09:42:20
+! Total Count: 149556
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -12237,6 +12237,7 @@
 ||b32lx7qjk0.cn^
 ||b36a26f3ab.com^
 ||b37r5.cyou^
+||b395bfcd.xyz^
 ||b397db8f50.com^
 ||b3b526dee6.com^
 ||b3kyo0de1fr0.com^
@@ -24268,6 +24269,7 @@
 ||dgjyqdkxmxq.com^
 ||dgkajwnbrazepe.com^
 ||dgkmdia.com^
+||dgkship.icu^
 ||dglerduxehr.com^
 ||dgmaustralia.com^
 ||dgmaxinteractive.com^
@@ -40336,6 +40338,7 @@
 ||imgcdnbet.com^
 ||imgchili.net/media/image*.gif
 ||imgchili.net/media/top.gif
+||imgclh.com/imgs/2024/08/07/569cfb2f078e0c42.
 ||imgdb.cn/item/6059cb598322e6675c4ddcdc.gif
 ||imgdb.cn/item/60810d32563420b647bb110d.jpg
 ||imgdb.cn/item/6098ab56d1a9ae528f16192c.jpg
@@ -60374,6 +60377,7 @@
 ||pfjfrxayglyouj.com^
 ||pfjrusskan.com^
 ||pfjtgxc.cn^
+||pfkgl.top^
 ||pflexads.com^
 ||pflhnpu.cn^
 ||pflmikjx.com^
@@ -61741,6 +61745,7 @@
 ||poisonencouragement.com^
 ||poisonousamazing.com^
 ||poiwer.com^
+||pojdnf.xyz^
 ||pojihfnkbllg.net^
 ||pojjtt.xyz^
 ||pojuko.buzz^
@@ -70887,6 +70892,7 @@
 ||shbxukj.cn^
 ||shbzdkj.cn^
 ||shbzegs.cn^
+||shbzikj.cn^
 ||shbzkkj.cn^
 ||shbzlkj.cn^
 ||shbzngs.cn^
@@ -74031,6 +74037,7 @@
 ||srabwfqwjoc.com^
 ||sragegedand.org^
 ||srasylzu.com^
+||sravga.xyz^
 ||srbzw.cn^
 ||srcaunu.cn^
 ||srcsmrtgs.com^
@@ -83842,6 +83849,7 @@
 ||vaccinationwear.com^
 ||vaccineconvictedseafood.com^
 ||vaccinegrownparliamentary.com^
+||vacpukna.com^
 ||vacuomedogeys.com^
 ||vacwrite.com^
 ||vadideo.com^
@@ -89616,6 +89624,7 @@
 ||xhjxkgc.cn^
 ||xhkvff.cn^
 ||xhl161.com^
+||xhlkvx.xyz^
 ||xhlphpvgytyq.com^
 ||xhlzokzxoxykxf.com^
 ||xhmnbvn.com^
@@ -110850,6 +110859,7 @@ tgfcer.com##.portalbox
 tgfcer.com##div[id^="ad_thread"]
 tgstat.com##.r1-aors
 th7.cn##.main > .mb5
+thartribune.com##.adsbypubpower
 the-express.com###web-strip-banner
 the-express.com##[data-tb-non-consent]
 the-independent.com###taboola-mid-article-thumbnails-ii
@@ -122608,6 +122618,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /prebid7.
 /prebid8.
 /prebid8.$script
+/prebid9.
 /prebid?
 /prebidAdcall.
 /prebidLibrary.

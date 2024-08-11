@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Scc0UZL/vqCv9uiqdLfXTA
+! Checksum: fd0pGgAI3fiWtUIOKFNViA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240811002739
+! Version: 20240811094231
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-11 00:27:39
-! Total Count: 28598
+! Last modified: 2024-08-11 09:42:31
+! Total Count: 28605
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6217,6 +6217,7 @@
 ||dgfqqq.com^
 ||dghhot.com^
 ||dghkpp.xyz^
+||dgkship.icu^
 ||dgvkrt.xyz^
 ||dhaxhsa325.com^
 ||dheear.site^
@@ -9186,6 +9187,7 @@
 ||imgcacaca.vip^
 ||imgchili.net/media/image*.gif
 ||imgchili.net/media/top.gif
+||imgclh.com/imgs/2024/08/07/569cfb2f078e0c42.
 ||imgdb.cn/item/6098ab56d1a9ae528f16192c.jpg
 ||imgdb.cn^$domain=m4ff.com
 ||imgg.ksjuwqc.cn^
@@ -12635,6 +12637,7 @@
 ||pfhj89w.com^
 ||pfjfjid.xyz^
 ||pfjtgxc.cn^
+||pfkgl.top^
 ||pflexads.com^
 ||pfp.sina.com.cn^$script,subdocument
 ||pfp.sina.net/ea/ad/
@@ -12832,6 +12835,7 @@
 ||poiqwnekb.com^
 ||poisedpig.com^$third-party
 ||poiwer.com^
+||pojdnf.xyz^
 ||pojihfnkbllg.net^
 ||pojjtt.xyz^
 ||pojuko.buzz^
@@ -14481,6 +14485,7 @@
 ||shbxukj.cn^
 ||shbzdkj.cn^
 ||shbzegs.cn^
+||shbzikj.cn^
 ||shbzkkj.cn^
 ||shbzlkj.cn^
 ||shbzngs.cn^
@@ -14922,6 +14927,7 @@
 ||squealingturn.com^$third-party
 ||squeamishspot.com^$third-party
 ||squirrelhands.com^$third-party
+||sravga.xyz^
 ||srbzw.cn^
 ||sregfle.cn^
 ||srijbbzpx.xyz^
@@ -17301,6 +17307,7 @@
 ||xhgpuxim.xyz^
 ||xhi8.xyz^
 ||xhiit0n.xyz^
+||xhlkvx.xyz^
 ||xhnvgdkw.xyz^
 ||xhpghv.xyz^
 ||xhsdwjes.xyz^
