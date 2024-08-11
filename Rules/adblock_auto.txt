@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: RDvmnxTkHrr1NvAFss/KQQ
+! Checksum: SOzrCgpL7FMfyX+5PjrFdQ
 ! Title: 混合规则(自动更新)
-! Version: 20240811162416
+! Version: 20240812002458
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-11 16:24:16
-! Total Count: 149556
+! Last modified: 2024-08-12 00:24:58
+! Total Count: 149561
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -536,6 +536,7 @@
 ||119xiazai.com^$subdocument
 ||11a5ade414a6a4b9969685db9e96b193.com^
 ||11c7a3.xyz^
+||11dyw.com^
 ||11f1b925c4.com^
 ||11g1ip22h.de^
 ||11img.com/ad/
@@ -10384,6 +10385,7 @@
 ||applogs-v2.pixelfederation.com^
 ||applogs.pixelfederation.com^
 ||applovin.com^
+||applytics.nordvpn.com^
 ||appmateforbests.com^
 ||appmetr.com^
 ||appmetrica.yandex.com^
@@ -24865,6 +24867,7 @@
 ||disintegrateredundancyfen.com^
 ||disixs.com/js/app_wap.
 ||disixs.com/js/gg
+||diskaa.com^
 ||dislikequality.com^
 ||dislovebroody.com^
 ||disloyalmeddling.com^
@@ -41774,6 +41777,7 @@
 ||iruacwa.xyz^
 ||irufgmdewshgx.com^
 ||iruiotish.cfd^
+||irutvnco.top^
 ||irvato.com^
 ||irvingreeds.com^
 ||irxcm.com^
@@ -102482,6 +102486,7 @@ hihbt.com#?#.theiaStickySidebar > .widget_custom_html:has(> .textwidget > p a[ta
 hilltimes.com###locked-sponsored-stories-inline
 hilltimes.com###sp-mini-box
 hilltimes.com##.elementor-element-5818a09
+himovies.sx##[style="text-align: center; margin-bottom: 20px; margin-top: 20px;"]
 himovies.to,musichq.net##[href="https://zoro.to"]
 hindustantimes.com###affiliate-shop-now
 hindustantimes.com###divshopnowRight
