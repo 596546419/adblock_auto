@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: BCBp4CxQg+0UelgVNcSGrQ
+! Checksum: SW2ZdPYq3UgXkt95ijQ6hw
 ! Title: 混合规则(自动更新)
-! Version: 20240812162815
+! Version: 20240813002724
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-12 16:28:15
-! Total Count: 149557
+! Last modified: 2024-08-13 00:27:24
+! Total Count: 149565
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -12594,6 +12594,7 @@
 ||baijs04.shop^
 ||baijs05.shop^
 ||baijs05.xyz^
+||baijs06.shop^
 ||baijs06.xyz^
 ||baijs07.xyz^
 ||baijs08.xyz^
@@ -21354,6 +21355,7 @@
 ||counter.web.money^
 ||counter.webmart.de^
 ||counter.websiteout.net^
+||counter.wikiwiki.jp^
 ||counter.yandro.ru^
 ||counter.zerohedge.com^
 ||counter1.fc2.com^
@@ -25703,6 +25705,7 @@
 ||doujs04.shop^
 ||doujs05.shop^
 ||doujs05.xyz^
+||doujs06.shop^
 ||doujs06.xyz^
 ||doujs07.xyz^
 ||doujs08.xyz^
@@ -57403,6 +57406,7 @@
 ||oldulgk.cn^
 ||oleariaalgenib.com^
 ||olefinefraist.com^
+||olehdtv.com/index.php/index/userss|
 ||oleinironed.top^
 ||olelive.com/v1/pub/index/anchor/check/pc/e?
 ||olenation.org^
@@ -58916,6 +58920,7 @@
 ||ozardoog.net^
 ||ozationsuchasric.org^
 ||ozayvgkqpymt.com^
+||ozbnagojbop.com^
 ||ozdpxc.com^
 ||ozdq.cn^
 ||ozectynptd.com^
@@ -74515,6 +74520,7 @@
 ||static.meijiacun.com^
 ||static.mvot.vn^
 ||static.namethatporn.com/assets/prod/fab
+||static.olelive.com/upload/site/*/*.gif
 ||static.parsely.com^
 ||static.rongkao.com^
 ||static.rqmob.com/sa^
@@ -82057,6 +82063,7 @@
 ||uahpycewbx.com^
 ||uaiosio.top^
 ||uaiqp.top^
+||uakarisigneur.com^
 ||uakxkb.icu^
 ||uamobile.net^
 ||uamoctchgmkya.com^
@@ -94172,7 +94179,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 2345.com#?#.pic:-abp-has(a[href^="http://g.wan."])
 2345.com,duanwenxue.com###topHf
 247checkers.com###feature-ad-holder
-247media.com.ng,abmedia.io,aboutcrypto.info,appinn.com,appleworld.today,athleticsillustrated.com,businessaccountingbasics.co.uk,captainaltcoin.com,carrotchou.blog,circuitbasics.com,closerweekly.com,coincodecap.com,cozyberries.com,crickhabari.com,dbknews.com,deshdoaba.com,foreverconscious.com,glitched.online,globalgovernancenews.com,granitegrok.com,intouchweekly.com,jharkhandmirror.net,kashmirreader.com,kkfm.com,landiannews.com,laoliublog.cn,levittownnow.com,lifeandstylemag.com,londonnewsonline.co.uk,marqueesportsnetwork.com,mensjournal.com,nikonrumors.com,ognsc.com,patriotfetch.com,pctechmag.com,prajwaldesai.com,pstribune.com,raspians.com,robinhoodnews.com,rok.guide,rsbnetwork.com,showbiz411.com,spokesman-recorder.com,sportsspectrum.com,stacyknows.com,thecatholictravelguide.com,theoverclocker.com,therainbowtimesmass.com,thethaiger.com,ubuntu101.co.za,wakingtimes.com,washingtonmonthly.com,webscrypto.com,wgow.com,wgowam.com,wlevradio.com,woniuyulew.com,xingkbjm.com,zhain8.com##.widget_media_image
+247media.com.ng,abmedia.io,aboutcrypto.info,appinn.com,appleworld.today,athleticsillustrated.com,businessaccountingbasics.co.uk,captainaltcoin.com,carrotchou.blog,circuitbasics.com,closerweekly.com,coincodecap.com,cozyberries.com,crickhabari.com,dbknews.com,deshdoaba.com,developer-tech.com,foreverconscious.com,glitched.online,globalgovernancenews.com,granitegrok.com,intouchweekly.com,jharkhandmirror.net,kashmirreader.com,kkfm.com,landiannews.com,laoliublog.cn,levittownnow.com,lifeandstylemag.com,londonnewsonline.co.uk,marqueesportsnetwork.com,mensjournal.com,nikonrumors.com,ognsc.com,patriotfetch.com,pctechmag.com,prajwaldesai.com,pstribune.com,raspians.com,robinhoodnews.com,rok.guide,rsbnetwork.com,showbiz411.com,spokesman-recorder.com,sportsspectrum.com,stacyknows.com,thecatholictravelguide.com,theoverclocker.com,therainbowtimesmass.com,thethaiger.com,ubuntu101.co.za,wakingtimes.com,washingtonmonthly.com,webscrypto.com,wgow.com,wgowam.com,wlevradio.com,woniuyulew.com,xingkbjm.com,zhain8.com##.widget_media_image
 247mirror.com,365economist.com,bridewired.com,dailybee.com,drgraduate.com,historictalk.com,mvpmode.com,news-opossumsauce.com,parentmood.com,theecofeed.com,thefunpost.com,visualchase.com,wackojaco.com##.ya-slot
 247solitaire.com,247spades.com##div[class^="aspace-"]
 247sports.com##.minutely-wrapper
@@ -94519,7 +94526,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 4c.cn##div[id^="mid_ad"]
 4c.cn##div[id^="top_ad"]
 4chan.org###abc-cnt
-4chan.org,americaoutloud.com,analyticsindiamag.com,artificialintelligence-news.com,autoaction.com.au,cryptoreporter.info,dafont.com,forexmt4indicators.com,gamblingnewsmagazine.com,godradio1.com,irishcatholic.com,runnerstribe.com,tntribune.com,tryorthokeys.com##[width="728"]
+4chan.org,americaoutloud.com,analyticsindiamag.com,artificialintelligence-news.com,autoaction.com.au,cryptoreporter.info,dafont.com,developer-tech.com,forexmt4indicators.com,gamblingnewsmagazine.com,godradio1.com,irishcatholic.com,runnerstribe.com,tntribune.com,tryorthokeys.com##[width="728"]
 4chan.org,boards.4chan.org,boards.4channel.org##.danbo-slot
 4dayweek.io##.notadvert-tile-wrapper
 4f.to,furbooru.org###imagespns
@@ -110321,6 +110328,7 @@ standardmedia.co.ke##.border-thick-branding
 standardmedia.co.ke##.my-2
 staples.com##.SearchRootUX2__bannerAndSkuContainer
 staples.com##div[class^="sku-configurator__banner"]
+star-history.com##.fixed.right-0
 staradvertiser.com##.csMon
 starbaby.cn###top_ad_show
 starbaby.cn###yindex_ads
