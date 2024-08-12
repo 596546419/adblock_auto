@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: SOzrCgpL7FMfyX+5PjrFdQ
+! Checksum: 5YfWiTNQDX/8ypnHfWC8Pw
 ! Title: 混合规则(自动更新)
-! Version: 20240812002458
+! Version: 20240812093839
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-12 00:24:58
-! Total Count: 149561
+! Last modified: 2024-08-12 09:38:39
+! Total Count: 149588
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1481,6 +1481,7 @@
 ||2d77c9dd09.com^
 ||2d8bc293.xyz^
 ||2d941.site^
+||2d979880.xyz^
 ||2df0b2e308.com^
 ||2e4b7fc71a.com^
 ||2e754b57ca.com^
@@ -3533,6 +3534,7 @@
 ||91199a.xyz^
 ||9119fa4031.com^
 ||9129666tp.com^$domain=9xav.cc
+||9130ec9212.com^
 ||913mj.xyz^
 ||9159f9a13d.com^
 ||916cad6201.com^
@@ -3591,6 +3593,7 @@
 ||9377hi.com^
 ||9377ku.com^
 ||9377os.com^
+||938az.xyz^
 ||939394.xyz^$image
 ||93c398a59e.com^
 ||93savmobile-m.com^
@@ -4763,6 +4766,7 @@
 ||acqaghx.icu^
 ||acqc9.com^
 ||acqmeaf.com^
+||acquaintance423.fun^
 ||acquaintanceexemptspinach.com^
 ||acquaintanceinsaneinaudible.com^
 ||acquaintanceunbearablecelebrated.com^
@@ -5564,7 +5568,6 @@
 ||adfrontiers.com^
 ||adfsda005.xyz^$third-party
 ||adfstat.yandex.ru^
-||adfulplatform.com^
 ||adfun.ru^
 ||adfurikun.jp^
 ||adfusion.com^
@@ -6531,6 +6534,7 @@
 ||adsfac.us^
 ||adsfactor.net^
 ||adsfan.net^
+||adsfarm.site^
 ||adsfast.com^
 ||adsfcdn.com^
 ||adsfirm.com^
@@ -15059,6 +15063,7 @@
 ||bmjlzyjwwmbyr.top^
 ||bmjlzyjwwmwaw.top^
 ||bmjlzyjwwmwyk.top^
+||bmjrzfxpd.com^
 ||bmjs.xzw.com^
 ||bmjvrf.xyz^
 ||bmkmlweih.com^
@@ -16955,6 +16960,7 @@
 ||ca72472d7aee.com^
 ||ca9246.xyz^
 ||caa2c4.xyz^
+||caahwq.com^
 ||caaie.xyz^
 ||caajol.icu^
 ||caanalytics.com^
@@ -20960,6 +20966,7 @@
 ||continentcoaximprovement.com^
 ||continuallycomplaints.com^
 ||continuallyninetysole.com^
+||continuation423.fun^
 ||continue-installing.com^
 ||continue.com^
 ||continuedhostilityequipped.com^
@@ -23610,6 +23617,7 @@
 ||decreasetome.com^
 ||decreertenet.website^
 ||decrepitgulpedformation.com^
+||decstasc.com^
 ||decswci.com^
 ||dedcrfvdj.xyz^
 ||deddsunland.com^
@@ -24163,6 +24171,7 @@
 ||deybshwg.com^
 ||deyidesign.com^
 ||deyubo.uno^
+||dezhino.com^
 ||dezstd.xyz^
 ||df-long.cn^
 ||df-long.cn^$third-party
@@ -27354,6 +27363,7 @@
 ||eeco.xyz^
 ||eedsaung.net^
 ||eeeesss.xyz^
+||eeeuqvjsahxzw.com^
 ||eeevxvon.com^
 ||eeewax.de^
 ||eefa308edc.com^
@@ -28523,6 +28533,7 @@
 ||eqvudqracrhalsg.com^
 ||eqwyym.com/js/dom.js$third-party
 ||eqyarlabvqjnl.top^
+||eqygki.xyz^
 ||eqyzc.cyou^
 ||er.5ykj.cn^
 ||er.5ykj.com^
@@ -32048,6 +32059,7 @@
 ||fr191102203eura.click^
 ||fr191102204eura.click^
 ||fraagesport.com^
+||fractionfridgejudiciary.com^
 ||fractureboyishherring.com^
 ||fraer.cloud^
 ||fragment.firefoxchina.cn/html/
@@ -32559,6 +32571,7 @@
 ||fullypoignantcave.com^
 ||fulmenbosser.com^
 ||fulvenebocca.com^
+||fulylydevelopeds.com^
 ||fumarinpest.com^
 ||fumblingform.com^$third-party
 ||fumblingselection.com^$third-party
@@ -44343,6 +44356,7 @@
 ||jzpdjbpusgcbr.com^
 ||jzpvgldgtbpjb.com^
 ||jzpx.ltd^
+||jzqbyykbrrbkq.top^
 ||jzqbyykbrrobw.top^
 ||jzqbyykbrrykz.top^
 ||jzqbyykbrryll.top^
@@ -59284,6 +59298,7 @@
 ||pamury.xyz^
 ||pamwrymm.live^
 ||pan.baidu.com/act/api/activityentry?
+||panaceoutlash.com^
 ||panagiapivots.com^
 ||panamakeq.info^
 ||panaservers.com^
@@ -61214,6 +61229,7 @@
 ||pjtra.com^
 ||pjunnest.cyou^
 ||pjuulzj.cn^
+||pjuumyikooj.com^
 ||pjvartonsbewand.info^
 ||pjvunkjgh.com^
 ||pjwshrlhyjyhqu.xyz^
@@ -62685,6 +62701,7 @@
 ||presatisfy.com^
 ||presbanise.pw^
 ||presco.ai^
+||prescription423.fun^
 ||presentationathletefoundation.com^
 ||presentationbishop.com^
 ||presentationtracking.netflix.com^
@@ -64109,6 +64126,7 @@
 ||pwxtock.com^
 ||pwxueuocf.com^
 ||px*.mediahills.ru^
+||px.adfulplatform.com^
 ||px.adhigh.net^
 ||px.dmp.zaloapp.com^
 ||px.dynamicyield.com^
@@ -64464,6 +64482,7 @@
 ||qfisatztut.com^
 ||qfjherc.com^
 ||qfjsliy.top^
+||qfnimusv.com^
 ||qfnkzytwzfftnw.com^
 ||qfnoyix.cn^
 ||qfnvqalpgiriub.com^
@@ -64750,6 +64769,7 @@
 ||qlogo1.store.qq.com^
 ||qloved.cn^
 ||qlrpbdhwebzpf.com^
+||qlrsrkjloradq.com^
 ||qlrxmuvghs.com^
 ||qlspx.com:$third-party
 ||qlspx.com^
@@ -68477,6 +68497,7 @@
 ||ruidekatao.pw^
 ||ruigezx.com^
 ||ruigra.com^
+||ruinamylom.click^
 ||ruineddefectivecurb.com^
 ||ruinedpenal.com^
 ||ruinedpersonnel.com^
@@ -70618,6 +70639,7 @@
 ||sfg11rr.com^
 ||sfgprze.cn^$document
 ||sfgprze.cn^$~third-party
+||sfhkoghqvtigix.com^
 ||sfinwoyxjx.xyz^
 ||sfixretarum.com^
 ||sfjmj.com^
@@ -70897,6 +70919,7 @@
 ||shbzdkj.cn^
 ||shbzegs.cn^
 ||shbzikj.cn^
+||shbzjgs.cn^
 ||shbzkkj.cn^
 ||shbzlkj.cn^
 ||shbzngs.cn^
@@ -80979,6 +81002,7 @@
 ||trigscocos.com^
 ||trigub.ru^
 ||trikerboughs.com^
+||trikeunpured.com^
 ||trim-goal.com^
 ||trimpagkygg.com^
 ||trimpur.com^
@@ -87014,6 +87038,7 @@
 ||wdymwzz.com^
 ||we560.com/js/*.js
 ||weabalance.top^
+||weagehn.icu^
 ||weakcompromise.com^
 ||wealthextend.com^
 ||wealthsgraphis.com^
@@ -88378,6 +88403,7 @@
 ||wnjtssmha.com^
 ||wnkibwzr.com^
 ||wnllmyw.xyz^
+||wnlozhbeeh.com^
 ||wnmaoc.xyz^
 ||wnmoobz.icu^
 ||wnnbvnj.cn^
@@ -89532,6 +89558,7 @@
 ||xektyy.cn^
 ||xel-xel-fie.com^
 ||xelllwrite.com^
+||xeltq.com^
 ||xemiro.uno^
 ||xemphimviet.net^$third-party
 ||xenar.xyz^
@@ -92023,6 +92050,7 @@
 ||yzfrapd.xyz^
 ||yzgbsg.xyz^
 ||yzgid.cn^
+||yzhidqgudz.com^
 ||yzihdppw.xyz^
 ||yziwoidi.icu^
 ||yzjihang.cn^
@@ -102572,7 +102600,6 @@ hltv.org##.gg-firstcol-box
 hltv.org##.kN5UQvcU
 hltv.org##.mid-container
 hltv.org##.middle-container
-hltv.org##.night-only
 hltv.org##.parimatch-firstcol-box
 hltv.org##.playerOfTheWeekContainer
 hltv.org##.skinport
