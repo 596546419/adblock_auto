@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Ax64yRr164QNk6v7dcMp4Q
+! Checksum: Il57hDkJ+9HOuDG7h3ks9w
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240813093807
+! Version: 20240813162701
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-13 09:38:07
-! Total Count: 28621
+! Last modified: 2024-08-13 16:27:01
+! Total Count: 28623
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -15810,6 +15810,7 @@
 ||trafficjam.cn^$third-party
 ||trafficjunky.com^
 ||trafficjunky.net^
+||trafficmanager.net^$domain=xpshuku.com
 ||trafmag.com^
 ||traktum.com^
 ||trandgid.com^$third-party
@@ -17365,6 +17366,7 @@
 ||xilele.com^
 ||xilofr.xyz^
 ||ximad.com^
+||xinchl.xyz^
 ||xineurope.com/static/image/banner/
 ||xinfcw.com/js/layer1.js
 ||xingwangzz.com/123/
