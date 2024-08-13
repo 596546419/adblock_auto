@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: TZLhwApobJH85Y/zx8Mgzw
+! Checksum: lqtMwJ9tl4Zl9zaZny0WEA
 ! Title: 混合规则(自动更新)
-! Version: 20240813162649
+! Version: 20240814002631
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-13 16:26:49
-! Total Count: 149633
+! Last modified: 2024-08-14 00:26:31
+! Total Count: 149641
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -17731,6 +17731,7 @@
 ||cdn.ad-platform.jmty.jp^
 ||cdn.ad.page^
 ||cdn.adfenix.com^
+||cdn.ads-flipp.com^
 ||cdn.adswizz.com^
 ||cdn.adt356.com^
 ||cdn.adt357.net^
@@ -29004,6 +29005,7 @@
 ||event-listener.air.tv^
 ||event-logger.tagboard.com^
 ||event-reporting-dot-webylytics.appspot.com^
+||event-router.chime.com^
 ||event-router.olympics.com^
 ||event-search.jorte.com^
 ||event-service.letslinc.com^
@@ -45807,6 +45809,7 @@
 ||krurkex.com^
 ||krut.link^
 ||krutilka.net^
+||krutvncd.top^
 ||krxd.net^
 ||kryjqq.com^
 ||kryptografie.de/js/wb_dead.js$script
@@ -76666,6 +76669,7 @@
 ||t2lgo.com^
 ||t2zc6vo8zj2ch6sh6kvu5vq8cjz4iv8v2aj1ckjy8zktaj8vm6visk6als8l.me^
 ||t2zfyxjj.icu^
+||t3.cdnpure.com^
 ||t33ng.com^
 ||t34kk9.top^
 ||t3nlink.com^$third-party
@@ -78275,6 +78279,7 @@
 ||thkxtvklfdeget.com^
 ||thlnbzi.cn^
 ||thnqemehtyfe.com^
+||thnuvgme.icu^
 ||thoaltie.net^
 ||thoalugoodi.com^
 ||thoartuw.com^
@@ -83647,6 +83652,7 @@
 ||uueuxygn.com^
 ||uugtv.com/x/app/videoSpread?
 ||uuhptejwmvn.com^
+||uuiaoq.top^
 ||uuidksinc.net^
 ||uuishsa.com^
 ||uujtmrxf.xyz^
@@ -103345,6 +103351,8 @@ inaporn.com##.container > table[style="padding:20px 20px 0px;"] > tbody > tr > t
 inapps.appsflyersdk.com^
 inbox.com##.slinks
 inchcalculator.com##.results-ad-container-outer
+indaily.com.au##.h-\[100px\]
+indaily.com.au,kbjfree.com,posemaniacs.com##.h-\[250px\]
 independent.co.ug##img[width="320"]
 independent.co.uk##.bXYFQI.dAHemH
 independent.co.uk##.sc-hYYkYm
@@ -104464,7 +104472,6 @@ kbb.com##.ads__container
 kbb.com##.ads__container-kbbLockedAd
 kbjfree.com##.relative.w-full:has(> .video-card[target="_blank"])
 kbjfree.com##.w-\[728px\]
-kbjfree.com,posemaniacs.com##.h-\[250px\]
 kc.linksgen.com,kimcartoon.li,kisscartoon.se##[style="margin: 0px auto; text-align: center; overflow: hidden; width: 610px;"]
 kcra.com,ketv.com,kmbc.com,wcvb.com,wpbf.com,wtae.com##.slideshowCover
 kdhome.net###bottomadv
@@ -112024,6 +112031,7 @@ uk420.com###ipsLayout_sidebar > div[align="center"]
 uk420.com##.ipsLayout_container > div[align="center"]
 ukadultzone.com##.a--d-slot
 ukr.net##body > .yellow-die
+ukrinform.net##[style^="min-height: 280px;"]
 ukutabs.com###howtoreadbutton
 ukutabs.com##.wpb_raw_html
 ulmdb.cn

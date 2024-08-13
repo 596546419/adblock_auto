@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Il57hDkJ+9HOuDG7h3ks9w
+! Checksum: YVPhhYOc/L15VbA1l/0mKw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240813162701
+! Version: 20240814002643
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-13 16:27:01
-! Total Count: 28623
+! Last modified: 2024-08-14 00:26:43
+! Total Count: 28626
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -10336,6 +10336,7 @@
 ||krt.asycxtz.cn^
 ||krtlisd.top^
 ||krutilka.net^
+||krutvncd.top^
 ||kryjqq.com^
 ||kryptografie.de/js/wb_dead.js$script
 ||ksccqu.xyz^
@@ -15584,6 +15585,7 @@
 ||thisav.com/pop?url=
 ||thisav.video/v3/nb/
 ||thjwxz.xyz^
+||thnuvgme.icu^
 ||thomastorch.com^$third-party
 ||thpte.cn^
 ||threechurch.com^$third-party
@@ -16368,6 +16370,7 @@
 ||uu8811uu.com^
 ||uu9735uu.com^
 ||uugtv.com/x/app/videoSpread?
+||uuiaoq.top^
 ||uuishsa.com^
 ||uunfybw.cn^
 ||uunrkj.com^$document
