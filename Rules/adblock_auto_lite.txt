@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: IdeX534kN7wyOG/JgDj95A
+! Checksum: Ax64yRr164QNk6v7dcMp4Q
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240813002736
+! Version: 20240813093807
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-13 00:27:36
-! Total Count: 28617
+! Last modified: 2024-08-13 09:38:07
+! Total Count: 28621
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6564,6 +6564,7 @@
 ||dsg.reifporn.de^
 ||dshangyan.com/pc/advertising/
 ||dshapv.xyz^
+||dshjbn.xyz^
 ||dsjhcgvhjsvc.com^
 ||dsjkbcjsjkbvs.com^
 ||dskjbvzvs.com^
@@ -13240,6 +13241,7 @@
 ||pwuxnr.cn^
 ||pwxlbsie.icu^
 ||px.adhigh.net^
+||pxqqytk.icu^
 ||pxrs6.cn^
 ||pxtjfmv.xyz^
 ||pxx.tnklrs.cn^$third-party
@@ -14496,6 +14498,7 @@
 ||shbzegs.cn^
 ||shbzikj.cn^
 ||shbzjgs.cn^
+||shbzjkj.cn^
 ||shbzkkj.cn^
 ||shbzlkj.cn^
 ||shbzngs.cn^
@@ -17722,6 +17725,7 @@
 ||yclxrj.top^$third-party
 ||ycmgeb.icu^
 ||ycqbgm.xyz^
+||ycwuoq.xyz^
 ||ydazjxso.xyz^
 ||yddbysa.xyz^
 ||yddjmpjo.xyz^
