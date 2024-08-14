@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ZI/X2kzRwyiRjTgyexWQhw
+! Checksum: J9Au4de9Hj/+hk1wtWaggQ
 ! Title: 混合规则(自动更新)
-! Version: 20240814094006
+! Version: 20240814162724
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-14 09:40:06
-! Total Count: 149650
+! Last modified: 2024-08-14 16:27:24
+! Total Count: 149657
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -70942,6 +70942,7 @@
 ||shbzikj.cn^
 ||shbzjgs.cn^
 ||shbzjkj.cn^
+||shbzkgs.cn^
 ||shbzkkj.cn^
 ||shbzlkj.cn^
 ||shbzngs.cn^
@@ -74117,6 +74118,7 @@
 ||srtrak.com^
 ||srumifuroqkuoi.com^
 ||srurzn.cn^
+||srutvncb.top^
 ||sruzefwboxu.com^
 ||srv.dropkickmedia.com$third-party
 ||srv.dynamicyield.com^
@@ -83663,6 +83665,7 @@
 ||uuidksinc.net^
 ||uuishsa.com^
 ||uujtmrxf.xyz^
+||uumnxiet.top^
 ||uunfybw.cn^
 ||uunrkj.com^$document
 ||uunrkj.com^$~third-party
@@ -112808,6 +112811,7 @@ wenxuecity.com##+js(set-constant, adsbygoogle, noopFunc)
 wenxuecity.com##.otherposts > ul > li > a[target="_blank"]
 wenxuecity.com##.sidebar > .banners
 wenxuecity.com##.topbannerw
+wenxuecity.com##DIV[class^="Inarticle_"]
 wenxuecity.com##a[href^="http://bbs.wenxuecity.com/bbs/advpost/"]
 wenxuecity.com##a[href^="http://oascentral.wenxuecity.com/"]
 wenxuecity.com##label[style*="darkgrey"]
@@ -132281,7 +132285,10 @@ zle.com$script
 ###td_sponsorAd
 ###td_tpc > .ads
 ###team_ad
+###teaser1[style^="width:autopx;"]
+###teaser2[style^="width:autopx;"]
 ###teaser3
+###teaser3[style^="width:autopx;"]
 ###template_affiliates
 ###test333
 ###text-ad
