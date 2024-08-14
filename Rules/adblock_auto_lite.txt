@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: TZZbIbyBY7cCfxY9LGV04g
+! Checksum: 8NqCxYrZp+D8Z5Q57GUnBw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240814162736
+! Version: 20240815002953
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-14 16:27:36
-! Total Count: 28631
+! Last modified: 2024-08-15 00:29:53
+! Total Count: 28635
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -870,6 +870,7 @@
 ||58455540.com^$document
 ||58455540.com^$~third-party
 ||5888.tv/User_Ad/
+||5891344.xn--j1amh^
 ||58avgo.*/AirADPic/
 ||58cdn.com.cn/*.gif$domain=mmff30.com
 ||58cdn.com.cn/ds/tgbrand/*.js
@@ -14504,6 +14505,7 @@
 ||shbzikj.cn^
 ||shbzjgs.cn^
 ||shbzjkj.cn^
+||shbzkgs.cn^
 ||shbzkkj.cn^
 ||shbzlkj.cn^
 ||shbzngs.cn^
@@ -14955,6 +14957,7 @@
 ||srootshare.com/otmyjs/
 ||srtb.msn.cn^
 ||srtlisb.top^
+||srutvncb.top^
 ||srv.dropkickmedia.com$third-party
 ||srwwce.xyz^
 ||srzpsbf.xyz^
@@ -16376,6 +16379,7 @@
 ||uugtv.com/x/app/videoSpread?
 ||uuiaoq.top^
 ||uuishsa.com^
+||uumnxiet.top^
 ||uunfybw.cn^
 ||uunrkj.com^$document
 ||uunrkj.com^$~third-party
@@ -28483,7 +28487,7 @@ zle.com$script
 @@||frandroid.com/ads.js
 @@||free-reseau.fr/css/publicite.css|$stylesheet
 @@||freeporn8.com/nb/frot_lod.js
-@@||fundingchoicesmessages.google.com^$script,domain=hurriyet.com.tr
+@@||fundingchoicesmessages.google.com^$script,domain=hurriyet.com.tr|milliyet.com.tr
 @@||fusacq.com/javascript/advertising.js|$script
 @@||fxporn69.com^$generichide
 @@||gamaniak.com/js/check_adsense.js$script
