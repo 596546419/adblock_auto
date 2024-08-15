@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Zo38AirV5MGjfjm8hlGDCw
+! Checksum: fJ/+sV1hTOo36iS0hkLcbA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240815162651
+! Version: 20240816002718
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-15 16:26:51
-! Total Count: 28639
+! Last modified: 2024-08-16 00:27:18
+! Total Count: 28642
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5382,6 +5382,7 @@
 ||chunkycactus.com^$third-party
 ||chunmiaosh.com^
 ||chunyuqiufeng.com^
+||chunyuqiufeng.com^$third-party
 ||chusan.com/js/m*_
 ||chushoushijian.cn^
 ||chushoushijian.cn^$third-party
@@ -7031,6 +7032,7 @@
 ||ertgbme.com^
 ||ertlisw.top^
 ||erty0yx.com^
+||erutvncw.top^
 ||erutxdk.cn^
 ||es3984.review/02_cn_ad/
 ||esanciw.top^
@@ -12422,6 +12424,7 @@
 ||otxlhpm.xyz^
 ||otzovik.com/scripts/function/iri2.php?
 ||oueia.xyz^
+||oumnxiek.top^
 ||oursexasperationwatchful.com^
 ||ourusababy.com/bsj.js
 ||outbrain.com^$domain=wenxuecity.com

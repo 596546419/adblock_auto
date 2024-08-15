@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: jwwaFCVI2IJohWXHTlT8+Q
+! Checksum: Fzr13jS9B3JjkgZDmamcGw
 ! Title: 混合规则(自动更新)
-! Version: 20240815162640
+! Version: 20240816002706
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-15 16:26:40
-! Total Count: 149828
+! Last modified: 2024-08-16 00:27:06
+! Total Count: 149846
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -18995,6 +18995,7 @@
 ||chunmiaosh.com^
 ||chuntian.buzz^
 ||chunyuqiufeng.com^
+||chunyuqiufeng.com^$third-party
 ||chuongtrinhgionghaatvietnhii2021.weebly.com^
 ||chuongtrinhgionghatvietnamnhi2021.weebly.com^
 ||chuptuwais.com^
@@ -28193,6 +28194,7 @@
 ||engagefurnishedfasten.com^
 ||engagementdepressingseem.com^
 ||engagementpolicelick.com^
+||engagements.appsflyer.com^
 ||engagetosell.com^
 ||engageya.com^
 ||engaolnagual.com^
@@ -28691,6 +28693,7 @@
 ||erumen.com^
 ||erusenbspnty.com^
 ||eruthoxup.com^
+||erutvncw.top^
 ||erutxdk.cn^
 ||ervqqtdjdxvgh.com^
 ||erwgj.xyz^
@@ -31433,6 +31436,7 @@
 ||floralrichardapprentice.com^
 ||floraopinionsome.com^
 ||floristgathering.com^
+||floroonwhun.com^
 ||flossdiversebates.com^
 ||flossyarrayal.life^
 ||flotsanrantan.com^
@@ -36454,6 +36458,7 @@
 ||halidspilau.guru^
 ||halihali*.com/js/wap2-jm-ms.js?$script
 ||halileo.com^
+||hallanjerbil.com^
 ||halldata.com^
 ||halleyperson.pro^
 ||hallothoulap.top^
@@ -58613,6 +58618,7 @@
 ||oulukdliketo.shop^
 ||oumainseeba.xyz^
 ||oumazg.com^
+||oumnxiek.top^
 ||oumnxwvu.ink^
 ||oumpashy.net^
 ||oumtirsu.com^
@@ -59472,6 +59478,7 @@
 ||pannumregnal.com^
 ||panorama.wixapps.net^
 ||panoramicbutter.com^$third-party
+||panowiesnarled.click^
 ||panoz.xyz^
 ||panpan.org/js/google
 ||panpan.org/other/
@@ -67662,6 +67669,7 @@
 ||ridseechiph.com^
 ||ridwmorfitu.com^
 ||rieversfidate.com^
+||riffingwiener.com^
 ||riffledyanked.click^
 ||rifflingo.com^
 ||riffsablaze.uno^
@@ -69083,6 +69091,7 @@
 ||s2dcm.com^$third-party,script
 ||s2pops.club^
 ||s2rjtiki.com^
+||s2s.adjust.com^
 ||s2sterra.com^
 ||s2tu.com/images/*.gif
 ||s3-analytics-events.easybrain.com^
@@ -72481,6 +72490,7 @@
 ||skiingwights.com^
 ||skilfuljealousygeoffrey.com^
 ||skilfulrussian.com^
+||skilldicier.com^
 ||skilleadservices.com^
 ||skilledfixedoffers.com^
 ||skilledskillemergency.com^
@@ -85313,6 +85323,7 @@
 ||view-apple.com^
 ||view-flix.com^
 ||view-movies.co.il^
+||view.adjust.com^
 ||view.fujitv.co.jp^
 ||viewablemedia.net^
 ||viewagendaanna.com^
@@ -88957,6 +88968,7 @@
 ||wpunativesh.com^
 ||wpush.org^
 ||wpushorg.com^
+||wpwserawnuwq.com^
 ||wqasioxvqnj.com^
 ||wqcfg.cn^
 ||wqdao.com/tu/
@@ -92476,6 +92488,7 @@
 ||zbwp6ghm.com^$third-party
 ||zbx01.com^
 ||zbxtcwi.xyz^
+||zbysshlpgvl.com^
 ||zbyynuew9g.ru^
 ||zbzbzb.xyz^
 ||zbzbzzz.top^
@@ -105287,10 +105300,13 @@ livejournal.com##[style$="width: 300px;"]
 livejournal.com##div[data-google-query-id]
 livelaw.in###news_on_exit
 livelaw.in##.modal_wrapper_frame
+livemint.com###adfreeDeskSpace
+livemint.com##.budgetBox
 livemint.com##.eclt-rsttble
 livemint.com##.leftblockAd
 livemint.com##.rhsWidgetNotAdFree
 livemint.com##.rightAdNew
+livemint.com##.rightblockAd
 livemint.com##.storyPage_storyblockAd__r4wwE
 livemint.com##.trendingSimilarHeight
 liverpoolecho.co.uk,manchestereveningnews.co.uk##.teaser[data-tmdatatrack-source="SHOP_WINDOW"]
@@ -106864,6 +106880,7 @@ news.baidu.com##.recommend-mask
 news.baidu.com##.swipe-backflow-container
 news.baidu.com#?#.index-list-item:-abp-has(.tip-time:-abp-contains(广告))
 news.bitcoin.com##.sc-cpornS
+news.bloomberglaw.com##.HeaderAdSpot_height_1B2M2
 news.china.com.cn##.Wrapper > div[style]
 news.cn2che.com##.banner01
 news.ebc.net.tw###marquee-box
@@ -111371,6 +111388,7 @@ thepinknews.com##.video-player__container
 thepiratebay.org###meta-right
 thepiratebay3.to##.download_buutoon
 thepointsguy.com##.beam-card-feature
+thepointsguy.com##.cardWidget
 thepointsguy.com##.favorite-cards
 thepointsguy.com##.showBb
 thepointsguy.com##[aria-label="Advertisement"]
