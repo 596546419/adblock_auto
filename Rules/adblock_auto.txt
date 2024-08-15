@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: F0ZzbCBHiDtltdPpQvqUpg
+! Checksum: CnPbH9YU2NB0E/eOqiTF5g
 ! Title: 混合规则(自动更新)
-! Version: 20240815002942
+! Version: 20240815092507
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-15 00:29:42
-! Total Count: 149810
+! Last modified: 2024-08-15 09:25:07
+! Total Count: 149825
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2486,6 +2486,7 @@
 ||5dmail.net/image/ad_
 ||5dmail.net/js/
 ||5dydk.com^
+||5e1b8e9d68.com^
 ||5e6ef8e03b.com^
 ||5eb6d14cbe.com^
 ||5eef1ed9ac.com^
@@ -4449,6 +4450,7 @@
 ||absolvecarriagenotify.com^
 ||absolvehostkilled.com^
 ||absolveparticlesanti.com^
+||absolvewednesday.com^
 ||absorbedscholarsvolatile.com^
 ||absorbedswept.com^
 ||absorbingband.com^$third-party
@@ -7044,6 +7046,7 @@
 ||advpy.com^
 ||advpz.com^
 ||advrush.com^
+||advscdn.com^
 ||advserver.cgv.vn^
 ||advservert.com^
 ||advsmedia.net^
@@ -15590,6 +15593,7 @@
 ||bowlpromoteintimacy.com^
 ||bowlsolicitor.com^
 ||bowmoolog.com^
+||bowoprf.icu^
 ||bowtellwhincow.cfd^
 ||box.rus.porn^
 ||box.zap.com.br^
@@ -17917,6 +17921,7 @@
 ||cdn28786515.ahacdn.me^
 ||cdn2cdn.me^
 ||cdn2reference.com^
+||cdn2up.com^
 ||cdn3.cartoonporn.to^
 ||cdn3.hentaihaven.fun^
 ||cdn3reference.com^
@@ -37922,6 +37927,7 @@
 ||hjiwoazeigefn.com^
 ||hjjevg.com^
 ||hjjkk66.xyz^
+||hjjpsotb.com^
 ||hjjshv.xyz^
 ||hjkiguy.com^
 ||hjkkindwould.xyz^
@@ -38742,6 +38748,7 @@
 ||hrtyc.com^
 ||hrtye.com^
 ||hrutvncu.top^
+||hruwegwayoki.com^
 ||hrxjqyxvdqidpv.com^
 ||hs-analytics.net^
 ||hs-scripts.com^
@@ -42640,6 +42647,7 @@
 ||javpremium11.fun^
 ||javtrouble11.fun^
 ||javtype.fun^
+||javunaware11.fun^
 ||jawholeminable.com^
 ||jawinfallible.com^
 ||jawlookingchapter.com^
@@ -43762,6 +43770,7 @@
 ||jrjimg.cn/common/foot/allfc.js
 ||jrjimg.cn/common/foot/wxXcxTg.js
 ||jrjimg.cn/stock/adjsok.js
+||jrjtibez.icu^
 ||jrkbnvkrvamky.top^
 ||jrkkcssob.com^
 ||jrkkmpeqtlsawgf.com^
@@ -59047,6 +59056,7 @@
 ||ozationsuchasric.org^
 ||ozayvgkqpymt.com^
 ||ozbnagojbop.com^
+||ozbvlfiggzpxb.com^
 ||ozdpxc.com^
 ||ozdq.cn^
 ||ozectynptd.com^
@@ -66087,6 +66097,7 @@
 ||raverduhat.top^
 ||ravineagencyirritating.com^
 ||ravingsquilted.top^
+||ravm.tv^
 ||ravqaroffn.com^
 ||ravzbd.xyz^
 ||raw-co.com^
@@ -69390,6 +69401,7 @@
 ||santosmiddle.com^
 ||santou20230127.live^
 ||santtacklingallaso.com^
+||santuao.xyz^
 ||saohu*.com/config/json/cctv.json?
 ||saokenganhangvn.com^
 ||sap-traffic.com^
@@ -71068,6 +71080,7 @@
 ||shbxukj.cn^
 ||shbzdkj.cn^
 ||shbzegs.cn^
+||shbzhkj.cn^
 ||shbzikj.cn^
 ||shbzjgs.cn^
 ||shbzjkj.cn^
@@ -74814,7 +74827,6 @@
 ||stats.766.com^
 ||stats.abbi.io^
 ||stats.administrarweb.es^
-||stats.afrocave.com^
 ||stats.agrar.nu^
 ||stats.aplus.com^
 ||stats.articlesbase.com^
@@ -79359,6 +79371,7 @@
 ||toawaups.net^
 ||toawhulo.com^
 ||tobaccocentgames.com^
+||tobaccoearnestnessmayor.com^
 ||tobaitsie.com^
 ||tobaltoyon.com^
 ||tobapplog.ctobsnssdk.com^
@@ -88602,6 +88615,7 @@
 ||wnrrhcyok.xyz^
 ||wnrusisedprivatedq.info^
 ||wnrvrwabnxa.com^
+||wnstug.xyz^
 ||wnt-s0me-push.net^
 ||wnt-some-psh.net^
 ||wnt-some-push.com^
@@ -88966,7 +88980,6 @@
 ||wqzqoobqpubx.com^
 ||wqzyxxrrep.com^
 ||wr.yiyouliao.com^
-||wranalytics.wildrocket.io^
 ||wrangleprickly.com^
 ||wrapdime.com^
 ||wrappeddimensionimpression.com^
@@ -91473,6 +91486,7 @@
 ||yjtag.jp^
 ||yjuxkncvy.com^
 ||yjvuthpuwrdmdt.xyz^
+||yjvyyndre.com^
 ||yjxhxctqq.com^
 ||yjxzvqy.xyz^
 ||yjyc-ask.com/res/ads/
@@ -93247,6 +93261,7 @@
 ||zoukooso.com^
 ||zouloafi.net^
 ||zouqiuyyds.com^
+||zoustara.net^
 ||zoute.cyou^
 ||zoutubephaid.com^
 ||zoutufoostou.com^
@@ -104775,7 +104790,7 @@ knowyourmeme.com##.combo-wrapper
 knowyourmeme.com##.header-unit-wrapper
 knowyourmeme.com##.incontent-leaderboard-unit-wrapper
 knowyourmeme.com##.rectangle-unit-wrapper
-kob.com,kstp.com###Header_1
+kob.com,kstp.com,whec.com###Header_1
 kobi8.com###fixed-left
 kobi8.com###fixed-right
 kocpc.com.tw###scroll_div
@@ -124197,7 +124212,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /widgetad.
 /widgetadsense.
 /widgets/ads.
-/widgets/exo$domain=mangapanda.com|memecenter.com|mangareader.net|animeland.tv|animetoon.org|goodanime.co|animeplus.tv|animeflv.net|toonova.net|gogoanime.in|kiss-anime.me|kimcartoon.me
+/widgets/exo$domain=agoodanime.co|animeflv.net|animeland.tv|animeplus.tv|animetoon.org|gogoanime.in|goodanime.co|kimcartoon.me|kiss-anime.me|mangapanda.com|mangareader.net|memecenter.com|toonova.net
 /widgets/sponsored/*
 /windowwap_*_*_*.js?$script,third-party
 /wipeads/*

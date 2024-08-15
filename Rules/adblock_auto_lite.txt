@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 8NqCxYrZp+D8Z5Q57GUnBw
+! Checksum: EHgk651eSzyynE1QLuNy2A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240815002953
+! Version: 20240815092519
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-15 00:29:53
-! Total Count: 28635
+! Last modified: 2024-08-15 09:25:19
+! Total Count: 28639
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4685,6 +4685,7 @@
 ||boundarybusiness.com^$third-party
 ||boundlessveil.com^$third-party
 ||bovhzz.xyz^
+||bowoprf.icu^
 ||boxwcr.icu^
 ||boyidianqi.com.cn^
 ||boylov.xyz^*/img/20*.gif
@@ -9818,6 +9819,7 @@
 ||jrjimg.cn/common/foot/allfc.js
 ||jrjimg.cn/common/foot/wxXcxTg.js
 ||jrjimg.cn/stock/adjsok.js
+||jrjtibez.icu^
 ||jrltdiu.cn^
 ||jrmianban.com/img/images/g-g/
 ||jrmrijv.icu^
@@ -14502,6 +14504,7 @@
 ||shbxukj.cn^
 ||shbzdkj.cn^
 ||shbzegs.cn^
+||shbzhkj.cn^
 ||shbzikj.cn^
 ||shbzjgs.cn^
 ||shbzjkj.cn^
@@ -17072,6 +17075,7 @@
 ||wnmoobz.icu^
 ||wnnbvnj.cn^
 ||wnootzc.icu^
+||wnstug.xyz^
 ||wnzle.com^
 ||woaidu.org/images/20180802/3.jpg
 ||wocoqs.xyz^
