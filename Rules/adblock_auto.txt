@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: CnPbH9YU2NB0E/eOqiTF5g
+! Checksum: jwwaFCVI2IJohWXHTlT8+Q
 ! Title: 混合规则(自动更新)
-! Version: 20240815092507
+! Version: 20240815162640
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-15 09:25:07
-! Total Count: 149825
+! Last modified: 2024-08-15 16:26:40
+! Total Count: 149828
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -10149,6 +10149,7 @@
 ||api.pubfinity.com^
 ||api.publytics.net^
 ||api.receptivity.io^
+||api.rudderstack.com^
 ||api.sdffwef11.com^
 ||api.sec.miui.com^
 ||api.setting.intl.miui.com^
@@ -110167,6 +110168,8 @@ smartandfinal.com,weismarkets.com##citrus-ad-wrapper
 smartasset.com##.riklam-container
 smartasset.com##.top-banner-ctr
 smarter.com##.favboxmiddlesearch
+smartertravel.com###above-the-fold-leaderboard
+smartertravel.com###below-the-fold-leaderboard
 smartprix.com##.dadow-box
 smartprix.com##sm-dap
 smashingmagazine.com##.c-promo-box
