@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: JguH72Sz3+cjb5WpCVYaFw
+! Checksum: xE1DoMwSglFY5mnQnMhGfg
 ! Title: 混合规则(自动更新)
-! Version: 20240816162742
+! Version: 20240817002838
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-16 16:27:42
-! Total Count: 149872
+! Last modified: 2024-08-17 00:28:38
+! Total Count: 149904
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -242,6 +242,7 @@
 ||0940088.com^
 ||0941.org^
 ||096iokj.com^
+||09745951.xyz^
 ||097be55da0.com^
 ||09b074f4cf.com^
 ||09b1fcc95e.com^
@@ -10890,6 +10891,7 @@
 ||asdfasdasd9987.co^
 ||asdfdr.cfd^
 ||asdffe22.com^
+||asdfix.com^
 ||asdji2.cn^
 ||asdkfefanvt.com^
 ||asdpoi.com^
@@ -11719,6 +11721,7 @@
 ||avazudsp.net^
 ||avazunativeads.com^
 ||avazutracking.net^
+||avbulb3431.fun^
 ||avcao.cc/js/p.js
 ||avcity.twavtv.com/iframe/
 ||avdao.pw/dist/js/sc_check
@@ -11745,6 +11748,7 @@
 ||aveugleghettos.top^
 ||avevofipnqobi.com^
 ||avfay.com^
+||avgive3431.fun^
 ||avgle.topgirlsdating.com^$domain=avgle.com
 ||avglfookdjuj.com^
 ||avgsco.xyz^
@@ -12582,6 +12586,7 @@
 ||baijs05.xyz^
 ||baijs06.shop^
 ||baijs06.xyz^
+||baijs07.shop^
 ||baijs07.xyz^
 ||baijs08.xyz^
 ||baikalize.com^
@@ -13414,7 +13419,6 @@
 ||beacon-1.newrelic.com^
 ||beacon-api.aliyuncs.com^
 ||beacon-fullpage-predictor.goguardian.com^
-||beacon-v2.helpscout.net^
 ||beacon.adelphic.com^
 ||beacon.affil.walmart.com^
 ||beacon.aimtell.com^
@@ -14792,6 +14796,7 @@
 ||blacktri-a.akamaihd.net^
 ||blacktri.com^
 ||blacurlik.com^
+||bladespanel.com^
 ||bladessweepunprofessional.com^
 ||bladesteenycheerfully.com^
 ||bladswetis.com^
@@ -16870,6 +16875,7 @@
 ||c212a79d53.com^
 ||c2370c7aa8.com^
 ||c24c966867.com^
+||c26817682b.com^
 ||c2a0076d.xyz^
 ||c2aef8ab51.com^
 ||c2c24.pl^
@@ -23131,6 +23137,7 @@
 ||darzeegobble.com^
 ||darzkrx.cn^
 ||dascasdw.xyz^
+||dasdujaosjdioad.com^
 ||dasensiblem.org^
 ||dasesiumworkhovdimi.info^
 ||dasfelynsaterr.win^
@@ -26096,6 +26103,7 @@
 ||drownbossy.com^
 ||drownedhurling.com^
 ||drowrenomme.com^
+||drpggagxsz.com^
 ||drpsjp.xyz^
 ||drrzzl.cn^
 ||drsmediaexchange.com^
@@ -26650,6 +26658,7 @@
 ||dyntrk.com^
 ||dyoiqojlyntvy.com^
 ||dyptanaza.com^
+||dyqjndui.com^
 ||dyscb.cn^$third-party
 ||dysenteryappeal.com^
 ||dysful.com^
@@ -35634,6 +35643,7 @@
 ||groupyammer.top^
 ||grourded.net^
 ||groutf.com^
+||groutoozy.com^
 ||groutsfaham.top^
 ||grova.buzz^
 ||grova.xyz^
@@ -35749,6 +35759,7 @@
 ||gstatic.com/shopping?q=tbn$image,domain=rocketnews24.com|youpouch.com|soranews24.com
 ||gstats.cn^
 ||gsurihy.com^
+||gsuwrjqqfm.com^
 ||gsuxyg.xyz^
 ||gswinnodf.com^
 ||gswtol.com^
@@ -37286,6 +37297,7 @@
 ||helmethopeinscription.com^
 ||helmetregent.com^
 ||helmfireworkssauce.com^
+||helmpa.xyz^
 ||helmregardiso.com^
 ||heloisessa.com^
 ||helpcollar.com^$third-party
@@ -37921,6 +37933,7 @@
 ||hjalma.com^
 ||hjammiz.icu^
 ||hjapi.com/v1/pageSoftText?
+||hjcjymkto.com^
 ||hjdha.cn^
 ||hjdkvt.xyz^
 ||hjfile.cn/analytics/site/TrackEvent.js
@@ -40512,6 +40525,7 @@
 ||imitrk.com^
 ||imk.neweggimages.com^
 ||imkbgfcnd.com^
+||imkmurrvm.com^
 ||imks.cn^
 ||immaculategirdlewade.com^
 ||immaculaterepair.pro^
@@ -41357,6 +41371,7 @@
 ||intelligencefocus.com^
 ||intelligenceretarget.com^
 ||intelligentcombined.com^
+||intelligentjump.com^
 ||intelligentscissors.com^$third-party
 ||intellipopup.com^
 ||intellitxt.com^
@@ -42491,6 +42506,7 @@
 ||jacquelinelaura.com^
 ||jacsmuvkymw.com^
 ||jactantsplodgy.com^
+||jacwkbauzs.com^
 ||jadcenter.com^
 ||jadedhide.pro^
 ||jadedjoke.com^$third-party
@@ -42944,6 +42960,7 @@
 ||jetx.info^
 ||jevlcjc.cn^
 ||jevwdao.cn^
+||jewadvaj.com^
 ||jewelbeeperinflection.com^
 ||jewelcampaign.com^
 ||jewelstastesrecovery.com^
@@ -44774,6 +44791,7 @@
 ||kd1s.icu^
 ||kdata.fr^
 ||kdbumyha.com^
+||kdczhmain.com^
 ||kdegznb.cn^
 ||kdeh.cn^
 ||kdfjabv.com^
@@ -45690,6 +45708,7 @@
 ||kolkwi4tzicraamabilis.com^
 ||kollnkjxtg.xyz^
 ||kolobusbeseam.space^
+||kologyrtyndwean.info^
 ||kolqhaaxhk.com^
 ||kolsh.cn^
 ||kolsh.cn^$third-party
@@ -46078,6 +46097,7 @@
 ||kunidaotno.xyz^
 ||kunlunshitou.com^
 ||kunner.wiesentbote.de^
+||kunnmvyftzgzvi.com^
 ||kunpeng-sc.csdnimg.cn/?timestamp=$subdocument,domain=blog.csdn.net
 ||kunvertads.com^
 ||kunyun*.com/xiwang/fumeiti.js
@@ -57361,6 +57381,7 @@
 ||ohoycaline.com^
 ||ohpgamsojj.com^
 ||ohqcrifmugat.com^
+||ohqduxhcuab.com^
 ||ohrdsplu.com^
 ||ohrkihivhtz.com^
 ||ohsatum.info^
@@ -62652,6 +62673,7 @@
 ||pqidjvomaowiww.com^
 ||pqjeoqa.cn^
 ||pqjprom.cn^
+||pqjqtewve.com^
 ||pqldzp.xyz^
 ||pqnnjjpzarpb.com^
 ||pqnqrjxe.xyz^
@@ -68916,6 +68938,7 @@
 ||rwwoqcjefc.com^
 ||rwxgorjgvcfirtx.com^
 ||rwzzeivpakyxql.com^
+||rxansljurt.com^
 ||rxatodtvt.com^
 ||rxcjedhdf.com^
 ||rxeosevsso.com^
@@ -80026,6 +80049,7 @@
 ||trace-2000.com^
 ||trace.51jingying.com^
 ||trace.events^
+||trace.mjyx.com^
 ||trace.qq.com^
 ||trace.rememberapp.co.kr^
 ||trace.swaven.com^
@@ -83159,6 +83183,7 @@
 ||unpleasantconcrete.com^
 ||unpleasanthandbag.com^
 ||unpleasantlaugh.pro^
+||unppnshe.com^
 ||unpred.com^
 ||unpredictablehateagent.com^
 ||unprofessionalremnantthence.com^
@@ -84995,6 +85020,7 @@
 ||vibber.download^
 ||vibcskh.com^
 ||vibeaconstr.onezapp.com^
+||vibetrogue.click^
 ||vibmhetkcedookx.com^
 ||viboom.com^
 ||viboom.ru^
@@ -86369,6 +86395,7 @@
 ||vrewpywootyu.com^
 ||vrffwbf.cn^
 ||vrfupfyu.com^
+||vrgvugostlyhewo.info^
 ||vrhgfvztgmcl.com^
 ||vrhorus.com^
 ||vrichshop.com^
@@ -89803,6 +89830,7 @@
 ||xenosmussal.com^
 ||xenylclio.com^
 ||xeoprwhhiuig.xyz^
+||xeqktyujlwlc.com^
 ||xerhibx.cn^
 ||xero.porn/videoAd
 ||xerqfh.xyz^
@@ -91147,6 +91175,7 @@
 ||yearnstocking.com^
 ||yearnwillowconsumption.com^
 ||yecaoyun.com/AD/
+||yecxqqoywiidz.com^
 ||yedbehindforh.info^
 ||yedimedia.net^
 ||yeduxiaoshuoo.com/lokedpgdjs$script
@@ -92404,6 +92433,7 @@
 ||zakbyajklqare.top^
 ||zakbyajklqzyz.top^
 ||zakladka.org.ua^
+||zakruxxita.com^
 ||zalo-ads-240-td.zadn.vn^
 ||zalo-ads-240.zadn.vn^
 ||zalo-ads-480-td.zadn.vn^
@@ -95428,6 +95458,9 @@ abcya.com##.a-leader
 abcya.com##.a-skyscraper
 abergavennychronicle.com,tenby-today.co.uk##.MPUstyled__MPUWrapper-sc-1cdmm4p-0
 abergavennychronicle.com,tenby-today.co.uk##.TopBannerstyled__Wrapper-sc-x2ypns-0
+abjav.com,aniporn.com##.left > section
+abjav.com,aniporn.com,bdsmx.tube,hclips.com,hotmovs.com,javdoe.fun,javdoe.sh,javtape.site,manysex.com,manysex.tube,onlyporn.tube,porntop.com,terminal.hackernoon.com##.right
+abjav.com,bdsmx.tube##.wrapper > section
 ablesci.com##.able-container-body-right > div.fly-panel:has(> div[style="text-align: center; padding: 5px"] > img[src$="-alipay-hongbao.png"])
 ablesci.com##.fly-panel img[src*="-alipay-autumn-hongbao.png"]
 ablesci.com#?#.able-container-body-right > .fly-panel:has(> div > img[src*="-alipay-autumn-hongbao.png"])
@@ -96028,10 +96061,8 @@ animixplay.to###topmid
 aninews.in,devdiscourse.com,footballorgin.com,gadgets360.com,hardwaretimes.com,justthenews.com,ndtv.com,oneindia.com,wionews.com,zeebiz.com###parentDiv0
 aniporn.com###in_v
 aniporn.com###und_ban
-aniporn.com##.left > section
 aniporn.com#?#.wrapper > section:has(> div > div > div[id^="footer_"] > div._ccw-wrapper)
 aniporn.com,bdsmx.tube##article > section
-aniporn.com,bdsmx.tube,hclips.com,hotmovs.com,javdoe.fun,javdoe.sh,javtape.site,manysex.com,manysex.tube,onlyporn.tube,porntop.com,terminal.hackernoon.com##.right
 aniporn.com,bdsmx.tube,in-porn.com,inporn.com##.btn-close
 anisearch.com###rrightX
 anisearch.com##.rect_sidebar
@@ -96932,7 +96963,6 @@ bdinfo.net###header_AD
 bdmbase.ru##html > .q1
 bdnews24.com##.floating-ad-bottom
 bdsmx.tube##.oImef0
-bdsmx.tube##.wrapper > section
 bdsmx.tube,blackporn.tube,in-porn.com,inporn.com,mrgay.tube,sextu.com##.video-info > section
 bdys03.com##.artplayer-plugin-ads
 beaumontenterprise.com,chron.com,ctinsider.com,ctpost.com,expressnews.com,houstonchronicle.com,lmtonline.com,middletownpress.com,mrt.com,mysanantonio.com,newstimes.com,nhregister.com,registercitizen.com,seattlepi.com,sfchronicle.com,sfgate.com,stamfordadvocate.com,thehour.com,timesunion.com##.b-gray300.bt
@@ -111630,6 +111660,7 @@ tigtag.com##.couplet_r
 tigtag.com##.custom-box02
 tigtag.com##div[id^="Home942x70_"]
 tigtag.com##div[id^="Show300x"]
+tikpornk.com##.mr-1
 tiktits.com##.callback-bt
 time.com##.article-small-sidebar > .sticky-container:has(div[id^="ad-"])
 time.is##.rad
@@ -138594,6 +138625,7 @@ zle.com$script
 ##.banner-advertisement
 ##.banner-advertising
 ##.banner-adverts
+##.banner-asd__title
 ##.banner-buysellads
 ##.banner-cctv-A2
 ##.banner-cctv-Topping

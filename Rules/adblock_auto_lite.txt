@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ttyDc6KNIBvs/IKDBTJdFg
+! Checksum: qRJh8OjFIVdlOKz+OQ1FAw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240816162753
+! Version: 20240817002850
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-16 16:27:53
-! Total Count: 28651
+! Last modified: 2024-08-17 00:28:50
+! Total Count: 28653
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4134,6 +4134,7 @@
 ||baijs05.xyz^
 ||baijs06.shop^
 ||baijs06.xyz^
+||baijs07.shop^
 ||baijs07.xyz^
 ||baijs08.xyz^
 ||baike.com/iframeheightforad.
@@ -6017,6 +6018,7 @@
 ||daraz.com^
 ||darknessporn.com/prrls/
 ||darren01.oss-cn-beijing.aliyuncs.com^
+||dasdujaosjdioad.com^
 ||dashenya.com/js/jquery.js
 ||dashingdirt.com^$third-party
 ||dashingdrop.com^$third-party
