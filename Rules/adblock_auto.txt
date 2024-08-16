@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: LLt9flUSmwCgJv1zaG2uow
+! Checksum: JguH72Sz3+cjb5WpCVYaFw
 ! Title: 混合规则(自动更新)
-! Version: 20240816093538
+! Version: 20240816162742
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-16 09:35:38
-! Total Count: 149855
+! Last modified: 2024-08-16 16:27:42
+! Total Count: 149872
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6444,6 +6444,7 @@
 ||adser.io^
 ||adserv.mako.co.il^
 ||adserv2.suumo.jp^
+||adservb.com^
 ||adserve.com^
 ||adserve.donanimhaber.com^
 ||adserve.ph^
@@ -25737,6 +25738,7 @@
 ||doujs05.xyz^
 ||doujs06.shop^
 ||doujs06.xyz^
+||doujs07.shop^
 ||doujs07.xyz^
 ||doujs08.xyz^
 ||doujs09.xyz^
@@ -42394,6 +42396,7 @@
 ||izmssk.xyz^
 ||izooto.com^
 ||izprqctxde.com^
+||izqeyo.xyz^
 ||izqogb.cn^
 ||izrnvo.com^
 ||izrvuofcrrhsm.com^
@@ -48124,6 +48127,7 @@
 ||ljwckj.love^
 ||ljyajgjvuv.com^
 ||ljykyxgp.com^
+||ljzcawea.icu^
 ||ljzxdranhsf.com^
 ||lk.4jzl.cn^
 ||lk.4jzl.cn^$third-party
@@ -49398,6 +49402,7 @@
 ||luminousstickswar.com^
 ||lumitos.com^
 ||lumnstoodthe.info^
+||lumnxiel.top^
 ||lumpilap.net^
 ||lumpmainly.com^
 ||lumpmancommos.guru^
@@ -55796,6 +55801,7 @@
 ||nmsedhkcd.com^
 ||nmsl.ink^
 ||nmssdbgmf.xyz^
+||nmtcxz.xyz^
 ||nmthpcanvokjbkh.xyz^
 ||nmtibv.xyz^
 ||nmtlgbv.cn^
@@ -56200,6 +56206,7 @@
 ||npaqfubekak.com^
 ||npario-inc.net^
 ||npbkhsarqzp.com^
+||npbtnl.xyz^
 ||npcad.com^
 ||npcta.xyz^
 ||npdkdb.xyz^
@@ -66304,6 +66311,7 @@
 ||readserv.com^
 ||readserver.net^
 ||readspokesman.com^
+||readsubsequentlyspecimen.com^
 ||readto.ru^
 ||ready4win.com^
 ||readyblossomsuccesses.com^
@@ -71097,6 +71105,7 @@
 ||shbzdkj.cn^
 ||shbzegs.cn^
 ||shbzhkj.cn^
+||shbzigs.cn^
 ||shbzikj.cn^
 ||shbzjgs.cn^
 ||shbzjkj.cn^
@@ -82564,6 +82573,7 @@
 ||uhhgaodcxckgvqs.xyz^
 ||uhjxitn.xyz^
 ||uhllogeum.digital^
+||uhmcjdc.icu^
 ||uhmtlzd.cn^
 ||uho5m96ej.com^
 ||uhodsplo.com^
@@ -89074,6 +89084,7 @@
 ||wru795e.cn^
 ||wruaqpkuwa.com^
 ||wrufer.com^
+||wrutvnce.top^
 ||wrycomparednutshell.com^
 ||wryfinger.com^$third-party
 ||wryfruw.com^
@@ -100428,6 +100439,7 @@ eporner.com##.hptab
 eporner.com##.vjs-inplayer-container
 eporner.com##[id^="admobile"]
 eporner.com##[id^="admobile"],[class^="admobile"]
+eporner.com##[style="margin: 20px auto; height: 275px; width: 900px;"]
 eporner.com#?#.mb:has(> .adnative-1x1)
 eporner.video##.center-adv
 eporner.video,porntrex.video##.container > .header ~ .top[style]
@@ -100831,17 +100843,17 @@ ferrarichat.com##.funzone
 ferrarichat.com##.node_sponsor
 fetishpapa.com,pornoxo.com,ashemaletube.com,boyfriendtv.com##.ads-block-rightside
 fetishshrine.com###mobile-under-player
-fetishshrine.com###pre-spots
 fetishshrine.com###under-player
-fetishshrine.com##.bottom-container
 fetishshrine.com##.bottom-content
 fetishshrine.com##.container-side
 fetishshrine.com##[data-banner]
 fetishshrine.com,pervclips.com,pornwhite.com###under-video
-fetishshrine.com,pornwhite.com##.container-aside
+fetishshrine.com,pornwhite.com,sleazyneasy.com##.container-aside
 fetishshrine.com,pornwhite.com,sleazyneasy.com##.items-holder
 fetishshrine.com,pornwhite.com,sleazyneasy.com,vikiporn.com,wankoz.com##.native-holder
 fetishshrine.com,pornwhite.com,sleazyneasy.com,wankoz.com##div[data-banner]
+fetishshrine.com,sleazyneasy.com###pre-spots
+fetishshrine.com,sleazyneasy.com##.bottom-container
 fetishshrine.com,vikiporn.com##.adv-aside
 fetishshrine.com,youfreeporntube.net,reallifecam.vip##.nav > li > a[target="_blank"]
 fextralife.com###content-add-a
@@ -101590,8 +101602,10 @@ gametracker.com##[href^="https://www.vultr.com/"]
 gametracker.com##[style^="width:980px; height:48px"]
 gamewatcher.com##.top-banners-wrapper
 gameworldobserver.com##.information-block
+gameworldobserver.com##.information-block-top
 gameworldobserver.com##.information-blocks
 gameworldobserver.com##.only_link_area
+gameworldobserver.com##.start-popup
 gamezone.com##.med-rect-ph
 gamezop.com##div[data-native-ad]
 gamicsoft.com##.mobileAd-slider
@@ -109119,8 +109133,10 @@ realcanadiansuperstore.ca#?#.chakra-linkbox:-abp-contains(Sponsored)
 realclearhistory.com###warning_empty_div
 realclearpolitics.com###distro_right_rail
 realclearpolitics.com###realclear_jwplayer_container
+realestate-magazine.rs##.banerright
 realestate.com.au###headerLeaderBoardSlot
 realestate.com.au##.header-leaderboard-portal
+realestatemagazine.ca##.caroufredsel_wrapper
 realgearonline.com##iframe[src^="http://www.adpeepshosted.com/"]
 realgfporn.com##.banner-video-right
 realgfporn.com##.btn-info
@@ -112581,6 +112597,7 @@ vivud.com##.inplayer_banners
 vivud.com,zmovs.com##.player-aside-banners
 vixenless.com,bestialporn.com,bestialitysexanimals.com,mynakedwife.video,bestialitytaboo.tv,mujeresdesnudas.club##+js(abort-current-script, $, clickObject)
 vizzy.io##[style="width: 100%; font-family: Roboto; font-weight: 500; margin-bottom: 30px;"]
+vjav.com##[style="width: 728px; height: 90px;"]
 vjmedia.com.hk###author-spotlight + .clear + div
 vjmedia.com.hk###text-33
 vk.com,vk.ru###system_msg
