@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: xE1DoMwSglFY5mnQnMhGfg
+! Checksum: JIe7FkV4Bu0jMM8AvJGzUw
 ! Title: 混合规则(自动更新)
-! Version: 20240817002838
+! Version: 20240817092720
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-17 00:28:38
-! Total Count: 149904
+! Last modified: 2024-08-17 09:27:20
+! Total Count: 149931
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -11603,6 +11603,7 @@
 ||auspipe.com^
 ||austaihauna.com^
 ||austaits.xyz^
+||austaptool.net^
 ||austeemsa.com^
 ||austere-familiar.com^
 ||austeritylegitimate.com^
@@ -23182,6 +23183,7 @@
 ||data.digitalks.az^
 ||data.econa.com^
 ||data.eetech.com^
+||data.embeddables.com^
 ||data.hicloud.com^
 ||data.imakenews.com^
 ||data.kameleoon.io^
@@ -26437,6 +26439,7 @@
 ||dusterrubberfarmer.com^
 ||dustersee.com^
 ||dustratebilate.com^
+||dustupsstekan.com^
 ||dustydime.com^$third-party
 ||dustymural.com^
 ||dustyrabbits.com^$third-party
@@ -31607,6 +31610,7 @@
 ||fnbauniukvi.com^
 ||fncash.com^
 ||fncnet1.com^
+||fndrsp.net^
 ||fnelqqh.com^
 ||fnfhjka.xyz^
 ||fngcgbl.icu^
@@ -33047,6 +33051,7 @@
 ||gagxsbnbu.xyz^
 ||gagxyauszaght.com^
 ||gagytxjgcs.com^
+||gahejiao.com^
 ||gahonnlsh.com^
 ||gahvy6ww.icu^
 ||gaibakur.net^
@@ -41693,6 +41698,7 @@
 ||ipfingerprint.com^
 ||ipfrom.com^
 ||ipgbcmfagij.com^
+||ipgeolocation.abstractapi.com^
 ||ipgold.ru^
 ||ipgrabber.ru^
 ||ipgraber.ru^
@@ -43164,6 +43170,7 @@
 ||jievf.cn^
 ||jiezoiq.cn^
 ||jiffehxjwvpoefo.xyz^
+||jifflebreasts.com^
 ||jifyelda.top^
 ||jigdigtry.com^
 ||jigffltdbcdjq.com^
@@ -54701,6 +54708,7 @@
 ||nbazhaheic.top^
 ||nbd56.cn^
 ||nbegame.com/nbeos/*.jpg
+||nbfsvreu.icu^
 ||nbgsintl.com^
 ||nbheopi.cn^
 ||nbhixt.xyz^
@@ -62454,6 +62462,8 @@
 ||poshsenseless.com^
 ||poshsplitdr.com^
 ||poshyouthfulton.com^
+||positional-bucket.com^
+||positional.ai^
 ||positionavailreproach.com^
 ||positioner.info^
 ||positiveaveinsist.com^
@@ -63449,6 +63459,7 @@
 ||proximitywars.com^
 ||proxy.ads.canalplus-bo.net^
 ||proxy.dzeio.com^
+||proxy.trysavvy.com^
 ||proxyas.com^
 ||proxyporn.info/o.php
 ||proxyporn.info/proxyporn-info-p0p.js
@@ -64361,6 +64372,7 @@
 ||pyfqqcekcgd.xyz^
 ||pygone.top^
 ||pygopodwrytailbaskett.sbs^
+||pygopustimawa.com^
 ||pyhdvvimr.com^
 ||pyirw.xyz^
 ||pyjqhb.xyz^
@@ -70651,6 +70663,7 @@
 ||sessionamateur.com^
 ||sessioncam.com^
 ||sessionm.com^
+||sessions.embeddables.com^
 ||setbbts.cyou^
 ||seteamsobtantion.com^
 ||sethiteblindly.guru^
@@ -70900,6 +70913,7 @@
 ||sgk.xyz/static/js/pc.js
 ||sglahyea.xyz^
 ||sgmcdn.racingpost.com^
+||sgmnt.beacons.ai^
 ||sgnetwork.co^
 ||sgnlaigb.fun^
 ||sgnvuowhv.com^
@@ -71127,6 +71141,7 @@
 ||shbxukj.cn^
 ||shbzdkj.cn^
 ||shbzegs.cn^
+||shbzgkj.cn^
 ||shbzhkj.cn^
 ||shbzigs.cn^
 ||shbzikj.cn^
@@ -74895,6 +74910,7 @@
 ||stats.boringproxy.io^
 ||stats.bradmax.com^
 ||stats.break.com^
+||stats.browsertrix.com^
 ||stats.callnowbutton.com^
 ||stats.cardschat.com^
 ||stats.chinaz.com/tool/
@@ -77437,6 +77453,7 @@
 ||tauphaub.net^
 ||taurinkimonos.uno^
 ||taurse.com^
+||taurunperch.shop^
 ||tausaakcntiwp.com^
 ||tauspenup.top^
 ||tautcare.pro^
@@ -79579,6 +79596,7 @@
 ||tooasthmaloose.com^
 ||toogeepaun.com^
 ||toojaipi.net^
+||tooledvacant.com^
 ||toolfk.com/common/zfb.jpg
 ||tools-affil2.com^
 ||tools.ascontentcloud.com^
@@ -80150,6 +80168,7 @@
 ||track.kyna.vn^
 ||track.kyoads.com^
 ||track.lapa.pub^
+||track.lc.quark.cn^
 ||track.leadhit.io^
 ||track.leady.cz^
 ||track.lemmatechnologies.com^
@@ -82747,6 +82766,7 @@
 ||ulogs.umeng.com^
 ||ulogs.umengcloud.com^
 ||ulojlvmejkaem.xyz^
+||uloscw.xyz^
 ||ulourgaz.net^
 ||ulqihfr.cn^
 ||ulried.com^
@@ -83209,6 +83229,7 @@
 ||unsaltyalemmal.com^
 ||unsbnvwjn.xyz^
 ||unsealsweller.top^
+||unseamssafes.com^
 ||unseenrazorcaptain.com^
 ||unseenreport.com^
 ||unseenshingle.com^
@@ -86663,6 +86684,7 @@
 ||vwtjvd.xyz^
 ||vwtqjotm.com^
 ||vwuyuahqf.com^
+||vwvatp.xyz^
 ||vwvjzd.xyz^
 ||vwwzygltq.com^
 ||vwyycnq.cn^
@@ -99118,6 +99140,8 @@ ctvnews.ca##.election-leaderboard
 ctwant.com##.l-ad__article
 ctwant.com##.l-ad__wrapper
 ctwant.com##.m-adpopup
+cubdomain.com##.box.mb-2.mh-300px.text-center
+cubdomain.com##.hello-bar
 cultbeauty.co.uk,dermstore.com,skinstore.com##li.sponsoredProductsList
 cults3d.com##.robots-nocontent
 culturemap.com##.z-ad
@@ -113085,7 +113109,9 @@ whatculture.com##.area-x__large
 whatismybrowser.com##.fun-info-footer
 whatismybrowser.com##.fun-inner
 whatismyip.com###hp-ad-banner-top
+whatismyip.com###tool-what-is-my-ip-ad
 whatismyip.net##.container > .panel[id]
+whatismyipaddress.com###whatismyipaddress_728x90_Desktop_ATF
 whatismyipaddress.com##.fbx-player-wrapper
 whatismyipaddress.com##.fl-module-wipa-concerns
 whatismyipaddress.com##.fl-photo
@@ -137400,6 +137426,7 @@ zle.com$script
 ##.adthrive-placeholder-content
 ##.adthrive-placeholder-header
 ##.adthrive-placeholder-static-sidebar
+##.adthrive-placeholder-video
 ##.adthrive-sidebar
 ##.adthrive-video-player
 ##.adthrive_custom_ad
