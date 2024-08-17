@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: JIe7FkV4Bu0jMM8AvJGzUw
+! Checksum: W4vjqd1gDWFsQYt857fBZA
 ! Title: 混合规则(自动更新)
-! Version: 20240817092720
+! Version: 20240817162456
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-17 09:27:20
-! Total Count: 149931
+! Last modified: 2024-08-17 16:24:56
+! Total Count: 149945
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -16338,6 +16338,7 @@
 ||bummerentertain.com^
 ||bummingasses.com^
 ||bummockrewarm.com^
+||bumnxiev.top^
 ||bumnxwvs.ink^
 ||bumog.xyz^
 ||bumpexchangedcadet.com^
@@ -74710,6 +74711,7 @@
 ||statclick.nate.com^
 ||statcollector.sidearmsports.com^
 ||statcounter.com/counter/counter.js
+||statcounter.va-endpoint.com^
 ||statcounterfree.com^
 ||statcounters.info^
 ||statdb.pressflex.com^
@@ -81754,6 +81756,7 @@
 ||tuhzjrr.cn^
 ||tui.cnzz.net^$third-party
 ||tui.gtimg.com//res/
+||tui07.shop^
 ||tui555.com/public/gong/js/a_
 ||tui56.com/guanggao*.html
 ||tuia.cn^$third-party
@@ -89604,6 +89607,7 @@
 ||x2y22.fun^
 ||x3-policy-maker.goguardian.com^
 ||x3-predictor.goguardian.com^
+||x360xs.com/tops/
 ||x3a88d.cn^
 ||x3kxysp.cn^
 ||x3zy2.icu^
@@ -95370,7 +95374,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 97hj.net##.widget-zfb
 97rock.com,wedg.com##a[href*="716jobfair.com"]
 985kissfm.net,bxr.com,catcountry951.com,nashfm1065.com,power923.com,wncv.com,wskz.com##.widget_simpleimage
-98fm.com,airqualitynews.com,audioreview.com,barrheadnews.com,bobfm.co.uk,bordertelegraph.com,cultofandroid.com,dcsuk.info,directory.im,directory247.co.uk,dplay.com,dumbartonreporter.co.uk,dunfermlinepress.com,durhamtimes.co.uk,eastlothiancourier.com,econsultancy.com,entertainmentdaily.co.uk,eurogamer.net,findanyfilm.com,forzaitalianfootball.com,gamesindustry.biz,her.ie,herfamily.ie,joe.co.uk,joe.ie,kentonline.co.uk,metoffice.gov.uk,mumsnet.com,musicradio.com,newburyandthatchamchronicle.co.uk,newscientist.com,physicsworld.com,readamericanfootball.com,readarsenal.com,readastonvilla.com,readbasketball.com,readbetting.com,readbournemouth.com,readboxing.com,readbrighton.com,readbundesliga.com,readburnley.com,readcars.co,readceltic.com,readchampionship.com,readchelsea.com,readcricket.com,readcrystalpalace.com,readeverton.com,readeverything.co,readfashion.co,readfilm.co,readfood.co,readfootball.co,readgaming.co,readgolf.com,readhorseracing.com,readhuddersfield.com,readhull.com,readingchronicle.co.uk,readinternationalfootball.com,readlaliga.com,readleicester.com,readliverpoolfc.com,readmancity.com,readmanutd.com,readmiddlesbrough.com,readmma.com,readmotorsport.com,readmusic.co,readnewcastle.com,readnorwich.com,readnottinghamforest.com,readolympics.com,readpl.com,readrangers.com,readrugbyunion.com,readseriea.com,readshowbiz.co,readsouthampton.com,readsport.co,readstoke.com,readsunderland.com,readswansea.com,readtech.co,readtennis.co,readtottenham.com,readtv.co,readussoccer.com,readwatford.com,readwestbrom.com,readwestham.com,readwsl.com,realradioxs.co.uk,redhillandreigatelife.co.uk,rochdaleonline.co.uk,rte.ie,sloughobserver.co.uk,smartertravel.com,southwestfarmer.co.uk,spin1038.com,spinsouthwest.com,sportsjoe.ie,sportsmole.co.uk,strathallantimes.co.uk,sundaypost.com,tcmuk.tv,thejournal.co.uk,thevillager.co.uk,thisisfutbol.com,toffeeweb.com,uktv.co.uk,videocelts.com,warringtonguardian.co.uk,wiltshirebusinessonline.co.uk,windsorobserver.co.uk,zdnet.com##.mpu
+98fm.com,airqualitynews.com,audioreview.com,barrheadnews.com,bobfm.co.uk,bordertelegraph.com,cultofandroid.com,dcsuk.info,directory.im,directory247.co.uk,dplay.com,dumbartonreporter.co.uk,dunfermlinepress.com,durhamtimes.co.uk,eastlothiancourier.com,econsultancy.com,entertainmentdaily.co.uk,eurogamer.net,findanyfilm.com,forzaitalianfootball.com,gamesindustry.biz,her.ie,herfamily.ie,joe.co.uk,joe.ie,kentonline.co.uk,metoffice.gov.uk,mumsnet.com,musicradio.com,newburyandthatchamchronicle.co.uk,newscientist.com,physicsworld.com,pressandjournal.co.uk,readamericanfootball.com,readarsenal.com,readastonvilla.com,readbasketball.com,readbetting.com,readbournemouth.com,readboxing.com,readbrighton.com,readbundesliga.com,readburnley.com,readcars.co,readceltic.com,readchampionship.com,readchelsea.com,readcricket.com,readcrystalpalace.com,readeverton.com,readeverything.co,readfashion.co,readfilm.co,readfood.co,readfootball.co,readgaming.co,readgolf.com,readhorseracing.com,readhuddersfield.com,readhull.com,readingchronicle.co.uk,readinternationalfootball.com,readlaliga.com,readleicester.com,readliverpoolfc.com,readmancity.com,readmanutd.com,readmiddlesbrough.com,readmma.com,readmotorsport.com,readmusic.co,readnewcastle.com,readnorwich.com,readnottinghamforest.com,readolympics.com,readpl.com,readrangers.com,readrugbyunion.com,readseriea.com,readshowbiz.co,readsouthampton.com,readsport.co,readstoke.com,readsunderland.com,readswansea.com,readtech.co,readtennis.co,readtottenham.com,readtv.co,readussoccer.com,readwatford.com,readwestbrom.com,readwestham.com,readwsl.com,realradioxs.co.uk,redhillandreigatelife.co.uk,rochdaleonline.co.uk,rte.ie,sloughobserver.co.uk,smartertravel.com,southwestfarmer.co.uk,spin1038.com,spinsouthwest.com,sportsjoe.ie,sportsmole.co.uk,strathallantimes.co.uk,sundaypost.com,tcmuk.tv,thejournal.co.uk,thevillager.co.uk,thisisfutbol.com,toffeeweb.com,uktv.co.uk,videocelts.com,warringtonguardian.co.uk,wiltshirebusinessonline.co.uk,windsorobserver.co.uk,zdnet.com##.mpu
 98online.com,advertiserandtimes.co.uk,agame.com,airgunshooting.co.uk,airmalta.com,allghananews.com,anews.com.tr,angliaafloat.co.uk,arabianindustry.com,barkinganddagenhampost.co.uk,becclesandbungayjournal.co.uk,beeg.com,blogto.com,burymercury.co.uk,cambstimes.co.uk,canalboat.co.uk,cardealermagazine.co.uk,caribbeancinemas.com,ce.cn,chenjiayu.cn,chinabidding.com.cn,completefrance.com,countrysmallholding.com,crimemagazine.com,dailyedge.ie,datalounge.com,dazeddigital.com,derehamtimes.co.uk,dermnetnz.org,developingtelecoms.com,dissmercury.co.uk,dunmowbroadcast.co.uk,eadt.co.uk,eastlondonadvertiser.co.uk,eastmoney.com,economist.com,edp24.co.uk,ee.co.za,elystandard.co.uk,eos.org,etf.com,eurogamer.net,eurogamer.pt,eveningnews24.co.uk,examtiger.com,exmouthjournal.co.uk,fakenhamtimes.co.uk,farmprogress.com,fijivillage.com,flashgames.ru,football.co.uk,ft.com,ftopx.com,gaana.com,games.co.id,games.co.uk,gamesgames.com,gayboystube.com,gearspace.com,gematsu.com,giochi.it,gioco.it,girlsgogames.co.id,girlsgogames.co.uk,girlsgogames.com,girlsgogames.de,girlsgogames.fr,girlsgogames.it,girlsgogames.ru,globalrph.com,gobankingrates.com,greatyarmouthmercury.co.uk,gry.pl,hackneygazette.co.uk,hamhigh.co.uk,hertsad.co.uk,hg6384.com-www.6u7u.com,hungangels.com,huntspost.co.uk,icaew.com,ieforex.com,ilfordrecorder.co.uk,iol.co.za,ipswichstar.co.uk,islingtongazette.co.uk,jetzspielen.de,jeu.fr,jeux.fr,juegos.com,juegosdechicas.com,kentonline.co.uk,laod.cn,lgr.co.uk,likefont.com,linuxinsider.com,lowestoftjournal.co.uk,maltapark.com,mapcarta.com,meetdownload.com,midweekherald.co.uk,momjunction.com,moonbit.co.in,morningstar.co.uk,mousebreaker,mousebreaker.com,mulheresafoder.com,newhamrecorder.co.uk,newstalkzb.co.nz,newsweek.com,northdevongazette.co.uk,northern-scot.co.uk,northnorfolknews.co.uk,northsomersettimes.co.uk,ojogos.com.br,ourgames.ru,oyunskor.com,permainan.co.id,pianistmagazine.com,pilotweb.aero,pinkun.com,pornwatchers.com,proxcskiing.com,raidforums.com,romfordrecorder.co.uk,royston-crow.co.uk,saffronwaldenreporter.co.uk,shangyexinzhi.com,sidmouthherald.co.uk,skysports.com,spel.nl,spela.se,spelletjes.nl,spielen.com,sportingshooter.co.uk,sportspromedia.com,stileproject.com,stowmarketmercury.co.uk,stylecraze.com,sudburymercury.co.uk,tbivision.com,the42.ie,thecomet.net,thedrum.com,thejournal.ie,theneweuropean.co.uk,thestudentroom.co.uk,thetrendspotter.net,thewestonmercury.co.uk,tineye.com,trucksplanet.com,unogs.com,velonews.com,videogamer.com,videogameschronicle.com,waploaded.com,wattonandswaffhamtimes.co.uk,whtimes.co.uk,wisbechstandard.co.uk,wtatennis.com,wymondhamandattleboroughmercury.co.uk,xywy.com,yourchickens.co.uk,zhangjunseo.com,zhujiceping.com,zp365.com##.advert
 99.com.cn##.hzh_botleft
 9908ww.com,adelaidepawnbroker.com,bztube.com,disputeresolutionfinance.uk,hotovs.com,insuredhome.org,nudegista.com,pornluck.com,vidd.se,redtube.*,youpornru.com,tube8.com,tube8.es,tube8.fr,tube8.net##+js(set-constant, page_params.holiday_promo, true)
@@ -97035,7 +97039,7 @@ belgie.fm,danmark.fm,deutschland.fm,espana.fm,india.fm,italia.fm,nederland.fm###
 bella.tw##.hide-mobile[style]
 bellesa.co##.Display__RatioOuter-hkc90m-0
 bellinghamherald.com##.zone-el
-bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com,elnuevoherald.com,fresnobee.com,heraldonline.com,heraldsun.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,ledger-enquirer.com,macon.com,mcclatchydc.com,mercedsunstar.com,miamiherald.com,modbee.com,myrtlebeachonline.com,newsobserver.com,pussy.org,sacbee.com,sanluisobispo.com,star-telegram.com,sunherald.com,thenewstribune.com,theolympian.com,thestate.com,tri-cityherald.com,vidsvidsvids.com,xxx-videosex.porn##.zone
+bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com,cults3d.com,elnuevoherald.com,fresnobee.com,heraldonline.com,heraldsun.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,ledger-enquirer.com,macon.com,mcclatchydc.com,mercedsunstar.com,miamiherald.com,modbee.com,myrtlebeachonline.com,newsobserver.com,pussy.org,sacbee.com,sanluisobispo.com,star-telegram.com,sunherald.com,thenewstribune.com,theolympian.com,thestate.com,tri-cityherald.com,vidsvidsvids.com,xxx-videosex.porn##.zone
 belloflostsouls.net##div[id^="ad-container-"]
 belloflostsouls.net#?#span.text-secondary:-abp-contains(Advertisement)
 belloflostsouls.net,ginx.tv,op.gg,theloadout.com##.vm-placement
@@ -102942,6 +102946,7 @@ hollywoodlife.com##.ad--horizontal
 hollywoodreporter.com##.above-header-ad
 hollywoodreporter.com##[id^="jwplayer"]
 holymanga.net##.svl_ads_right
+holyrood.com##.col--ad
 home-assistant-guide.com##.gb-container-429fcb03
 home-assistant-guide.com##.gb-container-5698cb9d
 home-assistant-guide.com##.gb-container-bbc771af
@@ -104040,11 +104045,16 @@ israelnationalnews.com##.home-subsections-banner
 israelnationalnews.com##.sideInf
 isso.com.cn##.right-content-div > .top-div + div
 issuu.com###playwire-video
-issuu.com##.gMUVke
+issuu.com##.ad-block--wide
+issuu.com##.grid-layout__ad-by-details
+issuu.com##.grid-layout__ad-by-reader
+issuu.com##.grid-layout__ad-in-shelf
+issuu.com##.grtzHH
 issuu.com##.jzWDOE
-issuu.com##.lbiKNr
+issuu.com##[aria-label="Advert"]
 issuu.com##div[class*="adPlacement"]
 issuu.com##div[class*="adSkyscraper"]
+issuu.com,racingamerica.com##.AdPlacement
 it-enginer.ru##body > #modal[style*="blur"]
 it1352.com##.content-wrap > .hidden-sm:nth-child(-n+2)
 it1352.com##.glyphicon-certificate
@@ -105596,6 +105606,8 @@ m.lelekan.com##div[id^="myads"]
 m.lwxs.com##+js(abort-current-script, document.write, _0x)
 m.lwxs.com##+js(abort-current-script, eval, _0x)
 m.mgtv.com##.mg-dcross
+m.mouthshut.com##.SecondAds
+m.mouthshut.com##.adsBoxRpt2
 m.mtrend.cn##a[class][onclick^="window.open("],span[class][onclick^="window.open("],[class^="kong"],iframe[src],#interstitial,#ad_pic_float,[class^="mingpai"],[class*="random_ad"]
 m.mydrivers.com###content > .ab
 m.mydrivers.com###content > .bb
@@ -106345,6 +106357,7 @@ motortrend.com##.parent-video-player-cls
 motortrend.com##.video-player-cls
 motortrend.com##[data-ids="AdContainer"]
 motortrend.com##div[data-ad-targeting]
+mouthshut.com###ads_customheader_dvRightGads
 mover.uz###oframeplayer > [class][style^="display: block"]
 movie-censorship.com##a[href*="/out.php?"]
 movie-rush.com##iframe[src^="https://www.movie-rush.com/files/js/ad/"]
@@ -106401,6 +106414,7 @@ mrjav.net##li[id^="video-interlacing"]
 mrmad.com.tw#?#div[id^="mrmad-"]:-abp-has(>.adsbygoogle)
 mrmad.com.tw#?#div[id^="mrmad-"][style]:has(> .adsbygoogle)
 mrstiff.com###xdv-preroll
+mrw.co.uk##.adv-banner-top
 mscbsc.com##.bao1
 mse.360.cn##a[id^="banner"]
 msguides.com###kknbnpcv
@@ -109102,7 +109116,6 @@ r3sub.com##source + img
 rabble.ca##.grey-cta-block
 racgp.org.au##.mb-1.small
 racingamerica.com###section-15922
-racingamerica.com##.AdPlacement
 racingtv.com##.layout__promotion
 radaris.com##.ads_160_600
 radaris.com##.adsense-responsive-bottom
@@ -110675,6 +110688,7 @@ standard.co.uk###polarArticleWrapper
 standard.co.uk###thirdparty_03_parent
 standard.co.uk##.dXaqls
 standard.co.uk##.kcdphh
+standard.co.uk##.teads
 standardmedia.co.ke##.border-thick-branding
 standardmedia.co.ke##.my-2
 staples.com##.SearchRootUX2__bannerAndSkuContainer
