@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: N+Snwq2PJxT0CYqoEw0wJg
+! Checksum: xwHdvb4WXfBXbAYT8uTGMA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240817162507
+! Version: 20240818002844
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-17 16:25:07
-! Total Count: 28661
+! Last modified: 2024-08-18 00:28:44
+! Total Count: 28662
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8359,6 +8359,7 @@
 ||hardpussysex.com/img/full-hd.jpg
 ||hardtofindmilk.com^$third-party
 ||haree.cn^
+||hasdjksndjk.com^
 ||hasgde.site^
 ||hatefulrequest.com^$third-party
 ||havttn.xyz^
