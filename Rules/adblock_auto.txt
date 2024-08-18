@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: +ZqJ8GH6pYW+JogvBIaQYg
+! Checksum: pUi+EKWmYT3U7U6pQpmLlw
 ! Title: 混合规则(自动更新)
-! Version: 20240818162457
+! Version: 20240819002453
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-18 16:24:57
-! Total Count: 149990
+! Last modified: 2024-08-19 00:24:53
+! Total Count: 150004
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -16202,6 +16202,7 @@
 ||bttazsyk.icu^
 ||bttrack.com^
 ||btttag.com^
+||btvbnrwo.icu^
 ||btvhdscr.com^
 ||btwan5.com^
 ||btwtssrnntidgb.com^
@@ -17587,6 +17588,7 @@
 ||cb.baidu.com^
 ||cb.com.cn/index/ad/
 ||cb49836.click^
+||cb61190372.com^
 ||cb675f778b.com^
 ||cb7f35d82c.com^
 ||cba-fed-igh.com^
@@ -83925,6 +83927,7 @@
 ||uunrkj.com^$document
 ||uunrkj.com^$~third-party
 ||uuoizbtl.xyz^
+||uusjaq.top^
 ||uutytp.com^
 ||uuu9.com/photolog.html
 ||uuu9.tieba.com^$subdocument
@@ -96591,6 +96594,14 @@ azofreeware.com,fanlesstech.com,pttjoke.com###HTML3
 azofreeware.com,pusatporn18.com###HTML7
 azrotv.com##.adbn-wrap
 azrotv.com##div[id^="laoad_Adb"]
+azscore.com##.b-odds
+azscore.com##.bettingTip__buttonsContainer
+azscore.com##.bkw
+azscore.com##.bonus-offers-container
+azscore.com##.email-popup-container
+azscore.com##.make-a-bet__wrap
+azscore.com##.v-bonus
+azscore.com,bescore.com,jlmhk.com,ok.porn,pornhat.com##.bn
 azuremagazine.com##.hero__metadata-left-rail
 azuremagazine.com##div[class$="azoa"]
 bab.la##.info-panel
@@ -97083,7 +97094,6 @@ benzinga.com##.raptive-ad-placement
 benzinga.com##.video-player-wrapper
 benzinga.com##div[class^="GoogleAdBlock_"]
 bernama.com##a[class^="banner_photo_"]
-bescore.com,jlmhk.com,ok.porn,pornhat.com##.bn
 besplatka.ua##.adBl
 best-faucets.com,transfermarkt.co.uk,transfermarkt.com##.werbung
 best18porn.com##.in-player-spot
@@ -106087,6 +106097,7 @@ memexie.com##div[style^="width:9"][style$="#C8E4F0"]
 mengzhan123.com,mengzhan521.com##a[href^="http"]:not([href*="mengzhan"]) > img[src^="http"]
 mentalmars.com##.menta-target
 mercurynews.com,nssmag.com##.header-banners
+merriam-webster.com##.cafemedia-ad-slot-top
 merriam-webster.com##.home-redesign-ad
 messitv.net###HTML23
 messitv.net###Image5
@@ -107961,6 +107972,7 @@ pharmnet.com.cn###img1
 pharmnet.com.cn##.ad9502
 phillyvoice.com##.article-sponsor-sticky
 phillyvoice.com##.native-sponsor
+philstar.com###sponsored_posts
 phimsexmoi.biz###text-2[style*="left: 0px; top: 0px;"]
 phoenixnewtimes.com##.AirBillboard
 phone-book.tw##+js(remove-node-text, script, yumayishop)
@@ -112686,8 +112698,9 @@ vigilantcitizen.com##.vigil-leaderboard-article
 vigilantcitizen.com##.vigil-leaderboard-home
 vikacg.com###custom_html-9
 vikacg.com###home-row-lunbo
+vikacg.com##a[href^="http"] > img[src^="/assets/main/"]
 vikacg.com##div[id^="home-row-ads"]
-vikacg.com,vikacg.xyz##a[href^="http"] > img[src^="/assets/main/"]
+vikacg.com,vikacg.xyz##a[href^="http"] > img[src*="/assets/main/"]
 vikilife.com###sidebar-tab[style^="height:"]
 vikiporn.com##.header-area > ul.nav > li > a[rel="nofollow"][target="_blank"]
 vikiporn.com##.top-list > .content-aside
@@ -126464,6 +126477,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 =display_ad&
 =dynamicads&
 =dynamicwebad&
+=fitacg.com/static/other/
 =half-page-ad&
 =iframe_adv&
 =js_ads&
