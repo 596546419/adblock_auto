@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 19gMZSHQ0aRGH8TQ/Krp4Q
+! Checksum: JgUD0AxHA6JPL2jjcZQH2w
 ! Title: 混合规则(自动更新)
-! Version: 20240818002832
+! Version: 20240818094042
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-18 00:28:32
-! Total Count: 149954
+! Last modified: 2024-08-18 09:40:42
+! Total Count: 149974
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -876,6 +876,7 @@
 ||19528681.com^
 ||195315.com/storage/tpl/tj.js
 ||1969321160.rsc.cdn77.org^
+||19706903.xyz^
 ||19719197.com^
 ||1973440310.rsc.cdn77.org^
 ||19811231.me^
@@ -2861,6 +2862,7 @@
 ||6a288eb054.com^
 ||6a34d15d38.com^
 ||6a6672.xyz^
+||6ac78725fd.com^
 ||6af461b907c5b.com^
 ||6avz.com^$script,third-party
 ||6b70b1086b.com^
@@ -6714,6 +6716,7 @@
 ||adtaily.com^
 ||adtaily.pl^
 ||adtarget.com.tr^
+||adtarget.market^
 ||adtarget.me^
 ||adtclickwhite.com^
 ||adtcodepink.com^
@@ -9881,6 +9884,7 @@
 ||antvoice.com^
 ||antyoubeliket.info^
 ||antyoubeliketheap.com^
+||anuclsrsnbcmvf.xyz^
 ||anunderstrobed.com^
 ||anvhgwjy.com^
 ||anvilfaintmaiden.com^
@@ -11727,6 +11731,7 @@
 ||avcity.twavtv.com/iframe/
 ||avdao.pw/dist/js/sc_check
 ||avdb.me/ad/
+||avdebt3431.fun^
 ||avdego.net^
 ||avdpmeated.uno^
 ||ave-caesar-mas.modivo.io^
@@ -11775,6 +11780,7 @@
 ||avkktuywj.xyz^
 ||avkw.cn^
 ||avkyu1tesnwy.com^
+||avloan3431.fun^
 ||avmws.com^
 ||avnmjtqu.com^
 ||avo.app^
@@ -30853,6 +30859,7 @@
 ||fgttbz.xyz^
 ||fguhyg.cn^
 ||fgukchz.icu^
+||fgvznrscfzsn.com^
 ||fgwerg.top^
 ||fgwuw.com^
 ||fgxfnkiojgs.com^
@@ -41643,6 +41650,7 @@
 ||ionwindonpetropic.info^
 ||iopiopiop.net^
 ||iopiopiop.org^
+||iople.com^
 ||ioredi.com^
 ||iorlsblj.cyou^
 ||iornsfyhueev.com^
@@ -46359,6 +46367,7 @@
 ||kzprugp.xyz^
 ||kzt2afc1rp52.com^
 ||kzuxlydg.icu^
+||kzvcggahkgm.com^
 ||kzwwamf.cn^
 ||kzzs.shop^
 ||kzzwi.com^
@@ -48289,6 +48298,7 @@
 ||lmj8i.pro^
 ||lmjwqbjmkrzyw.top^
 ||lmjy.us^
+||lmkiltdmsgoiony.com^
 ||lmlmvip.com^
 ||lmlzht.xyz^
 ||lmmpjhvli.com^
@@ -57980,6 +57990,7 @@
 ||ooejkd.xyz^
 ||ooeogk.xyz^
 ||ooexkqj.cn^
+||oofptbhbdb.com^
 ||ooftauph.com^
 ||ooftounu.com^
 ||oofycyur.com^
@@ -59137,6 +59148,7 @@
 ||ozwolnonnotv.com^
 ||ozwvd.com^
 ||ozwwawcaxoxh.com^
+||ozwxhoonxlm.com^
 ||ozykeor.icu^
 ||ozzruxazcoxc.com^
 ||p-advg.com^
@@ -60198,6 +60210,7 @@
 ||peelaipu.xyz^
 ||peelecoroner.top^
 ||peelismsenoras.com^
+||peelxotvq.com^
 ||peemee.com^
 ||peepacquisitionavalanche.com^
 ||peepholelandreed.com^
@@ -63135,6 +63148,7 @@
 ||processor.asccommunications.com^
 ||processpardon.com^
 ||processplantation.com^$third-party
+||processsky.com^
 ||procfullcracked.com^
 ||proclamationgumadvocate.com^
 ||proclean.club^
@@ -75653,6 +75667,7 @@
 ||strungcourthouse.com^
 ||strungglancedrunning.com^
 ||struq.com^
+||strvvmpu.com^
 ||strwaoz.xyz^
 ||sts.batmobi.net^
 ||sts.eccmp.com^
@@ -77452,6 +77467,7 @@
 ||tatyboy.top^
 ||tauaddy.com^
 ||taughtwandamazingly.com^
+||taugookoaw.net^
 ||taumeln.com^
 ||tauphaub.net^
 ||taurinkimonos.uno^
@@ -79298,6 +79314,7 @@
 ||tllfouwvkqza.com^
 ||tlolaxalxdk.com^
 ||tlootas.org^
+||tlpltwcgr.com^
 ||tlprbzoi.com^
 ||tlprlf.xyz^
 ||tlpyft.xyz^
@@ -89333,6 +89350,7 @@
 ||wvwfacebook.com^
 ||wvwiietcoombank.com^
 ||wvwl.cn^
+||wvwlykasqttuo.com^
 ||wvwqywz.cn^
 ||wvwxjfjjytaf.com^
 ||wvxcdtuhcagistb.xyz^
@@ -107678,6 +107696,7 @@ painart.ru##body > div[id][style^="display: block"][style*="background: red"]
 pakobserver.net##.tdi_121
 pakobserver.net##.tdi_124
 palestinechronicle.com###media_image-4
+palestinechronicle.com##.widget_media_image > a[href^="https://www.amazon.com/"]
 palimas.org##.video-promo
 pan.baidu.com###share_ad_info_panl
 pan.baidu.com##.decrease-active
@@ -108139,6 +108158,7 @@ plus28.com##a[href*="/?Extend="]
 plus28.com##div[style="margin: auto;width: 960px;margin-bottom: 10px;"]
 plus28.com##div[style="width:270px; height:180px;"]
 plus28.com##div[style="width:960px;margin: auto;"]
+pnn.ps##a[href*="/partners/"]
 po.baidu.com###shareBoxBlank
 pocket-lint.com##.block-inline
 pocket-lint.com##.block-mpu
