@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: hvezeouoomO2Ma4rbDHh2A
+! Checksum: 21a02hPIhtIaCQ9KNJWjPw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240818094054
+! Version: 20240818162509
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-18 09:40:54
-! Total Count: 28662
+! Last modified: 2024-08-18 16:25:09
+! Total Count: 28670
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -40,6 +40,7 @@
 ||0302.pghwwjd.com/777dvd/wapbb.html
 ||0302.pghwwjd.com/777dvd/wapbb.js
 ||0322cfmtl.cc^
+||033ajy.xyz^
 ||0351dvd.cn^$third-party
 ||042.cn/adver/
 ||0439.com/javascript.php?part=advertisement&
@@ -7352,6 +7353,7 @@
 ||finalizeforce.com^$third-party
 ||findnam.xyz^
 ||fineporno.com^
+||fingkndk.com^
 ||fioem.cyou^
 ||fionamignon.com^
 ||firebaseio.com/promo_view.json
@@ -7635,6 +7637,7 @@
 ||fyexyd.icu^
 ||fytpft.xyz^
 ||fyvpzn.xyz^
+||fywaaox.icu^
 ||fzasx.cn^
 ||fzbm.com/bbs/static/js/bma.js
 ||fzcsd33.com^
@@ -8202,6 +8205,7 @@
 ||gwivqo.xyz^
 ||gwrpceo.cn^
 ||gwrtdp-tn690BFAdt.tclclouds.com^
+||gxcdgm.xyz^
 ||gxemtes.xyz^
 ||gxgbvmg.cn^
 ||gxihcq.xyz^
@@ -10836,6 +10840,7 @@
 ||lniwe.xyz^
 ||lnlkmr.xyz^
 ||lnnjnv.xyz^
+||lnnsvj.xyz^
 ||lnpqqq.com^
 ||lnxkrd.xyz^
 ||lnxpdj.xyz^
@@ -11721,6 +11726,7 @@
 ||multporn.net/balolo.php
 ||multporn.net/fern*_pen.js
 ||multporn.net/frunti_punti_lad.js
+||mumnxiex.top^
 ||mundanenail.com^$third-party
 ||mundanepollution.com^$third-party
 ||muntfd62.shop^
@@ -14520,6 +14526,7 @@
 ||shbzdkj.cn^
 ||shbzegs.cn^
 ||shbzgkj.cn^
+||shbzhgs.cn^
 ||shbzhkj.cn^
 ||shbzigs.cn^
 ||shbzikj.cn^
@@ -16590,6 +16597,7 @@
 ||vghkncbu.xyz^
 ||vghnnh.xyz^
 ||vgjaxnuw.xyz^
+||vgxbpf.xyz^
 ||vgxhvt.xyz^
 ||vgzytn.xyz^
 ||vhgunzr.cn^

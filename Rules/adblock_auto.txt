@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: JgUD0AxHA6JPL2jjcZQH2w
+! Checksum: +ZqJ8GH6pYW+JogvBIaQYg
 ! Title: 混合规则(自动更新)
-! Version: 20240818094042
+! Version: 20240818162457
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-18 09:40:42
-! Total Count: 149974
+! Last modified: 2024-08-18 16:24:57
+! Total Count: 149990
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -135,6 +135,7 @@
 ||03180d2d.live^
 ||0322cfmtl.cc^
 ||033.com^$third-party
+||033ajy.xyz^
 ||033dfgh.com^
 ||0342b40dd6.com^
 ||03505ed0f4.com^
@@ -31070,6 +31071,7 @@
 ||fingerprinter-production.herokuapp.com^
 ||fingerprintoysters.com^
 ||fingertipsquintinclusion.com^
+||fingkndk.com^
 ||finishcomplicate.com^
 ||finishdancingwildest.com^
 ||finisheddaysflamboyant.com^
@@ -32918,6 +32920,7 @@
 ||fyvdxqufaxkli.com^
 ||fyvpzn.xyz^
 ||fyvvm.com^
+||fywaaox.icu^
 ||fyyqq.top^
 ||fyzbvwb.cn^
 ||fz2c.top^
@@ -36158,6 +36161,7 @@
 ||gx101.com^
 ||gx2f.top^
 ||gx4g.top^
+||gxcdgm.xyz^
 ||gxcqhawgc.com^
 ||gxcvxdeda.com^
 ||gxdrytainoxadwy.xyz^
@@ -48354,6 +48358,7 @@
 ||lnlxhsjjqfjs.com^
 ||lnmreidn.com^
 ||lnnjnv.xyz^
+||lnnsvj.xyz^
 ||lnonsoygtt.com^
 ||lnpqqq.com^
 ||lnqdtbcrilhrdye.com^
@@ -53670,6 +53675,7 @@
 ||mummedgyrose.com^
 ||mummybeautydebauch.com^
 ||mummydiverseprovided.com^
+||mumnxiex.top^
 ||mumnxwvn.ink^
 ||mumpingwomerah.top^
 ||mundanenail.com^$third-party
@@ -71158,6 +71164,7 @@
 ||shbzdkj.cn^
 ||shbzegs.cn^
 ||shbzgkj.cn^
+||shbzhgs.cn^
 ||shbzhkj.cn^
 ||shbzigs.cn^
 ||shbzikj.cn^
@@ -84977,6 +84984,7 @@
 ||vgw35hwr4w6x.com^
 ||vgwort.de^
 ||vgwtjbeqfpesefn.xyz^
+||vgxbpf.xyz^
 ||vgxhvt.xyz^
 ||vgzytn.xyz^
 ||vh5g.top^
@@ -98693,15 +98701,19 @@ coincarp.com##.interact-mobileBox
 coincheckup.com##.visible-xs > .ng-isolate-scope
 coincheckup.com,coincodex.com###CCx5StickyBottom
 coincodex.com###CCx6StickyBottom
+coincodex.com###CCx7StickyBottom
 coincodex.com###sticky-footerCCx4
 coincodex.com##.\32 023_06_15_bcgame
 coincodex.com##.bottom3
-coincodex.com##.bottom4
+coincodex.com##.bottom5
 coincodex.com##.chart-pos.mobile-b
-coincodex.com##.ldb-1top
+coincodex.com##.homepageCoinList
+coincodex.com##.item-2023_06_15_bcgame
+coincodex.com##.item-kucoin_affiliate
 coincodex.com##.ldb-top
+coincodex.com##.ldb-top2
 coincodex.com##.middle3
-coincodex.com##.middle4
+coincodex.com##.middle5
 coincodex.com##.sidebar-1skyscraper
 coincodex.com##.sidebar-skyscraper
 coincodex.com##div[class*="_sticky-header"]
@@ -100504,6 +100516,7 @@ epicload.com###popconlkr
 epinv.com##.epinv_b
 epinv.com##.epinv_f
 epinv.com##A[href="http://www.epinv.com/post/10450.html"]
+epmonthly.com##.polis-target
 eporner.com###btasd
 eporner.com###deskadmiddle
 eporner.com###infopopup
@@ -105799,6 +105812,7 @@ managertoday.com.tw##.pumkinBox
 manga-miz.vy1.click###header_banner
 manga-raw.club,pornpics.network##div[style^="height: 250px;"]
 manga-raw.club,zhangxinxu.com##div[style^="height: 300px;"]
+manga18.me###index_natvmo
 mangable.com,tutorial9.net,webdesign.org##.bsarocks
 mangabtt.com##div[style="display: flex; justify-content: space-around; flex-flow: wrap; height: 270px;"]
 mangabz.com###bb1
@@ -108719,6 +108733,7 @@ pqworld.com##.left-float-tx
 pr-cy.ru##div[id^="aabb"]
 pr0gramm.com##.side-wide-skyscraper
 practicalecommerce.com##.partners-sidebar
+pravda.com.ua##.advtext
 pravda.com.ua##.unit_side_banner
 pravda.ru##.yaRtbBlock
 prawfsblawg.blogs.com,thomhartmann.com##img[height="200"]
@@ -109406,6 +109421,7 @@ rising.cn##.ggqh
 rising.cn##.lvmama
 rising.cn##.new-1111
 rising.cn##.search-news1
+rivals.com##.Ads_adContainer__l_sg0
 rjfcw.cn##li[style*="1200px"]
 rjno1.com##+js(addEventListener-defuser, error, event.target.tagName)
 rjno1.com##main > div[class^="qnb"]
@@ -112166,7 +112182,7 @@ tvgolo.com##.pub468x60top
 tvmaze.com##.blad
 tvmost.com.hk##.main_ad_b
 tvnz.co.nz##.AdOnPause
-tvnz.co.nz##.Advert
+tvnz.co.nz,world-nuclear-news.org##.Advert
 tvseriesfinale.com##table[width="658"]
 tvshowbox.tw##a[href=" http://www.shumeimotel.com/"] > img
 tvsou.com##.sogou-temp-show
