@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ftlV5NjhMK1Wga03pGNZnQ
+! Checksum: Zy4Km975tL7wIvdi1IcMAQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240819002505
+! Version: 20240819093755
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-19 00:25:05
-! Total Count: 28672
+! Last modified: 2024-08-19 09:37:55
+! Total Count: 28675
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5070,6 +5070,7 @@
 ||cavecurtain.com^$third-party
 ||cb.baidu.com^
 ||cb.com.cn/index/ad/
+||cb61190372.com^
 ||cbcgqs.xyz^
 ||cbcvou.xyz^
 ||cbdm.weathercn.com^
@@ -15256,6 +15257,7 @@
 ||sw76r85eda3k.com/need/h5.
 ||swandlb.top^
 ||swankysquare.com^$third-party
+||swarku.xyz^
 ||sweepsheep.com^$third-party
 ||swelen.com^
 ||swellstocking.com^$third-party
@@ -17505,6 +17507,7 @@
 ||xmi1.top^
 ||xmjajv.xyz^
 ||xmkmryu.icu^
+||xmlgzr.xyz^
 ||xmnkgi.cn^
 ||xmrc.com.cn/net/info/html/
 ||xmsflzmygw.com^

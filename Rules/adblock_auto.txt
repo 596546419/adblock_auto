@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: pUi+EKWmYT3U7U6pQpmLlw
+! Checksum: zzo4mZNcetccxRwoXPRjvA
 ! Title: 混合规则(自动更新)
-! Version: 20240819002453
+! Version: 20240819093743
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-19 00:24:53
-! Total Count: 150004
+! Last modified: 2024-08-19 09:37:43
+! Total Count: 150024
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -72,6 +72,7 @@
 ||*xav.*/guang/*.jpg
 ||0.101tubeporn.com^
 ||0.code.cotsta.ru^
+||0.myikas.com^
 ||0008d6ba2e.com^
 ||001adafg.xyz^
 ||0024aaaa.com^
@@ -4618,6 +4619,7 @@
 ||accusedstone.com^
 ||accusemonacan.com^
 ||accuserannouncementadulthood.com^
+||accuserutility.com^
 ||accustomedinaccessible.com^
 ||accustomreview.com^
 ||acdcdn.com^
@@ -11805,9 +11807,11 @@
 ||avrom.xyz^
 ||avrqaijwdqk.xyz^
 ||avrqikbubjin.com^
+||avrrhodabbk.com^
 ||avseesee.com/amandison.php
 ||avseesee.com/htmls/vlinks.html
 ||avseesee.com/twad
+||avsink3431.fun^
 ||avsplow.com^
 ||avstat.it^
 ||avtbdnwqnwoasm.com^
@@ -11820,6 +11824,7 @@
 ||avvelwamqkbjb.top^
 ||avvelwamqkzzw.top^
 ||avvfjhg.xyz^
+||avview3431.fun^
 ||avvxcexk.com^
 ||avwdyjwtnpc.com^
 ||avwgzujkit.com^
@@ -21133,6 +21138,7 @@
 ||coordinatereopen.com^
 ||cooserdozens.top^
 ||cooshouz.xyz^
+||coosifyshibar.shop^
 ||coostujina.com^
 ||coosync.com^
 ||cootersorry.com^
@@ -23293,6 +23299,7 @@
 ||datingfantasies11.com^
 ||datinggold.com^
 ||datingidol.com^
+||datingiive.net^
 ||datingkoen.site^
 ||datingmeetnet.com^
 ||datingpush.space^
@@ -24590,6 +24597,7 @@
 ||difiel.com^
 ||difies.com^
 ||difmnd.xyz^
+||difyferukentasp.com^
 ||dig.bdurl.net^
 ||dig.chouti.com/advert
 ||dig.qbao.com^
@@ -40250,6 +40258,7 @@
 ||iljhbdp.cn^
 ||iljmp.com^
 ||ilk10.az^
+||ilkindweandthe.info^
 ||illallwoe.com^
 ||illegaleaglewhistling.com^
 ||illegally.wang^
@@ -48444,6 +48453,7 @@
 ||locallyhastefowl.com^
 ||localpoint.ch^
 ||localsearch24.co.uk^
+||localslutsnearme.com^
 ||localsnaughty.com^
 ||localytics.com^
 ||locandalorries.com^
@@ -64811,6 +64821,7 @@
 ||qiaohuailong.work^
 ||qiaopiguniang.com^
 ||qiaoxiaomiao.com^
+||qiaoxz.xyz^
 ||qiapuyyds.com^
 ||qibkkioqqw.com^
 ||qibmrq.xyz^
@@ -66704,6 +66715,7 @@
 ||reducediscord.com^
 ||reducinglousynauseous.com^
 ||redvase.bravenet.com^
+||redvil.co.in^
 ||redwingmagazine.com^
 ||redyzlmc.xyz^
 ||reebbwi.cyou^
@@ -76393,6 +76405,7 @@
 ||swapsprediet.top^
 ||swarfamlikar.com^
 ||swarfsfitters.com^
+||swarku.xyz^
 ||swarmpush.com^
 ||swarthsfulk.com^
 ||swarthyamong.com^
@@ -78232,6 +78245,7 @@
 ||thcdy.co/baidu2/foot.js
 ||thcdy.co/baidu2/index_top.js
 ||thdidx.xyz^
+||thduyzmbtrb.com^
 ||the-adult-company.com^
 ||the-people-group.com^
 ||the4.fun^
@@ -82243,6 +82257,7 @@
 ||tzngisyi.xyz^
 ||tzngtmzpvysh.com^
 ||tznizrhd.xyz^
+||tzpysvqblhn.com^
 ||tzrlfzwyicvj.com^
 ||tzsvodu.cn^
 ||tzugumojfm.com^
@@ -82677,6 +82692,7 @@
 ||uii.io^
 ||uiiepofl.xyz^
 ||uiiwzyv.cn^
+||uilfmzzzu.com^
 ||uilzwzx.com^
 ||uimserv.net^
 ||uingroundhe.com^
@@ -84703,6 +84719,7 @@
 ||vdrn.redplum.com^
 ||vdtxlt.xyz^
 ||vdvcjlp.cn^
+||vdzna.com^
 ||vdzzauf.cn^
 ||ve.kj-cy.cn^
 ||ve0ke.icu^
@@ -87699,6 +87716,7 @@
 ||weilin.xin^
 ||weimeicar.cn^
 ||weimeiwangluo.site^
+||weinas.co.in^
 ||weio6nkoe.cyou^
 ||weipapa.top^
 ||weiqu.cyou^
@@ -90348,6 +90366,7 @@
 ||xmlapiclickredirect10102022.com^
 ||xmlfusion.com^
 ||xmlgrab.com^
+||xmlgzr.xyz^
 ||xmlheartbiddotnet.monster^
 ||xmlking.com^
 ||xmllover.com^
@@ -103670,8 +103689,8 @@ inaporn.com##.container > table[style="padding:20px 20px 0px;"] > tbody > tr > t
 inapps.appsflyersdk.com^
 inbox.com##.slinks
 inchcalculator.com##.results-ad-container-outer
-indaily.com.au##.h-\[100px\]
 indaily.com.au,kbjfree.com,posemaniacs.com##.h-\[250px\]
+indaily.com.au,thenewdaily.com.au##.h-\[100px\]
 independent.co.ug##img[width="320"]
 independent.co.uk##.bXYFQI.dAHemH
 independent.co.uk##.sc-hYYkYm
@@ -103804,7 +103823,7 @@ instantfap.com###af
 instantfap.com##a[href^="https://go.redgifcams.com/"]
 instantshift.com##.sidebar_vps_banner
 instapundit.com###adspace_top > .widget-ad__content
-instavideosave.net##.min-h-\[280px\]
+instavideosave.net,thenewdaily.com.au##.min-h-\[280px\]
 instawank.com###snackbar
 instrument.com.cn###leftFlash
 insurancejournal.com##.bzn
@@ -111283,6 +111302,7 @@ tgstat.com##.r1-aors
 th7.cn##.main > .mb5
 thartribune.com##.adsbypubpower
 the-express.com###web-strip-banner
+the-express.com##.stn-video-container
 the-express.com##[data-tb-non-consent]
 the-independent.com###taboola-mid-article-thumbnails-ii
 the-scientist.com###Torpedo
@@ -111511,7 +111531,6 @@ thenationonlineng.net##.dorvekp-post-bottom
 thenationonlineng.net##.featured__advert__desktop_res
 thenationonlineng.net##.sticky-advert
 thenewdaily.com.au##.h-home-ad-height-stop
-thenewdaily.com.au##.md\:h-\[250px\]
 thenewdaily.com.au##.vf-promo
 thenewslens.com##.help-tnl-container-300_250
 thenewslens.com##.help-tnl-container-970_250
@@ -134896,6 +134915,7 @@ zle.com$script
 ##.ad-wrap--mrec
 ##.ad-wrap-leaderboard
 ##.ad-wrap-transparent
+##.ad-wrap:not(#google_ads_iframe_checktag)
 ##.ad-wrap_wallpaper
 ##.ad-wrapp
 ##.ad-wrapper
