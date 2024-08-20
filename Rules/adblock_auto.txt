@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: eMilHYjntjtO6M/J4clRgg
+! Checksum: dAMAs9T3u5l63pI0PPid6A
 ! Title: 混合规则(自动更新)
-! Version: 20240820002633
+! Version: 20240820093532
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-20 00:26:33
-! Total Count: 150137
+! Last modified: 2024-08-20 09:35:32
+! Total Count: 150153
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1134,6 +1134,7 @@
 ||211600.com/data/attachment/portal/
 ||211xd.com/js
 ||2122aaa0e5.com^
+||21274758.xyz^
 ||213.232.113.250^
 ||213.8.137.51^
 ||2137dc12f9d8.com^
@@ -6800,6 +6801,7 @@
 ||adtracker.mkjigsaw.com^
 ||adtracker.oilpainting.colorbynumber.veraxen.com^
 ||adtraction.com^
+||adtrafficquality.google^
 ||adtraxx.de^
 ||adtrgt.com^
 ||adtriba.com^
@@ -11790,6 +11792,7 @@
 ||avkyu1tesnwy.com^
 ||avlcc.ajscdn.com^
 ||avloan3431.fun^
+||avmonk3431.fun^
 ||avmws.com^
 ||avnmjtqu.com^
 ||avo.app^
@@ -11798,6 +11801,7 @@
 ||avoda-mehabait.co.il^
 ||avoidanudaic.xyz^
 ||avonsour.com^
+||avorgy3431.fun^
 ||avouboojirs.com^
 ||avouchamazeddownload.com^
 ||avouse.com^
@@ -29222,6 +29226,7 @@
 ||events.flagship.io^
 ||events.framer.com^
 ||events.funnelish.com^
+||events.getmodemagic.com^
 ||events.getsitectrl.com^
 ||events.iap.unity3d.com^
 ||events.ifunny.co^
@@ -34789,6 +34794,7 @@
 ||gnojicfj.com^
 ||gnosticwinks.com^
 ||gnounbit.rest^
+||gnqsvrafjtoa.com^
 ||gnqtageoyy.com^
 ||gnrnws.cn^
 ||gnrty.kmjkwe.xyz^
@@ -35630,6 +35636,7 @@
 ||gripspigyard.com^
 ||grirault.net^
 ||grirtouy.com^
+||grislyrooing.click^
 ||gristleupanaya.com^
 ||gritaware.com^
 ||grivupie.net^
@@ -42918,6 +42925,7 @@
 ||jeanrace.com^
 ||jeansalterne.top^
 ||jeanspurrcleopatra.com^
+||jebhnmggi.xyz^
 ||jechusou.com^
 ||jeckear.com^
 ||jecoglegru.com^
@@ -59176,6 +59184,7 @@
 ||oypucuqsuwabnxy.com^
 ||oyqjp.cn^
 ||oyretuk.top^
+||oysterbywordwishful.com^
 ||oysterexhalereview.com^
 ||oysterfoxfoe.com^
 ||oytoworkwithcatuk.com^
@@ -60026,6 +60035,7 @@
 ||payslipselderly.com^
 ||paysqueak.com^
 ||pazashevy.com^
+||pazials.xyz^
 ||pazz.xyz^
 ||pazzfun.com^
 ||pb.adriver.ru^
@@ -64518,6 +64528,7 @@
 ||pzqqstb.icu^
 ||pztezl.xyz^
 ||pzwdtz.com^
+||pzwigrnuimeh.com^
 ||pzwjonv.icu^
 ||pzykrcq.cn^
 ||q*-publick.club^
@@ -72739,6 +72750,7 @@
 ||sl6.top^
 ||slabreasonablyportions.com^
 ||slabshookwasted.com^
+||slacdn.com^
 ||slackb.com^
 ||slahpxqb6wto.com^
 ||slakiervolost.com^
@@ -79383,6 +79395,7 @@
 ||tkcatrun.aotter.net^
 ||tkcatwalk.aotter.net^
 ||tkd777.cn^
+||tkeatlra.com^
 ||tkhwslqsmjwingf.com^
 ||tkickhhylnvm.com^
 ||tkidcigitrte.com^
@@ -85947,6 +85960,7 @@
 ||vjrpnv.xyz^
 ||vjsohgd.com^
 ||vjtskjg.com^
+||vjugz.com^
 ||vjvj.vj24co.com^
 ||vjzjpt.xyz^
 ||vjzlgtnaov.com^
@@ -89356,6 +89370,7 @@
 ||wtg-ads.com^
 ||wthbjrj.com^
 ||wtienle.top^
+||wtjsnlwmx.com^
 ||wtkfxoqolprv.com^
 ||wtm.monitoringservice.co^
 ||wtmhwnv.com^
@@ -93540,6 +93555,7 @@
 ||zprelanding.com^
 ||zprelandings.com^
 ||zprk.io^
+||zprofuqkssny.com^
 ||zpsh.shop^
 ||zpsovpgyk.xyz^
 ||zptxjlh.cn^
