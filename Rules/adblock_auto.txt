@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: dAMAs9T3u5l63pI0PPid6A
+! Checksum: mSzOJ+epcKx5BiRDeL6K0Q
 ! Title: 混合规则(自动更新)
-! Version: 20240820093532
+! Version: 20240820162727
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-20 09:35:32
-! Total Count: 150153
+! Last modified: 2024-08-20 16:27:27
+! Total Count: 150158
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -22843,6 +22843,7 @@
 ||dab.rus-km.ru^
 ||dabai28.com/img/*.gif
 ||dabaicai.ink^
+||dabajd.xyz^
 ||dabao.run^
 ||dabaoku.com^$object,script,subdocument
 ||dabblercissies.com^
@@ -37548,6 +37549,7 @@
 ||hewokhn.com^
 ||hewomenentail.com^
 ||hewonderfulst.info^
+||hewrutu.top^
 ||hexagon-analytics.com^
 ||hexapinow.xyz^
 ||hexcvb.xyz^
@@ -44500,6 +44502,7 @@
 ||jyjbdwox.com
 ||jyjhjopmq.com^
 ||jyjmpatmgk.com^
+||jyjrbz.xyz^
 ||jykhjwb.cn^
 ||jylemdzkh.com^
 ||jylgvkxgfy.com^
@@ -45486,6 +45489,7 @@
 ||kjvnfhdgb.com^
 ||kjwx8.com^
 ||kjwysxs.cn^
+||kjxhd.cn^
 ||kjyouhp.com^
 ||kkacrgx.icu^
 ||kkbbjtfp.xyz^
@@ -52298,6 +52302,7 @@
 ||mixtraff.com^
 ||mixykails.com^
 ||miyaluorenliziuan.cn^
+||miycoc.xyz^
 ||miyou.info^
 ||miyqoyyazdal.com^
 ||miytdie.cn^
@@ -104857,7 +104862,7 @@ justthenews.com##.video--container
 justthenews.com##.video--vdo-ai
 justthenews.com##.view--breaking-news-sponsored
 justthenews.com##div[class*="block-simple-blockad-"]
-justthenews.com,lenovo.com.cn,movieweb.com,screenrant.com##.video
+justthenews.com,lenovo.com.cn,movieweb.com,screenrant.com,thegamer.com##.video
 justwatch.com##.sponsored-recommendation
 juxia.com###fmt
 juxia.com##.game_img_list
