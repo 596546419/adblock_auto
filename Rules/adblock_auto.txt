@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: mSzOJ+epcKx5BiRDeL6K0Q
+! Checksum: +1VI4UhSCUH5MrnOKIaWQw
 ! Title: 混合规则(自动更新)
-! Version: 20240820162727
+! Version: 20240821002559
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-20 16:27:27
-! Total Count: 150158
+! Last modified: 2024-08-21 00:25:59
+! Total Count: 150164
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -12615,6 +12615,7 @@
 ||baijs06.xyz^
 ||baijs07.shop^
 ||baijs07.xyz^
+||baijs08.shop^
 ||baijs08.xyz^
 ||baikalize.com^
 ||baike.com/iframeheightforad.
@@ -25792,6 +25793,7 @@
 ||doujs06.xyz^
 ||doujs07.shop^
 ||doujs07.xyz^
+||doujs08.shop^
 ||doujs08.xyz^
 ||doujs09.xyz^
 ||doukoula.com^
@@ -55732,6 +55734,7 @@
 ||ningsiy.xin^
 ||ningxiayy.com^
 ||ninja.akamaized.net^
+||ninja.data.olxcdn.com^
 ||ninja.onap.io^
 ||ninkorant.online^
 ||ninnycoastal.com^
@@ -101354,6 +101357,7 @@ focus.cn##.index-app-download
 focus.cn##.module-common-float-im
 focus.cn##.qhb-fixed
 focus.cn##.shequn-code-img
+fodors.com##.video-inline
 fodors.com,thehulltruth.com##div[class^="ad-placeholder"]
 followme.cn##.fm-banner-social
 followme.cn##.money-box
@@ -105252,6 +105256,7 @@ laogu.cc##.rowIvy
 laohu8.com##.app-button
 laohu8.com##.top-recommend
 laowang.vip###frameYl5IOf
+laowangblog.com##img[src^="https://laowangblog.com/"][src*="-ad"]
 laozuo.org##.s_ad125
 lapa.ninja##.col-sm-1
 laravel-news.com##.relative:has([wire\:key="article-ad-card"])
@@ -136689,6 +136694,7 @@ zle.com$script
 ##.adroot
 ##.adrotate-sponsor
 ##.adrotate-widget
+##.adrotate_ads_row
 ##.adrotate_top_banner
 ##.adrotate_widget
 ##.adrotate_widgets
