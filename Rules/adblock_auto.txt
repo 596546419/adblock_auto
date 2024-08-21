@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: CDE/H00kfEnwLyJ05+2bDw
+! Checksum: bf/5b3YOkn63Xc4xJO6UPA
 ! Title: 混合规则(自动更新)
-! Version: 20240821162720
+! Version: 20240822002823
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-21 16:27:20
-! Total Count: 150212
+! Last modified: 2024-08-22 00:28:23
+! Total Count: 150221
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -27004,6 +27004,7 @@
 ||earplugmolka.com^
 ||earringsatisfiedsplice.com^
 ||earsanagep.com^
+||earshambitty.com^
 ||earthenicings.com^
 ||earthlyyowe.com^
 ||earthquakehomesinsulation.com^
@@ -51105,6 +51106,7 @@
 ||me680.com/js/*.js
 ||me6q8.top^
 ||me7x.site^
+||meableabede.click^
 ||meadowdocumentcaprizecaprize.com^
 ||meadowlullaby.com^$third-party
 ||meager-object.com^
@@ -68073,6 +68075,7 @@
 ||rkv9.top^
 ||rkvyhuyab.com^
 ||rkwithcatuk.org^
+||rkwxfi.xyz^
 ||rkxy.com.cn/js/text_
 ||rkymfevzeq.com^
 ||rkyynuthufhutew.xyz^
@@ -84404,6 +84407,7 @@
 ||valuablecompositemagnanimity.com^
 ||valuableenquiry.com^
 ||valuad.cloud^
+||valuatesharki.com^
 ||valuationbothertoo.com^
 ||valuead.com^
 ||valuebreeches.com^
@@ -92266,6 +92270,7 @@
 ||ytezym.xyz^
 ||ytfezzava.com^
 ||ytfotjfrttgyal.com^
+||ytghtq.xyz^
 ||ytgngedq.xyz^
 ||ytgzz.com^
 ||ythingy.com^
@@ -98660,6 +98665,7 @@ cmswire.com##[class^="styles_article__text-ad"]
 cmswire.com##[class^="styles_article__top-ad-wrapper"]
 cn-healthcare.com##.fh_ad_wrap
 cn-healthcare.com##.fh_advent_wrap
+cn.bing.com##.b_bza_pole
 cn.bing.com#?##b_results > li:-abp-has(.b_adProvider)
 cna.com.tw##.ad_336_2
 cna.com.tw#$#.fb_fanpage_inpage > .other_news_box_2 { padding: 0 0px!important; margin: 26px 0!important; }
@@ -102364,6 +102370,7 @@ googleping.com###itro_opaco
 googleping.com###itro_popup
 googleping.com##.dtext
 googlesightseeing.com##.comm-square
+goosedaily.com##.lightboxbnr
 gosearchresults.com##.listing-right
 gosexpod.com###xtw
 gosexpod.com###zzz-on-video-o
@@ -105658,8 +105665,10 @@ logupdateafrica.com###rotating-item-wrapper
 lohas.pixnet.net###box785805
 lol.ps##.adpage
 lol.ps##.instream-video-ad
-lolalytics.com##.hidden.lg\:block
-lolalytics.com##div[on\:qvisible="q-BzvhLw3q.js#_hW[0]"]
+lolalytics.com##.h-\[600px\]
+lolalytics.com##.h-\[90px\]
+lolalytics.com##.w-\[336px\]
+lolalytics.com##[id$=":inline"]
 loldk.com###meizi_ad
 loldk.com###test_ad + #model
 loldk.com##.appfix

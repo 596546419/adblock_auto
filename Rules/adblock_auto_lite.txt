@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: wsbI3UaSnZkB3m6itOAQ2Q
+! Checksum: it5Yi9BPD2vu9spqRPvTHQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240821162731
+! Version: 20240822002835
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-21 16:27:31
-! Total Count: 28692
+! Last modified: 2024-08-22 00:28:35
+! Total Count: 28700
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -846,6 +846,7 @@
 ||555bbb555www.com^
 ||555bbb777www.com^
 ||555ppp777ppp.com^
+||55726zubo56686.com^
 ||5588.tv/js/piaofuImg.js
 ||5598tp.com^$domain=9xav.cc
 ||55aaee.com/detail/
@@ -987,6 +988,7 @@
 ||66wz.com/eap/
 ||67.21.92.*.gif
 ||6789.net^$third-party
+||6820tp1.com^
 ||68287zubo85737.com^
 ||6888i.top^
 ||688aaa.us^
@@ -1563,6 +1565,7 @@
 ||abcdcfasda.gushiwen.cn^
 ||abcj.dooccn.com^
 ||abcporntube.com^
+||abcqq36q.vip^
 ||abcxs.net^
 ||abczxw.com/skin/bbb/pc/js/bd.js
 ||abdd*.com/js/abc/
@@ -9233,6 +9236,7 @@
 ||imgopen.vip^
 ||imgoss2255.top^
 ||imgoss511.top^
+||imgoss820.top^
 ||imgroom.net/images/*.gif
 ||imgs.cc/images/ad_
 ||imgs.cc/img/8Pl6FJY.gif
@@ -13932,6 +13936,7 @@
 ||rksnqq.com^
 ||rktddv.xyz^
 ||rkv9.top^
+||rkwxfi.xyz^
 ||rkxy.com.cn/js/text_
 ||rlhtnnm.xyz^
 ||rlqoyht.icu^
@@ -14194,6 +14199,7 @@
 ||satisfyingspark.com^$third-party
 ||satroki.tech/api/JdUnion
 ||saulmy.xyz^
+||sauyv.top^
 ||savionl.com^
 ||savoryorange.com^$third-party
 ||savorystructure.com^$third-party
@@ -15827,6 +15833,7 @@
 ||toyhyhv.icu^
 ||tozwrqnq.xyz^
 ||tp.sgcn.com^
+||tp1902abd.com^
 ||tp4sul.jwzd.com.cn^
 ||tpbid.com^
 ||tpc.googlesyndication.com$domain=promiflash.de,redirect=noop.txt,important,image,media,subdocument,stylesheet,script,xmlhttprequest,other
@@ -18077,6 +18084,7 @@
 ||ytcxflak.xyz^
 ||ytelc.com^$third-party
 ||ytezym.xyz^
+||ytghtq.xyz^
 ||ytjzqde.xyz^
 ||ytlcz.cn^
 ||ytoeyxz.icu^
