@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: +1VI4UhSCUH5MrnOKIaWQw
+! Checksum: ZBbCrBMq2nqvxTHpmSSxtQ
 ! Title: 混合规则(自动更新)
-! Version: 20240821002559
+! Version: 20240821093630
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-21 00:25:59
-! Total Count: 150164
+! Last modified: 2024-08-21 09:36:30
+! Total Count: 150183
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1952,6 +1952,7 @@
 ||4030b44c32.com^
 ||40407.com/plus/rpad/
 ||40407.com/plus_rpad_
+||40451343.xyz^
 ||4073284684.com^
 ||407433bfc441.com^
 ||407mp3.com/js/*.js
@@ -8207,6 +8208,7 @@
 ||alchemeeten.com^
 ||alchemysocial.com^
 ||alchimybegins.com^
+||alcidkits.com^
 ||alcmpn.com^
 ||alcovesoftenedenthusiastic.com^
 ||alcroconawa.com^
@@ -11691,6 +11693,7 @@
 ||autoua.com^
 ||autous.ru^
 ||autumncamping.com^
+||autumndrum.com^
 ||autumnleaf.ltd^
 ||autyxdek.xyz^
 ||auuegnvbhx.xyz^
@@ -13697,6 +13700,7 @@
 ||behe.com^$third-party
 ||beheadmuffleddetached.com^
 ||beheldconformoutlaw.com^
+||behesttitus.com^
 ||behick.com^
 ||behim.click^
 ||behinava.com^
@@ -19161,6 +19165,7 @@
 ||circusinjunctionarrangement.com^
 ||circusmediocre.com^
 ||cirmudcap.com^
+||cirrateremord.com^
 ||cirruscarnival.com^
 ||cirsoaksat.net^
 ||cirsoiddanize.com^
@@ -21421,7 +21426,6 @@
 ||counter.web.money^
 ||counter.webmart.de^
 ||counter.websiteout.net^
-||counter.wikiwiki.jp^
 ||counter.yandro.ru^
 ||counter.zerohedge.com^
 ||counter1.fc2.com^
@@ -21523,6 +21527,7 @@
 ||cowerscrowers.top^
 ||cowm199.com^
 ||cowmankai.com^
+||cowroidforril.click^
 ||cowscrayon.com^$third-party
 ||cowtpvi.com^
 ||coxaesmooth.digital^
@@ -25207,6 +25212,7 @@
 ||dkfixj.xyz^
 ||dkfmhv.xyz^
 ||dkgmgj.xyz^
+||dkhffh.xyz^
 ||dkihlqwmd.com^
 ||dkjwbv.xyz^
 ||dklkxb.xyz^
@@ -29429,7 +29435,6 @@
 ||exactdrive.com^
 ||exactsag.com^
 ||exacttarget.api.mashery.com^
-||exacttarget.com^
 ||exad.smi2.ru^
 ||exaggeratekindnessvocal.com^
 ||exaggeratestamppost.com^
@@ -41602,6 +41607,7 @@
 ||intuitionguffaw.com^
 ||intuitiontrenchproduces.com^
 ||intuitspisan.com^
+||intuseseorita.com^
 ||inuapixndextq.xyz^
 ||inuedidgmapla.com^
 ||inulaserenegue.top^
@@ -48255,6 +48261,7 @@
 ||lkdhlp.xyz^
 ||lkdvvxvtsq6o.com^
 ||lkdybkwi.xyz^
+||lkdyft.xyz^
 ||lkenflknkd.com^
 ||lketpgwauan.com^
 ||lkeurotpmiz.com^
@@ -56141,6 +56148,7 @@
 ||noptog.com^
 ||noqukjy.com^
 ||norakseemlyntr.com^
+||norardmirror.com^
 ||nordicresearch.com^
 ||nordpresse.be/wp-content/uploads/$script
 ||norentisol.com^
@@ -60271,6 +60279,7 @@
 ||peaveynee.top^
 ||pebadu.com^
 ||pebansokes.uno^
+||pebbledteledus.com^
 ||pebblemedia.be^
 ||pebbleoutgoing.com^
 ||pebed.dm-event.net^
@@ -62656,6 +62665,7 @@
 ||pouchadjoinmama.com^
 ||pouchaffection.com^
 ||pouchclockwise.com^
+||pouchedathelia.com^
 ||poudrinnamaste.com^
 ||poufaini.com^
 ||poufsgausses.top^
@@ -70271,6 +70281,7 @@
 ||searchresultsadblocker.com^
 ||searchsecurer.com^
 ||searchtds.ru^
+||searswalers.com^
 ||seashorelikelihoodreasonably.com^
 ||seashoremessy.com^
 ||seashorepigeonsbanish.com^
@@ -75405,6 +75416,7 @@
 ||sternlythese.com^
 ||steropestreaks.com^
 ||sterouhavene.org^
+||stertordorab.com^
 ||steshacm.xyz^
 ||stethaug.xyz^
 ||stethuth.xyz^
@@ -84962,6 +84974,7 @@
 ||veobeitkalson.info^
 ||veoxa.com^
 ||veoxphl.com^
+||vepemtuphul.net^
 ||vephowcpyvncm.com^
 ||ver-pelis.net^
 ||verageousarra.xyz^
@@ -87784,6 +87797,7 @@
 ||weekslw.com^
 ||weemofee.com^
 ||ween.bid^
+||weephuwe.xyz^
 ||weepingheartache.com^
 ||weepingpretext.com^
 ||weeprobbery.com^
@@ -89266,6 +89280,7 @@
 ||wrgjbsjxb.xyz^
 ||wriedwite.uno^
 ||wrient.com^
+||wrightdirely.com^
 ||wringdecorate.com^
 ||wrinkleirritateoverrated.com^
 ||wristtrunkpublication.com^
@@ -92385,6 +92400,7 @@
 ||yuvvddt.cn^
 ||yuwangshe.net/astyle/wap.
 ||yuwenbin.host^
+||yuwqsk.xyz^
 ||yv8zs.online^
 ||yvajogj.cn^
 ||yvbjctqs.xyz^
@@ -109727,7 +109743,9 @@ saharareporters.com##.body-inject
 saigoneer.com##.bannergroup-main
 sailingmagazine.net##.divclickingdivwidget
 sailingmagazine.net##center > font
+sainsburys.co.uk#?#.pd-merchandising-product:has([data-testid="citrus-label"]:-abp-contains(Sponsored))
 sainsburys.co.uk#?#.pt-grid-item:-abp-has([data-test-id="citrus-label"]:-abp-contains(Sponsored))
+sainsburys.co.uk#?#.pt-grid-item:has([data-testid="citrus-label"]:-abp-contains(Sponsored))
 sainsburysmagazine.co.uk###adSlot-featuredInBlue
 sakurajav.com,sex-jav.com##.videos-list-isHome > #isLatest
 sakurajav.com,sex-jav.com##iframe[data-ce-src^="https://promo-bc.com/"]
@@ -112569,6 +112587,7 @@ unikoshardware.com##.elementor-widget-sidebar a[href^="https://bit.ly/"]
 unikoshardware.com##.theiaStickySidebar a[href^="https://bit.ly/"]
 unikoshardware.com##.widget_jnews_popular ~ .uniko-widget
 unilad.com##.css-zmf6il
+unilad.com##.floating-video-player_container__u4D9_
 unilad.com##div[class^="advert-placeholder_"]
 unionpedia.org##div[style^="margin-top: 15px; min-width: 300px"]
 unitconversion.org###ileft
