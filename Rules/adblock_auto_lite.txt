@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: it5Yi9BPD2vu9spqRPvTHQ
+! Checksum: liDOUgvnar6thVQWkz6U1w
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240822002835
+! Version: 20240822093756
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-22 00:28:35
-! Total Count: 28700
+! Last modified: 2024-08-22 09:37:56
+! Total Count: 28705
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -10217,6 +10217,7 @@
 ||kgidskid.top^
 ||kgnpwdf.cn^$third-party
 ||kgqcse.xyz^
+||kgubus.xyz^
 ||khcsvdc.icu^
 ||khrtac.xiangha.com^
 ||khzyojb.cn^
@@ -13286,6 +13287,7 @@
 ||pwc.qktmwiq.cn^
 ||pwcegau.icu^
 ||pwddhc.xyz^
+||pwfqjp.xyz^
 ||pwhkfd.xyz^
 ||pwhtip.icu^
 ||pwnews.net/des/antiblock.js$script
@@ -13762,6 +13764,7 @@
 ||rdufuxr.icu^
 ||rdx.autohome.com.cn^
 ||re.taotaosou.com^
+||reacdf311.cn^
 ||reachableads-av.*.amazonaws.com^
 ||read*.me/app/*.js$script
 ||readgoldfish.com^$third-party
@@ -15986,6 +15989,7 @@
 ||tubxporn.xxx/js/xp.js
 ||tudxhzj.cn^
 ||tuffhf.xyz^
+||tufzdj.xyz^
 ||tuhipkz.xyz^
 ||tuhzjrr.cn^
 ||tui.gtimg.com//res/
@@ -16954,6 +16958,7 @@
 ||wdxxx.top^
 ||wdygoi.xyz^
 ||we560.com/js/*.js
+||weacdf211.cn^
 ||weagehn.icu^
 ||weaquc.xyz^
 ||wearbasin.com^$third-party
