@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 9X7GokISRgTDNRtP15+fYA
+! Checksum: pZHnXRocNEmUH6Drb3RWww
 ! Title: 混合规则(自动更新)
-! Version: 20240822162704
+! Version: 20240823003006
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-22 16:27:04
-! Total Count: 150246
+! Last modified: 2024-08-23 00:30:06
+! Total Count: 150255
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -92,6 +92,7 @@
 ||00eeekk.com//html5/activityPage/
 ||00xvppy.cn^
 ||010172.com^
+||01045395.xyz^
 ||012.tw^$third-party
 ||012024jhvjhkozekl.space^
 ||01220b75a7.com^
@@ -5840,6 +5841,7 @@
 ||admixer.net^
 ||admjmp.com^
 ||admo.tv^
+||admob-app-id-*.firebaseio.com^
 ||admob-cn.com^
 ||admob.com^
 ||admobe.com^
@@ -9245,6 +9247,7 @@
 ||analytics.faceitanalytics.com^
 ||analytics.fam.ir^
 ||analytics.fap.bar^
+||analytics.faprika.net^
 ||analytics.fatmedia.io^
 ||analytics.favcy.com^
 ||analytics.fcgtalent.fi^
@@ -9528,6 +9531,7 @@
 ||analytics.vackertvader.se^
 ||analytics.vadio.com^
 ||analytics.valiuz.com^
+||analytics.valotool.com^
 ||analytics.vanillaforums.com^
 ||analytics.vedantu.com^
 ||analytics.vendemore.com^
@@ -30291,6 +30295,7 @@
 ||fasciaekatcina.com^
 ||fascinateddashboard.com^
 ||fascinatedfeather.com^$third-party
+||fasgazazxvi.com^
 ||fashionabacus.com^
 ||fashionablegangsterexplosion.com^
 ||fashionacreak.life^
@@ -31614,6 +31619,7 @@
 ||flx2.pnl.agency^
 ||flxpxl.com^
 ||fly-ads.net^
+||flyads1.com^
 ||flyerseminarmaintenance.com^
 ||flyersquare.com^
 ||flyerveilconnected.com^
@@ -82755,6 +82761,7 @@
 ||ufptkylyfa.com^
 ||ufqxgccf.com^
 ||ufsbauge.com^
+||uftcfo.xyz^
 ||ufynxmf.cn^
 ||ufz.doesxyz.com^
 ||ufzanvc.com^
@@ -104524,9 +104531,10 @@ javfor.tv##.banner-c
 javfor.tv##.banner-top-b
 javfor.tv##.text-md-center
 javfor.tv,javhub.net##.my-2.container
+javgg.co,javgg.net##.home_iframead > a[target="_blank"] > img
+javgg.co,javgg.net##.module > div[style="text-align: center;"]
 javgg.net###adlink
 javgg.net##.home_iframead
-javgg.net##.home_iframead > a[target="_blank"] > img
 javgg.net##.home_iframead:has(> iframe)
 javgg.net##[href^="https://onlyfans.com/action/trial/"]
 javgg.net##iframe.lazyloaded.na
@@ -112152,6 +112160,7 @@ toolfk.com##wavy ~ a
 tools.2345.com##._hb-box + .mod
 toolslib.net##.custom
 toolslib.net##.row > .col-md-7 > .panel-default
+top.gg##.chakra-stack.css-15xujv4
 top.gg##[class*="__AdContainer-"]
 top100token.com##.swiper_div.right-pad
 top16.net##.img_wrap
