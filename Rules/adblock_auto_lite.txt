@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: unEivtcLHrklDLq1hdFlaQ
+! Checksum: qrN+T2NdXFwTqB/j1NDMaA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240823003018
+! Version: 20240823093639
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-23 00:30:18
-! Total Count: 28708
+! Last modified: 2024-08-23 09:36:39
+! Total Count: 28713
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4852,6 +4852,7 @@
 ||buzzhand.com/images/$subdocument
 ||buzzonclick.com^
 ||buzztoon*.com/data/*.gif
+||bvdenx.xyz^
 ||bvhvnt.xyz^
 ||bvlang.com/ad/
 ||bvmqkla.de/files/photo/$third-party
@@ -6744,6 +6745,7 @@
 ||e9377f.com^$redirect=noop-0.1s.mp3,domain=eastday.com,media
 ||eaaaej.icu^$third-party
 ||eabvmue.cn^
+||eacdf119.cn^
 ||eacqihh.icu^
 ||eaezoi.xyz^
 ||eagereden.com^$third-party
@@ -8052,6 +8054,7 @@
 ||goole20.shop^
 ||goole24.shop^
 ||goopi.cyou^
+||goosedaily.com/advertise/
 ||goproxy.cc/api.php
 ||gorgeousground.com^$third-party
 ||gorpgeu.xyz^
@@ -15535,6 +15538,7 @@
 ||teenyvolcano.com^$third-party
 ||teethfan.com^$third-party
 ||tehgfn.xyz^
+||tehxzz.xyz^
 ||tekmhvbb.xyz^
 ||teknoseyir.com/wp-content/themes/ts/sponsor-mobile.php
 ||telemetryverification.net^
@@ -17033,6 +17037,7 @@
 ||wfndponfd.com^
 ||wfpjeul.cn^
 ||wfqgfaa.cn^
+||wfsmya.xyz^
 ||wftyehw.cn^
 ||wgidskie.top^
 ||wgzgzmu.cn^

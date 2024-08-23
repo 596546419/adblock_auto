@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: pZHnXRocNEmUH6Drb3RWww
+! Checksum: NggyGPy1fFwI6yrqdE0geA
 ! Title: 混合规则(自动更新)
-! Version: 20240823003006
+! Version: 20240823093627
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-23 00:30:06
-! Total Count: 150255
+! Last modified: 2024-08-23 09:36:27
+! Total Count: 150299
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -443,6 +443,7 @@
 ||104.203.214.3^
 ||104.203.72.254^
 ||104.233.177.93^
+||1050631164.rsc.cdn77.org^
 ||10523745.xyz^
 ||105app.com^
 ||106c6423c3.com^
@@ -788,6 +789,7 @@
 ||17271819.com^
 ||172872.com^
 ||1736253261.rsc.cdn77.org^
+||1739135659.rsc.cdn77.org^
 ||173app.com/hot/666/alipay-
 ||173e.cn^
 ||174.123.15.43:8080
@@ -2402,6 +2404,7 @@
 ||5726303d87522d05.com^
 ||572k3.com^
 ||573569djd.com^
+||574ae48fe5.com^
 ||57573zubo36833.com^
 ||57577.live^$csp=script-src
 ||576de58030.com^
@@ -11750,6 +11753,7 @@
 ||avazudsp.net^
 ||avazunativeads.com^
 ||avazutracking.net^
+||avbang3431.fun^
 ||avbulb3431.fun^
 ||avcao.cc/js/p.js
 ||avcity.twavtv.com/iframe/
@@ -11828,6 +11832,7 @@
 ||avpris.ru^
 ||avprotect.store^
 ||avqhelxlb.com^
+||avroad3431.fun^
 ||avrom.xyz^
 ||avrqaijwdqk.xyz^
 ||avrqikbubjin.com^
@@ -16432,6 +16437,7 @@
 ||buqbxdqurj.xyz^
 ||buqkrzbrucz.com^
 ||buqumxalotikf.com^
+||buram.xyz^
 ||buranablated.digital^
 ||burbtoao.com^
 ||burdaffi.burdadigital.pl^
@@ -16594,6 +16600,7 @@
 ||bvbypswhds.com^
 ||bvcsfcx.com^
 ||bvcxd.com^
+||bvdenx.xyz^
 ||bvepgbnjgdubvz.com^
 ||bveyge.com^
 ||bvfmdoo.cn^
@@ -18555,6 +18562,7 @@
 ||chauckoo.xyz^
 ||chaudoubeets.net^
 ||chaudrep.net^
+||chaugnortuw.net^
 ||chaugroo.net^
 ||chauinubbins.com^
 ||chauksoa.net^
@@ -24850,6 +24858,7 @@
 ||dirty.games^
 ||dirtyasmr.com^
 ||dirtysuspension.com^
+||dirvimctifiz.com^
 ||disaaf.com^
 ||disable-adverts.com^
 ||disableadblock.com^
@@ -26938,6 +26947,7 @@
 ||eabrgisajgzahx.com^
 ||eabvmue.cn^
 ||eac0823ca94e3c07.com^
+||eacdf119.cn^
 ||eacdn.com^
 ||eacfiii.com^
 ||eachiv.com^
@@ -33938,6 +33948,7 @@
 ||gettopup.com^
 ||gettraff.com^
 ||gettraffnews.com^
+||gettrf.org^
 ||getui.com^
 ||getupwoleai.com^
 ||getvideoz.click^
@@ -35160,6 +35171,7 @@
 ||gooooogle.xyz^
 ||goopi.cyou^
 ||goosebomb.com^
+||goosedaily.com/advertise/
 ||goosetension.com^
 ||goosimes.com^
 ||goossb.com^
@@ -37349,6 +37361,7 @@
 ||heiye.cc/js/xuanfu.js
 ||hejbd.cn^
 ||hejing.cloud^
+||hejqtbnmwze.com^
 ||hejrspjwu.com^
 ||hekcctie.cyou^
 ||hekeroyot.com^
@@ -44761,6 +44774,7 @@
 ||kanpb.com/skin/images/
 ||kanpp.net/Uploads/ad/
 ||kanqiuba.net/js/
+||kansacklfrjr.com^
 ||kansanscichar.com^
 ||kanshu.buzz^
 ||kanshu5.net/js/index.js
@@ -46142,6 +46156,7 @@
 ||ktrfzka.com^
 ||ktrmmxocabjd.com^
 ||kttoo1.com^$domain=9xav.cc
+||ktureukworekto.com^
 ||ktvjpmi.xyz^
 ||ktvtxir.xyz^
 ||ktwwzqdx.xyz^
@@ -46832,6 +46847,7 @@
 ||largepeering.com^
 ||largerinscale.cfd^
 ||laridaetrionfo.top^
+||larkenjoyedborn.com^
 ||larkyabandum.com^
 ||larontale.com^
 ||laronwinepot.top^
@@ -47792,6 +47808,7 @@
 ||lifetds.com^
 ||lifetimeagriculturalproducer.com^
 ||lifetimeroyaltybestial.com^
+||lifewaykisan.click^
 ||liffic.com^
 ||lifiads.com^
 ||lifict.com^
@@ -49317,6 +49334,7 @@
 ||lppwnue.cn^
 ||lpravybegqv.com^
 ||lps.qantas.com^
+||lptag.liveperson.net^
 ||lptcfrgq.com^
 ||lptiljy.com^
 ||lptrak.com^
@@ -51164,6 +51182,7 @@
 ||measurementapi.com^
 ||measurementaz.com^
 ||measurementpond.com^
+||measuring-pixel-service.alza.cz^
 ||measuringcabinetclerk.com^
 ||measuringrules.com^
 ||meatinerhitles.xyz^
@@ -53185,6 +53204,7 @@
 ||mori.ink^
 ||morict.com^
 ||morionsluigini.digital^
+||moriscogabbles.com^
 ||morlsbli.cyou^
 ||mormonindianajones.com^
 ||mormont.gamer-network.net^
@@ -56731,6 +56751,7 @@
 ||nvvqrv.xyz^
 ||nvwanyyds.com^
 ||nvxcvyfedg.com^
+||nvzaezebhow.com^
 ||nvzcoggh.com^
 ||nvzffl.cn^
 ||nwadakesc.cyou^
@@ -57891,6 +57912,7 @@
 ||onautcatholi.xyz^
 ||onboardhairy.com^
 ||oncdiranwrus.com^
+||oncesets.com^
 ||oncgqzu.cn^
 ||onclarck.com^
 ||onclasrv.com^
@@ -59568,6 +59590,7 @@
 ||pajtll.xyz^
 ||pakbanners.com^
 ||pakenta.xyz^
+||palaesavgs.com^
 ||palakahone.com^
 ||palama2.co^
 ||palama2.com^
@@ -61555,6 +61578,7 @@
 ||pjj9su.xyz^
 ||pjjlbjd.cn^
 ||pjjpp.com^
+||pjkfmxvsjtyp.com^
 ||pjkyxrd15e.ru^
 ||pjlufuwtxv.com^
 ||pjnwmbz.com^
@@ -61727,6 +61751,7 @@
 ||plausible.ams.to^
 ||plausible.citynews.ovh^
 ||plausible.omgapi.org^
+||plausible.pronouns.cc^
 ||plausible.scimago.es^
 ||plausible.server.hakai.app^
 ||plausible.simplelogin.io^
@@ -65810,6 +65835,7 @@
 ||qwrot.cyou^
 ||qwrwawwmblwbb.top^
 ||qwrwawwmblybj.top^
+||qwrwhosailedbe.info^
 ||qwsad.com^
 ||qwsanan.top^
 ||qwtag.com^
@@ -69590,6 +69616,7 @@
 ||sandtheircle.com^
 ||sanduon.com^
 ||sandwich3452.fun^
+||sandwichconscientiousroadside.com^
 ||sandwichdeliveringswine.com^
 ||sandyconference.com^
 ||sandyrecordingmeet.com^
@@ -69649,6 +69676,7 @@
 ||sarapbeh.com^
 ||sarcasmidentifiers.com^
 ||sarcasticdismalconstrue.com^
+||sarcasticnotarycontrived.com^
 ||sarcelgusla.com^
 ||sarcineamender.store^
 ||sarcinedewlike.com^
@@ -72766,6 +72794,7 @@
 ||skolvortex.com^
 ||skoovyads.com^
 ||skroutza.skroutz.gr^
+||sks.mrkhub.com^
 ||skskssso.com^
 ||skt-asum.com^
 ||skuligpzifan.com^
@@ -77977,6 +78006,7 @@
 ||tehgfn.xyz^
 ||tehous.com^
 ||tehras.com^
+||tehxzz.xyz^
 ||teiankythes.top^
 ||teicdn.com^
 ||teiidsfortune.com^
@@ -77988,6 +78018,7 @@
 ||teknoseyir.com/wp-content/themes/ts/sponsor-mobile.php
 ||teksishe.net^
 ||tel-tel-fie.com^
+||telcyhlw.com
 ||telechargementdirect.net^
 ||telegraf.detmir-stats.ru^
 ||telegram.app0w.ltd^
@@ -83015,6 +83046,7 @@
 ||umami.aigenerations.net^
 ||umami.is^
 ||umami.nordiskehandel.cloud^
+||umami.subdavis.com^
 ||umbel.com^
 ||umbersurf.top^
 ||umbretalen.com^
@@ -88047,6 +88079,7 @@
 ||wfpjeul.cn^
 ||wfqgfaa.cn^
 ||wfredir.net^
+||wfsmya.xyz^
 ||wfthumty.pm^
 ||wftyehw.cn^
 ||wfubtuatsa.com^
@@ -88735,6 +88768,7 @@
 ||wjslw.mobi^
 ||wjtij.top^
 ||wjudihl.com^
+||wjvavwjyaso.com^
 ||wjvyorreejezm.top^
 ||wjvyorreejkzw.top^
 ||wjwod.cyou^
@@ -93761,6 +93795,7 @@
 ||zugo.com^
 ||zuhempih.com^
 ||zuiacg.com/images/client/
+||zujibumlgc.com^
 ||zujilife.online^
 ||zujoupso.net^
 ||zukary.com^
@@ -102401,6 +102436,7 @@ googleping.com###itro_popup
 googleping.com##.dtext
 googlesightseeing.com##.comm-square
 goosedaily.com##.lightboxbnr
+goosedaily.com##div[class^="ad-area-"]
 gosearchresults.com##.listing-right
 gosexpod.com###xtw
 gosexpod.com###zzz-on-video-o
@@ -105170,6 +105206,9 @@ kocpc.com.tw##[ad="show"]
 kocpc.com.tw##ads
 kocpc.com.tw#$##header > nav.floated-navbar { top: 0!important; }
 koding.work#?#.sidebar > .widget_text:has(> .textwidget > .adsbygoogle)
+kogan.com#?#._2EeeR:-abp-contains(Sponsored)
+kogan.com#?#.rs-infinite-scroll > div:-abp-contains(Sponsored)
+kogan.com#?#.slider-slide:-abp-contains(Sponsored)
 kohls.com###PDP_monetization_HL
 kohls.com###PMP_monetization_HL
 kohls.com###kmnsponsoredbrand-sponsored_top-anchor
@@ -105359,6 +105398,8 @@ laweekly.com##.law_center_ad
 lawinsider.com##.section-inline-partner-ad
 lawtv.com.cn##div[style=" width:664px; height:260px;  margin-top:10px;"]
 layui.com##.layui-layer-tips
+lazada.*##.pdp-block__product-ads
+lazada.co.id,lazada.co.th,lazada.com.my,lazada.com.ph,lazada.sg,lazada.vn##.pdp-block__product-ads
 lbcgroup.tv##.ScriptDiv
 lbx777.com,lbx777.net##table[width="325"][height="280"]
 lbyczf.com##.content__default > .list
@@ -112919,6 +112960,7 @@ videocardz.com##.google-sidebar
 videocelebs.net##.recl
 videofun.me###flowplayer > div[class][style]:first-child
 videogamemods.com##.topbanners
+videogamer.com###block-aside-ad-unit
 videogames.si.com##.m-video
 videogameschronicle.com##.vgc-boxout
 videogameschronicle.com##.vgc-productsblock
@@ -113306,6 +113348,8 @@ webmd.com##.module-f-hs
 webmd.com##.module-top-picks
 webmd.com##.physician-outer
 webmd.com##.top-picks
+webnovelworld.org###pfvidad
+webnovelworld.org##.oQryfqWK
 webofcomics.ru##.reklandvipinfo
 webosnation.com###block-block-21
 webpornblog.com##+js(abort-current-script, doMyStuff)
