@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: WF+8QzTrrMP+wl7vznve7g
+! Checksum: 4dVmh+nwu2+NVPPVHOdWdw
 ! Title: 混合规则(自动更新)
-! Version: 20240823162732
+! Version: 20240824002816
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-23 16:27:32
-! Total Count: 150301
+! Last modified: 2024-08-24 00:28:16
+! Total Count: 150314
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -20819,6 +20819,7 @@
 ||confesswrihte.top^
 ||conff.dc.oppomobile.com^
 ||confiant-integrations.global.ssl.fastly.net^
+||confiant-integrations.net^
 ||confidence-x.com^
 ||confidentexplanationillegal.com^
 ||confideshrinebuff.com^
@@ -24792,6 +24793,7 @@
 ||diopic.net^$domain=18board.com|18p2p.com
 ||diopousg.com^
 ||diorismmotes.website^
+||diosminlissome.com^
 ||diouy9cvtx.xyz^
 ||dioxidtoluyls.com^
 ||diplic.com^
@@ -26415,6 +26417,7 @@
 ||duesirresponsible.com^
 ||duetads.com^
 ||duf1ql28oaxcm3x6baf7wxvo6n29hrozqxbd13emc3na96i64j.xyz^
+||dufflesmorinel.com^
 ||dufile.com/jsa/
 ||dufjgdjeyo.com^
 ||dufrom.com^
@@ -27765,6 +27768,7 @@
 ||eicbgbnbvjf.com^
 ||eicxlvkek.com^
 ||eidccepu.cyou^
+||eidoscruster.com^
 ||eidosrebegin.com^
 ||eidphap.cn^
 ||eiegkg.xyz^
@@ -30737,6 +30741,7 @@
 ||fenai.top^
 ||fencerecollect.com^
 ||fencerscoelho.com^
+||fencersdatcha.com^
 ||fenchylsoonish.com^
 ||fenddiscourse.com^
 ||fendeyrziz.top^
@@ -34611,6 +34616,7 @@
 ||gloogeed.xyz^
 ||gloognoogrix.com^
 ||gloogruk.com^
+||gloohozedoa.xyz^
 ||gloolrey.com^
 ||glooltoora.net^
 ||gloomfabricgravy.com^
@@ -36454,6 +36460,7 @@
 ||habrox.xyz^
 ||habtcng.cn^
 ||habusima.uno^
+||habutaeirisate.com^
 ||habutaeunroost.com^
 ||habyc.com^
 ||hacde1.icu^
@@ -63639,6 +63646,7 @@
 ||proximitywars.com^
 ||proxy.ads.canalplus-bo.net^
 ||proxy.dzeio.com^
+||proxy.telemetry.us-ashburn-1.oci.oraclecloud.com^
 ||proxy.trysavvy.com^
 ||proxyas.com^
 ||proxyporn.info/o.php
@@ -67458,6 +67466,7 @@
 ||resignedsauna.com^
 ||resilesfuriant.guru^
 ||resinherjecling.com^
+||resinkaristos.com^
 ||resinyanthdia.com^
 ||resionsfrester.com^
 ||resistanceouter.com^
@@ -71053,6 +71062,7 @@
 ||sezuleg.cn^
 ||sf-ads.io^
 ||sf14g.com^
+||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
 ||sf2.net/a/index.
 ||sfafabztidi.com^
 ||sfaxnqia.com^
@@ -83076,6 +83086,7 @@
 ||umoughtcallm.com^
 ||umoxomv.icu^
 ||umpedshumal.com^
+||umphek.com^
 ||umpirectx.top^
 ||umplmoht.com^
 ||umplohzn.com^
@@ -88556,6 +88567,7 @@
 ||wilfulknives.com^
 ||wilfulpessimistic.com^
 ||wilfulsatisfaction.com^
+||wililylaus.com^
 ||willalland.info^
 ||willetslibbet.digital^
 ||williamelemental.com^
@@ -92946,6 +92958,7 @@
 ||zebjlt.buzz^
 ||zebraicrudista.com^
 ||zebrinanoteman.top^
+||zebusentour.com^
 ||zedo.com^
 ||zedo.com^$third-party
 ||zedoaryrejects.com^
