@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: NggyGPy1fFwI6yrqdE0geA
+! Checksum: WF+8QzTrrMP+wl7vznve7g
 ! Title: 混合规则(自动更新)
-! Version: 20240823093627
+! Version: 20240823162732
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-23 09:36:27
-! Total Count: 150299
+! Last modified: 2024-08-23 16:27:32
+! Total Count: 150301
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -45124,6 +45124,7 @@
 ||kewaishu.org/m-
 ||kewhulawi.com^
 ||kewnemhpbmzkm.com^
+||kewrutd.top^
 ||kexojito.com^
 ||key.sexymovie.name^
 ||key8.com/cache/www/banner_
@@ -96631,7 +96632,7 @@ atalayar.com##.rotulo-publi
 atalayar.com,express.co.uk,msn.com,simply-hentai.com,the-express.com##.superbanner
 athlonsports.com,bringmethenews.com,meidastouch.com,si.com,thestreet.com,videogames.si.com##.is-exco-player
 atishmkv.site###idbannerplayer
-atlantablackstar.com,finurah.com##.raptive-ddm-header
+atlantablackstar.com,finurah.com,theshadowleague.com##.raptive-ddm-header
 atlantatribune.com,barrettsportsmedia.com,footballleagueworld.co.uk,ioncinema.com,marijuanamoment.net,ripplecoinnews.com,srilankamirror.com,tribune.net.ph###mvp-leader-wrap
 atlanticsuperstore.ca,fortinos.ca,loblaws.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca#?#.product-tile-group__list__item:-abp-contains(Sponsored)
 atlanticsuperstore.ca,fortinos.ca,maxi.ca,newfoundlandgrocerystores.ca,nofrills.ca,provigo.ca,realcanadiansuperstore.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca##.block-wrapper:has(.element-header__sponsoredLabel)
@@ -103794,6 +103795,7 @@ igorslab.de##.herald-sidebar
 igraal.com##[data-ig-ga-cat="Ad"]
 igxe.cn##.lion-flexd
 iheart.com###under-ad-text
+iheart.com##.provider-stn
 iheartradio.ca##.lightbox-wrapper
 iheartradio.ca##.page-footer
 iheartradio.ca##.slot-topNavigation
@@ -112576,6 +112578,7 @@ txzqw.me##.tac[style="margin-bottom:5px;"]
 tyenews.com##div[id^="custom_html-"]
 tyenews.com##div[id^="media_image-"]
 tyenews.com##div[id^="metaslider_widget-"]
+tyla.com,unilad.com##div[class^="advert-placeholder_"]
 tympanus.net##article:has(header:has(.ct-sponsored))
 typecho.wiki##.haliluya
 typecho.wiki##.net
@@ -112699,7 +112702,6 @@ unikoshardware.com##.theiaStickySidebar a[href^="https://bit.ly/"]
 unikoshardware.com##.widget_jnews_popular ~ .uniko-widget
 unilad.com##.css-zmf6il
 unilad.com##.floating-video-player_container__u4D9_
-unilad.com##div[class^="advert-placeholder_"]
 unionpedia.org##div[style^="margin-top: 15px; min-width: 300px"]
 unitconversion.org###ileft
 unitconversion.org###iright
