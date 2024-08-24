@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Hr2T2mXAniAKSqYEfQ0crQ
+! Checksum: IUBdDLZO/LYwON3hb3k88w
 ! Title: 混合规则(自动更新)
-! Version: 20240824162507
+! Version: 20240825002500
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-24 16:25:07
-! Total Count: 150335
+! Last modified: 2024-08-25 00:25:00
+! Total Count: 150354
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -682,6 +682,7 @@
 ||156.246.162.2^
 ||156fd4.xyz^
 ||156xsw.com/css/js/tools.
+||15752525.xyz^
 ||158.247.208.
 ||1582020.com^
 ||1583030.com^
@@ -2388,6 +2389,7 @@
 ||5608bd4f7e.com^
 ||561e861cb4.com^
 ||562i7aqkxu.com^
+||56514411.xyz^
 ||565882.com^$third-party
 ||5661361104.com^
 ||5661c81449.com^
@@ -3388,6 +3390,7 @@
 ||8961a.com^
 ||8964c6de00.com^
 ||897263tqs.com^
+||89871256.xyz^
 ||89968199c6.com^
 ||899h3.top^
 ||89dfa3575e.com^
@@ -3631,6 +3634,7 @@
 ||9814b49f.xyz^
 ||98158.com^
 ||9831tb.com^
+||98383163.xyz^
 ||9857047066.com^
 ||9869936.com^
 ||98765.pw^
@@ -25803,6 +25807,7 @@
 ||doubleverify.com^
 ||doubleview.online^
 ||doubtcigardug.com^
+||doubtedprompts.com^
 ||doubtfulrainstorm.com^
 ||doubtfulrainstorm.com^$third-party
 ||doubtlesshealthydocument.com^
@@ -32503,6 +32508,7 @@
 ||frolnk.com^
 ||fromjoytohappiness.com^
 ||fromoffspringcaliber.com^
+||frompilis.com^
 ||frondewame.com^
 ||front.optimonk.com^
 ||frontcognizance.com^
@@ -39118,6 +39124,7 @@
 ||hugysoral.digital^
 ||huhai.cdwz8.cn^
 ||huhaxvawgwa.com^
+||huhcoldish.com^
 ||huhowmvewocv.xyz^
 ||huhuhiiuio.com^
 ||huhumh.com/js/
@@ -58847,6 +58854,7 @@
 ||oumazg.com^
 ||oumnxiek.top^
 ||oumnxwvu.ink^
+||oumoshomp.xyz^
 ||oumpashy.net^
 ||oumtirsu.com^
 ||ounceanalogous.com^
@@ -66341,6 +66349,7 @@
 ||raujouca.com^
 ||raujurum.net^
 ||raukaury.com^
+||raunooligais.net^
 ||raunowhy.xyz^
 ||raupothrepe.com^
 ||raupsica.net^
@@ -68976,6 +68985,7 @@
 ||rummovehell.live^
 ||rummyaffiliates.com^
 ||rumnxwvo.ink^
+||rumsroots.com^
 ||rumstat.cdnvideo.ru^
 ||rumt-zh.com^
 ||run-syndicate.com^
@@ -76529,6 +76539,7 @@
 ||sutiletoroid.com^
 ||sutlfhpeznd.com^
 ||sutraf.com^
+||suturaletalage.com^
 ||suukcn.com^
 ||suwotsoukry.com^
 ||suwytid.com^
@@ -85280,6 +85291,7 @@
 ||viam.com.vn^
 ||viamariller.com^
 ||vianadserver.com^
+||viandryochavo.com^
 ||vianoivernom.com^
 ||viapawniarda.com^
 ||viaphioner.com^
@@ -101987,6 +101999,7 @@ gametracker.com##.blocknewnopad
 gametracker.com##[href="http://www.gameservers.com"]
 gametracker.com##[href^="https://www.vultr.com/"]
 gametracker.com##[style^="width:980px; height:48px"]
+gamewatcher.com##.article_middle
 gamewatcher.com##.top-banners-wrapper
 gameworldobserver.com##.information-block
 gameworldobserver.com##.information-block-top
@@ -106853,6 +106866,7 @@ msn.com##partner-upsell-card
 msn.com,msn.cn##[class^="nativeAd-"]
 msn.com,msn.cn##[data-t*="NativeAd"]
 mtaeta.info##a[href][target="_blank"] > img[src^="http://storage2.proboards.com/"]
+mtgrocks.com##.htl-inarticle-ad
 mtrend.cn###morecontent > .morecontent_next[style]
 mtrend.cn###topictabs1
 mtrend.cn###toptabs1 > .kz_line
@@ -107907,6 +107921,9 @@ onlyfullporn.com##.video-embedded > .a-embed
 onlyfullporn.com##.video-embedded > .a-opa
 onlyfullporn.com##.video-embedded > .over-close
 onlyfungames.com##.preview3bannerspot
+onlyinyourstate.com###video1-1
+onlyinyourstate.com##.articleText-space-body-marginBottom-sm
+onlyinyourstate.com##.py-8.md\:flex
 onlyporn.tube##.block-video > div.right
 onlyporn.tube##.ft
 onlyporn.tube,pornhits.com##+js(abort-on-property-read, AdManager)
@@ -111869,6 +111886,7 @@ thepornarea.com,porngo.com##.video-side
 theporndude.com##+js(abort-on-stack-trace, Cookies, initWallpaperScript)
 theporndude.com##.wrapper::before
 theporndude.com#$#body::before { display: none !important; }
+theportalist.com##.right_rail_add
 theportugalnews.com##.banners-250
 theportugalnews.com##.ppp-banner
 theportugalnews.com##.ppp-inner-banner
@@ -113764,6 +113782,7 @@ wuyong.fun#?#.sidebar-innter > section[id^="b2-widget-html-"]:has(.adsbygoogle)
 wuzhuiso.com###appMiddleBanner
 wuzhuiso.com###mohe-hotnews_right
 wuzhuiso.com###side > div.download-browser:last-child
+wvnews.com##.automatic-ad
 wwe.com##.l-hybrid-col-frame_rail-wrap
 wweek.com##.pb-f-phanzu-phanzu-ad-code
 www.1069gay.net###shortcut
