@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 8w/pnmQv5jw5RhuTf/k+4g
+! Checksum: XNPS9czisUfyfnWiy7eaWw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240824002828
+! Version: 20240824092837
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-24 00:28:28
-! Total Count: 28715
+! Last modified: 2024-08-24 09:28:37
+! Total Count: 28723
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -482,6 +482,7 @@
 ||2510avporn.com/wp-content/uploads/2017/09/2510avporn-960x100.jpg
 ||2529.com^$third-party
 ||25662zubo23739.com^
+||256856.com/fei-ad/
 ||258zw.com^$third-party
 ||268de.com/js/
 ||26gg.bnq86.com^$third-party
@@ -1614,9 +1615,11 @@
 ||acc.3gbizhi.com^$script
 ||acceptableauthority.com^$third-party
 ||accid.xyz^
+||acdrewrf711.cn^
 ||aceik.xyz^
 ||acemof.top^
 ||aceporntube.com^
+||acewdf118.cn^
 ||acfun.cn/appSpreadContents/danmuad/
 ||acg.youku.com/webfile/*.jpg
 ||acgbase.com^$third-party
@@ -4142,6 +4145,7 @@
 ||baijs07.xyz^
 ||baijs08.shop^
 ||baijs08.xyz^
+||baijs09.shop^
 ||baike.com/iframeheightforad.
 ||baimakanshu.com/assets/public/$script
 ||baishuku.com/news/$script
@@ -4656,6 +4660,7 @@
 ||boilingcredit.com^$third-party
 ||boilingumbrella.com^$third-party
 ||bojebd.xyz^
+||bojyvp.xyz^
 ||bolecdn.com/button/txt.js
 ||bollenhurkle.com^
 ||bomut.cyou^
@@ -6489,6 +6494,7 @@
 ||doujs07.xyz^
 ||doujs08.shop^
 ||doujs08.xyz^
+||doujs09.shop^
 ||doujs09.xyz^
 ||doupocangqiong1.com/js/ptwap.js
 ||doutula.com/img/upupoo/
@@ -9404,6 +9410,7 @@
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||irayedo.cn^
 ||irmbyu.xyz^
+||irqaci.xyz^
 ||irtefs.xyz^
 ||irtliso.top^
 ||iruacwa.xyz^
@@ -12050,6 +12057,7 @@
 ||nfydd.com/template/wap1/js/dd.js
 ||ngbthf.xyz^
 ||ngnxyub.cn^
+||nhbprf.xyz^
 ||nhcdn.cn^
 ||nhjkm.com^
 ||nhyvhmvw.com^

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 4dVmh+nwu2+NVPPVHOdWdw
+! Checksum: 7aZDmNwjXrF9z52GNcFKyw
 ! Title: 混合规则(自动更新)
-! Version: 20240824002816
+! Version: 20240824092825
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-24 00:28:16
-! Total Count: 150314
+! Last modified: 2024-08-24 09:28:25
+! Total Count: 150331
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1316,6 +1316,7 @@
 ||2529.com^$third-party
 ||254a.com^
 ||25662zubo23739.com^
+||256856.com/fei-ad/
 ||258104d2.live^
 ||258a912d15.com^
 ||258ydh.com^
@@ -4641,6 +4642,7 @@
 ||acdn01.vidox.net^
 ||acdn923132475.com^
 ||acdnpro.com^
+||acdrewrf711.cn^
 ||ace.naver.com^
 ||aceadsys.net^
 ||acecapprecarious.com^
@@ -4661,6 +4663,7 @@
 ||acertb.com^
 ||aceshosted.top^
 ||acetrk.com^
+||acewdf118.cn^
 ||acexedge.com^
 ||acf705ad.xyz^
 ||acfaaoaaxdqm.com^
@@ -9429,6 +9432,7 @@
 ||analytics.query.yahoo.com^
 ||analytics.qushad.com^
 ||analytics.radiatemedia.com^
+||analytics.raenonx.cc^
 ||analytics.ravanallc.com^
 ||analytics.rayjump.com^
 ||analytics.rechtslupe.org^
@@ -12636,6 +12640,7 @@
 ||baijs07.xyz^
 ||baijs08.shop^
 ||baijs08.xyz^
+||baijs09.shop^
 ||baikalize.com^
 ||baike.com/iframeheightforad.
 ||baike.com/newtop/news.html
@@ -15338,6 +15343,7 @@
 ||boinkcash.com^
 ||boisterousemblem.com^
 ||bojebd.xyz^
+||bojyvp.xyz^
 ||bokeden.com^
 ||bokomarratel.com^
 ||bolagsubsept.top^
@@ -25826,6 +25832,7 @@
 ||doujs07.xyz^
 ||doujs08.shop^
 ||doujs08.xyz^
+||doujs09.shop^
 ||doujs09.xyz^
 ||doukoula.com^
 ||doumobhaia.site^
@@ -29434,6 +29441,7 @@
 ||ewlfcpnqlylef.com^
 ||ewmvim.xyz^
 ||ewogldw.top^
+||ewogloarge.com^
 ||ewoodandwaveo.com^
 ||ewoutosh.com^
 ||ewoverth.buzz^
@@ -35345,6 +35353,7 @@
 ||gpcxw.com/file/js/img/*.gif
 ||gpfaquowxnaum.xyz^
 ||gpiagk.xyz^
+||gpibcoogfb.com^
 ||gpiyzwt.com^
 ||gplansforourcom.com^
 ||gplgqqg.com^
@@ -41131,6 +41140,7 @@
 ||infringementseason.com^
 ||infusesrhyptic.com^
 ||ingablorkmetion.com^
+||ingage.tech^
 ||ingamesads.gameloft.com^
 ||ingasideline.com^
 ||ingeneumps.com^
@@ -42002,6 +42012,7 @@
 ||ironymisterdisk.com^
 ||iroufteg.net^
 ||irousbisayan.com^
+||irqaci.xyz^
 ||irqqwqk.cn^
 ||irradiateher.com^
 ||irradiatestartle.com^
@@ -47254,6 +47265,7 @@
 ||leansometime.com^
 ||leanunderstatement.com^
 ||leanwhitepinafo.org^
+||leapcompatriotjangle.com^
 ||leapfaucet.com^$third-party
 ||leaplunchroom.com^$third-party
 ||leapretrieval.com^
@@ -55638,6 +55650,7 @@
 ||nhapvang.pro^
 ||nharghiooudi.xyz^
 ||nhatnamgroups.com^
+||nhbprf.xyz^
 ||nhcdn.cn^
 ||nhckxyxaiwqnssh.com^
 ||nheappyrincen.info^
@@ -60377,6 +60390,7 @@
 ||peelismsenoras.com^
 ||peelxotvq.com^
 ||peemee.com^
+||peenuteque.net^
 ||peepacquisitionavalanche.com^
 ||peepholelandreed.com^
 ||peer39.com^
@@ -80108,6 +80122,7 @@
 ||toutiaoimg.com^$image,domain=350xs.com
 ||toutiaoyule.com/n/dspshow.
 ||toutingmatelow.com^
+||toutsneskhi.com^
 ||touwengyyds.com^
 ||touzi110.mobi^
 ||touzia.xyz^
@@ -89625,6 +89640,7 @@
 ||wwbeqrhjwnijdk.com^
 ||wwclickgo.com^
 ||wwclickserv.club^
+||wwcpyupbrcuhcsn.com^
 ||wwemleypftdook.com^
 ||wwerioe.top^
 ||wwfx.xyz^
@@ -94394,6 +94410,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 12news.com,9news.com,9to5google.com,9to5mac.com,aad.org,advfn.com,all3dp.com,allaboutcookies.org,allnovel.net,amny.com,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,biznews.com,bolavip.com,businessinsider.com,cbs8.com,cc.com,ccjdigital.com,computerworld.com,coomer.party,coomer.su,dailytrust.com,delish.com,driven.co.nz,ecr.co.za,electrek.co,empireonline.com,engineeringnews.co.za,equipmentworld.com,etcanada.com,euromaidanpress.com,fastcompany.com,footyheadlines.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,globalspec.com,gmanetwork.com,grammarbook.com,hbr.org,highdefdigest.com,howstuffworks.com,huffpost.com,ifoodie.tw,insidehook.com,insider.com,intouchweekly.com,kemono.party,kemono.su,khou.com,koat.com,ktvu.com,lifeandstylemag.com,longislandpress.com,macstories.net,mail.com,mangakakalot.app,memuplay.com,metro.us,metrophiladelphia.com,minecraftforum.net,miningweekly.com,mixed-news.com,mobilesyrup.com,modernhealthcare.com,msnbc.com,my9nj.com,myfitnesspal.com,namemc.com,nbcnews.com,newrepublic.com,newtalk.tw,nzherald.co.nz,oneesports.gg,opb.org,outkick.com,pansci.asia,papermag.com,phbzj.com,physiology.org,pics-x.com,pinflix.com,pixiv.net,punchng.com,qns.com,realsport101.com,reason.com,refinery29.com,roadandtrack.com,scroll.in,sdhentai.com,seattletimes.com,slideshare.net,songkick.com,sportskeeda.com,thebaltimorebanner.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,themarketherald.ca,thenationonlineng.net,thenewstack.io,tmz.com,toofab.com,tool.lu,uploadvr.com,urlgalleries.net,usmagazine.com,vanguardngr.com,wildtangent.com,wogx.com,worldsoccertalk.com,wral.com##.ad-container
 12tomatoes.com###footboard
 12tomatoes.com,allwomenstalk.com,bloomberg.com,datpiff.com,koreaboo.com,logotv.com,newcartestdrive.com,news.sky.com,news.tvguide.co.uk,onthesnow.ca,onthesnow.co.nz,onthesnow.co.uk,onthesnow.com,onthesnow.com.au,penny-arcade.com,postyourpuss.com,publishersweekly.com,skysports.com,stuff.tv,thedrinknation.com,theserverside.com,whitepages.ae###leaderboard
+131400.best,vikacg.com,vikacg.xyz##a[href^="http"] > img[src*="/assets/main/"]
 131458.com###header_gg
 131458.com##.divGuanggao
 131458.com##.ulfooter_top
@@ -113004,7 +113021,6 @@ vikacg.com###custom_html-9
 vikacg.com###home-row-lunbo
 vikacg.com##a[href^="http"] > img[src^="/assets/main/"]
 vikacg.com##div[id^="home-row-ads"]
-vikacg.com,vikacg.xyz##a[href^="http"] > img[src*="/assets/main/"]
 vikilife.com###sidebar-tab[style^="height:"]
 vikiporn.com##.header-area > ul.nav > li > a[rel="nofollow"][target="_blank"]
 vikiporn.com##.top-list > .content-aside
@@ -114470,6 +114486,7 @@ yigujin.cn##a[href^="http"]:not([href$=".html"]) > img[src*="/tp/"]
 yii666.com##.widget-asst > p > a[href^="http"]:not([href*="yii666.com"])
 yimenapp.com,sssam.com##.widget_html_ad
 yimuhe.com###maincontent3 > div[style^="height"]
+ying35.com#?#table:-abp-has(a[href*="/fei-ad"])
 yinhang123.net###rightgg
 yinhang123.net###rightgg1
 yinyuetai.com##.focus_bottom_banner
