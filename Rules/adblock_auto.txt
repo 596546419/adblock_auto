@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: IUBdDLZO/LYwON3hb3k88w
+! Checksum: 5k4cwKw/iakxium51EgkAw
 ! Title: 混合规则(自动更新)
-! Version: 20240825002500
+! Version: 20240825094319
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-25 00:25:00
-! Total Count: 150354
+! Last modified: 2024-08-25 09:43:19
+! Total Count: 150389
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4095,6 +4095,7 @@
 ||a8age.com^
 ||a8b68645.xyz^
 ||a8cd.com^
+||a8d48a7d6e.com^
 ||a8rm1m4msbbh.com^
 ||a8ww.net^
 ||a907907.com^
@@ -4515,6 +4516,7 @@
 ||abutparker.com^
 ||abvnypoqcgmh.com^
 ||abvoltssilen.top^
+||abvptccrwiawav.com^
 ||abwattfrutex.com^
 ||abwhyag.com^
 ||abwlrooszor.com^
@@ -4646,6 +4648,7 @@
 ||acdn01.vidox.net^
 ||acdn923132475.com^
 ||acdnpro.com^
+||acdref117.cn^
 ||acdrewrf711.cn^
 ||ace.naver.com^
 ||aceadsys.net^
@@ -9622,6 +9625,7 @@
 ||anaxialaphonia.com^
 ||anbinh-finance.club^
 ||anbkzt.xyz^
+||anceenablesas.com^
 ||anceenablesas.info^
 ||anceovarec.cfd^
 ||ancestor3452.fun^
@@ -10562,6 +10566,7 @@
 ||aqppwatriodz.com^
 ||aqpvglv.cn^
 ||aqqlwcuqtskbz.com^
+||aqrawvakvca.com^
 ||aqrkrahkynta.com^
 ||aqrokdw.cn^
 ||aqroxlquvshe.com^
@@ -11603,6 +11608,7 @@
 ||aumtoost.net^
 ||aunauque.net^
 ||aunaurdeempi.com^
+||auneechuksee.net^
 ||auneghus.net^
 ||aungoutsy.com^
 ||aungudie.com^
@@ -16563,6 +16569,7 @@
 ||buydee.org^
 ||buyer.dspx.tv^
 ||buyflood.com^
+||buyfrightencheckup.com^
 ||buyihao.com^
 ||buylnk.com^
 ||buymaxfield.com^
@@ -16740,6 +16747,7 @@
 ||byjykj.xyz^
 ||byjykj.xyz^$third-party,image
 ||byluvdiscor.com^
+||bylwtf.xyz^
 ||bymahuxv.xyz^
 ||bymnyzbkylaaw.top^
 ||bymnyzbkylvja.top^
@@ -16808,6 +16816,7 @@
 ||bzhanyy.com^*.gif
 ||bzlwe.com^
 ||bzngisyv.xyz^
+||bzniungh.com^
 ||bznizrhd.xyz^
 ||bzqqftz.icu^
 ||bzrpvk.com^
@@ -17592,6 +17601,7 @@
 ||cauldronrepellentcanvass.com^
 ||caulibotas.com^
 ||caulifloweraircraft.com^
+||cauliflowercutlerysodium.com^
 ||cauliflowerpointlessebb.com^
 ||cauliflowertoaster.com^
 ||cauliflowervariability.com^
@@ -22022,6 +22032,7 @@
 ||crouchyearbook.com^
 ||croupyjacu.life^
 ||crowbarorchat.uno^
+||crowdeddisk.pro^
 ||crowdedmass.com^$third-party
 ||crowdgravity.com^
 ||crowdnextquoted.com^
@@ -27932,6 +27943,7 @@
 ||electricalbicyclelistnonfiction.com^
 ||electricalsedate.com^
 ||electricalyellincreasing.com^
+||electricphysical.com^
 ||electrodirect.click^
 ||electronicauthentic.com^
 ||electronicconsensus.com^
@@ -28641,6 +28653,7 @@
 ||eqdudaj.com^
 ||eqepeqrfaijsx.com^
 ||eqewdxnkex.com^
+||eqffdgnpysx.com^
 ||eqfgc.com^
 ||eqghuu.com^
 ||eqhegcbxmsgwil.com^
@@ -30398,6 +30411,8 @@
 ||fatzuclmihih.com^
 ||faucetfoot.com^$third-party
 ||faudouglaitu.com^
+||faugrich.info^
+||faugstat.info^
 ||faujdarunrake.top^
 ||faukoocifaly.com^
 ||faulterdeplume.com^
@@ -34052,6 +34067,7 @@
 ||gg.*.com/tonglan/tonglan.js
 ||gg.0598yu.com^
 ||gg.4kdy.net^
+||gg.7976.top^
 ||gg.blueidea.com^
 ||gg.caixin.com^
 ||gg.cs090.com^
@@ -34070,6 +34086,7 @@
 ||gg163.net/20*ad/
 ||gg163.net/js/163bbsad.js
 ||gg163.net/js/gg163ad.js
+||gg3a.cc^
 ||gg72a1.com^
 ||gg86.pinggu.org^
 ||gg88.bj.bcebos.com^
@@ -37959,6 +37976,7 @@
 ||hiqrnyn.cn^
 ||hiqua.xyz^
 ||hircinnative.guru^
+||hiredeitysibilant.com^
 ||hirelinghistorian.com^
 ||hiringairport.com^
 ||hirmatrix.hu^
@@ -40254,6 +40272,7 @@
 ||ijhilvbu.com^
 ||ijhpdtiij.com^
 ||ijhweandthepe.info^
+||ijhxe.com^
 ||ijikhxaelqmbg.com^
 ||ijinshan.com/images/gk/game
 ||ijir.cn^
@@ -40903,6 +40922,7 @@
 ||inboxtag.com^
 ||inbrowserplay.com^
 ||inbudewr.com^
+||inbvuhwfky.com^
 ||incapableenormously.com^
 ||incarnategrannystem.com^
 ||incarnatepicturesque.com^
@@ -46161,6 +46181,7 @@
 ||ktbpasfiqmqdni.com^
 ||ktcgqqoo.com^
 ||ktfgfdjea.com^
+||ktfiqjqahgmi.com^
 ||ktfodkqypn.xyz^
 ||ktggbk.com^
 ||ktien.vn^
@@ -46989,6 +47010,7 @@
 ||lawunfriendlyknives.com^
 ||laxallenopposed.com^
 ||laxativepermissiblesensation.com^
+||laxativestuckunclog.com^
 ||laxecnef.com^
 ||laxnlqn.cn^
 ||laxoaksi.net^
@@ -48632,6 +48654,7 @@
 ||lodgedynamitebook.com^
 ||lodgesweet.com^
 ||lodroe.com^
+||loeilbygo.shop^
 ||loewe.com.se^
 ||lofgfokgxtr.com^
 ||lofkxokqkf.com^
@@ -55741,6 +55764,7 @@
 ||niecesregisteredhorrid.com^
 ||nielledhaling.digital^
 ||niepaunmaned.top^
+||niersfohiplaceof.info^
 ||nieveni.com^
 ||nievetacunjer.top^
 ||nifiel.com^
@@ -57242,6 +57266,7 @@
 ||oclpegogoccxlw.com^
 ||oclus.com^
 ||ocmhood.com^
+||ocmpsfoyadwm.com^
 ||ocmtag.com^
 ||ocoaksib.com^
 ||ocoda.xyz^
@@ -57590,6 +57615,7 @@
 ||ohvcuqjqmjcfiys.com^
 ||ohwhdspj.com^
 ||oi1b.top^
+||oianz.xyz^
 ||oiarske.com^
 ||oiavdib.com^
 ||oicchina.com^$third-party
@@ -64630,6 +64656,7 @@
 ||pzqfmhy.com^
 ||pzqqstb.icu^
 ||pztezl.xyz^
+||pztpygaul.com^
 ||pzwdtz.com^
 ||pzwigrnuimeh.com^
 ||pzwjonv.icu^
@@ -64888,6 +64915,7 @@
 ||qfgtepw.com^
 ||qfhatlntjtpyit.com^
 ||qfhzki.com^
+||qfiofvovgapc.com^
 ||qfisatztut.com^
 ||qfjherc.com^
 ||qfjsliy.top^
@@ -72996,6 +73024,7 @@
 ||slm.dantri.com.vn^
 ||slobcarpstun.com^
 ||slobgrandmadryer.com^
+||slockertummies.com^
 ||sloeri.com^
 ||slogantrend.de^
 ||slopeac.com^
@@ -82762,6 +82791,7 @@
 ||udn.com/upf/2014_sales/testpage/Bannerimage/*x*_*.jpg
 ||udn.com^*/ad/
 ||udnfunlife.com/mall/cus/cat/OutWebAd.do
+||udolgy.xyz^
 ||udookrou.com^
 ||udoshbt.top^
 ||udpauawx.xyz^
@@ -82957,6 +82987,7 @@
 ||ujtgtmj.com^
 ||ujtketerrehepren.xyz^
 ||ujurupa.com^
+||ujwfsvqcnafp.com^
 ||ujznabh.com^
 ||uk08i.top^
 ||ukan.online^
@@ -84327,6 +84358,7 @@
 ||uzrating.com^
 ||uzrwqrezkx.com^
 ||uzrxoxd.xyz^
+||uztiljvaewg.com^
 ||uztyvfk.cn^$third-party,image
 ||uzuarlv.cn^
 ||uzzidxlvnq.com^
@@ -89783,6 +89815,7 @@
 ||wxseedslpi.com^
 ||wxsignin.top^
 ||wxskqy.cn^
+||wxsygrpxfkp.com^
 ||wxtp.cdn.bcebos.com^$popup
 ||wxumevd.cn^
 ||wxvfhgdeis.com^
@@ -92516,6 +92549,7 @@
 ||yusnw.cc^
 ||yutew.cc^$third-party
 ||yutiqf.icu^
+||yutmelqk.com^
 ||yuvvddt.cn^
 ||yuwangshe.net/astyle/wap.
 ||yuwenbin.host^
@@ -93817,6 +93851,7 @@
 ||ztxstudy.club^
 ||ztyqrwinqpvque.com^
 ||ztyumn.ifeng.com^
+||ztzdvv.xyz^
 ||zu2.top^
 ||zu3f.top^
 ||zu9g.icu^

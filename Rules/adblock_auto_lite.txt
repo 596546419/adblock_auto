@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: eMmpJ9qijuvDKDVCQsSrEw
+! Checksum: INJah2pYGOgzHPEcrvm5gQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240825002512
+! Version: 20240825094331
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-25 00:25:12
-! Total Count: 28724
+! Last modified: 2024-08-25 09:43:31
+! Total Count: 28730
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1615,6 +1615,7 @@
 ||acc.3gbizhi.com^$script
 ||acceptableauthority.com^$third-party
 ||accid.xyz^
+||acdref117.cn^
 ||acdrewrf711.cn^
 ||aceik.xyz^
 ||acemof.top^
@@ -4896,6 +4897,7 @@
 ||byjdg.xyz^$third-party
 ||byjykj.xyz^
 ||byjykj.xyz^$third-party,image
+||bylwtf.xyz^
 ||bymahuxv.xyz^
 ||byretuv.top^
 ||byscy.cn^$third-party
@@ -7837,6 +7839,7 @@
 ||gg-led.com/uploadFile/uploadCompanyLogo/*.gif
 ||gg.*.com/tonglan/tonglan.js
 ||gg.0598yu.com^
+||gg.7976.top^
 ||gg.blueidea.com^
 ||gg.cs090.com^
 ||gg.egouz.com^
@@ -7851,6 +7854,7 @@
 ||gg163.net/20*ad/
 ||gg163.net/js/163bbsad.js
 ||gg163.net/js/gg163ad.js
+||gg3a.cc^
 ||gg86.pinggu.org^
 ||gg88.bj.bcebos.com^
 ||ggcode.2345.com^
@@ -16232,6 +16236,7 @@
 ||udn.com/upf/2014_sales/testpage/Bannerimage/*x*_*.jpg
 ||udn.com^*/ad/
 ||udnfunlife.com/mall/cus/cat/OutWebAd.do
+||udolgy.xyz^
 ||udoshbt.top^
 ||udpdmeb.cn^
 ||udsahkln.xyz^
@@ -18548,6 +18553,7 @@
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
 ||ztyumn.ifeng.com^
+||ztzdvv.xyz^
 ||zu2.top^
 ||zuiacg.com/images/client/
 ||zuofang05.com/template/mytheme/statics/image/1/
