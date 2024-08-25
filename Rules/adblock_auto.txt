@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: gMO0w+vFPXTghAWtH6d1yQ
+! Checksum: MtQQVdy3pBulhUN9fC7Izg
 ! Title: 混合规则(自动更新)
-! Version: 20240825162522
+! Version: 20240826002506
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-25 16:25:22
-! Total Count: 150391
+! Last modified: 2024-08-26 00:25:06
+! Total Count: 150394
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -97688,6 +97688,7 @@ bkjia.com##.art_rightad1
 bkjia.com,zol.com.cn##.hot_tj
 blaauwberg.net##.leaderBoardContainer
 blabber.buzz##.topfeed
+blackamericaweb.com,bossip.com,cassiuslife.com,hiphopwired.com,madamenoire.com,newsone.com,tvone.tv###player-wrapper
 blackbeltmag.com###comp-loxyxvrt
 blackbeltmag.com###img_comp-loxyxvrt
 blackbeltmag.com##[aria-label="Wix Monetize with AdSense"]
@@ -97887,7 +97888,6 @@ boredomtherapy.com##.btparel1
 bossip.com##.fsb-desktop
 bossip.com##.fsb-toggle
 bossip.com##.player-wrapper-inner
-bossip.com,hiphopwired.com,madamenoire.com###player-wrapper
 bostonagentmagazine.com##.prm1_w
 bostonglobe.com###sticky_container.width_full
 bostonglobe.com##.stick_1200--tablet
@@ -98499,6 +98499,7 @@ chem99.com###J_tcode
 chem99.com###div_main_ta
 chemistwarehouse.com.au##.category-product-mrec
 chemistwarehouse.com.au##.rm__campaign-product__slider-item
+chemistwarehouse.com.au##.search-product--featured
 chemistwarehouse.com.au##[data-rm-beacon-state]
 chengdu.cn##.pop_box
 chengdu.cn,eprice.com.tw,natgeomedia.com,oeeee.com,ofweek.com,setn.com##div[class^="ad-"]
@@ -99700,8 +99701,8 @@ dailypost.co.uk##.gpt-sticky-sidebar
 dailyrecord.co.uk##.hotjobs
 dailysabah.com###id_d_300x250
 dailysocial.id###home-ads
-dailysocial.id##.banner-ads
 dailysocial.id##.news__detail-ads-subs
+dailysocial.id,tiktok.com##.banner-ads
 dailytrust.com##.header__advert
 dailytrust.com,thequint.com###unitDivWrapper-0
 dailyuploads.net##a[href="https://aptoze.com/"]
@@ -139105,6 +139106,7 @@ zle.com$script
 ##.banner-ads
 ##.banner-ads-right
 ##.banner-ads-sidebar
+##.banner-ads:not(.textads)
 ##.banner-adsense
 ##.banner-adv
 ##.banner-advert
@@ -139172,6 +139174,7 @@ zle.com$script
 ##.banner_ad_wrapper
 ##.banner_ads
 ##.banner_ads1
+##.banner_ads:not(.textads)
 ##.banner_ads_300x250
 ##.banner_ads_home
 ##.banner_ads_home_inner
