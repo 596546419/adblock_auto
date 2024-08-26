@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 4aprjTz/kFL6es9Zd3Ed5A
+! Checksum: zR+NMQOhPCllyyzjyvnZag
 ! Title: 混合规则(自动更新)
-! Version: 20240826162848
+! Version: 20240827002834
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-26 16:28:48
-! Total Count: 150459
+! Last modified: 2024-08-27 00:28:34
+! Total Count: 150466
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -74570,6 +74570,7 @@
 ||sqqqabg.com^
 ||sqqqytzxjywx.com^
 ||sqrtcris.top^
+||sqszcg.top^
 ||squadapologiesscalp.com^
 ||squalidscrew.com^$third-party
 ||squareforensicbones.com^
@@ -80655,6 +80656,7 @@
 ||tracker.anandtech.com^
 ||tracker.anime47.com^
 ||tracker.arc.io^
+||tracker.au.zitcha.app^
 ||tracker.azet.sk^
 ||tracker.beezup.com^
 ||tracker.beritagar.id^
@@ -94261,7 +94263,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 100bt.com##.aolasidebar__ad1
 100ec.cn##.detail_top_ad
 100ksw.com###ad_move_sg
-100percentfedup.com,180gadgets.com,247media.com.ng,academicful.com,addapinch.com,aiarticlespinner.co,allaboutfpl.com,alltechnerd.com,americanmilitarynews.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,asurascans.com,australiangeographic.com.au,autodaily.com.au,bigleaguepolitics.com,bipartisanreport.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,charlieintel.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,coincodecap.com,conservativebrief.com,cookingwithdog.com,corrosionhour.com,crimereads.com,cryptobriefing.com,cryptointelligence.co.uk,cryptopotato.com,cryptoreporter.info,cryptoslate.com,dafontfree.io,dailynewshungary.com,dcenquirer.com,dexdotexe.com,dorohedoro.online,epicdope.com,eurweb.com,exeo.app,fandomwire.com,fap-nation.com,firstcuriosity.com,firstsportz.com,flickeringmyth.com,flyingmag.com,freefontsfamily.net,freemagazines.top,fyptt.to,gadgetinsiders.com,gamegill.com,gameinfinitus.com,gamertweak.com,gamingdeputy.com,gatewaynews.co.za,geekdashboard.com,getdroidtips.com,goodyfeed.com,greekreporter.com,hard-drive.net,hdmovies4u.live,hollywoodinsider.com,hollywoodunlocked.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,japaneseasmr.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,jujustukaisen.com,libertyunlocked.com,linuxfordevices.com,lithub.com,mb.com.ph,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,mymodernmet.com,mymotherlode.com,nationalfile.com,nintendoeverything.com,notalwaysright.com,nsw2u.com,nxbrew.com,organicfacts.net,patriotfetch.com,politizoom.com,premiumtimesng.com,protrumpnews.com,pureinfotech.com,quickanswer.blog,redrightvideos.com,reneweconomy.com.au,reptilesmagazine.com,respawnfirst.com,rezence.com,roadaheadonline.co.za,rok.guide,saabplanet.com,sciencenotes.org,sdnews.com,simscommunity.info,small-screen.co.uk,storypick.com,streamingbetter.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techpp.com,techrounder.com,techviral.net,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,thepeoplesvoice.tv,thewincentral.com,trendingpolitics.com,trendingpoliticsnews.com,twistedvoxel.com,videogamer.com,vjmedia.com.hk,walletinvestor.com,washingtonblade.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,win.gg,wisden.com,wnd.com,zerohanger.com##.code-block
+100percentfedup.com,180gadgets.com,247media.com.ng,academicful.com,addapinch.com,aiarticlespinner.co,allaboutfpl.com,alltechnerd.com,americanmilitarynews.com,americansongwriter.com,androidsage.com,animatedtimes.com,anoopcnair.com,askpython.com,asurascans.com,australiangeographic.com.au,autodaily.com.au,bigleaguepolitics.com,bipartisanreport.com,bohemian.com,borncity.com,boxingnews24.com,browserhow.com,charlieintel.com,chillinghistory.com,chromeunboxed.com,circuitbasics.com,coincodecap.com,conservativebrief.com,cookingwithdog.com,corrosionhour.com,crimereads.com,cryptobriefing.com,cryptointelligence.co.uk,cryptopotato.com,cryptoreporter.info,cryptoslate.com,dafontfree.io,dailynewshungary.com,dcenquirer.com,dexdotexe.com,dorohedoro.online,epicdope.com,eurweb.com,exeo.app,fandomwire.com,fap-nation.com,firstcuriosity.com,firstsportz.com,flickeringmyth.com,flyingmag.com,freefontsfamily.net,freemagazines.top,fyptt.to,gadgetinsiders.com,gamegill.com,gameinfinitus.com,gamertweak.com,gamingdeputy.com,gatewaynews.co.za,geekdashboard.com,getdroidtips.com,goodyfeed.com,greekreporter.com,hard-drive.net,harrowonline.org,hdmovies4u.live,hollywoodinsider.com,hollywoodunlocked.com,indianhealthyrecipes.com,inspiredtaste.net,iotwreport.com,japaneseasmr.com,jojolandsmanga.com,journeybytes.com,journeyjunket.com,jujustukaisen.com,libertyunlocked.com,linuxfordevices.com,lithub.com,mb.com.ph,meaningfulspaces.com,medicotopics.com,medievalists.net,mpost.io,mycariboonow.com,mymodernmet.com,mymotherlode.com,nationalfile.com,nintendoeverything.com,notalwaysright.com,nsw2u.com,nxbrew.com,organicfacts.net,patriotfetch.com,politizoom.com,premiumtimesng.com,protrumpnews.com,pureinfotech.com,quickanswer.blog,redrightvideos.com,reneweconomy.com.au,reptilesmagazine.com,respawnfirst.com,rezence.com,roadaheadonline.co.za,rok.guide,saabplanet.com,sciencenotes.org,sdnews.com,simscommunity.info,small-screen.co.uk,storypick.com,streamingbetter.com,superwatchman.com,talkandroid.com,talkers.com,tech-latest.com,techpp.com,techrounder.com,techviral.net,theblueoceansgroup.com,thecinemaholic.com,thecricketlounge.com,thedriven.io,thegamehaus.com,thegatewaypundit.com,thegeekpage.com,thelibertydaily.com,thenipslip.com,thepeoplesvoice.tv,thewincentral.com,trendingpolitics.com,trendingpoliticsnews.com,twistedvoxel.com,videogamer.com,vjmedia.com.hk,walletinvestor.com,washingtonblade.com,waves4you.com,wbiw.com,welovetrump.com,wepc.com,win.gg,wisden.com,wnd.com,zerohanger.com##.code-block
 101.ru##.showMessageAdBlock
 1010dy3.com###arBRyGHxuDYU
 1010dy3.com##.text-center[style]
@@ -97311,7 +97313,7 @@ baomidou.com##.sidebar-content > astro-island
 baomidou.com##.sidebar-slot-top
 baomidou.com,docsmall.com,nodejs.cn##+js(set-constant, _AdBlockInit, noopFunc)
 baozimh.one,camporn.to,camseek.tv,camstreams.tv,domainnamewire.com,eurogirlsescort.com,ghostbin.me,hdtube.porn,hotstunners.com,i24news.tv,manofmany.com,marinetechnologynews.com,maritimeprofessional.com,maritimepropulsion.com,mumbrella.com.au,mutaz.pro,paste.fo,paste.pm,pasteheaven.com,petapixel.com,pornburst.xxx,pornflix.to,punishbang.com,radiopaedia.org,rapidtvnews.com,sexu.com,teenfuckhd.com,telesurtv.net,thehackernews.com,theporngod.com,travelpulse.com,vibexxx.com,wantedbabes.com,wonderopolis.org,worldofmods.com,xxxadultphoto.com,xxxdl.net,xxxn.club,yazhouse8.com##.banners
-baptistnews.com,chimpreports.com,collive.com,defence-industry.eu,islandecho.co.uk,locklab.com,mallorcasunshineradio.com,runwaygirlnetwork.com,southsideweekly.com,spaceref.com,talkradioeurope.com,theshoesnobblog.com##.a-single
+baptistnews.com,chimpreports.com,collive.com,defence-industry.eu,douglasnow.com,islandecho.co.uk,locklab.com,mallorcasunshineradio.com,runwaygirlnetwork.com,southsideweekly.com,spaceref.com,talkradioeurope.com,theshoesnobblog.com##.a-single
 bar-planb.com,hakibavuong.com###player_dev
 barandbench.com##.ad-slot-row-m__ad-Wrapper__cusCS
 barandbench.com##.ad-wrapper-module__adContainer__iD4aI
@@ -97448,7 +97450,7 @@ bejson.com##a[href*="layui.com"]
 bejson.com##div[id^="shua"] + font[color="red"]
 bejson.com##div[id^="shuangshi"]
 bejson.com##img[src^="data"]
-belfastlive.co.uk,birminghammail.co.uk,bristolpost.co.uk,cambridge-news.co.uk,cheshire-live.co.uk,chroniclelive.co.uk,cornwalllive.com,coventrytelegraph.net,dailypost.co.uk,derbytelegraph.co.uk,devonlive.com,dublinlive.ie,edinburghlive.co.uk,examinerlive.co.uk,getsurrey.co.uk,glasgowlive.co.uk,gloucestershirelive.co.uk,hertfordshiremercury.co.uk,kentlive.news,leeds-live.co.uk,leicestermercury.co.uk,lincolnshirelive.co.uk,manchestereveningnews.co.uk,mylondon.news,nottinghampost.com,somersetlive.co.uk,stokesentinel.co.uk,walesonline.co.uk##.topbox-cls-placeholder
+belfastlive.co.uk,birminghammail.co.uk,bristolpost.co.uk,cambridge-news.co.uk,cheshire-live.co.uk,chroniclelive.co.uk,cornwalllive.com,coventrytelegraph.net,dailypost.co.uk,derbytelegraph.co.uk,devonlive.com,dublinlive.ie,edinburghlive.co.uk,examinerlive.co.uk,getsurrey.co.uk,glasgowlive.co.uk,gloucestershirelive.co.uk,hertfordshiremercury.co.uk,kentlive.news,leeds-live.co.uk,leicestermercury.co.uk,lincolnshirelive.co.uk,liverpool.com,manchestereveningnews.co.uk,mylondon.news,nottinghampost.com,somersetlive.co.uk,stokesentinel.co.uk,walesonline.co.uk##.topbox-cls-placeholder
 belgie.fm,danmark.fm,deutschland.fm,espana.fm,india.fm,italia.fm,nederland.fm###bannerbg
 belgie.fm,danmark.fm,deutschland.fm,espana.fm,india.fm,italia.fm,nederland.fm###leaderboardbg
 bella.tw##.hide-mobile[style]
@@ -100256,7 +100258,7 @@ domaingang.com##.widget_execphp
 domainmasters.co.ke##.banner_google
 domainmasters.co.ke##.partner2
 domainnamewire.com##.after-header
-domainnamewire.com,goodthingsguy.com,mediaplaynews.com##.g-single
+domainnamewire.com,douglasnow.com,goodthingsguy.com,mediaplaynews.com##.g-single
 domainnamewire.com,repeatreplay.com##.sidebar-primary
 domaintoipconverter.com###associates-1
 domaintyper.com,thecatholictravelguide.com##a[href^="https://www.kqzyfj.com/"]
@@ -104468,6 +104470,7 @@ iqiyi.com,~mall.iqiyi.com,~so.iqiyi.com##a[href*="http://mall.iqiyi.com/item/"]
 iqshv.com#?#.post-list-item:-abp-has(.thumb-link[href^="http"]:not([href*=".iqshv."]))
 iqshw.com##.iqshwad-comm
 irishnews.com###lbtop
+irishnews.com##.b-ads-block
 irishtimes.com##.cs-teaser
 irk.ru##.b-adblock-message
 isaidubb.net,orutamil.com##a[href*="/ucdownloader.php?"]
@@ -114976,7 +114979,10 @@ zeenews.india.com##.first-ad
 zehnporn.com,freyalist.com,jennylist.xyz,sharkyporn.com,zoompussy.com##.stripper
 zenger.news##.tb_e2rr695
 zenger.news##[style^="text-align:center;min-height:"]
+zerohedge.com###content-pack
 zerohedge.com##.AdvertisingSlot_placement__b8TLC
+zerohedge.com##.left-rail
+zerohedge.com##.mixed-in-content
 zerohedge.com##.mixed-unit-ac
 zerohedge.com##.native
 zerohedge.com##.rectangle-large
@@ -146077,6 +146083,7 @@ zle.com$script
 ##a[href*=".biquge"][href*="app"]
 ##a[href*=".birthcaker.cn"]
 ##a[href*=".bj-lingan.com/"]
+##a[href*=".bjty7.vip"]
 ##a[href*=".blueyoko.com/"]
 ##a[href*=".bright.cn/?utm_"]
 ##a[href*=".bsy3.xyz"]

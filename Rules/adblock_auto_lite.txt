@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: MOCW+lLbSaTzjmPQhqmkpA
+! Checksum: o0C6t8+DpUWa+qvkNUPI5A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240826162900
+! Version: 20240827002846
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-26 16:29:00
-! Total Count: 28740
+! Last modified: 2024-08-27 00:28:46
+! Total Count: 28742
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -15022,6 +15022,7 @@
 ||sq59.cn^
 ||sqevnrb.com^
 ||sqgnqc.xyz^
+||sqszcg.top^
 ||squalidscrew.com^$third-party
 ||squashfriction.com^$third-party
 ||squeakzinc.com^$third-party
@@ -26622,6 +26623,7 @@ zle.com$script
 ##a[href*=".bet365.gdn"]
 ##a[href*=".bilibilitool.site"]
 ##a[href*=".biquge"][href*="app"]
+##a[href*=".bjty7.vip"]
 ##a[href*=".blueyoko.com/"]
 ##a[href*=".bright.cn/?utm_"]
 ##a[href*=".bsy3.xyz"]
