@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: nkRy6Z55SwQ7+Z9Ueis35w
+! Checksum: MOCW+lLbSaTzjmPQhqmkpA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240826093800
+! Version: 20240826162900
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-26 09:38:00
-! Total Count: 28738
+! Last modified: 2024-08-26 16:29:00
+! Total Count: 28740
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -11211,6 +11211,7 @@
 ||magnetdog.net^$popup
 ||magnificentmeasure.com^$third-party
 ||magnificentmist.com^$third-party
+||magsrv.com^$subdocument,redirect=noop.html,domain=hanime1.me
 ||magsrv.com^$third-party
 ||mahao1.cn^
 ||mahoupao.com/api.php?mod=ad&
@@ -17056,6 +17057,7 @@
 ||wetpussy.sexy/js/index-nb.js
 ||wew.dushiwenxue.net^
 ||wewbnso.cn^
+||wewrute.top^
 ||wfiles.hcomic.net/indexSwiper/*_*x*_*_TC_gif.gif
 ||wfjslie.top^
 ||wfndponfd.com^
