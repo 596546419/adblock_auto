@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: MtQQVdy3pBulhUN9fC7Izg
+! Checksum: tkbxN0C3NwyMMNBXNvO0sg
 ! Title: 混合规则(自动更新)
-! Version: 20240826002506
+! Version: 20240826093748
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-26 00:25:06
-! Total Count: 150394
+! Last modified: 2024-08-26 09:37:48
+! Total Count: 150447
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1235,6 +1235,7 @@
 ||23bei.com/static/plugins/layer/layer.
 ||23dhj4q.com^
 ||23dsf.top^
+||23hssicm9.de^
 ||23img.com^*/qomnyi.
 ||23jgiy.com^
 ||23kmm.com^$third-party
@@ -1919,6 +1920,7 @@
 ||3p-geo.yahoo.com^
 ||3p-udc.yahoo.com^
 ||3p8801.co^
+||3pkf5m0gd.com^
 ||3pmcoohke.scriptmh.com^
 ||3pornstarmovies.com/*/*/*/js/ssu*.js^
 ||3pornstarmovies.com/ai/s/s/su.php
@@ -2009,6 +2011,7 @@
 ||44a9217f10.com^
 ||44afd3eae5.com^
 ||44e29c19ac.com^
+||44fc128918.com^
 ||44ffd27303.com^
 ||44j4oo2a.cn^
 ||44jq.cn^
@@ -2344,6 +2347,7 @@
 ||53ynh.xyz^
 ||54.169.80.245/ad^
 ||54.222.186.106^
+||54019033.xyz^
 ||543et.com/detail/
 ||5442tu.com/style/ads5442.js
 ||544c1a86a1.com^
@@ -4397,6 +4401,7 @@
 ||abochro.com^
 ||abodealley.com^
 ||abodedistributionpan.com^
+||abody.39.net^
 ||aboenab.com^
 ||abohara.com^
 ||abolaed.com^
@@ -6191,6 +6196,7 @@
 ||ads.alobacsi.vn^
 ||ads.annonsbladet.com^
 ||ads.appsgeyser.com^
+||ads.asset.aparat.com^
 ||ads.autonet.com.vn^
 ||ads.avocet.io^
 ||ads.baoangiang.com.vn^
@@ -8816,6 +8822,7 @@
 ||amazones-tools.com^
 ||amazonl0.com^
 ||amazonl3.com^
+||amazonl4.com^
 ||amazonlogistics.jp^
 ||amazononline.xyz/mp4/*.mp4$redirect=noop-0.1s.mp3,domain=iyingshi7.tv|localmv1.com,media
 ||amazononline.xyz/mp4/*.mp4$redirect=noopmp3-0.1s,domain=iyingshi7.tv|localmv1.com
@@ -10682,6 +10689,7 @@
 ||arenalitteraccommodation.com^
 ||arethegrav.com.ua^
 ||arethegravk.xyz^
+||arewcdf116.cn^
 ||arewzvqbevrzj.top^
 ||areyoutherenow.com^
 ||argasidstrafed.com^
@@ -12947,7 +12955,9 @@
 ||baotienphong.net^
 ||baotrixanhvn.com^
 ||baoviet-vn.cc^
+||baovietin.top^
 ||baovietn.vip^
+||baovietvay.top^
 ||baowf.com^
 ||baowt.com^
 ||baoying.asia^
@@ -13635,6 +13645,7 @@
 ||beddingcadetexploded.com^
 ||bedeaflakism.com^
 ||bedevilglare.com^
+||bedirectuklyecon.com^
 ||bedmantaximan.com^
 ||bedodrioer.com^
 ||bedodrioon.com^
@@ -16678,6 +16689,7 @@
 ||bwuwirv.cn^
 ||bwvqjqmlkezjk.top^
 ||bwvqjqmlkezkl.top^
+||bwwhcljtytrpo.com^
 ||bwwlw.cn^
 ||bwzlmmqwrrarv.top^
 ||bwzlmmqwrrnea.top^
@@ -17471,6 +17483,7 @@
 ||cartponi.tk^
 ||cartrigechances.com^
 ||carts.guru^
+||cartx.cloud^
 ||caruagedlr.com^
 ||carvagemidweek.shop^
 ||carvallo.info^
@@ -17778,6 +17791,7 @@
 ||ccrkpsu.com^
 ||ccrtvi.com^
 ||ccsshn137.shop^
+||cct-giaohangtietkiem.com^
 ||cctg.cc^
 ||cctime.com/UpLoadFile/201*.gif
 ||cctuhqghljzdrv.com^
@@ -18469,12 +18483,14 @@
 ||chamsockhachhang-uudai-tructuyenthe.com^
 ||chamsockhachhang-uudaithe-thang6.com^
 ||chamsockhachhang-uudaithecanhan-tructuyen.online^
+||chamsockhachhang-uudaithetructuyen-thang8.online^
 ||chamsockhachhang-uudaitructuyen.online^
 ||chamsockhachhangnanghanmuctindungmsb.com^
 ||chamsockhachhangtheuudai-tructuyen.com.vn^
 ||chamsocthekhachang-truc-tuyen.com^
 ||chamsocthekhachhang-thang4.com.vn^
 ||chamsocthekhachhang-thang4.online^
+||chamsocthekhachhang-tructuyen-thang8.com.vn^
 ||chamsocthekhachhang-uudai-tructuyen.com^
 ||chamsocuudaithekhachhang-tructuyen.com^
 ||chanalytics.merchantadvantage.com^
@@ -18905,6 +18921,7 @@
 ||chinesean.com^$third-party
 ||chinesetoday.cn/2017/ad/*.gif
 ||chinhphu.cc^
+||chinhphu.dulieucutru.org^
 ||chinkerdough.com^
 ||chinoismoras.com^
 ||chinsnakes.com^$third-party
@@ -21227,6 +21244,7 @@
 ||copieranewcaller.com^
 ||copiercarriage.com^
 ||copperchickens.com^$third-party
+||coppercranberrylamp.com^
 ||copperegg.com^
 ||copperseafoodearphones.com^
 ||copterezba.com^
@@ -24563,6 +24581,7 @@
 ||dichvucong.hhlpa.com^
 ||dichvucong.kgov.net^
 ||dichvucong.lgov.net^
+||dichvucong.snggov.com^
 ||dichvucong.tgovn.cc^
 ||dichvucong.tkgov.com^
 ||dichvucong.vgovn.net^
@@ -24626,6 +24645,7 @@
 ||dienmayxanh263.com^
 ||dienmayxanh268.com^
 ||dienmayxanh269.com^
+||dienmayxanh389.com^
 ||dienmayxanh542.com^
 ||dienmayxanhantam.com^
 ||dienmayxanhbeauty.com^
@@ -24944,6 +24964,7 @@
 ||discounts4shops.com^
 ||discountstickersky.com^
 ||discountwound.com^
+||discourseoxidizingtransfer.com^
 ||discourteousbeaming.com^
 ||discover-path.com^
 ||discoverethelwaiter.com^
@@ -25961,6 +25982,7 @@
 ||dprtb.com^
 ||dps-reach.com^
 ||dpseympatijgpaw.com^
+||dpsmhx.zxte.bid^
 ||dpstack.com^
 ||dptwwmktgta.com^
 ||dpweupc.icu^
@@ -29460,6 +29482,7 @@
 ||ewkjfwwld.xyz^
 ||ewlfcpnqlylef.com^
 ||ewmvim.xyz^
+||ewnkfnsajr.com^
 ||ewogldw.top^
 ||ewogloarge.com^
 ||ewoodandwaveo.com^
@@ -30413,6 +30436,7 @@
 ||fatzuclmihih.com^
 ||faucetfoot.com^$third-party
 ||faudouglaitu.com^
+||faughold.info^
 ||faugrich.info^
 ||faugstat.info^
 ||faujdarunrake.top^
@@ -34226,6 +34250,7 @@
 ||giaodichquoctes.vercel.app^
 ||giaodichtiente247ipay.weebly.com^
 ||giaodichvidientu.com.vn^
+||giaohangtietkiem247.com^
 ||giaoji.com/Runtime/Js/
 ||giaothuongvietnhat.org^
 ||giaythethaonuhcm.com^
@@ -35387,6 +35412,7 @@
 ||gpm-mon-sg.bytegsdk.com^
 ||gpm-mon-sg.byteoversea.com^
 ||gpm.ltd^
+||gpmzkg.xyz^
 ||gpnjknuqas.xyz^
 ||gporkecpyttu.com^
 ||gposrzz.cn^
@@ -38697,6 +38723,7 @@
 ||hotro-xacminhtaikhoan-garena-vn.com^
 ||hotro.asia^
 ||hotro.autos^
+||hotro0nline28.com^
 ||hotrochatluongchuyennghieptoanquoc.click^
 ||hotrodienmayxanh.com^
 ||hotrokhachhang-garena-account.com^
@@ -43417,6 +43444,7 @@
 ||jinxian.co^
 ||jinxiuzhilv.com^
 ||jinxiyue.com/seo.js$script
+||jinxpn.xyz^
 ||jinxrussian.com^
 ||jinyici.com/qq.js
 ||jinzige.cn^
@@ -45172,6 +45200,7 @@
 ||kewhulawi.com^
 ||kewnemhpbmzkm.com^
 ||kewrutd.top^
+||kexarvamr.com^
 ||kexojito.com^
 ||key.sexymovie.name^
 ||key8.com/cache/www/banner_
@@ -47622,6 +47651,7 @@
 ||lfufujhxmy.com^
 ||lfwujowkcf.com^
 ||lfxkgdvf.com^
+||lfxozd.xyz^
 ||lfywxgpkev.com^
 ||lfzk2cp.icu^
 ||lfzxcp.com^
@@ -48318,6 +48348,7 @@
 ||ljggc.com^
 ||ljhbhy.cn^
 ||ljhhhhrt.top^
+||ljjskttqximu.in^
 ||ljk.ink^
 ||ljlbzdqznogl.com^
 ||ljldpvos.com^
@@ -56685,6 +56716,7 @@
 ||nuiekka.cn^
 ||nuisancehi.com^
 ||nujian.asia^
+||nuk36952s.com^
 ||nukeluck.net^
 ||nukxwyyhuinwf.com^
 ||nuleedsa.net^
@@ -64700,6 +64732,7 @@
 ||qa24ljic4i.com^
 ||qaagib.icu^
 ||qabpqtqmhl.com^
+||qacdf511.cn^
 ||qadabra.com^
 ||qads.io^
 ||qadserve.com^
@@ -64726,6 +64759,7 @@
 ||qapsmny.cyou^
 ||qapuote.cn^$document
 ||qapuote.cn^$~third-party
+||qapzphxvkzs.com^
 ||qaqqihlho.com^
 ||qarewien.com^
 ||qarsza.cn^
@@ -68026,6 +68060,7 @@
 ||rijutv.*/uploadfile/8c96dc2f564c1b56.png
 ||rik11.fun^
 ||rikehemanwho.com^
+||rikip.com^
 ||rikmomo.co^
 ||rikmomo.me^
 ||rikqo.cc^
@@ -70277,6 +70312,7 @@
 ||sdfqs2.com^
 ||sdfsad562.xyz^
 ||sdfsdvc.com^
+||sdfsshop1.com^
 ||sdfv66.com^
 ||sdfxcv.com^
 ||sdfxv57.com^
@@ -70678,6 +70714,7 @@
 ||senatescouttax.com^
 ||sendmepush.com^
 ||sendotv.com^
+||sendotv.shop^
 ||sendovip.com^
 ||sendovn.com^
 ||sendtraffic.com^
@@ -74075,6 +74112,7 @@
 ||sp315693vn.com^
 ||sp5188.com^
 ||sp56788.com^
+||sp61889p.com^
 ||sp6788.com^
 ||sp7335p.com^
 ||sp75193p.com^
@@ -77386,6 +77424,7 @@
 ||taichinhanbinh.net^
 ||taichinhbank.com.vn^
 ||taichinhcaptoc.com^
+||taichinheximbak.com^
 ||taichinhhbaotin.com^
 ||taichinhhoangkim.com^
 ||taichinhmb.com^
@@ -77454,6 +77493,7 @@
 ||takeallsoft.ru^
 ||takecareproduct.com^
 ||takechaukr.com^
+||takeingnana.shop^
 ||takelnk.com^
 ||takemybackup.co^
 ||takemydesk.co^
@@ -78495,6 +78535,7 @@
 ||thcdy.co/baidu2/index_top.js
 ||thdidx.xyz^
 ||thduyzmbtrb.com^
+||thdwaterverya.info^
 ||the-adult-company.com^
 ||the-people-group.com^
 ||the4.fun^
@@ -79196,6 +79237,7 @@
 ||tikimall.org^
 ||tikimall.top^
 ||tikimast.com^
+||tikimuasam24h.com^
 ||tikion8.com^
 ||tikirating-vn.com^
 ||tikiratingvn.com^
@@ -79223,6 +79265,7 @@
 ||tikivn558.com^
 ||tikivn668.com^
 ||tikivn68.com^
+||tikivn84.com^
 ||tikivncareers.com^
 ||tikivnn.com^
 ||tikivv.com^
@@ -80665,6 +80708,7 @@
 ||tracker.metricool.com^
 ||tracker.mrpfd.com^
 ||tracker.mtrtb.com^
+||tracker.multisearch.io^
 ||tracker.myth.dev^
 ||tracker.myyschool.xyz^
 ||tracker.nbcuas.com^
@@ -84045,6 +84089,7 @@
 ||usounoul.com^
 ||usp1.baidu.com^
 ||usquegessoes.com^
+||usr.interactiveone.com^
 ||usr.trava.io^
 ||ussckwroweoyv.com^
 ||ussive.com^
@@ -85643,6 +85688,7 @@
 ||vietnamairliness.com^
 ||vietnamairslines.com^
 ||vietnamairslines.vn^
+||vietnamdaily-log.kienthuc.net.vn^
 ||vietnamdaily-log.trithuccuocsong.vn^
 ||vietnamdebd.com^
 ||vietnamdsa.site^
@@ -86248,6 +86294,7 @@
 ||vn-ebanks.xyz^
 ||vn-ebay.quxlpuj.cn^
 ||vn-ebayn.vip^
+||vn-eid.com^
 ||vn-email.shop^
 ||vn-express.net^
 ||vn-findmy.com^
@@ -86381,6 +86428,7 @@
 ||vnsendo.net^
 ||vnsendo.shop^
 ||vnsendo.vip^
+||vnsendotv.vip^
 ||vnshop.today^
 ||vnshop00.com^
 ||vnshop11.com^
@@ -86719,6 +86767,7 @@
 ||vqcjmtorgexlxpg.xyz^
 ||vqcuzypju.com^
 ||vqdjcy.com^
+||vqelhmqyuphr.info^
 ||vqflyvrshgjvqr.com^
 ||vqfqo.us^
 ||vqfustjnvph.com^
@@ -86868,6 +86917,7 @@
 ||vttqld.xyz^
 ||vttyjakvvdce.com^
 ||vtuctez.cn^
+||vtv24.pro^
 ||vtvay.com^
 ||vtveyowwjvz.com^
 ||vtvkkbasfm.com^
@@ -90038,6 +90088,7 @@
 ||xbbhwggj.icu^
 ||xbc8fsvo5w75wwx8.pro^
 ||xbcnvj2mdk1dn1.com^
+||xbcpcn.com^
 ||xbcrohmposa.com^
 ||xbetobprp.com^
 ||xbhxgcj.cn^
@@ -90340,6 +90391,7 @@
 ||xiaochen1.cn^
 ||xiaodongrui.com^
 ||xiaodutv.com/xda?
+||xiaoe.com^
 ||xiaohui.ink^
 ||xiaohui668.club^
 ||xiaohuishu.top^
@@ -96775,6 +96827,8 @@ auto-online.com.tw##.text_links_h
 auto-online.com.tw##div[style="width:336px;height:280px;margin:0;background:#000000"]
 auto-online.com.tw##div[style="width:728px;height:130px;margin:0;background:#000000"]
 auto.163.com##div[class^="ga ga"]
+auto.creavite.co##[href*="?aff="]
+auto.creavite.co##[href*="?utm_medium=ads"]
 auto.economictimes.indiatimes.com##.mrec-ads-slot
 auto.hindustantimes.com##.adsHeight300x600
 auto.hindustantimes.com##.adsHeight970x250
@@ -110346,6 +110400,7 @@ sexwebvideo.me##.footer-content > .uk-container-center .list-spots
 sexwebvideo.me##.page-header > a[href^="https://bongacams.com/track?"]
 sexwebvideo.me##.uk-navbar-nav > li > a[href^="https://p.hecams.com/"]
 sexwebvideo.me##.uk-panel-box > .trailer-sponsor
+sexwebvideo.net##div.trailer-sponsor
 sexwebvideo.net,porntopic.com,sexwebvideo.com,sexwebvideo.me,camsexvideo.net###kt_player > .fp-player + a[href$="/?play=true"][target="_blank"][style]
 sexwebvideo.net,sexwebvideo.com,camsexvideo.net##.trailer-sponsor
 sexxx.cc###bottom_blockBanner
@@ -139106,7 +139161,6 @@ zle.com$script
 ##.banner-ads
 ##.banner-ads-right
 ##.banner-ads-sidebar
-##.banner-ads:not(.textads)
 ##.banner-adsense
 ##.banner-adv
 ##.banner-advert
@@ -139174,7 +139228,6 @@ zle.com$script
 ##.banner_ad_wrapper
 ##.banner_ads
 ##.banner_ads1
-##.banner_ads:not(.textads)
 ##.banner_ads_300x250
 ##.banner_ads_home
 ##.banner_ads_home_inner

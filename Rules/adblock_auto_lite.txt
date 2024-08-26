@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: kkwbWp6jMzXmMXM3lEKBrA
+! Checksum: nkRy6Z55SwQ7+Z9Ueis35w
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240826002518
+! Version: 20240826093800
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-26 00:25:18
-! Total Count: 28732
+! Last modified: 2024-08-26 09:38:00
+! Total Count: 28738
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1586,6 +1586,7 @@
 ||aboardfork.com^$third-party
 ||aboardkettle.com^$third-party
 ||aboardlevel.com^$third-party
+||abody.39.net^
 ||aboriginalboats.com^$third-party
 ||abqdgu.xyz^
 ||abrnfctkn.xyz^
@@ -3795,6 +3796,7 @@
 ||arcticamber.com^$third-party
 ||area51.porn/sw.js
 ||arejug.xyz^
+||arewcdf116.cn^
 ||areyoutherenow.com^
 ||argyresthia.com^$third-party
 ||arhnuin.xyz^
@@ -8091,6 +8093,7 @@
 ||gp.zaiyunli.cn^
 ||gp123.cc/20*ad/
 ||gpiagk.xyz^
+||gpmzkg.xyz^
 ||gposrzz.cn^
 ||gpqicw.xyz^
 ||gpqid.xyz^
@@ -9735,6 +9738,7 @@
 ||jinti.com^*/aspx/*gg
 ||jintonghua.com^
 ||jinxiyue.com/seo.js$script
+||jinxpn.xyz^
 ||jinyici.com/qq.js
 ||jinzige.cn^
 ||jioads.akamaized.net^
@@ -10692,6 +10696,7 @@
 ||lfjtiuy.cn^
 ||lfrfzr.xyz^
 ||lftpvh.xyz^
+||lfxozd.xyz^
 ||lfzk2cp.icu^
 ||lgecqrb.com^
 ||lgecqrb.com^$document
@@ -13345,6 +13350,7 @@
 ||q4v3c.site^
 ||q6gub.website^
 ||qaagib.icu^
+||qacdf511.cn^
 ||qaljfiwv.com^
 ||qange.com^
 ||qaops.jgwsmqx.com^$third-party
