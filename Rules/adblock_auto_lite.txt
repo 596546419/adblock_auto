@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: o0C6t8+DpUWa+qvkNUPI5A
+! Checksum: RruKsdZ40XbaGJ+xeJkhWw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240827002846
+! Version: 20240827093836
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-27 00:28:46
-! Total Count: 28742
+! Last modified: 2024-08-27 09:38:36
+! Total Count: 28746
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5997,6 +5997,7 @@
 ||daima.ysdui.com^
 ||daima.yuzhulin.com^
 ||daiporno.com^$third-party
+||dairzih.com^
 ||daiwofei2019.top^
 ||dajiadu8.com/17.js
 ||dajiahao10.top^
@@ -8193,6 +8194,7 @@
 ||guge.red^
 ||guhai.com.cn/AD/
 ||guidecent.com^$third-party
+||guifudi.com^
 ||guifun.com/psptool/ad/
 ||guilin-ly.com^*.gif
 ||guiltlessbasketball.com^$third-party
@@ -16992,6 +16994,7 @@
 ||wdygoi.xyz^
 ||we560.com/js/*.js
 ||weacdf211.cn^
+||weacdf411.cn^
 ||weagehn.icu^
 ||weaquc.xyz^
 ||wearbasin.com^$third-party
@@ -17416,6 +17419,7 @@
 ||xekmhvbb.xyz^
 ||xero.porn/videoAd
 ||xerqfh.xyz^
+||xevzdl.xyz^
 ||xeynozl.icu^
 ||xflybplr.xyz^
 ||xfn1688.com^

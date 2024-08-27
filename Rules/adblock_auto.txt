@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: zR+NMQOhPCllyyzjyvnZag
+! Checksum: 7LbGj22aZSwoHXR0vC/NLg
 ! Title: 混合规则(自动更新)
-! Version: 20240827002834
+! Version: 20240827093824
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-27 00:28:34
-! Total Count: 150466
+! Last modified: 2024-08-27 09:38:24
+! Total Count: 150501
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -84,6 +84,7 @@
 ||00701059.xyz^
 ||007ds.com/js/js/
 ||0083334e84.com^
+||00857731.xyz^
 ||008844.cc^
 ||0088shop.com^
 ||009855.com^
@@ -2063,6 +2064,7 @@
 ||48da4009ba.com^
 ||48dreams.com/player/adstype/advmaker.php
 ||4901967b4b.com^
+||49333767.xyz^
 ||4936.cn^$third-party
 ||493b98cce8bc1a2dd.com^
 ||49468220.com^
@@ -4045,6 +4047,7 @@
 ||a32a.com.cn^$third-party
 ||a32d9f2cc6.com^
 ||a32fc87d2f.com^
+||a34aba7b6c.com^
 ||a356ff8a25.com^
 ||a3595ccd38.com^
 ||a35e803f21.com^
@@ -8717,6 +8720,7 @@
 ||alternatespikeloudly.com^
 ||alternativecpmgate.com^
 ||alternativeprofitablegate.com^
+||altfafbih.com^
 ||altheasspit.store^
 ||althov.com^
 ||altitude-arena.com^
@@ -8756,6 +8760,7 @@
 ||alzexa.com^
 ||alzlwkeavakr.top^
 ||alzlwkeavlvm.top^
+||am-da.xyz^
 ||am-schedule.ru^
 ||am.szhome.com^
 ||am.titsx.com^
@@ -10853,6 +10858,7 @@
 ||arterybasin.com^
 ||arteryeligiblecatchy.com^
 ||artespipe.com^
+||artevinesor.com^
 ||artfulparrotnobody.com^
 ||artfut.com^
 ||arthwhilearthu.com^
@@ -12989,6 +12995,7 @@
 ||barefootedleisurelypizza.com^
 ||barefootedpyjamasdetection.com^
 ||barelydresstraitor.com^
+||barelysobby.top^
 ||barelytwinkledelegate.com^
 ||baresi.xyz^
 ||barfsmiaowpit.com^
@@ -14527,6 +14534,7 @@
 ||bilkersteds.com^
 ||bill777.xyz^
 ||billersdunamis.com^
+||billiardsdripping.com^
 ||billiardsnotealertness.com^
 ||billiardssequelsticky.com^
 ||billionpops.com^
@@ -16291,6 +16299,7 @@
 ||bubblekraken.com^
 ||bubblesmedia.ru^
 ||bubblestat.com^
+||bubblestownly.com^
 ||bubbly-condition.pro^
 ||bubblyzucchini.com^
 ||bubonicgraters.space^
@@ -16441,6 +16450,7 @@
 ||bungeedubbah.com^
 ||bungingimpasto.com^
 ||bunintruder.com^
+||bunnslibby.com^
 ||bunny-net.com^
 ||bunnymediaserver.com^
 ||bunquaver.com^
@@ -17580,6 +17590,7 @@
 ||cathe-tindung247mpos.com^
 ||cathedralforgiveness.com^
 ||cathedralinthei.info^
+||cathrynslues.com^
 ||catiligh.ru^
 ||cationinin.com^
 ||cationinina.one^
@@ -18630,6 +18641,7 @@
 ||chdbits.co/pic/*-*.gif
 ||chdkxgjtwflba.com^
 ||cheap-ads.net^
+||cheap-celebration.pro^
 ||cheap-result.pro^
 ||cheap-trip.pro^
 ||cheapcinema.club^
@@ -19996,6 +20008,7 @@
 ||cmgjqqu.cn^
 ||cmhokiknvamu.xyz^
 ||cmhoriu.com^
+||cmiccttljbth.com^
 ||cmiega.top^
 ||cmix.org^
 ||cmiyscmpbnhp.xyz^
@@ -20947,6 +20960,7 @@
 ||conquerleaseholderwiggle.com^
 ||conquestafloat.com^
 ||conquestdrawers.com^
+||consargyle.com^
 ||conscienciaecompletude.com^
 ||consciouschairs.com^$third-party
 ||consciouscheese.com^$third-party
@@ -23037,6 +23051,7 @@
 ||dairebougee.com^
 ||dairouzy.net^
 ||dairyworkjourney.com^
+||dairzih.com^
 ||daisiyao.love^
 ||daistii.com^
 ||daisycontroversy.com^
@@ -23434,6 +23449,7 @@
 ||davedbux.ir^
 ||davjdaauvlp.com^
 ||davtvd.xyz^
+||davycrile.com^
 ||dawangde.me^
 ||dawdlealmonry.com^
 ||daweijita.com/201*430.
@@ -31131,6 +31147,7 @@
 ||filese.me^
 ||filetarget.com^
 ||filetarget.net^
+||filetdeform.com^
 ||filexan.com^
 ||filhibohwowm.com^
 ||filiatefinbone.uno^
@@ -36128,6 +36145,7 @@
 ||guide-antivirus.com^
 ||guidecent.com^$third-party
 ||guidonsfeeing.com^
+||guifudi.com^
 ||guifun.com/psptool/ad/
 ||guigankj.cn^
 ||guigebichir.website^
@@ -40917,6 +40935,7 @@
 ||inadequateinadmissibleoblige.com^
 ||inadmissibleinsensitive.com^
 ||inadmissiblesomehow.com^
+||inadnetwork.xyz^
 ||inaffiliago.it^
 ||inaftracker.com^
 ||inaickoo.com^
@@ -58255,6 +58274,7 @@
 ||ooltakreenu.xyz^
 ||ooltutoo.net^
 ||oomgnwdmzwnxn.com^
+||oomphavenger.com^
 ||oomphcorker.top^
 ||oomsijahail.com^
 ||oomsoapt.net^
@@ -59199,6 +59219,7 @@
 ||ovsgalzea.com^
 ||ovsiicni.com^
 ||ovsrhikuma.com^
+||ovstfuogmni.com^
 ||ovuvmdoty.com^
 ||ovvmptgnrskmmkr.com^
 ||ovvmrrufvhclxf.com^
@@ -59814,6 +59835,7 @@
 ||pap.qualityunit.com^
 ||papaneecorche.com^
 ||papathp.cn^
+||papatrol.xyz^
 ||papatyrodum.com^
 ||papawrefits.com^
 ||papayacallose.top^
@@ -60146,6 +60168,7 @@
 ||pavfazbwiap.com^
 ||paviestrewel.top^
 ||paviourwese.com^
+||pavisordjerib.com^
 ||pavymoieter.com^
 ||pawbothcompany.com^
 ||pawderstream.com^
@@ -61161,6 +61184,7 @@
 ||phultids.com^
 ||phumpauk.com^
 ||phupours.com^
+||phursefter.net^
 ||phuteheglu.com^
 ||phuzeeksub.com^
 ||phvfevk.xyz^
@@ -61696,6 +61720,7 @@
 ||pk331.cn^
 ||pk910324e.com^
 ||pk965.com^
+||pkazd.xyz^
 ||pkebenfb.com^
 ||pkeeper3.ru^
 ||pkeog.cn^
@@ -63629,6 +63654,7 @@
 ||proprietorgrit.com^
 ||props.id^
 ||propsad.com^
+||propsid.b-cdn.net^
 ||propu.sh^
 ||propulsionreproduceresult.com^
 ||propulsionstatute.com^
@@ -77458,6 +77484,7 @@
 ||tailstories.biz^
 ||tailsweep.com^
 ||tailtarget.com^
+||taimachojoba.xyz^
 ||tainangvietnhi.rf.gd^
 ||tainangvietnhi.weebly.com^
 ||tainec.fun^
@@ -77709,6 +77736,7 @@
 ||target.smi2.net^
 ||target.smi2.ru^
 ||target.ukr.net^
+||targetads.io^
 ||targetan.com^
 ||targetfuel.com^
 ||targeting.api.drift.com^
@@ -77763,6 +77791,7 @@
 ||tastesnlynotqui.info^
 ||tastesscalp.com^
 ||tastierxyphoid.com^
+||tasty-criticism.com^
 ||tasty-election.com^
 ||tasvagaggox.com^
 ||tat3ayogh6.com^
@@ -86157,6 +86186,7 @@
 ||vizisense.net^
 ||vizoalygrenn.com^
 ||vizofnwufqme.com^
+||vizoredcheerly.com^
 ||vizpwsh.com^
 ||vizu.com^
 ||vizury.com^
@@ -87691,6 +87721,7 @@
 ||we560.com/js/*.js
 ||weabalance.top^
 ||weacdf211.cn^
+||weacdf411.cn^
 ||weagehn.icu^
 ||weakcompromise.com^
 ||wealthextend.com^
@@ -88436,6 +88467,7 @@
 ||whoajeex.xyz^
 ||whoaksoo.com^
 ||whoalsos.com^
+||whoansodroas.net^
 ||whoapsoo.com^
 ||whoaremyfriends.com^
 ||whoaremyfriends.net^
@@ -90257,6 +90289,7 @@
 ||xetlugupyug.com^
 ||xeuswz.com^
 ||xevbjycybvb.xyz^
+||xevzdl.xyz^
 ||xeynozl.icu^
 ||xf2pf.top^
 ||xfahjal.com^
@@ -91147,6 +91180,7 @@
 ||xvzvqoq.xyz^
 ||xw.ooegpip.cn^$third-party,image
 ||xwagtyhujov.com^
+||xwazafkzej.com^
 ||xwbspx.xyz^
 ||xwbxsw.com/js/app_wap.
 ||xwcfvvnegv.com^
@@ -146014,6 +146048,7 @@ zle.com$script
 ##a[data-redirect^="https://paid.outbrain.com/network/redir?"]
 ##a[data-track-content][data-content-name][target="_blank"]
 ##a[data-url^="http://paid.outbrain.com/network/redir?"] + .author
+##a[data-url^="https://vulpix.bet/?ref="]
 ##a[data-widget-outbrain-redirect^="http://paid.outbrain.com/network/redir?"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$=".anwangdaohang.com"]
