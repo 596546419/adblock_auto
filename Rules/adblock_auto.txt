@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 3f24DCbCB//RXltO6dxDmA
+! Checksum: i3I5HUusFwgvqcCdnzkf3g
 ! Title: 混合规则(自动更新)
-! Version: 20240828093911
+! Version: 20240828162755
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-28 09:39:11
-! Total Count: 150583
+! Last modified: 2024-08-28 16:27:55
+! Total Count: 150586
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -69833,6 +69833,7 @@
 ||sapfollower.com^
 ||sapha.com^
 ||saphiretelavivisrael.com^
+||sapi.tremendous.com^
 ||saplvvogahhc.xyz^
 ||sapsixysho.pro^
 ||sapsmnb.cyou^
@@ -78439,6 +78440,7 @@
 ||tevdrduqq.com^
 ||tevermotoriesmyst.info^
 ||tewingrodents.uno^
+||tewruti.top^
 ||tewsdnka35.xyz^
 ||tewzc.xyz^
 ||texacosimkin.com^
@@ -108402,6 +108404,7 @@ pconline.com.cn##.rela-best
 pconline.com.cn##.twentieth
 pconline.com.cn##.website_recommend_banner
 pconline.com.cn##a[href^="http://ivy.pconline."]
+pcquest.com##.ads-div-style
 pcsoft.com.cn##.gsxzdl
 pcsoft.com.cn##.qrcode_show
 pcsoft.com.cn##.shang11-top
