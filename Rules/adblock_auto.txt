@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: i3I5HUusFwgvqcCdnzkf3g
+! Checksum: yFBWCkuNgMS6n0B4K1EuSg
 ! Title: 混合规则(自动更新)
-! Version: 20240828162755
+! Version: 20240829002814
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-28 16:27:55
-! Total Count: 150586
+! Last modified: 2024-08-29 00:28:14
+! Total Count: 150606
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3570,6 +3570,7 @@
 ||9354ee72.xyz^
 ||935676yfc.com^
 ||935cfb1d3b.com^
+||93692zubo66936.com^
 ||9377aa.com^
 ||9377co.com^
 ||9377hi.com^
@@ -12662,6 +12663,7 @@
 ||baihbw.cn^
 ||baihuwang.com^$third-party
 ||baijav.com^
+||baijs010.shop^
 ||baijs010.xyz^
 ||baijs011.xyz^
 ||baijs02.shop^
@@ -22092,6 +22094,7 @@
 ||crptgate.com^
 ||crpvoxl.cn^
 ||crrepo.com^
+||crrvuqgvkwffd.com^
 ||crs-event.line.me^
 ||crs-hometab-event.line.me^
 ||crs.baidu.com^
@@ -25887,6 +25890,7 @@
 ||doujl.cn^
 ||doujs01.shop^
 ||doujs01.xyz^
+||doujs010.shop^
 ||doujs010.xyz^
 ||doujs02.shop^
 ||doujs02.xyz^
@@ -57668,6 +57672,7 @@
 ||ohimunpracticalw.info^
 ||ohjfacva.com^
 ||ohjhsopp.com^
+||ohjlghirnbkosdh.com^
 ||ohkahfwumd.com^
 ||ohkdsplu.com^
 ||ohkvifgino.com^
@@ -69330,6 +69335,7 @@
 ||rxvej.com^
 ||rxyggrq.cn^
 ||rxys.cn^
+||ryads.xyz^
 ||ryanfrqxjl.com^
 ||ryauzo.xyz^
 ||ryazabti.com^
@@ -78498,6 +78504,7 @@
 ||tfptlgrw.co^
 ||tfptlgrw.live^
 ||tfqrqdpgarskxv.com^
+||tfqvxyajkqu.xyz^
 ||tfrwxv.xyz^
 ||tfsqxdc.com^
 ||tfsxszw.com^
@@ -82167,6 +82174,7 @@
 ||tuffoonincaged.com^
 ||tufsjnk.cn^
 ||tufteraureous.digital^
+||tuftoawoo.xyz^
 ||tufzdj.xyz^
 ||tugarmyindistinct.com^
 ||tugflmw.cn^
@@ -83861,6 +83869,7 @@
 ||upload.cc/i1/*.gif$domain=ddav.org
 ||upload.cc/i1/2020/07/13/8BGJiL.gif
 ||upload.cc^$domain=141jj.com|99re.com|mizhiav.com
+||upload.xchina.biz/ad/
 ||uploadhouse.com^*.gif$domain=wishct.com
 ||uplog.inews.qq.com^
 ||uplucarioon.com^
@@ -88616,6 +88625,7 @@
 ||whsir.com/wp-content/themes/wh-blog/js/modal.js
 ||whsledorking.com^
 ||whuckaip.xyz^
+||whudroots.net^
 ||whudursus.com^
 ||whugeestauva.com^
 ||whugesto.net^
@@ -89003,6 +89013,7 @@
 ||wkjyxcheng.top^
 ||wkktfuy.cn^
 ||wkktnbxxum.xyz^
+||wkkug.vcbnw.de^
 ||wkmorvzqjmwav.top^
 ||wkmorvzqjmyrw.top^
 ||wknaczrxjrj.com^
@@ -90220,8 +90231,10 @@
 ||xcf-bd-js.chuimg.com^
 ||xcgbpsyob.com^
 ||xchina.*/plugins/jquery.modal/
+||xchina.click/upload/*.webp
 ||xchina.co/plugins/jquery.modal/
 ||xchina.co/redirect/ad-
+||xchina.co/scripts/push_*.js
 ||xchina.co/upload/ad/
 ||xchina.fun/plugins/jquery.modal/jquery.modal.min.js
 ||xchina.fun/redirect/ad-
@@ -91848,6 +91861,7 @@
 ||yhjhjwy.com^
 ||yhkeqboz.com^
 ||yhkiain.cn^
+||yhklljct.xyz^
 ||yhkt.online^
 ||yhlpshi.xyz^
 ||yhlvgpqsr.com^
@@ -95906,7 +95920,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 9gag.com##div[style*="width: 500px; height: 281px;"]
 9gag.com##div[style="position: relative; z-index: 3; width: 640px; min-height: 202px; margin: 0px auto;"]
 9gag.com##div[style^="position: relative; z-index: 10;"]
-9gag.com,blackpoolgazette.co.uk,bundesliga.com,farminglife.com,hotstar.com,ipolitics.ca,lep.co.uk,northamptonchron.co.uk,qpbriefing.com,scotsman.com,shieldsgazette.com,sport360.fit,talksport.com,the-sun.com,thescottishsun.co.uk,thestar.co.uk,thesun.co.uk,thesun.ie,trademe.co.nz##.billboard
+9gag.com,aerotime.aero,blackpoolgazette.co.uk,bundesliga.com,farminglife.com,hotstar.com,ipolitics.ca,lep.co.uk,northamptonchron.co.uk,qpbriefing.com,scotsman.com,shieldsgazette.com,sport360.fit,talksport.com,the-sun.com,thescottishsun.co.uk,thestar.co.uk,thesun.co.uk,thesun.ie,trademe.co.nz##.billboard
 9gag.tv##.size-728x90
 9game.cn###btInfo
 9game.cn##.guide-app-fix
@@ -96147,6 +96161,9 @@ aeink.com##.widget_ui_adsf
 aeink.com##.widget_ui_textads
 aeink.com##p[style*=".alicdn.com/"]
 aeink.com##p[style*="82px;background:"]
+aerotime.aero##.article-leaderboard
+aerotime.aero##.l-side-banner
+aerotime.aero##.s-banner
 afar.com##.Page-header-hat
 affyun.com##.text
 affyun.com##.text ~ a
@@ -110221,6 +110238,7 @@ scmp.com###after-page-layout-container
 scmp.com##.advertisers
 scmp.com##.article--sponsor
 scmp.com##.page-container__left-native-ad-container
+scmp.com##[data-qa="AppBar-renderLayout-AdSlotContainer"]
 scmp.com##[id^="div-ad-"]
 scmp.com##div[data-qa="AdSlot-Container"]
 scmp.com##div[data-qa="AppBar-AdSlotContainer"]
@@ -114135,6 +114153,8 @@ xcafe.com##.footer-block
 xcar.com.cn###eMeng
 xcar.com.cn###show_car
 xcar.com.cn##div[class^="adset"]
+xchina.co##.outer-banner
+xchina.co##div:has(> div:only-child > .media img[src*="/ad/"])
 xchina.co,xchina.fun,xchina.tv##.exoclick_300x250
 xchina.co,xchina.fun,xchina.tv##[adid]
 xchina.co,xchina.fun,xchina.tv##[class*="ad"]

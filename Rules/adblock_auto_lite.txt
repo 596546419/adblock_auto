@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: D12A080BiU5AG2wS9/BwXA
+! Checksum: fQHKm9RuXDkuVFLyjibHxg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240828162807
+! Version: 20240829002825
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-28 16:28:07
-! Total Count: 28755
+! Last modified: 2024-08-29 00:28:25
+! Total Count: 28761
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1265,6 +1265,7 @@
 ||92ph.cn^
 ||92uq.com/Ads/
 ||933m.com/1.js
+||93692zubo66936.com^
 ||939394.xyz^$image
 ||941novel.com/wp-content/uploads/*.gif
 ||94994.com*/js/plugin/shoppingMall/
@@ -4137,6 +4138,7 @@
 ||baiduvjsbvjknlsvsv.com^
 ||baifen.music.baidu.com^
 ||baihuwang.com^$third-party
+||baijs010.shop^
 ||baijs010.xyz^
 ||baijs011.xyz^
 ||baijs02.shop^
@@ -6488,6 +6490,7 @@
 ||doujinnomori.com/ad/
 ||doujs01.shop^
 ||doujs01.xyz^
+||doujs010.shop^
 ||doujs010.xyz^
 ||doujs02.shop^
 ||doujs02.xyz^
@@ -16411,6 +16414,7 @@
 ||upload.cc/i1/*.gif$domain=ddav.org
 ||upload.cc/i1/2020/07/13/8BGJiL.gif
 ||upload.cc^$domain=141jj.com|99re.com|mizhiav.com
+||upload.xchina.biz/ad/
 ||uploadhouse.com^*.gif$domain=wishct.com
 ||upornia.com/js/*.js?v=
 ||upornia.com/yxpffpuqtjc/
@@ -17383,7 +17387,9 @@
 ||xccadc.com^
 ||xcf-bd-js.chuimg.com^
 ||xchina.*/plugins/jquery.modal/
+||xchina.click/upload/*.webp
 ||xchina.co/redirect/ad-
+||xchina.co/scripts/push_*.js
 ||xchina.co/upload/ad/
 ||xchina.fun/redirect/ad-
 ||xchina.life/ad/
