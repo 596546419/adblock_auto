@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: veWIaebdltswdJorb/JoFQ
+! Checksum: RV/olZ+ONOii5/P8eotDOQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240828002720
+! Version: 20240828093923
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-28 00:27:20
-! Total Count: 28748
+! Last modified: 2024-08-28 09:39:23
+! Total Count: 28754
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1619,6 +1619,7 @@
 ||acdf115.cn^
 ||acdref117.cn^
 ||acdrewrf711.cn^
+||acdwef114.cn^
 ||aceik.xyz^
 ||acemof.top^
 ||aceporntube.com^
@@ -8134,6 +8135,7 @@
 ||gscsahv012.com^
 ||gscsahv013.com^
 ||gscsahv014.com^
+||gsdedash9b.fun^
 ||gsdpw.com/file/script/A
 ||gsiawq.xyz^
 ||gsjdzx.com^$third-party
@@ -9705,6 +9707,7 @@
 ||jiaoyou8.com^$domain=mitbbs.ca|mitbbs.com
 ||jiaoyu.baidu.com/tieba/
 ||jiape.cyou^
+||jias115.com^
 ||jiasule.com/static/js/http_error.js
 ||jiayu.net/comiis_ad/
 ||jibn12.jintang114.org^
@@ -9861,6 +9864,7 @@
 ||jqpejp.xyz^
 ||jqsex.com^
 ||jqtkzuco.xyz^
+||jqtnft.xyz^
 ||jquery.envi-met.com.cn^
 ||jqueryboots.com^
 ||jqueryboots.net^
@@ -11231,6 +11235,7 @@
 ||mailboxmeeting.com^$third-party
 ||main.jiukang.org^
 ||maiqi.xyz^
+||maiysw.xyz^
 ||majesticmountainrange.com^$third-party
 ||majunguo.cn^
 ||makaidong.com/img/
@@ -16801,6 +16806,7 @@
 ||vqlwoy.xyz^
 ||vrdxznr.xyz^
 ||vreephay.com^
+||vreqnait.com^
 ||vrivslffndepxqd.xyz^
 ||vrizead.com^
 ||vrlvnz.xyz^
