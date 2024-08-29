@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: OV1Z/WnB+s5OLjzXC3Q+Cw
+! Checksum: Dl7lxUcav91X5TrK7/Ct3g
 ! Title: 混合规则(自动更新)
-! Version: 20240829162753
+! Version: 20240830002800
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-29 16:27:53
-! Total Count: 150656
+! Last modified: 2024-08-30 00:28:00
+! Total Count: 150699
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1583,6 +1583,7 @@
 ||307i6i7do.de^
 ||308d13be14.com^
 ||30929d3de9.com^
+||30937261.xyz^
 ||30986g8ab.de^
 ||30b9e3a7d7e2b.com^
 ||30d5shnjq.de^
@@ -1801,6 +1802,7 @@
 ||3819544f76.com^
 ||3841f4b0c4.com^
 ||387635.com^
+||38941752.xyz^
 ||38bw0.space^
 ||38d9953876.com^
 ||38dbfd540c.com^
@@ -4798,6 +4800,7 @@
 ||acridtaxiworking.com^
 ||acridtubsource.com^
 ||acridtwist.com^$third-party
+||acrobatalar.shop^
 ||acrobaticdesire.com^
 ||acronkkky.com^
 ||acronym.com^
@@ -8217,6 +8220,7 @@
 ||ala.durasite.net^
 ||alacrityimitation.com^
 ||alaeshire.com^
+||alagaodealing.com^
 ||alamortairn.com^
 ||alanibelen.com^
 ||alardruther.top^
@@ -9081,6 +9085,7 @@
 ||analysis.fi^
 ||analysis.focalprice.com^
 ||analysis.polarisoffice.com
+||analysis.vesync.com^
 ||analysis.wangtwothree.com^
 ||analystrati.com^
 ||analysys.cn^
@@ -9678,6 +9683,7 @@
 ||anddescendedcocoa.com^
 ||andelect.cfd^
 ||andersenit.dk^
+||andhfaspitx.com^
 ||andhkruuiigxmkd.com^
 ||andhthrewdo.com^
 ||andhthrewdow.com^
@@ -13370,6 +13376,7 @@
 ||bd2.guancha.cn^$domain=m.guancha.cn
 ||bd2020.co/gg/
 ||bd3.chuiyue.com^
+||bd33500074.com^
 ||bd4travel.com^
 ||bd51static.com^
 ||bd5a57.xyz^
@@ -14676,6 +14683,7 @@
 ||biscow.com^
 ||biserka.xyz^
 ||bisesacnodes.com^
+||bisetcroomia.click^
 ||bisetsoliped.com^
 ||bisheehee.com^
 ||biskerando.com^
@@ -14863,6 +14871,7 @@
 ||bkrzykymkvea.top^
 ||bku3.com/js/cctv-bf.js
 ||bkujacocdop.com^
+||bkuqgkjpqzofi.com^
 ||bkvps.com^$third-party
 ||bkvtrack.com^
 ||bkxpph.xyz^
@@ -16865,6 +16874,7 @@
 ||bzngisyv.xyz^
 ||bzniungh.com^
 ||bznizrhd.xyz^
+||bzoqrlkd.com^
 ||bzqqftz.icu^
 ||bzrpvk.com^
 ||bzsiyxkvehty.com^
@@ -18610,6 +18620,7 @@
 ||charterporous.com^
 ||chartersettlingtense.com^
 ||charterunwelcomealibi.com^
+||chaseherbalpasty.com^
 ||chasmsnaa.com^
 ||chassirsaud.com^
 ||chassnincom.com^
@@ -21362,6 +21373,7 @@
 ||corruptmatter.com^
 ||corruptsolitaryaudibly.com^
 ||corsakpeize.com^
+||corveseiren.com^
 ||corvetwoorari.com^
 ||corvinapaella.life^
 ||corycj.top^
@@ -24060,6 +24072,7 @@
 ||demonstrationbeth.com^
 ||demonstrationsurgical.com^
 ||demonstrationtimer.com^
+||demonstudent.com^
 ||demopage.me^
 ||demoteexplanation.com^
 ||demountglinted.life^
@@ -24491,6 +24504,7 @@
 ||dgqdcetwbq.xyz^
 ||dgrrvpl.cn^
 ||dgtauto.com^
+||dgtbjoswrqu.com^
 ||dgthcfiwa.com^
 ||dgtklmbypacjq.com^
 ||dgttkthhgjm.com^
@@ -25753,6 +25767,7 @@
 ||doobaupu.xyz^
 ||doobuphoo.com^
 ||doochoor.xyz^
+||doodiwom.com^
 ||doodlelegitimatebracelet.com^
 ||doodlemobile.com/feature_server/fullScreen/get.php
 ||doodlemobile.com/feature_server/geo-ip/test.php
@@ -28191,6 +28206,7 @@
 ||emgqmsn.cn^
 ||emgthropositeas.info^
 ||emgwq.com^
+||emgykcjvkel.com^
 ||emicalcove.xyz^
 ||emigrantblunder.com^
 ||emigrantfirearmcaliber.com^
@@ -28841,6 +28857,7 @@
 ||ero-advertising.com^
 ||eroadvertising.com^
 ||erofherlittleboy.com^
+||erogaroku.com/ad/$domain=bakufu.jp
 ||eroge.com^
 ||eroioshiri.blogterest.net/regular/$subdocument
 ||eroksen.ru^
@@ -30093,6 +30110,7 @@
 ||fa9b667e4e.com^
 ||faachen.cn^
 ||faaqgje.icu^
+||fabricwaffleswomb.com^
 ||fabricww.com^
 ||fabriczigzagpercentage.com^
 ||fabrkrup.com^
@@ -30474,6 +30492,7 @@
 ||fatenoticemayhem.com^
 ||fatheemt.com^
 ||fathmurcurable.com^
+||fathomcleft.com^
 ||fathomdns.com^
 ||fathomseo.com^
 ||fatimacapos.com^
@@ -33093,6 +33112,7 @@
 ||fy6b.com^$image,third-party
 ||fyafcyawfevr.com^
 ||fyan.tech^
+||fyatwugtsuxm.com^
 ||fyber.com^
 ||fybkhsfntvuyat.com^
 ||fyblppngxdt.com^
@@ -49013,6 +49033,7 @@
 ||log1.apkomega.com^
 ||log1.happymod.com^
 ||log1.wtlogin.qq.com^
+||log16-normal-useast5.tiktokv.us^
 ||log2.mtime.cn^
 ||log2.musical.ly^
 ||log2.radiko.jp^
@@ -51023,6 +51044,7 @@
 ||mautifasa.xyz^
 ||mavenlohi.com^
 ||mavietnam.xyz^
+||mavokkozbvpy.com^
 ||mavq.net^
 ||maw5r7y9s9helley.com^
 ||mawhhjoastprrd.com^
@@ -52540,6 +52562,7 @@
 ||mjne.dtdnnrs.cn^$third-party
 ||mjnomtahm.com^
 ||mjnxku.com^
+||mjpvukdc.com^
 ||mjqsjsaex.com^
 ||mjqvfrmyvumj.com^
 ||mjrvkv5.com^
@@ -54100,6 +54123,7 @@
 ||mvfaubcuqqk.com^
 ||mvfrcio.cn^
 ||mvgucp.com^
+||mvgxadljnwyf.com^
 ||mvgzwamfvkw.com^
 ||mvhiyha.com^
 ||mvilivestats.com^
@@ -54586,6 +54610,7 @@
 ||nagarh.com^
 ||naggingirresponsible.com^
 ||nagmopd.cn^
+||nagpurtoday.in/wp-content/uploads/2024/06/Untitled-design-2.gif
 ||nagrainoughu.com^
 ||nagrande.com^
 ||nagues.com^
@@ -55253,6 +55278,7 @@
 ||neipa.xyz^
 ||neitherpennylack.com^
 ||neitherpossessedset.com^
+||nejxdoy.com^
 ||nekaujoa.net^
 ||nekcakexk.com^
 ||nektonsrutate.com^
@@ -56717,6 +56743,7 @@
 ||ntdvjlvau.com^
 ||ntedbycathyhou.info^
 ||ntent.com^
+||nterpimne.com^
 ||ntgetjpqk.com^
 ||ntiaxofk.xyz^
 ||ntimg.cn/original/images/www_ads.jpg
@@ -61063,6 +61090,7 @@
 ||phaucmoa.net^
 ||phaudree.com^
 ||phauftee.xyz^
+||phaunaitsi.net^
 ||phauraur.com^
 ||phaurtuh.net^
 ||phause.com^
@@ -62384,6 +62412,7 @@
 ||pollutiongram.com^
 ||polluxnetwork.com^
 ||poloptrex.com^
+||polothdgemanow.info^
 ||poloud.com^
 ||polpepsn.com^
 ||polredsy.com^
@@ -64652,6 +64681,7 @@
 ||pw2ct1.asia^
 ||pw321.com/bulu/
 ||pw321.com^*.gif
+||pwaarkac.com^
 ||pwbmdalngizhz.com^
 ||pwbuhb.xyz^
 ||pwc.qktmwiq.cn^
@@ -64681,6 +64711,7 @@
 ||pwsviu.com^
 ||pwuxnr.cn^
 ||pwwghcyzsn.info^
+||pwwjuyty.com^
 ||pwwqkppwqkezqer.site^
 ||pwxerujvl.com^
 ||pwxlbsie.icu^
@@ -75686,6 +75717,7 @@
 ||stereotyperobe.com^
 ||stereotyperust.com^
 ||sterfrownedan.info^
+||stergessoa.net^
 ||sterileaccentbite.com^
 ||sterilecute.com^
 ||sterilityvending.com^
@@ -76508,6 +76540,7 @@
 ||sunporno.com/api/spots/
 ||sunporno.com/blb.php
 ||sunporno.com/sunstatic/frms/
+||sunriseholler.com^
 ||sunriseoutdoor.cn^
 ||sunrisesharply.com^
 ||sunsekrious.com^
@@ -79587,6 +79620,7 @@
 ||tiredbishop.com^
 ||tiredomlovered.com^
 ||tiredthroat.com^$third-party
+||tirejav12.fun^
 ||tiresomemarkstwelve.com^
 ||tiresomemuggyeagerly.com^
 ||tiresomereluctantlydistinctly.com^
@@ -83002,6 +83036,7 @@
 ||uepkcdjgp.com^
 ||uerbgnkas.com^
 ||uessnah.icu^
+||uesxbzchchv.com^
 ||uetlwst.top^
 ||ueumdkc.cn^
 ||ueuodgnrhb.com^
@@ -85465,6 +85500,7 @@
 ||vhjgeivll.com^
 ||vhjxrj.xyz^
 ||vhkbvpbuhwon.com^
+||vhlnxugwazjwte.com^
 ||vhlret.cn^
 ||vhneajupavrb.com^
 ||vhotcvp.xyz^
@@ -87684,6 +87720,7 @@
 ||waybillbulged.com^
 ||waycash.net^
 ||waycloud.info^
+||wayfarerfiddle.com^
 ||wayfarerspoutpraise.com^
 ||wayfgwbipgiz.com^
 ||wayfinderanalytics.servicebus.windows.net^
@@ -88265,6 +88302,7 @@
 ||wereriskbarnacle.com^
 ||wererxrzmp.com^
 ||wergy.xyz^
+||werhehadinqu.info^
 ||werped.com^
 ||werssf.com^
 ||werxebpnl.com^
@@ -88672,6 +88710,7 @@
 ||whukroal.net^
 ||whulsaux.com^
 ||whum.top^
+||whunpainty.com^
 ||whupsoza.xyz^
 ||whuptaiz.net^
 ||whuptouky.com^
@@ -89143,6 +89182,7 @@
 ||wmdymnqzhbo.com^
 ||wmdzefk.com^
 ||wmeng.feihuadns.com^
+||wmeqobozarabk.top^
 ||wmeqobozarqyj.top^
 ||wmgocya.cn^
 ||wmgtr.com^
@@ -92758,6 +92798,7 @@
 ||yuwqsk.xyz^
 ||yv8zs.online^
 ||yvajogj.cn^
+||yvamklgamsbsp.com^
 ||yvbjctqs.xyz^
 ||yvkbftdi.com^
 ||yvlvbcumfhsdeu.com^
@@ -93384,6 +93425,7 @@
 ||zghsep.icu^
 ||zghsfh.xyz^
 ||zgirxexrzour.com^
+||zgixkikffmixho.com^
 ||zgkvfu.xyz^
 ||zglceszp.com^
 ||zglghr.xyz^$third-party
@@ -103354,6 +103396,7 @@ hentaicomic.*,wnacg1.cc,wnacg.*##+js(abort-current-script, document.write, /\.(g
 hentaicomics.pro##.single-portfolio:has(.xxx-banner)
 hentaicore.org##.mob-lock
 hentaicovid.com,onlineradiobox.com##div[class^="banner-"]
+hentaidude.com###box-canai
 hentaidude.com,verpeliculasporno.gratis###videoOverAd
 hentaiff.com##div[id^="teaser"]
 hentaigamer.org##.bottom-banner-home
@@ -125033,7 +125076,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /widgetad.
 /widgetadsense.
 /widgets/ads.
-/widgets/exo$domain=agoodanime.co|animeflv.net|animeland.tv|animeplus.tv|animetoon.org|gogoanime.in|goodanime.co|kimcartoon.me|kiss-anime.me|mangapanda.com|mangareader.net|memecenter.com|toonova.net
+/widgets/exo$domain=aanimeflv.net|animeflv.net|animeland.tv|animeplus.tv|animetoon.org|gogoanime.in|goodanime.co|kimcartoon.me|kiss-anime.me|mangapanda.com|mangareader.net|memecenter.com|toonova.net
 /widgets/sponsored/*
 /windowwap_*_*_*.js?$script,third-party
 /wipeads/*

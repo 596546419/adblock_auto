@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: a0RPJmLfYkAL2zvkTXT0Jw
+! Checksum: JYKgyYBjH3jcXTZcMCM7FA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240829162805
+! Version: 20240830002812
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-29 16:28:05
-! Total Count: 28769
+! Last modified: 2024-08-30 00:28:12
+! Total Count: 28771
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7063,6 +7063,7 @@
 ||erlirscid.com^
 ||erluankuan.com^
 ||ermao20230220.live^
+||erogaroku.com/ad/$domain=bakufu.jp
 ||eroioshiri.blogterest.net/regular/$subdocument
 ||eromanga-castle.com/famsiro1.html
 ||eromanga-musou.com/fammusou1.html
@@ -11941,6 +11942,7 @@
 ||n6579.com^
 ||n7181.com^
 ||na06.cn^
+||nagpurtoday.in/wp-content/uploads/2024/06/Untitled-design-2.gif
 ||nahgvfhs.xyz^
 ||nahsfl.xyz^
 ||nai7.xyz^
