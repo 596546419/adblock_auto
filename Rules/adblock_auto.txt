@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: yFBWCkuNgMS6n0B4K1EuSg
+! Checksum: 7aTBAiwvq2JgE4IkKpjwOQ
 ! Title: 混合规则(自动更新)
-! Version: 20240829002814
+! Version: 20240829093954
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-29 00:28:14
-! Total Count: 150606
+! Last modified: 2024-08-29 09:39:54
+! Total Count: 150652
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -629,6 +629,7 @@
 ||136.0.56.196^
 ||1368999.com^
 ||137.175.69.92^
+||1373760390.rsc.cdn77.org^
 ||1377920294.rsc.cdn77.org^
 ||1378a.xyz^
 ||1379a.xyz^
@@ -668,6 +669,7 @@
 ||1503.net/code/
 ||1512a.com^
 ||1516shop.com^
+||1527114871.rsc.cdn77.org^
 ||1527ego.com^
 ||1529462937.rsc.cdn77.org^
 ||152media.cloud^
@@ -677,6 +679,7 @@
 ||154.22.214.2^
 ||154.7.80.158^
 ||1547513774.rsc.cdn77.org^
+||1547760468.rsc.cdn77.org^
 ||1548164934.rsc.cdn77.org^
 ||154886c13e.com^
 ||1556048427.rsc.cdn77.org^
@@ -755,6 +758,7 @@
 ||168img.com/aa/
 ||168zwm.com^
 ||1692923857.rsc.cdn77.org^
+||16972675.xyz^
 ||16a754560b.com^
 ||16co.com/111/
 ||16co.com/js/adb
@@ -2103,6 +2107,7 @@
 ||4d3278a1fa.com^
 ||4d658ab856.com^
 ||4d76a0f3a8.com^
+||4d9e86640a.com^
 ||4da1c65ac2.com^
 ||4dex.io^
 ||4dsbanner.net^
@@ -4660,6 +4665,7 @@
 ||acdcdn.com^
 ||acdcmarimo.com^
 ||acdf115.cn^
+||acdfwe113.cn^
 ||acdhahqc.com^
 ||acdn01.vidox.net^
 ||acdn923132475.com^
@@ -11641,6 +11647,7 @@
 ||aungudie.com^
 ||aunsagoa.xyz^
 ||aunsaick.com^
+||aunstollarinets.com^
 ||auntants.com^$third-party
 ||auntlyseniors.top^
 ||auobxpvjej.xyz^
@@ -14945,6 +14952,7 @@
 ||blendedbird.com^
 ||bleokerrie.com^
 ||blessdi.com^
+||blessedhurtdismantle.com^
 ||blessgravity.com^
 ||blesshunt.com^
 ||blessinghookup.com^
@@ -16058,6 +16066,7 @@
 ||broghpiquet.com^
 ||broidensordini.com^
 ||brokeloy.com^
+||brokemeritreduced.com^
 ||brokennails.org^
 ||broker.datazoom.io^
 ||brokerbabe.com^
@@ -20676,6 +20685,7 @@
 ||comilar-efferiff.icu^
 ||comin.co^
 ||comitalmows.com^
+||comitiumanalytics.com^
 ||coml.be^
 ||comm.app.autohome.com.cn^
 ||comm100.cn/livechatserver/chatbutton.*&res=
@@ -23053,6 +23063,7 @@
 ||daima.diaoben.net^
 ||daima.ijq.tv^
 ||daima.ssata.cn^
+||daima.wenkuwenku.com^
 ||daima.ysdui.com^
 ||daima.yuzhulin.com^
 ||daimfkgotytcqld.com^
@@ -23572,6 +23583,7 @@
 ||dcfnihzg81pa.com^
 ||dchoseitfromt.com.ua^
 ||dchxxvk.cn^
+||dchyjb.xyz^
 ||dciep.xyz^
 ||dcinfos-cache.abtasty.com^
 ||dcjaefrbn.xyz^
@@ -26193,6 +26205,7 @@
 ||dreyeli.info^
 ||drfaultlessplays.com^
 ||drfdisvc.walmart.com^
+||drfpbnfxuqion.com^
 ||drfvtgbyk.xyz^
 ||drfvtgbyk.xyz^$third-party
 ||drgcnsnohnf.com^
@@ -30593,6 +30606,7 @@
 ||fcqztan.cn^
 ||fcrdb.com^
 ||fcs.ovh^
+||fcsfbydwxkyf.com^
 ||fcswhwglli.com^
 ||fcudlfqupglxynu.xyz^
 ||fcuit.com^
@@ -31418,6 +31432,7 @@
 ||fjsytjs.cn^
 ||fjtroip.cn^
 ||fjttbkoxer.xyz^
+||fjvojclrwhcofz.com^
 ||fjwymafkgqfq.xyz^
 ||fjxdafshdrnnvdw.com^
 ||fjxowepqiwrdao.com^
@@ -33623,6 +33638,7 @@
 ||gbcnvip15.com^
 ||gbddeyjekkixrn.com^
 ||gbf77po03m.com^
+||gbfedashb4.fun^
 ||gbfgvzfcjfs.com^
 ||gbiyigdsgu.com^
 ||gblcdn.com^
@@ -35019,6 +35035,7 @@
 ||go8me.ru^
 ||goaboomy.com^
 ||goaciptu.net^
+||goadopt.io^
 ||goads.pro^
 ||goadserver.com^
 ||goadservices.com^
@@ -35043,6 +35060,7 @@
 ||goat.nhimmeo.cf^
 ||goat.skeetstats.xyz^
 ||goat.tailspace.net^
+||goatauthut.xyz^
 ||goatcounter.com^
 ||goatmod.xyz^
 ||goatpoxbutters.top^
@@ -36722,6 +36740,7 @@
 ||hamfatbuxeous.guru^
 ||haminu.space^
 ||hamletuponcontribute.com^
+||hamletvertical.com^
 ||hammaidentomb.guru^
 ||hammaidreswill.com^
 ||hammalorphans.com^
@@ -43696,6 +43715,7 @@
 ||jlzbnl.com^
 ||jm-comic2.club/media/albums/*?$media
 ||jm.ethylintusker.com^$third-party
+||jmaoknbpaobj.com^
 ||jmaomkosxfi.com^
 ||jmbbs.cn/sjgg/
 ||jmbluyxkl.xyz^
@@ -45333,6 +45353,7 @@
 ||kgho.info^
 ||kgidskid.top^
 ||kgimg.com/public/root//images/hardware.jpg
+||kgiulbvj.com^
 ||kglqjacmqmns.com^
 ||kgnlaigd.fun^
 ||kgnohpvawhef.com^
@@ -48233,6 +48254,7 @@
 ||lists-tracking.komando.com^
 ||lists.ccmbg.com^
 ||lit.connatix.com^
+||litarnrajol.com^
 ||litdeetar.live^
 ||liteappmagazin.com^
 ||literacyneedle.com^
@@ -57449,6 +57471,7 @@
 ||oeavjktqqpkntgq.com^
 ||oecistbenton.com^
 ||oeckey.com^
+||oecpcmpr.com^
 ||oedprntsyfrl.com^
 ||oedroughl.xyz^
 ||oefaxmob.com^
@@ -59437,6 +59460,7 @@
 ||ozlenbl.com^
 ||ozlofsviborc.com^
 ||ozlwhampaofq.com^
+||ozmspawupo.com^
 ||ozngisyk.xyz^
 ||oznhkuilvrsdf.com^
 ||oznul.com^
@@ -61761,6 +61785,7 @@
 ||pk910324e.com^
 ||pk965.com^
 ||pkazd.xyz^
+||pkcdvehycoo.com^
 ||pkebenfb.com^
 ||pkeeper3.ru^
 ||pkeog.cn^
@@ -63022,6 +63047,7 @@
 ||pqnqrjxe.xyz^
 ||pqomnfbg.com^
 ||pqotwscxucvn.com^
+||pqpjkkppatxfnpp.xyz^
 ||pqrm9.com^
 ||pqrtd9hhtu9x.info^
 ||pqsymknliiwzlr.com^
@@ -63651,6 +63677,7 @@
 ||pronedynastyimpertinence.com^
 ||pronostici.app^
 ||pronouncedgetawayetiquette.com^
+||pronouncedlaws.com^
 ||pronounconsternationspotlight.com^
 ||prontocampaign.com^
 ||pronunciationawarenessunemployment.com^
@@ -69848,6 +69875,7 @@
 ||saracsoxcpa.com^
 ||sarafan.fun^
 ||sarapbeh.com^
+||sarcasmadvisor.com^
 ||sarcasmidentifiers.com^
 ||sarcasticdismalconstrue.com^
 ||sarcasticnotarycontrived.com^
@@ -70115,6 +70143,7 @@
 ||scared-respond.pro^
 ||scaredcollector.com^
 ||scaredcomfort.com^$third-party
+||scaredframe.com^
 ||scaredimmediatelyrave.com^
 ||scaredplayful.com^
 ||scaredpreparation.pro^
@@ -71689,6 +71718,7 @@
 ||shinhanvaytieudung.net^
 ||shinhanvayvon.online^
 ||shino3ur.xyz^
+||shiny-aside.com^
 ||shinyspiesyou.com^
 ||shinystat.com^
 ||shinystat.it^
@@ -75702,6 +75732,7 @@
 ||stickysheet.com^$third-party
 ||stickywhereaboutsspoons.com^
 ||stienlb.top^
+||stiffeat.pro^
 ||stiffengobetween.com^
 ||stiffenshave.com^
 ||stiffgame.com^$third-party
@@ -85254,6 +85285,7 @@
 ||venum.top^
 ||venusgloria.com^$third-party
 ||veobeitkalson.info^
+||veomjnjz.com^
 ||veoxa.com^
 ||veoxphl.com^
 ||vepemtuphul.net^
@@ -87186,6 +87218,7 @@
 ||vxvw22.com^
 ||vxvw55.com^
 ||vxxizaan.com^
+||vxxxfveohck.com^
 ||vyazd.com^
 ||vyazmi.com^
 ||vyborexperta.ru^
@@ -88278,6 +88311,7 @@
 ||wewloromyvvav.top^
 ||wewrute.top^
 ||wexfhjpmvhnakq.com^
+||wextap.com^
 ||weyojqrgzn.com^
 ||wezmklgd.com^
 ||wezvveogk.com^
@@ -88921,6 +88955,7 @@
 ||wishoblivionfinished.com^
 ||wishoutergrown.com^
 ||wismog.xyz^
+||wisokykulas.bid^
 ||wister.biz^
 ||wistfulassign.com^
 ||wistfulcomet.com^
@@ -92179,6 +92214,7 @@
 ||ymuitydkdoy.com^
 ||ymwdeaiut.com^
 ||ymwehrducswbeu.com^
+||ymwjwe.xyz^
 ||ymx33.com^
 ||ymyh.club^
 ||ymzcapp.shop^
@@ -92726,6 +92762,7 @@
 ||yvoria.com^
 ||yvseutagqrjd.com^
 ||yvudqzoa.xyz^
+||yvwlxspeulk.com^
 ||yvwuesh.icu^
 ||yvzgazds6d.com^
 ||ywbmed.cn^
@@ -92772,6 +92809,7 @@
 ||yxgqgq.xyz^
 ||yxguqmcemyjiwb.com^
 ||yxhjt.com^
+||yxhouwezb.site^
 ||yxhstwzjbu.info
 ||yxiaoping.asia^
 ||yximgs.com/bs2/adcarsku/sku1563a96c-38ca-4563-a4b5-522208113126.
@@ -94260,6 +94298,7 @@
 ||zztongyun.com/static/js/sh.
 ||zztongyun.com/static/js/sh.min.js
 ||zztsxepxumxoyw.com^
+||zztxfj.xyz^
 ||zzuzishy.com^
 ||zzwzsic.cn^
 ||zzxedr.xyz^
@@ -97676,6 +97715,7 @@ bikeroar.com##[href^="https://www.roaradventures.com/"]
 bilibili.com###b_app_link
 bilibili.com###fixed_app_download
 bilibili.com###slide_ad + .ad-report
+bilibili.com##+js(json-prune, data.cm_info.ads)
 bilibili.com##.activity-slider[style="width: 1220px;"]
 bilibili.com##.ad-e1
 bilibili.com##.ad-f
@@ -98539,6 +98579,9 @@ cctv.com##.anime_ewm
 cctv.com,www.douyu.com##+js(aeld,/visibilitychange|pagehide/)
 cd1025.com###hp-leader
 cd1025.com,myfigurecollection.net,prolificnotion.co.uk##.partner
+cdmediaworld.com,cryptofeeds.news,fxempire.com,gametarget.net,issuu.com,lnkworld.com,newswireni.com,power987.co.za##[height="600"]
+cdmediaworld.com,flashx.cc,flashx.co,forum.gsmhosting.com,gametarget.net,jeepforum.com,lnkworld.com,themediaonline.co.za,topprepperwebsites.com##[width="468"]
+cdmediaworld.com,gametarget.net,lnkworld.com##.chk
 cdn-settings.appsflyersdk.com^
 cdn.ampproject.org,ksbbs.com,kshot.com,linguee.com,thesuburban.com###banner_top
 cdn.javpornsite.com##.inplayer-wrapper
@@ -99584,7 +99627,6 @@ cryptocompare.com##.title-hero
 cryptodaily.co.uk##.ad-bottom-spacing
 cryptodaily.co.uk##.hbs-ad
 cryptofeeds.news,defence-industry.eu,gamenguides.com,houstonherald.com,millennial-grind.com,survivopedia.com,teslaoracle.com##.wp-block-image
-cryptofeeds.news,fxempire.com,issuu.com,newswireni.com,power987.co.za##[height="600"]
 cryptofeeds.news,newswireni.com,power987.co.za##img[height="600"]
 cryptofeeds.news,upfivedown.com###block-8
 cryptolovers.me##.sponsorContent
@@ -99972,6 +100014,7 @@ datenna.com##.fPHZZA
 datingpornstar.com##a[href^="https://mylinks.fan/"]
 dato.porn##div[style*="z-index: 999"][onclick]
 dav01.com##.adwraper
+davidjones.com##.criteo-carousel-wrapper
 davidwalsh.name##.sidebar-sda-large
 davidwalsh.name##[href="https://requestmetrics.com/"]
 daweijita.com##.sidebar-right > .widget-box:first-child
@@ -110627,6 +110670,8 @@ shmet.com##.spb-biz-cont
 shobiddak.com###homeShobiddakAds
 shockwave.com##.ympb_target_banner
 shoesession.com##iframe[width="732"]
+shopee.sg#?#.shopee-header-section__content:-abp-contains(Ad)
+shopee.sg#?#.shopee-search-item-result__item:-abp-contains(Ad)
 shoprite.com##[class^="CitrusBannerXContainer"]
 shoprite.com,thefreshgrocer.com##.CitrusBannerWrapper--enollj
 shortlist.com##.align-xl-content-between
@@ -146829,6 +146874,7 @@ zle.com$script
 ##a[href^="http://premonitioninventdisagree.com/"]
 ##a[href^="http://revolvemockerycopper.com/"]
 ##a[href^="http://s.73xx.icu/xgmn"]
+##a[href^="http://sarcasmadvisor.com/"]
 ##a[href^="http://static.fleshlight.com/images/banners/"]
 ##a[href^="http://stickingrepute.com/"]
 ##a[href^="http://tc.tradetracker.net/"] > img

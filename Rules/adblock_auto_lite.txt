@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: fQHKm9RuXDkuVFLyjibHxg
+! Checksum: BMimyvGljqfyY0jt1ILS8A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240829002825
+! Version: 20240829094005
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-29 00:28:25
-! Total Count: 28761
+! Last modified: 2024-08-29 09:40:05
+! Total Count: 28767
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1618,6 +1618,7 @@
 ||acceptableauthority.com^$third-party
 ||accid.xyz^
 ||acdf115.cn^
+||acdfwe113.cn^
 ||acdref117.cn^
 ||acdrewrf711.cn^
 ||acdwef114.cn^
@@ -5998,6 +5999,7 @@
 ||daima.diaoben.net^
 ||daima.ijq.tv^
 ||daima.ssata.cn^
+||daima.wenkuwenku.com^
 ||daima.ysdui.com^
 ||daima.yuzhulin.com^
 ||daiporno.com^$third-party
@@ -6092,6 +6094,7 @@
 ||dcdf4.com^
 ||dcdglb.xyz^
 ||dceuhnpc57.shop^
+||dchyjb.xyz^
 ||dciep.xyz^
 ||dclpjx.xyz^
 ||dcnjc4.com^
@@ -7775,6 +7778,7 @@
 ||gaypornwave.com/wp-content/plugins/simple-miner-tweaks^
 ||gbc27.online^
 ||gbcnvip15.com^
+||gbfedashb4.fun^
 ||gblxtlo.xyz^
 ||gcbflvx.cn^
 ||gcbtgh26.xyz^
@@ -18040,6 +18044,7 @@
 ||ymhyw6.lol^
 ||ymmiyun.com^
 ||ymniqh.icu^
+||ymwjwe.xyz^
 ||ynfxxbp.xyz^
 ||ynulcpt.cn^
 ||ynzhby.com^
@@ -18640,6 +18645,7 @@
 ||zzsky.com/images/a_d_
 ||zztongyun.com/static/js/sh.
 ||zztongyun.com/static/js/sh.min.js
+||zztxfj.xyz^
 ||zzxmcp.com^
 ||zzyl.mobi^$document
 ||zzyl.mobi^$~third-party
