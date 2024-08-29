@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 7aTBAiwvq2JgE4IkKpjwOQ
+! Checksum: OV1Z/WnB+s5OLjzXC3Q+Cw
 ! Title: 混合规则(自动更新)
-! Version: 20240829093954
+! Version: 20240829162753
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-29 09:39:54
-! Total Count: 150652
+! Last modified: 2024-08-29 16:27:53
+! Total Count: 150656
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -30407,6 +30407,7 @@
 ||farthersuspicious.com^
 ||fartmoda.com^
 ||fartris.pw^
+||farwine.com^
 ||fasciaekatcina.com^
 ||fascinateddashboard.com^
 ||fascinatedfeather.com^$third-party
@@ -56639,6 +56640,7 @@
 ||nrrdxyauavkdrc.com^
 ||nrs6ffl9w.com^
 ||nrsfh.com/neirong/
+||nrtaimyrk.com^
 ||nrunmoldy.com^
 ||nrvbadypy.com^
 ||nrxdmssm.com^
@@ -61291,6 +61293,7 @@
 ||piaoliang.com/js/all.js
 ||piaoliang.com/js/gg.js
 ||piaososo.co^
+||piaotia.com/scripts/read/style
 ||piaotian.com/scripts/read/style
 ||piaozhouyyds.com^
 ||piar-m.ru^
@@ -83002,6 +83005,7 @@
 ||uetlwst.top^
 ||ueumdkc.cn^
 ||ueuodgnrhb.com^
+||uewrutt.top^
 ||uewztebe.com^
 ||uezbshzpdcbb.info^
 ||ufaexpert.com^
