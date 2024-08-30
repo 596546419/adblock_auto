@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: txFsuNgvjlSBojEcH3DxgQ
+! Checksum: FDzzuUUl6kL9NxfU53g/Cg
 ! Title: 混合规则(自动更新)
-! Version: 20240830162813
+! Version: 20240831002527
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-30 16:28:13
-! Total Count: 150732
+! Last modified: 2024-08-31 00:25:27
+! Total Count: 150744
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5521,6 +5521,7 @@
 ||adelazanna.com^
 ||adelement.com^
 ||adelixir.com^
+||adelphic.net^
 ||ademails.com^
 ||adenc.co.kr^
 ||adengage.com^
@@ -8163,6 +8164,7 @@
 ||akamaihd.net^*/sid.html?p=
 ||akamhd.com^
 ||akanoo.com^
+||akaroafrypan.com^
 ||akavita.com^
 ||akazginhapping.com^
 ||akchapxw.com^
@@ -24672,6 +24674,7 @@
 ||dicotrebill.digital^
 ||dicouksa.com^
 ||dicreativeideas.org^
+||dict.youdao.com/vip/privilege/show/V*?bannerType=fanyiTop$domain=fanyi.youdao.com
 ||dictatepantry.com^
 ||dictaterepublicbog.com^
 ||dictationtense.com^
@@ -45992,6 +45995,7 @@
 ||koathool.xyz^
 ||koatkm.xyz^
 ||koauanmfuamsjb.xyz^
+||koauq.top^
 ||kobeden.com^
 ||kocairdo.net^
 ||kocaisin.xyz^
@@ -58723,6 +58727,7 @@
 ||orcinsjewish.com^
 ||orcjagpox.com^
 ||orclrul.com^
+||orcnakokt.com^
 ||ordbzeokdxku.com^
 ||ordciqczaox.com^
 ||ordealsreannoy.top^
@@ -75960,6 +75965,7 @@
 ||storyrelatively.com^
 ||storyren.top/imgg/
 ||storystack.com^
+||storystaffrings.com^
 ||stossfussily.com^
 ||stotchou.com^
 ||stotinggunne.uno^
@@ -83430,6 +83436,7 @@
 ||unbalterce.com^
 ||unbarbpoured.com^
 ||unbearablepulverizeinevitably.com^
+||unbeardgorraf.top^
 ||unbearzonites.com^
 ||unbecominghall.com^$third-party
 ||unbecominglamp.com^$third-party
@@ -94050,6 +94057,7 @@
 ||zrdga.cn^
 ||zrgbh6bm.icu^
 ||zrijfnmfiiaik.com^
+||zrkksps.icu^
 ||zrlcr.com^
 ||zrljzgs.xyz^
 ||zrlnkvvqmqlvj.top^
@@ -101102,6 +101110,10 @@ endocrineweb.com,practicalpainmanagement.com##.block-oas
 endtimeheadlines.org##.endti-widget
 energyforecastonline.co.za###endorsers
 enet.com.cn,fjsen.com,hupu.com,kdslife.com,mysteel.com,news.cnyes.com,olehd.com,olevod.com,olevod.eu,pchome.net,rznews.cn,~car.kdslife.com,~my.hupu.com##div[class^="ad"]
+enews.tw##.divADFrame
+enews.tw##.gadRightP
+enews.tw##.newsCardForLeftAdGadCode
+enews.tw##div[id^="adFrame"]
 engadget.com###LB-MULTI_ATF
 engadget.com###gemini-right-rail-thumbnails
 engadget.com###ldrBoardAd

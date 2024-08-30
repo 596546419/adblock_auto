@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: vJSzMisy8Hg9V5tipQwD6w
+! Checksum: zc3I9i9zLuQGk6LQkeQLQw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240830162825
+! Version: 20240831002539
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-30 16:28:25
-! Total Count: 28779
+! Last modified: 2024-08-31 00:25:39
+! Total Count: 28783
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6280,6 +6280,7 @@
 ||diaoyu123.com/cpro/show.js
 ||diccsbhij.com^
 ||dicouksa.com^
+||dict.youdao.com/vip/privilege/show/V*?bannerType=fanyiTop$domain=fanyi.youdao.com
 ||dieka888.com/app_ad/
 ||diekd.xyz^
 ||differentcoat.com^$third-party
@@ -10353,6 +10354,7 @@
 ||knuinws.icu^
 ||knxvwxe.cn^
 ||knyjes.xyz^
+||koauq.top^
 ||kochava.com^
 ||kocpc.com.tw/adsbyso.js
 ||kodfn.xyz^
@@ -18580,6 +18582,7 @@
 ||zrblog.net/zanzhu/virpus.gif
 ||zrdga.cn^
 ||zrgbh6bm.icu^
+||zrkksps.icu^
 ||zrljzgs.xyz^
 ||zrrnqq.com^
 ||zs.rzijjeb.cn^
@@ -26267,6 +26270,7 @@ zle.com$script
 ##.player-tt-rmm
 ##.player_ggw
 ##.playtop.col-pd
+##.playtopad
 ##.plc > .a_p
 ##.pop[style="right: 10px;"]
 ##.popup + .shortcuts-m-overlay
