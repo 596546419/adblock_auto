@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: /U6huHd4BKzwotk1yVBFQw
+! Checksum: txFsuNgvjlSBojEcH3DxgQ
 ! Title: 混合规则(自动更新)
-! Version: 20240830094030
+! Version: 20240830162813
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-30 09:40:30
-! Total Count: 150727
+! Last modified: 2024-08-30 16:28:13
+! Total Count: 150732
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -57540,6 +57540,7 @@
 ||oevery.com^
 ||oevkkqrar.com^
 ||oewabox.at^
+||oewrutk.top^
 ||oewtuho.cn^
 ||oey53uw-1ye.cn^
 ||oeya.com^$domain=myptt.cc
@@ -90751,6 +90752,7 @@
 ||xiulishanzhuang.com^
 ||xiumb8.com/js/lm_
 ||xiurenji.cc/heji/
+||xiuska.top^
 ||xiuwaiyyds.com^
 ||xivmviuynlt.com^
 ||xiwusn9982.top^
@@ -95900,7 +95902,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 85wp.com###a3_diy2
 85wp.com,ziyuanba.com##.top-ad-img
 8684.cn,8684.com##div[id*="adid"]
-8684.cn,8684.com,iyxdm.cc,iyxdm.com,iyxdm.org,kugou.com,solarzoom.com,yesky.com,yxdmlove.com##div[class^="adv"]
+8684.cn,8684.com,iyxdm.cc,iyxdm.com,iyxdm.one,iyxdm.org,kugou.com,solarzoom.com,yesky.com,yxdmlove.com##div[class^="adv"]
 86cg.me##[style^="width: 100%; height: auto; position: fixed; left: 0px; bottom: 0px;"]
 880sy.com##.foot_gg
 880sy.com##.fot_btom
@@ -96256,6 +96258,7 @@ advfn.com###APS_BILLBOARD
 advfn.com##.APS_TOP_BANNER_468_X_60_container
 advfn.com##.plus500
 advfn.com##.primis-container
+advfn.com##.recent-stocks-sibling
 advfn.com##.top-ban-wrapper
 advocate.com###sPost_Layout_Default_0_0_18_0_0_2_2
 advocate.com###sPost_Layout_Default_0_0_19_0_0_3_1_0_0
@@ -131157,6 +131160,7 @@ zle.com$script
 ###diads
 ###dianomiNewsBlock
 ###dict-adv
+###dip[href*=".tmall.com"]
 ###direct-ad
 ###disable-ads-container
 ###display-ads
@@ -143513,6 +143517,7 @@ zle.com$script
 ##.playerad
 ##.playerdads
 ##.playtop.col-pd
+##.playtopad
 ##.playwire-article-leaderboard-ad
 ##.plc > .a_p
 ##.plistaList > .itemLinkPET

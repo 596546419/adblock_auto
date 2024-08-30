@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: vI/EEjaKiUIjjHCv/6/Aiw
+! Checksum: vJSzMisy8Hg9V5tipQwD6w
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240830094041
+! Version: 20240830162825
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-30 09:40:41
-! Total Count: 28775
+! Last modified: 2024-08-30 16:28:25
+! Total Count: 28779
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -12326,6 +12326,7 @@
 ||oehcxmhk.xyz^
 ||oektiu.xyz^
 ||oepce.xyz^
+||oewrutk.top^
 ||oeya.com^$domain=myptt.cc
 ||ofd.meng-an.cn^$third-party
 ||ofdnkro.xyz^
@@ -13395,6 +13396,7 @@
 ||qbox.me/FlnVIdUeIo_LrXyGiOL0OFw0Gpa7
 ||qbox.me/FnjnjJhJZlKZEGJ7qV1AocqusFbf
 ||qboywc.xyz^
+||qbsday.xyz^
 ||qbswezw.cn^
 ||qbtd.xyz^
 ||qc1.cheshipin.com^
@@ -17546,6 +17548,7 @@
 ||xiu8.com/baidu-tieba/*&forum_name=
 ||xiumb8.com/js/lm_
 ||xiurenji.cc/heji/
+||xiuska.top^
 ||xiuwaiyyds.com^
 ||xiwusn9982.top^
 ||xixil.cn^
@@ -25228,6 +25231,7 @@ zle.com$script
 ###detection-block-overlay
 ###dgf_pc
 ###diads
+###dip[href*=".tmall.com"]
 ###div_top_ads
 ###dom_adblock
 ###downdiv > .downcode
