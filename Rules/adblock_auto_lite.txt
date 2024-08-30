@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: JYKgyYBjH3jcXTZcMCM7FA
+! Checksum: vI/EEjaKiUIjjHCv/6/Aiw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240830002812
+! Version: 20240830094041
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-30 00:28:12
-! Total Count: 28771
+! Last modified: 2024-08-30 09:40:41
+! Total Count: 28775
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1613,6 +1613,7 @@
 ||ac.art456.com^
 ||ac.tc.qq.com/store_file_download?*&dir_path=/admin/swf/
 ||ac1.pingpingw.com^
+||acasadf112.cn^
 ||acc.3gbizhi.com^
 ||acc.3gbizhi.com^$script
 ||acceptableauthority.com^$third-party
@@ -7899,6 +7900,7 @@
 ||ghgasdt963.shop^
 ||ghghgf.51dongshi.com^
 ||ghghgf.xuexiwa.com^
+||ghjedashb6.fun^
 ||ghjie.com/JS/youcegg.js
 ||ghjie.com/images/2012/images/bg
 ||ghland.site^
@@ -10525,6 +10527,7 @@
 ||kyq3xch.icu^
 ||kytbxcl.cn^
 ||kyuwkbd.top^
+||kyuxym.xyz^
 ||kzelzfnj.xyz^
 ||kzemm.com^
 ||kzepp.com^
@@ -12930,6 +12933,7 @@
 ||poeid.cyou^
 ||poeticpackage.com^$third-party
 ||pofang.com^
+||pofmnj.xyz^
 ||poh.uoydhco.cn^
 ||pohpll.xyz^
 ||poiful.com/sdk/vrizeadsdk.

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Dl7lxUcav91X5TrK7/Ct3g
+! Checksum: /U6huHd4BKzwotk1yVBFQw
 ! Title: 混合规则(自动更新)
-! Version: 20240830002800
+! Version: 20240830094030
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-30 00:28:00
-! Total Count: 150699
+! Last modified: 2024-08-30 09:40:30
+! Total Count: 150727
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -743,6 +743,7 @@
 ||1662864709.rsc.cdn77.org^
 ||166460e61382a8ab15094a0fb111cc1b.com^
 ||167.71.252.38^
+||1670840964.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
 ||167k.com/public/static/admin/banner/*.gif
 ||168.it168.com^$script
@@ -842,6 +843,7 @@
 ||1843942256.rsc.cdn77.org^
 ||184c4i95p.de^
 ||1857964468.rsc.cdn77.org^
+||1859765560.rsc.cdn77.org^
 ||18788fdb24.com^
 ||188aaa.us^
 ||188affiliates.com^
@@ -4569,6 +4571,7 @@
 ||acam-2.com^
 ||acaox.com^
 ||acaoz.com^
+||acasadf112.cn^
 ||acaussee.net^
 ||acb.vn-c.xyz^
 ||acb.vn-ol.top^
@@ -11841,6 +11844,7 @@
 ||avglfookdjuj.com^
 ||avgsco.xyz^
 ||avhcoumvt.com^
+||avhduwvirosl.com^
 ||avhtaapxml.com^
 ||avhxnasqeo.com^
 ||aviationbe.com^
@@ -15073,6 +15077,7 @@
 ||blooks.info^
 ||bloomsarbiter.com^
 ||bloomsgoas.com^
+||blossomfertilizerproperly.com^
 ||blossommo.com^
 ||blossoms.com^
 ||blowflysempre.uno^
@@ -20036,6 +20041,7 @@
 ||cmci5cape.icu^
 ||cmclean.club^
 ||cmcore.com^
+||cmcxmh.com^
 ||cmdcdacq.xyz^
 ||cmdgbuddies.guru^
 ||cmdy5.com/js/waptbplay2.js
@@ -20570,6 +20576,7 @@
 ||collector.shopstream.co^
 ||collector.shorte.st^
 ||collector.sspinc.io^
+||collector.superwall.me^
 ||collector.szlcsc.com^
 ||collector.taoxh.life^
 ||collector.tescocompare.com^
@@ -21723,6 +21730,7 @@
 ||cpmnetworkcontent.com^
 ||cpmprofitablecontent.com^
 ||cpmprofitablenetwork.com^
+||cpmrevenuegate.com^
 ||cpmrevenuenetwork.com^
 ||cpmrocket.com^
 ||cpms.now.com^
@@ -26912,6 +26920,7 @@
 ||dzxzx.cn^
 ||dzypro.xyz^
 ||dzytvcx.cn^
+||dzyvhrhdgms.com^
 ||e-bankingshopee.vn^
 ||e-click.jp^
 ||e-commercesc.cc^
@@ -29011,6 +29020,7 @@
 ||essaycoupons.com^
 ||essaypresidential.com^
 ||essbritanidim.club^
+||essential-apps-analytics.herokuapp.com^
 ||essential-trash.com^
 ||essentialblunder.com^
 ||essentiallyitemoutrageous.com^
@@ -33102,6 +33112,7 @@
 ||fxrwmhbbxfcpb.com^
 ||fxsc6.net/js/
 ||fxshopeevip99.com^
+||fxsvifnkts.com^
 ||fxwykuxh.com^
 ||fxx79.pro^
 ||fxxgw.com^$third-party
@@ -34273,6 +34284,7 @@
 ||ghhtt.top^
 ||ghilliebottles.com^
 ||ghisiva.top^
+||ghjedashb6.fun^
 ||ghjhucekiywqrk.com^
 ||ghjie.com/JS/youcegg.js
 ||ghjie.com/images/2012/images/bg
@@ -46626,6 +46638,7 @@
 ||kytesconge.com^
 ||kytoonburlies.website^
 ||kyuwkbd.top^
+||kyuxym.xyz^
 ||kywtndbtqldbvp.com^
 ||kyxw9itc.xyz^
 ||kyxw9itv.club^
@@ -49773,6 +49786,7 @@
 ||lunhua5.com/images/more.gif
 ||lunio.net^
 ||lunivr.xyz^
+||lunse.ajscdn.com^
 ||lunt.cx^
 ||lunyfallace.com^
 ||lunylarynx.uno^
@@ -49868,6 +49882,7 @@
 ||lv.myapks.com^
 ||lv5hj.top^
 ||lvaazvwmmvwev.top^
+||lvbaeugc.com^
 ||lvbeybbkovbaq.top^
 ||lvbeybbkovqar.top^
 ||lvbngvy.com^
@@ -55019,6 +55034,7 @@
 ||naveljutmistress.com^
 ||navelyjobbed.click^
 ||naverpa-phinf.pstatic.net^
+||navgewtxakd.com^
 ||navigablepiercing.com^
 ||navigateconfuseanonymous.com^
 ||navigatecrudeoutlaw.com^
@@ -59223,6 +59239,7 @@
 ||overconfidentfood.com^$third-party
 ||overcooked-addition.pro^
 ||overcooked-construction.com^
+||overcrowdsillyturret.com^
 ||overcrummythrift.com^
 ||overdates.com^
 ||overdonealthough.com^
@@ -62305,6 +62322,7 @@
 ||poewage.top^
 ||pofang.com^
 ||poflix.com^
+||pofmnj.xyz^
 ||poghaurs.com^
 ||pognamta.net^
 ||pogothere.xyz^
@@ -64940,6 +64958,7 @@
 ||qbpchpcuglu.com^
 ||qbqzbzbzzzjjb.top^
 ||qbrrrlawwrvbv.top^
+||qbsday.xyz^
 ||qbsfnbdqinnay.com^
 ||qbsvafnpgfwpca.com^
 ||qbswezw.cn^
@@ -65391,6 +65410,7 @@
 ||qmbdta.cn^
 ||qmbnkdh.cn^
 ||qmbpmdeq.xyz^
+||qmcgamqhhpiqw.com^
 ||qmdllqv.cn^
 ||qmgria.cn^
 ||qmhffrogjeca.com^
@@ -67761,6 +67781,7 @@
 ||restights.pro^
 ||restions-planted.com^
 ||restless.su^
+||restlesscompeldescend.com^
 ||restlessconsequence.com^
 ||restlessfreelance.com^
 ||restlessidea.com^
@@ -75844,6 +75865,7 @@
 ||stockbook-ads.firebaseapp.com^
 ||stockbook-ads.firebaseio.com^
 ||stocker.bonnint.net^
+||stockingplaice.com^
 ||stockingsight.com^
 ||stockingsleet.com^$third-party
 ||stockingsneeze.com^$third-party
@@ -76150,6 +76172,7 @@
 ||stuffinglimefuzzy.com^
 ||stuffintolerableillicit.com^
 ||stuffserve.com^
+||stughoamoono.net^
 ||stugsoda.com^
 ||stulip.org/static/js/header.js
 ||stulleratteal.top^
@@ -78603,6 +78626,7 @@
 ||tgidskii.top^
 ||tgjdbx.xyz^
 ||tgknt.com^
+||tgktlgyqsffx.xyz^
 ||tgktw.xyz^
 ||tgnlaigi.fun^
 ||tgolived.com^
@@ -80842,6 +80866,7 @@
 ||tracker.gigaphim.com^
 ||tracker.gleanview.com^
 ||tracker.gpcdn.pl^
+||tracker.grupanya.com^
 ||tracker.hdtvcloud.com^
 ||tracker.icerocket.com^
 ||tracker.idocdn.com^
@@ -82014,6 +82039,7 @@
 ||trxs123.com/skin/default/js/jque.js
 ||trxxh.com^
 ||try9.com^
+||trycloudflare.com^
 ||tryingacquaintance.com^
 ||trymynewspirit.com^
 ||trymysadoroh.site^
@@ -88062,6 +88088,7 @@
 ||websocket.sobhtazeh.news^
 ||websocket.varandaz.com^
 ||webspectator.com^
+||websphonedevprivacy.autos^
 ||webspiration.de^
 ||webstag.kplus.vn^
 ||webstat.com^
@@ -89861,6 +89888,7 @@
 ||wuujae.com^
 ||wuuwpqmuqg.com^
 ||wuwaii.com^
+||wuwhaigri.xyz^
 ||wuwutnnyedlhvr.com^
 ||wuxiann.top^
 ||wuxibus.com/Image/title
