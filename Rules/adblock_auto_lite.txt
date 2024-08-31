@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: TKS2EwPrRRolBxL1mBXStg
+! Checksum: xBJLraqkpyVCFx/NWrbWfA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240831162802
+! Version: 20240901002711
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-31 16:28:02
-! Total Count: 28793
+! Last modified: 2024-09-01 00:27:11
+! Total Count: 28794
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5054,6 +5054,7 @@
 ||capriciouscorn.com^$third-party
 ||capsquirrel.com^$third-party
 ||captickc.com^
+||caqreg.xyz^
 ||car.pchome.com.tw/iframe/news_iframe.
 ||car.qcmrjx.com^
 ||carefuldolls.com^$third-party

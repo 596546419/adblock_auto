@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ajOGSt9NOi6krC1UaTvDCQ
+! Checksum: 8SLQ4wZyYjRiia2rRwee4w
 ! Title: 混合规则(自动更新)
-! Version: 20240831162750
+! Version: 20240901002700
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-31 16:27:50
-! Total Count: 150788
+! Last modified: 2024-09-01 00:27:00
+! Total Count: 150792
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9459,6 +9459,7 @@
 ||analytics.pinterest.com^
 ||analytics.pixels.ai^
 ||analytics.plaid.com^
+||analytics.plasmic.app^
 ||analytics.plaza.ir^
 ||analytics.plex.tv^
 ||analytics.poferries.com^
@@ -17446,6 +17447,7 @@
 ||capture.condenastdigital.com^
 ||captureleaderdigestion.com^
 ||capwilyunseen.com^
+||caqreg.xyz^
 ||car-bidpush.net^
 ||car-cra.sh^
 ||car.pchome.com.tw/iframe/news_iframe.
@@ -69578,6 +69580,7 @@
 ||s.tuoitre.vn^
 ||s.union.360.cn^
 ||s.uuidksinc.net^
+||s.vibe.co^
 ||s.wayfair.com^
 ||s.weibo.com/widget.html
 ||s.yaozui.com^
@@ -82080,7 +82083,6 @@
 ||trxs123.com/skin/default/js/jque.js
 ||trxxh.com^
 ||try9.com^
-||trycloudflare.com^
 ||tryingacquaintance.com^
 ||trymynewspirit.com^
 ||trymysadoroh.site^
@@ -98983,6 +98985,7 @@ chortle.co.uk,coloring.ws,dltk-holidays.com,dltk-kids.com,kidzone.ws,pcsteps.com
 chorus.fm##.f-soc
 chosun.com##.box--bg-grey-20:has(.dfpAd)
 chowhound.com,glam.com,moneydigest.com,outdoorguide.com,svg.com,thelist.com,wrestlinginc.com##.before-ad
+christianitytoday.com##.ct-ad-slot
 christianpost.com##.acw
 christianpost.com##.article-divider
 christianpost.com##.bs-article-cell
@@ -106000,7 +106003,7 @@ libhunt.com##.flex.mt-5.boxed
 libhunt.com##.sidebar-promo-boxed
 libhunt.com##.sponsors-list-content
 libhunt.com##.track-event
-libtorrent.org,mailgen.biz,speedcheck.org,torrentfreak.com,tubeoffline.com##[href*="://go.nordvpn.net/"]
+libtorrent.org,mailgen.biz,speedcheck.org,torrentfreak.com,tubeoffline.com,utorrent.com##[href*="://go.nordvpn.net/"]
 libvio.cc,libvio.me,smdyy.cc##.t-img-box
 libvio.com##.inner-advertise
 libvio.com,libvio.me##.hidden-log
@@ -108641,6 +108644,7 @@ people.com.cn##.cont_banner
 people.com.cn##.ipc_none
 people.com.cn##.zh_left
 peoplematters.in##.alertBar
+perchance.org###adCtn
 perchance.org,ttgmedia.com##[style^="position: fixed;"]
 perezhilton.com###feature-spot
 perezhilton.com##[href^="https://www.mytrue10.com/"]
