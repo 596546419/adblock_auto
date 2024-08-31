@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: zc3I9i9zLuQGk6LQkeQLQw
+! Checksum: rDv9Bwf+38R4BjyNL9UJ4Q
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240831002539
+! Version: 20240831093947
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-31 00:25:39
-! Total Count: 28783
+! Last modified: 2024-08-31 09:39:47
+! Total Count: 28790
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4635,6 +4635,7 @@
 ||bnds6.site^
 ||bnds7.site^
 ||bnds8.site^
+||bndxrr.xyz^
 ||bnets1.icu^
 ||bnets9.icu^
 ||bnextmedia.com.tw/feed/fetch.js
@@ -7820,6 +7821,7 @@
 ||gdyjs.com^
 ||gdz0cqs.icu^
 ||ged46.xyz^
+||gedashb112.fun^
 ||geede.info^
 ||geekbang.org/public/serving/
 ||geekpark.net/api/v1/ads
@@ -7926,6 +7928,7 @@
 ||gjhjjhgc.cn^
 ||gjipd.xyz^
 ||gjjskhdnm.top^
+||gjmedashb0.fun^
 ||gjmqqq.com^
 ||gjwind.com/xxmh.gif
 ||gjwxy.cn^
@@ -8836,6 +8839,7 @@
 ||httpwwwdcom.com/js/aaa/
 ||htubzpb.cn^
 ||htvixv.xyz^
+||htxwzp.xyz^
 ||hty9m.cn^
 ||htyusiu.top^
 ||huaerdadi.com^$third-party
@@ -9052,6 +9056,7 @@
 ||ideng.com^$third-party
 ||idffhq.cn^
 ||idipsumo.top^
+||iditero.top^
 ||idns.online^
 ||idoshbo.top^
 ||idv.st/dns/bar.htm
@@ -14774,6 +14779,7 @@
 ||skadnetwork.singular.net^
 ||skads.gxsky.com^$script
 ||skadsdk.appsflyer.com^
+||skaumbp.icu^
 ||skdaj.cn^
 ||skdncksklsv.com^
 ||skdunkig.xyz^
@@ -17337,6 +17343,7 @@
 ||wx.sina.com.cn/iframe/pdps/
 ||wxfdmri.xyz^
 ||wxl0gfw.icu^
+||wxsicu.xyz^
 ||wxsignin.top^
 ||wxxmt.xyz^
 ||wxymag.xyz^

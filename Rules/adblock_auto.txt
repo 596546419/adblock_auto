@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: FDzzuUUl6kL9NxfU53g/Cg
+! Checksum: Zi7oGiP5glXt+iF3G1FtiQ
 ! Title: 混合规则(自动更新)
-! Version: 20240831002527
+! Version: 20240831093935
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-08-31 00:25:27
-! Total Count: 150744
+! Last modified: 2024-08-31 09:39:35
+! Total Count: 150769
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2619,6 +2619,7 @@
 ||600z.com^
 ||6016799644.com^
 ||605296.com^
+||60571086.xyz^
 ||605efe.xyz^
 ||6061de8597.com^
 ||6068a17eed25.com^
@@ -9716,6 +9717,7 @@
 ||andyhoppe.com^
 ||aneartuilles.top^
 ||anedukerationpeci.info^
+||aneegroned.net^
 ||anei.tv^$third-party
 ||anekaiklan.com^
 ||anemenzemkwkm.top^
@@ -15244,6 +15246,7 @@
 ||bnds6.site^
 ||bnds7.site^
 ||bnds8.site^
+||bndxrr.xyz^
 ||bnets1.icu^
 ||bnets9.icu^
 ||bnevymqyjji.com^
@@ -19032,6 +19035,7 @@
 ||chocolate521.online^
 ||chocolatebushbunny.com^
 ||chocolatesingconservative.com^
+||chocolatine.apexlegendsstatus.com^
 ||choconart.com^
 ||choicedorm.top^
 ||choiceencounterjackson.com^
@@ -29176,6 +29180,7 @@
 ||etyper.com^
 ||etystoass.com^
 ||etyusiw.top^
+||eu-1-id5-sync.com^
 ||eu-ad.sam4m.com^
 ||eu-mobile.events.data.microsoft.com^
 ||eu-survey.com^
@@ -33798,6 +33803,7 @@
 ||gecl.xyz^
 ||gecontentasap.com^
 ||ged46.xyz^
+||gedashb112.fun^
 ||geddshippy.com^
 ||gednra.cn^
 ||gedspecificano.com^
@@ -34532,6 +34538,7 @@
 ||gjjvjbe.com^
 ||gjkame6.com^
 ||gjknyqmvrluao.com^
+||gjmedashb0.fun^
 ||gjmqqq.com^
 ||gjnrtzqz.com^
 ||gjnzqdpzda.com^
@@ -36647,6 +36654,7 @@
 ||hadfrizzprofitable.com^
 ||hadmiredinde.info^
 ||hadmvmqe.com^
+||hadronid.net^
 ||hadsans.com^
 ||hadsanz.com^
 ||hadseaside.com^
@@ -38534,6 +38542,7 @@
 ||hollowgleamed.com^
 ||holm.ru^
 ||holmesmind.com^
+||holmicnebbish.com^
 ||holmiumundried.com^
 ||holond.com^
 ||holptimawa.com^
@@ -39175,6 +39184,7 @@
 ||htvixv.xyz^
 ||htwrildnk.xyz^
 ||htwueeruimy.com^
+||htxwzp.xyz^
 ||hty9m.cn^
 ||htyrmacanbty.com^
 ||htysiboswaj.com^
@@ -40056,6 +40066,7 @@
 ||idioticstoop.com^
 ||idiotproprietary.com^
 ||idipsumo.top^
+||iditero.top^
 ||iditolshewn.com^
 ||idjcymxwbjqxum.com^
 ||idkdoxp.cn^
@@ -41627,6 +41638,7 @@
 ||insuvietnam.com^
 ||insvrvietnam.com^
 ||inswebt.com^
+||inswellbathes.com^
 ||inszu.com/js/qian/
 ||int.akisinn.info^
 ||int.akisinn.me^
@@ -57457,11 +57469,13 @@
 ||octoclick.net^
 ||octolinkcom.me^
 ||octonew.me^
+||octonewjs.com^
 ||octopart-analytics.com^
 ||octopidroners.com^
 ||octopod.cc^
 ||octopusiron.com^
 ||octopuspop.com^
+||octotracking.com^
 ||octrib.com^
 ||octrol.com^
 ||ocular.mydealz.de^
@@ -60055,6 +60069,7 @@
 ||parlorsuperhero.com^
 ||parlouractivityattacked.com^
 ||parlourinvulnerablerighteous.com^
+||parnelfirker.com^
 ||parnett55.xyz^
 ||paroasse.xyz^
 ||parolropmo.com^
@@ -62916,6 +62931,7 @@
 ||postitial.com^
 ||postitial.com^$third-party
 ||postlnk.com^
+||postokdesk.live^
 ||postrelease.com^
 ||postthieve.com^
 ||postureunlikeagile.com^
@@ -63571,6 +63587,7 @@
 ||prod.fennec.atp.fox^
 ||prod.html5-ads.vk-apps.com^
 ||prod.report.nacustomerexperience.citi.com^
+||prod.tahoe-analytics.publishers.advertising.a2z.com^
 ||prod.uidapi.com^
 ||prod.untd.com^
 ||prodaddkarl.com^
@@ -69544,6 +69561,7 @@
 ||s.srvsynd.com^
 ||s.ssl.qhres2.com/ssl/
 ||s.ssl.qhres2.com/ssl/$third-party
+||s.trvdp.com^
 ||s.tuoitre.vn^
 ||s.union.360.cn^
 ||s.uuidksinc.net^
@@ -70065,6 +70083,7 @@
 ||saxophonefrontier.com^
 ||saxys9w.cn^
 ||say.ac^
+||sayableconder.com^
 ||sayac.kapital.com.tr^
 ||sayac.tmgrup.com.tr^
 ||saycaptain.com^
@@ -72956,6 +72975,7 @@
 ||skatingperformanceproblems.com^
 ||skatistlollard.com^
 ||skattamindre.se^
+||skaumbp.icu^
 ||skawwebless.com^
 ||skbao.co^
 ||skcapepyshdr.xyz^
@@ -89605,6 +89625,7 @@
 ||wpercent.qwertyuadf.com^
 ||wpfc.ml^
 ||wphmavwgay.xyz^
+||wpiajkniqnty.com^
 ||wpib0jr.cn^
 ||wpihekqpm.xyz^
 ||wpinfnyp.com^
@@ -90083,6 +90104,7 @@
 ||wxmxbvuwj.com^
 ||wxoywtyuj.com^
 ||wxseedslpi.com^
+||wxsicu.xyz^
 ||wxsignin.top^
 ||wxskqy.cn^
 ||wxsygrpxfkp.com^
@@ -90199,6 +90221,7 @@
 ||x.dmouy.cn^
 ||x.dmouy.cn^$third-party
 ||x.sexhd.pics^
+||x.trvdp.com^
 ||x.weather.com^
 ||x.yaohuo.me^
 ||x011bt.com^
@@ -110002,9 +110025,11 @@ redferret.net###lb_wrap
 redferret.net##.redfads
 redgifs.com##.InfoBar
 redgifs.com##.LaPF7yJs
+redgifs.com##.SideBar-Item:has(> [class^="_adLiveButton"])
 redgifs.com##._advertWrapper_f9sfb_1
 redgifs.com##.placard-wrapper
 redgifs.com##.ySY4Rc9M
+redgifs.com##[class*="defaultAd"]
 redgifs.com##a[href^="https://camsfinders.com/"]
 redgifs.com##div[class^="AdTabs_"]
 redgifs.com##div[class^="AdUnit_"]
@@ -112956,10 +112981,6 @@ tweaktown.com###DesktopTop
 tweaktown.com##.DesktopRightBA
 tweaktown.com##.center-tag-rightad
 twidouga.net##.item_w360
-twiiter.com,twitter.com,x.com##div[data-testid="UserCell"]:has(path[d$="10H8.996V8h7v7z"])
-twiiter.com,twitter.com,x.com##div[data-testid="eventHero"]:has(path[d$="10H8.996V8h7v7z"])
-twiiter.com,twitter.com,x.com##div[data-testid="placementTracking"]:has(div[data-testid$="-impression-pixel"])
-twiiter.com,twitter.com,x.com##div[data-testid="trend"]:has(path[d$="10H8.996V8h7v7z"])
 twiman.net##div[class*="my-"][class*="px\]"]
 twinfinite.net###mvp-main-content-wrap
 twistedsifter.com##.widget_sifter_ad_bigbox_widget
@@ -112976,7 +112997,11 @@ twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion,x.com
 twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion,x.com##a[href*="src=promoted_trend_click"] + div
 twitter.com,x.com##.tweet:has(.promo)
 twitter.com,x.com##article[data-testid="tweet"]:has(path[d$="10H8.996V8h7v7z"])
+twitter.com,x.com##div[data-testid="UserCell"]:has(path[d$="10H8.996V8h7v7z"])
 twitter.com,x.com##div[data-testid="cellInnerDiv"] > div > div[class] > div[class][data-testid="placementTracking"]
+twitter.com,x.com##div[data-testid="eventHero"]:has(path[d$="10H8.996V8h7v7z"])
+twitter.com,x.com##div[data-testid="placementTracking"]:has(div[data-testid$="-impression-pixel"])
+twitter.com,x.com##div[data-testid="trend"]:has(path[d$="10H8.996V8h7v7z"])
 twitter.com,x.com#?#h2[role="heading"]:-abp-contains(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션|ประชาสมพนธ|परचरत|বজঞপত|تشہیر شدہ|مروج|تبلیغی|מקודם/)
 twpkinfo.com###div_close_cf
 txahz.com###archy_ad2
