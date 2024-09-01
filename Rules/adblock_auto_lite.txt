@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: xBJLraqkpyVCFx/NWrbWfA
+! Checksum: 2dQVBD0j47V1tTZjtyWISg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240901002711
+! Version: 20240901095358
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-01 00:27:11
-! Total Count: 28794
+! Last modified: 2024-09-01 09:53:58
+! Total Count: 28802
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -724,6 +724,7 @@
 ||4bds.xyz^
 ||4btbtt.com/slade.js
 ||4cjh.xyz^
+||4gamer.net/css/pr/SP_topjack.css
 ||4gamers.com.tw/ads-
 ||4gamers.com.tw/site/api/aols/media?
 ||4gamers.com.tw/site/iframe-aols/
@@ -6112,6 +6113,7 @@
 ||dd667788dd.com^
 ||dd778899dd.com^
 ||ddaixdz.cn^
+||ddd-smart.net/*.php
 ||ddd.sexstories69.com^
 ||ddgjjj.com^$third-party
 ||ddielv.cn^
@@ -6669,6 +6671,7 @@
 ||dvdgayporn.com/wp-content/plugins/POit-*.js
 ||dvenkbn.icu^
 ||dvgjx.cn^
+||dvlith.xyz^
 ||dvnqhdmze.xyz^
 ||dvnsdo.com^$third-party
 ||dvotlhs.cn^
@@ -7573,6 +7576,7 @@
 ||friendshipmale.com^
 ||friendwool.com^$third-party
 ||frightenedpotato.com^$third-party
+||frntzz.xyz^
 ||frontend.vh.yandex.ru/player/*&adConfig=$domain=mentoday.ru
 ||frontendjs.com/api/ad
 ||fronttoad.com^$third-party
@@ -7846,6 +7850,7 @@
 ||getitfree.cn/wp-content/plugins/adunblocker/*.js
 ||getitfree.cn/wp-content/plugins/anti-
 ||getsgroup.cn^
+||gewqashbwq.fun^
 ||gexing.com/i/*960x
 ||gexing.com/j/??zmask.js,easing.js?
 ||gfan.com/press/
@@ -16156,6 +16161,7 @@
 ||ty-baidu.xyz^
 ||ty121.cn/IAA/
 ||ty8bz.com^
+||tyaqzjp.icu^
 ||tybmbbgu.xyz^
 ||tycxhgrp.xyz^
 ||tydouke.com^
@@ -17829,6 +17835,7 @@
 ||xznrtl.xyz^
 ||xzrhvv.xyz^
 ||xzvahr.xyz^
+||xzwtbdtq.xyz^
 ||xzxforn.xyz^
 ||xzxhpcdz.icu^
 ||xzyituo.com^
@@ -17931,6 +17938,7 @@
 ||yeyemo4.com^$third-party,image
 ||yeyou.com/2013/new/yeyou-float-window.js
 ||yezi.cn/_ad/
+||yfaqgk.xyz^
 ||yfasjfk.icu^
 ||yfmhik.xyz^
 ||yfohgo.xyz^
