@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 8PlFkTAt7Pk2haMfY+8hPA
+! Checksum: /GbKpHoRfoZm4zDIJXg0BQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240901162610
+! Version: 20240902002706
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-01 16:26:10
+! Last modified: 2024-09-02 00:27:06
 ! Total Count: 28804
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
@@ -6114,7 +6114,6 @@
 ||dd667788dd.com^
 ||dd778899dd.com^
 ||ddaixdz.cn^
-||ddd-smart.net/*.php
 ||ddd.sexstories69.com^
 ||ddgjjj.com^$third-party
 ||ddielv.cn^
@@ -7798,6 +7797,7 @@
 ||gcqciiqk.com^
 ||gcssem.xyz^
 ||gcumgu.xyz^
+||gcvgedashb3.fun^
 ||gcw*.2liang.cn^
 ||gcwwsv.icu^
 ||gcxa.cn/a/gb.gif
@@ -9543,7 +9543,6 @@
 ||ivykiosk.com^$third-party
 ||iwanad.baidu.com^
 ||iwandlo.top^
-||iwanshang*.asia^
 ||iwanshang8.asia^
 ||iwarship.net/wowsdb/static/img/banner.png
 ||iwatojc.cn^
@@ -10098,6 +10097,7 @@
 ||jxvyrv.xyz^
 ||jxwqu.cn^
 ||jy.zhongxues.com^
+||jy01.shop^
 ||jy135.com/js/pubuliu.
 ||jy135.com^$third-party
 ||jy147a.com^
@@ -14247,6 +14247,7 @@
 ||sakguz.icu^
 ||salary.xiao84.com^
 ||sales-frontier.com^$third-party
+||saltsleaseholder.com^
 ||sam*.baby-kingdom.com^
 ||samayam.com/detector.cms
 ||same*.stockstar.com^
@@ -16151,7 +16152,6 @@
 ||txahz.com/static/image/tp/
 ||txbhhh.xyz^
 ||txcv68f.com^
-||txhfgwgkwt*.asia^
 ||txhfgwgkwt7.asia^
 ||txhfgwgkwt8.asia^
 ||txmeeqz.icu^
