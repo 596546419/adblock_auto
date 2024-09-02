@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: /GbKpHoRfoZm4zDIJXg0BQ
+! Checksum: jF1a3fUSSiwB1rCRfql11g
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240902002706
+! Version: 20240902094218
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-02 00:27:06
-! Total Count: 28804
+! Last modified: 2024-09-02 09:42:18
+! Total Count: 28810
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7717,7 +7717,9 @@
 ||g2ak5.com^
 ||g2qb.top^
 ||g3f3.com/love/
+||g6tgashb.fun^
 ||g77ds2.xyz^
+||g7ghdash2.fun^
 ||g8ld.fun^
 ||ga-ads.com^
 ||ga1.3dmgame.com^
@@ -9723,6 +9725,7 @@
 ||jianpian.vip^$third-party
 ||jianshen114.com/images/Advistings/
 ||jianxun.io/ad/
+||jianxuzuo.com^
 ||jiaoben.eastday.com^
 ||jiaoben.ganji.cn^
 ||jiaoben.jucanw.com^
@@ -10431,6 +10434,7 @@
 ||krtlisd.top^
 ||krutilka.net^
 ||krutvncd.top^
+||kryeia.xyz^
 ||kryjqq.com^
 ||kryptografie.de/js/wb_dead.js$script
 ||ksccqu.xyz^
@@ -11849,6 +11853,7 @@
 ||mwerilxx.top^
 ||mweriox.top^
 ||mwfyab.icu^
+||mwqetvn.icu^
 ||mwqucr.icu^
 ||mwrf.net/images/js/*mrf.js
 ||mwrf.net/images/mrf/
@@ -12785,6 +12790,7 @@
 ||phbkm.com/js/
 ||phcrjth.xyz^
 ||phimvu.app^$third-party
+||phjtxx.xyz^
 ||phk.nmkstcrt.xyz^
 ||phluant.com^
 ||photo.*.html?tk=$script,third-party
