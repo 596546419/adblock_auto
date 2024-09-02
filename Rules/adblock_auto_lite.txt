@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: jF1a3fUSSiwB1rCRfql11g
+! Checksum: QJ6X89mGnSxgKtF0iHXemg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240902094218
+! Version: 20240902162928
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-02 09:42:18
-! Total Count: 28810
+! Last modified: 2024-09-02 16:29:28
+! Total Count: 28814
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7532,6 +7532,7 @@
 ||fptbdr.xyz^
 ||fptdxkm.com^
 ||fpvdrzx.xyz^
+||fq01.shop^
 ||fq67.top^
 ||fqbjzj.xyz^
 ||fqfclmlo.xyz^
@@ -11460,6 +11461,7 @@
 ||metroaverage.com^$third-party
 ||metvb.com/js/bofangwei.js
 ||meueeq.xyz^
+||mewrutx.top^
 ||mfacelive.com/Scripts/social/openchannel_min.js
 ||mfadsrvr.com^
 ||mfaec.cn^
@@ -13692,6 +13694,7 @@
 ||quqtone.cn^
 ||qusfybj.cn^
 ||qusrow.xyz^
+||quwkke.xyz^
 ||quwwa.top^
 ||quxiangkeji.cn^$third-party
 ||quzmtpxw.xyz^
@@ -18197,6 +18200,7 @@
 ||ytvrtrya.xyz^
 ||yu.dlxxjsh.top^
 ||yuanbao777.com/download/*.gif
+||yuanmengbi.com^
 ||yuanpinghengkangfuyouxiangongsi.top^
 ||yuanpinghengkangfuyouxiangongsi.top^$domain=9xav.cc
 ||yuanxiaa.cn^
