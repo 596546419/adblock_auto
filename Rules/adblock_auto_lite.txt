@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: xsE1uIoCgu8M8np1RT6RNQ
+! Checksum: sOpZX0YGxHNEG3F1tBhTfw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240903002924
+! Version: 20240903093948
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-03 00:29:24
-! Total Count: 28815
+! Last modified: 2024-09-03 09:39:48
+! Total Count: 28823
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4477,6 +4477,7 @@
 ||bgdgpbpm.xyz^
 ||bgdizsay.icu^
 ||bgeg1.fun^
+||bghebf.xyz^
 ||bgidskiv.top^
 ||bhaoea.cn^
 ||bhcnmrn.icu^
@@ -5243,6 +5244,7 @@
 ||celtra.com^
 ||cengqinglin.cn^
 ||centurys.net/promo_
+||cenyou.net/wp-content/uploads/1200-200.
 ||ceodk.xyz^
 ||ceppartner.com^
 ||cer.niaideren.icu^
@@ -5831,6 +5833,7 @@
 ||ctfile.com/popjump.php?$popup
 ||cthbini.xyz^
 ||ctienlf.top^
+||ctkyom.xyz^
 ||ctl.buyt.in^
 ||ctlrarz.xyz^
 ||ctmrso.xyz^
@@ -7793,6 +7796,7 @@
 ||gbfedashb4.fun^
 ||gbgedashb8.fun^
 ||gblxtlo.xyz^
+||gbndash2.fun^
 ||gcbflvx.cn^
 ||gcbtgh26.xyz^
 ||gccnntq.cn^
@@ -7851,6 +7855,7 @@
 ||geoloc.yospace.com^
 ||geotmt.com^$third-party
 ||gepvgv.icu^
+||geqshb22.fun^
 ||gesfdashb5.fun^
 ||getcdnpix.name^
 ||getitfree.cn/wp-content/plugins/adunblocker/*.js
@@ -9160,6 +9165,7 @@
 ||iis7.com/ys/css2018/ggw.js
 ||iivruiz.cn^
 ||iiwoqm.xyz^
+||ijeujkdhnvb.top^
 ||ijgbuj.xyz^
 ||ijinshan.com/images/gk/game
 ||ijmxco.xyz^
@@ -12164,6 +12170,7 @@
 ||nlhpxj.xyz^
 ||nljrvdh.xyz^
 ||nlrsbd.xyz^
+||nlrsrx.xyz^
 ||nltsvf.xyz^
 ||nlvgxr.xyz^
 ||nlvwdlnhfnnw.com^
@@ -18259,6 +18266,7 @@
 ||yxptcrss.xyz^
 ||yxrxsov.xyz^
 ||yxvoud.com^
+||yxvyqyy.icu^
 ||yxzp.net/left.js
 ||yy17173.dtime.com^
 ||yy18.info/yyads/
