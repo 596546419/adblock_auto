@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: nCyZUChROMLGN6r7EYjTgQ
+! Checksum: 53OGIX6Xbe1ADnhII00PcQ
 ! Title: 混合规则(自动更新)
-! Version: 20240904094044
+! Version: 20240904162724
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-04 09:40:44
-! Total Count: 151368
+! Last modified: 2024-09-04 16:27:24
+! Total Count: 151373
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -84693,6 +84693,7 @@
 ||urueuah.cn^
 ||uruftio.com^
 ||uruswan.com^
+||urutvnct.top^
 ||urvgwij.com^
 ||urwb.ru^
 ||urwnsq.xyz^
@@ -98148,9 +98149,9 @@ baptistnews.com,chimpreports.com,collive.com,defence-industry.eu,douglasnow.com,
 bar-planb.com,hakibavuong.com###player_dev
 barandbench.com##.ad-slot-row-m__ad-Wrapper__cusCS
 barandbench.com##.ad-wrapper-module__adContainer__iD4aI
-barandbench.com##[class*="ad-slot"]
 barandbench.com##div[class^="ad-service-"]
 barandbench.com##div[class^="ad-slot"]
+barandbench.com,cointelegraph.com##[class*="ad-slot"]
 barclaysatpworldtourfinals.com###rolex-small-clock
 barelist.com##a[onclick="CallServer('ad', '')"]
 barnesandnoble.com##.product-commentary-advertisement
@@ -100002,10 +100003,13 @@ cointelegraph.com##.ad-slot_NjPAE
 cointelegraph.com##.advertise-with-us-link_O9rIX
 cointelegraph.com##.componentAdbutler_UHZMO
 cointelegraph.com##.componentAdbutler_uF1zH
+cointelegraph.com##.header-zone__banner
 cointelegraph.com##.header-zone__banners
 cointelegraph.com##.sidebar__promo-button
+cointelegraph.com##[href="javascript:void(0);"]
 cointelegraph.com##div[class^="ad-slot_"]
 cointelegraph.com##mm-collectors
+cointelegraph.com#?#li.group-\[\.inline\]\:mb-8:-abp-contains(Ad)
 coinweek.com##.g-389
 colamanga.com#$#div[class^="layui-layer-"]:not(#color) { display: none !important; }
 colamanga.com,ezneering.com#$#html { overflow: auto !important; }
@@ -105003,7 +105007,8 @@ infoq.cn##.live-fixed-bar
 infoq.cn##.widget-slide-weekly
 infoq.com###psa-note
 infoq.com##.ab_detect
-infoq.com##.f_sponsorbox_top_2
+infoq.com##.f_spbox_top_1
+infoq.com##.f_spbox_top_2
 infoq.com##.spns
 informer.com##.aa-728
 informer.com##.aa0
