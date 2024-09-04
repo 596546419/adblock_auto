@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: NG79fYWD+PA2PPFynId6JQ
+! Checksum: e/fIRqeWNjrZuFbtG1lu3g
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240904162736
+! Version: 20240905002835
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-04 16:27:36
-! Total Count: 28830
+! Last modified: 2024-09-05 00:28:35
+! Total Count: 28841
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7808,6 +7808,7 @@
 ||gcqciiqk.com^
 ||gcssem.xyz^
 ||gcumgu.xyz^
+||gcvcdashb2.fun^
 ||gcvgedashb3.fun^
 ||gcw*.2liang.cn^
 ||gcwwsv.icu^
@@ -7838,6 +7839,7 @@
 ||gdxxb.com^$third-party
 ||gdyjs.com^
 ||gdz0cqs.icu^
+||ge3shbdf1.fun^
 ||ged46.xyz^
 ||gedashb112.fun^
 ||geede.info^
@@ -7859,6 +7861,7 @@
 ||geotmt.com^$third-party
 ||gepvgv.icu^
 ||geqshb22.fun^
+||gesdxashb1.fun^
 ||gesfdashb5.fun^
 ||getcdnpix.name^
 ||getitfree.cn/wp-content/plugins/adunblocker/*.js
@@ -9066,6 +9069,7 @@
 ||icnkr.com/cnkradv/
 ||icnkr.com/data/attachment/portal/
 ||icqeou.xyz^
+||icudqq.xyz^
 ||icvsleec.xyz^
 ||icwnix.icu^
 ||icws.jb51.net/good/arc2019.js
@@ -9144,6 +9148,7 @@
 ||ifkdy.com/ifkdy/weixin/isFollowMe
 ||ifooday.cn/index.php?m=poster&
 ||ifunmac.com/wp-content/uploads/*/alipay-
+||ifxqubw.icu^
 ||igamepark.biz/ads_output.php
 ||igao17.com/need/h5.js
 ||igaworks.com/AdPOPcorn/
@@ -12247,6 +12252,7 @@
 ||nsclick.baidu.com^
 ||nscxbr.com^$third-party
 ||nsexfxwcvro.xyz^
+||nsfsfn.xyz^
 ||nshypdry.xyz^
 ||nsjnmx.icu^
 ||nswtojdi.icu^
@@ -12843,6 +12849,7 @@
 ||pic.gongkong.com/UploadPic/gongkong/
 ||pic.ivzfpwm.cn^$script,third-party
 ||pic.pimg.tw/cwyuni/*.gif?v=$domain=cwyuni.tw
+||pic.pimg.tw/promo01/
 ||pic.shedsgs.cn/upload_*/upload/*.gif$domain=91porna.com
 ||pic.touleb.cn/banner/
 ||pic.yupoo.com/showflash/
@@ -16494,6 +16501,7 @@
 ||urqwzbu.cn^
 ||urtlist.top^
 ||urueuah.cn^
+||urutvnct.top^
 ||us-west1.cdngcloud.com^
 ||usancit.top^
 ||usedexample.com^$third-party
@@ -16918,6 +16926,7 @@
 ||vvdzucs.cn^
 ||vvlhrz.xyz^
 ||vvmeirihd.feijied.xyz^
+||vvttpn.xyz^
 ||vvtztj.xyz^
 ||vvv.ieduw.com^
 ||vvvkp.com/template/ttk/img/
@@ -17132,6 +17141,7 @@
 ||wew.dushiwenxue.net^
 ||wewbnso.cn^
 ||wewrute.top^
+||wfijsc.xyz^
 ||wfiles.hcomic.net/indexSwiper/*_*x*_*_TC_gif.gif
 ||wfjslie.top^
 ||wfndponfd.com^
@@ -18064,6 +18074,7 @@
 ||yitongqinba.com/js/xin/$script
 ||yivkzvog.xyz^
 ||yiw2iei.icu^
+||yiwckti.icu^
 ||yjbdyjnctgj.top^
 ||yjcf360.com/ad.
 ||yje912.cn^
