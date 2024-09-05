@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: b3JP91XDCV6X4ELh1OT5GQ
+! Checksum: dZ8IWbm4jbcubm+NyP58SA
 ! Title: 混合规则(自动更新)
-! Version: 20240905002822
+! Version: 20240905094041
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-05 00:28:22
-! Total Count: 151731
+! Last modified: 2024-09-05 09:40:41
+! Total Count: 151751
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -691,6 +691,7 @@
 ||158.247.208.
 ||1582020.com^
 ||1583030.com^
+||1588341617.rsc.cdn77.org^
 ||158zm.com/head.js
 ||158zm.com/top.js
 ||159i.com/nd/b_slest.php
@@ -3967,6 +3968,7 @@
 ||a.cookpad-ads.com^
 ||a.ddli.jp^
 ||a.deadlinefunnel.com^
+||a.dlads.cn^
 ||a.dlads.cn^$third-party
 ||a.doganburda.com^
 ||a.duanmeiwen.com^
@@ -7938,6 +7940,7 @@
 ||ahp9.site^
 ||ahporntube.com^
 ||ahpphkc.xyz^
+||ahqovxli.com^
 ||ahqpqpdjpj.com^
 ||ahrefa.com^
 ||ahscdn.com^
@@ -14989,6 +14992,7 @@
 ||bjws.xyz^
 ||bjxfnn.xyz^
 ||bjxiangcao.com^
+||bjxty88.com/js/foot.js
 ||bjytdqwx.com^
 ||bjyulyeqrmv.xyz^
 ||bjzankai.com^$script,third-party
@@ -20641,6 +20645,7 @@
 ||coinpot.co^
 ||coinprofitsexchange.uk^
 ||coinrail.io^
+||coinsmanning.com^
 ||coinsup.com^
 ||cointent.com^
 ||cointraffic.io^
@@ -21610,6 +21615,7 @@
 ||cosmismnatchez.com^
 ||cosmo001.top^
 ||cosmosjackson.com^$third-party
+||cosouy.xyz^
 ||cosplayporntube.com/creatives/
 ||cosseterrits.com^
 ||cost1action.com^
@@ -23859,6 +23865,7 @@
 ||dcqs4.com^
 ||dcs.conac.cn/js/
 ||dcs.maxthon.com^
+||dcsewjll.com^
 ||dcsv33.com^
 ||dcsxv.com^
 ||dct.mango-office.ru^
@@ -34127,6 +34134,7 @@
 ||gecl.xyz^
 ||gecontentasap.com^
 ||ged46.xyz^
+||gedafdshb7.fun^
 ||gedashb112.fun^
 ||geddshippy.com^
 ||gednra.cn^
@@ -35792,6 +35800,7 @@
 ||goulbap287evenost.com^
 ||gouloupt.com^
 ||goundouskirty.com^
+||gounevou.net^
 ||goupeecy.com^
 ||goupu.org/1files/*.gif
 ||goupu.org/1files/*.htm
@@ -35902,6 +35911,7 @@
 ||gqubkbuinx.com^
 ||gqusbheifyoqubu.com^
 ||gqvdcek.cn^
+||gqwwshbdd1.fun^
 ||gr.hdream.cfd^
 ||gr0z6.xyz^
 ||gr3hjjj.pics^
@@ -38083,6 +38093,7 @@
 ||herslenderw.info^
 ||hertzbeat.cn^
 ||herynore.com^
+||hesads.akamaized.net^
 ||hesatinaco.com^
 ||hesatinacorne.org^
 ||hesftig.site^
@@ -40645,6 +40656,7 @@
 ||ifpartyingpile.com^
 ||ifplumhggkz.com^
 ||ifqirmnkrlv.com^
+||iframe.porndudegirls.com^
 ||iframepay.com^
 ||ifreedns.org^
 ||ifrjnpv.com^
@@ -42579,6 +42591,7 @@
 ||ireraisin.com^
 ||iresandal.info^
 ||irgvfdwicqerqfy.com^
+||irgxwk.xyz^
 ||irhpzbrnoyf.com^
 ||iridiumsergeiprogenitor.info^
 ||iridizemohegan.com^
@@ -44350,6 +44363,7 @@
 ||joiningindulgeyawn.com^
 ||joiningslogan.com^
 ||joiningwon.com^
+||joinmassive.com^
 ||joinmy.site^
 ||joinpropeller.com^
 ||joinsportsnow.com^
@@ -45838,6 +45852,7 @@
 ||kfnvrt.xyz^
 ||kfocoq.xyz^
 ||kfpicimage.xyz^
+||kfpljakmiousajl.com^
 ||kfpnqug.cn^
 ||kfqizu.cn^
 ||kfvjdvjzhddhc.com^
@@ -65701,6 +65716,7 @@
 ||qdc7y9x.xyz^
 ||qdchunyu.com^
 ||qdcxia.xyz^
+||qdeduzaixe.com^
 ||qdglzx.com^
 ||qdhhdsw.cn^
 ||qdibvllqu.com^
@@ -68750,6 +68766,7 @@
 ||rglvbpi.cn^
 ||rglxzqlqcp.com^
 ||rglymepfbvdeb.xyz^
+||rgmmeff.icu^
 ||rgnlaigz.fun^
 ||rgpqgasbmqere.com^
 ||rgpujh.xyz^
@@ -86351,6 +86368,7 @@
 ||vftvbx.xyz^
 ||vfvad.top^
 ||vfvdsati.com^
+||vfvrld.xyz^
 ||vfvvhywsdons.com^
 ||vfxrpl.xyz^
 ||vfzfrx.xyz^
@@ -86532,6 +86550,7 @@
 ||video231.oss-cn-beijing.aliyuncs.com^
 ||videoaccess.xyz^
 ||videoads-cloud.rovio.com^
+||videoads.hotstar.com^
 ||videobaba.xyz^
 ||videocampaign.co^
 ||videocap.org^
@@ -94233,6 +94252,7 @@
 ||zebraicrudista.com^
 ||zebrinanoteman.top^
 ||zebusentour.com^
+||zeddjv.xyz^
 ||zedo.com^
 ||zedo.com^$third-party
 ||zedoaryrejects.com^
@@ -110969,11 +110989,9 @@ redferret.net###lb_wrap
 redferret.net##.redfads
 redgifs.com##.InfoBar
 redgifs.com##.LaPF7yJs
-redgifs.com##.SideBar-Item:has(> [class^="_adLiveButton"])
-redgifs.com##._advertWrapper_f9sfb_1
+redgifs.com##.SideBar-Item:has(> [class^="_liveAdButton"])
 redgifs.com##.placard-wrapper
 redgifs.com##.ySY4Rc9M
-redgifs.com##[class*="defaultAd"]
 redgifs.com##a[href^="https://camsfinders.com/"]
 redgifs.com##div[class^="AdTabs_"]
 redgifs.com##div[class^="AdUnit_"]
@@ -114938,6 +114956,8 @@ wiki.mbalib.com###p-ad-bd
 wiki.mbalib.com##.ad-br
 wikibrief.org##div[style="height:302px;width:auto;text-align:center;"]
 wikibrief.org##div[style="text-align:center;height:302px;width:auto;"]
+wikifeet.com##[href="https://www.feetfix.com"]
+wikifeet.com##[href^="https://vip.stakeclick.com/"]
 wikihow.com###contribute_footer
 wikihow.com##.al_method
 wikihow.com##.rrdoublewrap
@@ -142404,7 +142424,7 @@ zle.com$script
 ##.gnm-adhesion-ad
 ##.gnm-banner-ad
 ##.gnm-bg-ad
-##.gnt_em_vp__tavp
+##.gnt_em_vp_c[data-g-s="vp_dk"]
 ##.gnt_flp
 ##.gnt_rr_xpst
 ##.gnt_rr_xst

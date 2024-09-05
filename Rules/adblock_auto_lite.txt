@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: e/fIRqeWNjrZuFbtG1lu3g
+! Checksum: nzV358e4H9UMFt1+/zGPsw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240905002835
+! Version: 20240905094053
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-05 00:28:35
-! Total Count: 28841
+! Last modified: 2024-09-05 09:40:53
+! Total Count: 28849
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4568,6 +4568,7 @@
 ||bjtel.cn^
 ||bjtgds.xyz^
 ||bjxfnn.xyz^
+||bjxty88.com/js/foot.js
 ||bjzankai.com^$script,third-party
 ||bkae.top^
 ||bkbbjtfp.xyz^
@@ -5698,6 +5699,7 @@
 ||cos.ap-*.myqcloud.com^$third-party
 ||cosmo001.top^
 ||cosmosjackson.com^$third-party
+||cosouy.xyz^
 ||cosplayporntube.com/creatives/
 ||costarg.com^
 ||count.xxxssk.com^$third-party
@@ -7841,6 +7843,7 @@
 ||gdz0cqs.icu^
 ||ge3shbdf1.fun^
 ||ged46.xyz^
+||gedafdshb7.fun^
 ||gedashb112.fun^
 ||geede.info^
 ||geekbang.org/public/serving/
@@ -8141,6 +8144,7 @@
 ||gpqid.xyz^
 ||gpxz.com/js2/
 ||gqleov.icu^
+||gqwwshbdd1.fun^
 ||gr0z6.xyz^
 ||gracefulsock.com^$third-party
 ||grandfatherguitar.com^$third-party
@@ -9301,6 +9305,7 @@
 ||imgme.me/images/*.gif
 ||imgmega.com/i/*.gif$domain=18avtube.com|mm-cg.com
 ||imgopen.vip^
+||imgoss1380.top^
 ||imgoss2255.top^
 ||imgoss511.top^
 ||imgoss820.top^
@@ -9467,6 +9472,7 @@
 ||iqzone.com^$third-party
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||irayedo.cn^
+||irgxwk.xyz^
 ||irmbyu.xyz^
 ||irqaci.xyz^
 ||irtefs.xyz^
@@ -12124,7 +12130,6 @@
 ||nfmovies.com/pic/tu/banner
 ||nfmovies.com/pic/tu/banner-*.jpg
 ||nfmovies.com/static/*.jpg
-||nfmovies.com/static/*.jpg$image,redirect=1x1.gif
 ||nfmovies.com/static/210203.png
 ||nfptyfk.xyz^
 ||nfuwow.com/static/nfuwow/source/front/new/images/
@@ -13974,6 +13979,7 @@
 ||rgdcrt.xyz^
 ||rghbvp.xyz^
 ||rghqrj.xyz^
+||rgmmeff.icu^
 ||rgpujh.xyz^
 ||rgyfqq.com^
 ||rhesed.site^
@@ -16733,6 +16739,7 @@
 ||vfsvv1.com^
 ||vftvbx.xyz^
 ||vfvad.top^
+||vfvrld.xyz^
 ||vfxrpl.xyz^
 ||vfzfrx.xyz^
 ||vgao.xyz/images/*.gif
@@ -18416,6 +18423,7 @@
 ||zeatse.buzz^
 ||zeatse.buzz^$third-party
 ||zebjlt.buzz^
+||zeddjv.xyz^
 ||zedo.com^
 ||zehnporn.com/img/12221.gifimg/12221.gif
 ||zekzoh.icu^
