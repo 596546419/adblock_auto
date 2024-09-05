@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Vj7nU5i7pwObLJkqRVli/g
+! Checksum: MKqpnvuUSMr4SpNdevZM0Q
 ! Title: 混合规则(自动更新)
-! Version: 20240905162828
+! Version: 20240906002811
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-05 16:28:28
-! Total Count: 151757
+! Last modified: 2024-09-06 00:28:11
+! Total Count: 151827
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3066,6 +3066,7 @@
 ||7540.com^$third-party
 ||754480bd33.com^
 ||75625358935.com^
+||75690049.xyz^
 ||75h4x7992.com^
 ||7608d5.xyz^
 ||7618590057.com^
@@ -3325,6 +3326,7 @@
 ||8341.store^
 ||8353e36c2a.com^
 ||835images1.com^
+||83887336.xyz^
 ||8388tp.com^$domain=9xav.cc
 ||83u7q.top^
 ||8456.xyz^
@@ -5845,6 +5847,7 @@
 ||adlane.info^
 ||adlatch.com^
 ||adlayer.net^
+||adlc-exchange.toast.com^
 ||adleads.com^
 ||adleap.jp^
 ||adlegend.com^
@@ -11547,6 +11550,7 @@
 ||atraff.com^
 ||atraichuor.com^
 ||atraxio.com^
+||atriahatband.com^
 ||atriblethetch.com^
 ||atripplotx.com^
 ||atris.xyz^
@@ -18539,6 +18543,7 @@
 ||certona.net^
 ||cervell.io^
 ||cervixskips.com^
+||ceryldelaine.com^
 ||ces2007.org^
 ||cesareurope.com^
 ||ceschemicalcovenings.info^
@@ -25573,6 +25578,7 @@
 ||djldrhxb.com^
 ||djljz.cn/Plugins/Template/XJLY/js/app.
 ||djmaza.in^
+||djmqwdcwebstaxn.com^
 ||djmss.cn^$document
 ||djmss.cn^$~third-party
 ||djmwwdrznntss.com^
@@ -29224,6 +29230,7 @@
 ||esajfsd.cn^
 ||esanciw.top^
 ||esandalargere.com^
+||esasaimpi.net^
 ||esathyasesume.info^
 ||esbeginnyweakel.org^
 ||esbmzyady.com^
@@ -29269,6 +29276,7 @@
 ||eskowg.xyz^
 ||eslbahw.top^
 ||eslipdd.ltd^
+||eslisorchenet.click^
 ||eslp34af.click^
 ||esm1.net^
 ||esmyinteuk.info^
@@ -32378,6 +32386,7 @@
 ||forenteion.com^
 ||foreovietnam.me^
 ||foresawmartins.com^
+||foreseebobbers.com^
 ||foreseegigglepartially.com^
 ||foreseeresults.com^
 ||forestallbladdermajestic.com^
@@ -34140,6 +34149,7 @@
 ||gednra.cn^
 ||gedspecificano.com^
 ||gedu.org/js/meiqia_pc_groupmarket.
+||gedxssashb8.fun^
 ||geechaid.xyz^
 ||geede.info^
 ||geedoovu.net^
@@ -41438,6 +41448,7 @@
 ||imxequfha.com^
 ||imxhirrqagtjwd.com^
 ||imxsvpxe.xyz^
+||imyanmarads.com^
 ||imzahrwl.xyz^
 ||in-appadvertising.com^
 ||in-page-push.com^
@@ -41803,6 +41814,7 @@
 ||injectlocum.com^
 ||injectreunionshorter.com^
 ||injectsclocked.com^
+||injectshrslinkblog.com^
 ||injuredjazz.com^
 ||injuredripplegentleman.com^
 ||injurg.com^
@@ -64776,6 +64788,7 @@
 ||psychologycircumvent.com^
 ||psychologydistinguishnest.com^
 ||psychologywoman.com^
+||psykterfaulter.com^
 ||psyqwlqrff.xyz^
 ||psyzg.com/Public/Home/images/tuhe_240_236.gif
 ||pt-xb.xyz^
@@ -66325,6 +66338,7 @@
 ||qrovwu.xyz^
 ||qrpenodnn.com^
 ||qrprobopassor.com^
+||qrredraws.com^
 ||qrrqysjnwctp.xyz^
 ||qrsg11.com^
 ||qrstes.com^
@@ -66583,6 +66597,8 @@
 ||queresspurdie.com^
 ||querlfurcal.com^
 ||querulous-type.com^
+||query*.petametrics.com^
+||query1.petametrics.com^
 ||queryaccidentallysake.com^
 ||queryhookczar.com^
 ||querylead.com^
@@ -67616,6 +67632,7 @@
 ||rebrea.com^
 ||rebrew-foofteen.com^
 ||rebsouvaih.com^
+||rebukessedgier.shop^
 ||rebunb.xyz^
 ||rebursteaseful.com^
 ||rebuxoos.xyz^
@@ -70766,6 +70783,7 @@
 ||sauptowhy.com^
 ||saurajembe.top^
 ||saurelwithsaw.shop^
+||saurfeued.com^
 ||sausagegirlieheartburn.com^
 ||sauwoaptain.com^
 ||sauyv.top^
@@ -81653,6 +81671,7 @@
 ||trackconsole.com^
 ||trackdan.com^
 ||trackdb.go3.tv^
+||trackdesk.com^
 ||trackdiscovery.net^
 ||trackeame.com^
 ||trackedlink.net^
@@ -88526,6 +88545,7 @@
 ||washinexhaustible.com^
 ||washingbustlewhack.com^
 ||washingoccasionally.com^
+||washingtonpost.com/wp-stat/ad/zeus/wp-ad.min.js
 ||washokanap.com^
 ||washpottelly.website^
 ||wasortg.com^
@@ -89968,6 +89988,7 @@
 ||withholdstandstill.com^
 ||withinresentful.com^
 ||withmefeyaukna.com^
+||withnimmunger.com^
 ||withnimskither.com^
 ||withoutcontrol.com^
 ||withyouryretye.info^
@@ -90996,6 +91017,7 @@
 ||wxltarsyoffmm.com^
 ||wxmccgdodvsqibm.com^
 ||wxmicgwfzqekj.com^
+||wxmmji.xyz^
 ||wxmxbvuwj.com^
 ||wxoywtyuj.com^
 ||wxseedslpi.com^
@@ -91416,6 +91438,7 @@
 ||xflybplr.xyz^
 ||xflz.xyz^
 ||xfn1688.com^
+||xfohaxohrjr.com^
 ||xforhehvu.com^
 ||xfqrsjq.cn^
 ||xfqynrp.cn^
@@ -99546,6 +99569,7 @@ careonline.com.tw##.wrapper > script + a[href][onclick]
 cargurus.co.uk##.leaderboardWrapper
 cargurus.com##.Gi1Z6i
 cargurus.com##.cg-siteHeader-leaderBoardWrap
+cargurus.com##[data-cg-ft="car-blade"]:has([data-eyebrow^="FEATURED"])
 cargurus.com##[data-cg-ft="car-blade-link"]:has([data-cg-ft="srp-listing-blade-sponsored"])
 cargurus.com##div[data-cg-ft="car-blade"]:has(div[data-cg-ft="sponsored-listing-badge"])
 cari.com.my##a[href="http://banner.cari.com.my/daybanner/?page=promotion"]
@@ -106435,8 +106459,6 @@ kbb.com##.ads__container
 kbb.com##.ads__container-kbbLockedAd
 kbjfree.com##.relative.w-full:has(> .video-card[target="_blank"])
 kbjfree.com##.w-\[728px\]
-kc.linksgen.com,kimcartoon.li,kisscartoon.se##[style="margin: 0px auto; text-align: center; overflow: hidden; width: 610px;"]
-kc.linksgen.com,kimcartoon.li,kisscartoon.se##[style="width: 300px; margin: 0px auto;"]
 kcra.com,ketv.com,kmbc.com,wcvb.com,wpbf.com,wtae.com##.slideshowCover
 kdhome.net###bottomadv
 kdhome.net,prohaircut.com,xinhuanet.com,yxdm.li##.adv3
@@ -115732,7 +115754,6 @@ yanaifei.net#$?#.swiper-wrapper > .swiper-slide:has(> .banner[href^="https://"][
 yandex.*##.ProductGallery
 yandex.*##.mini-suggest__item[data-suggest-counter*="/yandex.ru/clck/safeclick/"]
 yandex.*##.search-list-view__advert-offer-banner
-yandex.*##.search-snippet-view:has(span.search-advert-badge__advert)
 yandex.*##a[href^="https://yandex.ru/an/count/"]
 yandex.*##li[class*="_card"]:has(a[href^="https://yabs.yandex.ru/count/"])
 yandex.*##li[class*="_card"]:has(a[href^="https://yandex.com/search/_crpd/"])
@@ -117469,19 +117490,19 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 .com/sc/*?n=$script,third-party
 .com/sc/*?n=$third-party
 .com/sc/*?x=$third-party
-.com/script/a.js
-.com/script/asset.js
-.com/script/cdn.js
-.com/script/compatibility.js
-.com/script/document.js
+.com/script/a.js$third-party
+.com/script/asset.js$third-party
+.com/script/cdn.js$third-party
+.com/script/compatibility.js$third-party
+.com/script/document.js$third-party
 .com/script/file.js$third-party
-.com/script/foundation.js
-.com/script/frustration.js
-.com/script/image.js
-.com/script/mui.js
+.com/script/foundation.js$third-party
+.com/script/frustration.js$third-party
+.com/script/image.js$third-party
+.com/script/mui.js$third-party
 .com/script/script.js$third-party
 .com/script/utils.js$third-party
-.com/script/xbox.js
+.com/script/xbox.js$third-party
 .com/sh/*.js$third-party
 .com/sh/back/*$third-party
 .com/sh/to/$script,third-party,xmlhttprequest
@@ -117857,7 +117878,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 .org/js/ads/
 .org/pops.js
 .org/s.php?id=$script,third-party
-.org/script/compatibility.js
+.org/script/compatibility.js$third-party
 .org/topjs/
 .ph/ads/
 .php/ad/
@@ -118434,10 +118455,12 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /Ads/Refresher.
 /Ads/adrp0.
 /Ads/bid
-/Ads/bid300a.aspx
-/Ads/bid300b.aspx
+/Ads/bid300a.aspx$subdocument
+/Ads/bid300b.aspx$subdocument
 /Ads/bid300c.aspx
+/Ads/bid300c.aspx$subdocument
 /Ads/bid728.aspx
+/Ads/bid728.aspx$subdocument
 /Ads/sponsor.$stylesheet
 /AdsAjaxRefresh.
 /AdsAsync.
@@ -119302,7 +119325,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad_bomb/*
 /ad_bot.
 /ad_bottom.
-/ad_bottom.jpg
+/ad_bottom.jpg$image
 /ad_bottom.js
 /ad_box.
 /ad_box1.
@@ -119321,7 +119344,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad_choices.
 /ad_choices_
 /ad_code.
-/ad_code.js
 /ad_common.
 /ad_common.js
 /ad_commonside.
@@ -119494,6 +119516,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad_request.php
 /ad_resize.
 /ad_right.
+/ad_right.$subdocument
 /ad_right_
 /ad_rotation.
 /ad_rotator.
@@ -119517,13 +119540,14 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad_show.
 /ad_show?
 /ad_side.
+/ad_side.$~xmlhttprequest
 /ad_sidebar/*
 /ad_sizes=
 /ad_skin/*
 /ad_skin_
 /ad_sky.
 /ad_skyscraper.
-/ad_skyscraper.gif
+/ad_skyscraper.gif$image
 /ad_slideout.
 /ad_slot_
 /ad_slots.
@@ -119659,6 +119683,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adblock_erreur.
 /adblock_gate/images/animated.gif?
 /adblock_logger.
+/adblock_logger.$script
 /adblock_notify.js
 /adblockdetect.
 /adblockdetect/*$~image
@@ -119728,6 +119753,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adcheck.
 /adcheck?
 /adchoice.
+/adchoice.png$image
 /adchoice/*
 /adchoice_
 /adchoices-
@@ -120268,6 +120294,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads-06.
 /ads-07.
 /ads-250.
+/ads-250.$image
 /ads-300-
 /ads-300.
 /ads-5.
@@ -120284,6 +120311,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads-blogs-
 /ads-cch-
 /ads-common.
+/ads-common.$image,script
 /ads-config.
 /ads-foot.
 /ads-footer.
@@ -120599,6 +120627,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads/serve?
 /ads/serveIt/*
 /ads/show.
+/ads/show.$script
 /ads/show/*
 /ads/side-
 /ads/sidebar-
@@ -120732,7 +120761,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads?zone=
 /ads?zone_id=
 /adsAPI.$domain=~snap.com|~snapchat.com
-/adsAPI.js
+/adsAPI.js$script
 /adsDateValidation.
 /adsDesktop.
 /adsEnd.
@@ -120755,6 +120784,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads_banners/*
 /ads_banners/*$image
 /ads_bg.
+/ads_bg.$image
 /ads_bottom.
 /ads_bottom.js
 /ads_bottom_
@@ -120783,6 +120813,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads_ifr.
 /ads_iframe
 /ads_iframe.
+/ads_iframe.$subdocument
 /ads_image/*
 /ads_image/*$image
 /ads_images/*
@@ -120851,7 +120882,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adscontent.
 /adscontent2.
 /adscontrol.
-/adscontrol.js
 /adscontroller.
 /adscontroller.js
 /adscot/*
@@ -120907,6 +120937,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adseperator_
 /adser/*
 /adserv.
+/adserv.$script
 /adserv/*
 /adserv1.
 /adserv2.
@@ -121342,6 +121373,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adv_server.
 /adv_teasers.
 /adv_teasers.js
+/adv_teasers.js$script
 /adv_top.
 /adv_vert.
 /adv_vert.js
@@ -121754,6 +121786,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /api/Video/GetAdsData?
 /api/Video/GetAdsDataList?
 /api/aaaac/list
+/api/ad.$script
 /api/ad/*
 /api/adplogger/*
 /api/ads/*
@@ -121958,6 +121991,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /bannerad2-
 /bannerad3.
 /bannerad3.js
+/bannerad3.js$script
 /bannerad6.
 /bannerad_
 /bannerads-
@@ -122044,10 +122078,15 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /beacon/ads/*
 /beacon/ads?
 /beardeddragon/armadillo.js
+/beardeddragon/armadillo.js$script
 /beardeddragon/drake.js
+/beardeddragon/drake.js$script
 /beardeddragon/gilamonster.js
+/beardeddragon/gilamonster.js$script
 /beardeddragon/tortoise.js
+/beardeddragon/tortoise.js$script
 /beardeddragon/turtle.js
+/beardeddragon/turtle.js$script
 /behaviorads/*
 /bennerad.min.
 /beta-ad.
@@ -122402,7 +122441,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /corpTmall_ShopAd_
 /country_ad.
 /couponAd.
-/couponAd.php
 /cover_ad.
 /coxads/*
 /cp2.gif?*=qc_
@@ -122556,28 +122594,48 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /detail_gg.js
 /detectAds.
 /detroitchicago/anaheim.js
+/detroitchicago/anaheim.js$script
 /detroitchicago/augusta.js
+/detroitchicago/augusta.js$script
 /detroitchicago/boise.js
+/detroitchicago/boise.js$script
 /detroitchicago/denver.js
+/detroitchicago/denver.js$script
 /detroitchicago/gateway.js
+/detroitchicago/gateway.js$script
 /detroitchicago/houston.js
+/detroitchicago/houston.js$script
 /detroitchicago/kenai.js
+/detroitchicago/kenai.js$script
 /detroitchicago/memphis.js
+/detroitchicago/memphis.js$script
 /detroitchicago/minneapolis.js
+/detroitchicago/minneapolis.js$script
 /detroitchicago/portland.js
+/detroitchicago/portland.js$script
 /detroitchicago/raleigh.js
+/detroitchicago/raleigh.js$script
 /detroitchicago/reportads.js
+/detroitchicago/reportads.js$script
 /detroitchicago/rochester.js
+/detroitchicago/rochester.js$script
 /detroitchicago/sidebarwall.js
 /detroitchicago/sidebarwall.js$script
 /detroitchicago/springfield.js
+/detroitchicago/springfield.js$script
 /detroitchicago/stickyfix.js
+/detroitchicago/stickyfix.js$script
 /detroitchicago/tampa.js
+/detroitchicago/tampa.js$script
 /detroitchicago/tulsa.js
+/detroitchicago/tulsa.js$script
 /detroitchicago/tuscon.js
+/detroitchicago/tuscon.js$script
 /detroitchicago/vista.js
+/detroitchicago/vista.js$script
 /detroitchicago/vpp.gif?
 /detroitchicago/wichita.js
+/detroitchicago/wichita.js$script
 /develop/ads_
 /devicead/*
 /dfp-ads.
@@ -122780,7 +122838,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /eroads.
 /eroadvertising.$domain=~eroadvertising.com
 /erobanner.
-/erobanner.js
 /esi/ads/*
 /etology.$domain=~etology.com
 /ettoday/gemini/*
@@ -123133,7 +123190,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /globaladprostyles.
 /globalads-
 /globalbannerad.
-/globals_ps_afc.js
+/globals_ps_afc.js$script
 /gmu-download.oss-
 /gogl_detector$script,domain=meddaily.ru|newsru.com
 /gonggao/gg.js
@@ -123680,7 +123737,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /jquery-ads.
 /jquery-ui.js?166$script,~third-party
 /jquery.ad.
-/jquery.ad.js
+/jquery.ad.js$script
 /jquery.adi.
 /jquery.adi.js
 /jquery.adx.
@@ -123832,6 +123889,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /jspopunder.
 /jspopunder.js
 /jspopunder.min.js
+/jspopunder.min.js$script
 /jstextad.
 /jsui/ads/*
 /jtcashbanners/*
@@ -124204,6 +124262,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /mylayer-ad/*
 /mysimpleads/*
 /mysimpleads/mysa_output.php
+/mysimpleads/mysa_output.php$script
 /mysql/count/*$script,domain=ts.cn
 /myvids/click/*$script,subdocument
 /myvids/mltbn/*$script,subdocument
@@ -124483,8 +124542,11 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /parking_caf_
 /parseForAds.
 /parsonsmaize/abilene.js
+/parsonsmaize/abilene.js$script
 /parsonsmaize/chanute.js
+/parsonsmaize/chanute.js$script
 /parsonsmaize/mulvane.js
+/parsonsmaize/mulvane.js$script
 /parsonsmaize/olathe.js
 /parsonsmaize/olathe.js$script
 /partner-ad-
@@ -124708,11 +124770,10 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /popunder-
 /popunder.
 /popunder.$popup
-/popunder.min.js
 /popunder/*
 /popunder/in/click/*$popup
 /popunder1.
-/popunder1.js
+/popunder1.js$script
 /popunder1000.js$third-party,script
 /popunder1_
 /popunder2.
@@ -124744,7 +124805,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /popup2.js
 /popup3.js
 /popup_ad.
-/popup_ad.js
+/popup_ad.js$script
 /popup_ad.php
 /popup_code.
 /popup_code.php
@@ -124786,19 +124847,25 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /prebid/*
 /prebid/*$script
 /prebid1.
+/prebid1.$script
 /prebid14.js
 /prebid2.
+/prebid2.$script
 /prebid2140.
 /prebid3.
+/prebid3.$script
 /prebid35.
 /prebid4.
+/prebid4.$script
 /prebid5.
+/prebid5.$script
 /prebid6.
 /prebid6.$script
 /prebid7.
+/prebid7.$script
 /prebid8.
 /prebid8.$script
-/prebid9.
+/prebid9.$script
 /prebid?
 /prebidAdcall.
 /prebidLibrary.
@@ -125140,37 +125207,38 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /scn.php?
 /scr/wtixyd.js
 /script-adv-
-/script/aclib.js
+/script/aclib.js$third-party
 /script/ad.$~script
 /script/ads_
-/script/antd.js
+/script/antd.js$third-party
 /script/app_settings.js$third-party
-/script/atg.js
-/script/atga.js
+/script/atg.js$third-party
+/script/atga.js$third-party
 /script/awesome.js
-/script/g0D.js
-/script/g0dL0vesads.js
-/script/intrf.js
-/script/ippg.js
+/script/awesome.js$third-party
+/script/g0D.js$third-party
+/script/g0dL0vesads.js$third-party
+/script/intrf.js$third-party
+/script/ippg.js$third-party
 /script/java.php?$xmlhttprequest
-/script/jeSus.js
-/script/liB1.js
-/script/liB2.js
-/script/naN.js
+/script/jeSus.js$third-party
+/script/liB1.js$third-party
+/script/liB2.js$third-party
+/script/naN.js$third-party
 /script/nasu.js$third-party
-/script/native_render.js
-/script/native_server.js
-/script/npa2.min.js
+/script/native_render.js$third-party
+/script/native_server.js$third-party
+/script/npa2.min.js$third-party
 /script/nrsu.js$third-party
 /script/nwsu.js$third-party
 /script/oas/*
 /script/suurl4.php?$third-party
-/script/suv4r.js
-/script/thankYou.js
-/script/uBlock.js
+/script/suv4r.js$third-party
+/script/thankYou.js$third-party
+/script/uBlock.js$third-party
 /script/ut.js?cb=$third-party
 /script/wait.php?*=$xmlhttprequest
-/script/xxAG1.js
+/script/xxAG1.js$third-party
 /scriptonline.js?uin=
 /scripts/AdService_
 /scripts/ad-
@@ -125393,7 +125461,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /sliderAds.
 /slider_ad.
 /slider_ad.js
-/sliderad.js
+/sliderad.js$script
 /sliderad3.
 /slideshow/ads.
 /slideshowintad?
@@ -125450,6 +125518,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /spc.php
 /spc_fi.php
 /spcjs.php
+/spcjs.php$script
 /spcjs_min.
 /special-ads/*
 /special_ad.
@@ -125634,7 +125703,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /suurl4.php?
 /suurl5.php
 /suv4.js
-/suv5.js
+/suv5.js$third-party
 /svnad/*
 /svr/*.aspx?placeid=$third-party
 /svr/popwin.aspx?$third-party
@@ -125688,6 +125757,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /tanchuang.
 /tapad/*
 /tardisrocinante/austin.js
+/tardisrocinante/austin.js$script
 /tardisrocinante/vitals.js
 /tardisrocinante/vitals.js$script
 /targetingAd.
@@ -126008,7 +126078,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /videoadv.
 /videojs.ads-
 /videojs.sda.
-/videojs.sda.js
+/videojs.sda.js$script
 /videostreaming_ads.
 /videowall-ad.
 /view/ad/*
@@ -126264,7 +126334,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /xpcadshow.
 /xpiads.
 /xpopunder.
-/xpopunder.js
 /xpopup.js
 /xtendmedia.$domain=~xtendmedia.dk
 /xuanfusige.js
@@ -126445,6 +126514,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 ://ads.$popup,domain=~smartnews.com
 ://ads.$~image,domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.business.bell.ca|~ads.cafebazaar.ir|~ads.colombiaonline.com|~ads.comeon.com|~ads.cs.washington.edu|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.finance|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kazakh-zerno.net|~ads.kifli.hu|~ads.knuspr.de|~ads.lapalingo.com|~ads.listonic.com|~ads.lollipod.de|~ads.magalu.com|~ads.mba|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.nc|~ads.nimses.com|~ads.nipr.ac.jp|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.rohlik.cz|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.twitter.com|~ads.typepad.jp|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.watson.ch|~ads.x.com|~ads.yandex|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
 ://ads2.
+://adserver1.
 ://adv.$domain=adv.asahi.com|~adv.asahi.com|~adv.bet|~adv.blue|~adv.chunichi.co.jp|~adv.cincsys.com|~adv.co.it|~adv.cpa-api.ru|~adv.cryptonetlabs.it|~adv.derfunke.at|~adv.design|~adv.digimatix.ru|~adv.ec|~adv.ee|~adv.gg|~adv.hokkaido-np.co.jp|~adv.kompas.id|~adv.lack-girl.com|~adv.mcr.club|~adv.mcu.edu.tw|~adv.michaelgat.com|~adv.msk.ru|~adv.neosystem.co.uk|~adv.peronihorowicz.com.br|~adv.rest|~adv.ru|~adv.tools|~adv.trinet.ru|~adv.ua|~adv.vg|~adv.vn.ua|~adv.works|~adv.yomiuri.co.jp|~advancedradiology.com|~advids.co|~erti.se|~escreverdireito.com|~farapp.com|~forex-tv-online.com|~pracuj.pl|~r7.com|~typeform.com|~welaika.com
 ://adv.$popup,domain=~adv.kompas.id|~adv.lack-girl.com
 ://affiliate.$third-party
