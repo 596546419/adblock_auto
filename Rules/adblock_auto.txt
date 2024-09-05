@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: dZ8IWbm4jbcubm+NyP58SA
+! Checksum: Vj7nU5i7pwObLJkqRVli/g
 ! Title: 混合规则(自动更新)
-! Version: 20240905094041
+! Version: 20240905162828
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-05 09:40:41
-! Total Count: 151751
+! Last modified: 2024-09-05 16:28:28
+! Total Count: 151757
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -59481,6 +59481,7 @@
 ||ortontotlejohn.com^
 ||orts.wixawin.com^
 ||ortwywr.cn^
+||orutvnck.top^
 ||oruxdwhatijun.info^
 ||orxbqsvibjxqvai.com^
 ||oryhic.xyz^
@@ -91264,6 +91265,7 @@
 ||xcelsiusadserver.com^
 ||xcf-bd-js.chuimg.com^
 ||xcgbpsyob.com^
+||xchina.*/ad/
 ||xchina.*/plugins/jquery.modal/
 ||xchina.click/upload/*.webp
 ||xchina.co/plugins/jquery.modal/
@@ -95970,6 +95972,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 1905.com##.zx-pic
 1905.com##.zx-small-pic
 1909.me,8se.me,crxs.me,litu100.xyz,xchina.biz,xchina.co,xchina.fun,xchina.pro,xchina.tv##.push-top
+1909.me,8se.me,crxs.me,xchina.biz,xchina.co##.media
 1909.me,litu100.xyz,xchina.co,xchina.pro##.slider-ad
 192-168-1-1-ip.co,receivesms.co###adresp
 1980-games.com,coleka.com,flash-mp3-player.net,gameslol.net,larousse.com,theportugalnews.com,tolonews.com##.pub
@@ -100229,10 +100232,9 @@ cntronics.com##.ads970-90
 cntronics.com##.cnt-ads90
 cntv.cn##div[class^="tchmk_"]
 cnx-software.com###fixeddbar
-cnx-software.com##.fixedmbar
 cnx-software.com##.ghelpme
 cnx-software.com##.gno
-cnx-software.com##.gsangle
+cnx-software.com##.gsadsad
 cnx-software.com##.gvoodoo
 cnxz.cn###js_focusimg3
 cnxz.cn##.showad
@@ -113223,6 +113225,7 @@ thenokiablog.com##.sidebardirect
 theodysseyonline.com##.distroscale_p2
 theodysseyonline.com##.distroscale_side
 theoldie.co.uk##.placeholder-wrapper
+theonion.com##.block-visibility-hide-medium-screen
 thepaper.cn###head_ask_app_down
 theparisreview.org##.rail-ad
 thepinknews.com##.pn-ad-container
@@ -144706,7 +144709,9 @@ zle.com$script
 ##.push--ad
 ##.push-ad
 ##.push-adv
+##.push-bottom-container[clickmode="cpt"]
 ##.push-item--advertisement
+##.push-slider[clickmode="cpt"]
 ##.pushDownAd
 ##.pushdown-ad
 ##.pushdownAd
@@ -147839,6 +147844,7 @@ zle.com$script
 ##a[href*="top/?token="][href*="&screen_"][target="_blank"]
 ##a[href*="trafficfactory.biz/click/"]
 ##a[href*="www.pssy.xyz"]
+##a[href*="xchina.click/prepare."]
 ##a[href*="xn--dpq21dn8asxam8v16q0j5c.com"]
 ##a[href*="xn--gnr806avi6ad2dt3f2np.com"][target="_blank"]
 ##a[href*="xyz/?token="][href*="&screen_"][target="_blank"]

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: nzV358e4H9UMFt1+/zGPsw
+! Checksum: TGySfqj/pejl9vB1XhGvWw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240905094053
+! Version: 20240905162839
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-05 09:40:53
-! Total Count: 28849
+! Last modified: 2024-09-05 16:28:39
+! Total Count: 28854
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -12529,6 +12529,7 @@
 ||oronwg.xyz^$third-party
 ||orssengseen.com^
 ||ortlisk.top^
+||orutvnck.top^
 ||oryhic.xyz^
 ||orzx.im/Document/recommend/flashpoint.html
 ||orzx.im/Document/union/
@@ -17461,6 +17462,7 @@
 ||xcar.com.cn/dsp/ad
 ||xccadc.com^
 ||xcf-bd-js.chuimg.com^
+||xchina.*/ad/
 ||xchina.*/plugins/jquery.modal/
 ||xchina.click/upload/*.webp
 ||xchina.co/redirect/ad-
@@ -26355,6 +26357,8 @@ zle.com$script
 ##.promtlink_[style="position:relative;width:100%;height:100%;"]
 ##.propa_bottom
 ##.pure-g[onclick*="float"]
+##.push-bottom-container[clickmode="cpt"]
+##.push-slider[clickmode="cpt"]
 ##.qgg_popup_close2
 ##.qpdb + a[href]
 ##.qzdhf
@@ -27021,6 +27025,7 @@ zle.com$script
 ##a[href*="top/?token="][href*="&screen_"][target="_blank"]
 ##a[href*="trafficfactory.biz/click/"]
 ##a[href*="www.pssy.xyz"]
+##a[href*="xchina.click/prepare."]
 ##a[href*="xn--dpq21dn8asxam8v16q0j5c.com"]
 ##a[href*="xn--gnr806avi6ad2dt3f2np.com"][target="_blank"]
 ##a[href*="xyz/?token="][href*="&screen_"][target="_blank"]
