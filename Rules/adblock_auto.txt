@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: EwjlunM0Gy5jQZInc5p/0Q
+! Checksum: Y0wGBmpAZRzLGf+7Cl7ZKw
 ! Title: 混合规则(自动更新)
-! Version: 20240906094046
+! Version: 20240906162819
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-06 09:40:46
-! Total Count: 151873
+! Last modified: 2024-09-06 16:28:19
+! Total Count: 151884
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -161,6 +161,7 @@
 ||0439.com/wtj/homepage/handler/guangg.ashx?ut=classify
 ||0439.com/wtj/homepage/handler/guangg.ashx?ut=topslide
 ||0439.com/wtj/homepage/handler/guangg.ashx?ut=zhuangx
+||04424170.xyz^
 ||045zxnm.com^
 ||0460.com/images/ad/
 ||0460.com/images/banner/
@@ -32646,6 +32647,7 @@
 ||fpzpmx.com^
 ||fq01.shop^
 ||fq02.shop^
+||fq03.shop^
 ||fq67.top^
 ||fqab5xq7qlgt.info^
 ||fqanulluixeis.com^
@@ -45213,6 +45215,7 @@
 ||jy.zhongxues.com^
 ||jy01.shop^
 ||jy04.shop^
+||jy05.shop^
 ||jy135.com/js/pubuliu.
 ||jy135.com^$third-party
 ||jy147a.com^
@@ -50162,6 +50165,7 @@
 ||lrqvmaverkabb.top^
 ||lrqvmaverkjzw.top^
 ||lrtlisl.top^
+||lrutvncl.top^
 ||lrvrayrnqjzjw.top^
 ||lrvrayrnqjzkz.top^
 ||lrwksobdw.com^
@@ -93383,6 +93387,7 @@
 ||yonhelioliskor.com^
 ||yoniskurt.digital^
 ||yonkerhallier.com^
+||yonmewon.com^
 ||yonniefacture.com^
 ||yonsandileer.com^
 ||yoobest.cn^
@@ -98614,6 +98619,8 @@ base64decode.org##.ad_right_top
 based-politics.com###tdi_107
 based-politics.com##.tdi_30
 basschat.co.uk,momondo.at,momondo.be,momondo.ca,momondo.ch,momondo.cl,momondo.co.nz,momondo.co.uk,momondo.co.za,momondo.com,momondo.com.ar,momondo.com.au,momondo.com.br,momondo.com.co,momondo.com.pe,momondo.com.tr,momondo.cz,momondo.de,momondo.dk,momondo.ee,momondo.es,momondo.fi,momondo.fr,momondo.hk,momondo.ie,momondo.in,momondo.it,momondo.mx,momondo.nl,momondo.no,momondo.pl,momondo.pt,momondo.ro,momondo.se,momondo.tw,momondo.ua##div[data-resultid$="-sponsored"]
+batimes.com.ar##.ads-space
+batimes.com.ar##.bg-ads-space
 battlefordsnow.com,cfjctoday.com,chatnewstoday.ca,ckpgtoday.ca,everythinggp.com,everythinglifestyle.ca,farmnewsnow.com,fraservalleytoday.ca,huskiefan.ca,larongenow.com,meadowlakenow.com,nanaimonewsnow.com,northeastnow.com,panow.com,rdnewsnow.com,rocketfan.ca,royalsfan.ca,sasknow.com,vernonmatters.ca##.parallax-breakout
 battlefordsnow.com,cfjctoday.com,chatnewstoday.ca,ckpgtoday.ca,everythinggp.com,huskiefan.ca,larongenow.com,meadowlakenow.com,nanaimonewsnow.com,northeastnow.com,panow.com,rdnewsnow.com,sasknow.com,vernonmatters.ca###banner-header
 battlefordsnow.com,cfjctoday.com,chatnewstoday.ca,everythinggp.com,huskiefan.ca,larongenow.com,meadowlakenow.com,nanaimonewsnow.com,northeastnow.com,panow.com,rdnewsnow.com,sasknow.com,vernonmatters.ca##.midcontent
@@ -99028,6 +99035,7 @@ blackdesert-info.ru##div[class][style*="z-index"][style*="999999;"][style*="back
 blackhaloadultreviews.com,boyfriendtv.com,hentaigasm.com,javjunkies.com,masahub.net,missav.ai,missav.com,missav.ws,missav123.com,missav789.com,myav.com,phun.org,porn-w.org,yespornplease.porn##a[href*="//bit.ly/"]
 blackhatworld.com##.bhw-advertise-link
 blackhatworld.com##.bhw-banners
+blackhatworld.com##.link--external.link > .bbImage
 blasternation.com###xobda
 blastingnews.com###content-banner-dx1-p1
 blastingnews.com##.adv-box-content
@@ -103943,6 +103951,7 @@ gptoday.net##.top-banner-leaderboard
 gpucheck.com##.unitBox
 gq.com##.SavingsUnitedCouponsWrapper-gPnqA-d
 gq.com##.SavingsUnitedCouponsWrapper-humLIe
+gq.com.au##.ffNDsR
 grabcad.com##[ng-if="model.asense"]
 grammar.yourdictionary.com##.revenue-placeholder
 granitegrok.com##.elementor-image > [data-wpel-link="external"]
@@ -105776,6 +105785,8 @@ isekaiscan.com##[href="https://comichub.net/"]
 ishowx.com##.ad1160
 ishuati.com###adsh
 ishuhui.com##.a_xx_d
+isidewith.com##.overlayBG
+isidewith.com##.overlayContent
 isiyuan.net#?##page-list > ul > .layui-row:-abp-has(.ad)
 islamicfinder.org##.pad-xs.box.columns.large-12
 ispreview.co.uk###footer-slot-3
@@ -115692,6 +115703,7 @@ xz7.com###bz-ad-position2 + div
 xz7.com##div[class^="AD_"]
 xzbu.com##div[class^="xueshu-a"]
 y2down.cc##.text-center > a[href="https://loader.to/loader.apk"]
+y2mate.nu,ytmp3.nu###i
 yabiladi.com##.pub2
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
@@ -116215,7 +116227,6 @@ ytbbs.com##.ftop_ad
 ytbbs.com##.ftop_ad_2016
 ytfreedownloader.com##.kl-before-header
 ytmp3.cc###a-320-50
-ytmp3.nu###i
 yts.mx##.aksdj483csd
 yts.mx##.aoiwjs
 yts.mx##.dfskieurjkc23a
