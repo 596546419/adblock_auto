@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Y0wGBmpAZRzLGf+7Cl7ZKw
+! Checksum: jk5cab36pzmZXZuucWHDsA
 ! Title: 混合规则(自动更新)
-! Version: 20240906162819
+! Version: 20240907002855
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-06 16:28:19
-! Total Count: 151884
+! Last modified: 2024-09-07 00:28:55
+! Total Count: 151889
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -34375,6 +34375,7 @@
 ||gesdxashb1.fun^
 ||gesfdashb5.fun^
 ||gessoesbeavers.uno^
+||gesvfvfhhb6.fun^
 ||get-ads.ru^
 ||get-browseprotection.com^
 ||get-click.net^
@@ -49532,6 +49533,7 @@
 ||log.outbrain.com^
 ||log.outbrainimg.com^
 ||log.particlenews.com^
+||log.pdfreaders.net^
 ||log.perfecttitspics.com^
 ||log.pinterest.com^
 ||log.pipeline.datarize.io^
@@ -113821,6 +113823,7 @@ transfermarkt.com##.nENxsZD
 transfermarkt.com##.newsansicht-topspielerprofil
 transfermarkt.com##[src*="https://www.transfermarkt.com/image/"]
 travelpulse.com###ab_container
+travelsupermarket.com##.gptAdUnit__Wrapper-sc-f3ta69-0
 trendhunter.com##.hcamp
 trends.gab.com#?#li.list-group-item:-abp-contains(Sponsored content)
 trendyporn.com#?#.container > div.row:has(> div a[href^="//ptosrd.com/"])
@@ -120059,6 +120062,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adjk.
 /adjoin.
 /adjs.php
+/adjs.php$script
 /adjs/*
 /adjs/*$~image
 /adjs?
@@ -120371,6 +120375,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads-front.min.js
 /ads-frontend.
 /ads-frontend.min.js
+/ads-frontend.min.js$script
 /ads-gpt.
 /ads-header-
 /ads-holder.
@@ -120575,6 +120580,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads/img/*
 /ads/index-
 /ads/index.
+/ads/index.$~xmlhttprequest
 /ads/index/*
 /ads/index/*$~xmlhttprequest,domain=~kuchechina.com
 /ads/index_
@@ -121806,6 +121812,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /amp-connatix-$script
 /amp4ads-
 /amp4ads-host-v0.js
+/amp4ads-host-v0.js$script
 /analytics.js$domain=qunar.com
 /anchorad.
 /ane-popup-banner.js
@@ -124067,7 +124074,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /link?c=$image
 /link?z=$subdocument
 /linkad2.
-/linkad2.jpg
 /linkads.
 /linkadv.
 /linkadv_
@@ -124086,7 +124092,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /liveads.
 /livejasmin.$domain=~livejasmin.com
 /livejasmin2.
-/livejasmin2.jpg
 /livejasmin_
 /livejasminpopupunder.
 /load_ad?
@@ -125515,7 +125520,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /sliderAd/*
 /sliderAds.
 /slider_ad.
-/slider_ad.js
+/slider_ad.js$script
 /sliderad.js$script
 /sliderad3.
 /slideshow/ads.
@@ -125571,6 +125576,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /spacedesc=
 /spark_ad.
 /spc.php
+/spc.php?$script
 /spc_fi.php
 /spcjs.php
 /spcjs.php$script
@@ -125737,7 +125743,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /stuiA004/statics/asd/*
 /stui_ads/xyz456e/*
 /style_ad.
-/style_ad.css
+/style_ad.css$stylesheet
 /styleads2.
 /styles/ad/*
 /styles/ads.
@@ -126215,7 +126221,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /webads.
 /webads.htm
 /webads.jpg
-/webads.js
 /webads/*
 /webads/*$image,domain=~cccc.edu|~meatingplace.com
 /webads_
