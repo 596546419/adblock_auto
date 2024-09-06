@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: MKqpnvuUSMr4SpNdevZM0Q
+! Checksum: EwjlunM0Gy5jQZInc5p/0Q
 ! Title: 混合规则(自动更新)
-! Version: 20240906002811
+! Version: 20240906094046
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-06 00:28:11
-! Total Count: 151827
+! Last modified: 2024-09-06 09:40:46
+! Total Count: 151873
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -82,6 +82,7 @@
 ||004809f9da.com^
 ||004fsdljasd.xyz^
 ||00701059.xyz^
+||00771944.xyz^
 ||007ds.com/js/js/
 ||0083334e84.com^
 ||00857731.xyz^
@@ -629,6 +630,7 @@
 ||1342a.com/js/jquery.js
 ||1350c3.xyz^
 ||136.0.56.196^
+||1363394706.rsc.cdn77.org^
 ||1368999.com^
 ||137.175.69.92^
 ||1377920294.rsc.cdn77.org^
@@ -874,6 +876,7 @@
 ||1905.com/data/js/*.json?pwd=*?fr=videoplay_*&rand=$xmlhttprequest
 ||1909.me/upload/ad/
 ||1915832424.rsc.cdn77.org^
+||1918837748.rsc.cdn77.org^
 ||1919954591.rsc.cdn77.org^
 ||192.151.218.66^$third-party
 ||192.luyouwang.com^
@@ -1594,6 +1597,7 @@
 ||305421ba72.com^
 ||306842.com^
 ||3071caa5ff.com^
+||307ea19306.com^
 ||307i6i7do.de^
 ||308d13be14.com^
 ||30929d3de9.com^
@@ -9829,6 +9833,7 @@
 ||anekaiklan.com^
 ||anemenzemkwkm.top^
 ||anemenznnkaka.top^
+||anentsyshrug.com^
 ||aneorwd.com^
 ||anesfluters.website^
 ||anetkin.biz^
@@ -11968,6 +11973,7 @@
 ||aveugleghettos.top^
 ||avevofipnqobi.com^
 ||avfay.com^
+||avfqvyuqsdph.com^
 ||avgive3431.fun^
 ||avgle.topgirlsdating.com^$domain=avgle.com
 ||avglfookdjuj.com^
@@ -13435,6 +13441,7 @@
 ||bc5c04eefb.com^
 ||bc84617c73.com^
 ||bc98ad.xyz^
+||bcaakxxuf.com^
 ||bcae944449.com^
 ||bcajjtbzmdrl.com^
 ||bcaquzxajka.com^
@@ -15469,6 +15476,7 @@
 ||bnstero.com^
 ||bntxt.com^
 ||bnux.store^
+||bnwmyguuzvk.com^
 ||bnxiorj2a.com^
 ||bnxydwdgr.com^
 ||bny3.cn^
@@ -17126,6 +17134,7 @@
 ||c.jsbgh.cn^
 ||c.jsbgh.cn^$third-party
 ||c.keltis.com^
+||c.kkraw.com^
 ||c.lbsbbw.cn^
 ||c.lbsbbw.cn^$third-party
 ||c.live.com^
@@ -17630,12 +17639,14 @@
 ||capture-api.autopilotapp.com^
 ||capture.condenastdigital.com^
 ||captureleaderdigestion.com^
+||capturescaldsomewhat.com^
 ||capwilyunseen.com^
 ||caqreg.xyz^
 ||car-bidpush.net^
 ||car-cra.sh^
 ||car.pchome.com.tw/iframe/news_iframe.
 ||car.qcmrjx.com^
+||carackirish.shop^
 ||caraganaarborescenspendula.com^
 ||carajareplier.guru^
 ||caraneoutraze.uno^
@@ -24707,6 +24718,7 @@
 ||dfpdz.top^
 ||dfprljx.xyz^
 ||dfpstitialtag.com^
+||dfptcslvqbn.com^
 ||dfryzh.xyz^
 ||dfsd22.com^
 ||dfsdkkka.com^
@@ -26708,6 +26720,7 @@
 ||dthechildren.org^
 ||dtheharityhild.info^
 ||dthepeoplewhoc.org^
+||dthipkts.com^
 ||dti-ranker.com^
 ||dtiserv2.com^
 ||dtjhtp.xyz^
@@ -27814,6 +27827,7 @@
 ||edoshbw.top^
 ||edoumeph.com^
 ||edoumoosseg.com^
+||edpl9v.pro^
 ||edqbparlheuj.com^
 ||edrevenuedur.xyz^
 ||edrone.me^
@@ -30421,6 +30435,7 @@
 ||fa.fpt.shop^
 ||fa77756437.com^
 ||fa9b667e4e.com^
+||faabaytsrygcbvs.com^
 ||faachen.cn^
 ||faaqgje.icu^
 ||fabricwaffleswomb.com^
@@ -30874,6 +30889,7 @@
 ||fbcdn2.com^
 ||fbebmgbiou.com^
 ||fbfec2.xyz^
+||fbfedemjbpungf.com^
 ||fbffdfproxwqi.com^
 ||fbfrbt.xyz^
 ||fbgdc.com^
@@ -34145,6 +34161,7 @@
 ||ged46.xyz^
 ||gedafdshb7.fun^
 ||gedashb112.fun^
+||geddsashb3.fun^
 ||geddshippy.com^
 ||gednra.cn^
 ||gedspecificano.com^
@@ -36169,6 +36186,7 @@
 ||gretaith.com^
 ||gretavilis.com^
 ||gretnsassn.com^
+||grewash1b.fun^
 ||greworganizer.com^
 ||grewquartersupporting.com^
 ||greyersuppl.guru^
@@ -37120,6 +37138,7 @@
 ||haiwainet.cn*/k.js
 ||haiwaiyy.com/B970X90.gif
 ||haiwoubo.com^
+||haixomz.xyz^
 ||haiyinsiwang.com^
 ||haiyuer.com/didi
 ||haiyuer.com/nb.js
@@ -38306,6 +38325,7 @@
 ||hhit.xyz^
 ||hhizcfv.cn^
 ||hhjow.com^
+||hhju87yhn7.top^
 ||hhklc.com^
 ||hhkld.com^
 ||hhlsxp.xyz^
@@ -39196,6 +39216,7 @@
 ||hotapi-va.isnssdk.com^
 ||hotavxxx.com/images/*96
 ||hotbanner.site^
+||hotbqzlchps.com^
 ||hotbuckers.com^
 ||hotclips.mom^
 ||hotclips.online^
@@ -42897,6 +42918,7 @@
 ||itmamoswineer.com^
 ||itmcash.com^
 ||itmsc.cn^*ad0
+||itnhosioqb.com^
 ||itnijtcvjb.xyz^
 ||itnuzleafan.com^
 ||itnxqd.xyz^
@@ -47166,6 +47188,7 @@
 ||kz.cateredjapish.com^
 ||kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes^
 ||kzasoaub.com^
+||kzcayec.icu^
 ||kzcdgja.com^
 ||kzdxpcn.com^
 ||kzeaa.com^
@@ -52505,6 +52528,7 @@
 ||metrics.biddertmz.com^
 ||metrics.biletino.com^
 ||metrics.brightcove.com^
+||metrics.camsoda.com^
 ||metrics.cbn.com^
 ||metrics.cbslocal.com^
 ||metrics.ceneo.pl^
@@ -55927,6 +55951,7 @@
 ||neoffic.com^
 ||neofield.click^
 ||neoftheownouncillo.info^
+||neogallery.xyz^
 ||neokbu.cn^
 ||neon.today^
 ||neonedfilmier.com^
@@ -55948,6 +55973,7 @@
 ||neroom.ru^
 ||neropolicycreat.com^
 ||nervegus.com^
+||nerveheels.com^
 ||nervingbensh.com^
 ||nervous-touch.pro^
 ||nervousclangprobable.com^
@@ -67703,6 +67729,7 @@
 ||reclearsaulge.com^
 ||reclod.com^
 ||recloseclouty.com^
+||recmwgis.com^
 ||recognified.net^
 ||recognisepeaceful.com^
 ||recognisetorchfreeway.com^
@@ -68825,6 +68852,7 @@
 ||rhombusads.com^
 ||rhouseoyopers.info^
 ||rhpjzjqhgz.com^
+||rhrim.com^
 ||rhsorga.com^
 ||rhtysfkaqle.com^
 ||rhubarbmasterpiece.com^
@@ -73151,6 +73179,7 @@
 ||showguide.cn/templets/*/sg-ad.js
 ||showhaotu.$domain=18board.com|18p2p.com
 ||showingdoppia.guru^
+||showjav11.fun^
 ||showkhussak.com^
 ||showmebars.com^
 ||showmeyouradsnow.com^
@@ -74681,6 +74710,7 @@
 ||solfafrate.top^
 ||soliads.io^
 ||soliads.net^
+||soliads.online^
 ||solicitorlaptopfooting.com^
 ||solicitorquite.com^
 ||solicitorviewer.com^
@@ -77863,6 +77893,7 @@
 ||syenergyflexibil.com^
 ||syeniteexodoi.com^
 ||syetmpdktjeor.com^
+||syfroecxkn.com^
 ||sygmtz.com^
 ||syinga.com^
 ||syislob.top^
@@ -80787,6 +80818,7 @@
 ||tnwlpbxyto.com^
 ||tnzjrj.xyz^
 ||to.getnitropack.com^
+||to.torrentfreak.com^
 ||to7cc27p.su^
 ||to8to.com/assets/wap//common/widgets/appGuide/appGuide.
 ||to8to.com/to8to_pc/common/modules/bottom_up_slide/
@@ -81368,6 +81400,7 @@
 ||tpzzdrxnp.com^
 ||tq.cn/floatcard?
 ||tq121.com.cn/j/ad/
+||tqbrnd.xyz^
 ||tqdctl.xyz^
 ||tqdpqq.com^
 ||tqgrrfssodfo.com^
@@ -81657,6 +81690,7 @@
 ||track2.cross-system.com^
 ||track2.dulingo.com^
 ||track2.mycliplister.com^
+||track2.tprg.ru^
 ||track4ref.com^
 ||trackad.cz^
 ||trackad2.com^
@@ -83874,6 +83908,7 @@
 ||udd1i5.zhihu.com^
 ||udderexplosion.com^
 ||udegepq.com^
+||udeias.xyz^
 ||udeoenm.cn^
 ||udetqwj.com^
 ||udeztrb.cn^
@@ -87554,6 +87589,7 @@
 ||vnshoping.com^
 ||vnsshoppe.com^
 ||vntanghanmucvisadebit.com^
+||vnte9urn.click^
 ||vntiki.shop^
 ||vntiki1.com^
 ||vntiki11.com^
@@ -88148,6 +88184,7 @@
 ||vwegihahkos.com^
 ||vwfppr.xyz^
 ||vwhnfwdbf.com^
+||vwhwspngk.com^
 ||vwietcombank.com^
 ||vwinagptucpa.com^
 ||vwl7kia4fzz6.com^
@@ -91876,6 +91913,7 @@
 ||xml-clickurl.com^
 ||xml.affiliate.rakuten.co.jp^
 ||xmladserver.com^
+||xmlap.com^
 ||xmlapiclickredirect.com^
 ||xmlapiclickredirect10102022.com^
 ||xmlfusion.com^
@@ -93730,6 +93768,7 @@
 ||yui-nya.com/wp-content/uploads/2016/12/37011.jpg
 ||yui-nya.com/wp-content/uploads/2016/12/neta370-370.jpg
 ||yuifgh.fun^
+||yuintbradshed.com^
 ||yukariyakumo.cn^
 ||yukkedrodmen.top^
 ||yukonearshot.com^
@@ -95379,6 +95418,7 @@
 ||zztsxepxumxoyw.com^
 ||zztxfj.xyz^
 ||zzuzishy.com^
+||zzwuouqz.com^
 ||zzwzsic.cn^
 ||zzxedr.xyz^
 ||zzxjlr.com^
@@ -119205,7 +119245,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad300.
 /ad300.jpg
 /ad300.js
-/ad300.png
+/ad300.png$image
 /ad300s.
 /ad300ws.
 /ad336.
@@ -119223,6 +119263,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad7.
 /ad728-
 /ad728.
+/ad728.png$image
 /ad728f.
 /ad728f2.
 /ad728home.
@@ -119299,7 +119340,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad_600x160_
 /ad_600x500/*
 /ad_728.
-/ad_728.jpg
+/ad_728.jpg$image
 /ad_728.js
 /ad_728_
 /ad_960x90_
@@ -120388,6 +120429,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads/160.
 /ads/160/*
 /ads/300.
+/ads/300.$subdocument
 /ads/300/*
 /ads/468.
 /ads/468a.
@@ -122559,6 +122601,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /deliver/wr?
 /deliverad/*
 /deliverad/fc.js
+/deliverad/fc.js$script
 /deliverads.
 /deliverjs.nmi?
 /deliversd/*
@@ -124964,6 +125007,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /publicidad/*$~xmlhttprequest
 /publicidad_$~stylesheet
 /publicidade.
+/publicidade.$~xmlhttprequest
 /publicidade/*
 /publicidade/*$~xmlhttprequest
 /publicidades/*
@@ -126274,6 +126318,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /wpadgu-frontend.js
 /wpads/iframe.
 /wpbanners_show.php
+/wpbanners_show.php$script
 /wppas.
 /wppas.min.css
 /wppas.min.js
@@ -148056,6 +148101,7 @@ zle.com$script
 ##a[href^="http://traffic.tc-clicks.com/"]
 ##a[href^="http://trk.globwo.online/"]
 ##a[href^="http://troopsassistedstupidity.com/"]
+##a[href^="http://vnte9urn.click/"]
 ##a[href^="http://wct.link/"]
 ##a[href^="http://www.adultdvdempire.com/?partner_id="][href*="&utm_"]
 ##a[href^="http://www.adultempire.com/unlimited/promo?"][href*="&partner_id="]

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: NtxSiAlIdE5I1VK82Fspvg
+! Checksum: orpkCHF8OOCiBaFXBe9M7g
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240906002822
+! Version: 20240906094058
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-06 00:28:22
-! Total Count: 28856
+! Last modified: 2024-09-06 09:40:58
+! Total Count: 28861
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7845,6 +7845,7 @@
 ||ged46.xyz^
 ||gedafdshb7.fun^
 ||gedashb112.fun^
+||geddsashb3.fun^
 ||gedxssashb8.fun^
 ||geede.info^
 ||geekbang.org/public/serving/
@@ -8162,6 +8163,7 @@
 ||greenxf.com/js/2019/
 ||greenxiazai.com/d/js/v/
 ||greetzebra.com^$third-party
+||grewash1b.fun^
 ||greyinstrument.com^$third-party
 ||gridline.cn^
 ||grihaith.com^
@@ -10574,6 +10576,7 @@
 ||kytbxcl.cn^
 ||kyuwkbd.top^
 ||kyuxym.xyz^
+||kzcayec.icu^
 ||kzelzfnj.xyz^
 ||kzemm.com^
 ||kzepp.com^
@@ -15965,6 +15968,7 @@
 ||tpyerxzn.xyz^
 ||tpzatf.xyz^
 ||tq121.com.cn/j/ad/
+||tqbrnd.xyz^
 ||tqdctl.xyz^
 ||tqdpqq.com^
 ||tqjqripb.xyz^
@@ -16315,6 +16319,7 @@
 ||udajswf.cn^
 ||udb3n.icu^
 ||udd1i5.zhihu.com^
+||udeias.xyz^
 ||udeztrb.cn^
 ||udheansv.com^
 ||udiab1.jianshu.com^
