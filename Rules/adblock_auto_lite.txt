@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: m4egESzkky4vlKurqq9FSg
+! Checksum: z8FNKdaTj71vZLiloZ6VCw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240907002907
+! Version: 20240907093916
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-07 00:29:07
-! Total Count: 28865
+! Last modified: 2024-09-07 09:39:16
+! Total Count: 28870
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3999,6 +3999,7 @@
 ||ayynsdp.xyz^
 ||azdiqsb.cn^
 ||azdxypf.cn^
+||azenco.xyz^
 ||azhibo.*/media/aimg/*.gif
 ||azhibo.*images/leisu.png
 ||aziekg.xyz^
@@ -6704,6 +6705,7 @@
 ||dxg0070.top/img/
 ||dxrnksm.xyz^
 ||dxsjcz.cn^
+||dxwksqa.icu^
 ||dxwpedu.me^$third-party
 ||dxxwdz.xyz^
 ||dy10000.net^
@@ -7536,6 +7538,7 @@
 ||fpjjjh.xyz^
 ||fpninv.xyz^
 ||fpo.xxx/contents/other/player/porngame*.mp4
+||fppcrl.xyz^
 ||fptbdr.xyz^
 ||fptdxkm.com^
 ||fpvdrzx.xyz^
@@ -7724,6 +7727,7 @@
 ||g1.pptair.com^
 ||g1.tagtic.cn^
 ||g1.taijuba.com^
+||g11edashb1.fun^
 ||g2ak5.com^
 ||g2qb.top^
 ||g3f3.com/love/
@@ -11146,6 +11150,7 @@
 ||lznpcwl.xyz^
 ||lzvjtxe.xyz^
 ||lzyysw.com/upload/
+||lzzqfj.xyz^
 ||lzzzjx.xyz^
 ||m.20mao.com/*/BOT.js
 ||m.20mao.com/*/Head.js
