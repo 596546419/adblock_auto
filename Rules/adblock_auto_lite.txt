@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: OM5j34uLH53JtomQMtN/+g
+! Checksum: Da563zDKBACa087aFo1nQQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240907162621
+! Version: 20240908002657
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-07 16:26:21
-! Total Count: 28873
+! Last modified: 2024-09-08 00:26:57
+! Total Count: 28875
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6296,6 +6296,7 @@
 ||dict.youdao.com/vip/privilege/show/V*?bannerType=fanyiTop$domain=fanyi.youdao.com
 ||dieka888.com/app_ad/
 ||diekd.xyz^
+||diendh.xyz^
 ||differentcoat.com^$third-party
 ||difficultfog.com^$third-party
 ||difhil.icu^
@@ -6608,6 +6609,7 @@
 ||ds.ruanwengfa.com^
 ||ds1.kaijia.com^
 ||dsa22.com^
+||dsaewew21.fun^
 ||dsbfpt.xyz^
 ||dsbjdeh.cn^
 ||dsbqvj.xyz^

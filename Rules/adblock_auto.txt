@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: VFCMSbLi25sprFg4TMTj/A
+! Checksum: UJiwZfNV4L2ZfnG1ELgEzQ
 ! Title: 混合规则(自动更新)
-! Version: 20240907162610
+! Version: 20240908002646
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-07 16:26:10
-! Total Count: 151945
+! Last modified: 2024-09-08 00:26:46
+! Total Count: 151973
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4764,6 +4764,7 @@
 ||acdref117.cn^
 ||acdrewrf711.cn^
 ||acdwef114.cn^
+||ace-adserver.com^
 ||ace.naver.com^
 ||aceadsys.net^
 ||acecapprecarious.com^
@@ -24979,6 +24980,7 @@
 ||diekd.xyz^
 ||dien-may-xanh.net^
 ||diench.com^
+||diendh.xyz^
 ||dienlanhdienmayxanh.com^
 ||dienlanhnguyenkim.ctyvn.net^
 ||dienmayxanh-hcm.com^
@@ -26638,6 +26640,7 @@
 ||ds9e.top^
 ||dsa22.com^
 ||dsadghrthysdfadwr3sdffsdaghedsa2gf.xyz^
+||dsaewew21.fun^
 ||dsandmaroons.com^
 ||dsas.danawa.com^
 ||dsb.yahoo.co.jp^
@@ -59831,6 +59834,7 @@
 ||ousseghu.net^
 ||oussouveem.com^
 ||oustoope.com^
+||out.betforce.io^
 ||outabsola.com^
 ||outaipoma.com^
 ||outaiu.cn^
@@ -98602,6 +98606,8 @@ bamxs.com,ddzzxs.com###inglestore
 bangkokpost.com##.ads-related
 bangordailynews.com##.scaip
 bangordailynews.com,michigandaily.com##.wp-block-newspack-blocks-wp-block-newspack-ads-blocks-ad-unit
+bangpremier.com##.presentation-space
+bangpremier.com##.presentation-space-m-panel
 banjiajia.com##.register-box
 banjiajia.com##.register-ten
 banjohangout.org,fiddlehangout.com,flatpickerhangout.com,mandohangout.com,resohangout.com##.premiere-sponsors
@@ -99058,6 +99064,7 @@ bkjia.com##.art_rightad1
 bkjia.com,zol.com.cn##.hot_tj
 blaauwberg.net##.leaderBoardContainer
 blabber.buzz##.topfeed
+blabbermouth.net##.news-single-ads
 blackamericaweb.com,bossip.com,cassiuslife.com,hiphopwired.com,madamenoire.com,newsone.com,tvone.tv###player-wrapper
 blackbeltmag.com###comp-loxyxvrt
 blackbeltmag.com###img_comp-loxyxvrt
@@ -102665,6 +102672,7 @@ feedicons.com###footerboard
 feeds.qq.com,lenovo.com.cn##.game
 feiwan.net##div[id*="_"][style]
 feixiaohao.com##.TopHomeLink
+femalefirst.co.uk##.browsi_home
 feng.com##.ad-aside
 feng.com##.dd305
 feng.com##div[class^="ad_90"]
@@ -103929,7 +103937,7 @@ gosexpod.com##div[class^="zzz-on-video"]
 gosexpod.com##div[style="height:36px;text-align:right"]
 gostream.site##.content-kuss
 gosunoob.com##.vntsvideocontainer
-gosunoob.com,indianexpress.com,liaoningmovie.net,matrixcalc.org,phys.org,roblox.com,spotify.com,video.laxd.com,wccftech.com##.ads-container
+gosunoob.com,indianexpress.com,liaoningmovie.net,matrixcalc.org,philstarlife.com,phys.org,roblox.com,spotify.com,video.laxd.com,wccftech.com##.ads-container
 goterriers.com##.sticky-footer
 gotgayporn.com###ss_bar
 gotgayporn.com##.bottom-af-block
@@ -104550,6 +104558,7 @@ hentaiprn.com###block-27
 hentaiprn.com###custom_html-19
 hentaiprn.com###l_340
 hentaiprn.com##.v-overlay
+hentairider.com##[style="height: 250px;padding:5px;"]
 hentairules.net##.hide_on_mobile
 hentairules.net##a[href^="http://www.gallery-dump.com"]
 hentaistream.com##.othercontent
@@ -110352,6 +110361,7 @@ pornleaks.in##+js(set-constant, ftuappss, true)
 pornleaks.in,flightradar24.com##.noads
 pornleech.io##.block-content-r > div[align="justify"].b-content > table  > tbody > tr > td > div[style="text-align: center;"] > span[style="color: red; font-size: x-small;"]
 pornlib.*##+js(window.open-defuser, about:blank)
+pornlib.com###lcams2
 pornlib.com##.footer_web_adv
 pornlist.tv##iframe[src*="/rek/"]
 pornlist.tv##iframe[src="/myvids/showx.php"]
@@ -111196,6 +111206,7 @@ revolt.tv##.leaderboard_ad
 revolution935.com##.qt-sponsor
 revolutionsoccer.net##.mls-o-adv-container
 revolver.news##.af-slim-promo
+revolvermag.com##.ad-leaderboard-head
 rexporn.com#?#.mainside > div.pitem:has(> div.pitemcont > div.pitem_screen > a[target="_blank"])
 rexxx.com##.bottom_banners
 rfidworld.com.cn###IOTVote2017Ad
@@ -114212,6 +114223,7 @@ ukutabs.com##.wpb_raw_html
 ulmdb.cn
 ulta.com##.CriteoProductRail
 ulta.com#?#li.ProductListingResults__productCard:has(.ProductCard__badge:-abp-contains(Sponsored))
+ultimate-guitar.com##.SiteWideBanner
 ultimate-guitar.com##.js-ab-regular
 ultimate-guitar.com##[href^="https://www.ultimate-guitar.com/send?ug_from=redirect"]
 ultrabookreview.com###postadsside
@@ -119497,7 +119509,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad_frm.
 /ad_function.
 /ad_ga_callback.
-/ad_ga_callback.js
 /ad_generator.
 /ad_generator?
 /ad_gif/*
@@ -119680,7 +119691,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad_title_
 /ad_tools/*
 /ad_top.
-/ad_top.jpg
+/ad_top.jpg$image
 /ad_top.js
 /ad_top/*
 /ad_top_
@@ -119787,6 +119798,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adblock_logger.$script
 /adblock_notify.js
 /adblockdetect.
+/adblockdetect.js$script
 /adblockdetect/*$~image
 /adblockdetection.
 /adblockdetectorwithga.
@@ -119906,7 +119918,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adcore_$domain=~adcore.ch|~adcore.com.au
 /adcount.$domain=~adcount.com|~adcount.fi
 /adcount.js
-/adcount.php
 /adcounter.
 /adcreative.
 /adcreative.$domain=~adcreative.es|~adcreative.nl|~hange.jp
@@ -120287,6 +120298,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adpanelcontent.
 /adpartner.
 /adpartner.min.js
+/adpartner.min.js$script
 /adparts/*
 /adpatch.
 /adpeeps.
@@ -120321,7 +120333,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adpop32.
 /adpopup.
 /adpopup.js
-/adpopup.php
 /adposid/*
 /adpositionsizein-
 /adpreview?$popup
@@ -120417,6 +120428,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads-footer.
 /ads-front.
 /ads-front.min.js
+/ads-front.min.js$script
 /ads-frontend.
 /ads-frontend.min.js
 /ads-frontend.min.js$script
@@ -120475,6 +120487,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads.gif
 /ads.htm$domain=~games.wkb.jp
 /ads.jplayer.
+/ads.jplayer.$stylesheet
 /ads.jsp
 /ads.load.
 /ads.pbs
@@ -120740,6 +120753,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads/skins/*
 /ads/sky_
 /ads/slideup.
+/ads/slideup.$script
 /ads/smi24-
 /ads/spacer.
 /ads/sponsor
@@ -120774,7 +120788,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads/vertical/*
 /ads/vg/*
 /ads/video/*
-/ads/video/controller.php
+/ads/video/*$script
 /ads/video_
 /ads/view.
 /ads/view.php
@@ -120873,6 +120887,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adsImg/*
 /adsManagerV2.
 /adsPlugin/*
+/adsTracking.$script
 /ads_1.
 /ads_160_
 /ads_3.
@@ -121144,7 +121159,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adskyright.
 /adskyscraper.
 /adslide.
-/adslide.js
+/adslide.js$script
 /adslider-
 /adslider/*
 /adslides.
@@ -122964,7 +122979,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /excellence/ads/*
 /exchange_banner_
 /exitpop.
-/exitpop.js
+/exitpop.js$script
 /exitpopunder.
 /exitpopunder.js
 /exitpopunder_
@@ -122996,7 +123011,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /export/ltv_popup.php
 /exports/tour/*$third-party
 /exports/tour_20/*
-/exports/tour_20/index.php
+/exports/tour_20/*$subdocument
 /ext/adform-
 /ext/ads/*
 /ext/prebid
@@ -123160,6 +123175,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /frontend/ads/*
 /frontend_loader$domain=beeg.com|croea.com|hipornvideo.com|imagetwist.com|imgskull.com|kporno.com|picfox.org|picshick.com|picturelol.com|porntube.com|pron.tv|yourporn.sexy
 /frontend_loader.js
+/frontend_loader.js$script
 /frontpagead/*
 /fros_los.js$domain=beeg.com|croea.com|hipornvideo.com|imagetwist.com|imgskull.com|kporno.com|picfox.org|picshick.com|picturelol.com|porntube.com|pron.tv|yourporn.sexy
 /fshow.php?id=$script,third-party
@@ -123852,10 +123868,13 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /jquery.ad.js$script
 /jquery.adi.
 /jquery.adi.js
+/jquery.adi.js$script
 /jquery.adx.
 /jquery.adx.js
+/jquery.adx.js$script
 /jquery.bpopup.$domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrentkitty.lol|torrentkitty.net|torrentkitty.se|torrentkitty.tv
 /jquery.dfp.js
+/jquery.dfp.js$script
 /jquery.modal.$domain=1909.me|8se.me|litu100.xyz|xchina.co|xchina.fun|xchina.pro
 /jquery.openxtag.js
 /jquery.peelback.
@@ -124073,7 +124092,9 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /lazy-ads@
 /lazyad-
 /lazyad-loader.js
+/lazyad-loader.js$script
 /lazyad-loader.min.js
+/lazyad-loader.min.js$script
 /lazyad.
 /lazyload.ads?
 /lbl_ad.
@@ -124398,7 +124419,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /nativeads-
 /nativeads-v2.js
 /nativeads.
-/nativeads.js
+/nativeads.js$script
 /nativeads/*
 /nativeads/script/*$script
 /nativeads_v2/*$domain=its.sex|jav4tv.com|oksex.tv|sexjav.org|sexjav.tv|xhentai.tv
@@ -124431,7 +124452,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /new-client/ads.
 /new/ad/*
 /new/ads/*
-/new/floatadv.js
+/new/floatadv.js$script
 /new/yinghua*/top.js$third-party,script
 /new/yinghuacd*/bottom.js$third-party,script
 /newAd/*
@@ -124640,6 +124661,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /pageear_
 /pagepeel-
 /pagepeel.
+/pagepeel.$~xmlhttprequest
 /pagepeel/*
 /pagepeel_
 /pagepeelads.
@@ -124690,6 +124712,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /pbjs-*.js
 /pbjsandwich-
 /pbjsandwich.
+/pbjsandwichdirecta9-$script
 /pc/Tpl/baibaipc//js/*
 /pc/Tpl/baibaipc/js/*
 /pc/ads.
@@ -125125,7 +125148,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /r/t1/*$subdocument,third-party
 /r/video/*$domain=youxi.baidu.com
 /r_ads/*
-/rad_singlepageapp.js
+/rad_singlepageapp.js$script
 /radioAdEmbed.
 /radioAdEmbedGPT.
 /radioadembedgenre.
@@ -125566,7 +125589,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /sl/assetlisting/?
 /slafc.js
 /slide_in_ads_
-/slide_in_ads_close.gif
+/slide_in_ads_close.gif$image
 /slideadverts/*
 /slideinad.
 /slideoutad.
@@ -125585,6 +125608,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /slot/dfp/*
 /smalAds.
 /small_ad.
+/small_ad.$image,domain=~eh-ic.com
 /small_ad_
 /small_ads/*
 /smallad-
@@ -125777,7 +125801,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /stickyad.js
 /stickyad2.
 /stickyads.
-/stickyads.js
+/stickyads.js$script
 /stn-player.
 /stn-player/*
 /stocksad.
@@ -125819,6 +125843,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /suurl4.php?
 /suurl5.php
 /suv4.js
+/suv4.js$third-party
 /suv5.js$third-party
 /svnad/*
 /svr/*.aspx?placeid=$third-party
@@ -125847,11 +125872,14 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /tabads/*
 /taboola-footer.
 /taboola-footer.js
+/taboola-footer.js$script
 /taboola-header.
 /taboola-header.js
+/taboola-header.js$script
 /taboolaArticle.
 /taboolaSection.
 /taboola_7.4.1.js
+/taboola_8.9.1.js$script
 /taboola_ads.js
 /taboola_header.
 /taboola_header.js
@@ -126206,7 +126234,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /view_banner.
 /view_banner.php$image
 /viewad.
-/viewad.asp
 /viewad/*
 /viewad?
 /viewbannerad.
@@ -126631,6 +126658,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 ://ads.$~image,domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.business.bell.ca|~ads.cafebazaar.ir|~ads.colombiaonline.com|~ads.comeon.com|~ads.cs.washington.edu|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.finance|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kazakh-zerno.net|~ads.kifli.hu|~ads.knuspr.de|~ads.lapalingo.com|~ads.listonic.com|~ads.lollipod.de|~ads.magalu.com|~ads.mba|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.nc|~ads.nimses.com|~ads.nipr.ac.jp|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.rohlik.cz|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.twitter.com|~ads.typepad.jp|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.watson.ch|~ads.x.com|~ads.yandex|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
 ://ads2.
 ://adserver1.
+://adsserver.
 ://adv.$domain=adv.asahi.com|~adv.asahi.com|~adv.bet|~adv.blue|~adv.chunichi.co.jp|~adv.cincsys.com|~adv.co.it|~adv.cpa-api.ru|~adv.cryptonetlabs.it|~adv.derfunke.at|~adv.design|~adv.digimatix.ru|~adv.ec|~adv.ee|~adv.gg|~adv.hokkaido-np.co.jp|~adv.kompas.id|~adv.lack-girl.com|~adv.mcr.club|~adv.mcu.edu.tw|~adv.michaelgat.com|~adv.msk.ru|~adv.neosystem.co.uk|~adv.peronihorowicz.com.br|~adv.rest|~adv.ru|~adv.tools|~adv.trinet.ru|~adv.ua|~adv.vg|~adv.vn.ua|~adv.works|~adv.yomiuri.co.jp|~advancedradiology.com|~advids.co|~erti.se|~escreverdireito.com|~farapp.com|~forex-tv-online.com|~pracuj.pl|~r7.com|~typeform.com|~welaika.com
 ://adv.$popup,domain=~adv.kompas.id|~adv.lack-girl.com
 ://affiliate.$third-party
