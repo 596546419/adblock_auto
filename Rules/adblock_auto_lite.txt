@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: z8FNKdaTj71vZLiloZ6VCw
+! Checksum: OM5j34uLH53JtomQMtN/+g
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240907093916
+! Version: 20240907162621
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-07 09:39:16
-! Total Count: 28870
+! Last modified: 2024-09-07 16:26:21
+! Total Count: 28873
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -426,6 +426,7 @@
 ||2114.com/zb_users/script/advertise.js
 ||211600.com/data/attachment/portal/
 ||211xd.com/js
+||212ehae.fun^
 ||217hs.com/js/jquery.js
 ||21edu8.com/js/mymoney/
 ||21sexturycash.com^
@@ -4778,6 +4779,7 @@
 ||brtlisv.top^
 ||brtzgnd.xyz^
 ||bruisebaseball.com^$third-party
+||brutvncv.top^
 ||brzfqq.com^
 ||bs.baidu.com/app-ads%
 ||bsanciv.top^
@@ -18277,6 +18279,7 @@
 ||yunzuowen.com^$third-party
 ||yupoo.com/dapenti/5cfa8673/c6045c69.jpeg
 ||yupov6ks.icu^
+||yuqmok.xyz^
 ||yurti.cyou^
 ||yuske2.xyz^
 ||yutew.cc^$third-party
