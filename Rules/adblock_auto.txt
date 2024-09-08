@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: UJiwZfNV4L2ZfnG1ELgEzQ
+! Checksum: uFeMFwCn7bp0stRCv8UgNA
 ! Title: 混合规则(自动更新)
-! Version: 20240908002646
+! Version: 20240908094719
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-08 00:26:46
-! Total Count: 151973
+! Last modified: 2024-09-08 09:47:19
+! Total Count: 151990
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3400,6 +3400,7 @@
 ||884352.com^
 ||88448.com/images/appkai980x100.gif
 ||884de19f2b.com^
+||88545539.xyz^
 ||885741.com^
 ||885842.com^
 ||8861198.com^
@@ -26639,6 +26640,7 @@
 ||ds7hds92.de^
 ||ds9e.top^
 ||dsa22.com^
+||dsad234.fun^
 ||dsadghrthysdfadwr3sdffsdaghedsa2gf.xyz^
 ||dsaewew21.fun^
 ||dsandmaroons.com^
@@ -53263,6 +53265,7 @@
 ||mlatrmae.net^
 ||mlazada.com^
 ||mlb.did.ijinshan.com^
+||mlcbgw.xyz^
 ||mlclick.com^
 ||mlcuzee.cn^
 ||mldfckinkpyhwk.com^
@@ -95819,7 +95822,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 126.com,163.com##.gWel-promt
 1280wnam.com##a[href^="http://www.milwaukeezoo.org/visit/animals/"]
 1280wnam.com##a[href^="https://wistatefair.com/fair/tickets/"]
-12news.com,9news.com,9to5google.com,9to5mac.com,aad.org,advfn.com,all3dp.com,allaboutcookies.org,allnovel.net,amny.com,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,biznews.com,bolavip.com,businessinsider.com,cbs8.com,cc.com,ccjdigital.com,computerworld.com,coomer.party,coomer.su,dailytrust.com,delish.com,driven.co.nz,dutchnews.nl,ecr.co.za,electrek.co,empireonline.com,engineeringnews.co.za,equipmentworld.com,etcanada.com,euromaidanpress.com,fastcompany.com,footyheadlines.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,globalspec.com,gmanetwork.com,grammarbook.com,hbr.org,highdefdigest.com,historynet.com,howstuffworks.com,huffpost.com,ifoodie.tw,insidehook.com,insider.com,intouchweekly.com,kemono.party,kemono.su,khou.com,koat.com,ktvu.com,lifeandstylemag.com,longislandpress.com,macstories.net,mail.com,mangakakalot.app,memuplay.com,metro.us,metrophiladelphia.com,minecraftforum.net,miningweekly.com,mixed-news.com,mobilesyrup.com,modernhealthcare.com,msnbc.com,my9nj.com,myfitnesspal.com,namemc.com,nbcnews.com,newrepublic.com,newtalk.tw,nzherald.co.nz,oneesports.gg,opb.org,outkick.com,pansci.asia,papermag.com,phbzj.com,physiology.org,pics-x.com,pinflix.com,pixiv.net,punchng.com,qns.com,realsport101.com,reason.com,refinery29.com,roadandtrack.com,scroll.in,sdhentai.com,seattletimes.com,slideshare.net,songkick.com,sportskeeda.com,thebaltimorebanner.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,themarketherald.ca,thenationonlineng.net,thenewstack.io,tmz.com,toofab.com,tool.lu,uploadvr.com,urlgalleries.net,usmagazine.com,vanguardngr.com,wildtangent.com,wogx.com,worldsoccertalk.com,wral.com##.ad-container
+12news.com,9news.com,9to5google.com,9to5mac.com,aad.org,advfn.com,all3dp.com,allaboutcookies.org,allnovel.net,amny.com,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,biznews.com,bolavip.com,businessinsider.com,cbs8.com,cc.com,ccjdigital.com,computerworld.com,coomer.party,coomer.su,dailytrust.com,delish.com,driven.co.nz,dutchnews.nl,ecr.co.za,electrek.co,empireonline.com,engineeringnews.co.za,equipmentworld.com,etcanada.com,euromaidanpress.com,fastcompany.com,footyheadlines.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,globalspec.com,gmanetwork.com,grammarbook.com,greatbritishchefs.com,hbr.org,highdefdigest.com,historynet.com,howstuffworks.com,huffpost.com,ifoodie.tw,insidehook.com,insider.com,intouchweekly.com,kemono.party,kemono.su,khou.com,koat.com,ktvu.com,lifeandstylemag.com,longislandpress.com,macstories.net,mail.com,mangakakalot.app,memuplay.com,metro.us,metrophiladelphia.com,minecraftforum.net,miningweekly.com,mixed-news.com,mobilesyrup.com,modernhealthcare.com,msnbc.com,my9nj.com,myfitnesspal.com,namemc.com,nbcnews.com,newrepublic.com,newtalk.tw,nzherald.co.nz,oneesports.gg,opb.org,outkick.com,pansci.asia,papermag.com,phbzj.com,physiology.org,pics-x.com,pinflix.com,pixiv.net,punchng.com,qns.com,realsport101.com,reason.com,refinery29.com,roadandtrack.com,scroll.in,sdhentai.com,seattletimes.com,slideshare.net,songkick.com,sportskeeda.com,thebaltimorebanner.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,themarketherald.ca,thenationonlineng.net,thenewstack.io,tmz.com,toofab.com,tool.lu,uploadvr.com,urlgalleries.net,usmagazine.com,vanguardngr.com,wildtangent.com,wogx.com,worldsoccertalk.com,wral.com##.ad-container
 12tomatoes.com###footboard
 12tomatoes.com,allwomenstalk.com,bloomberg.com,datpiff.com,koreaboo.com,logotv.com,newcartestdrive.com,news.sky.com,news.tvguide.co.uk,onthesnow.ca,onthesnow.co.nz,onthesnow.co.uk,onthesnow.com,onthesnow.com.au,penny-arcade.com,postyourpuss.com,publishersweekly.com,skysports.com,stuff.tv,thedrinknation.com,theserverside.com,whitepages.ae###leaderboard
 131400.best,vikacg.com,vikacg.xyz##a[href^="http"] > img[src*="/assets/main/"]
@@ -98228,7 +98231,7 @@ avclub.com##.htlad-sidebar_rectangle
 avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,qz.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##div[class^="bxm4mm-"]
 avclub.com,deadspin.com,gizmodo.com,jalopnik.com,kotaku.com,theonion.com,theroot.com,thetakeout.com##.japmJB
 avclub.com,deadspin.com,gizmodo.com,jalopnik.com,kotaku.com,theonion.com,theroot.com,thetakeout.com##.related-stories-inset-video
-avclub.com,gadgetsnow.com,jezebel.com,nationaljeweler.com,pastemagazine.com,splinter.com,theonion.com##.dfp
+avclub.com,gadgetsnow.com,infosecurity-magazine.com,jezebel.com,nationaljeweler.com,pastemagazine.com,splinter.com,theonion.com##.dfp
 avclub.com,gizmodo.com,jalopnik.com,kotaku.com,theonion.com,theroot.com##[class] > div:has(> [is="bulbs-dfp"])
 avclub.com,splinter.com##.htlad-above_logo
 avclub.com,splinter.com##.htlad-bottom_rectangle
@@ -99082,10 +99085,12 @@ blastingnews.com##.adv-box-content
 blbclassic.org##.sponsorZone
 bleachernation.com##.leadboard
 bleachernation.com##div[style^="margin: 25px 0px 35px 0px;"]
+bleedingcool.com###bottom_leaderboard2
 bleedingcool.com###bottom_medium_rectangle
 bleedingcool.com###middle_medium_rectangle
 bleedingcool.com###top_medium_rectangle
 bleedingcool.com###top_spacer
+bleedingcool.com##.med_rect_wrapper
 bleedingcool.com##.post_content_spacer
 bleedingcool.com##.pw-in-article
 bleedingcool.com##.sidebar_spacer
@@ -105545,6 +105550,7 @@ insideevs.com##.minutely_video_wrap
 insideevs.com,motor1.com##.apb
 insidehighered.com##.pane-dfp
 insidehpc.com##.featured-728x90-ad
+insidehpc.com##.widget_download_manager_widget
 insidemydream.com##.afxshop
 insiderintelligence.com##.min-h-top-banner
 insta-stories-viewer.com##.context
@@ -107164,6 +107170,7 @@ lionsrugby.co.za,motocity.com.tw###rotator
 listland.com##a[href^="https://shareasale.com/r.cfm?"]
 lite105.com##a[href^="https://www.pellabranch.com/"]
 litecoin-faucet.com##.sticky-top1
+literaryreview.co.uk##.tall-advert
 literotica.com###b-top
 lithub.com##.Custom_Ads
 lithub.com##.insert-post-ads
@@ -112592,6 +112599,7 @@ statsy.net
 stc.gov.cn###mov
 steachs.com##.sidebar:first-child
 stealthoptional.com##.mediavine_blockAds
+steam.design##a.profile_video[href^="https://duobot.com/"]
 steamanalyst.com##.row.tpbcontainer
 steamanalyst.com##.tpbcontainerr
 steamanalyst.com##[href^="https://static.steamanalyst.com/steam/delivery/"]
@@ -120178,8 +120186,8 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adman_
 /admanager.$~object,domain=~admanager.alzura.com|~admanager.google.com
 /admanager.$~object,~xmlhttprequest,domain=~admanager.alzura.com|~admanager.google.com|~admanager.line.biz|~admanager.opera.com|~admanager.roku.com|~admanager.sevio.app
-/admanager.js
-/admanager.min.js
+/admanager.js$script
+/admanager.min.js$script
 /admanager/*$~object,domain=~admanager.line.biz|~blog.google|~konograma.com|~sevio.com
 /admanager3.
 /admanager_$domain=~konograma.com
@@ -120231,6 +120239,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /admin/sponsors/*
 /adminibanner2.
 /admitad.js
+/admitad.js$script
 /admixer-
 /admixer_
 /admob.$domain=~google.com
@@ -122246,6 +122255,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /blockadblock.$script,xmlhttprequest
 /blockblock.jquery.
 /blockblock/blockblock.jquery.js
+/blockblock/blockblock.jquery.js$script
 /blocks/ads/*
 /blog/ads/*
 /blog/showdetail.php?z=$script,third-party
@@ -122293,7 +122303,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /bottom_adv.
 /bottom_adv_
 /bottomad.
-/bottomad.png
+/bottomad.png$image
 /bottomad/*
 /bottomads.
 /bottomads.js
@@ -122697,16 +122707,21 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /delivery/afr.
 /delivery/ag.
 /delivery/ag.php
+/delivery/ag.php$script,subdocument
 /delivery/al.php
 /delivery/apu.php
+/delivery/apu.php$script,subdocument
 /delivery/avw.
 /delivery/avw.php
+/delivery/avw.php$script,subdocument
 /delivery/fc.
 /delivery/fc.php
+/delivery/fc.php$script,subdocument
 /delivery/fl.
 /delivery/hb.php
 /delivery/jsonp/?zoneid=
 /delivery/lg.php
+/delivery/lg.php$script,subdocument
 /delivery/lg3.
 /delivery/spc.
 /delivery/spc.php
@@ -124880,7 +124895,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /pop.go?ctrlid=$popup
 /pop.js$domain=doramasflix.co|booru.eu|booru.xxx|erotic-beauties.com|hardsex.cc|rule34.top|sex-movies.biz|tube18.sexy|xvideos.name
 /pop2.js
-/pop2.js?r=
+/pop2.js?r=$script
 /pop?tid=
 /pop_8/*$domain=its.sex|jav4tv.com|oksex.tv|sexjav.org|sexjav.tv|xhentai.tv
 /pop_8_2.js
@@ -124939,6 +124954,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /popup/adblocker
 /popup/log|$~third-party,xmlhttprequest
 /popup2.js
+/popup2.js$script
 /popup3.js
 /popup_ad.
 /popup_ad.js$script
@@ -125885,6 +125901,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /taboola_header.js
 /taboolaarticle.min.js
 /tabu/display.js
+/tabu/display.js$script
 /tag-adv.
 /tag_adv/*
 /tag_oas.
