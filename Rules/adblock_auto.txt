@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: DvsZs06L7N4p+6enZiGy/w
+! Checksum: R3EM1miSjFqtpQ7FZvR+0A
 ! Title: 混合规则(自动更新)
-! Version: 20240909094821
+! Version: 20240909163544
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-09 09:48:21
-! Total Count: 152059
+! Last modified: 2024-09-09 16:35:44
+! Total Count: 152065
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -674,6 +674,7 @@
 ||1503.net/code/
 ||1512a.com^
 ||1516shop.com^
+||15272973.xyz^
 ||1527ego.com^
 ||1529462937.rsc.cdn77.org^
 ||152media.cloud^
@@ -18108,6 +18109,7 @@
 ||cdhfvrug.xyz^
 ||cdhhbyy.cn^
 ||cdhvrrlyrawrxqd.xyz^
+||cdickef.top^
 ||cdiklrgwisnu.com^
 ||cdilm.cn^
 ||cdipsumf.top^
@@ -97634,6 +97636,7 @@ alsoporn.com##.alsoporn_player-spots
 alt-codes.net###copyModal .modal-body
 altchar.com##div[style^="height:280px;"]
 alternativeto.net##.atf2
+alternativeto.net##.bannerLink
 alternativeto.net##.divLeaderboardLove
 alternativeto.net##[class^="AdsenseAd"]
 alternativeto.net##div[class^="GamAds_"]
@@ -98149,6 +98152,7 @@ auctionzip.com##.az-header-ads-container
 audacy.com##.component--google-ad-manager
 audi-sport.net,beermoneyforum.com,clubsearay.com,forums.sailinganarchy.com,geekdoing.com,skitalk.com,sportfishingbc.com,studentdoctor.net##.samBannerUnit
 audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
+audiobacon.net##.audio-widget
 audiobacon.net##.audio-widget.et_pb_widget
 audiobookbay.is##[href="/ddeaatr"]
 audiobookbay.is##[href="/ddldatr"]
@@ -101216,6 +101220,7 @@ darknessporn.com,familyporner.com,freepublicporn.com,pisshamster.com,punishworld
 darknessporn.com,familyporner.com,freepublicporn.com,pisshamster.com,punishworld.com,xanimu.com##div[id^="native-boxes"]
 darknessporn.com,familyporner.com,freepublicporn.com,pisshamster.com,punishworld.com,xanimu.com##div[id^="related-boxes-footer"]
 darko.audio##.audio_widget
+darko.audio##.studio_widget
 darko.audio##.ubm_widget
 darkreader.org##.adblock-pro
 darkreader.org##.ddgr
@@ -108029,8 +108034,8 @@ miobt.com##.gg_canvas
 miobt.com##.gg_canvas-hidden
 miohentai.com##.new-ntv
 mir.az##.bannerreklam
-miragenews.com##.attachment-wt450_250
 miragenews.com##.hide-in-mob
+miragenews.com##.img-450_250
 miragenews.com##.rem-i-s
 mirror.co.uk###roffers-top
 mirror.co.uk##.shopwindow-adslot
@@ -113060,6 +113065,7 @@ techspot.com##.es3s
 techspot.com##.google-ad
 techspot.com##.oneText
 techspot.com##.onejob
+techspot.com##.zenerr
 techspree.net##.hustle-popup
 techug.com##.mug
 techug.com##a[href*="/222.html"]
@@ -126740,7 +126746,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 ://ads.
 ://ads.$domain=~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.bigbom.com|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.dollartree.com|~ads.elcarado.com|~ads.gambinoslot.com|~ads.google.com|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kazakh-zerno.net|~ads.lapalingo.com|~ads.listonic.com|~ads.lordlucky.com|~ads.magalu.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.mst.dk|~ads.nc|~ads.nimses.com|~ads.nipr.ac.jp|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.route.cc|~ads.safi-gmbh.ch|~ads.sk|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.taboola.com|~ads.tiktok.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.watson.ch|~ads.xtribeapp.com|~ads.yahoosmallbusiness.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
 ://ads.$popup,domain=~smartnews.com
-://ads.$~image,domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.business.bell.ca|~ads.cafebazaar.ir|~ads.colombiaonline.com|~ads.comeon.com|~ads.cs.washington.edu|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.finance|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kazakh-zerno.net|~ads.kifli.hu|~ads.knuspr.de|~ads.lapalingo.com|~ads.listonic.com|~ads.lollipod.de|~ads.magalu.com|~ads.mba|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.nc|~ads.nimses.com|~ads.nipr.ac.jp|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.rohlik.cz|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.twitter.com|~ads.typepad.jp|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.watson.ch|~ads.x.com|~ads.yandex|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
+://ads.$~image,domain=~ads.8designers.com|~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.amazon|~ads.apple.com|~ads.atmosphere.copernicus.eu|~ads.band|~ads.bestprints.biz|~ads.bikepump.com|~ads.brave.com|~ads.buscaempresas.co|~ads.business.bell.ca|~ads.cafebazaar.ir|~ads.colombiaonline.com|~ads.comeon.com|~ads.cs.washington.edu|~ads.cvut.cz|~ads.doordash.com|~ads.dosocial.ge|~ads.dosocial.me|~ads.elevateplatform.co.uk|~ads.finance|~ads.google.cn|~ads.google.com|~ads.gree.net|~ads.gurkerl.at|~ads.harvard.edu|~ads.instacart.com|~ads.jiosaavn.com|~ads.kaipoke.biz|~ads.kazakh-zerno.net|~ads.kifli.hu|~ads.knuspr.de|~ads.lapalingo.com|~ads.listonic.com|~ads.lollipod.de|~ads.luarmor.net|~ads.magalu.com|~ads.mba|~ads.mercadolivre.com.br|~ads.mgid.com|~ads.microsoft.com|~ads.midwayusa.com|~ads.mobilebet.com|~ads.mojagazetka.com|~ads.msstate.edu|~ads.mst.dk|~ads.mt|~ads.nc|~ads.nimses.com|~ads.nipr.ac.jp|~ads.odesbuild.com|~ads.olx.pl|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.rohlik.cz|~ads.route.cc|~ads.safi-gmbh.ch|~ads.scotiabank.com|~ads.selfip.com|~ads.shopee.cn|~ads.shopee.co.th|~ads.shopee.com.br|~ads.shopee.com.mx|~ads.shopee.com.my|~ads.shopee.kr|~ads.shopee.ph|~ads.shopee.pl|~ads.shopee.sg|~ads.shopee.tw|~ads.shopee.vn|~ads.smartnews.com|~ads.snapchat.com|~ads.socialtheater.com|~ads.spotify.com|~ads.studyplus.co.jp|~ads.taboola.com|~ads.tiktok.com|~ads.twitter.com|~ads.typepad.jp|~ads.us.tiktok.com|~ads.viksaffiliates.com|~ads.vk.com|~ads.watson.ch|~ads.x.com|~ads.yandex|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
 ://ads2.
 ://adserver1.
 ://adserving.
