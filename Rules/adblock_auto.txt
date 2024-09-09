@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: R3EM1miSjFqtpQ7FZvR+0A
+! Checksum: 8IR6pxaulncDWmtFlhEaQQ
 ! Title: 混合规则(自动更新)
-! Version: 20240909163544
+! Version: 20240910002829
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-09 16:35:44
-! Total Count: 152065
+! Last modified: 2024-09-10 00:28:29
+! Total Count: 152084
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1224,6 +1224,7 @@
 ||230book.net/js/sweetcake.js
 ||231dasda3dsd.aniyae.com^
 ||2324av.com/zz/
+||2325fdrf.fun^
 ||2329.ink^
 ||233.com/js/side.htm
 ||2345.com/cnxh/
@@ -5254,6 +5255,7 @@
 ||ad.reklam.xyz^
 ||ad.reklamport.com^
 ||ad.reklm.com^
+||ad.responsad1.space^
 ||ad.reyazilim.com^
 ||ad.sacitaslan.com^
 ||ad.search.nate.com^
@@ -27225,6 +27227,7 @@
 ||dzkwj0y.xyz^
 ||dzletao.com^
 ||dzliege.com^
+||dzlndygh.com^
 ||dzmanga.com/s/page_runtime_v5.js
 ||dzoavjjfet.com^
 ||dzooo.cn^
@@ -37689,6 +37692,7 @@
 ||hcbjuiira.com^
 ||hcbjwt.com^
 ||hcckkyoo.com^
+||hccoeutg.com^
 ||hcdjy.xyz^
 ||hcdmhyq.com^
 ||hcegdxb.cn^
@@ -45453,6 +45457,7 @@
 ||kaixin001.com.cn/js/cpm-
 ||kaixinjiehun.com^$third-party
 ||kaiyiluye.com^
+||kaiyuan308.vip^
 ||kaizenplatform.net^
 ||kaizentraffic.com^
 ||kaizzz.xyz^
@@ -97245,7 +97250,7 @@ abcya.com##.a-skyscraper
 abergavennychronicle.com,tenby-today.co.uk##.MPUstyled__MPUWrapper-sc-1cdmm4p-0
 abergavennychronicle.com,tenby-today.co.uk##.TopBannerstyled__Wrapper-sc-x2ypns-0
 abjav.com,aniporn.com##.left > section
-abjav.com,aniporn.com,bdsmx.tube,hclips.com,hotmovs.com,javdoe.fun,javdoe.sh,javtape.site,manysex.com,manysex.tube,onlyporn.tube,porntop.com,terminal.hackernoon.com##.right
+abjav.com,aniporn.com,bdsmx.tube,hclips.com,hotmovs.com,javdoe.fun,javdoe.sh,javtape.site,manysex.com,manysex.tube,onlyporn.tube,porntop.com,terminal.hackernoon.com,xnxx.army##.right
 abjav.com,bdsmx.tube##.wrapper > section
 ablesci.com##.able-container-body-right > div.fly-panel:has(> div[style="text-align: center; padding: 5px"] > img[src$="-alipay-hongbao.png"])
 ablesci.com##.fly-panel img[src*="-alipay-autumn-hongbao.png"]
@@ -101275,6 +101280,7 @@ dcard.tw#?#div[data-index] > article:contains(贊助活動)
 dcard.tw#?#div[role="main"] div[class^="atm_26_"]:has(> div[class^="atm_26_"] > div[style="min-height:90px"] > div[id^="div-gpt-ad"])
 dcfever.com##.col-md-right > div[style^="margin-bottom: 20px; text-align: center;"]
 dcfever.com##.container > .row > .col-md-12[style^="margin-top:"][style*="text-align: center; width:"][style*="min-height:"]
+dcfever.com##.trading_top_banner
 dcloud.net.cn##.aw-ad-item
 dcnewsnow.com,ktla.com###bestreviews-widget
 ddav.org###adv-2
@@ -102487,6 +102493,7 @@ eviemagazine.com##.css-9n98hk
 eviemagazine.com##.css-ipk9pc
 eviemagazine.com##.css-re7z9l
 evilbeetgossip.com,kyis.com,thesportsanimal.com,wild1049hd.com,wky930am.com##.textwidget
+evreporter.com##.widget_media_image:not(:has(a[href^="https://evreporter.com/"]))
 ew.com###article__primary-video-jw_1-0
 eweek.com###bottom-footer-fixed-slot
 eweiqi.com##.guoqing
@@ -110270,6 +110277,8 @@ pornfind.org,pornbest.org,ptt.sex,pornlulu.com##div[class^="col-"][style] > a[ta
 pornfind.org,pornbest.org,ptt.sex,pornlulu.com##img[src*="/images/friend"]
 pornflip.com##.container > .aside-emb
 pornflip.com#$#.bottom-banner > .a-label { visibility: hidden!important; }
+pornflix.cc##.sbar
+pornflix.cc,xnxx.army##.global-army
 pornflixhd.com##.custom-html-widget > a[href][rel="noopener noreferrer"] > img
 pornfree.xxx##.clip-sidebar
 pornfree.xxx,realpornclips.com##.main-aside
@@ -115772,6 +115781,7 @@ xunyingwang.com###adModalLabel
 xvideo.cc##+js(set-constant, poped, true)
 xvideos.com###video-right
 xvideos.com###video-sponsor-links
+xvideos.com##.video-ad
 xvideos.com##[id^="ads-"]
 xvideos.com,xvideos.es##.player-video.xv-cams-block
 xvideos.name###publicidad-video
@@ -118069,6 +118079,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 .php?id=ads_
 .php?nats=
 .php?zone_id=
+.php?zone_id=$~xmlhttprequest
 .php?zoneid=
 .php?zoneid=*&var=*$xmlhttprequest
 .piccash.net^
@@ -119027,6 +119038,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad-choices-
 /ad-choices-$image
 /ad-choices.
+/ad-choices.png$image
 /ad-configuration-
 /ad-controller.
 /ad-creatives-
@@ -120232,6 +120244,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adlock300.
 /adlog.
 /adlog.php
+/adlog.php$image
 /adlogger_
 /adlogix.
 /adm/ad/*
@@ -120329,7 +120342,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adnow.js$domain=50.7.31.228|tvboxnow.com
 /adobject.
 /adocean.
-/adocean.js
+/adocean.js$script
 /adometry-
 /adometry.
 /adometry?
@@ -120485,6 +120498,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads-async.
 /ads-beacon.
 /ads-blocking-detector.
+/ads-blocking-detector.$script
 /ads-blogs-
 /ads-cch-
 /ads-common.
@@ -120535,6 +120549,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads-top.
 /ads-vast-
 /ads-vast-vpaid.js
+/ads-vast-vpaid.js?$script
 /ads.asp?
 /ads.aspx
 /ads.aspx$domain=~prestadores.osecac.org.ar
@@ -120982,6 +120997,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads_config.
 /ads_controller.
 /ads_controller.js
+/ads_controller.js$script
 /ads_detect.
 /ads_dfp/*
 /ads_display.
@@ -121730,7 +121746,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /advrotator.
 /advrotator.js
 /advrotator_
-/advrotator_banner_largo.htm
+/advrotator_banner_largo.htm$subdocument
 /advs-instream.
 /advs.ads.
 /advs/*
@@ -122357,8 +122373,8 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /botad.html
 /bottom-ad-
 /bottom-ads.
-/bottom-ads.jpg
-/bottom-ads.png
+/bottom-ads.jpg$image,domain=~saltwaterisland.com
+/bottom-ads.png$image
 /bottom-advert-
 /bottom_ad.
 /bottom_ad.jpg
@@ -122418,7 +122434,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /buyer/dyad/*
 /buysellads-
 /buysellads.
-/buysellads.js
+/buysellads.js$script
 /buzz/ads/*
 /bvadtgs.
 /bytemark_ad.
@@ -122597,6 +122613,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /contaxe_
 /content-ads.
 /content-ads.js
+/content-ads.js$script
 /content.php?id=148&type=g|$xmlhttprequest
 /content/ad/*
 /content/ad_
@@ -122803,6 +122820,8 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /detroitchicago/augusta.js$script
 /detroitchicago/boise.js
 /detroitchicago/boise.js$script
+/detroitchicago/cmbdv2.js$script
+/detroitchicago/cmbv2.js$script
 /detroitchicago/denver.js
 /detroitchicago/denver.js$script
 /detroitchicago/gateway.js
@@ -123208,7 +123227,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /footer-ad.$~script
 /footer-ads/*
 /footer_ad.
-/footer_ad.js
+/footer_ad.js$script
 /footer_ad.php
 /footer_ad_
 /footer_ads.
@@ -123831,9 +123850,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /index-ad-
 /index-ad-$stylesheet
 /index-ad.
-/index-ad.jpg
 /index-ad.js
-/index-ad.png
 /index.html#/register$document
 /index.html#/register$~third-party
 /index.html?shareName=$document
@@ -123951,10 +123968,11 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /jquery.adi.js$script
 /jquery.adx.
 /jquery.adx.js
-/jquery.adx.js$script
+/jquery.adx.js?$script
 /jquery.bpopup.$domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrentkitty.lol|torrentkitty.net|torrentkitty.se|torrentkitty.tv
 /jquery.dfp.js
-/jquery.dfp.js$script
+/jquery.dfp.js?$script
+/jquery.dfp.min.js?$script
 /jquery.modal.$domain=1909.me|8se.me|litu100.xyz|xchina.co|xchina.fun|xchina.pro
 /jquery.openxtag.js
 /jquery.openxtag.js$script
@@ -124162,7 +124180,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /layer_ad?
 /layerad-
 /layerad.
-/layerad.js
 /layerads-
 /layerads.
 /layerads_
@@ -124645,8 +124662,8 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /omb-ad-
 /ome.ads.
 /oncc-ad.
-/oncc-ad.js
-/oncc-adbanner.js
+/oncc-ad.js$script
+/oncc-adbanner.js$script
 /onead.
 /onead_
 /onecam4ads.
@@ -124725,6 +124742,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /pagead/ads?
 /pagead/conversion.
 /pagead/conversion.js
+/pagead/conversion.js$script
 /pagead/conversion/*
 /pagead/gen_
 /pagead/html/*
@@ -124751,6 +124769,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /pagepeelads.
 /pagepeelpro.
 /pagepeelpro.js
+/pagepeelpro.js?$script
 /pages/ads
 /paidads/*
 /paidlisting/*
@@ -125363,10 +125382,9 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /right_ad_
 /right_ads.
 /rightad.
-/rightad.js
+/rightad.js$script
 /rightad/*
 /rightads.$domain=~rightads.co.uk
-/rightads.js
 /rightbanner/*
 /rightnavads.
 /rightnavadsanswer.
@@ -125748,6 +125766,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /spcjs.php$script
 /spcjs_min.
 /special-ads/*
+/special/specialCtrl.js$script
 /special_ad.
 /special_ads.
 /special_ads/*
@@ -125801,6 +125820,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /sponsored_content-
 /sponsored_content/*
 /sponsored_link.
+/sponsored_link.gif$image
 /sponsored_links.
 /sponsored_links1.
 /sponsored_links_
@@ -125943,7 +125963,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /synad2.
 /synad3.
 /sync2ad.
-/sync2ad.js
 /syndication/ad.
 /sys/ad/*
 /system/ad/*
@@ -126392,7 +126411,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /webadimg/*
 /webads.
 /webads.htm
-/webads.jpg
 /webads/*
 /webads/*$image,domain=~cccc.edu|~meatingplace.com
 /webads_
@@ -131093,6 +131111,7 @@ zle.com$script
 ###adsZone
 ###adsZone1
 ###adsZone2
+###ads[style^="position: absolute; z-index: 30; width: 100%; height"]
 ###ads_01
 ###ads_0_container
 ###ads_160

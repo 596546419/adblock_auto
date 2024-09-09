@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: bNqiiNWrpt3VA2n9nrJP3Q
+! Checksum: 6IHZmokAqeLXxNxfv78R7w
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240909163556
+! Version: 20240910002841
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-09 16:35:56
-! Total Count: 28891
+! Last modified: 2024-09-10 00:28:41
+! Total Count: 28895
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -443,6 +443,7 @@
 ||230579.top^
 ||230book.net/js/sweetcake.js
 ||2324av.com/zz/
+||2325fdrf.fun^
 ||2345.com/cnxh/
 ||2345.com/duoteimg/img/*_ad_
 ||2345.com/dypcimg/*gameRecommend.js
@@ -6755,6 +6756,7 @@
 ||dzfzak.cn^
 ||dzjzg.com^
 ||dzkwj0y.xyz^
+||dzlndygh.com^
 ||dzmanga.com/s/page_runtime_v5.js
 ||dzuht.cn^
 ||dzvy7.space^
@@ -8490,6 +8492,7 @@
 ||hc360.com/list/iframe_end_textadv.shtml
 ||hc360.com/security/201409/201409021830024990.jpg
 ||hcbbsoss.oss-cn-hangzhou.aliyuncs.com^*-banner
+||hccoeutg.com^
 ||hcdjy.xyz^
 ||hcgbhq.com^
 ||hchuviq.cn^
@@ -10197,6 +10200,7 @@
 ||kaixin001.com.cn/js/cpm-
 ||kaixinjiehun.com^$third-party
 ||kaiyiluye.com^
+||kaiyuan308.vip^
 ||kak17p.xyz^
 ||kakakumag.com/script/mag/smartphone/fixed_bnr_area.js
 ||kalerkantho.com/banner/
