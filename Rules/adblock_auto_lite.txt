@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: WfNh/iJpHSTCgRbNWWYmgA
+! Checksum: JEbj2FtxE2SB09iWoPhDTg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240909002741
+! Version: 20240909094833
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-09 00:27:41
-! Total Count: 28882
+! Last modified: 2024-09-09 09:48:33
+! Total Count: 28890
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7551,6 +7551,7 @@
 ||fq01.shop^
 ||fq02.shop^
 ||fq03.shop^
+||fq04.shop^
 ||fq67.top^
 ||fqbjzj.xyz^
 ||fqfclmlo.xyz^
@@ -7880,6 +7881,7 @@
 ||geqshb22.fun^
 ||gesdxashb1.fun^
 ||gesfdashb5.fun^
+||gessdashb6.fun^
 ||gesvfvfhhb6.fun^
 ||getcdnpix.name^
 ||getitfree.cn/wp-content/plugins/adunblocker/*.js
@@ -10142,6 +10144,7 @@
 ||jy01.shop^
 ||jy04.shop^
 ||jy05.shop^
+||jy06.shop^
 ||jy135.com/js/pubuliu.
 ||jy135.com^$third-party
 ||jy147a.com^
@@ -12935,6 +12938,7 @@
 ||pixoctopus.pixnet.net^
 ||pizzasnut.com^$third-party
 ||pjbjzf.com^
+||pjcijbv.icu^
 ||pjcn.org^$third-party
 ||pjdthz.xyz^
 ||pjsbuhl.icu^
@@ -13012,6 +13016,7 @@
 ||pofmnj.xyz^
 ||poh.uoydhco.cn^
 ||pohpll.xyz^
+||poiejdhmkjcnd.top^
 ||poiful.com/sdk/vrizeadsdk.
 ||pointdigestion.com^$third-party
 ||pointlesshour.com^$third-party
@@ -13984,6 +13989,7 @@
 ||retrievemint.com^$third-party
 ||rett.top^
 ||revcontent.com^
+||rewrwrt4.fun^
 ||rexsrv.com^
 ||rexxtourist.com^$document
 ||rexxtourist.com^$~third-party
@@ -16084,6 +16090,7 @@
 ||tt123.eastday.com^
 ||ttad125.com^
 ||ttavav6.com/zz/
+||ttdpxh.xyz^
 ||ttdydd.xyz^
 ||ttgbnmk.top^
 ||ttgjwxp.icu^
@@ -18308,6 +18315,7 @@
 ||yx1.managershare.com^
 ||yxad.com/baidu/
 ||yxad.com/yxad/
+||yxamkm.xyz^
 ||yxbao.com/js/beitou.
 ||yxcrcc.xyz^
 ||yxdd.com^$subdocument

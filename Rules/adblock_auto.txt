@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: XvrW10NOVkF6i6RJOHZcTg
+! Checksum: DvsZs06L7N4p+6enZiGy/w
 ! Title: 混合规则(自动更新)
-! Version: 20240909002729
+! Version: 20240909094821
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-09 00:27:29
-! Total Count: 152046
+! Last modified: 2024-09-09 09:48:21
+! Total Count: 152059
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -660,6 +660,7 @@
 ||1437953666.rsc.cdn77.org^
 ||144w6.com^$document
 ||144w6.com^$~third-party
+||1450691516.rsc.cdn77.org^
 ||146.148.85.61^
 ||148dfe140d0f3d5e.com^
 ||1493c7cc8b.com^
@@ -715,6 +716,7 @@
 ||16-merchant-s.com^
 ||160.com/statics/statics/js/code_13.js
 ||160.com/statics/statics/js/code_15.js
+||1607162747.rsc.cdn77.org^
 ||1615vip.com^*.jsonp
 ||1616.net/jd/data/index/indexad.json
 ||162.212.182.$subdocument
@@ -25102,6 +25104,7 @@
 ||diidgtmupyls.com^
 ||diingsinspiri.com^
 ||diiodidasmear.com^
+||diixqvrpoqs.com^
 ||dijapu.xyz^
 ||dikeaxillas.com^
 ||diken.xyz^
@@ -32680,6 +32683,7 @@
 ||fq01.shop^
 ||fq02.shop^
 ||fq03.shop^
+||fq04.shop^
 ||fq67.top^
 ||fqab5xq7qlgt.info^
 ||fqanulluixeis.com^
@@ -34409,6 +34413,7 @@
 ||gesanbarrat.com^
 ||gesdxashb1.fun^
 ||gesfdashb5.fun^
+||gessdashb6.fun^
 ||gessoesbeavers.uno^
 ||gesvfvfhhb6.fun^
 ||get-ads.ru^
@@ -45254,6 +45259,7 @@
 ||jy01.shop^
 ||jy04.shop^
 ||jy05.shop^
+||jy06.shop^
 ||jy135.com/js/pubuliu.
 ||jy135.com^$third-party
 ||jy147a.com^
@@ -54713,6 +54719,7 @@
 ||murkymouse.online^
 ||murqyi.com^
 ||murreyequate.com^
+||murtbgab.com^
 ||musan.love^
 ||muscatscurls.click^
 ||muscledarcysilly.com^
@@ -62561,6 +62568,7 @@
 ||pjatr.com^
 ||pjbjzf.com^
 ||pjcdjtn.cn^
+||pjcijbv.icu^
 ||pjcn.org^$third-party
 ||pjdthz.xyz^
 ||pjewriw.top^
@@ -63097,6 +63105,7 @@
 ||pohpll.xyz^
 ||pohsoneche.info^
 ||poi3d.space^
+||poiejdhmkjcnd.top^
 ||poiful.com/sdk/vrizeadsdk.
 ||poignantsensitivenessforming.com^
 ||poilloiter.top^
@@ -68791,6 +68800,7 @@
 ||rewordsbrogh.life^
 ||rewriteadoption.com^
 ||rewriteworse.com^
+||rewrwrt4.fun^
 ||rewwlzjmj.com^
 ||rexadvert.xyz^
 ||rexbucks.com^
@@ -83112,6 +83122,7 @@
 ||ttbm.com^
 ||ttdds.top^
 ||ttdmrvck.com^
+||ttdpxh.xyz^
 ||ttdydd.xyz^
 ||ttfkof.xyz^
 ||ttfpoyrbalyfigs.xyz^
@@ -93957,6 +93968,7 @@
 ||yxad.com/baidu/
 ||yxad.com/yxad/
 ||yxajqsrsij.com^
+||yxamkm.xyz^
 ||yxbao.com/js/beitou.
 ||yxbyd.store^
 ||yxcrcc.xyz^
@@ -103072,6 +103084,7 @@ forum.mobilism.org###v-mobilism-org-0
 forum.nasaspaceflight.com##[style="text-align:center; margin-bottom:30px;"]
 forum.pcastuces.com##div > [src] + [id] + [class][style^="display: block;"]
 forum.ragezone.com###block_html_10
+forum.ragezone.com##.RZBannerUnit
 forum.ragezone.com##[data-widget-key="widget_partners"]
 forum.ragezone.com##[src^="https://clients.ragezone.com/"]
 forum.vip-cxema.org##body > #document_modal.modal,#some_ad_block_key_popup
@@ -114071,6 +114084,7 @@ tvcancelrenew.com##.h-72
 tvcook.ru##.cat
 tvfanatic.com##.feed_holder
 tvgolo.com##.pub468x60top
+tvline.com##._video_ti56x_1
 tvmaze.com##.blad
 tvmost.com.hk##.main_ad_b
 tvnz.co.nz##.AdOnPause
@@ -148478,7 +148492,6 @@ zle.com$script
 ##a[href^="https://lead1.pl/"]
 ##a[href^="https://leg.xyz/?track="]
 ##a[href^="https://lijavaxa.com/"]
-##a[href^="https://linkboss.shop/"]
 ##a[href^="https://lnkxt.bannerator.com/"]
 ##a[href^="https://lobimax.com/"]
 ##a[href^="https://loboclick.com"]
