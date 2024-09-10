@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: zdu3xGXXZEjmsiwPNsxr0w
+! Checksum: www7PIaFbfMH4kaggij4xw
 ! Title: 混合规则(自动更新)
-! Version: 20240910094203
+! Version: 20240910163411
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-10 09:42:03
-! Total Count: 152120
+! Last modified: 2024-09-10 16:34:11
+! Total Count: 152125
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -37770,6 +37770,7 @@
 ||hdfoweey.com^
 ||hdgzta.com^
 ||hdherpc.cn^
+||hdickeu.top^
 ||hdipsumu.top^
 ||hditers.com^
 ||hdjfeed.top^
@@ -40180,6 +40181,7 @@
 ||hystericalfinger.com^$third-party
 ||hystericalhelp.com^$third-party
 ||hystericalpotprecede.com^
+||hyth74.fun^
 ||hytxg2.com^
 ||hyusnisu.top^
 ||hyuwkbu.top^
@@ -65070,6 +65072,7 @@
 ||puaabvs.cn^
 ||puabvo.com^
 ||pub-3d10bad2840341eaa1c7e39b09958b46.r2.dev^
+||pub-referral-widget.current.us^
 ||pub.akadigital.vn^
 ||pub.funshion.com^
 ||pub.network^
@@ -91773,6 +91776,7 @@
 ||xinbo-lora.cn^
 ||xinchenyang.cn^
 ||xinchl.xyz^
+||xindingwealth.com/js/39.
 ||xindong.fun^
 ||xineday.com^
 ||xiner.xyz^
@@ -96476,6 +96480,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 36kr.com##.kr-ad-home-flow-banner
 36mh.net##div[style="width:960px;height:300px;margin:0 auto;"]
 39.net##.ad-tl
+39.net##.banner_g
 39.net##[id^="ac_im"]
 3987.com##.c-gg
 3987.com##.showdown > .mt20:first-child

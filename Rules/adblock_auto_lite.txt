@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: KWdgbBGK62OhksmVnVgC8A
+! Checksum: G1LmsFRvXPqvIQbiNRYApQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240910094214
+! Version: 20240910163423
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-10 09:42:14
-! Total Count: 28901
+! Last modified: 2024-09-10 16:34:23
+! Total Count: 28904
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8507,6 +8507,7 @@
 ||hdc.maxli.cn^
 ||hdchina.*/styles/topshow/AD/
 ||hdfdsdaw.com^
+||hdickeu.top^
 ||hdipsumu.top^
 ||hdjthzg.cn^
 ||hdmoli.com/static/js/pop_promotion.js
@@ -9009,6 +9010,7 @@
 ||hystericalcloth.com^$third-party
 ||hystericalfinger.com^$third-party
 ||hystericalhelp.com^$third-party
+||hyth74.fun^
 ||hyusnisu.top^
 ||hyuwkbu.top^
 ||hyz86.com^
@@ -17621,6 +17623,7 @@
 ||xilofr.xyz^
 ||ximad.com^
 ||xinchl.xyz^
+||xindingwealth.com/js/39.
 ||xineurope.com/static/image/banner/
 ||xinfcw.com/js/layer1.js
 ||xingwangzz.com/123/
