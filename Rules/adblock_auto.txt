@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 8IR6pxaulncDWmtFlhEaQQ
+! Checksum: zdu3xGXXZEjmsiwPNsxr0w
 ! Title: 混合规则(自动更新)
-! Version: 20240910002829
+! Version: 20240910094203
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-10 00:28:29
-! Total Count: 152084
+! Last modified: 2024-09-10 09:42:03
+! Total Count: 152120
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1459,6 +1459,7 @@
 ||2cvnmbxnc.com^
 ||2d12b2f25b.com^
 ||2d283cecd5.com^
+||2d439ab93e.com^
 ||2d4f.com/love/
 ||2d6g0ag5l.de^
 ||2d77c9dd09.com^
@@ -1717,6 +1718,7 @@
 ||3356534.work^
 ||336t.com/cf/js/data.js
 ||336t.com/img/boss/*.gif$domain=wmav.pw|wmsj.pw
+||33848102.xyz^
 ||3397ys.com/e/public/onclick/
 ||3399.com/act/$third-party
 ||33across.com^
@@ -34551,6 +34553,7 @@
 ||gfdgfhh.cn^
 ||gfdh56.site^
 ||gfdrkskillso.xyz^
+||gffedashb6.fun^
 ||gfghr.com^
 ||gfhkcfdqaongo.com^
 ||gfjn5.xyz^
@@ -38067,6 +38070,7 @@
 ||hem41xm47.com^
 ||hemaglnkrvdcgxe.com^
 ||hembrandsteppe.com^
+||hemcpjyhwqu.com^
 ||hemenindir.to^
 ||hemhiveoccasion.com^
 ||hemineedunks.com^
@@ -40356,6 +40360,7 @@
 ||iawfchawq.com^
 ||iaxwnffhikiac.com^
 ||iazada.com^
+||iaztfippkbwyg.com^
 ||ib-ebanking.com^
 ||ib-ibi.com^
 ||ib.snssdk.com^
@@ -40849,6 +40854,7 @@
 ||ihqcndm.cn^
 ||ihqfiimrbcf.com^
 ||ihqnckvpfx.com^
+||ihssdas.icu^
 ||ihtckcitkr.com^
 ||ihtqqws.cn^
 ||ihttscqovzzb.com^
@@ -40920,6 +40926,7 @@
 ||ijikhxaelqmbg.com^
 ||ijinshan.com/images/gk/game
 ||ijir.cn^
+||ijjorsrnydjcwx.com^
 ||ijkcmm.com^
 ||ijkqwopm.xyz^
 ||ijlnbonvfr.com^
@@ -43084,6 +43091,7 @@
 ||ivcbrasil.org.br^
 ||ivedmanyyea.org^
 ||ivesofefinegold.info^
+||ivggagxczuoc.com^
 ||ivhbtikwpr.com^
 ||ivhnnw.com^
 ||iviewui.com/v1/*?name=
@@ -44137,6 +44145,7 @@
 ||jitapu.com/inc/adv
 ||jitashe.org/template/jitashe/image/bc/3
 ||jitigkvqf.com^
+||jitsu.ixbt.com^
 ||jitteryhire.pro^
 ||jitynncs.com^
 ||jiu9.shop^
@@ -46731,6 +46740,7 @@
 ||koukou7.com^
 ||kouptufezi.com^
 ||koureptu.xyz^
+||koushauwhie.xyz^
 ||koushen.xyz^
 ||koustouk.net^
 ||koutobey.net^
@@ -47151,6 +47161,7 @@
 ||kwumme.xyz^
 ||kwxpsdywhybmhp.com^
 ||kwxvjrhijacw.com^
+||kwyamu.xyz^
 ||kx4.firstsexfilm.com^
 ||kxadykuwmllrn.com^
 ||kxapctq.cn^
@@ -48329,6 +48340,7 @@
 ||lewdlygrips.top^
 ||lewhrzv.xyz^
 ||lewiooz.cn^
+||lewlanderpurgan.com^
 ||lewqiiy.xyz^
 ||lewrutl.top^
 ||lexemeowhere.digital^
@@ -48366,6 +48378,7 @@
 ||lfooldjzuyfhae.com^
 ||lfov.net^
 ||lfpmtibqwqre.com^
+||lfrdskwj.icu^
 ||lfrfzr.xyz^
 ||lfsenmei.com^
 ||lfstmedia.com^
@@ -50716,6 +50729,7 @@
 ||lyricspartnerindecent.com^
 ||lyrtyvqnbkknt.xyz^
 ||lysim-lre.com^
+||lysinevii.click^
 ||lysjpqhhzve.com^
 ||lysq.com/data/attachment/portal/
 ||lyssapebble.com^
@@ -51063,6 +51077,7 @@
 ||maebtjn.com^
 ||maestroconfederate.com^
 ||mafengwo.cn/uva/i.gif?
+||mafiaillegal.com^
 ||mafon.xyz^
 ||mafrarc3e9h.com^
 ||mafroad.com^
@@ -55969,6 +55984,7 @@
 ||negligible-pension.pro^
 ||negnixa.cn^
 ||negolist.com^
+||negotiaterealm.com^
 ||negotiatetime.com^$third-party
 ||negotiationmajestic.com^
 ||negrineoakwood.com^
@@ -60012,6 +60028,7 @@
 ||overheadplough.com^
 ||overhearpeasantenough.com^
 ||overheatusa.com^
+||overjoyeddarkenedrecord.com^
 ||overjoyedtempfig.com^
 ||overjoyedwithinthin.com^
 ||overkirliaan.com^
@@ -67135,6 +67152,7 @@
 ||racticalwhich.com^
 ||ractors291wicklay.com^
 ||racunn.com^
+||racygirlq.com^
 ||rad.mob-api.net/imp^
 ||radar.bayan.ir^
 ||radarconsultation.com^
@@ -78869,6 +78887,7 @@
 ||taryardtugged.com^
 ||taryarguestio.com^
 ||tasesetitoefany.info^
+||tashietrent.com^
 ||taskapi.net^
 ||taskariose.com^
 ||tasker.shop^
@@ -79050,6 +79069,7 @@
 ||tdep.hema.nl^
 ||tdep.kvk.nl^
 ||tdfkidmyynbqu.com^
+||tdfqvx.xyz^
 ||tdgtkqtluuhjcfw.com^
 ||tdhlmto.cn^
 ||tdhnxf.xyz^
@@ -89473,6 +89493,7 @@
 ||wgidskie.top^
 ||wgkggub.com^
 ||wglbx.ltd^
+||wgnefmhwookdh.com^
 ||wgnlaige.fun^
 ||wgplayer.com^
 ||wgpsfdg.cn^
@@ -89689,6 +89710,7 @@
 ||whoajeex.xyz^
 ||whoaksoo.com^
 ||whoalsos.com^
+||whoansailt.net^
 ||whoansodroas.net^
 ||whoapsoo.com^
 ||whoaremyfriends.com^
@@ -90196,6 +90218,7 @@
 ||wkrhel.icu^
 ||wksrx.cn^
 ||wkuave.com^
+||wkvpvglcjsagi.xyz^
 ||wkwqljwykojvm.top^
 ||wkwqljwykollz.top^
 ||wkwqljwykomlv.top^
@@ -92084,6 +92107,7 @@
 ||xn--xhq9mt12cf5v.xn--io0a7i^
 ||xn--xhq9mt12cf5v.xn--io0a7i^$third-party
 ||xn--zw0autp42d.cn^
+||xnbuapwp.icu^
 ||xne1ocient87zxz.360doc.cn^
 ||xnedglnnwrexss.com^
 ||xnfhxszj.xyz^
@@ -92122,6 +92146,8 @@
 ||xogogowebcams.com^
 ||xogtrmjz.xyz^
 ||xohnodzbfjjqje.com^
+||xoilactv123.gdn^
+||xoilactvcj.cc^
 ||xoimg.com^$domain=18board.com|18p2p.com
 ||xoimmmhfha.com^
 ||xojepxhvvan.com^
@@ -93667,6 +93693,7 @@
 ||ypojie.com/wp-content/uploads/*.js
 ||yporn.tv/grqoqoswxd.php
 ||yprdmnlo.xyz^
+||yprocedentwith.com^
 ||yptjqrlbawn.xyz^
 ||yptqys.tianqistatic.com^
 ||ypuicbs.cn^
@@ -95206,6 +95233,7 @@
 ||zsjxwj.com^
 ||zsjyuet.cn^
 ||zskuvehuihkusp.com^
+||zslbpcawvqa.com^
 ||zslhmw.com^
 ||zsmyzg.cn^
 ||zsnfdphz.com^
@@ -97555,6 +97583,7 @@ ali213.net##div[class^="GG"]
 ali213.net##div[id^="ali-ad-js-"]
 ali213.net##iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 alibaba.com##.is-creative
+alibaba.com##.searchx-offer-item[data-aplus-auto-offer*="ad_adgroup_toprank"]
 alibaba.com##a[campaignid][target="_blank"]
 alibaba.com#?#.J-offer-wrapper:-abp-contains(Top sponsor listing)
 alibabacloud.com###carousel-whois
@@ -98054,6 +98083,7 @@ archdaily.com##.ad-300-250
 architecturesideas.com##.linkpub_right_img
 arenaev.com,gsmarena.com###subHeader
 argos.co.uk##[class^="styles__LazyHydrateCard"]:has([class*="ProductCardstyles__FlyoutBadge"])
+argos.co.uk##[class^="styles__LazyHydrateCard-sc"]:has([class*="SponsoredBadge"])
 argos.co.uk##[data-testid="citrus_products-carousel"]
 argos.co.uk#?#[data-test^="component-slider-slide-"]:-abp-contains(SPONSORED)
 arizonasports.com,ktar.com##.sponsorBy
@@ -101185,6 +101215,7 @@ dandanzan.com,dandanzan10.top,nunuyy5.org,qq.com##+js(set,RTCPeerConnection,null
 daniao.org##.wow.fadeInUp.tg-site > a[rel="nofollow"] > img
 daniweb.com##.dw-inject-bsa
 danlan.org##.ad98090
+danmurphys.com.au##.sponserTiles
 dannydutch.com,tvzoneuk.com##[data-hook="HtmlComponent"]
 danpatrick.com###topBannerContainer
 danpatrick.com##.needsclick
@@ -109337,6 +109368,7 @@ oeeee.com##.homeAD
 offcn.com###offcn_yx
 offcn.com##.jlstc
 offerup.com##.jss301
+officedepot.com###PromoteIqCarousel
 officedepot.com##.od-col:has(.od-product-card-region-colors-sponsored)
 officedepot.com##.od-search-piq-banner-ads__lower-leaderboard
 offidocs.com###adbottomoffidocs
@@ -114773,12 +114805,13 @@ wallstreetcn.com##.omg-container
 wallstreetcn.com##.side-money
 wallstreetcn.com##.wscn-ad
 wallstreetcn.com##.wscn-page-ad
+walmart.*##[data-testid="carousel-ad"]
 walmart.*,walmart.ca,walmart.com#?#div > div[io-id]:-abp-contains(Sponsored)
 walmart.ca##[data-automation="flipkartDisplayAds"]
 walmart.ca##a[href*=".criteo.com/"]
 walmart.ca##div[data-automation^="HookLogicCarousel"]
 walmart.ca##div[data-automation^="HookLogicCarouses"]
-walmart.com##[data-testid="carousel-ad"]
+walmart.ca,walmart.com##[data-testid="carousel-ad"]
 walmart.com##div[class="mb1 ph1 pa0-xl bb b--near-white w-25"]:has(div[data-ad-component-type="wpa-tile"])
 walmart.com##div[class="mv3 ml3 mv4-xl mh0-xl"][data-testid="sp-item"]
 walmart.com##li.items-center:has(div[data-ad-component-type="wpa-tile"])
@@ -114873,6 +114906,7 @@ wayfair.com##.MediaNativePlacement-wrapper-link
 wayfair.com##[data-hb-id="Card"]:has([data-node-id^="ListingCardSponsored"])
 wayfair.com##a[data-enzyme-id="WssBannerContainer"]
 wayfair.com##div[data-enzyme-id="WssBannerContainer"]
+wayfair.com##div[data-node-id^="SponsoredListingCollectionItem"]
 wayfair.com,wayfair.co.uk#?#div[data-hb-id="Grid.Item"]:-abp-has(div.FeaturedProductFlag:-abp-contains(Sponsored))
 wbal.com##.wbal-banner
 wbiao.cn###popupImgCorner
@@ -148247,11 +148281,13 @@ zle.com$script
 ##a[href^=" https://www.friendlyduck.com/AF_"]
 ##a[href^="//a.bestcontentfare.top/"]
 ##a[href^="//ardslediana.com/"]
+##a[href^="//ejitsirdosha.net/"]
 ##a[href^="//go.eabids.com/"]
 ##a[href^="//pubads.g.doubleclick.net/"]
 ##a[href^="//s.st1net.com/splash.php"]
 ##a[href^="//s.zlinkd.com/"]
 ##a[href^="//startgaming.net/tienda/" i]
+##a[href^="//stighoazon.com/"]
 ##a[href^="//whulsaux.com/"]
 ##a[href^="//zunsoach.com/"]
 ##a[href^="/ad/"] > img[id][src*="hdslb.com"]

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 6IHZmokAqeLXxNxfv78R7w
+! Checksum: KWdgbBGK62OhksmVnVgC8A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240910002841
+! Version: 20240910094214
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-10 00:28:41
-! Total Count: 28895
+! Last modified: 2024-09-10 09:42:14
+! Total Count: 28901
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7899,6 +7899,7 @@
 ||gfdfegg.cn^
 ||gfdfgfgr.cn^
 ||gfdgfhh.cn^
+||gffedashb6.fun^
 ||gfjn5.xyz^
 ||gfpvvwf.xyz^
 ||gfylyw.xyz^
@@ -9185,6 +9186,7 @@
 ||ihcxue.xyz^
 ||ihgluu.xyz^
 ||ihhmh.com/mg/show
+||ihssdas.icu^
 ||ihwdun.xyz^
 ||ihwlek.com^
 ||ii1.chajiaotong.com^
@@ -10569,6 +10571,7 @@
 ||kwqnki.xyz^
 ||kwtgntyu.xyz^
 ||kwumme.xyz^
+||kwyamu.xyz^
 ||kx4.firstsexfilm.com^
 ||kxcdn.com^$xmlhttprequest
 ||kxcp365.com^
@@ -10784,6 +10787,7 @@
 ||lfhnzbj.xyz^
 ||lfjslil.top^
 ||lfjtiuy.cn^
+||lfrdskwj.icu^
 ||lfrfzr.xyz^
 ||lftpvh.xyz^
 ||lfxozd.xyz^
@@ -15639,6 +15643,7 @@
 ||td.easysavemore.com^
 ||td.sxwqhotel.com^
 ||tdavopl.icu^
+||tdfqvx.xyz^
 ||tdhlmto.cn^
 ||tdhnxf.xyz^
 ||tdhserg.cn^
@@ -17738,6 +17743,7 @@
 ||xn--xhq9mt12cf5v.top^$third-party
 ||xn--xhq9mt12cf5v.xn--io0a7i^$third-party
 ||xn--zw0autp42d.cn^
+||xnbuapwp.icu^
 ||xne1ocient87zxz.360doc.cn^
 ||xnfhxszj.xyz^
 ||xng02.com/api.php?mod=ad&
