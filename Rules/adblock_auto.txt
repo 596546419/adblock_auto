@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Uf43n3vn3xxBva2YdcpFjQ
+! Checksum: kRdBPsEVSIkkhjDlpL5Tmg
 ! Title: 混合规则(自动更新)
-! Version: 20240911094110
+! Version: 20240911163216
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-11 09:41:10
-! Total Count: 152131
+! Last modified: 2024-09-11 16:32:16
+! Total Count: 152151
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9427,6 +9427,7 @@
 ||analytics.elle.se^
 ||analytics.emol.com^
 ||analytics.enjoymobiserver.com^
+||analytics.equmeniakyrkan.se^
 ||analytics.erepublic.com^
 ||analytics.evgcdn.net^
 ||analytics.evn.com.vn^
@@ -9651,6 +9652,7 @@
 ||analytics.silktide.com^
 ||analytics.similarweb.com^
 ||analytics.sitewit.com^
+||analytics.sjf.se^
 ||analytics.skyscanner.net^
 ||analytics.slashdotmedia.com^
 ||analytics.slidesai.io^
@@ -40576,6 +40578,7 @@
 ||idffhq.cn^
 ||idhorqa.cn^
 ||idiafix.com^
+||idickeo.top^
 ||idio.co^
 ||idiocyosmotic.life^
 ||idiothungryensue.com^
@@ -101631,6 +101634,8 @@ dm5.com,dm5.hk##a[href*=".wannaplay.cn"]
 dm590.com,eromanga-show.com,hentai-one.com,hentaipaw.com,thepostemail.com##.external
 dm88.me,dmh8.me,dm99.me##.padding-0 > ul[style]
 dm88.me,dmh8.me,dm99.me##[style^="display: block;"]
+dmarge.com##.dx-ad-wrapper
+dmarge.com##.post-infinite-ads
 dmh8.me,dm88.me##div[style^="width:300px;height:300px;position:fixed;bottom:0;left:0;z-index:2147483647;"]
 dmh8.me,dm88.me,dm99.me##div[id^="test"]
 dmhy.anoneko.com##div[id$="_adv"]
@@ -103670,6 +103675,7 @@ gearlive.com##.wellvert
 gearlive.com,mediamass.net,noscript.net###google
 gearpatrol.com##.gearpatrol-ad
 gearpatrol.com##.wp-block-gearpatrol-ad-slot
+gearpatrol.com##.wp-block-gearpatrol-from-our-partners
 gearspace.com###Takeover
 gearspace.com###container__DesktopFDAdBanner
 gearspace.com###container__DesktopForumdisplayHalfway
@@ -106483,6 +106489,7 @@ juksy.com###cover.modal__mask
 juksy.com##.ad__wrap
 juksy.com##.js-adCoverPopup
 juksy.com##div[ad-uid]
+julieroys.com##[href="https://julieroys.com/restore"]
 jumi.tv##a[href^="https://l.tapdb.net/"]
 jump.bdimg.com,tieba.baidu.com###adide_platform
 jump.bdimg.com,tieba.baidu.com###aside_ad
@@ -113974,6 +113981,7 @@ trakt.tv##.playwire
 trakt.tv##[data-snigel-id]
 trakt.tv##a[class^="hu-ck-s-t-er-"][target="_blank"]
 trancentral.tv##.custom_banners_big_link
+tranny.one##.th-ba
 tranny.one,sunporno.com###amiddle
 tranny.one,sunporno.com##.thumbs-container > .th-ba
 tranny.one,sunporno.com##.thumbs-container > div[style^="clear: both; box-sizing: content-box; margin:"]
@@ -116728,6 +116736,7 @@ zol.com.cn##span[class^="dxlt-down"]
 zol.com.cn##span[class^="jisu-down"]
 zongheng.com###index_game
 zongheng.com##div[alog-group="index_04_game"]
+zoonek.com##.fullwidth-ads
 zoover.co.uk##.bannerContainer
 zoro.to##.mba-block
 zouaw.com##.cloudbox
@@ -119563,7 +119572,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad_bot.
 /ad_bottom.
 /ad_bottom.jpg$image
-/ad_bottom.js
+/ad_bottom.js$script
 /ad_box.
 /ad_box1.
 /ad_box2.
@@ -119796,7 +119805,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad_status.
 /ad_stem/*
 /ad_sticky.
-/ad_sticky.js
 /ad_styling_
 /ad_supertile/*
 /ad_support.
@@ -119860,8 +119868,8 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adasset/*$~script
 /adasset4/*
 /adasync.
-/adasync.js
-/adasync.min.js
+/adasync.js$script
+/adasync.min.js$script
 /adb-watch.
 /adb.js?tag=
 /adb.min.js
@@ -120264,6 +120272,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adlantis.
 /adlayer.
 /adlayer.php
+/adlayer.php$script
 /adlayer/*
 /adlead.$domain=~adlead.com|~adlead.pro|~adlead.ru
 /adleader.
@@ -120348,7 +120357,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /admez.$domain=~admez.cz
 /admez/*
 /admgr.
-/admgr.js
+/admgr.js$script
 /admicro2.
 /admicro_
 /admin/ad_
@@ -120722,6 +120731,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads/fixed/*
 /ads/footer-
 /ads/footer.
+/ads/footer.$~xmlhttprequest
 /ads/footer_
 /ads/forum-
 /ads/forums/*
@@ -121133,7 +121143,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adscontent2.
 /adscontrol.
 /adscontroller.
-/adscontroller.js
+/adscontroller.js$script
 /adscot/*
 /adscpc/*
 /adscpv/*
@@ -121146,6 +121156,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adscripts3.
 /adscroll.
 /adscroll.js
+/adscroll.js$script
 /adsdaq_
 /adsdaqbanner_
 /adsdaqbox_
@@ -121632,6 +121643,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adv_top.
 /adv_vert.
 /adv_vert.js
+/adv_vert.js$script
 /adv_vertical.
 /advadserve/*
 /advagg_font.
@@ -122226,6 +122238,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /banner728x90_
 /banner_125x
 /banner_468.
+/banner_468.$image
 /banner_468x
 /banner_OAS.js
 /banner_ad.
@@ -122735,6 +122748,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /css/ads300_
 /css/adsense
 /css/adsense.
+/css/adsense.$stylesheet
 /css/adv.
 /css/adv.$stylesheet
 /css/adz.
@@ -123165,6 +123179,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /extban/*/creatives/*
 /extendedadvert.
 /external/ad.
+/external/ad.$script
 /external/ad/*
 /external/ads/*
 /external/ads/*$image
@@ -123275,14 +123290,14 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /footer-ads/*
 /footer_ad.
 /footer_ad.js$script
-/footer_ad.php
 /footer_ad_
 /footer_ads.
-/footer_ads.php
+/footer_ads.php$subdocument
 /footer_ads_
 /footerad.
 /footerad?
 /footerads.
+/footerads.php$script
 /footerads/*
 /footertextads.
 /forads.
@@ -123355,7 +123370,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /gaypornium.com\/[0-9]{1,2}.gif/$domain=gaypornium.com
 /gaypornium.com\/bfs[0-9]{1,2}.gif/$domain=gaypornium.com
 /gdpr-ad-script.
-/gdpr-ad-script.js
+/gdpr-ad-script.js$script
 /geminivideoads/*
 /gen-ad-
 /gen_ads_
@@ -123383,10 +123398,12 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /get-inline-ad
 /get.ad?
 /get/?go=1&data=
+/get/?go=1&data=$subdocument
 /get/ad.
 /get/ad/*
 /get/ad?
 /get?go=1&data=
+/get?go=1&data=$subdocument
 /getAd;
 /getAdAjax/*
 /getAdBlockModal?
@@ -123909,7 +123926,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /index_ad/*
 /index_ad/*$image
 /index_ads.
-/index_ads.js
+/index_ads.js$script
 /indexmobilead2.
 /indexpc.html?agent=$popup,third-party
 /indexrealad.
@@ -124260,6 +124277,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /left_ad_
 /left_ads.
 /left_ads.js
+/left_ads.js$script
 /leftad.
 /leftad.js$script
 /leftad.png
@@ -124565,7 +124583,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /nativead.
 /nativead/*
 /nativeads-
-/nativeads-v2.js
+/nativeads-v2.js$script
 /nativeads.
 /nativeads.js$script
 /nativeads/*
@@ -124581,7 +124599,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /nb/*$script,domain=bigtitslust.com|pornhex.com|159i.com|babesjoy.com|pornyfap.com|imgtorrnt.in|imgtornado.com|shameless.com|imgdone.com|webcamshows.org|ipicture.su|youav.com|porndr.com|noodlemagazine.com|picmoza.com|cumlouder.com|maturetubehere.com|amateur8.com|freeporn8.com
 /nb/ads/*
 /nb/frot_lod.
-/nb/frot_lod.js
+/nb/frot_lud.js$script
 /nbcuadops-
 /nd_affiliate.
 /neo/ads/*
@@ -125098,6 +125116,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /popup_ad.php
 /popup_code.
 /popup_code.php
+/popup_code.php$script
 /popupad/*
 /popupads.
 /popupads.$popup
@@ -125428,6 +125447,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /right_ad.
 /right_ad_
 /right_ads.
+/right_ads.$~xmlhttprequest
 /rightad.
 /rightad.js$script
 /rightad/*
@@ -126573,8 +126593,8 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /wpbanners_show.php
 /wpbanners_show.php$script
 /wppas.
-/wppas.min.css
-/wppas.min.js
+/wppas.min.css$stylesheet
+/wppas.min.js$script
 /wppas/*
 /wppas_
 /wpproadds.
