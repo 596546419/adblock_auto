@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: kRdBPsEVSIkkhjDlpL5Tmg
+! Checksum: gjmAzrGpiwhEPrIECIH8Zg
 ! Title: 混合规则(自动更新)
-! Version: 20240911163216
+! Version: 20240912002826
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-11 16:32:16
-! Total Count: 152151
+! Last modified: 2024-09-12 00:28:26
+! Total Count: 152163
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1304,6 +1304,7 @@
 ||2481e.com^$popup
 ||2491may2024.com^
 ||2495may2024.com^
+||2497may2024.com^
 ||249999.xyz^*.gif
 ||2499may2024.com^
 ||249c9885c1.com^
@@ -1395,6 +1396,7 @@
 ||28kys.com/92kviptupian/
 ||28kys.com/cpstupian/
 ||28n7.icu^
+||28t1ya.cn^
 ||291hkcido.de^
 ||29299892.com^
 ||293870.com^
@@ -31619,6 +31621,7 @@
 ||filtertopplescream.com^
 ||filthybudget.com^
 ||filthysignpod.com^
+||fimrg.ajscdn.com^
 ||fimsauxy.com^
 ||fimserve.com^
 ||fin.ovh^
@@ -36343,6 +36346,7 @@
 ||groguzoo.net^
 ||groininsightclaimed.com^
 ||groinopposed.com^
+||groleepugny.net^
 ||grondrens.com^
 ||gronsoad.com^
 ||gronsoakoube.net^
@@ -86519,6 +86523,7 @@
 ||vfchm.cyou^
 ||vfcsesjgbj.com^
 ||vfcwij.cn^
+||vfdvdg67.fun^
 ||vfeeopywioabi.xyz^
 ||vfgajrk.cn^
 ||vfghc.com^
@@ -98262,6 +98267,8 @@ autocarindia.com###castrol-ad-sec
 autoevolution.com##.modeladmid
 autoexpress.co.uk##.polaris__below-header-ad-wrapper
 autoexpress.co.uk,carbuyer.co.uk,evo.co.uk##.polaris__partnership-block
+autoguide.com,motorcycle.com##.sidebar-ad-unit
+autoguide.com,motorcycle.com,thetruthaboutcars.com,upgradedhome.com##.billboardSize
 autohome.com.cn###ad-top-1111
 autohome.com.cn###ad_ic_video
 autohome.com.cn###float_bottom_button
@@ -99625,6 +99632,7 @@ buzzorange.com##.ad_small_m
 buzzorange.com##.rmaxAD
 buzzorange.com#$#.sidebar > section#text-8[style*="bottom: 240px;"] { position: static !important; }
 buzzorange.com#?#.sidebar > section[id^="text-"]:has(> .textwidget > .dfped)
+bws.com.au##.card-list-item:has(.productTile.is-Sponsored)
 bxr.com##.sidebar_promo
 bxwx333.org,bxwx888.org###addiv3
 bxwx333.org,bxwx888.org###bdstatic
@@ -105100,6 +105108,7 @@ huya.com###ggcomment
 huya.com###huya-ab
 huya.com###huya-ab-fixed
 huya.com###hy-ad,#hy-ab,#huya-ab
+huya.com##+js(remove-attr, style, #banner[style*="background-image:url"])
 huya.com##+js(set-constant, adInfo, {})
 huya.com##.ab-content
 huya.com##.ab-wrap
@@ -105115,6 +105124,7 @@ huya.com##.room-sidebar #public-screen-ab
 huya.com##.small-handle-tip
 huya.com##.tt[style*="1200px"]
 huya.com##a[class^="Ad--"]
+huya.com#$##banner > a ~ .banner-close { display: none !important; }
 huya.com#?#.item-pic:-abp-has(>.img-tips)
 huya.com,ixigua.com,toutiao.com##.J_ad
 hvhbbs.com##.block[data-widget-definition="SwiperWidget"]
@@ -106591,7 +106601,7 @@ justthenews.com##.video--container
 justthenews.com##.video--vdo-ai
 justthenews.com##.view--breaking-news-sponsored
 justthenews.com##div[class*="block-simple-blockad-"]
-justthenews.com,lenovo.com.cn,movieweb.com,thegamer.com##.video
+justthenews.com,lenovo.com.cn##.video
 justwatch.com##.sponsored-recommendation
 juxia.com###fmt
 juxia.com##.game_img_list
@@ -106860,6 +106870,7 @@ koreaherald.com##.header_bnn
 koreaherald.com##.kh_ad
 koreaherald.com##.khadv1
 koreaherald.com##.mythiell-mid-container
+koreanjav.com##.videos > .column:not([id])
 koreanstreamer.xyz##[href^="https://www.saltycams.com"]
 koreanstreamer.xyz##section.korea-widget
 koreaporn.net##div.bb_mobile
@@ -108287,8 +108298,6 @@ motor1.com##.featured__apb
 motor1.com##.m1_largeMPU
 motorauthority.com##.sq-block
 motorcycle.com##.infeed-ads
-motorcycle.com##.sidebar-ad-unit
-motorcycle.com,thetruthaboutcars.com,upgradedhome.com##.billboardSize
 motorhomefacts.com###header-promo
 motorsport.com##.ms-ap
 motorsport.com##.ms-apb-dmpu
@@ -114560,6 +114569,7 @@ v2rayssr.com#?#.single-top-html:has(> div:only-child > a[target="_blank"] > img)
 v3rmillion.net###sharingPlace
 v4dwkcv.com
 v5pc.com###full_downad
+vagina.nl##.list-item:has([data-idzone])
 valetmag.com##.ad-constrained-container
 valetmag.com##.ad-full_span-container
 valetmag.com##.ad-full_span_homepage-container
@@ -119302,7 +119312,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad/cpmstar/*
 /ad/cross-
 /ad/dfp/*
-/ad/dfp/js/dfp.js
+/ad/dfp/*$script
 /ad/directcall/*
 /ad/display.php$popup
 /ad/display.php?$third-party
@@ -119366,7 +119376,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad/pong?
 /ad/popup.
 /ad/postbid_
-/ad/postbid_handler1.0.9.js
+/ad/postbid_handler1.$script
 /ad/preview/*
 /ad/quigo/*
 /ad/random_
@@ -119652,7 +119662,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad_hcr_
 /ad_head_
 /ad_header.
-/ad_header.js
+/ad_header.js$script
 /ad_header_
 /ad_headerbg.
 /ad_height/*
@@ -119727,7 +119737,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad_ops/*
 /ad_option_
 /ad_overlay.
-/ad_overlay.js
 /ad_page_
 /ad_paper_
 /ad_parts.
@@ -120467,7 +120476,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adpop.$domain=~adpop.io|~adpop.me|~adpop.media|~adpop.ro
 /adpop32.
 /adpopup.
-/adpopup.js
+/adpopup.js$script
 /adposid/*
 /adpositionsizein-
 /adpreview?$popup
@@ -120602,6 +120611,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads-sticker.
 /ads-sticker2.
 /ads-templateslist.
+/ads-templateslist.$script
 /ads-top.
 /ads-vast-
 /ads-vast-vpaid.js
@@ -121045,7 +121055,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads_bg.
 /ads_bg.$image
 /ads_bottom.
-/ads_bottom.js
 /ads_bottom_
 /ads_box_
 /ads_check.
@@ -122081,7 +122090,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /app_ad/slade.js
 /appnei-huodong.oss-
 /apps/misc.php?action=advert&
-/apstag.js
+/apstag.js$script
 /aptads/*
 /apu.php?
 /apu.php?*&zoneid=
@@ -122650,7 +122659,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /common/dart_wrapper_
 /commonAD.
 /common_ad.
-/common_ad.js
+/common_ad.js$script
 /commons/ad/*
 /commspace_ad.
 /companionAdFunc.
@@ -122795,7 +122804,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /dartads.
 /dartcall.
 /dartfunctions.
-/data-file_123.js
 /data/ads/*
 /data/attachment/ad/*
 /data/cache/myad-
@@ -122940,6 +122948,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /dfp_ads/*
 /dfp_async.
 /dfp_async.js
+/dfp_async.js$script
 /dfp_delivery.js
 /dfp_init.
 /dfp_js/*
@@ -123140,7 +123149,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /exitpop.
 /exitpop.js$script
 /exitpopunder.
-/exitpopunder.js
 /exitpopunder_
 /exitpopup.
 /exitpopup.js$script
@@ -124476,6 +124484,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /mmt_ad.
 /mnads1.
 /mnpw3.js
+/mnpw3.js$script
 /mnrt/kmrr1.json
 /moatsdk.min.js
 /mob-ad.
@@ -124680,6 +124689,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /nuggad/*
 /nwm-fcn.min.js
 /nwm-pw2.min.js
+/nwm-pw2.min.js$script
 /nxst-advertising/dist/htlbid-advertising.min.js
 /nymag_ads.
 /nymag_ads_
@@ -124744,7 +124754,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /openad.$domain=~openad.lv
 /openads-
 /openads.
-/openads.js
 /openads/*
 /openads2/*
 /openads_
@@ -125597,6 +125606,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /servead/request/*$script,subdocument
 /serveads.
 /serveads.php
+/serveads.php$script
 /server/ads/*
 /servewebads/*
 /service/ad/*
@@ -126014,8 +126024,8 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /superads-$script
 /superads_
 /supernorthroomad.
-/suurl4.php?
-/suurl5.php
+/suurl4.php?$third-party
+/suurl5.php$third-party
 /suv4.js
 /suv4.js$third-party
 /suv5.js$third-party
@@ -126206,6 +126216,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /top-ad_
 /top-ads.
 /top_ad.
+/top_ad.$~xmlhttprequest,domain=~sunco.co.jp
 /top_ad/*
 /top_ad_
 /top_ads.
@@ -151916,6 +151927,7 @@ hubei.gov.cn#@##ad-side
 huffingtonpost.co.uk#@#.ad_spot
 huffpost.com#@#.connatix-wrapper
 hulu.com,pipi.cn#@#.ad-root
+huya.com#@##banner
 hypebeast.com,hypebeast.kr#@#.ad-blocked
 i-cable.com#@#.video_ad
 i-pass.com.tw#@#.homead
