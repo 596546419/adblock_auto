@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 8IpCXQatXywsaymfgWcx0g
+! Checksum: ML8ikexn6R5XDLzTuvpTog
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240911002739
+! Version: 20240911094122
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-11 00:27:39
-! Total Count: 28858
+! Last modified: 2024-09-11 09:41:22
+! Total Count: 28864
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4142,6 +4142,7 @@
 ||baidunnd.top^
 ||baiduvjsbvjknlsvsv.com^
 ||baifen.music.baidu.com^
+||baigamp.icu^
 ||baihuwang.com^$third-party
 ||baijs010.shop^
 ||baijs010.xyz^
@@ -4649,6 +4650,7 @@
 ||bnextmedia.s3.hicloud.net.tw/dp_cp/mt_programmatic_ad.js
 ||bnfhxszj.xyz^
 ||bnfyzszm.icu^
+||bnhorn.xyz^
 ||bnhtml.com^
 ||bnhxxj.xyz^
 ||bnifdlav.top^
@@ -8288,6 +8290,7 @@
 ||gvbhae0.com^
 ||gvbta.icu^
 ||gvt1.com/videoplayback?$media,redirect=noop-1s.mp4,domain=safeframe.googlesyndication.com
+||gvvedashb6.fun^
 ||gw1jvhs.com^
 ||gw2cddpt2hao.asia^
 ||gw2cddpt2hao.cloud^
@@ -16512,6 +16515,7 @@
 ||uqueae.xyz^
 ||uqwbcm.xyz^
 ||uqydcs.xyz^
+||uqykeq.xyz^
 ||uraseszincy.com^
 ||urccncd.xyz^
 ||urgayporn.com/bn/
@@ -16957,6 +16961,7 @@
 ||vwvatp.xyz^
 ||vwvjzd.xyz^
 ||vx4n.icu^
+||vxcvd67.fun^
 ||vxdpmxw.xyz^
 ||vxdrfr.xyz^
 ||vxfdepn.cn^
@@ -17224,6 +17229,7 @@
 ||wistfulflight.com^$third-party
 ||wit.qq.com^$third-party
 ||wittypopcorn.com^$third-party
+||wiwlqc.xyz^
 ||wiybthm.cn^
 ||wj.jiancai365.cn^
 ||wjaqc.xyz^
