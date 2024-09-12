@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: gjmAzrGpiwhEPrIECIH8Zg
+! Checksum: 898/dwwaUAqufNdOS4E5hQ
 ! Title: 混合规则(自动更新)
-! Version: 20240912002826
+! Version: 20240912094115
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-12 00:28:26
-! Total Count: 152163
+! Last modified: 2024-09-12 09:41:15
+! Total Count: 152188
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1363,6 +1363,7 @@
 ||268mob.cn^
 ||268stephe5en3king.com^
 ||2690dny5l.com^
+||26ea4af114.com^
 ||26gg.bnq86.com^
 ||26gg.bnq86.com^$third-party
 ||26niao20230505.live^
@@ -2413,6 +2414,7 @@
 ||54.169.80.245/ad^
 ||54.222.186.106^
 ||54019033.xyz^
+||54199287.xyz^
 ||543et.com/detail/
 ||5442tu.com/style/ads5442.js
 ||544c1a86a1.com^
@@ -20568,6 +20570,7 @@
 ||cocklacock.com^
 ||cocklystats.top^
 ||cockyinaccessiblelighter.com^
+||cockysnailleather.com^
 ||cocleatalions.com^
 ||cocloud.site^
 ||cocoaadornment.com^
@@ -26803,6 +26806,7 @@
 ||dtwobrightsap.info^
 ||dtx.click^
 ||dtybyfo.com^
+||dtylhedgelnham.com^
 ||du1.bbdj.com^
 ||du9zgx.cn^
 ||dualeotruyen.net^
@@ -26882,6 +26886,7 @@
 ||dugraukeeck.net^
 ||duhafaroalub.com^
 ||duhstbyl.com^
+||duhthvtcgp.com^
 ||duili-mtp.com^
 ||duilin.me^
 ||duimspruer.life^
@@ -28154,6 +28159,7 @@
 ||egcqohrksmlmu.xyz^
 ||egczvoopdo.com^
 ||egerssarcel.com^
+||egesdashb8.fun^
 ||egfqlswbf.com^
 ||eggcupsfriends.com^
 ||eggerscorr.com^
@@ -30754,6 +30760,7 @@
 ||fanquanwang.com/uploads/ad/
 ||fans.*.space/fans/*.php
 ||fansang.xyz^
+||fantastic-height.com^
 ||fantasticaubergine.com^
 ||fantasticdiet.pro^
 ||fantasticgap.pro^
@@ -37155,6 +37162,7 @@
 ||haffo70.com^
 ||hafisfunnier.guru^
 ||haflinforms.top^
+||hafonmadp.com^
 ||haftathoa.com^
 ||hagboatdismast.com^
 ||hagdenlupulic.top^
@@ -42860,6 +42868,7 @@
 ||ispeakvideo.ru^
 ||isqogumsuadas.com^
 ||israfun.net^
+||isreputysolomo.com^
 ||isroeiq.cn^
 ||isrv07.com^
 ||iss.shopimind.com^
@@ -43107,6 +43116,7 @@
 ||iutur-ixp.com^
 ||iuu3j.xyz^
 ||iuudbgnvgyswen.com^
+||iuuwuk.xyz^
 ||iuvbjnzy.com^
 ||iuvssgh.cn^
 ||iuwzdf.com^
@@ -44820,6 +44830,7 @@
 ||js.stroeermediabrands.de^
 ||js.tianmel.xyz^
 ||js.tlt.cn/js/
+||js.trendmd.com^
 ||js.ubaike.cn^
 ||js.union123.me^
 ||js.union123.me^$third-party
@@ -45266,6 +45277,7 @@
 ||jxhbpcdzcg.com^
 ||jxhcyc.com^
 ||jxhgcitcqmvv.com^
+||jxjpnd.xyz^
 ||jxjvtr.xyz^
 ||jxkayopaij.com^
 ||jxlida.ink^
@@ -45945,6 +45957,7 @@
 ||keywordstrategy.org^
 ||keyxel.com^
 ||kezldfv.cn^
+||kezytpdsxmw.com^
 ||kf.qingwk.com^
 ||kf3.xyz^
 ||kf94.club^
@@ -50313,6 +50326,7 @@
 ||lt*.tritondigital.com^
 ||ltaaazb.cn^
 ||ltaome.cn^
+||ltapsxz.xyz^
 ||ltaqqgvitq.com^
 ||ltassrv.com.s3.amazonaws.com^
 ||ltassrv.com^
@@ -56704,6 +56718,7 @@
 ||niji-gazo.com/api/dmm/affiliate/
 ||nijj990.xyz^
 ||nijnqwem.xyz^
+||nijosgstamb.com^
 ||nik.io^
 ||nikdaoquan.vn^
 ||nikkiexxxads.com^
@@ -59366,6 +59381,7 @@
 ||oppressiveoversightnight.com^
 ||oppu778.top^
 ||oppxzerrufhe.com^
+||opqhihiw.com^
 ||oprece.xyz^
 ||opreseynatcreativei.com^
 ||oprill.com^
@@ -66809,6 +66825,7 @@
 ||quiltscaudata.com^
 ||quinatedating.top^
 ||quintelligence.com^
+||quintessential-telephone.pro^
 ||quipin.cn^
 ||quiresraviney.com^
 ||quirkysugar.com^$third-party
@@ -67464,6 +67481,7 @@
 ||rawjeansadvertising.com^
 ||rawmtft.cn^
 ||rawoarsy.com^
+||rawqel.com^
 ||raxetyrw.xyz^
 ||raxfracid.com^
 ||rayajmp.icu^
@@ -70995,6 +71013,7 @@
 ||sbbanner-com.cdn.ampproject.org^
 ||sbbanner.com^
 ||sbbd1.qulishi.com^
+||sbboppwsuocy.com^
 ||sbcjahdc.com^
 ||sbcjahdc.com^$third-party
 ||sbcpower.com^
@@ -85628,6 +85647,7 @@
 ||uyuwkbt.top^
 ||uywoynr.cn^
 ||uyydww.xyz^
+||uyyquln.icu^
 ||uyzdcun.cn^
 ||uz-analysis.akamaized.net^
 ||uz44x.xyz^
@@ -86285,6 +86305,7 @@
 ||vdresaa.top^
 ||vdrfes.site^
 ||vdrn.redplum.com^
+||vdsdsf2.fun^
 ||vdtxlt.xyz^
 ||vdvcjlp.cn^
 ||vdzna.com^
@@ -89803,6 +89824,7 @@
 ||whoungoz.net^
 ||whounoag.xyz^
 ||whounsou.com^
+||whouptoomsy.net^
 ||whourgie.com^
 ||whouroazu.net^
 ||whoursie.com^
@@ -92403,6 +92425,7 @@
 ||xueyanshan.com^
 ||xuffojr.com^
 ||xuhaijun.pw^
+||xuiqxlhqyo.com^
 ||xuircnbbidmu.com^
 ||xujhdtynpgctncq.com^
 ||xujingch.com^
@@ -100242,6 +100265,7 @@ ckdzb.com##div[style="float:right;margin:10px 10px;clear:right;height:310px;widt
 ckk.ai###orquidea-slideup
 ckxxbao.com,kdslife.com,pchome.net##.weixin
 cl.wpio.xyz##.tpc_content > a[target="_blank"][onmouseover]
+clashofstats.com##.adContainer_Y58xc
 classcentral.com##.cmpt-ad
 classic97.net,lagostalks.com,massfans.cc,massrips.cc###banner2
 classic97.net,lagostalks.com,qidian.com###banner1
@@ -102504,6 +102528,7 @@ eurointegration.com.ua##.topban_r
 euroiphone.eu##.div-download-h
 euroiphone.eu##.div-download-v
 eurometeo.com##td[width="738"]
+euronews.com###connatix-container
 euronews.com##.base-leaderboard
 euronews.com##.c-card-sponsor
 euronews.com##.enw-MPU

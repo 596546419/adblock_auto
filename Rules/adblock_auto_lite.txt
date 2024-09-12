@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ndNqSu1W6AXlblflA/43zw
+! Checksum: fwkVYLmrB9xL3SgdWwno9A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240912002838
+! Version: 20240912094127
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-12 00:28:38
-! Total Count: 28867
+! Last modified: 2024-09-12 09:41:27
+! Total Count: 28872
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6921,6 +6921,7 @@
 ||efvsyhbf.xyz^
 ||efyt6.com^$third-party
 ||egadfe.xyz^
+||egesdashb8.fun^
 ||egidskiw.top^
 ||egipsbvlgn.xyz^
 ||eglizqf.cn^
@@ -9578,6 +9579,7 @@
 ||iupian.com/mstyle/js/topinfo.js
 ||iuqasw.xyz^
 ||iuu3j.xyz^
+||iuuwuk.xyz^
 ||iuvssgh.cn^
 ||iuytfvhl.top^
 ||ivbgpax.cn^
@@ -10122,6 +10124,7 @@
 ||jxdown.com/statics/js/all.js
 ||jxdown.com^$third-party
 ||jxeyhgw.cn^
+||jxjpnd.xyz^
 ||jxjvtr.xyz^
 ||jxmiyrh.icu^
 ||jxncs1.com^
@@ -16625,6 +16628,7 @@
 ||uyuwkbt.top^
 ||uywoynr.cn^
 ||uyydww.xyz^
+||uyyquln.icu^
 ||uz44x.xyz^
 ||uzelzfnj.xyz^
 ||uznizrhd.xyz^
@@ -16723,6 +16727,7 @@
 ||vdianying.cc/wp-content/plugins/wp-adblock-dedect/
 ||vdoqomz.icu^
 ||vdrfes.site^
+||vdsdsf2.fun^
 ||vdtxlt.xyz^
 ||vdvcjlp.cn^
 ||ve0ke.icu^
