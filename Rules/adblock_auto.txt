@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: rhWGGVJ6QwiFIMAFRqd3Mw
+! Checksum: kV3L9dDG+WURyifUjxuB7A
 ! Title: 混合规则(自动更新)
-! Version: 20240912162951
+! Version: 20240913002849
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-12 16:29:51
-! Total Count: 152192
+! Last modified: 2024-09-13 00:28:49
+! Total Count: 152200
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -84221,6 +84221,7 @@
 ||uhpdsplo.com^
 ||uhrmzgp.com^
 ||uhsmmaq4l2n5.com^
+||uhuf56.fun^
 ||uhwnrfu.cn^
 ||uhxmyqyevkcvit.com^
 ||uhy89mb.com^
@@ -96048,7 +96049,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 163.com##a[href^="http://popme.163.com/"]
 163.com##span[class^="gg"]
 163.com,55188.com,csai.cn,miercn.com##div[class^="gg"]
-163.com,addictivetips.com,automotive-fleet.com,baixing.com,businessfleet.com,cfl.ca,developer.mozilla.org,fleetfinancials.com,forbesindia.com,government-fleet.com,howsecureismypassword.net,jav.work,leiphone.com,ncaa.com,pcwdld.com,rigzone.com,schoolbusfleet.com,sina.com.cn,wltreport.com,zybang.com##.top-banner
+163.com,addictivetips.com,automotive-fleet.com,baixing.com,businessfleet.com,cfl.ca,developer.mozilla.org,fleetfinancials.com,forbesindia.com,government-fleet.com,howsecureismypassword.net,jav.work,leiphone.com,ncaa.com,pcwdld.com,rigzone.com,schoolbusfleet.com,seekvectorlogo.net,sina.com.cn,wltreport.com,zybang.com##.top-banner
 163.com,allnigerianrecipes.com,antimusic.com,camwhores.tv,changsha.cn,darkcapture.app,forum.sbenny.com,hao6v.com,jrj.com.cn,lostarkcodex.com,malekal.com,neotv.com.cn,newsindiatimes.com,regular-expressions.info,roadtests.com,sina.cn,sina.com.cn,sportslens.com,vibraporn.com,weihemenye.com##.topad
 163.com,bilibili.com,longzhu.com##a[href*=".admaster."]
 163.com,jishujd.com##.index_top_ad
@@ -101602,7 +101603,7 @@ discuss.com.hk##div[style="width:728px;height:90px;"]
 discuss.com.hk##iframe[src="/fb_page_plugin.php?interface=web"]
 discuss.com.hk##iframe[src^="yna"]
 discuss.com.hk#$#iframe[width="728"][height="90"] { position: absolute!important; left: -3000px!important; }
-discuss.com.hk,uwants.com###right_column
+discuss.com.hk,icon-icons.com,uwants.com###right_column
 discussingfilm.net,goonhammer.com,hentaiprn.com,joemygod.com,shtfplan.com,tech-latest.com,thestrongtraveller.com,usmagazine.com,whipp3d.com##.widget_block
 disk.yandex.com,disk.yandex.ru##.direct-public__sticky-box
 diskingdom.com##div[id="diski-"]
@@ -118812,7 +118813,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /GoogleDFP.
 /Goto/aWNvbi*=/*$document
 /Goto/aWNvbi*=/*$~third-party
-/GunosyAdsSDKv2.js
+/GunosyAdsSDKv2.js$script
 /Handlers/Ads.
 /Heat_Ad.
 /HomeStaticAds/*
@@ -120651,7 +120652,9 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads.bmp?
 /ads.bundle.
 /ads.bundle.js
+/ads.bundle.js$script
 /ads.bundle.min.js
+/ads.bundle.min.js$script
 /ads.cfm?
 /ads.client-
 /ads.cms
@@ -121388,6 +121391,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adspf.
 /adspi.
 /adsplay.
+/adsplugin/js/*$script
 /adsplupu.
 /adsponsor.
 /adspot.$domain=~adspot.lt
@@ -121532,6 +121536,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adtomo/*
 /adtonomy.
 /adtool/*
+/adtools.js$script
 /adtools/*
 /adtools2.
 /adtooltip/*
@@ -121572,6 +121577,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adunix.
 /adurl/*
 /adutil.
+/adutil.js$script
 /adutils.
 /aduxads.
 /aduxads/*
@@ -122483,7 +122489,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /bottomad.png$image
 /bottomad/*
 /bottomads.
-/bottomads.js
+/bottomads.js$script
 /bottomsidead/*
 /box_ad_
 /box_ads_
@@ -124486,6 +124492,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /mhw0/leilang/*
 /microad.$domain=~microad.co.id
 /microad.js
+/microad.js$script
 /microads/*
 /middle_adv_
 /middleads.
@@ -124832,6 +124839,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /page-ads-
 /page-ads.
 /page-links-to/dist/new-tab.js
+/page-links-to/dist/new-tab.js$script
 /page-peel
 /page-peel$~xmlhttprequest
 /page/?s=$third-party
@@ -125090,6 +125098,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /pop2.js?r=$script
 /pop?tid=
 /pop_8/*$domain=its.sex|jav4tv.com|oksex.tv|sexjav.org|sexjav.tv|xhentai.tv
+/pop_8/pop_8_$script
 /pop_8_2.js
 /pop_ad.
 /pop_adfy.
@@ -125117,6 +125126,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /popunder/in/click/*$popup
 /popunder1.
 /popunder1.js$script
+/popunder1000.js$script
 /popunder1000.js$third-party,script
 /popunder1_
 /popunder2.
@@ -125892,8 +125902,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /sponsor-ad
 /sponsor-ad$image
 /sponsor-banner.
-/sponsor-banner.jpg
-/sponsor-banner.png
 /sponsor-box?
 /sponsor-links.
 /sponsor-links.html
@@ -125965,7 +125973,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /square-ads/*
 /squaread.
 /squaread.jpg
-/squaread.js
 /squareads.
 /sr.ads.
 /src/ads_
@@ -126253,6 +126260,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /top_ads_
 /top_adv_
 /topad.
+/topad.html$subdocument
 /topad/*
 /topad3.
 /topadImg.
@@ -126540,7 +126548,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /wedel_ad.
 /weeklyAdsLabel.
 /welcome_ad.
-/welcome_ad.js
 /welcomead.
 /welcomeadredirect.
 /wenziad.js?var=$script,~third-party
@@ -126883,6 +126890,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 ://affiliates.$third-party
 ://affiliates2.$third-party
 ://aj25*.bid/$third-party
+://ak-ads-ns.
 ://als1007.xz.*.cn/qd/*/*ml168.apk?$document
 ://als1007.xz.*.cn/qd/*/*ml168.apk?$~third-party
 ://als1007.xz.*.cn/qd/*/*xf168.apk?$document
