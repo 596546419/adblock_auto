@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 898/dwwaUAqufNdOS4E5hQ
+! Checksum: rhWGGVJ6QwiFIMAFRqd3Mw
 ! Title: 混合规则(自动更新)
-! Version: 20240912094115
+! Version: 20240912162951
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-12 09:41:15
-! Total Count: 152188
+! Last modified: 2024-09-12 16:29:51
+! Total Count: 152192
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -15503,6 +15503,7 @@
 ||bnr.sys.lv^
 ||bnrdnx.xyz^
 ||bnrdom.com^
+||bnrk7esglquispx2lsluttlm.xyz^
 ||bnrs.it^
 ||bnrsis.com^
 ||bnrslks.com^
@@ -32054,6 +32055,7 @@
 ||flirt4e.com^
 ||flirt4free.com^
 ||flirtatiousconsultyoung.com^
+||flirtclickmatches.life^
 ||flirtfusiontoys.toys^
 ||flirthere1.com^
 ||flirtingsms.com^
@@ -33123,6 +33125,7 @@
 ||fsgiosi.com^
 ||fsgsfaf6.com^
 ||fsihfhjt.com^
+||fsijngnfsfk.com^
 ||fsjjrbz.cn^
 ||fskj100.cn^
 ||fsksvtvhxtyqp.com^
@@ -43692,6 +43695,7 @@
 ||jdhgswknl.com^
 ||jdhpfnfc.com^
 ||jdiaveu.cn^
+||jdickea.top^
 ||jdipsuma.top^
 ||jditera.top^
 ||jdjckugsvlrmhnp.com^
@@ -96044,7 +96048,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 163.com##a[href^="http://popme.163.com/"]
 163.com##span[class^="gg"]
 163.com,55188.com,csai.cn,miercn.com##div[class^="gg"]
-163.com,addictivetips.com,automotive-fleet.com,baixing.com,businessfleet.com,cfl.ca,fleetfinancials.com,forbesindia.com,government-fleet.com,howsecureismypassword.net,jav.work,leiphone.com,ncaa.com,pcwdld.com,rigzone.com,schoolbusfleet.com,sina.com.cn,wltreport.com,zybang.com##.top-banner
+163.com,addictivetips.com,automotive-fleet.com,baixing.com,businessfleet.com,cfl.ca,developer.mozilla.org,fleetfinancials.com,forbesindia.com,government-fleet.com,howsecureismypassword.net,jav.work,leiphone.com,ncaa.com,pcwdld.com,rigzone.com,schoolbusfleet.com,sina.com.cn,wltreport.com,zybang.com##.top-banner
 163.com,allnigerianrecipes.com,antimusic.com,camwhores.tv,changsha.cn,darkcapture.app,forum.sbenny.com,hao6v.com,jrj.com.cn,lostarkcodex.com,malekal.com,neotv.com.cn,newsindiatimes.com,regular-expressions.info,roadtests.com,sina.cn,sina.com.cn,sportslens.com,vibraporn.com,weihemenye.com##.topad
 163.com,bilibili.com,longzhu.com##a[href*=".admaster."]
 163.com,jishujd.com##.index_top_ad
