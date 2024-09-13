@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: W7lJz3Z6r47PQWFsVWkKIw
+! Checksum: gggu1TUSgNOTq1vZuVQbng
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240913002901
+! Version: 20240913094223
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-13 00:29:01
-! Total Count: 28876
+! Last modified: 2024-09-13 09:42:23
+! Total Count: 28881
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5279,6 +5279,7 @@
 ||cgovyjnmdtauwdhek.com^
 ||cgqmss.xyz^
 ||cgqwgv.icu^
+||cgskys.xyz^
 ||chadnli.cn^$document
 ||chadnli.cn^$~third-party
 ||chahua.org/aimg/
@@ -7841,6 +7842,7 @@
 ||gd163.*/2018_ad/
 ||gdbyhtl.net^*adfix/
 ||gdcytv.cn^*.gif
+||gdd08.com^
 ||gdfp.gifshow.com^
 ||gdjme27.com^
 ||gdl.i9dhjx.ru^
@@ -9748,6 +9750,7 @@
 ||jhkggrr.icu^
 ||jhl1993.cn^
 ||jhlazsot.icu^
+||jhlnlt.xyz^
 ||jhnnnb.xyz^
 ||jhpbtp.xyz^
 ||jhpxlyd.cn^
@@ -12160,6 +12163,7 @@
 ||nhbprf.xyz^
 ||nhcdn.cn^
 ||nhjkm.com^
+||nhjn788.fun^
 ||nhyvhmvw.com^
 ||nickhel.com^
 ||nieae.xyz^
@@ -12272,6 +12276,7 @@
 ||nrbqgf.cn^
 ||nrfhbd.xyz^
 ||nrj.fr/nrj?Page=/rg.fake&
+||nroeoxk.icu^
 ||nrsfh.com/neirong/
 ||nrzzaep.xyz^
 ||nsclick.baidu.com^

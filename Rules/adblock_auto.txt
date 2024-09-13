@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: kV3L9dDG+WURyifUjxuB7A
+! Checksum: umcUo4aBhs9adS6CfznNjg
 ! Title: 混合规则(自动更新)
-! Version: 20240913002849
+! Version: 20240913094211
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-13 00:28:49
-! Total Count: 152200
+! Last modified: 2024-09-13 09:42:11
+! Total Count: 152243
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1444,6 +1444,7 @@
 ||2c2a1b058e.com^
 ||2c3a97984f45.com^
 ||2c4rrl8pe.de^
+||2c5d30b6f1.com^
 ||2c6bcbbb82ce911.com^
 ||2ccc.com/images/WebXone.gif
 ||2ccc.com/images/aobi.gif
@@ -3747,6 +3748,7 @@
 ||97e4ef7bf5.com^
 ||97ii.cn^
 ||98.126.219.*/ads/
+||98140548.xyz^
 ||9814b49f.xyz^
 ||98158.com^
 ||9831tb.com^
@@ -12004,6 +12006,7 @@
 ||avevofipnqobi.com^
 ||avfay.com^
 ||avfqvyuqsdph.com^
+||avgads.space^
 ||avgive3431.fun^
 ||avgle.topgirlsdating.com^$domain=avgle.com
 ||avglfookdjuj.com^
@@ -14592,6 +14595,7 @@
 ||biaoshipai.net^
 ||biaseddocumentationacross.com^
 ||biasedpushful.com^
+||biaxalstiles.com^
 ||bibasicbdrm.top^
 ||bibberbummler.com^
 ||bibbledendysis.top^
@@ -18631,6 +18635,7 @@
 ||cexlaifqgw.com^
 ||cexlwqgvstesfs.com^
 ||cexucetum.com^
+||ceznscormatio.com^
 ||cf-ads.pinger.com^
 ||cf-eba.everytime.kr^
 ||cf-native.karte.io^
@@ -18708,6 +18713,7 @@
 ||cgqwgv.icu^
 ||cgsjaulupnd.com^
 ||cgskqg.com^
+||cgskys.xyz^
 ||cguospfen.com^
 ||cgupialoensa.com^
 ||cgvhtvj.cn^
@@ -23820,6 +23826,7 @@
 ||dawutobliged.com^
 ||daxishi.com^$third-party
 ||daxwfrbocaaau.com^
+||daybeamposit.com^
 ||daybreakarchitecture.com^
 ||dayfund.*/images/uds/
 ||dayfund.cn/images/uds/
@@ -24415,6 +24422,7 @@
 ||denghaishan1.cn^
 ||dengzhou.us^
 ||denialrefreshments.com^
+||deniedsolesummer.com^
 ||denlorian.com^
 ||denoughtanot.info^
 ||denounceburialbrow.com^
@@ -24731,6 +24739,7 @@
 ||dfd55780d6.com^
 ||dfdaaa12.com^
 ||dfdgfruitie.xyz^
+||dfdzflttbjh.com^
 ||dfearinglestp.info^
 ||dfearinglestpeople.com^
 ||dfec2.com^
@@ -25372,6 +25381,7 @@
 ||discreetmotortribe.com^
 ||discreetquarter.com^$third-party
 ||discrepancyabsolution.com^
+||discretionpollclassroom.com^
 ||discriminationprovide.com^
 ||discuss.com.hk/dfp_forum.php?au=Discuss_Web_
 ||discuss.com.hk/include/javascript/idle_check.js
@@ -27449,6 +27459,7 @@
 ||eaica.xyz^
 ||eajpryc.com^
 ||eajqezprowiuy.com^
+||eakelandorder.com^
 ||eakelandorders.org^
 ||ealdi.xyz^
 ||ealeo.com^
@@ -32256,6 +32267,7 @@
 ||fnelqqh.com^
 ||fnfhjka.xyz^
 ||fngcgbl.icu^
+||fnhvdvxrenvl.com^
 ||fnitw.xyz^
 ||fnjoomqa.icu^
 ||fnkio.cyou^
@@ -33090,6 +33102,7 @@
 ||frugalitymassiveoldest.com^
 ||frugalrevenge.com^
 ||frugalrushcap.com^
+||frugalseck.com^
 ||fruins.com^
 ||fruitflan.com^
 ||fruitfulgreenhousefacility.com^
@@ -33316,6 +33329,7 @@
 ||funestjacket.shop^
 ||fungianjaggier.digital^
 ||fungiaoutfame.com^
+||fungidcolder.com^
 ||fungus.online^
 ||funiooboqifnku.com^
 ||funjoobpolicester.info^
@@ -34180,6 +34194,7 @@
 ||gdbyhtl.net^*adfix/
 ||gdbyxgjbkgv.com^
 ||gdcytv.cn^*.gif
+||gdd08.com^
 ||gddrio.com^
 ||gdecording.info^
 ||gdecordingholo.info^
@@ -36411,6 +36426,7 @@
 ||growingcastselling.com^
 ||growingfailure.pro^
 ||growingio.com^
+||growjav11.fun^
 ||growledavenuejill.com^
 ||growlingopportunity.com^
 ||grown-inpp-code.com^
@@ -37639,6 +37655,7 @@
 ||haxbyq.com^
 ||haxd7.top^
 ||haxqxd.xyz^
+||haxwkupllzkbuv.com^
 ||hayfatduh.com^
 ||hayjvhirir.com^
 ||haymarketstat.de^
@@ -40091,6 +40108,7 @@
 ||hxghalcrv.com^
 ||hxgqqxopf.com^
 ||hxgrdgrgjktw.xyz^
+||hxgylpazn.com^
 ||hxhohd.xyz^
 ||hxhx9.cn^
 ||hxiak.com^
@@ -40679,6 +40697,7 @@
 ||iepda.xyz^
 ||iephrenhq.com^
 ||iesandb.cfd^
+||iessjhfdsyn.com^
 ||ietbwrkg.com^
 ||ietlwso.top^
 ||ietyofedinj89yewtburgh.com^
@@ -43965,6 +43984,7 @@
 ||jhkj.work^
 ||jhl1993.cn^
 ||jhlazsot.icu^
+||jhlnlt.xyz^
 ||jhlxfw.cn^
 ||jhneyyawsibo.com^
 ||jhnnnb.xyz^
@@ -44664,6 +44684,7 @@
 ||jqdldk.cn^
 ||jqdnvg.com^
 ||jqgqrsvcaos.xyz^
+||jqimofnrrzxqcl.com^
 ||jqitetsk.com^
 ||jqk2me2mzf.ru^
 ||jqkcett.icu^
@@ -48317,6 +48338,7 @@
 ||lesserdragged.com^
 ||lessite.pro^
 ||lessonworkman.com^
+||lestqqoquamajn.com^
 ||lestv1.icu^
 ||lestv10.icu^
 ||lestv7.icu^
@@ -50276,6 +50298,7 @@
 ||lrvrayrnqjzjw.top^
 ||lrvrayrnqjzkz.top^
 ||lrwksobdw.com^
+||lryofjrfogp.com^
 ||lryqef.xyz^
 ||lrysogsil.uno^
 ||lrzsksw.cn^
@@ -56603,6 +56626,7 @@
 ||nhfpdc.cn^
 ||nhgds.xyz^
 ||nhjkm.com^
+||nhjn788.fun^
 ||nhjnkis.com^
 ||nhjsuchlliioi.com^
 ||nhjwh.com^
@@ -57351,6 +57375,7 @@
 ||nowspots.com^
 ||nowsubmission.com^
 ||nowtrk.com^
+||nowxdpborhej.com^
 ||noxaffiliates.com^
 ||noxagile.duapp.com^
 ||noxbfmatyavxl.com^
@@ -57445,6 +57470,7 @@
 ||nrmlewvayj.com^
 ||nrnma.com^
 ||nrnmsqpjghj.com^
+||nroeoxk.icu^
 ||nroqwfqwcdtb.xyz^
 ||nrqjoxar.com^
 ||nrqppdgnhaagjq.com^
@@ -57670,6 +57696,7 @@
 ||nurcghihmec.com^
 ||nurewsawan.org^
 ||nurewsawaninc.info^
+||nurhagstackup.com^
 ||nurno.com^
 ||nurobi.info^
 ||nuroflem.com^
@@ -58174,6 +58201,7 @@
 ||occupationcomplimentsenjoyment.com^
 ||occupiedpace.com^
 ||occurclaimed.com^
+||occurdefrost.com^
 ||occust.com^
 ||ocddolmggjc.com^
 ||ocdn.eu/ramp/*/Sponsoring-Mobile-Float-Universal/*.js
@@ -61417,6 +61445,7 @@
 ||peenuteque.net^
 ||peepacquisitionavalanche.com^
 ||peepholelandreed.com^
+||peephoogruku.net^
 ||peer39.com^
 ||peer39.net^
 ||peerdomatop.click^
@@ -62436,6 +62465,7 @@
 ||piratepc.net^
 ||piratespc.net^
 ||pirchio.com^
+||pirdnpamgbwjv.com^
 ||pirist.com^
 ||pirniemagi.com^
 ||pirnirok.top^
@@ -63326,6 +63356,7 @@
 ||pool.supportxmr.com^
 ||poolgmsd.com^
 ||pooloccurrence.com^
+||poolsperlite.click^
 ||poonproscash.com^
 ||poopd.xyz^
 ||poopsmussy.space^
@@ -68505,6 +68536,7 @@
 ||reprea.com^
 ||reprenebritical.org^
 ||representativebat.com^$third-party
+||representhostilemedia.com^
 ||representrollerpurposely.com^
 ||reprimandheel.com^
 ||reprimandhick.com^
@@ -69757,6 +69789,7 @@
 ||rprinc6etodn9kunjiv.com^
 ||rps-uk.rockpapershotgun.com^
 ||rpsoybm.com^
+||rpsukimsjy.com^
 ||rptdbyvychrfap.com^
 ||rptjx.xyz^
 ||rptmoczqsf.com^
@@ -72266,6 +72299,7 @@
 ||sfafabztidi.com^
 ||sfaxnqia.com^
 ||sfcfssgbrhnsb.com^
+||sfdsplvyphk.com^
 ||sffsdvc.com^
 ||sfg11rr.com^
 ||sfgprze.cn^$document
@@ -72415,6 +72449,7 @@
 ||shakesider.com^
 ||shakeson.ru^
 ||shakesuggestion.com^$third-party
+||shakingtacklingunpeeled.com^
 ||shakre.com^
 ||shakydeploylofty.com^
 ||shakyseat.com^$third-party
@@ -77290,6 +77325,7 @@
 ||subtle-selection.pro^
 ||subtractillfeminine.com^
 ||subtractrefused.com^
+||suburbgetconsole.com^
 ||suburbincriminatesubdue.com^
 ||subwaygirlieweasel.com^
 ||subwayporcelainrunning.com^
@@ -82915,6 +82951,7 @@
 ||trmnsite.com^
 ||trmobc.com^
 ||trmwidget.eu^
+||trndabegvhndg.com^
 ||trocado.at^
 ||trodpigbays.com^
 ||trodspivery.com^
@@ -82922,6 +82959,7 @@
 ||trofvid.com^
 ||trojangfw.xyz^
 ||trokemar.com^
+||trolandmattes.com^
 ||trolleydemocratic.com^
 ||trolleydryerfunds.com^
 ||trolleytool.com^
@@ -84976,6 +85014,7 @@
 ||up-rank.com^
 ||up.hiao.com^
 ||up.qingdaonews.com/up/$object,script
+||up2cdn.com^
 ||up4u.me^
 ||upaicpa.com^
 ||upailek.cn^
@@ -85049,6 +85088,7 @@
 ||upmoveatoms.com^
 ||upoll.umengcloud.com^
 ||uponelectabuzzor.club^
+||uponflannelsworn.com^
 ||uponge.com^
 ||uponhariyamar.com^
 ||uponminunan.com^
@@ -89699,6 +89739,7 @@
 ||whimsicalcoat.com^
 ||whineattempt.com^$third-party
 ||whinecapicha.space^
+||whinemalnutrition.com^
 ||whineshellcat.space^
 ||whineyancilia.top^
 ||whiningbewildered.com^
@@ -94508,6 +94549,7 @@
 ||zefmsbu.cn^
 ||zefusgk.com^
 ||zegnoaft.com^
+||zegnoogho.xyz^
 ||zegrumse.net^
 ||zegvid.com^
 ||zegvid.net^
@@ -97529,7 +97571,7 @@ aguitar.cn##.headerbanner2
 aguitar.cn##.news_b
 aguitar.cn##img[width="470"][height="60"]
 aguitar.cn,guitarchina.com,mansurfer.com##.headerbanner
-ah-me.com,gaygo.tv##.flirt-block
+ah-me.com,gaygo.tv,tranny.one##.flirt-block
 ah123z.com,ahzwx.com##script + div[style]
 ahaan.co.uk##.MuiSnackbar-anchorOriginBottomCenter
 ahaan.co.uk,emailnator.com,myip.is,scrolller.com,whereto.stream##[href^="https://go.nordvpn.net/"]
@@ -104698,6 +104740,7 @@ hentaihaven.icu,hentaihaven.xxx,hentaistream.tv,nhentai.io##.script_manager_vide
 hentaihaven.xxx##.vrav_a_pc
 hentaimama.io##div[class^="in-between-ad"]
 hentaipaw.com##.header-ad,.middle-ad,[id^="ts_ad_native"]
+hentaipaw.com##.max-w-\[720px\]
 hentaiplay.net###video_overlays
 hentaiporn.one##+js(no-setTimeout-if, realsrv, 300)
 hentaiporn.one,povaddict.com,myxclip.com##.adv-square
