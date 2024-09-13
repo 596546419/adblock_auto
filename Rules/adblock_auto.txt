@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 91I/eGvfjQSvG1quSDJrZg
+! Checksum: tcN377f1/gNr/+hUtOI03g
 ! Title: 混合规则(自动更新)
-! Version: 20240913162812
+! Version: 20240914002729
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-13 16:28:12
-! Total Count: 152250
+! Last modified: 2024-09-14 00:27:29
+! Total Count: 152260
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6703,6 +6703,7 @@
 ||adshack.com^
 ||adsharedwi897th.cfd^
 ||adshares.net^
+||adshere.online^
 ||adshexa.com^
 ||adshim.com^
 ||adshnk.com^
@@ -8371,6 +8372,7 @@
 ||alas4kanmfa6a4mubte.com^
 ||alaskan4kleeskai.com^
 ||alasvow.com^
+||alaudrup.net^
 ||alb.reddit.com^
 ||alban-mro.com^
 ||albaniablandly.space^
@@ -23427,6 +23429,7 @@
 ||dajean.com^
 ||dajewoi.top^
 ||dajiadu8.com/17.js
+||dajiadu8.com/17mb/script/ad.js
 ||dajiafacai923.xyz^
 ||dajiafacai926.xyz^
 ||dajiahao10.top^
@@ -32732,6 +32735,7 @@
 ||fq02.shop^
 ||fq03.shop^
 ||fq04.shop^
+||fq05.shop^
 ||fq67.top^
 ||fqab5xq7qlgt.info^
 ||fqanulluixeis.com^
@@ -45338,6 +45342,7 @@
 ||jy04.shop^
 ||jy05.shop^
 ||jy06.shop^
+||jy07.shop^
 ||jy135.com/js/pubuliu.
 ||jy135.com^$third-party
 ||jy147a.com^
@@ -72480,6 +72485,7 @@
 ||shamepracticegloomily.com^
 ||shamining.com^
 ||shammesbyssin.top^
+||shamnmalcwob.com^
 ||shamodesha.com^
 ||shamosmatic.com^
 ||shanaurg.net^
@@ -101835,8 +101841,12 @@ doubtnut.com###Web_HomePage_Banner_Resposive_1-container
 doubtnut.com###Web_VideoPage_Banner_Resposive_1-container
 doudoudm.site##a[href*=".kxyike.com/"]
 doudoudm.site,ezdmw.com##.public_ad
+douglas.*##.swiper-slide:has(button[data-testid="sponsored-button"])
+douglas.*##div.product-grid-column:has(button[data-testid="sponsored-button"])
 douglas.at,douglas.be,douglas.ch,douglas.cz,douglas.de,douglas.es,douglas.hr,douglas.hu,douglas.it,douglas.lt,douglas.lv,douglas.nl,douglas.pl,douglas.pt,douglas.ro,douglas.si,douglas.sk,nocibe.fr##[class="cms-criteo"]
 douglas.at,douglas.be,douglas.ch,douglas.cz,douglas.de,douglas.es,douglas.hr,douglas.hu,douglas.it,douglas.nl,douglas.pl,douglas.pt,douglas.ro,douglas.si,douglas.sk##.product-grid-column:has(.product-tile__sponsored)
+douglas.at,douglas.be,douglas.ch,douglas.cz,douglas.de,douglas.es,douglas.hr,douglas.hu,douglas.it,douglas.nl,douglas.pl,douglas.pt,douglas.ro,douglas.si,douglas.sk##.swiper-slide:has(button[data-testid="sponsored-button"])
+douglas.at,douglas.be,douglas.ch,douglas.cz,douglas.de,douglas.es,douglas.hr,douglas.hu,douglas.it,douglas.nl,douglas.pl,douglas.pt,douglas.ro,douglas.si,douglas.sk##div.product-grid-column:has(button[data-testid="sponsored-button"])
 douguo.com###dlayer
 douguo.com##.mbs
 douploads.net##a[href^="https://href.li/?"]
@@ -122740,7 +122750,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /common/ads?
 /common/ads_
 /common/adv_
-/common/cf/*$image,object,domain=~bingfeng.tw|~dahuaiji.com
+/common/cf/*$image,object,domain=~bingfeng.tw|~dahuaiji.com|~ztgame.com
 /common/dart_wrapper_
 /commonAD.
 /common_ad.
