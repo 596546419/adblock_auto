@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: umcUo4aBhs9adS6CfznNjg
+! Checksum: 91I/eGvfjQSvG1quSDJrZg
 ! Title: 混合规则(自动更新)
-! Version: 20240913094211
+! Version: 20240913162812
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-13 09:42:11
-! Total Count: 152243
+! Last modified: 2024-09-13 16:28:12
+! Total Count: 152250
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -35824,6 +35824,7 @@
 ||goosebomb.com^
 ||goosedaily.com/advertise/
 ||goosetension.com^
+||goosierappetit.com^
 ||goosimes.com^
 ||goossb.com^
 ||goostist.com^
@@ -41916,6 +41917,7 @@
 ||inhalebrinkrush.com^
 ||inhaleecstatic.com^
 ||inhaletroubledgentle.com^
+||inhanceego.com^
 ||inhe.*/Uploadfiles/adpublish
 ||inhe.net/Uploadfiles/inhegg2016/
 ||inheart.ru^
@@ -45753,6 +45755,7 @@
 ||kdh095.cn^
 ||kdhome.net/images/banner
 ||kdhome.net/templets/default/img/tpfd.jpg
+||kdicked.top^
 ||kdipsumd.top^
 ||kdjdpyrt.xyz^
 ||kdkatxfkxmgmbhu.xyz^
@@ -63209,6 +63212,7 @@
 ||pointed-deal.pro^
 ||pointeddifference.com^
 ||pointedmana.info^
+||pointespassage.com^
 ||pointinginexperiencedbodyguard.com^
 ||pointlesseventuallydesignate.com^
 ||pointlesshour.com^$third-party
@@ -69483,6 +69487,7 @@
 ||rocketyield.com^
 ||rockfellertest.com^
 ||rockierfought.top^
+||rockiertaar.com^
 ||rockingfolders.com^
 ||rockmostbet.com^
 ||rockpicky.com^
@@ -70183,6 +70188,7 @@
 ||runningangular.com^
 ||runningdestructioncleanliness.com^
 ||runningman.site^
+||runnionpox.click^
 ||runnyestablishment.pro^
 ||runnypage.pro^
 ||runoj.click^
@@ -90684,6 +90690,7 @@
 ||worriednumber.com^$third-party
 ||worriedwine.com^$third-party
 ||worriesteapotairborne.com^
+||worritsmahra.com^
 ||worryingonto.com^
 ||worseobscureplastic.com^
 ||worsesziara.com^
