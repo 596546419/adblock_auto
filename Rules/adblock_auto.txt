@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Pu9FGPnCOCS/6gbNm/NfgQ
+! Checksum: Umrvq4EMD2Ngw04bCjOa0A
 ! Title: 混合规则(自动更新)
-! Version: 20240914162811
+! Version: 20240915002654
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-14 16:28:11
-! Total Count: 152294
+! Last modified: 2024-09-15 00:26:54
+! Total Count: 152308
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9445,6 +9445,7 @@
 ||analytics.erepublic.com^
 ||analytics.evgcdn.net^
 ||analytics.evn.com.vn^
+||analytics.explus.vn^
 ||analytics.fabricators.ltd^
 ||analytics.facebook.com^
 ||analytics.faceitanalytics.com^
@@ -18431,6 +18432,7 @@
 ||cdp.cloud.unity3d.com^
 ||cdp.vemt.com^
 ||cdpqtuityras.com^
+||cdptracker.hocmai.com.vn^
 ||cdrvkdni.xyz^
 ||cdrvrs.com^
 ||cdryuoe.com^
@@ -19484,6 +19486,7 @@
 ||cibntv.net/youku/*.mp4?$media,redirect=noopmp4-1s,domain=v.youku.com,important
 ||cicamica.xyz^
 ||cicelysewans.com^
+||cicfbo.yt-hgs.de^
 ||cichiji.top^
 ||cickofou.com^
 ||cicqdaqtrws.info^
@@ -26660,6 +26663,7 @@
 ||drrzzl.cn^
 ||drsmediaexchange.com^
 ||drtraff.ru^
+||drtrs55.fun^
 ||drtyuigj.xyz^
 ||drtyujgsg.xyz^
 ||drubbersestia.com^
@@ -37222,6 +37226,7 @@
 ||hahamx.cn/img/x.jpg
 ||hahamx.cn/upload/data/detail_
 ||hahamx.cn/upload/data/list_sidebar_
+||hahaql.top^
 ||hahscalusar.guru^
 ||hahusa.top^
 ||haiao.wang^
@@ -66533,6 +66538,7 @@
 ||qqvvkebebnlq.top^
 ||qqwwmm.com^
 ||qqwxi.xyz^
+||qqwyihwm.thjen.tech^
 ||qqxfybt.cn^
 ||qqxiazai.com/index.*adver&
 ||qqyaarvtrw.xyz^
@@ -96439,7 +96445,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 2345.com#?#.pic:-abp-has(a[href^="http://g.wan."])
 2345.com,duanwenxue.com###topHf
 247checkers.com###feature-ad-holder
-247media.com.ng,abmedia.io,aboutcrypto.info,appinn.com,appleworld.today,athleticsillustrated.com,businessaccountingbasics.co.uk,captainaltcoin.com,carrotchou.blog,circuitbasics.com,closerweekly.com,coincodecap.com,cozyberries.com,crickhabari.com,dbknews.com,deshdoaba.com,developer-tech.com,foreverconscious.com,glitched.online,globalgovernancenews.com,granitegrok.com,intouchweekly.com,jharkhandmirror.net,kashmirreader.com,kkfm.com,landiannews.com,laoliublog.cn,levittownnow.com,lifeandstylemag.com,londonnewsonline.co.uk,marqueesportsnetwork.com,mensjournal.com,nikonrumors.com,ognsc.com,patriotfetch.com,pctechmag.com,prajwaldesai.com,pstribune.com,raspians.com,robinhoodnews.com,rok.guide,rsbnetwork.com,showbiz411.com,spokesman-recorder.com,sportsspectrum.com,stacyknows.com,thecatholictravelguide.com,thedefensepost.com,theoverclocker.com,therainbowtimesmass.com,thethaiger.com,ubuntu101.co.za,wakingtimes.com,washingtonmonthly.com,webscrypto.com,wgow.com,wgowam.com,wlevradio.com,woniuyulew.com,xingkbjm.com,zhain8.com##.widget_media_image
+247media.com.ng,abmedia.io,aboutcrypto.info,appinn.com,appleworld.today,athleticsillustrated.com,businessaccountingbasics.co.uk,captainaltcoin.com,carrotchou.blog,circuitbasics.com,closerweekly.com,coincodecap.com,cozyberries.com,crickhabari.com,dbknews.com,deshdoaba.com,developer-tech.com,foreverconscious.com,glitched.online,globalgovernancenews.com,granitegrok.com,intouchweekly.com,jharkhandmirror.net,kashmirreader.com,kkfm.com,landiannews.com,laoliublog.cn,levittownnow.com,lifeandstylemag.com,londonnewsonline.co.uk,marqueesportsnetwork.com,mensjournal.com,nikonrumors.com,ognsc.com,patriotfetch.com,pctechmag.com,prajwaldesai.com,pstribune.com,raspians.com,robinhoodnews.com,rok.guide,rsbnetwork.com,showbiz411.com,spokesman-recorder.com,sportsspectrum.com,stacyknows.com,supertotobet90.com,thecatholictravelguide.com,thedefensepost.com,theoverclocker.com,therainbowtimesmass.com,thethaiger.com,ubuntu101.co.za,wakingtimes.com,washingtonmonthly.com,webscrypto.com,wgow.com,wgowam.com,wlevradio.com,woniuyulew.com,xingkbjm.com,zhain8.com##.widget_media_image
 247mirror.com,365economist.com,bridewired.com,dailybee.com,drgraduate.com,historictalk.com,mvpmode.com,news-opossumsauce.com,parentmood.com,theecofeed.com,thefunpost.com,visualchase.com,wackojaco.com##.ya-slot
 247solitaire.com,247spades.com##div[class^="aspace-"]
 247sports.com##.minutely-wrapper
@@ -96951,7 +96957,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 52ch.net##div[style^="margin-top:5px; height:60px;"]
 52che.com##a[href^="http://count.52che.com/goto.html?"]
 52fx.cn##.nex_index_top_ads
-52fzwg.com,79tao.com,hqol.cn,icabbs.com,k7d.com,kxdao.net,mcncc.com,sunwy.org,twunbbs.com,wnflb.com,wnflb2023.com,wnflb66.com,xkeba.com,zhenn.net,zhenniu.vip,zn501.com,zn503.com,zn506.cc,zn508.com##.GzList
+52fzwg.com,79tao.com,hqol.cn,icabbs.com,k7d.com,kxdao.net,mcncc.com,sunwy.org,twunbbs.com,wnflb.com,wnflb2023.com,wnflb66.com,xkeba.com,zhenn.net,zhenniu.vip,zn50.top,zn501.com,zn503.com,zn508.com##.GzList
 52kd.com###frame2cu3VU
 52life.cc##table[style="margin-top:0"]
 52pk.com###baidutop
@@ -102392,8 +102398,8 @@ electronicshub.org,net-load.com###text-25
 element-plus.gitee.io##.sidebar > .page-content
 element-plus.gitee.io,element-plus.org##.toc-content > .m-t-16px
 element-plus.gitee.io,element-plus.org##aside > .page-content
-element-plus.org##.page-content-main-d
 element-plus.org##.toc-content > div[style="margin-top:16px;"]
+element-plus.org##DIV[class^="page-content-main-"]
 element-plus.org##aside > .page-content-main
 elephanttube.world##.bottom-block
 elephanttube.world##.spots-bottom
@@ -106335,6 +106341,7 @@ javme.net##.top-ads-content,.bottom-ads-content
 javme.net##div[class^="b"][class*="9"],div[class^="i"][class*="9"]
 javmenu.top,javmenu03.top,javmenu02.top##.common_banner
 javmovieporn.com,xxxmax.net#$#.video-list-content.with-happy .thumb-block { clear: unset !important; }
+javplayer.me##div[style="position: absolute; inset: 0px; z-index: 999; display: block;"]
 javporn.tv##.download-favorite-container > a[target="_blank"]
 javporn.tv#?#.content-area > div.download-favorite-container > a[target="_blank"]:upward(1)
 javporn.tv,hentaiworld.tv###floating-banner
@@ -108737,6 +108744,7 @@ mydrivers.com#?#div[class^="news_info"] > ul.newslist > li:has(> span:contains(�
 mydrivers.com#?#li:-abp-has(>.titl+.t:-abp-contains(广告))
 mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(/广*告/))
 mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(/推*广/))
+mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(好物))
 mydrivers.com#?#li:-abp-has(>.titl+:-abp-contains(广告))
 mydrivers.com,pujia8.com###recommend
 mydrivers.com,taizhou.com.cn##.duilian2
@@ -108977,6 +108985,7 @@ nepallivetoday.com##.adsimage
 nepallivetoday.com,wjr.com##img[height="100"]
 nesabamedia.com##.adfullwrap
 nesaporn.com##td[width="360"][style^="padding:0px 0px 0px 50px;"]
+nesmaps.com##[src^="images/ads/"]
 net-load.com##.ai_widget.widget
 net-load.com##.m7s-81.m7s
 netbardh.com###bg_left
@@ -113944,7 +113953,7 @@ tmioe.com##.__single_0
 tmioe.com##.ad_single_0
 tmioe.com##.adtag + .entry-copyright
 tmioe.com##.entry-copyright
-tmioe.com##.singlegg
+tmioe.com##.tphf
 tmioe.com##a[target="_blank"] > img[src*=".sinaimg.cn"]
 tmo.report###directad
 tmsf.com###property_listf
@@ -116715,8 +116724,8 @@ zhenbuka.com##+js(no-setTimeout-if, ad_ids)
 zhenbuka.com##.jq-toast-wrap
 zhenbuka3.com,zhenbuka2.com,bukaivip.com##+js(adjust-setTimeout, CloseAd, , 0.02)
 zhenbuka3.com,zhenbuka2.com,bukaivip.com##+js(no-setTimeout-if, ad_load_fail)
-zhenniu.vip,zn506.cc,zn508.com###klp_hdp
-zhenniu.vip,zn506.cc,zn508.com#?##portal_block_69_content > li:-abp-has(a[href^="http"])
+zhenniu.vip,zn50.top,zn508.com###klp_hdp
+zhenniu.vip,zn50.top,zn508.com#?##portal_block_69_content > li:-abp-has(a[href^="http"])
 zhentube.com###custom_html-38
 zhibo8.cc###m_adv
 zhibo8.cc###popautoapp
@@ -117787,6 +117796,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 .com/dm/dibu.js
 .com/dongcidaci/
 .com/doubleclick/
+.com/ed/java.js$script
 .com/ev/*?type=events&event=
 .com/ev/*?type=impressions
 .com/exad/
@@ -119747,7 +119757,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad_digital.
 /ad_dir/*
 /ad_display.
-/ad_display.js
 /ad_display_
 /ad_drivers/*
 /ad_ebound.
@@ -119973,7 +119982,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad_utils/*
 /ad_ver/*
 /ad_vert.
-/ad_vert.gif
 /ad_vertical.
 /ad_video.htm
 /ad_video1.
@@ -119984,7 +119992,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad_www_
 /adactions.
 /adanalytics.
-/adanalytics.js
+/adanalytics.js$script
 /adanim/*
 /adaptive_components.ashx?type=ads&
 /adaptv_ortb/*
@@ -120181,7 +120189,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adcore.$domain=~adcore.be|~adcore.ch|~adcore.com.au|~adcore.ua
 /adcore_$domain=~adcore.ch|~adcore.com.au
 /adcount.$domain=~adcount.com|~adcount.fi
-/adcount.js
+/adcount.js$script
 /adcounter.
 /adcreative.
 /adcreative.$domain=~adcreative.es|~adcreative.nl|~hange.jp
@@ -120291,6 +120299,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adfurikun/*$~image
 /adfusion/*
 /adfx.loader.bind.js
+/adfx.loader.bind.js$script
 /adgear.js
 /adgear/*
 /adgear1-
@@ -120684,6 +120693,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads-api.
 /ads-arc.
 /ads-async.
+/ads-async.$script
 /ads-beacon.
 /ads-blocking-detector.
 /ads-blocking-detector.$script
@@ -122209,6 +122219,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /apijs/lunbovipdaka/*.js$~third-party
 /apopwin.
 /apopwin.js
+/apopwin.js$script
 /app.ads-
 /app.ads.
 /app/ads.
@@ -122325,7 +122336,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /banimpress.
 /banman.asp?
 /banman/*
-/banman/ad.aspx
+/banman/ad.aspx$image
 /banmanpro/*
 /banner-ad-
 /banner-ad.$~script
@@ -122574,7 +122585,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /bottom-ads.png$image
 /bottom-advert-
 /bottom_ad.
-/bottom_ad.jpg
 /bottom_ads.
 /bottom_adv.
 /bottom_adv_
@@ -122863,7 +122873,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /cpmShopAds^
 /cpm_ad.
 /cpmbanner.
-/cpmbanners.js
+/cpmbanners.js$script
 /cpmcampaigns/*
 /cpmrect.
 /cpro.$popup,third-party
@@ -123073,6 +123083,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /dfpInAngular.
 /dfpNew.
 /dfpNew.min.js
+/dfpNew.min.js$script
 /dfp_ads/*
 /dfp_async.
 /dfp_async.js
@@ -123230,6 +123241,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /eco_ads/*
 /ecom/magnet.
 /ed/fol457.
+/ed/fol457.$script
 /editable/ads/*
 /edmonton.webp$script
 /eis/diy/ad/*
@@ -123390,6 +123402,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /floatad2.
 /floatad_
 /floatads.
+/floatads.$script
 /floatadv.
 /floatadv.js
 /floatcaopron.js
@@ -123408,6 +123421,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /flvads/*
 /flyad.
 /flyad.js
+/flyad.js$script
 /flyad/*
 /flyads/*
 /flyers/ads/*
@@ -124104,6 +124118,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /intermediate-ad-
 /internAds.
 /internAds.css
+/internAds.css$stylesheet
 /internal-ad-
 /internet_ad_
 /internetad/*
@@ -125197,7 +125212,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /pop_ad.
 /pop_adfy.
 /pop_ads.
-/pop_ads.js
 /pop_camgirlcity.
 /pop_packcpm.
 /pop_under.
@@ -125224,12 +125238,10 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /popunder1000.js$third-party,script
 /popunder1_
 /popunder2.
-/popunder2.js
+/popunder2.js$script
 /popunder4.
 /popunder5.
-/popunder5.js
 /popunder7.
-/popunder7.min.js
 /popunder?
 /popunderWeb-
 /popunder_
@@ -125548,7 +125560,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /repeat_adv.
 /reporo_
 /report_ad.
-/report_ad.js
 /report_ad_
 /requestadvertisement.
 /requestmyspacead.
@@ -125812,6 +125823,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /side_ads/*$~xmlhttprequest
 /side_adverts.
 /sidead.
+/sidead.js$script
 /sidead/*
 /sidead1.
 /sidead1.js$script
@@ -125998,7 +126010,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /sponsor-banner.
 /sponsor-box?
 /sponsor-links.
-/sponsor-links.html
 /sponsor/*.jpg$domain=mephimnhat.com
 /sponsor/click.
 /sponsorHeaderDeriv_
@@ -126066,7 +126077,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /square-ad.
 /square-ads/*
 /squaread.
-/squaread.jpg
+/squaread.jpg$image
 /squareads.
 /sr.ads.
 /src/ads_
@@ -126350,6 +126361,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /top_ad/*
 /top_ad_
 /top_ads.
+/top_ads.$~xmlhttprequest
 /top_ads/*
 /top_ads_
 /top_adv_
@@ -126499,6 +126511,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /vbvua.js
 /vclkads.
 /velvet_stack_cmp.js
+/velvet_stack_cmp.js$script
 /vendor-ads-
 /vendors~ads.
 /vericaladtitle.
@@ -126564,6 +126577,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /virtuagirl/*
 /virtuagirl3.
 /virtuagirlhd.
+/virtuagirlhd.$image
 /virtual_girl_
 /virtualgirl/*
 /virtualgirlhd-
