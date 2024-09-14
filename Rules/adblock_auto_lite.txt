@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: fuOGVjZ/swDda4ZOpClZnQ
+! Checksum: /zAmuJxQamU0Q1XwHE/Tsw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240914094043
+! Version: 20240914162823
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-14 09:40:43
-! Total Count: 28891
+! Last modified: 2024-09-14 16:28:23
+! Total Count: 28894
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -600,6 +600,7 @@
 ||360kan.com/v1/block?blockid=544&
 ||360xs.com/templates/html5/js/djtop.js
 ||360yield.com^
+||3625ggtp1.com^
 ||365kl.net/data/attachment/portal/
 ||365rich.cn/ba.aspx
 ||369bgrec.top^
@@ -10207,6 +10208,7 @@
 ||kaixinjiehun.com^$third-party
 ||kaiyiluye.com^
 ||kaiyuan308.vip^
+||kaiyuantp.vip^
 ||kak17p.xyz^
 ||kakakumag.com/script/mag/smartphone/fixed_bnr_area.js
 ||kalerkantho.com/banner/
@@ -14428,6 +14430,7 @@
 ||sdfxcv.com^
 ||sdfxv57.com^
 ||sdfyiu.com^
+||sdickeb.top^
 ||sdipsumb.top^
 ||sdjbcjsbdjk.com^
 ||sdjbvjsbvjz.com^

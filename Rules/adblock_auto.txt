@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: tDxi9I2wMBPiTJMVas56yQ
+! Checksum: Pu9FGPnCOCS/6gbNm/NfgQ
 ! Title: 混合规则(自动更新)
-! Version: 20240914094031
+! Version: 20240914162811
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-14 09:40:31
-! Total Count: 152283
+! Last modified: 2024-09-14 16:28:11
+! Total Count: 152294
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1799,6 +1799,7 @@
 ||3615407.xyz^
 ||3615738.xyz^
 ||3622911ae3.com^
+||3625ggtp1.com^
 ||362728tdg.com^
 ||3633a.com^
 ||363lm.com^
@@ -3659,6 +3660,7 @@
 ||920share.com/wp-content/uploads/*/911
 ||9216tp1.com^
 ||922tp.com/wp-content/uploads/*0x
+||92790388.xyz^
 ||9284swk.cn^
 ||92by17snes4.cc^
 ||92dp.com/home/showga?
@@ -17579,6 +17581,7 @@
 ||canddi.com^
 ||candiedguilty.com^
 ||candiedtouch.com^
+||candiothoveled.com^
 ||candiruarf.com^
 ||candleannihilationretrieval.com^
 ||candy-network.com^
@@ -20562,6 +20565,7 @@
 ||coatassert.com^
 ||coatedflamfew.click^
 ||coatfood.com^$third-party
+||coationexult.com^
 ||coatsanguine.com^
 ||coatslilachang.com^
 ||coawheer.net^
@@ -25923,6 +25927,7 @@
 ||do09.net^
 ||doaboowa.com^
 ||doaipomer.com^
+||doajauhopi.xyz^
 ||doaltariaer.com^
 ||doaphaha.net^
 ||doappcloud.com^
@@ -45549,6 +45554,7 @@
 ||kaixinjiehun.com^$third-party
 ||kaiyiluye.com^
 ||kaiyuan308.vip^
+||kaiyuantp.vip^
 ||kaizenplatform.net^
 ||kaizentraffic.com^
 ||kaizzz.xyz^
@@ -61450,6 +61456,7 @@
 ||pedailyu.com^
 ||pedestalturner.com^
 ||pedestrianneighbourly.com^
+||pedeticinnet.com^
 ||pedjqkl.xyz^
 ||pedlujvcfd.com^
 ||pedropanther.com^$third-party
@@ -71483,6 +71490,7 @@
 ||sdhongjia.com^
 ||sdhzstone.net^
 ||sdiatesupervis.com^
+||sdickeb.top^
 ||sdipsumb.top^
 ||sdjbcjsbdjk.com^
 ||sdjbvjsbvjz.com^
@@ -98474,7 +98482,8 @@ axios-js.com###lagou-vip
 axios-js.com##.lessonlist
 axios-js.com##.recommand
 axios-js.com##.vultr-desc
-axios.com##.latestStoriesAd
+axios.com##.lg\:min-h-\[200px\]
+axios.com##.min-h-\[200px\]
 axios.com##.shortFormNativeAd
 axios.com##[data-cy="injected-promo"]
 axios.com##[data-vars-category="sidebar_promo"]
@@ -108246,6 +108255,7 @@ mitbbs.ca,mitbbs.com##.newskuang2
 mitbbs.ca,mitbbs.com##table[width="336"][height="280"]
 mitbbs.ca,mitbbs.com##table[width="915"] > tbody > tr:first-child > td[width]
 miushuo.com###leftDiv1
+mixonline.com##.site-ad
 mjzj.com##div[id^="sidebar-top-carouse"]
 mlsbd.shop##.notice-board
 mlsbd.shop##.srzads
@@ -113970,6 +113980,7 @@ tokder.org###ssss
 tokopedia.com##[href$="src=topads"]
 tokyomotion.com##.is-gapless > .has-text-centered:has(> div > .adv)
 tokyonightstyle.com##.random-banner
+tokyoweekender.com##.anymind-ad-banner
 tokyvideo.com##.fan--related-videos.fan
 tom.com###body_right_banner
 tom.com###popupDivgame
@@ -119879,8 +119890,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad_rentangle.
 /ad_req.
 /ad_request.
-/ad_request.js
-/ad_request.php
 /ad_resize.
 /ad_right.
 /ad_right.$subdocument
@@ -120046,6 +120055,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adblock_detect.
 /adblock_detector.
 /adblock_detector2.
+/adblock_detector2.$script
 /adblock_erreur.
 /adblock_gate/images/animated.gif?
 /adblock_logger.
@@ -121100,7 +121110,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads3.
 /ads3/*
 /ads300.
-/ads4.
 /ads4.$domain=~ads4.city
 /ads4/*
 /ads468.
@@ -121122,6 +121131,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads728adn2.
 /ads728e.
 /ads728x90.
+/ads728x90.$image
 /ads728x90_
 /ads728x90a.
 /ads790.
@@ -123358,7 +123368,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /flash_ads.
 /flashad.
 /flashad.asp$subdocument
-/flashad.js
+/flashad.js$script
 /flashad3.
 /flashads.$domain=~flashads.co.id
 /flashads/*
@@ -124167,6 +124177,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /jquery.openxtag.js
 /jquery.openxtag.js$script
 /jquery.peelback.
+/jquery.peelback.$script
 /jquery.php/?uid=
 /jquery/ad.
 /jquery_FOR_AD/*
@@ -126389,7 +126400,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /trendad.
 /tres/recommend/*$domain=ifeng.com
 /triadshow.
-/triadshow.asp
+/triadshow.asp$script,subdocument
 /tribalad.
 /tripplead/*
 /tt_gb/skin_js/gg.js
