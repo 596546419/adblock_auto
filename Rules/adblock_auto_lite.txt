@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: S9JmFcz2gydZG91X8ldn0g
+! Checksum: fuOGVjZ/swDda4ZOpClZnQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240914002740
+! Version: 20240914094043
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-14 00:27:40
-! Total Count: 28885
+! Last modified: 2024-09-14 09:40:43
+! Total Count: 28891
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6612,6 +6612,7 @@
 ||ds1.kaijia.com^
 ||dsa22.com^
 ||dsad234.fun^
+||dsads55.fun^
 ||dsaewew21.fun^
 ||dsbfpt.xyz^
 ||dsbjdeh.cn^
@@ -7713,6 +7714,7 @@
 ||fzd3.com/gg/
 ||fzf1.top^
 ||fzgetdy.cn^
+||fzjbsvgz.icu^
 ||fzllis.cn^
 ||fzlol.com/images/$script
 ||fznxvf.xyz^
@@ -7987,6 +7989,7 @@
 ||gk1.582582.com^
 ||gk1.zjbiz.net^
 ||gk99.com/static/js/a-d-sys.js
+||gkeolwi.icu^
 ||gkjmev3.com^
 ||gkktjf.top^
 ||gklox.cn^
@@ -12415,6 +12418,7 @@
 ||ofgsqic.cn^$~third-party
 ||ofjslik.top^
 ||ofkcww.xyz^
+||ofqvca.xyz^
 ||ofweek.com/pop/ad/
 ||og.zyzjpx.cn^$third-party
 ||ogidskik.top^
@@ -13951,6 +13955,7 @@
 ||relationrest.com^$third-party
 ||remehealth.net^$third-party
 ||rememberdiscussion.com^$third-party
+||renohj.xyz^
 ||renote.*/assets/sp_inline_ad_
 ||renote.*/assets/sp_overlay_ad_
 ||rentiyishu.org/*.js
@@ -16717,6 +16722,7 @@
 ||vcnpnf.xyz^
 ||vcugbgu.cn^
 ||vcvbnmto.xyz^$third-party
+||vcxv787.fun^
 ||vcydyzd.icu^
 ||vdebtqm.xyz^
 ||vdggsd001.com^
