@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 3ASIW3dJSoSXrfitpGl8cQ
+! Checksum: hbZT2Ngmvlfa3QE40da4YA
 ! Title: 混合规则(自动更新)
-! Version: 20240915163218
+! Version: 20240916003209
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-15 16:32:18
-! Total Count: 152340
+! Last modified: 2024-09-16 00:32:09
+! Total Count: 152362
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -572,6 +572,7 @@
 ||1221e236c3f8703.com^
 ||1223f33efe.com^
 ||1227a.xyz^
+||1228540867.rsc.cdn77.org^
 ||12291.com^$third-party
 ||122949d67b35f6c3372bfa3b4a3b8a1e.com^
 ||1229a.xyz^
@@ -738,6 +739,7 @@
 ||163.com/special/*_netease
 ||163.com/wap/special/article_cooper_piapia/
 ||163.com^*/boboData
+||16327739.xyz^
 ||163disk.com/static/aimgs/d
 ||163disk.com/static/images/51
 ||163disk.com/static/www/
@@ -783,6 +785,7 @@
 ||17.huanqiu.com^
 ||1704598c25.com^
 ||1708t.com/js/jquery.js
+||1710712823.rsc.cdn77.org^
 ||17123.net^
 ||17173.com/actapi/qiyu/
 ||17173.com/advideo/
@@ -927,6 +930,7 @@
 ||1b14e0ee42d5e195c9aa1a2f5b42c710.com^
 ||1b264a0ca0.com^
 ||1b32caa655.com^
+||1b384556ae.com^
 ||1b3tmfcbq.de^
 ||1b73a49a1b.com^
 ||1b8873d66e.com^
@@ -21582,6 +21586,7 @@
 ||coonceder.space^
 ||coonnfirrmm-bankingg247njf.weebly.com^
 ||coope.cyou^
+||cooperateboneco.com^
 ||cooperativechuckledhunter.com^
 ||cooperativepassenger.com^
 ||coordinatedbedroom.com^$third-party
@@ -30533,6 +30538,7 @@
 ||f857.hearstmediatx.com^
 ||f8a070.xyz^
 ||f8be4be498.com^
+||f8d11d9f38.com^
 ||f8dy.tv/template/m1938/js/b
 ||f8dy.tv/template/m1938/js/foot.js
 ||f8e36bb73c.com^
@@ -34106,6 +34112,7 @@
 ||gauntletjanitorjail.com^
 ||gauntletslacken.com^
 ||gaupambolic.com^
+||gaupaufi.net^
 ||gaupingjaguar.com^
 ||gaupsaur.xyz^
 ||gauqeo.xyz^
@@ -48542,6 +48549,7 @@
 ||lgviqkrimvmy.xyz^
 ||lgwddyouxxwd.com^
 ||lgwwcnrifdurpho.com^
+||lgwxawtg.com^
 ||lgxm.cool^
 ||lgyxxxlcsgwgfg.xyz^
 ||lh031i88q.com^
@@ -56675,6 +56683,7 @@
 ||nhjkm.com^
 ||nhjn788.fun^
 ||nhjnkis.com^
+||nhjnw78.fun^
 ||nhjsuchlliioi.com^
 ||nhjwh.com^
 ||nhkokkrr.com^
@@ -58874,6 +58883,7 @@
 ||oltcneutwheoioo.xyz^
 ||oltptelifmal.com^
 ||olularhenewrev.info^
+||olvwnmnp.com^
 ||olwsx.com^
 ||olxcvfwfej.com^
 ||olxtqlyefo.xyz^
@@ -64967,6 +64977,7 @@
 ||psoopoakihou.com^
 ||psoorgou.com^
 ||psoorsen.com^
+||psoostelrupt.net^
 ||psootaun.com^
 ||psootchu.net^
 ||psoothie.xyz^
@@ -65176,6 +65187,7 @@
 ||ptumtaip.com^
 ||ptuphotookr.com^
 ||ptupoobs.com^
+||ptupsewo.net^
 ||ptutchiz.com^
 ||ptvfranfbdaq.xyz^
 ||ptvfzv.xyz^
@@ -69416,6 +69428,7 @@
 ||rm4b.top^
 ||rmagugarmk.com^
 ||rmahmighoogg.com^
+||rmaiadmw.com^
 ||rmaiksacouuo.xyz^
 ||rmanentsyshru.com^
 ||rmaticalacycurated.info^
@@ -85648,6 +85661,7 @@
 ||uuwn7ho.cn^
 ||uuxfznnf.xyz^
 ||uuxs.net^$subdocument
+||uuyhonsdpa.com^
 ||uuysiaq.com^
 ||uuzlytbpmmhfm.com^
 ||uuzsfpju.xyz^
@@ -89838,6 +89852,7 @@
 ||whiskyqueue.com^$third-party
 ||whisla.com^
 ||whisperinflate.com^
+||whisperingauroras.com^
 ||whisperingbadge.com^$third-party
 ||whisperingcrib.com^$third-party
 ||whisperingsummit.com^$third-party
@@ -91202,6 +91217,7 @@
 ||ww9874.com/asset/playerInit.js
 ||wwads.cn^
 ||wwads.cn^$third-party
+||wwaeljajwvlrw.top^
 ||wwaeljajwvywm.top^
 ||wwahuxzipoc.com^
 ||wwandle.top^
@@ -95551,6 +95567,7 @@
 ||zvtnj.icu^
 ||zvvajeokyboae.top^
 ||zvvlbf.xyz^
+||zvvqprcjjnh.com^
 ||zvwhrc.com^
 ||zvxwvny.cn^
 ||zvzmzrarkvzzw.top^
@@ -99330,6 +99347,8 @@ blackhaloadultreviews.com,boyfriendtv.com,hentaigasm.com,javjunkies.com,masahub.
 blackhatworld.com##.bhw-advertise-link
 blackhatworld.com##.bhw-banners
 blackhatworld.com##.link--external.link > .bbImage
+blanktext.co##.min-h-\[230px\]
+blanktext.co,gizmodo.com,radio.net##.min-h-\[250px\]
 blasternation.com###xobda
 blastingnews.com###content-banner-dx1-p1
 blastingnews.com##.adv-box-content
@@ -100540,6 +100559,7 @@ cnet.com##.c-asurionInteractiveBanner
 cnet.com##.c-asurionInteractiveBanner_wrapper
 cnet.com##.c-pageReviewContent_ad
 cnet.com##.stickySkyboxSpacing
+cnet.com##[data-meta="placeholder-slot"]
 cnet.com,healthline.com##.myFinance-ad-unit
 cnet.com,zdnet.com##.c-avStickyVideo
 cnfol.com###CjAdvBt
@@ -104029,7 +104049,6 @@ gizmodo.com##.od-wrapper
 gizmodo.com##.widget_keleops-ad
 gizmodo.com,instavideosave.net##.min-h-\[350px\]
 gizmodo.com,kotaku.com,theonion.com,theroot.com##.taboola-container
-gizmodo.com,radio.net##.min-h-\[250px\]
 gizmodo.com.au,kotaku.com.au,lifehacker.com.au,pedestrian.tv##.brightcove-video-container
 gk-stalker.xyz###gkadblock
 glamourvanity.com##.wdt_gads
@@ -105018,6 +105037,7 @@ home-assistant-guide.com##.gb-container-429fcb03
 home-assistant-guide.com##.gb-container-5698cb9d
 home-assistant-guide.com##.gb-container-bbc771af
 home-designing.com,inc.com,trustpilot.com##.ad-block
+home.cricketwireless.com##div.skeleton.block-item
 home.firefoxchina.cn##.border-gray-200.tuijian
 home.firefoxchina.cn##a[title][track_key="sites_saoma"]
 home.firefoxchina.cn##a[track_key="sites_mingzhan"] + a[title="VIP"]
@@ -107233,6 +107253,7 @@ league-funny.com##.w336center
 league-funny.com##.widgetBox.w300600
 league-funny.com##.widgetBox.w728Bottom
 league-funny.com##div[class^="dan_pmp"]
+leagueofgraphs.com##.raptive-log-sidebar
 leak.sx,comohoy.com,pornleaks.in##+js(addEventListener-defuser, load, abDetectorPro)
 leakpics.cc,mypornwap.fun##div[style="display:block; max-width:90%; width:320px; height:50px;"]
 learn-cpp.org##[href^="http://www.spoj.com/"]
@@ -110734,6 +110755,7 @@ pornshare.biz##.banner_3
 pornshareproject.org###index_stats > center > a > img
 pornsitetest.com##div[id^="eroti-"]
 pornsos.com##.a-box
+pornstar-scenes.com###chatCamAjaxV0
 pornstar-scenes.com##a[aria-label="Join Site"]
 pornstar-scenes.com##a[href^="/join/"]
 pornstar-scenes.com##div[style="border-color:#ffffff;"]
@@ -119722,7 +119744,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad_600x500/*
 /ad_728.
 /ad_728.jpg$image
-/ad_728.js
+/ad_728.js$script
 /ad_728_
 /ad_960x90_
 /ad_agency/*
@@ -121429,7 +121451,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adsfloat.
 /adsfolder/*
 /adsforwp-
-/adsforwp-front.min.css
+/adsforwp-front.min.css$stylesheet
 /adsframe.
 /adsframework/*
 /adsfull/*
@@ -122739,7 +122761,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /cgi-bin/ad/*
 /cgi-bin/ad/*$~xmlhttprequest
 /cgi-bin/ads.
-/cgi-bin/ads.cgi
 /cgi-bin/ads/*
 /cgi-bin/ads_
 /cgi-exe/ad.
@@ -124717,6 +124738,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /mpads/*
 /mpbads.
 /mpbads2.
+/mpc/*$domain=52xkdy.com|fydy8.com
 /mpu-dm.htm
 /mpuad.
 /mpuguardian.
@@ -125299,7 +125321,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /popup3.js$script
 /popup_ad.
 /popup_ad.js$script
-/popup_ad.php
 /popup_code.
 /popup_code.php
 /popup_code.php$script
@@ -126475,6 +126496,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /uk.ads.
 /uk/ads/*
 /ukc-ad.
+/umd/advertisingWebRenderer.min.js$script
 /unibluead.
 /uniontgm.cmb.
 /unity/ad/*
@@ -126665,7 +126687,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /webad?
 /webadimg/*
 /webads.
-/webads.htm
 /webads/*
 /webads/*$image,domain=~cccc.edu|~meatingplace.com
 /webads_
@@ -148627,6 +148648,7 @@ zle.com$script
 ##a[href^="https://ak.oalsauwy.net/"]
 ##a[href^="https://ak.psaltauw.net/"]
 ##a[href^="https://albionsoftwares.com/"]
+##a[href^="https://allhost.shop/aff.php?"]
 ##a[href^="https://app.kmtgsopq.com?agentId="][target="_blank"]
 ##a[href^="https://athletedurable.com/"]
 ##a[href^="https://auesk.cfd/"]
