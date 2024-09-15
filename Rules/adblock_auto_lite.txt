@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: hn/1YOMWZfIzkQNc0h09pA
+! Checksum: HJ16kDcu2cz6HRIXFqXbqA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240915095116
+! Version: 20240915163230
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-15 09:51:16
-! Total Count: 28900
+! Last modified: 2024-09-15 16:32:30
+! Total Count: 28901
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6881,6 +6881,7 @@
 ||ed2000k.com/ad/
 ||eda.ru/_next/static/images/banner_adv
 ||edghkc.xyz^
+||edickew.top^
 ||edipsumw.top^
 ||edjjpgf.xyz^
 ||edler.cn^

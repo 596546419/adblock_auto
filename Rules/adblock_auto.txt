@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: cKiV3WmmBS//HDmOvZzW/A
+! Checksum: 3ASIW3dJSoSXrfitpGl8cQ
 ! Title: 混合规则(自动更新)
-! Version: 20240915095103
+! Version: 20240915163218
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-15 09:51:03
-! Total Count: 152337
+! Last modified: 2024-09-15 16:32:18
+! Total Count: 152340
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -21894,6 +21894,7 @@
 ||countino.de^
 ||countit.ch^
 ||countly.globaldelight.net^
+||countly.virgool.io^
 ||countnow.de^
 ||counto.de^
 ||countok.de^
@@ -27887,6 +27888,7 @@
 ||edgyconnaterag.com^
 ||edhimasifiwoery.xyz^
 ||edibleinvite.com^
+||edickew.top^
 ||ediemidnightzombies.com^
 ||edifiedpristaw.top^
 ||edindeedeisas.com^
@@ -89703,6 +89705,7 @@
 ||whartfidalgo.life^
 ||whatcl.ru^
 ||whateyesight.com^
+||whatfinger.com^
 ||whatijunnstherew.com^
 ||whatismyip.win^
 ||whatisnewappforyou.top^
@@ -102603,9 +102606,9 @@ essentialenglish.review##.right-panel
 essentiallysports.com##.es-ad-space-container
 essentiallysports.com##.jsx-4249843366
 estnn.com##.code-block-59
-estnn.com##.code-block-label
 estnn.com##.elementor-widget-wp-widget-ai_widget
 estnn.com##.isDesktop
+estnn.com,wltreport.com##.code-block-label
 esu.moe,esu.wiki###ASSPC
 esu.moe,esu.wiki###siteNotice
 esu.moe,esu.wiki##div[style*="position: relative; max-height: 400px;"]
