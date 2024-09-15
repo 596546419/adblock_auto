@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Umrvq4EMD2Ngw04bCjOa0A
+! Checksum: cKiV3WmmBS//HDmOvZzW/A
 ! Title: 混合规则(自动更新)
-! Version: 20240915002654
+! Version: 20240915095103
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-15 00:26:54
-! Total Count: 152308
+! Last modified: 2024-09-15 09:51:03
+! Total Count: 152337
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2085,6 +2085,7 @@
 ||45496fee.xyz^
 ||4567.org^$third-party
 ||456vdghgj30.dyndns.org^
+||45cb7b8453.com^
 ||45f2a90583.com^
 ||4602306b.xyz^
 ||46186911.vtt^
@@ -3138,6 +3139,7 @@
 ||777zz777zz.com^
 ||778669.com^
 ||778669.com^$third-party
+||77886044.xyz^
 ||7791.com.cn^
 ||7794.com^$third-party
 ||7795bfb724d4b16306823af218bc11fd.com^
@@ -4658,6 +4660,7 @@
 ||abyamaskor.com^
 ||abyescaplock.guru^
 ||abyocawlfe.com^
+||abzaligtwd.com^
 ||abzjkaridcit.com^
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
@@ -10983,6 +10986,7 @@
 ||arodul.com^
 ||aroidsguide.com^
 ||arointbarra.com^
+||arojgi.xyz^
 ||aromabirch.com^
 ||aromamidland.com^
 ||aromamirror.com^$third-party
@@ -21486,6 +21490,7 @@
 ||conventforgotten.com^
 ||conventional-nurse.pro^
 ||conventionalrestaurant.com^
+||conventionalsecond.pro^
 ||convergeselect.net^
 ||convergetrack.com^
 ||convers.link^
@@ -29979,6 +29984,7 @@
 ||ewpktjvfmet.com^
 ||ewpubiimput.com^
 ||ewqkrfjkqz.com^
+||ewqws55.fun^
 ||ewrerew29w09.com^
 ||ewrgryxjaq.com^
 ||ewrjjqflq.com^
@@ -30258,6 +30264,7 @@
 ||expugi.com^
 ||expulsionfluffysea.com^
 ||expwyredocks.com^
+||exqbondtwitvj.com^
 ||exquisiteartisanship.com^$third-party
 ||exquisitefundlocations.com^
 ||exquisiteseptember.com^
@@ -34754,6 +34761,7 @@
 ||ggwifobvx.com^
 ||ggx0001.com^
 ||ggxcoez.com^
+||ggxdzrvo.com^
 ||ggxt.net^
 ||ggxwb.miguvideo.com^
 ||ggxyyalrj.com^
@@ -45821,6 +45829,7 @@
 ||keapeiros.xyz^
 ||keapgypsite.website^
 ||keawmrohgxtl.com^
+||kebeckirgon.net^
 ||kebi1.top^
 ||kebi1.top^$third-party
 ||kebohjhh.xyz^
@@ -46380,6 +46389,7 @@
 ||kjjvpwvyon.com^
 ||kjjzx.cn^
 ||kjklisbcab.com^
+||kjkulnpfdhn.com^
 ||kjlmoxpnst.com^
 ||kjmfjwhlrhmmtq.com^
 ||kjmrtfpiaq.com^
@@ -59531,6 +59541,7 @@
 ||oqddkgixmqhovv.xyz^
 ||oqeazohx.com^
 ||oqedci.xyz^$third-party
+||oqejupqb.xyz^
 ||oqelpqoyyz.com^
 ||oqeohuc.cn^
 ||oqfdan.cn^
@@ -59664,6 +59675,7 @@
 ||orionember.com^$third-party
 ||orisow.com^
 ||orjfun.com^
+||orjmtknm.com^
 ||orjohmpkq.com^
 ||orjzy.com^
 ||orkoedthroug.xyz^
@@ -59815,6 +59827,7 @@
 ||otcdn2.auditude.com^
 ||otclick-adv.ru^
 ||otdalxhhiah.com^
+||otekmnyfcv.com^
 ||otelloexactor.com^
 ||otfiqdmohyhywj.com^
 ||othbhe2.com^
@@ -61596,6 +61609,7 @@
 ||people.com.cn/rmrb/tplimg/new.js
 ||peopleshouldthin.com^
 ||peoric.com^
+||peospjryrzxuyb.com^
 ||pepapigg.xyz^
 ||pepbuhcnfxd.com^
 ||pepepush.net^
@@ -66657,6 +66671,7 @@
 ||quackexclusfdfjd.com^
 ||quacksquirrel.com^$third-party
 ||quacktypist.com^
+||quackupsilon.com^
 ||quadhu.com^
 ||quadran.eu^
 ||quadrinhoseroticos.net^
@@ -67130,6 +67145,7 @@
 ||qzehwg.xyz^
 ||qzeqjvo.cn^
 ||qzesmjv.com^
+||qzetnversitym.com^
 ||qziuwzn.cn^
 ||qzkjkiexmsyv.com^
 ||qzlkqsl.cn^
@@ -70336,6 +70352,7 @@
 ||ruyig.com/730x76.png
 ||ruykjvdtutselj.com^
 ||ruyqiolnz.cyou^
+||ruzotchaufu.xyz^
 ||ruzxzebrupa.com^
 ||rva.outbrain.com^
 ||rvbiocn.cn^
@@ -77188,6 +77205,7 @@
 ||stroi-help.ru/forum/script_new.js
 ||strollfondnesssurround.com^
 ||strollspread.com^
+||stronepurrel.shop^
 ||strongersummon.com^$document
 ||strongersummon.com^$~third-party
 ||strongestboxerscrupulous.com^
@@ -77367,6 +77385,7 @@
 ||substantialhound.com^
 ||substantialstraw.com^$third-party
 ||subsultfidgety.click^
+||subtle-give.pro^
 ||subtle-selection.pro^
 ||subtractillfeminine.com^
 ||subtractrefused.com^
@@ -78893,6 +78912,7 @@
 ||taoshopgame.com^
 ||taoshopsieure.net^
 ||taoshopttv.xyz^
+||taosiz.xyz^
 ||taosq.net/public/250x250.jpg
 ||taotaogeren.xyz^
 ||taotaoxiang.*/111/
@@ -79461,6 +79481,7 @@
 ||temachaumble.top^
 ||tembetachasmic.guru^
 ||tembetanymil.com^
+||temgthropositea.com^
 ||temksrtd.net^
 ||temp.twicomi.com^
 ||tempbugs.com^
@@ -84175,6 +84196,7 @@
 ||udsahkln.xyz^
 ||udtropary.top^
 ||uduhytyllobm.com^
+||uduxztwig.com^
 ||udxdkdirwabx.com^
 ||udxhzqg.cn^
 ||udykkl.cn^
@@ -86291,6 +86313,7 @@
 ||vayvontieudungshinhanbank.com^
 ||vayysieutoc.com^
 ||vazhno.ru/cdn-cgi/apps/head/*.js
+||vazshojt.com^
 ||vazypteke.pro^
 ||vbanalytics.com^
 ||vbanm.com^
@@ -86352,6 +86375,7 @@
 ||vcvnsyewnv.com^
 ||vcwcrd.cn^
 ||vcxipynawv.com^
+||vcxv73.fun^
 ||vcxv787.fun^
 ||vcxzp.com^
 ||vcydyzd.icu^
@@ -86484,6 +86508,7 @@
 ||vendexo.com^
 ||vendigamus.com^
 ||vendimob.pl^
+||vendingboatsunbutton.com^
 ||vendorsfacture.com^
 ||vendri.io^
 ||venea.net/web/ab_message?
@@ -87618,6 +87643,7 @@
 ||vlyby.com^
 ||vm.aty.sohu.com^
 ||vm5apis.com^
+||vm8lm1vp.xyz^
 ||vmap.v.ad-generation.jp^
 ||vmax-ktv.com^
 ||vmayman.com^
@@ -90164,6 +90190,7 @@
 ||wingads.com^
 ||wingerssetiger.com^
 ||wingingtuzzle.space^
+||wingjav11.fun^
 ||wingleeer.space^
 ||wingontravel.com/Static/headerfooter/Content/js/masterpage.
 ||wingoodprize.life^
@@ -93412,6 +93439,7 @@
 ||yitongqinba.com/js/aa/$script
 ||yitongqinba.com/js/xin/$script
 ||yitongwl.cn^
+||yiucfif.icu^
 ||yiuspekmn.bar^
 ||yivkzvog.xyz^
 ||yiw2iei.icu^
@@ -96026,7 +96054,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 123pan.com##.banner-container-pc
 123pan.com##[class*="adv-container"]
 123pan.com##div[style="width:100%;position:absolute;bottom:0;height:96px"]
-123proxy.biz###cookieConsentUR99472
+123proxy.biz,theproxy.lol,uproxy2.biz###cookieConsentUR99472
 123putlocker.io##[href^="https://moneynow.one/"]
 123unblock.bar###lbxVPN666
 125.la##.forumlist_ad
@@ -113649,6 +113677,7 @@ thepostmillennial.com###leader-mot
 thepostmillennial.com##.mot-label
 thepostmillennial.com##.support
 thepostmillennial.com##.surfsharkcontent
+theproxy.lol,uproxy2.biz##.nrd-general-d-box
 thequint.com##._1v3nU
 thequint.com##._4xQrn
 therailwayhub.co.uk##.revive

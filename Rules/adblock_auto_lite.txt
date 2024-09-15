@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Z41LmCISlQIAqK6wALRk7w
+! Checksum: hn/1YOMWZfIzkQNc0h09pA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240915002705
+! Version: 20240915095116
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-15 00:27:05
-! Total Count: 28896
+! Last modified: 2024-09-15 09:51:16
+! Total Count: 28900
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3817,6 +3817,7 @@
 ||ark.letv.com/s?
 ||arkkcu.xyz^
 ||arnhhwo.xyz^
+||arojgi.xyz^
 ||aromamirror.com^$third-party
 ||arpg2.com^
 ||arqvm.cn^
@@ -7156,6 +7157,7 @@
 ||ewfsef.com^
 ||ewioud.com^
 ||ewjhic.cn^
+||ewqws55.fun^
 ||ewrwf.com^
 ||ewxufqs.cn^
 ||ewzavfde.xyz^
@@ -16727,6 +16729,7 @@
 ||vcnpnf.xyz^
 ||vcugbgu.cn^
 ||vcvbnmto.xyz^$third-party
+||vcxv73.fun^
 ||vcxv787.fun^
 ||vcydyzd.icu^
 ||vdebtqm.xyz^
@@ -18129,6 +18132,7 @@
 ||yitongkan.com/splash.xml$redirect=noop.js,domain=yitongkan.com,script
 ||yitongqinba.com/js/aa/$script
 ||yitongqinba.com/js/xin/$script
+||yiucfif.icu^
 ||yivkzvog.xyz^
 ||yiw2iei.icu^
 ||yiwckti.icu^
