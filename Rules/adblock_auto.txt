@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Q1L+6+Ghu/iLb1cxhD7APA
+! Checksum: 0DaC48uvDgaLzgVNubHURA
 ! Title: 混合规则(自动更新)
-! Version: 20240916163452
+! Version: 20240917002941
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-16 16:34:52
-! Total Count: 152434
+! Last modified: 2024-09-17 00:29:41
+! Total Count: 152446
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1257,6 +1257,7 @@
 ||23617710.com^
 ||23696187.com^
 ||23873645.com^
+||23879858.xyz^
 ||23900341.com^
 ||23907915.com^
 ||239300.net/template/*_mh_gg
@@ -36609,6 +36610,7 @@
 ||gtcpsvyirosieug.com^
 ||gtcqbnu.cn^
 ||gtcslt-di2.com^
+||gtdf33.fun^
 ||gter.net/index.html?c=foot_js&type=footer.js
 ||gtgkbkbwpqyhvq.com^
 ||gth112.com^
@@ -56213,7 +56215,6 @@
 ||nestormandadv.xyz^
 ||net-filter.com^
 ||net-tracker.notolytix.com^
-||net.geo.opera.com^
 ||net.iberia.com^
 ||net.jumia.com^
 ||net.lsipes.com^
@@ -62931,6 +62932,7 @@
 ||plausible.ams.to^
 ||plausible.citynews.ovh^
 ||plausible.omgapi.org^
+||plausible.paimon.moe^
 ||plausible.pronouns.cc^
 ||plausible.scimago.es^
 ||plausible.server.hakai.app^
@@ -99595,6 +99597,7 @@ booktxts.com##div[style*="position:"]
 boomlive.in##.right_ad_4
 booom.net,x6d.com,ziyuanyo.com##.tmall_tab
 bootcss.com##.bs-docs-sidebar a[href^="http://click.aliyun.com/"]
+boots.com###criteoSpContainer
 boots.com#?#.oct-listers-hits__item:-abp-contains(Sponsored)
 bootyheroes.com##.cross-promo-bnr
 bootyoftheday.co###lj
@@ -100014,6 +100017,7 @@ carpeludum.com##.widget_widget_catchevolution_adwidget
 carrotchou.blog##.item > a[href^="http"]:not([href*=".carrotchou."])
 cars.com##[id$="-sponsored"]
 carsales.com.au,technobuffalo.com##.page-header
+carsauce.com##.ad-holder
 carscoops.com##.in-asd-content
 carsdirect.com###TopBanner
 carsdirect.com##.adFooterWrapper
@@ -105293,6 +105297,7 @@ huarenjie.com###LeftAd2
 huarenjie.com###RightAd2
 huarenjie.com###cftoutiao
 huarenjie.net##div[style*="top: 50px;"]
+hubcloud.club##.ads-btns
 hubcloud.day##[alt="New-Banner"]
 huddle.today##.huddle-big-box-placement
 huffingtonpost.co.uk,huffpost.com##.entry__right-rail-width-placeholder
@@ -112255,6 +112260,7 @@ shoesession.com##iframe[width="732"]
 shopee.sg#?#.shopee-header-section__content:-abp-contains(Ad)
 shopee.sg#?#.shopee-search-item-result__item:-abp-contains(Ad)
 shoprite.com##[class^="CitrusBannerXContainer"]
+shoprite.com##div[class*="Row--"]:has(img[src*="/PROMOTED-TAG_"])
 shoprite.com,thefreshgrocer.com##.CitrusBannerWrapper--enollj
 shortlist.com##.align-xl-content-between
 shortwaveschedule.com###reclama_mijloc
@@ -114281,6 +114287,8 @@ tripadvisor.com##div:has(> div[class="ui_columns is-multiline "])
 tripadvisor.com##div[class="ui_container dSjaD _S"]
 tripadvisor.com#?#.cAWGu:-abp-has(a:-abp-contains(Similar Sponsored Properties))
 tripadvisor.com#?#.tkvEM:-abp-contains(Sponsored)
+tripadvisor.com#?#[data-automation="crossSellShelf"] div:has(> span:-abp-contains(Sponsored))
+tripadvisor.com#?#[data-automation="relatedStories"] div > div:has(a:-abp-contains(SPONSORED))
 tripsonabbeyroad.com##.e-con-inner:has(tp-cascoon)
 tripsonabbeyroad.com##[href^="https://tp.media/"]
 tripstodiscover.com##.fs-dynamic
@@ -120842,6 +120850,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads-module.
 /ads-module/*
 /ads-mopub?
+/ads-native.js$script
 /ads-net.$domain=~ads-net.org
 /ads-new.
 /ads-no-
@@ -121215,6 +121224,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads05.
 /ads09a/*
 /ads1.
+/ads1.$~xmlhttprequest,domain=~ads-i.org
 /ads1/*
 /ads10.
 /ads10/*
@@ -124346,6 +124356,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /js/ads/youxiajiao.js
 /js/ads/zuoxiajiao.js
 /js/ads888/*
+/js/advRotator.js$script
 /js/advertiser.js
 /js/adverts-
 /js/adwordstracking.
@@ -125603,7 +125614,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /rads/b/*
 /rail_ad_
 /railad.
-/railad.jpg
 /railads.
 /railsad.
 /railsad_
@@ -125831,6 +125841,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /scripts/ads/*
 /scripts/afc/*
 /scripts/chatur.js
+/scripts/js3caf.js$script
 /scripts/youthad.js
 /scripts/zanox-
 /scrollAd-
@@ -125840,6 +125851,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /sd_ads_$domain=~rakuten.co.jp
 /sda/*$domain=chineseinla.com
 /sdk/push_web/?zid=
+/sdk/push_web/?zid=$third-party
 /search-ads?
 /search/ad/*
 /search/ads?
