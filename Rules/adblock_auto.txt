@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: hbZT2Ngmvlfa3QE40da4YA
+! Checksum: 2ojJkm1ci4afI5ixVgVWUw
 ! Title: 混合规则(自动更新)
-! Version: 20240916003209
+! Version: 20240916094926
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-16 00:32:09
-! Total Count: 152362
+! Last modified: 2024-09-16 09:49:27
+! Total Count: 152413
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7843,6 +7843,7 @@
 ||agitated-potential.pro^
 ||agitationdispense.com^
 ||agitazio.com^
+||agjevez.ztraks.de^
 ||agjy6.com^
 ||agkacg.xyz^
 ||agkn.com^
@@ -13194,9 +13195,11 @@
 ||baotienphong.net^
 ||baotrixanhvn.com^
 ||baoviet-vn.cc^
+||baovietcv.top^
 ||baovietin.top^
 ||baovietn.vip^
 ||baovietvay.top^
+||baovietvc.top^
 ||baowf.com^
 ||baowt.com^
 ||baoying.asia^
@@ -15969,6 +15972,7 @@
 ||bowmoolog.com^
 ||bowoprf.icu^
 ||bowtellwhincow.cfd^
+||bowvses.icu^
 ||box.rus.porn^
 ||box.zap.com.br^
 ||boxappellation.com^
@@ -16727,6 +16731,7 @@
 ||bumpyremittancecarnivorous.com^
 ||bumq.com^
 ||bumskontakte.ch^
+||bumxmomcu.com^
 ||bunbeautifullycleverness.com^
 ||bunchance.com^$third-party
 ||bunchedvisards.life^
@@ -21750,6 +21755,7 @@
 ||coumasha.xyz^
 ||counaupsi.com^
 ||councedvdvg.club^
+||councernedasesi.com^
 ||counciladvertising.net^
 ||councilheader.com^
 ||counda.com^
@@ -22450,6 +22456,7 @@
 ||crs-event.line.me^
 ||crs-hometab-event.line.me^
 ||crs.baidu.com^
+||crsope.com^
 ||crsspxl.com^
 ||crta.and.co.uk^
 ||crta.dailymail.co.uk^
@@ -24608,6 +24615,7 @@
 ||despotbenignitybluish.com^
 ||despotfifteen.com^
 ||dessertgermdimness.com^
+||dessillucian.com^
 ||dessly.ru^
 ||destc10.icu^
 ||destc8.icu^
@@ -25688,6 +25696,7 @@
 ||djmss.cn^$~third-party
 ||djmwwdrznntss.com^
 ||djmwxpsijxxo.xyz^
+||djosbhwpnfxmx.com^
 ||djphnuhkbjf.com^
 ||djponj.xyz^
 ||djqacscl.com^
@@ -26731,6 +26740,8 @@
 ||dsbudkwq.xyz^
 ||dsceopm.cn^
 ||dsctnsn.xyz^
+||dsda21.fun^
+||dsdsa33.fun^
 ||dsdsg44.fun^
 ||dsethimdownthmo.com^
 ||dsfd67.com^
@@ -28127,6 +28138,7 @@
 ||efdcw.cyou^
 ||efdjelx.com^
 ||efdlfh.cn^
+||efemsvcdjuov.com^
 ||effacedefend.com^
 ||effaceecho.com^
 ||effacerevealing.com^
@@ -29108,6 +29120,7 @@
 ||epitrack.com^
 ||epiv.cardlytics.com^
 ||epjwugocpvan.xyz^
+||eplndhtrobl.com^
 ||epmf4.cn^
 ||epmfjjabhfwgkun.com^
 ||epnjbpnncucp.com^
@@ -34855,6 +34868,7 @@
 ||giaodichtiente247ipay.weebly.com^
 ||giaodichvidientu.com.vn^
 ||giaohangtietkiem247.com^
+||giaohangtietkiem247.top^
 ||giaohangtietkiemvn.com^
 ||giaoji.com/Runtime/Js/
 ||giaothuongvietnhat.org^
@@ -38307,6 +38321,7 @@
 ||hethongbhx.com^
 ||hethongdonhang.com^
 ||hethonggiaodichvidientu247.com^
+||hethongnoibo.bio.link^
 ||hethongquatang.vn^
 ||hethongtikicareers24.com^
 ||hethongtikicareers24h.com^
@@ -38609,6 +38624,7 @@
 ||hihashop.com^
 ||hihlj.online^
 ||hiibcfr.cn^
+||hiidevelelastic.com^
 ||hiido.com^$third-party
 ||hijjtiv.cn^
 ||hijpdcvwb.com^
@@ -41393,6 +41409,7 @@
 ||imglolo.xyz^
 ||imgme.me/images/*.gif
 ||imgmega.com/i/*.gif$domain=18avhub.com|18avtube.com|mm-cg.com
+||imgmin133.top^
 ||imgnewad.ytn.co.kr^
 ||imgopen.vip^
 ||imgoss1380.top^
@@ -44634,6 +44651,7 @@
 ||jotskuffieh.website^
 ||jotterswirrah.com^
 ||jouaboe.com^
+||joucefeet.xyz^
 ||joudauhee.com^
 ||joudotee.com^
 ||joukaglie.com^
@@ -44770,6 +44788,7 @@
 ||jrdupvtgubvja.xyz^
 ||jrfkurohvql.xyz^
 ||jrfwfwk.com^
+||jrgmooxsln.com^
 ||jrhbhz.com^
 ||jrhsjmwtrwiam.com^
 ||jrilbcd.com^
@@ -46874,6 +46893,7 @@
 ||kpbmqxucd.com^
 ||kpbqlqv.cn^
 ||kpcjwjdvlh.com^
+||kpd63519s.com^
 ||kpdn.ru^
 ||kpdqdbyi.com^
 ||kpdwueshr.com^
@@ -50668,6 +50688,7 @@
 ||lvntekpejrmtb.com^
 ||lvnzrh.xyz^
 ||lvodomo.info^
+||lvojjayaaoqym.top^
 ||lvojjayaaovry.top^
 ||lvomenbxbyl.com^
 ||lvpcxqcoohcviks.com^
@@ -52096,6 +52117,7 @@
 ||mdkkbrbhlji.com^
 ||mdklc.top^
 ||mdkycodubgvms.com^
+||mdmuky.xyz^
 ||mdoirsw.com^
 ||mdoshbx.top^
 ||mdotlabs.com^
@@ -54022,6 +54044,7 @@
 ||monetag.com^
 ||monetate.net^
 ||monetheulogic.com^
+||monetixads.com^
 ||monetiza.co^
 ||monetize-ssp.com^
 ||monetize-static.viralize.tv^
@@ -54718,6 +54741,7 @@
 ||mualienquan.org^
 ||muanickgiare.com^
 ||muanicklq.com^
+||muasamtiki24h.com^
 ||muaso24h.store^
 ||muasub.com^
 ||muataikhoannetflixvn.com^
@@ -56393,6 +56417,7 @@
 ||news-weekend1.xyz^
 ||news-wew.click^
 ||news-xehola.com^
+||news-xmiyasa.com^
 ||news.99k.tw/open/open*.php
 ||news.cn/2021detail/js/booklist.js
 ||news.cn/imgad/
@@ -59647,6 +59672,7 @@
 ||oreyeshe.info^
 ||orfa1st5.de^
 ||org-secured.com^
+||org.govqp.com^
 ||orgagetnization.org^
 ||organexpectationsmaintain.com^
 ||organiccopiedtranquilizer.com^
@@ -62919,6 +62945,7 @@
 ||plavid.com^
 ||plavxml.com^
 ||play.adtonos.com^
+||play.appgoogle.cc^
 ||play5play1.com^
 ||play6111.com/js/
 ||playairplanerighty.com^
@@ -66661,6 +66688,7 @@
 ||qsxfsp.shop^
 ||qsxptjxruxrttu.xyz^
 ||qsyliey.top^
+||qtaqlbt.ciofgnm.co^
 ||qtbb6.com^
 ||qtbzeey.cn^
 ||qtciam.xyz^
@@ -67618,6 +67646,7 @@
 ||rbgrckaysvrp.com^
 ||rbhunp.xyz^
 ||rbioclv.cn^
+||rbkmzhc.icu^
 ||rblgfyvwse.com^
 ||rbljoyvsvtj.xyz^
 ||rblrekay.com^
@@ -68953,6 +68982,7 @@
 ||revulsiondeportvague.com^
 ||revulsionwash.com^
 ||revupads.com^
+||rewaawoyamvky.top^
 ||rewallesthete.shop^
 ||rewardingindependentvisit.shop^
 ||rewardrush.life^
@@ -69323,6 +69353,7 @@
 ||riverlead.ru^
 ||riverpush.com^
 ||riversingratitudestifle.com^
+||riverstressful.com^
 ||rivetrearrange.com^
 ||rivmuvlnu.com^
 ||rivne.space^
@@ -71928,6 +71959,7 @@
 ||sendotv.shop^
 ||sendovip.com^
 ||sendovn.com^
+||sendovn.shop^
 ||sendtraffic.com^
 ||sendwebpush.com^
 ||sendword.ir^
@@ -75061,6 +75093,7 @@
 ||sooopu.com/asphtml/plnew.
 ||sooopu.com/js/*950.js
 ||sooopu.com/js/contentad330.js
+||soopsepsi.net^
 ||soopsulo.xyz^
 ||soopukib.net^
 ||soorbka.cn^
@@ -75393,6 +75426,7 @@
 ||spads.me^
 ||spadsync.com^
 ||spaghettiraisinalter.com^
+||spaines.pw^
 ||spancelwielded.com^
 ||spanids.dictionary.com^
 ||spanids.reference.com^
@@ -77307,6 +77341,7 @@
 ||stupidspaceshipfestivity.com^
 ||stusnais.com^
 ||stuted.com^
+||stuwhost.net^
 ||stvbiopr.net^
 ||stvkr.com^
 ||stvsmdhfplfrcy.xyz^
@@ -80457,6 +80492,7 @@
 ||tienfnhanh.com^
 ||tiengia24h.com^
 ||tienich.xyz^
+||tienichshiinhan.com^
 ||tiennahanh.com^
 ||tiennhanh247.com^
 ||tienoi.com.vn^
@@ -82844,6 +82880,7 @@
 ||tremendoustime.com^$third-party
 ||tremendoustreatment.com^$third-party
 ||tremorhub.com^
+||trenchpoor.net^
 ||trendads.reactivebetting.com^
 ||trendcounter.com^
 ||trendcounter.de^
@@ -87833,6 +87870,7 @@
 ||vnpaycredit-ruttientindung247.com^
 ||vnpaycreditruttientindung-247.com^
 ||vnpt99.com^
+||vnpttechnology.weebly.com^
 ||vnq3.top^
 ||vnrherdsxr.com^
 ||vnrvss.com^
@@ -91257,6 +91295,7 @@
 ||wwrpfevyca.com^
 ||wwunnmshmv.xyz^
 ||wwvqxqmcvfxwqq.com^
+||wwvxdhbmlqcgk.xyz^
 ||www-dnwx-com.anquanbao.cn/pic
 ||www-fb.com^
 ||www-google-analytics.l.google.com^
@@ -91547,6 +91586,7 @@
 ||xageyai.com^
 ||xaguturkuufyq.com^
 ||xahhhptqa.top^
+||xahttwmfmyji.com^
 ||xajnaptmri.com^
 ||xajqhrrrnxmy.com^
 ||xakfdicg.com^
@@ -92057,6 +92097,7 @@
 ||xjappzvz.xyz^
 ||xjeevzv.cn^
 ||xjfbhxp.com^
+||xjfqqyrcz.com^
 ||xjfyx.com^
 ||xjhjtz.cn^
 ||xjincmbrulchml.xyz^
@@ -92400,6 +92441,7 @@
 ||xprdmnlo.xyz^
 ||xprivate.cc^
 ||xproductkey.com^
+||xprzkwzu.net^
 ||xpsavuyxtfnqphw.com^
 ||xpsgglvsqfxsrl.com^
 ||xpst0kx.cn^
@@ -93646,6 +93688,7 @@
 ||yoads.network^
 ||yoast-schema-graph.com^
 ||yobee.it^
+||yobuqokipnfaxkeor.net^
 ||yoc-adserver.com^
 ||yoc.younited-credit.com^
 ||yockpratty.com^
@@ -94210,6 +94253,7 @@
 ||yximgs.com/bs2/adcarsku/sku1563a96c-38ca-4563-a4b5-522208113126.
 ||yximgs.com/bs2/adcarsku/sku9c0e68cc-2f12-4e47-a340-a7293ee88c88.
 ||yxjnzydc.com^
+||yxjsibeugmmj.com^
 ||yxkbgg.xyz^
 ||yxkfaskdaybakf.com^
 ||yxkhpk.com^
@@ -95134,6 +95178,7 @@
 ||zlebdfhnampju.com^
 ||zlfthh.xyz^
 ||zlgame.top^
+||zlhaekgfrqlu.com^
 ||zli.wang^
 ||zlink2.com^
 ||zlink6.com^
@@ -95263,6 +95308,7 @@
 ||zone.pornlovo.co^
 ||zone1.bestporn24.com^
 ||zonealta.com^
+||zoneshewa.net^
 ||zongheng.com/upload/hzds/
 ||zongheng.com/upload/recommend/game/
 ||zononi.com^
@@ -95672,6 +95718,7 @@
 ||zyqtc.cn^
 ||zyqweovbaaz.com^
 ||zyrji.com^
+||zyrnbh.xyz^
 ||zyrwfd.xyz^
 ||zys13.top^
 ||zys15.top^
@@ -96508,7 +96555,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 24k99.com,fx168.com##.yy_guangao
 24kplus.com,mostlyblogging.com,nicekkk.com,sarkarideals.com,tvarticles.me,watchjavonline.com,winandmac.com###custom_html-3
 24porn.com,freeporno.xxx,redporn.porn,redporn.xxx##.c-random
-24porn.com,gaymaletube.name,gayporn.fm,gayporno.fm,gaysuperman.com,icegay.tv,me-gay.com,pornogram.tv,videoporn.tube,zzztube.com##.b-uvb-spot
+24porn.com,gaymaletube.name,gayporn.fm,gayporno.fm,gaysuperman.com,icegay.tv,me-gay.com,pornogram.tv,redporn.porn,videoporn.tube,zzztube.com##.b-uvb-spot
 24timezones.com##.ad-container-diff
 24video.xxx,downzen.com##.adt
 2510avporn.com##[id^="banner"]
@@ -120100,6 +120147,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adblock-detect.
 /adblock-detect/*
 /adblock-detector.
+/adblock-detector.min.js$script
 /adblock-img.
 /adblock-message.
 /adblock-modal-
@@ -122789,7 +122837,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /click?adv=
 /click?adv=$popup
 /clickads/*
-/clickadu300.aspx
 /clickboothad.
 /clicksor.$domain=~clicksor.com
 /clicktotal/ClickTotal.js
@@ -124485,7 +124532,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /left_ads.js$script
 /leftad.
 /leftad.js$script
-/leftad.png
+/leftad.png$image
 /leftad_
 /leftads.
 /leftbottomads.
@@ -125555,6 +125602,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /rcsad_
 /rdm-ad-
 /rdrr/renderer.js
+/rdrr/renderer.js$third-party
 /re-ads-
 /realmedia/ads/*
 /realmedia_banner.
@@ -125966,6 +126014,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /skyscraper-ad.
 /skyscraper_ad_
 /skyscraperad.
+/skyscraperad.$image
 /sl/assetlisting/?
 /slafc.js
 /slide_in_ads_
@@ -126406,6 +126455,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /toonad.
 /top-ad-
 /top-ad.
+/top-ad.$~xmlhttprequest
 /top-ad/*
 /top-ad_
 /top-ads.
@@ -148306,6 +148356,7 @@ zle.com$script
 ##a[href*="/b6314.com:"]
 ##a[href*="/bgm9z.com"]
 ##a[href*="/bibo149.com:"]
+##a[href*="/bjty96.vip"]
 ##a[href*="/blfanss.com"]
 ##a[href*="/bli2a.com/"]
 ##a[href*="/bucd.icu"]

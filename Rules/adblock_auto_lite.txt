@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: RW85oUUqo7dPUQWMvQyYUg
+! Checksum: EAUE18mw1vMSIQHNrNaUHg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240916003221
+! Version: 20240916094938
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-16 00:32:21
-! Total Count: 28902
+! Last modified: 2024-09-16 09:49:38
+! Total Count: 28910
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4720,6 +4720,7 @@
 ||boundlessveil.com^$third-party
 ||bovhzz.xyz^
 ||bowoprf.icu^
+||bowvses.icu^
 ||boxwcr.icu^
 ||boyidianqi.com.cn^
 ||boylov.xyz^*/img/20*.gif
@@ -6624,6 +6625,8 @@
 ||dsbudkwq.xyz^
 ||dsceopm.cn^
 ||dsctnsn.xyz^
+||dsda21.fun^
+||dsdsa33.fun^
 ||dsdsg44.fun^
 ||dsfd67.com^
 ||dsg.reifporn.de^
@@ -9339,6 +9342,7 @@
 ||imglnkd.com^$domain=amateurporn.me|xiuren.org
 ||imgme.me/images/*.gif
 ||imgmega.com/i/*.gif$domain=18avtube.com|mm-cg.com
+||imgmin133.top^
 ||imgopen.vip^
 ||imgoss1380.top^
 ||imgoss2255.top^
@@ -11441,6 +11445,7 @@
 ||mdipsumx.top^
 ||mdiygc.xyz^
 ||mdjdpyrt.xyz^
+||mdmuky.xyz^
 ||mdoshbx.top^
 ||mdqpkdne.xyz^
 ||mdsahkln.xyz^
@@ -13881,6 +13886,7 @@
 ||rbbbdj.xyz^
 ||rbfxoex.xyz^
 ||rbhunp.xyz^
+||rbkmzhc.icu^
 ||rbodwtj.icu^
 ||rbrbr88p.cn^
 ||rbrmhz.xyz^
@@ -18756,6 +18762,7 @@
 ||zyfnbl.xyz^
 ||zylizz.xyz^
 ||zypzzv.xyz^
+||zyrnbh.xyz^
 ||zyrwfd.xyz^
 ||zys13.top^
 ||zys15.top^
@@ -26988,6 +26995,7 @@ zle.com$script
 ##a[href*="/afu.php"]
 ##a[href*="/auth/register?code="] > img
 ##a[href*="/bgm9z.com"]
+##a[href*="/bjty96.vip"]
 ##a[href*="/ck345.cc"]
 ##a[href*="/d27.tv"]
 ##a[href*="/d6586.com:"]
