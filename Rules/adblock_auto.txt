@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Gv0ywrhsM4nPO8sOr0ju6w
+! Checksum: e6Kcy40LZbANKJHJYYIgAg
 ! Title: 混合规则(自动更新)
-! Version: 20240917092003
+! Version: 20240917162935
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-17 09:20:03
-! Total Count: 152485
+! Last modified: 2024-09-17 16:29:35
+! Total Count: 152488
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -66030,6 +66030,7 @@
 ||qdglzx.com^
 ||qdhhdsw.cn^
 ||qdibvllqu.com^
+||qdickey.top^
 ||qdipsumy.top^
 ||qdiwbhjpo.com^
 ||qdjimo.com/html/js/
@@ -94628,6 +94629,7 @@
 ||zcswet.com^
 ||zcvtqdyvnhnjp.com^
 ||zcvyzsyd.icu^
+||zcypmsp.icu^
 ||zczcvx.com^
 ||zd0.top^
 ||zd518.cn/bfq2.html
@@ -102942,6 +102944,7 @@ fandomwire.com##.customad
 fandomwire.com##[style="height: 120px; width: 100%; margin: 5px auto; display: block; clear: both; text-align: center;"]
 fandomwire.com##[style^="min-height: 320px"]
 fanfics.me##.red.nodata
+fanfox.net##.ad-reader
 fang.com###xmlAd
 fang.com##.bannger_inbox
 fang.com,soufun.com##.add1200
