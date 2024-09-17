@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: vz9juFrE9/NEaOFRv2nwKQ
+! Checksum: vkBb68toU/X6/dDbQkiNuQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240917162947
+! Version: 20240918002909
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-17 16:29:47
-! Total Count: 28921
+! Last modified: 2024-09-18 00:29:09
+! Total Count: 28924
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7607,6 +7607,7 @@
 ||freeuseporn.com/templates/frontend/fulltheme/js/combined.js
 ||freezingbuilding.com^$third-party
 ||fretfulfurniture.com^$third-party
+||frgf99.fun^
 ||friendlycrayon.com^$third-party
 ||friendlyduck.com^
 ||friendshipmale.com^
@@ -17377,6 +17378,7 @@
 ||writewealth.com^$third-party
 ||wrongpotato.com^$third-party
 ||wrpsouf.cn^
+||wrsikq.xyz^
 ||wrtjojn.xyz^
 ||wrutvnce.top^
 ||wryfinger.com^$third-party
@@ -17462,6 +17464,7 @@
 ||wx.sina.com.cn/iframe/pdps/
 ||wxfdmri.xyz^
 ||wxl0gfw.icu^
+||wxmhau.xyz^
 ||wxmmji.xyz^
 ||wxsicu.xyz^
 ||wxsignin.top^

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: e6Kcy40LZbANKJHJYYIgAg
+! Checksum: UiB2/qt26AOrDFFCwPBuVA
 ! Title: 混合规则(自动更新)
-! Version: 20240917162935
+! Version: 20240918002857
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-17 16:29:35
-! Total Count: 152488
+! Last modified: 2024-09-18 00:28:57
+! Total Count: 152504
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -18716,6 +18716,7 @@
 ||cfts1tifqr.com^
 ||cfubdjsolbs.com^
 ||cfugrnc.icu^
+||cfusion-internet.com^
 ||cfusionsys.com^
 ||cfx3d.xyz^
 ||cfxkluv.cn^
@@ -23522,6 +23523,7 @@
 ||dameadept.com^
 ||damedamehoy.xyz^
 ||dameyuan.com^
+||damgurwdblf.xyz^
 ||damhixs.cn^
 ||damianafulani.com^
 ||damiul.icu^
@@ -33049,6 +33051,7 @@
 ||frfetchme.com^
 ||frfhhcxeqkubk.xyz^
 ||frgeob.xyz^
+||frgf99.fun^
 ||frhbrkjgerikm2f8mjek09.com^
 ||frhjqdgtfeb.com^
 ||fri4esianewheywr90itrage.com^
@@ -35669,6 +35672,7 @@
 ||goblocker.xyz^
 ||gobmodfoe.com^
 ||gobreadthpopcorn.com^
+||gocheewimtie.xyz^
 ||gocolow.com^
 ||gocomparisongarrison.com^
 ||gocp.stroeermediabrands.de^
@@ -43222,6 +43226,7 @@
 ||iuwzdf.com^
 ||iuytfvhl.top^
 ||iuyuwh.cn^
+||iv.hautboyhellen.com^
 ||ivanie.com^
 ||ivanvillager.com^
 ||ivbgpax.cn^
@@ -43244,6 +43249,7 @@
 ||ivoryvestigeminus.com^
 ||ivoxua.socratos.net^
 ||ivr.com.tr^
+||ivstat.indavideo.hu^
 ||ivstracker.net^
 ||ivtqo.com^
 ||ivudsuco.net^
@@ -76280,6 +76286,7 @@
 ||stat.i3.dmm.com^
 ||stat.ijinshan.com^
 ||stat.img-space.com^
+||stat.indidata.com^
 ||stat.jc001.cn^
 ||stat.kbs.co.kr^
 ||stat.kika-backend.com^
@@ -91075,6 +91082,7 @@
 ||wrrlidnlerx.com^
 ||wrrwkovcqn.com^
 ||wrrzje.com^
+||wrsikq.xyz^
 ||wrtjojn.xyz^
 ||wrtm.walla.co.il^
 ||wru795e.cn^
@@ -91428,6 +91436,7 @@
 ||wxlide.ink^
 ||wxltarsyoffmm.com^
 ||wxmccgdodvsqibm.com^
+||wxmhau.xyz^
 ||wxmicgwfzqekj.com^
 ||wxmmji.xyz^
 ||wxmxbvuwj.com^
@@ -99299,6 +99308,7 @@ bilibili.com#$#.bili-video-card:has(.bili-video-card__info--ad) > .bili-video-ca
 bilibili.com#$#.bili-video-card:has(.bili-video-card__info--creative-ad) > .bili-video-card__skeleton { visibility: visible !important; }
 bilibili.com#$?#.bili-video-card:has(.bili-video-card__info--ad) > .bili-video-card__skeleton { visibility: visible !important; }
 bilibili.com#$?#.bili-video-card:has(.bili-video-card__info--creative-ad) > .bili-video-card__skeleton { visibility: visible !important; }
+bilibili.com#$?#.container > div.feed-card:not(:has(> div > *)) { remove: true; }
 bilibili.com#$?#.container > div.floor-single-card:has(> div.skeleton) { remove: true; }
 bilibili.com#$?#.ex-card-common:has(.gg-icon) { remove: true; }
 bilibili.com#$?#.van-slide > .item:has(.bypb-icon) { remove: true; }
@@ -101814,6 +101824,7 @@ digitaltrends.com##.dtvideos-container
 digitaltrends.com##.dtvideos-recommended
 digitaltrends.com,themanual.com##.dt-primis
 digitimes.com.tw##.dt-ad-block
+digitimes.com.tw##.edm-frame:has(> .adtext)
 digitimes.com.tw##a[href*="/webad/"]
 diglloyd.com,windinmyface.com##.placementInline
 diglloyd.com,windinmyface.com##.placementTL
@@ -115158,6 +115169,8 @@ wanqu.co##.brand-ad
 wanqu.co##.left-nav-panel:first-child
 wantedinafrica.com##.kn-widget-banner
 wantgoo.com###FixModal
+wantgoo.com##.fab-ad
+wantgoo.com##div[type="adv"]
 wanyx.com##.gs_down
 wanyx.com##.gx_box
 wanyx.com##.zx_box
@@ -115177,6 +115190,7 @@ warm98.com##a[href^="http://www.salvationarmycincinnati.org"]
 warm98.com##a[href^="https://giving.cincinnatichildrens.org/donate"]
 warontherocks.com##.wotr_top_lbjspot
 warting.com##.hz2
+washingtoncitypaper.com##.widget_newspack-ads-widget
 washingtonexaminer.com##.bridtv
 washingtonpost.com###slug_leaderboard
 washingtonpost.com##.ad--enterprise
@@ -119149,7 +119163,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /Runtime/js/play960.js
 /Runtime/js/top960.js
 /Runtime/js/top980.js
-/SBA-WP-13.js
+/SBA-WP-13.js$script
 /SWMAdPlayer.
 /ServeAd?
 /Server/AD/*
@@ -119898,7 +119912,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ad_choices_
 /ad_code.
 /ad_common.
-/ad_common.js
+/ad_common.js$script
 /ad_commonside.
 /ad_commonside_
 /ad_config.
@@ -120440,6 +120454,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adfox.$domain=~adfox.de|~adfox.group|~adfox.hu
 /adfox/*
 /adfox/loader.js
+/adfox/loader.js$script
 /adfoxLoader_
 /adframe.$~script,~xmlhttprequest,domain=~adframe.com
 /adframe/*
@@ -120795,7 +120810,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /adreadytractions.
 /adrec.$domain=~adrec.paris-sorbonne.fr
 /adreclaim-
-/adrecover.js
+/adrecover.js$script
 /adrectanglebanner?
 /adrefresh-
 /adrefresh.
@@ -121016,7 +121031,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /ads/create_
 /ads/creatives/*
 /ads/cube-
-/ads/custom_ads.js
+/ads/custom_ads.js$script
 /ads/daily.
 /ads/daily_
 /ads/dart.
@@ -122778,9 +122793,9 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /brokenAd.
 /brsAssets/ads/*
 /bsa-plugin-pro-
-/bsa-plugin-pro-scripteo/frontend/js/script.js
+/bsa-plugin-pro-scripteo/frontend/js/script.js$script
 /bsa-pro-
-/bsa-pro-scripteo/frontend/js/script.js
+/bsa-pro-scripteo/frontend/js/script.js$script
 /bserver/*
 /bt*.com/imgs.js?t=
 /btads/*
@@ -123879,7 +123894,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /googleleader.
 /googleleads.
 /googlempu.
-/gospel2Truth.js
+/gospel2Truth.js$third-party
 /gourmetads-
 /gpt-prebid.js$script
 /gpt.js$script,xmlhttprequest
@@ -123998,6 +124013,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /houseads?
 /hoverad.
 /hoverad.js
+/hoverad.js$script
 /hpcwire/ads/*
 /hserver/*
 /hserver/channel=
@@ -124265,7 +124281,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /inline_ad.
 /inline_ad_
 /inline_ads.
-/inlineads.aspx
+/inlineads.aspx$subdocument
 /inlineads/*
 /inlinetextads?
 /inner-ads-
@@ -125229,7 +125245,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /peel.php?
 /peel/?webscr=
 /peel1.js
-/peel_ads.js
+/peel_ads.js$script
 /peel_ads/*
 /peelad.
 /peelad/*
