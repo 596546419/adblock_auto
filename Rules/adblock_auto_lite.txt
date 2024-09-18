@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: vkBb68toU/X6/dDbQkiNuQ
+! Checksum: iotrZQFl2FqH2FjMK9rUPQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240918002909
+! Version: 20240918094208
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-18 00:29:09
-! Total Count: 28924
+! Last modified: 2024-09-18 09:42:08
+! Total Count: 28931
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5239,6 +5239,7 @@
 ||cdp.cloud.unity3d.com^
 ||cdrvkdni.xyz^
 ||cdsa2.icu^
+||cdscs990.fun^
 ||cdttxdqe.xyz^
 ||cduno.cn^
 ||cdxyb.cn^$third-party
@@ -6278,6 +6279,7 @@
 ||dghhot.com^
 ||dghkpp.xyz^
 ||dgkship.icu^
+||dgrgr34.fun^
 ||dgvkrt.xyz^
 ||dhaxhsa325.com^
 ||dheear.site^
@@ -6647,6 +6649,7 @@
 ||dssdfsf.cn^
 ||dstbekdf.xyz^
 ||dstbunkfw.xyz^
+||dsukqsx.icu^
 ||dswcrlf.cn^
 ||dtjhtp.xyz^
 ||dtjpihv.xyz^
@@ -8897,6 +8900,7 @@
 ||hstjjg.com/show/$script
 ||hsutav.icu^
 ||hsvchnsvncvvd.com^
+||hsvmtn.xyz^
 ||hsyipos.com/template/mxone/html_tplmx/vod/*.gif
 ||hsylieu.top^
 ||hthivr.xyz^
@@ -9225,6 +9229,7 @@
 ||ijeujkdhnvb.top^
 ||ijgbuj.xyz^
 ||ijinshan.com/images/gk/game
+||ijksec.xyz^
 ||ijmxco.xyz^
 ||ijvla.cn^
 ||ik123.com/js/dd.js
@@ -10478,6 +10483,7 @@
 ||koyi.pub/wp-content/plugins/dh-anti-adblocker/
 ||koyso.com/static/js/abc.
 ||koyso.com/z-
+||koytqo.xyz^
 ||koyuod.xyz^
 ||kozhyf.icu^
 ||kpbqlqv.cn^
@@ -17290,6 +17296,7 @@
 ||wjoxqd.com^
 ||wjtij.top^
 ||wjwod.cyou^
+||wkitere.top^
 ||wkjyxcheng.top^
 ||wkrcbszi.xyz^
 ||wkrhel.icu^
