@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: iotrZQFl2FqH2FjMK9rUPQ
+! Checksum: kKbVPHv0MsaS1/bd5ecwmA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240918094208
+! Version: 20240918162742
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-18 09:42:08
-! Total Count: 28931
+! Last modified: 2024-09-18 16:27:42
+! Total Count: 28935
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7571,6 +7571,7 @@
 ||fq03.shop^
 ||fq04.shop^
 ||fq05.shop^
+||fq06.shop^
 ||fq67.top^
 ||fqbjzj.xyz^
 ||fqfclmlo.xyz^
@@ -10176,6 +10177,7 @@
 ||jy05.shop^
 ||jy06.shop^
 ||jy07.shop^
+||jy08.shop^
 ||jy135.com/js/pubuliu.
 ||jy135.com^$third-party
 ||jy147a.com^
@@ -12570,6 +12572,7 @@
 ||opzksyy.cn^
 ||oq6ry.com^
 ||oq8.top^
+||oqaejin.icu^
 ||oqedci.xyz^$third-party
 ||oqnkur.icu^
 ||oqpgq.top^
@@ -13645,6 +13648,7 @@
 ||qk6.org/file/script/
 ||qkcaqq.xyz^
 ||qkikkg.xyz^
+||qkitery.top^
 ||qkoio.cyou^
 ||qkqasu.xyz^
 ||qksapp.net/gif/

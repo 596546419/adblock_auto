@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Qg8weL3t/Hadm4fMbOCWQQ
+! Checksum: raREIEiaSzjEvlcmJN7cIA
 ! Title: 混合规则(自动更新)
-! Version: 20240918094156
+! Version: 20240918162730
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-18 09:41:56
-! Total Count: 152590
+! Last modified: 2024-09-18 16:27:30
+! Total Count: 152596
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -32816,6 +32816,7 @@
 ||fq03.shop^
 ||fq04.shop^
 ||fq05.shop^
+||fq06.shop^
 ||fq67.top^
 ||fqab5xq7qlgt.info^
 ||fqanulluixeis.com^
@@ -45458,6 +45459,7 @@
 ||jy05.shop^
 ||jy06.shop^
 ||jy07.shop^
+||jy08.shop^
 ||jy135.com/js/pubuliu.
 ||jy135.com^$third-party
 ||jy147a.com^
@@ -59643,6 +59645,7 @@
 ||oq68.com^
 ||oq6ry.com^
 ||oq8.top^
+||oqaejin.icu^
 ||oqcjtifihpi.com^
 ||oqcrqirncna.xyz^
 ||oqdawpvwcuj.xyz^
@@ -66434,6 +66437,7 @@
 ||qkfwiylmib.com^
 ||qkhvongctffugm.com^
 ||qkikkg.xyz^
+||qkitery.top^
 ||qkixi.com^
 ||qkjjuhs.com^
 ||qkkgish.cn^
@@ -96448,7 +96452,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 18-comic.work,18-comicfrieren.xyz,18comic.org,18comic.vip,jmcomic.me,jmcomic1.city,jmcomic1.win#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
 18-comic.work,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > span[style*="back"]
 18-comicfrieren.xyz,18comic.org,18comic.vip##.row[style="display: flex;flex-wrap: wrap;"]
-18-comicfrieren.xyz,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > div[style^="display: block;"]
+18-comicfrieren.xyz,18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > div[style]
 18-comicfrieren.xyz,18comic.org,18comic.vip#?#:-abp-has(>ins+div)
 18-comicfrieren.xyz,18comic.org,18comic.vip#?#:-abp-has(>ins+style)
 18-comicfrieren.xyz,18comic.org,18comic.vip,boylov.xyz,boylove.cc,boyloves.fun##style + div[style="cursor: pointer; position: relative;"]
@@ -109758,6 +109762,7 @@ nzherald.co.nz##.recommended-articles > .recommended-articles__heading
 nzherald.co.nz##.section-iframe
 nzherald.co.nz##.story-card--sponsored--headline
 nzherald.co.nz##.story-card--sponsored-text-below
+nzherald.co.nz##.ticker-banner
 o8tv.com##+js(abort-current-script, document.write, tips)
 o8tv.com##.container > .row > .myui-panel-bg> .myui-panel-box > .myui-panel_bd > .myui-vodlist > .col-lg-8 > .myui-vodlist__box > a[target="_blank"]
 o8tv.com##.myui-panel_bd > .col-xs-1 > a[target="_blank"] > img
@@ -111521,6 +111526,7 @@ radiox.com##.notifyjs-corner
 radioyacht.com##.mpc-carousel__wrapper
 radiozindagi.com##.foot_top
 raenonx.cc##.main_ads-content + div
+raenonx.cc##div[style="display: flex; justify-content: center; align-items: center; position: relative;"] > iframe
 rakuten.com###id_parent_rrPlacementTop
 rakuten.com##div[data-productid]:has(div.productList_sponsoredAds_RUS)
 randomarchive.com##.desktop[style="text-align:center"]
