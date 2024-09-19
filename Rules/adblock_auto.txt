@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: mrqQzbYD6yO+fhcQdHzF5w
+! Checksum: iE5WZ2LnHAdV1ZbtwVyP8g
 ! Title: 混合规则(自动更新)
-! Version: 20240919162938
+! Version: 20240920002838
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-19 16:29:38
-! Total Count: 152640
+! Last modified: 2024-09-20 00:28:38
+! Total Count: 152649
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3178,6 +3178,7 @@
 ||78387c2566.com^
 ||7841ffda.xyz^
 ||7868d5c036.com^
+||786yfvedhcbxjk.top^
 ||78733f9c3c.com^
 ||788aefb4ed.com^
 ||7893com.com/img/*.gif
@@ -9242,6 +9243,7 @@
 ||analights.com^
 ||analitica.webrpp.com^
 ||analitik.bik.gov.tr^
+||analitik.pendik.bel.tr^
 ||analitits.com^
 ||analoganalytics.com^
 ||analogousemmafootprints.com^
@@ -23689,6 +23691,7 @@
 ||darzeegobble.com^
 ||darzkrx.cn^
 ||dascasdw.xyz^
+||dasda64.fun^
 ||dasdujaosjdioad.com^
 ||dasensiblem.org^
 ||dasesiumworkhovdimi.info^
@@ -40898,6 +40901,7 @@
 ||ifeve.com/wp-content/uploads/*/WechatIMG
 ||ifeve.com/wp-content/uploads/*/cachekit
 ||ifewo.xyz^
+||iffobi.xyz^
 ||ifigent.com^
 ||ifil.shop^
 ||ifil.store^
@@ -43677,6 +43681,7 @@
 ||jaunty-cancel.pro^
 ||jauntycrystal.com^
 ||jaupozup.xyz^
+||jauql.top^
 ||jaurouth.xyz^
 ||jav-7mmtv.top^
 ||jav101.com/img5bbb0096f242f.gif
@@ -53594,6 +53599,7 @@
 ||mm.nwell.net^
 ||mm.paizi.net^
 ||mm.shazi8.com/mg^
+||mm.wxc.cc^
 ||mm111.net/api.php?mod=ad&
 ||mm2ah.com^
 ||mm387.com/images/*.gif
@@ -58877,6 +58883,7 @@
 ||okhrtusmuod.com^
 ||okiafogless.top^
 ||okienamare.com^
+||okiterk.top^
 ||okjjwuru.com^
 ||okjxihboesueh.com^
 ||okkazeo.com/img/habillage/banner/
@@ -105243,6 +105250,7 @@ hltv.org##.parimatch-firstcol-box
 hltv.org##.skinport
 hltv.org##.team-player-profile-below-trophies-placement
 hltv.org##[href^="http://out.hltv.org/"]
+hmanga.world##+js(no-fetch-if, method:HEAD)
 hmitalk.com##div[class*="-pubadban "]
 hmitalk.com,sina.cn,tennews.in##div[data-adid]
 hmoe.one#?#.widget_text > .inn-sidebar__widget:has(> .poi-panel__header > .poi-panel__header__title:contains(赞助商))
@@ -106602,6 +106610,7 @@ javdove.com##.ad-body
 javdove.com##.dn_fix_bottom
 javdove.com##.tdads-nonlinear
 javdove.com,javdove2.club,porn5f.com##.preroll-adv-popup-overlay
+javedit.com##.sidebar_widget
 javfor.tv###smac12403o0
 javfor.tv##.banner-c
 javfor.tv##.banner-top-b

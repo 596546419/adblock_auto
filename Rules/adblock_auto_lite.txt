@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: S98ec9niWtBe3EOnCEzWJw
+! Checksum: 5LuPL7KIjXYNBP/Xt/ovIQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240919162949
+! Version: 20240920002850
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-19 16:29:49
-! Total Count: 28949
+! Last modified: 2024-09-20 00:28:50
+! Total Count: 28955
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1061,6 +1061,7 @@
 ||77xsw.la/novel/js/pagebottom.js
 ||77xsw.la/novel/js/pagetop.js
 ||78.138.126.253/www/
+||786yfvedhcbxjk.top^
 ||7893com.com/img/*.gif
 ||78dfvv.com^
 ||78dm.net.cn/acg_201*_250
@@ -6072,6 +6073,7 @@
 ||daraz.com^
 ||darknessporn.com/prrls/
 ||darren01.oss-cn-beijing.aliyuncs.com^
+||dasda64.fun^
 ||dasdujaosjdioad.com^
 ||dashenya.com/js/jquery.js
 ||dashingdirt.com^$third-party
@@ -9198,6 +9200,7 @@
 ||ifeve.com/wp-content/uploads/*/WechatIMG
 ||ifeve.com/wp-content/uploads/*/cachekit
 ||ifewo.xyz^
+||iffobi.xyz^
 ||ifjslio.top^
 ||ifkdy.com/_nuxt/44e01dcef4aa1a21d9a6.js
 ||ifkdy.com/ifkdy/weixin/isFollowMe
@@ -9688,6 +9691,7 @@
 ||jappy.tv/i/wrbng/abb.png
 ||jasdz1.cn^
 ||jatfugios.com^
+||jauql.top^
 ||jav101.com/img5bbb0096f242f.gif
 ||jav789.com/assets/love/index.js
 ||javacript.gq^
@@ -11670,6 +11674,7 @@
 ||mm.nwell.net^
 ||mm.paizi.net^
 ||mm.shazi8.com/mg^
+||mm.wxc.cc^
 ||mm111.net/api.php?mod=ad&
 ||mm387.com/images/*.gif
 ||mm786.com^$popup,third-party
@@ -12483,6 +12488,7 @@
 ||okbd2ou.icu^
 ||okbmf.com/imgad/
 ||okbmf.com^*950_120
+||okiterk.top^
 ||okkazeo.com/img/habillage/banner/
 ||okkkk.com^
 ||okmhmkjnm.com^
