@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: iZZjOsgCVMp1tjjYcPgYzw
+! Checksum: mrqQzbYD6yO+fhcQdHzF5w
 ! Title: 混合规则(自动更新)
-! Version: 20240919094404
+! Version: 20240919162938
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-19 09:44:04
-! Total Count: 152629
+! Last modified: 2024-09-19 16:29:38
+! Total Count: 152640
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -67133,6 +67133,7 @@
 ||quydoichuyenkhoanquocte.weebly.com^
 ||quydoitienquocte24h7azx.weebly.com^
 ||quytiente.com^
+||quyuancn.com^$third-party
 ||quzmtpxw.xyz^
 ||quzpvtt.xyz^
 ||quzwteqzaabm.com^
@@ -84602,6 +84603,7 @@
 ||ukgfniu.cn^
 ||ukidiayddbshfl.com^
 ||ukindwouldmeu.com^
+||ukitert.top^
 ||ukiyoyechromy.com^
 ||ukizeiasninan.info^
 ||ukjwyv.icu^
@@ -100319,11 +100321,13 @@ charismanews.com##.FpFeaturedBoxWrap
 charismanews.com##.RightBnrWrap
 charismanews.com##.skinTrackClicks
 charlestownwyllie.oaklawnnonantum.com^
+charlieintel.com###primis-player
 charlieintel.com###topunit
 charlieintel.com##.position-sticky
 charlieintel.com,dexerto.com##.Ad_ad__SqDQA
 charlieintel.com,dexerto.com##.bg-neutral-grey-4.items-center
 charlieintel.com,dexerto.com##.bg-neutral-grey.justify-center
+charlieintel.com,dexerto.com##.lg\:min-h-\[290px\]
 charlieintel.com,dexerto.com##.text-center.italic
 charlieintel.com,dexerto.com##.top-0.justify-center
 charlieintel.com,dexerto.com##.top-10
@@ -101863,7 +101867,6 @@ deviantart.com##[style="width: 308px; height: 316px;"]
 dexdotexe.com##iframe[title="Top Games"]
 dexerto.com##.external\:bg-custom-ad-background
 dexerto.com##.inline-block
-dexerto.com##.lg\:min-h-\[290px\]
 dexerto.com##div[id^="dex-ad-"]
 dexerto.com##div[id^="jwplayer_"]
 dexscreener.com##.custom-1hol5du
@@ -103685,6 +103688,9 @@ freesexyindians.com##.grid-sidebar-extra
 freespoke.com##.home-page-message
 freestore.app##.adbn2-wrap2
 freesvg.org##.sponsored-main-detail
+freethesaurus.com###qk1
+freethesaurus.com###qk2
+freethesaurus.com###qk5
 freewebarcade.com##.pnum
 freewebarcade.com##.rxads
 freewebarcade.com##.rxse
@@ -112648,6 +112654,9 @@ slidehunter.com##.custom-ad-text
 slidehunter.com##.itm-ads
 slideme.org###block-block-31
 slideserve.com###readl
+slidesgo.com###list_ads1
+slidesgo.com###list_ads2
+slidesgo.com###list_ads3
 slidesgo.com##div[id^="article_ads"]
 slideshare.net###above-recs-desktop-ad-sm
 slideshare.net###between-recs-ad-1-container
@@ -112810,6 +112819,7 @@ soccer24.co.zw###soccer24-ad
 soccerbase.com###ball_splash_holder
 soccerway.com##.banner-content
 soccerway.com##.block_ad
+socialcounts.org##.home_sticky-ad__Aa_yD
 sociologyguide.com##.rgt_banners
 sociologyguide.com##a[href^="https://www.baghvillas.com/"]
 sofascore.com##.adUnitBox
@@ -119490,6 +119500,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /abvAds_
 /acc_random=
 /acmsd/*
+/acmsd/*$script
 /active-ad-
 /ad%20banners/*
 /ad%20images/*

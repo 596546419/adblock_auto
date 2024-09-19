@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: nX+Us4czg3Rqg7A9aSRr4g
+! Checksum: S98ec9niWtBe3EOnCEzWJw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240919094416
+! Version: 20240919162949
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-19 09:44:16
-! Total Count: 28942
+! Last modified: 2024-09-19 16:29:49
+! Total Count: 28949
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5822,6 +5822,7 @@
 ||cs.37see.com^$third-party
 ||cs02-pps-drcn.dbankcdn.com^
 ||csaimall.com^$popup,third-party
+||csdcfvgf4.fun^
 ||csdn.net/ggmm/
 ||csdn.net/msg.popup.js
 ||csdnimg.cn/check-adblock/
@@ -11489,6 +11490,7 @@
 ||meetsexygirls.org^$popup
 ||meexx.xyz^
 ||mefiafd.top^
+||megydyk.icu^
 ||meidd.cyou^
 ||meidd.xyz^
 ||meiguixs.net/images/*.js
@@ -13792,6 +13794,7 @@
 ||quwkke.xyz^
 ||quwwa.top^
 ||quxiangkeji.cn^$third-party
+||quyuancn.com^$third-party
 ||quzmtpxw.xyz^
 ||quzpvtt.xyz^
 ||qvcyeknp.xyz^
@@ -15499,6 +15502,7 @@
 ||syuwkbb.top^
 ||sz88.oss-cn-shenzhen.aliyuncs.com^
 ||szafvjdd.icu^
+||szapaqi.cn^
 ||szbhb.cn^
 ||szbpf.cn^
 ||szbxm.cn^
@@ -16459,6 +16463,7 @@
 ||ujrspnbf.xyz^
 ||ukbbjtfp.xyz^
 ||ukgfniu.cn^
+||ukitert.top^
 ||ukjwyv.icu^
 ||ukkkmg.xyz^
 ||ukpsal.icu^
@@ -18653,6 +18658,7 @@
 ||zjliloveyou.ixiunv.com^
 ||zjplnz.xyz^
 ||zjqs.shop^
+||zjsnhl.xyz^
 ||zjst.net/3.gif
 ||zjthzf.xyz^
 ||zjtu.tv/add.
@@ -27104,6 +27110,7 @@ zle.com$script
 ##a[href*="AdsCode_"][target="_blank"]
 ##a[href*="app:"] > img[src]
 ##a[href*="b2pk.com/b/a/d/"][href*=".php?"] > img
+##a[href*="bjty"] > img[src*="imgsrc.baidu.com"]
 ##a[href*="https://go.live.missav.com/?"][target="_blank"]
 ##a[href*="jszclock.com/gebi/"]
 ##a[href*="kdocs.cn"] > img[src*=".ax1x.com/"]
