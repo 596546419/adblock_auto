@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 0xX31w4kThmxJB3OYFJwsQ
+! Checksum: nX+Us4czg3Rqg7A9aSRr4g
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240919002845
+! Version: 20240919094416
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-19 00:28:45
-! Total Count: 28938
+! Last modified: 2024-09-19 09:44:16
+! Total Count: 28942
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5242,6 +5242,7 @@
 ||cdscs990.fun^
 ||cdttxdqe.xyz^
 ||cduno.cn^
+||cdunwi.xyz^
 ||cdxyb.cn^$third-party
 ||cdybwjpa.xyz^
 ||cdyee.com/external/5070.files/ad/
@@ -12806,6 +12807,7 @@
 ||pctv.xyz^
 ||pcvideoyf.titan.mgtv.com/pb/*.mp4
 ||pcvzpj.xyz^
+||pcxnrd.xyz^
 ||pcxtvr.xyz^
 ||pdfbook.cn/wp-content/uploads/2017/11/049.jpg
 ||pdhjnz.xyz^
@@ -14658,6 +14660,7 @@
 ||sexywomeninlingerie.com/qpjsdm0_$script
 ||seynqt.icu^
 ||sf2.net/a/index.
+||sfesdef6.fun^
 ||sfg11rr.com^
 ||sfgprze.cn^$document
 ||sfgprze.cn^$~third-party
@@ -17312,6 +17315,7 @@
 ||wkzrqq.com^
 ||wkzsmj.icu^
 ||wlgxaij.cn^
+||wlkukrv.icu^
 ||wlrjy.com/assets/images/*.gif
 ||wlrjy.com/assets/images/tuidc.png
 ||wlzlrlp.xyz^

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: z60DihQYZ1s/z+E+nRHMtA
+! Checksum: iZZjOsgCVMp1tjjYcPgYzw
 ! Title: 混合规则(自动更新)
-! Version: 20240919002833
+! Version: 20240919094404
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-19 00:28:33
-! Total Count: 152602
+! Last modified: 2024-09-19 09:44:04
+! Total Count: 152629
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -519,11 +519,13 @@
 ||114shouji.com/a/1.js
 ||115.29.46.146^$subdocument
 ||115.com/static/plug/video_play/qrcode.js
+||1157433411.rsc.cdn77.org^
 ||1158555.com^
 ||1158tp.com^
 ||115img.com/static/115tj.js
 ||115img.com/static/pc/d_
 ||115mm.com/js/
+||1167965905.rsc.cdn77.org^
 ||116bea31bf.com^
 ||1170555.com^
 ||1173384488.rsc.cdn77.org^
@@ -554,6 +556,7 @@
 ||1202liutiao.xyz^
 ||1203555.com^
 ||1205020224.rsc.cdn77.org^
+||1205088249.rsc.cdn77.org^
 ||1205qitiao2022.xyz^
 ||1208344341.rsc.cdn77.org^
 ||12086.net^
@@ -853,6 +856,7 @@
 ||1843942256.rsc.cdn77.org^
 ||184c4i95p.de^
 ||1857964468.rsc.cdn77.org^
+||1860610788.rsc.cdn77.org^
 ||1866741353.rsc.cdn77.org^
 ||18788fdb24.com^
 ||188aaa.us^
@@ -3076,6 +3080,7 @@
 ||72075223.xyz^
 ||721ffc3ec5.com^
 ||722cba612c.com^
+||72356275.xyz^
 ||7239618ccc.com^
 ||7253d56acf.com^
 ||72560514.xyz^
@@ -9297,6 +9302,7 @@
 ||analytics-api.invideo.io^
 ||analytics-api.liveapp.com^
 ||analytics-api.samsunghealthcn.com^
+||analytics-api.sconto.cz^
 ||analytics-api.smzdm.com^
 ||analytics-api.statvoo.com^
 ||analytics-api.vanceai.com^
@@ -10653,6 +10659,7 @@
 ||appoineditardwide.com^
 ||appointedchildorchestra.com^
 ||appointedman.com^
+||appointeeivyspongy.com^
 ||appollo-plus.com^
 ||appollo.jp^
 ||appraisalaffable.com^
@@ -18477,6 +18484,7 @@
 ||cdtxegwndfduk.xyz^
 ||cdu-offline.de^
 ||cduno.cn^
+||cdunwi.xyz^
 ||cduspenden.de^
 ||cduygiph.com^
 ||cdwbjlmpyqtv.com^
@@ -22563,6 +22571,7 @@
 ||csbtd.com^
 ||cschyogh.com^
 ||csdata1.com^
+||csdcfvgf4.fun^
 ||csdf4dn.pro^
 ||csdn.love^
 ||csdn.net/ggmm/
@@ -22674,6 +22683,7 @@
 ||ctfile.com/iz.php?
 ||ctfile.com/popjump.php?$popup
 ||cthbini.xyz^
+||cthbkxcvksx.com^
 ||cthisismoych.com^
 ||cthkgodgy.com^
 ||cthulhu.cash^
@@ -24138,6 +24148,7 @@
 ||debutpanelquizmaster.com^
 ||decademical.com^
 ||decadenceestate.com^
+||decatyldecane.com^
 ||decaytreacherous.com^
 ||decbusi.com^
 ||decdna.net^
@@ -34559,6 +34570,7 @@
 ||gesfdashb5.fun^
 ||gessdashb6.fun^
 ||gessoesbeavers.uno^
+||gestatebuxomly.com^
 ||gesvfvfhhb6.fun^
 ||get-ads.ru^
 ||get-browseprotection.com^
@@ -40147,6 +40159,7 @@
 ||hvkwmvpxvjo.xyz
 ||hvkwmvpxvjo.xyz^
 ||hvlitr.xyz^
+||hvmmtuxtgaw.com^
 ||hvmsmoiejaqb.com^
 ||hvmuqhywjpym.com^
 ||hvooyieoei.com^
@@ -44560,6 +44573,7 @@
 ||jnnjthg.com^
 ||jnovoksjreeyrpm.xyz^
 ||jnp0kmm.icu^
+||jnpwkazdss.com^
 ||jnqiangzhi.xyz^
 ||jnqkvgkm.com^
 ||jnrgcwf.com^
@@ -52476,6 +52490,7 @@
 ||meghis.com^
 ||megmobpoi.club^
 ||megnotch.xyz^
+||megydyk.icu^
 ||meharisgrabs.com^
 ||mehebborc.com^
 ||meibiisheng.com^
@@ -54511,6 +54526,7 @@
 ||mplayeranyd.info^
 ||mplaylist-ads.zadn.vn^
 ||mplaylist-ads.zascdn.me^
+||mpljrzsdufq.com^
 ||mploymehnthejuias.info^
 ||mplxtms.com^
 ||mpmant.com^
@@ -61485,6 +61501,7 @@
 ||pcvideoyf.titan.mgtv.com/pb/*.mp4
 ||pcvlpotybnd.com^
 ||pcvzpj.xyz^
+||pcxnrd.xyz^
 ||pcxtvr.xyz^
 ||pcyprkoqednl.xyz^
 ||pd-news.com^
@@ -67118,6 +67135,7 @@
 ||quytiente.com^
 ||quzmtpxw.xyz^
 ||quzpvtt.xyz^
+||quzwteqzaabm.com^
 ||qvbwras.cn^
 ||qvcyeknp.xyz^
 ||qvfkiwf.cn^
@@ -67671,6 +67689,7 @@
 ||raukaury.com^
 ||raunooligais.net^
 ||raunowhy.xyz^
+||raupasee.xyz^
 ||raupothrepe.com^
 ||raupsica.net^
 ||rausfml.com^
@@ -72500,6 +72519,7 @@
 ||sfaxnqia.com^
 ||sfcfssgbrhnsb.com^
 ||sfdsplvyphk.com^
+||sfesdef6.fun^
 ||sffsdvc.com^
 ||sfg11rr.com^
 ||sfgprze.cn^$document
@@ -77974,6 +77994,7 @@
 ||surgicallonely.com^
 ||surhaihaydn.com^
 ||suricatchino.space^
+||suriquesyre.com^
 ||surlierrevary.space^
 ||surlydancerbalanced.com^
 ||surmal.com^
@@ -78415,6 +78436,7 @@
 ||sz7g.top^
 ||sz88.oss-cn-shenzhen.aliyuncs.com^
 ||szafvjdd.icu^
+||szapaqi.cn^
 ||szasm8.com^
 ||szbhb.cn^
 ||szbnnqyqn.com^
@@ -85064,6 +85086,7 @@
 ||unmightboxen.com^
 ||unmisdreavusom.com^
 ||unmnkkq.cn^
+||unmownpirated.shop^
 ||unmsrvh.cn^
 ||unnamesline.com^
 ||unnaturalcaption.com^$third-party
@@ -86980,6 +87003,7 @@
 ||vib.tuvan-chamsockhachhang.com^
 ||vib8-vay.com^
 ||vib84.com^
+||vibanioa.com^
 ||vibbca-nhan.com^
 ||vibber.download^
 ||vibcskh.com^
@@ -90603,6 +90627,7 @@
 ||wlimrvsnusyawk.com^
 ||wliuahugpgo.com^
 ||wljj56.com^
+||wlkukrv.icu^
 ||wlmarketing.com^
 ||wlmitgzbht.com^
 ||wlog.ifdo.co.kr^
@@ -95275,6 +95300,7 @@
 ||zjqs.shop^
 ||zjrnyrranjjay.top^
 ||zjsdsports.cn^
+||zjsnhl.xyz^
 ||zjst.net/3.gif
 ||zjthzf.xyz^
 ||zjttaqx.cn^
@@ -103555,6 +103581,7 @@ forums.socialmediagirls.com,sexy-youtubers.com##a[href^="https://secure.chewynet
 forums.somethingawful.com###notregistered
 forums.somethingawful.com##.oma_pal
 forums.space.com,forums.tomshardware.com###rightcol_bottom
+forums.sufficientvelocity.com,m.economictimes.com,pornhub.com,pornhub.net,pornhub.org,someecards.com,trailspace.com,wabetainfo.com,xtube.com##.adContainer
 forums.tomsguide.com,vhiphop.com###video_ad
 forums.whathifi.com###jwplayer-container-div
 forusex.com##a[href^="http://redheartnext.com"] > img
@@ -107918,7 +107945,6 @@ m.douban.com##[src^="//at4.doubanio.com/"]
 m.douban.com##[src^="https://at4.doubanio.com"]
 m.douban.com##div.center > div > div
 m.economictimes.com##.bannerwrapper
-m.economictimes.com,pornhub.com,pornhub.net,pornhub.org,someecards.com,trailspace.com,wabetainfo.com,xtube.com##.adContainer
 m.hao123.com##.tuizhan
 m.hupu.com##.hupu-footer-btn
 m.hupu.com##.open-hupu
@@ -148675,6 +148701,7 @@ zle.com$script
 ##a[href*="AdsCode_"][target="_blank"]
 ##a[href*="app:"] > img[src]
 ##a[href*="b2pk.com/b/a/d/"][href*=".php?"] > img
+##a[href*="bjty"] > img[src*="imgsrc.baidu.com"]
 ##a[href*="https://go.live.missav.com/?"][target="_blank"]
 ##a[href*="jszclock.com/gebi/"]
 ##a[href*="kdocs.cn"] > img[src*=".ax1x.com/"]
