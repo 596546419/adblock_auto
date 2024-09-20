@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: uBCFeRwD0cs6J3yA4B2u8Q
+! Checksum: 1xvx6IC7JlBP77LA01BsLg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240920162859
+! Version: 20240921002839
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-20 16:28:59
-! Total Count: 28965
+! Last modified: 2024-09-21 00:28:39
+! Total Count: 28970
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2677,6 +2677,7 @@
 ||ads.wetpussy.sexy^
 ||ads.xlxtra.com^
 ||ads.yahoo.com^$~image
+||ads.yeeyi.com^
 ||ads.youtube.com^
 ||ads.youtube.com^$xmlhttprequest,redirect-rule=noop.txt
 ||ads01.com^$third-party
@@ -3918,6 +3919,7 @@
 ||aukllsq.cn^
 ||auntants.com^$third-party
 ||aup34.xyz^
+||aushaq.top^
 ||auspiciousyard.com^$third-party
 ||auto-online.com.tw/vendor_data/
 ||autofan.com.cn/UploadFiles/images/bAdImg.jpg
@@ -4585,6 +4587,7 @@
 ||bkill.com/css/js/*top
 ||bkill.com/css/js/abcbl.js
 ||bkill.com/css/js/xinbkill.js
+||bkiterv.top^
 ||bkjia.com/bkjia/js/art_rightad
 ||bkjia.com/bkjia/js/artitle.js
 ||bkjia.com/bkjia/js/banner
@@ -5832,6 +5835,7 @@
 ||csdnimg.cn/check-adblock/
 ||csdnimg.cn/public/common/indexSuperise/1.1.1/indexSuperise.js
 ||csdnimg.cn^*#/preview/
+||csdsa22.fun^
 ||csedasdme.xyz^
 ||csh253.cn^
 ||cshlal.icu^
@@ -6392,6 +6396,7 @@
 ||dk4ywix.com^$third-party
 ||dkcwnsu.xyz^
 ||dkhffh.xyz^
+||dkstrtss.xyz^
 ||dkvakldvnsv.com^
 ||dkyd6.xyz^
 ||dl.4kporn.xxx^

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: sfteZVIpDQa8xUiOpio/sw
+! Checksum: +28lryxkcu/Nd3j5oQ3g+A
 ! Title: 混合规则(自动更新)
-! Version: 20240920162847
+! Version: 20240921002828
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-20 16:28:47
-! Total Count: 152669
+! Last modified: 2024-09-21 00:28:28
+! Total Count: 152678
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6564,6 +6564,7 @@
 ||ads.xemtivisohd.net^
 ||ads.xlxtra.com^
 ||ads.yahoo.com^
+||ads.yeeyi.com^
 ||ads.yenimedya.com.tr^
 ||ads.youtube.com^
 ||ads.youtube.com^$xmlhttprequest,redirect-rule=noop.txt
@@ -11889,6 +11890,7 @@
 ||aursaign.net^
 ||aurtoodse.com^
 ||aurvioecvf.com^
+||aushaq.top^
 ||ausoafab.net^
 ||ausomsup.net^
 ||auspiceguile.com^
@@ -15115,6 +15117,7 @@
 ||bkill.com/css/js/xinbkill.js
 ||bkirfeu.com^
 ||bkisss.com^
+||bkiterv.top^
 ||bkjhqkohal.com^
 ||bkjia.com/bkjia/js/art_rightad
 ||bkjia.com/bkjia/js/artitle.js
@@ -21822,6 +21825,7 @@
 ||count.xxxssk.com^$third-party
 ||count.yandeg.ru^
 ||count24.de^
+||countabledawdlerunaudited.com^
 ||countar.de^
 ||countby.com^
 ||countdownlogic.com^
@@ -22586,6 +22590,7 @@
 ||csdnimg.cn/common/redpack/redpack.js
 ||csdnimg.cn/public/common/indexSuperise/1.1.1/indexSuperise.js
 ||csdnimg.cn^*#/preview/
+||csdsa22.fun^
 ||csedasdme.xyz^
 ||csekct.xyz^
 ||csf.uzone.id^
@@ -25772,6 +25777,7 @@
 ||dkrely.com^
 ||dkrqyly.com^
 ||dkrxtdnlg.com^
+||dkstrtss.xyz^
 ||dkswptmwowowp.xyz^
 ||dktoo.site^
 ||dkudnwb.cn^
@@ -35878,6 +35884,7 @@
 ||googie-anaiytics.com^
 ||google-ads.hara.vn^
 ||google-analytics-cn.com^
+||google-analytics.bi.owox.com^
 ||google-analytics.com/analytics.js$script,redirect=noopjs,important,domain=ebb.io
 ||google-analytics.com/analytics.js|$script,xmlhttprequest,redirect=google-analytics
 ||google-analytics.com/analytics.js|$script,xmlhttprequest,redirect=google-analytics.com/analytics.js
@@ -91019,6 +91026,7 @@
 ||worthlessstrings.com^
 ||worthspontaneous.com^
 ||worthwhile-chance.com^
+||worthwhile-wash.com^
 ||worthwhileawe.com^
 ||worthycondimentburied.com^
 ||worthylighteravert.com^
@@ -116555,6 +116563,7 @@ ye120.com##.fixed_bottom
 yeduxiaoshuoo.com##div[class$="anye"][onclick$="anye()"]
 yeecloud.com###adFirefox
 yeeyi.com##.boardnav > #ct > .sd
+yeeyi.com##.js_handle_right
 yeeyi.com##.sd.pph > .mbm.hm
 yeeyi.com##div[style="width: 300px; margin-right: -30px; position: relative; top: 0px;"] > a
 yellowise.com##.g-widget-block
