@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 5LuPL7KIjXYNBP/Xt/ovIQ
+! Checksum: PQpMcy4LMBTho7wOcPlgpw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240920002850
+! Version: 20240920094328
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-20 00:28:50
-! Total Count: 28955
+! Last modified: 2024-09-20 09:43:28
+! Total Count: 28963
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2587,6 +2587,7 @@
 ||ads-partners.coupang.com^
 ||ads-pixiv.net^$third-party
 ||ads-resources.waze.com^
+||ads-router-noneu.truecaller.com^
 ||ads-sdk.mattel163.com^
 ||ads-sdk.nianticlabs.com^
 ||ads-server.mxplay.com^
@@ -4480,6 +4481,7 @@
 ||bfpgf.com/wp-content/uploads/2015/08/360dxs.jpg
 ||bftqdd.xyz^
 ||bg04y.xyz^
+||bgbg00.fun^
 ||bgbqfqwi.xyz^
 ||bgbyzv.xyz^
 ||bgdgpbpm.xyz^
@@ -4599,6 +4601,7 @@
 ||bleachmx.fr/wp-content/plugins/yeptmixnsykgrb/bjns-fcknj.js
 ||blesspizzas.com^$third-party
 ||bleumzr.icu^
+||blinxmi.icu^
 ||bljlrl.xyz^
 ||blmlt.szjunda.cn^$document
 ||blmlt.szjunda.cn^$~third-party
@@ -7702,6 +7705,7 @@
 ||fwepd.xyz^
 ||fwffa.cn^
 ||fwhhcpj.xyz^
+||fwsfwef2.fun^
 ||fwsir.com/static/cpt/
 ||fwwang.cn/templets/fw/js/art
 ||fwzvlp.xyz^
@@ -9407,6 +9411,7 @@
 ||impulsejewel.com^$third-party
 ||imrvyop.cn^
 ||imrworldwide.com^
+||imusye.xyz^
 ||imwx.com/mobile/adconfig/
 ||imwxsu.xyz^
 ||imxsvpxe.xyz^
@@ -13042,6 +13047,7 @@
 ||pmnct63.shop^
 ||pmtrkp.icu^
 ||pmxalz.xyz^
+||pmzlnt.xyz^
 ||pnez8.rut6m.xyz^
 ||pnhp3x1.com^
 ||pniao99.com/statics/js/stat.js
@@ -17023,6 +17029,7 @@
 ||vuxxtn.xyz^
 ||vuyibsm.icu^
 ||vv1.pyhfxdm.cn^
+||vvadz.cc^
 ||vvdzucs.cn^
 ||vvlhrz.xyz^
 ||vvmeirihd.feijied.xyz^
@@ -17392,6 +17399,7 @@
 ||wpnsrv.com^
 ||wpnsrv.com^$third-party,important
 ||wpoarjokzgi.com^
+||wpsbaq.xyz^
 ||wpshsdk.com^$third-party
 ||wpuiuwh.icu^
 ||wqcfg.cn^

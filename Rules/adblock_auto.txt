@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: iE5WZ2LnHAdV1ZbtwVyP8g
+! Checksum: OTAkRn7aQ5lfvmS3s0MkLA
 ! Title: 混合规则(自动更新)
-! Version: 20240920002838
+! Version: 20240920094317
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-20 00:28:38
-! Total Count: 152649
+! Last modified: 2024-09-20 09:43:17
+! Total Count: 152667
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2578,6 +2578,7 @@
 ||5btekl14.de^
 ||5c01ad4cb7.com^
 ||5c4a902f7e.com^
+||5c4ccd56c9.com^
 ||5c577fc74618431b.com^
 ||5c58619ab5.com^
 ||5c88c350e2.com^
@@ -3375,6 +3376,7 @@
 ||8341.store^
 ||8353e36c2a.com^
 ||835images1.com^
+||83761158.xyz^
 ||83887336.xyz^
 ||8388tp.com^$domain=9xav.cc
 ||83u7q.top^
@@ -6332,6 +6334,7 @@
 ||ads-pixiv.net^
 ||ads-platform.zalo.me^
 ||ads-resources.waze.com^
+||ads-router-noneu.truecaller.com^
 ||ads-sdk.mattel163.com^
 ||ads-sdk.nianticlabs.com^
 ||ads-server.mxplay.com^
@@ -14524,6 +14527,7 @@
 ||bg04y.xyz^
 ||bg4nxu2u5t.com^
 ||bgadx.com^
+||bgbg00.fun^
 ||bgbkvawcctzqql.com^
 ||bgbqfqwi.xyz^
 ||bgbtqizsdziw.com^
@@ -15247,6 +15251,7 @@
 ||blinkjork.com^
 ||blinkpainmanly.com^
 ||blinktowel.com^
+||blinxmi.icu^
 ||blismedia.com^
 ||bliss91.com^
 ||blisscleopatra.com^
@@ -18315,7 +18320,6 @@
 ||cdn.porngames.tv/images/videos
 ||cdn.pranmcpkx.com^
 ||cdn.preciso.net^
-||cdn.pubnub.com^
 ||cdn.pushalert.co^
 ||cdn.pushmaster-cdn.xyz^
 ||cdn.qc24h.com^
@@ -28658,6 +28662,7 @@
 ||embogsoarers.com^
 ||embolipokies.com^
 ||embolysaros.click^
+||embowerdatto.com^
 ||embracetrace.com^
 ||embrailcamino.top^
 ||embtrk.com^
@@ -33604,6 +33609,7 @@
 ||fwrnmmvxsfcrcqk.com^
 ||fwrpq.cyou^
 ||fwrwuzhpmw.com^
+||fwsfwef2.fun^
 ||fwsir.com/static/cpt/
 ||fwskotewexa.xyz^
 ||fwsoviw.com^
@@ -41704,6 +41710,7 @@
 ||imstks.com^
 ||imudukely.store^
 ||imugjnniij.com^
+||imusye.xyz^
 ||imview.cn^
 ||imvjcds.com^
 ||imvsujvyxtrnpb.com^
@@ -47693,6 +47700,7 @@
 ||lajevt.xyz^
 ||lajidewanyi.top^
 ||lajimeiguo.top^
+||lajjmqeshj.com^
 ||lajjuqamcwax.com^
 ||lajouly.com^
 ||lake.joongang.co.kr^
@@ -62348,6 +62356,7 @@
 ||phupours.com^
 ||phursefter.net^
 ||phuteheglu.com^
+||phuthobsee.com^
 ||phuzeeksub.com^
 ||phvfevk.xyz^
 ||phvhnxebmrzf.com^
@@ -63288,6 +63297,7 @@
 ||pmxyzqm.com^
 ||pmzbrfpijoa.com^
 ||pmzer.com^
+||pmzlnt.xyz^
 ||pnads.com^
 ||pncloudfl.com^
 ||pncvaoh.com^
@@ -65199,6 +65209,7 @@
 ||ptapjmp.com^
 ||ptarepjx.com^
 ||ptatexiwhe.com^
+||ptatzrucj.com^
 ||ptaughar.com^
 ||ptaujoot.net^
 ||ptaulratch.com^
@@ -76888,6 +76899,7 @@
 ||statystyki.panelek.com^
 ||staubsefoo.com^
 ||staubsuthil.com^
+||staukaul.com^
 ||staukponier.com^
 ||staumersleep.com^
 ||staumobu.com^
@@ -88615,6 +88627,7 @@
 ||vv.tmska.com^
 ||vv1.pyhfxdm.cn^
 ||vv8h9vyjgnst.com^
+||vvadz.cc^
 ||vvbox.cz^
 ||vvdzucs.cn^
 ||vvehvch.com^
@@ -91100,6 +91113,7 @@
 ||wpozwh.com^
 ||wpqmiq.cn^
 ||wpqsmse.cn^
+||wpsbaq.xyz^
 ||wpshsdk.com^
 ||wpshsdk.com^$third-party
 ||wpsmcns.com^
@@ -91432,6 +91446,7 @@
 ||wwaeljajwvywm.top^
 ||wwahuxzipoc.com^
 ||wwandle.top^
+||wwaowwonthco.com^
 ||wwarvlorkeww.top^
 ||wwarvlorobzw.top^
 ||wwbeqrhjwnijdk.com^
@@ -97105,7 +97120,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 4runnerforum.com,acuraforums.com,blazerforum.com,buickforum.com,cadillacforum.com,camaroforums.com,cbrforum.com,chryslerforum.com,civicforums.com,corvetteforums.com,fordforum.com,germanautoforums.com,hondaaccordforum.com,hondacivicforum.com,hondaforum.com,hummerforums.com,isuzuforums.com,kawasakiforums.com,landroverforums.com,lexusforum.com,mazdaforum.com,mercuryforum.com,minicooperforums.com,mitsubishiforum.com,montecarloforum.com,mustangboards.com,nissanforum.com,oldsmobileforum.com,pontiactalk.com,saabforums.com,saturnforum.com,truckforums.com,volkswagenforum.com,volvoforums.com##aside > center
 4shared.com##.remove-rekl
 4spaces.org,fuliba.net,fuliba2023.net,fuliba23.net,uliba.net,ypojie.com##.widget_ui_orbui
-4sysops.com,9to5linux.com,app-how-to-use-it.com,arcjav.com,backthetruckup.com,catcountry941.com,cnx-software.com,corrosionhour.com,corvetteblogger.com,dailyveracity.com,dcrainmaker.com,discover.is,droidwin.com,dvdgayporn.com,faqforge.com,fastestvpns.com,fuliba2020.net,fuliba2021.net,fuliba2023.net,gamingonphone.com,girgitnews.com,gizmochina.com,guides.wp-bullet.com,hardwaretimes.com,hotcelebshome.com,iwatchsouthparks.com,jav.guru,javcrave.com,landiannews.com,laoliublog.cn,macsources.com,mangasy.com,mediachomp.com,metalsucks.net,mmoculture.com,nasaspaceflight.com,nbagaffer.net,openloading.com,patriotfetch.com,planetofreviews.com,precinctreporter.com,prepperwebsite.com,psdly.com,pussycatxx.com,quickanswer.blog,robloxhackscripts.com,ruyo.net,sashares.co.za,scienceabc.com,scienceandliteracy.org,spokesman-recorder.com,survivopedia.com,taradinhos.com,techdows.com,techiecorner.com,techjuice.pk,theblueoceansgroup.com,thecinemaholic.com,thetaiwantimes.com,thinkcivics.com,tooxclusive.com,torrentfreak.com,torrentmac.net,trackalerts.com,trendingpoliticsnews.com,uliba.net,vrhotporn.top,wabetainfo.com,winandmac.com,xscholarship.com,zhujiceping.com,zouaw.com##.widget_custom_html
+4sysops.com,9to5linux.com,app-how-to-use-it.com,arcadepunks.com,arcjav.com,backthetruckup.com,catcountry941.com,cnx-software.com,corrosionhour.com,corvetteblogger.com,dailyveracity.com,dcrainmaker.com,discover.is,droidwin.com,dvdgayporn.com,faqforge.com,fastestvpns.com,fuliba2020.net,fuliba2021.net,fuliba2023.net,gamingonphone.com,girgitnews.com,gizmochina.com,guides.wp-bullet.com,hardwaretimes.com,hotcelebshome.com,iwatchsouthparks.com,jav.guru,javcrave.com,landiannews.com,laoliublog.cn,macsources.com,mangasy.com,mediachomp.com,metalsucks.net,mmoculture.com,nasaspaceflight.com,nbagaffer.net,openloading.com,patriotfetch.com,planetofreviews.com,precinctreporter.com,prepperwebsite.com,psdly.com,pussycatxx.com,quickanswer.blog,robloxhackscripts.com,ruyo.net,sashares.co.za,scienceabc.com,scienceandliteracy.org,spokesman-recorder.com,survivopedia.com,taradinhos.com,techdows.com,techiecorner.com,techjuice.pk,theblueoceansgroup.com,thecinemaholic.com,thetaiwantimes.com,thinkcivics.com,tooxclusive.com,torrentfreak.com,torrentmac.net,trackalerts.com,trendingpoliticsnews.com,uliba.net,vrhotporn.top,wabetainfo.com,winandmac.com,xscholarship.com,zhujiceping.com,zouaw.com##.widget_custom_html
 4teachers.org###banner-wrapper
 4thsight.xyz,aceofhacking.com,briian.com,buildsometech.com,collegelearners.com,dpfantasy.org,eftm.com,firesticktricks.com,floxblog.com,gfxdrug.com,godisageek.com,historicseries.com,hotcelebshome.com,hutporner.com,indiansexbazar.com,jav1080.com,laweekly.com,newtechworld.net,nicekkk.com,pennbookcenter.com,sakurajav.com,sonixgvn.net,streamempire.cc,tecmint.com,tmioe.com,watchseinfeld.com,watchtheoffice.cc,zonegfx.com###custom_html-4
 4tube.com###main-jessy-grid
@@ -97811,7 +97826,7 @@ adrama.to#?#.post_sidebar > div.side_box:has(div[id^="mynewads_"])
 adreep.cn,baoliny.com,gasaq.com,hgitv.com,ifooday.cn,nen.com.cn,world68.com##.guanggao
 adsoftheworld.com,futurism.com##.tracking-widest
 adspecials.us,ajanlatok.hu,akcniletak.cz,catalogosofertas.cl,catalogosofertas.com.ar,catalogosofertas.com.br,catalogosofertas.com.co,catalogosofertas.com.ec,catalogosofertas.com.mx,catalogosofertas.com.pe,catalogueoffers.co.uk,catalogueoffers.com.au,flugblattangebote.at,flyerdeals.ca,folderz.nl,folhetospromocionais.com,folletosofertas.es,gazetki.pl,kundeavisogtilbud.no,ofertelecatalog.ro,offertevolantini.it,promocatalogues.fr,promotiez.be,promotions.ae,prospektangebote.de,reklambladerbjudanden.se,tilbudsaviseronline.dk##.anchor-wrapper
-adswikia.com,freemalaysiatoday.com,landandfarm.com,pointblanknews.com,radiotoday.com.au,runt-of-the-web.com,rxresource.org,techworldgeek.com,warisboring.com##.header-banner
+adswikia.com,arcadepunks.com,freemalaysiatoday.com,landandfarm.com,pointblanknews.com,radiotoday.com.au,runt-of-the-web.com,rxresource.org,techworldgeek.com,warisboring.com##.header-banner
 adtunes.com###div-atf-336x280
 adtunes.com###div-inline-left-336x280
 adtunes.com###div-inline-right-336x280
@@ -98188,7 +98203,7 @@ americanfreepress.net,analyticsindiamag.com,elitepvpers.com,readneverland.com##i
 americanfreepress.net,analyticsindiamag.com,namepros.com,readneverland.com##[width="600"]
 americanfreepress.net,sashares.co.za##.wppopups-whole
 americanindependent.com##.td-banner-bg
-americaoutloud.com,autoaction.com.au,babeshows.co.uk,cryptoreporter.info,dafont.com,forexmt4indicators.com,gamblingnewsmagazine.com,irishcatholic.com,jessie-rogers.com,runnerstribe.com,tntribune.com##img[width="728"]
+americaoutloud.com,arcadepunks.com,autoaction.com.au,babeshows.co.uk,cryptoreporter.info,dafont.com,forexmt4indicators.com,gamblingnewsmagazine.com,irishcatholic.com,jessie-rogers.com,runnerstribe.com,tntribune.com##img[width="728"]
 amgreatness.com###ag-lead
 amgreatness.com##.bg-gray-200.mx-auto
 amgreatness.com##.mb-10.mx-auto
@@ -109370,6 +109385,9 @@ news.bitcoin.com##.sc-cpornS
 news.bloomberglaw.com##.HeaderAdSpot_height_1B2M2
 news.china.com.cn##.Wrapper > div[style]
 news.cn2che.com##.banner01
+news.cnyes.com##.content-main > div:empty
+news.cnyes.com##.content-main > div:has(> div[id^="div-gpt-"])
+news.cnyes.com##article > div:has(> div[id^="div-gpt-"])
 news.ebc.net.tw###marquee-box
 news.ebc.net.tw##.fncnews-content > div.raw-style > div > p > a[href]
 news.ebc.net.tw##.inline_text.has_marker
