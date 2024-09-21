@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: cG+cAPkNGZ9IzRFnivbA6A
+! Checksum: qRgB3QURCO2lJocHe9bLPQ
 ! Title: 混合规则(自动更新)
-! Version: 20240921162657
+! Version: 20240922002809
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-21 16:26:57
-! Total Count: 152707
+! Last modified: 2024-09-22 00:28:09
+! Total Count: 152723
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9713,6 +9713,7 @@
 ||analytics.sohatv.vn^
 ||analytics.sonjj.com^
 ||analytics.spankbang.com^
+||analytics.spearly.com^
 ||analytics.sports.ru^
 ||analytics.springboardvideo.com^
 ||analytics.spun.com.br^
@@ -22996,6 +22997,7 @@
 ||cvxwaslonejulyha.info^
 ||cvyimypsjxca.com^
 ||cw9twua9.shop^
+||cwaterf.top^
 ||cwchmb.com^
 ||cwerilxf.top^
 ||cweriof.top^
@@ -45506,6 +45508,7 @@
 ||jy06.shop^
 ||jy07.shop^
 ||jy08.shop^
+||jy09.shop^
 ||jy135.com/js/pubuliu.
 ||jy135.com^$third-party
 ||jy147a.com^
@@ -47444,6 +47447,7 @@
 ||kxwhiogrswx.com^
 ||kxxfdwt.cn^
 ||kxyfhxbsvfhy.com^
+||ky595images.com^
 ||ky891.oss-*.aliyuncs.com^
 ||kyaj11.com^
 ||kyaywy.xyz^
@@ -48684,6 +48688,7 @@
 ||lgwxawtg.com^
 ||lgxm.cool^
 ||lgyxxxlcsgwgfg.xyz^
+||lh.bigcrunch.com^
 ||lh031i88q.com^
 ||lh168.net^*/attachment/portal/
 ||lh54.top^
@@ -68745,6 +68750,7 @@
 ||replase.cf^
 ||replase.gq^
 ||replase.ml^
+||replaybird.com^
 ||replays.net/j/dazui
 ||replays.net/j/pinglunshang.png
 ||replicafixedly.com^
@@ -86602,6 +86608,7 @@
 ||vcbydvfouqqyls.com^
 ||vccyb.ltd^
 ||vcdc.com^
+||vcdfsf99.fun^
 ||vcdn.biz/*_mggads/
 ||vcdn.subiz-cdn.com^
 ||vcdpuyl.com^
@@ -99572,6 +99579,7 @@ bitcoin-otc.com##div[style="padding-left: 10px; padding-bottom: 10px; text-align
 bitcoiner.tv##[href="https://bitcoiner.tv/buy-btc.php"]
 bitcoiner.tv##[href^="https://go.stormgain.com/"]
 bitcoinist.com,coincodex.com,coinpaprika.com,coinspeaker.com,crypto-news-flash.com,cryptonewsz.com##.clickout-banner-native_table_box-bottom
+bitcointalk.org##.signature:has(a[href]:not([href*="bitcointalk.org"]))
 bitcomet.com##.gg728
 bitdegree.org###campaign-modal
 bitdegree.org##.comparison-suggestion
@@ -100926,6 +100934,8 @@ cnxz.cn##[class*="-ad"]
 cnyes.com###full_ad-popup
 cnyes.com###full_ad-screen
 cnyes.com##a[data-proj-ga-category="FloatingBTN"]
+cnyes.com#?#.content-main > div:-abp-has(>div[id^="div-gpt-ad"])
+cnyes.com#?#article > div:-abp-has(>div[id^="div-gpt-ad"])
 cnys.tv##+js(set-constant, config.group, '')
 co188.com##.suspen
 coachhuey.com##a[href^="https://www.hudl.com"]
@@ -110506,7 +110516,11 @@ pixiv.net##.multi-ads-area
 pixiv.net##a[target="premium_noads"]
 pixiv.net##div[id^="adsdk-"]
 pixiv.net##div[style="font-size: 0px;"] a[target="premium_noads"]
+pixiv.net##div[style="height: 540px; opacity: 1;"]
+pixiv.net##iframe[height="300"][name="responsive"]
+pixiv.net##iframe[height="520"][name="expandedFooter"]
 pixiv.net##iframe[width="300"][height="250"]
+pixiv.net,xnxx.com##.ad-footer
 pixnet.net###pixblogad
 pixnet.net###pixblogad-banner2
 pixnet.net##+js(abort-current-script, window.leave)
@@ -115240,6 +115254,9 @@ vox.com##[data-concert="leaderboard_top_tablet_desktop"]
 vox.com##[data-concert="outbrain_post_tablet_and_desktop"]
 vox.com##[data-concert="tablet_leaderboard"]
 voxelmatters.com##.rss-ads-orizontal
+vpforums.org###master1
+vpforums.org##.ipsSideBlock.clearfix:has-text(Affiliates)
+vpforums.org##td[align="center"][style="padding: 0px;"]
 vpnmentor.com##.side-top-vendors-wrap
 vpornvideos.com###mn-container
 vpsdx.cn,vpsdx.com##.span4 > a > img
@@ -116305,7 +116322,6 @@ xn--80aikhbrhr.net,кинокрад.net##.warning-adblock-box
 xnxx-sex-videos.com##+js(no-setTimeout-if, /out.php)
 xnxx-sexfilme.com##+js(no-setTimeout-if, appendChild)
 xnxx-sexfilme.com,hd-easyporn.com,pornblade.com,pornfelix.com##.vjs-overlayed
-xnxx.com##.ad-footer
 xnxx.com##[class*="ad-"]
 xnxx.com,xvideos.com###ad-footer
 xnxx.com,xvideos.com##[id^="ad-"]
