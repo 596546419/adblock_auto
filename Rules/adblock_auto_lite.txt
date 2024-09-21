@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 1xvx6IC7JlBP77LA01BsLg
+! Checksum: yhH6tnKQKVAppIoKMO1F8Q
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240921002839
+! Version: 20240921094154
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-21 00:28:39
-! Total Count: 28970
+! Last modified: 2024-09-21 09:41:54
+! Total Count: 28977
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3320,6 +3320,7 @@
 ||agrantsem.com^$third-party
 ||agreeablestew.com^$third-party
 ||agreeabletouch.com^$third-party
+||agufoi.xyz^
 ||aguo.com^$third-party
 ||agwdac.xyz^
 ||ah.sina.com.cn/iframe/
@@ -4600,6 +4601,7 @@
 ||bl-doujinsouko.com/fam2.html
 ||bl230126pb.com^
 ||black6adv.com^
+||blasedustin.shop^
 ||blciqbk.icu^
 ||bleachmx.fr/wp-content/plugins/yeptmixnsykgrb/bjns-fcknj.js
 ||blesspizzas.com^$third-party
@@ -5932,6 +5934,7 @@
 ||cycyw.com/qdj/
 ||cyq3noz.icu^
 ||cyretuf.top^
+||cysgcm.xyz^
 ||cyuwkbf.top^
 ||czexrhl.cn^
 ||czouthy.cn^
@@ -9116,6 +9119,7 @@
 ||ibjkafefertt.xyz^
 ||ibjkdwsdko.com^
 ||ibjknmqw.com^
+||ibqmey.xyz^
 ||ibqswjdkpo.com^
 ||ibsea.cn^
 ||icaile.com/z.php?id=
@@ -14029,6 +14033,7 @@
 ||repulsiverequest.com^$third-party
 ||reqde.afreecatv.com^
 ||requirejs.cn/ts.png
+||reqwevf3.fun^
 ||res.cngoldres.com/web/index/img/*_ad_
 ||res.pinpai8.cn^
 ||res.vps234.com/resources/images/hosting-promotion/
@@ -17933,6 +17938,7 @@
 ||xvzfyra.xyz^
 ||xvzvqoq.xyz^
 ||xw.ooegpip.cn^$third-party,image
+||xwbmjb.xyz^
 ||xwbspx.xyz^
 ||xwbxsw.com/js/app_wap.
 ||xwdjnj.xyz^
@@ -18839,6 +18845,7 @@
 ||zzhengre.com^
 ||zzisnvb.cn^
 ||zzlong14.cn^
+||zzohucf.icu^
 ||zzqrr.com^
 ||zzrjdp.xyz^
 ||zzsky.com/images/a_d_
