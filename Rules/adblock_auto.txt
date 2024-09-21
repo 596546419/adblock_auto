@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Z0Wk7NIGyKw8tLVn1r9NNA
+! Checksum: cG+cAPkNGZ9IzRFnivbA6A
 ! Title: 混合规则(自动更新)
-! Version: 20240921094142
+! Version: 20240921162657
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-21 09:41:42
-! Total Count: 152702
+! Last modified: 2024-09-21 16:26:57
+! Total Count: 152707
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -21756,6 +21756,7 @@
 ||cosmicpartially.com^
 ||cosmismnatchez.com^
 ||cosmo001.top^
+||cosmo100.top^
 ||cosmosjackson.com^$third-party
 ||cosouy.xyz^
 ||cosplayporntube.com/creatives/
@@ -53535,6 +53536,7 @@
 ||mkgiiijigxwwn.com^
 ||mkhoj.com^
 ||mkihakfuzv.com^
+||mkiterx.top^
 ||mkjnba.com^
 ||mkjnbg.com^
 ||mkjnha.com^
@@ -71740,6 +71742,7 @@
 ||sdk.starbolt.io^
 ||sdk.stats-locations.com^
 ||sdk.zadn.vn^
+||sdkconfig.pulse.m10s.io^
 ||sdkconfig.pulse.schibsted.io^
 ||sdkfjxjertertry.com^
 ||sdkjkbsjkbvjkscv.com^
@@ -115638,6 +115641,7 @@ wenxuecity.com###marquee
 wenxuecity.com###morehealth-banner-1
 wenxuecity.com##+js(set-constant, adsbygoogle, noopFunc)
 wenxuecity.com##.otherposts > ul > li > a[target="_blank"]
+wenxuecity.com##.rightbannerw
 wenxuecity.com##.sidebar > .banners
 wenxuecity.com##.topbannerw
 wenxuecity.com##DIV[class^="Inarticle_"]
@@ -123286,6 +123290,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /cubead.
 /cubeads/*
 /cubeads_
+/cuid/*$domain=colamanga.com
 /curlad.
 /curveball/ads/*
 /curveball/ads/*$image
