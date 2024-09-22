@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: l2dss2tXVkIxTQy2YvjY/w
+! Checksum: DNJU1ciV4RnJilGUQOXBKA
 ! Title: 混合规则(自动更新)
-! Version: 20240922162629
+! Version: 20240923002630
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-22 16:26:29
-! Total Count: 152757
+! Last modified: 2024-09-23 00:26:30
+! Total Count: 152763
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -898,6 +898,7 @@
 ||1915832424.rsc.cdn77.org^
 ||1918837748.rsc.cdn77.org^
 ||1919954591.rsc.cdn77.org^
+||19199675.xyz^
 ||192.151.218.66^$third-party
 ||192.luyouwang.com^
 ||19216811.la/net/advert
@@ -32867,6 +32868,7 @@
 ||fq04.shop^
 ||fq05.shop^
 ||fq06.shop^
+||fq07.shop^
 ||fq67.top^
 ||fqab5xq7qlgt.info^
 ||fqanulluixeis.com^
@@ -86976,6 +86978,7 @@
 ||vftvbx.xyz^
 ||vfvad.top^
 ||vfvdsati.com^
+||vfvdvd99.fun^
 ||vfvrld.xyz^
 ||vfvvhywsdons.com^
 ||vfxrpl.xyz^
@@ -92584,6 +92587,7 @@
 ||xn--wxtr9fwyxk9c.club^
 ||xn--wxtr9fwyxk9c.club^$third-party
 ||xn--wxtr9fwyxk9co4hbua.xn--fiqs8s^
+||xn--xhq326aj6yqpw.com^
 ||xn--xhq326apqhcx0d.cn^
 ||xn--xhq9mt12cf5v.shop^
 ||xn--xhq9mt12cf5v.shop^$third-party
@@ -97719,9 +97723,9 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 9miao.com###deanrlc22
 9s102.xyz###main > .container-fluid.mb-3 > .row > .col-sm .alert
 9s102.xyz##.jsv > .container-fluid.mb-0 > .row > .col-sm > a[target="_blank"]
-9to5linux.com##.block-widget
 9to5linux.com##.widget:has([href$=".php"])
 9to5linux.com,acommunity.com.tw,anoopcnair.com,apkmirror.com,askpython.com,beckernews.com,bizpacreview.com,boxingnews24.com,browserhow.com,constructionreviewonline.com,crankers.com,gotrip.hk,hard-drive.net,hentaidude.xxx,journeybytes.com,maxblizz.com,net-load.com,nmplus.hk,planetanalog.com,roadaheadonline.co.za,theamericantribune.com,weekendhk.com,windowslatest.com,yugatech.com##.ai_widget
+9to5linux.com,maxblizz.com##.block-widget
 9to5mac.com##.single-custom-post-ad
 9tour.cn##a[href^="http://union.zhuna.cn/"]
 9u8u.com##.tc-box
@@ -129376,6 +129380,7 @@ _468-60.
 _468-60_
 _468.gif
 _468_60-
+_468_60-$~script
 _468_60.
 _468_60_
 _468_80.
@@ -149338,6 +149343,7 @@ zle.com$script
 ##a[href^="https://www.get-express-vpn.com/offer/"]
 ##a[href^="https://www.goldenfrog.com/vyprvpn?offer_id="][href*="&aff_id="]
 ##a[href^="https://www.googleadservices.com/pagead/aclk?"]
+##a[href^="https://www.googleadservices.com/pagead/aclk?"] > img
 ##a[href^="https://www.highcpmrevenuenetwork.com/"]
 ##a[href^="https://www.highperformancecpmgate.com/"]
 ##a[href^="https://www.hnhflqgc.com"]

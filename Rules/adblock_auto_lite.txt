@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: dX1ErdOSZn1wp6S3GnV2ww
+! Checksum: 95ERksOEcskcjYW+XF5iIQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240922162640
+! Version: 20240923002641
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-22 16:26:40
-! Total Count: 28993
+! Last modified: 2024-09-23 00:26:41
+! Total Count: 28996
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7593,6 +7593,7 @@
 ||fq04.shop^
 ||fq05.shop^
 ||fq06.shop^
+||fq07.shop^
 ||fq67.top^
 ||fqbjzj.xyz^
 ||fqfclmlo.xyz^
@@ -16865,6 +16866,7 @@
 ||vfsvv1.com^
 ||vftvbx.xyz^
 ||vfvad.top^
+||vfvdvd99.fun^
 ||vfvrld.xyz^
 ||vfxrpl.xyz^
 ||vfzfrx.xyz^
@@ -17829,6 +17831,7 @@
 ||xn--w9q675dm1p7em.net^
 ||xn--wgvp78a61swpe6zdozj.cn^
 ||xn--wxtr9fwyxk9c.club^$third-party
+||xn--xhq326aj6yqpw.com^
 ||xn--xhq326apqhcx0d.cn^
 ||xn--xhq9mt12cf5v.shop^$third-party
 ||xn--xhq9mt12cf5v.top^$third-party
