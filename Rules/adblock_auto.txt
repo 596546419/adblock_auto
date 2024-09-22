@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: /7S8P5GgKRngUijM06yg4A
+! Checksum: l2dss2tXVkIxTQy2YvjY/w
 ! Title: 混合规则(自动更新)
-! Version: 20240922095122
+! Version: 20240922162629
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-22 09:51:22
-! Total Count: 152755
+! Last modified: 2024-09-22 16:26:29
+! Total Count: 152757
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -40219,6 +40219,7 @@
 ||hwa.his.huawei.com^
 ||hwaagkmiitos.com^
 ||hwanjia.com^
+||hwateru.top^
 ||hwbekhxxihvdoue.com^
 ||hwcdn.net^*.mp4|$domain=pornachi.com|pornchimp.com
 ||hwchvgpc.xyz^
@@ -103676,6 +103677,7 @@ forums.bluemoon-mcfc.co.uk###snack_dmpu
 forums.bluemoon-mcfc.co.uk###snack_sky
 forums.bluemoon-mcfc.co.uk,gpfans.com###snack_mpu
 forums.golfwrx.com###pb-slot-top
+forums.golfwrx.com##ol.cTopicList > li.ipsDataItem:not([data-rowid])
 forums.minecraftforge.net,nextdoor.com,staradvertiser.com,uploadvr.com##.promo-container
 forums.pcsx2.net##div[onclick^="MyAdvertisements."]
 forums.socialmediagirls.com##.uix_nodeList > div[class="block"]:has([href^="/link-forums/"])
