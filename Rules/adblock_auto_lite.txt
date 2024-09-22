@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: yqtWS4jaYTB0htZXti3Y4g
+! Checksum: wth/DvvB4Gi5C+NgNGoogQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240922002820
+! Version: 20240922095134
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-22 00:28:20
-! Total Count: 28984
+! Last modified: 2024-09-22 09:51:34
+! Total Count: 28992
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4053,6 +4053,7 @@
 ||badmintoncn.com/cbo_include/js/cboaaa.js
 ||baeldung.com/*/library/dist/js/ad-recovery.min.js
 ||bagbeam.com^$third-party
+||baggvon.icu^
 ||baglezymoses.com^$third-party
 ||bahamut.com.tw/js/ad.js
 ||bai.luyouwang.com^
@@ -5840,6 +5841,7 @@
 ||csdnimg.cn^*#/preview/
 ||csdsa22.fun^
 ||csedasdme.xyz^
+||csfds000.fun^
 ||csh253.cn^
 ||cshlal.icu^
 ||csi.gstatic.com^
@@ -7410,6 +7412,7 @@
 ||fg.knlk2md.cn^$third-party
 ||fgadsqdma.top^
 ||fgcxdr.cn^
+||fgdkfr.xyz^
 ||fgdtln.xyz^
 ||fgetmzx.icu^
 ||fghghh.cn^
@@ -9039,6 +9042,7 @@
 ||hybird.rayjump.com^
 ||hybrid.ai^
 ||hyeqp.xyz^
+||hyhy2.fun^
 ||hyislou.top^
 ||hyjbdt.xyz^
 ||hyk9.xyz^
@@ -14284,6 +14288,7 @@
 ||ruyqiolnz.cyou^
 ||rvbiocn.cn^
 ||rvlgrb.xyz^
+||rvnaxwqe.icu^
 ||rvreuxi.cn^
 ||rvtfwryz.icu^
 ||rvvji.online^
@@ -16401,6 +16406,7 @@
 ||uaiosio.top^
 ||uaiqp.top^
 ||uakxkb.icu^
+||uaoaig.xyz^
 ||uavejnys.xyz^
 ||ub1.job592.com^
 ||ubeaui.xyz^
@@ -17838,6 +17844,7 @@
 ||xnnews.com.cn/adgl/
 ||xnnews.com.cn/tpl/material/
 ||xnpuw.cn^
+||xnqboqc.icu^
 ||xnrcnz.xyz^
 ||xnxx-cdn.com/*/default.pp.static.js$script
 ||xnxx-cdn.com/*/ppsuma*.js$script
@@ -17974,6 +17981,7 @@
 ||xxsmad1.com^
 ||xxsmad2.com^
 ||xxsmad3.com^
+||xxsmad4.com^
 ||xxtalp.xyz^
 ||xxxuhx.xyz^
 ||xxxvipporno.com^
