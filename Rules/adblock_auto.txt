@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: DNJU1ciV4RnJilGUQOXBKA
+! Checksum: c9XhcP0i1wdLIsYWqaLG2g
 ! Title: 混合规则(自动更新)
-! Version: 20240923002630
+! Version: 20240923094617
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-23 00:26:30
-! Total Count: 152763
+! Last modified: 2024-09-23 09:46:17
+! Total Count: 152771
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1268,6 +1268,7 @@
 ||23873645.com^
 ||23879858.xyz^
 ||23900341.com^
+||23907453.xyz^
 ||23907915.com^
 ||239300.net/template/*_mh_gg
 ||23962340.com^
@@ -8314,6 +8315,7 @@
 ||ajkzd9h.com^
 ||ajlwaseodqo.com^
 ||ajmpeuf.com^
+||ajockk.xyz^
 ||ajoqu.cn^
 ||ajozrjh.com^
 ||ajpxs.xyz^
@@ -26861,6 +26863,7 @@
 ||dspultra.com^
 ||dspunion.com^
 ||dspxxy.com^
+||dssddf33.fun^
 ||dssdfsf.cn^
 ||dssdr.top^
 ||dssdv.com^
@@ -35534,6 +35537,7 @@
 ||gmlebdifvxzzl.com^
 ||gmltiiu.com^
 ||gmmcerkkja.com^
+||gmmlmo.xyz^
 ||gmnagxbisjn.com^
 ||gmodmp.jp^
 ||gmogccmnp.com^
@@ -43374,6 +43378,7 @@
 ||iwantuonly.com^
 ||iwantusingle.com^
 ||iwarship.net/wowsdb/static/img/banner.png
+||iwatero.top^
 ||iwatojc.cn^
 ||iwdapjojrylh.xyz^
 ||iwdvvoc.cn^
@@ -55088,6 +55093,7 @@
 ||mutualreviveably.com^
 ||mutury.com^
 ||mutux.cfd^
+||muwqiga.icu^
 ||muxing.city^
 ||muxingkj.com^$third-party,image
 ||muybjar.cn^
@@ -78199,6 +78205,7 @@
 ||sw76r85eda3k.com/need/h5.
 ||swa.metro.co.uk^
 ||swabscorves.digital^
+||swad332.fun^
 ||swadakesb.cyou^
 ||swageschufa.com^
 ||swagtraffcom.com^
@@ -105037,6 +105044,7 @@ hd21.com##.aside_video
 hd21.com,winporn.com###spot_video_livecams
 hd21.com,winporn.com###spot_video_underplayer_livecams
 hdchina.org##.sitead
+hdhive.online#?#.mt-4:-abp-has(>.text-lg)
 hdmoli.com##a[href][target="_blank"] > img[id*="_banner"]
 hdmoli.com#?#.row > div.myui-panel:has(div[style^="text-align:"] > a[href][target="_blank"] > img#index_banner)
 hdmoli.com,sm.cn###index_banner

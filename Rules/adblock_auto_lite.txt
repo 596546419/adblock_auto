@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 95ERksOEcskcjYW+XF5iIQ
+! Checksum: GSKAQOQ+/6DDXrC4LnD/VQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240923002641
+! Version: 20240923094629
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-23 00:26:41
-! Total Count: 28996
+! Last modified: 2024-09-23 09:46:29
+! Total Count: 29002
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3399,6 +3399,7 @@
 ||ajkggo.xyz^
 ||ajkjbcjbaaaed.com^
 ||ajkjbcjbaaaed.com^$third-party
+||ajockk.xyz^
 ||ajoqu.cn^
 ||ajtdumo.cn^$third-party
 ||ajucem.xyz^
@@ -6666,6 +6667,7 @@
 ||dspczg.pw^
 ||dspmnt.autohome.com.cn^
 ||dspunion.com^
+||dssddf33.fun^
 ||dssdfsf.cn^
 ||dstbekdf.xyz^
 ||dstbunkfw.xyz^
@@ -8059,6 +8061,7 @@
 ||gmbuluo.net/js/
 ||gmgbmzz.xyz^
 ||gmicu.cn^
+||gmmlmo.xyz^
 ||gmx10.top^
 ||gmx11.top^
 ||gmx12.top^
@@ -9649,6 +9652,7 @@
 ||iwandlo.top^
 ||iwanshang8.asia^
 ||iwarship.net/wowsdb/static/img/banner.png
+||iwatero.top^
 ||iwatojc.cn^
 ||iwerilxo.top^
 ||iwerioo.top^
@@ -11943,6 +11947,7 @@
 ||musdga.xyz^
 ||muteknife.com^$third-party
 ||muterange.com^$third-party
+||muwqiga.icu^
 ||muxingkj.com^$third-party,image
 ||muycpg.xyz^
 ||muyihh.top^
@@ -15496,6 +15501,7 @@
 ||svncowt.cn^
 ||svvev3.com^
 ||sw76r85eda3k.com/need/h5.
+||swad332.fun^
 ||swandlb.top^
 ||swankysquare.com^$third-party
 ||swarku.xyz^
