@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: c9XhcP0i1wdLIsYWqaLG2g
+! Checksum: /mb2p68g8G81Z7ZNBbvNTA
 ! Title: 混合规则(自动更新)
-! Version: 20240923094617
+! Version: 20240923163015
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-23 09:46:17
-! Total Count: 152771
+! Last modified: 2024-09-23 16:30:15
+! Total Count: 152776
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -38988,6 +38988,7 @@
 ||hkjjfpkghxec.xyz^
 ||hkjmjxttwaxmui.com^
 ||hkjunkcall.com/images/b_banner_
+||hkjzkrqz.icu^
 ||hkkeafj.cn^
 ||hkkpfcnqoajtsu.com^
 ||hkl4h1trk.com^
@@ -45447,6 +45448,7 @@
 ||jwalf.com^
 ||jwamnd.com^
 ||jwandla.top^
+||jwatera.top^
 ||jwdhoxw.cn^
 ||jweod.xyz^
 ||jweoe.xyz^
@@ -83507,6 +83509,7 @@
 ||tscounter.com^
 ||tsdfxv.xyz^
 ||tsdm.live/weibo.html
+||tsdm39.com/img01/MP3/GG/
 ||tsdmw.net/img01/MP3/pm_
 ||tsds.tech^
 ||tseda1.icu^
@@ -103088,6 +103091,8 @@ exchangerates.org.uk##.imt4
 exchangerates.org.uk##[alt="banner"]
 exchangerates.org.uk,investing.com###ad3
 exclusiveindianporn.com###divclose
+executivegov.com##.execu-target
+executivegov.com##.execu-widget
 exeo.app,forex-gold.net,mangarockteam.com##.demand-supply
 exhibporno.com##.syn
 exler.ru##.adblock-pls
