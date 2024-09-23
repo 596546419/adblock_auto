@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: /mb2p68g8G81Z7ZNBbvNTA
+! Checksum: EqvY25zTVixb+i5g6reqAA
 ! Title: 混合规则(自动更新)
-! Version: 20240923163015
+! Version: 20240924002819
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-23 16:30:15
-! Total Count: 152776
+! Last modified: 2024-09-24 00:28:19
+! Total Count: 152783
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -34322,6 +34322,7 @@
 ||gcxa.cn/a/gb.gif
 ||gcxp.xyz^
 ||gcyabjsl.com^
+||gcybnvhleaebkp.com^
 ||gcylkq.xyz^
 ||gcyzgld.com^
 ||gd.189.cn*/push/$popup
@@ -41545,7 +41546,7 @@
 ||imgsdn.com^
 ||imgsniper.com^
 ||imgspics.com^
-||imgsrc.baidu.com/*/pic/*.jpg$domain=aeahsck.cc
+||imgsrc.baidu.com/*/pic/*.jpg$domain=8724ck.cc|aeahsck.cc
 ||imgsrc.baidu.com/tieba/pic/item/$image
 ||imgtg.com^*.gif
 ||imgtp.com/2023/02/18/KkRe64ff.png
@@ -46667,6 +46668,7 @@
 ||klixfeed.com^
 ||klj4rw.site^
 ||kljslku.com^
+||klkk66.fun^
 ||klkus.xyz^
 ||klldabck.com^
 ||klmmnd.com^
@@ -47397,6 +47399,7 @@
 ||kvyyyde.cn^
 ||kw3y5otoeuniv7e9rsi.com^
 ||kwadakesd.cyou^
+||kwaterd.top^
 ||kwbgmufi.com^
 ||kwbmkwej.com^
 ||kwcmrfb.cn^
@@ -65175,6 +65178,7 @@
 ||psonstrentie.info^
 ||psoofaltoo.com^
 ||psoogaix.net^
+||psooglaik.net^
 ||psoolikoagy.com^
 ||psooltecmeve.net^
 ||psoompou.xyz^
@@ -72945,6 +72949,7 @@
 ||sheerlyballute.website^
 ||sheeroop.com^
 ||sheertep.net^
+||sheesimo.net^
 ||sheethoneymoon.com^
 ||sheetvibe.com^
 ||sheewoamsaun.com^
@@ -97588,6 +97593,8 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 8684.cn,8684.com##div[id*="adid"]
 8684.cn,8684.com,iyxdm.cc,iyxdm.com,iyxdm.one,iyxdm.org,kugou.com,solarzoom.com,yesky.com,yxdmlove.com##div[class^="adv"]
 86cg.me##[style^="width: 100%; height: auto; position: fixed; left: 0px; bottom: 0px;"]
+8724ck.cc##body > div[style] > a[href][target="_blank"]
+8724ck.cc,aeahsck.cc##.stui-vodlist  > li:has(> div.stui-vodlist__box > a[href][target="_blank"])
 880sy.com##.foot_gg
 880sy.com##.fot_btom
 88448.com###ad_forum_banner
@@ -97956,7 +97963,6 @@ adweek.com##.htl-ad-wrapper
 adx.dlads.cn
 adxvip.com
 adz7short.space,agcanada.com,allmusic.com,allrecipes.com,allthatsinteresting.com,autoaction.com.au,autos.ca,ballstatedaily.com,bdonline.co.uk,boardgamegeek.com,bravewords.com,broadcastnow.co.uk,cantbeunseen.com,carsguide.com.au,cattime.com,chairmanlol.com,chemistryworld.com,chron.com,citynews.ca,coinranking.com,comingsoon.net,coolmathgames.com,countle.com,crn.com.au,diyfail.com,dogtime.com,drugtargetreview.com,edmunds.com,europeanpharmaceuticalreview.com,explainthisimage.com,foodandwine.com,foodista.com,forum.xda-developers.com,freshbusinessthinking.com,funnyexam.com,funnytipjars.com,gamesindustry.biz,gmanetwork.com,hardware.info,iamdisappoint.com,imedicalapps.com,itnews.asia,itnews.com.au,japanisweird.com,jta.org,legion.org,lifezette.com,lightnovelworld.com,liveoutdoors.com,macleans.ca,milesplit.com,monocle.com,morefailat11.com,moviemistakes.com,nbl.com.au,newsonjapan.com,nfcw.com,objectiface.com,passedoutphotos.com,picmix.com,playstationlifestyle.net,pornsfw.com,precisionvaccinations.com,retail-week.com,rollcall.com,roulettereactions.com,searchenginesuggestions.com,shinyshiny.tv,shitbrix.com,short.croclix.me,sparesomelol.com,spoiledphotos.com,spokesman.com,sportsnet.ca,sportsvite.com,stopdroplol.com,straitstimes.com,suffolknews.co.uk,supersport.com,tattoofailure.com,thedriven.io,thefashionspot.com,thehun.net,thestar.com.my,titantv.com,tutorialrepublic.com,uproxx.com,where.ca,yoimaletyoufinish.com##.leaderboard
-aeahsck.cc##.stui-vodlist  > li:has(> div.stui-vodlist__box > a[href][target="_blank"])
 aeink.com##.widget_ui_adsf
 aeink.com##.widget_ui_textads
 aeink.com##p[style*=".alicdn.com/"]
@@ -100824,6 +100830,8 @@ cmswire.com##[class^="styles_article__text-ad"]
 cmswire.com##[class^="styles_article__top-ad-wrapper"]
 cn-healthcare.com##.fh_ad_wrap
 cn-healthcare.com##.fh_advent_wrap
+cn.bing.com##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
+cn.bing.com##.b_algo:has(.rms_img[src*="=AdsPlus"])
 cn.bing.com##.b_bza_pole
 cn.bing.com#?##b_results > li:-abp-has(.b_adProvider)
 cna.com.tw##.ad_336_2
@@ -117451,7 +117459,6 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 &zoneid=*&ad_$popup
 &zoneid=*&direct=$popup
 *$script,third-party,xmlhttprequest,domain=cnbtspread.xyz
-*.gif$domain=aeahsck.cc
 *ad.durasite.net^
 ,160x600;
 ,468x60-
@@ -118493,7 +118500,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 .gif$third-party,domain=1024pa.com|922tp.com|avbebe.com|cb.wpio.xyz|cl.wpio.xyz|m.7ktw.com|yasem5.com
 .gif?ad=
 .gif^$domain=kobi8.com|66se2.com
-.gif|$domain=7mshipin.org|99a67.com|99re.com|viidii.info|xgan.cn
+.gif|$domain=7mshipin.org|8724ck.cc|99a67.com|99re.com|aeahsck.cc|viidii.info|xgan.cn
 .gr/ads/
 .hk/ad2/
 .hk/ads/

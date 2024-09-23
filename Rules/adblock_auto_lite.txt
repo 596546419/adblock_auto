@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: s84XTfCxCWtM872ec7zTew
+! Checksum: X/JvfSSDsuTZRsxaAapgAQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240923163026
+! Version: 20240924002831
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-23 16:30:26
-! Total Count: 29005
+! Last modified: 2024-09-24 00:28:31
+! Total Count: 29007
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9396,7 +9396,7 @@
 ||imgs.cc/img/8Pl6FJY.gif
 ||imgs.cc^$domain=fun1shot.com
 ||imgs.itxueyuan.com/advPicture/
-||imgsrc.baidu.com/*/pic/*.jpg$domain=aeahsck.cc
+||imgsrc.baidu.com/*/pic/*.jpg$domain=8724ck.cc|aeahsck.cc
 ||imgsrc.baidu.com/tieba/pic/item/$image
 ||imgtg.com^*.gif
 ||imgtp.com/2023/02/18/KkRe64ff.png
@@ -10451,6 +10451,7 @@
 ||klbvqqqj.com^
 ||klfbnklddfbkn.com^
 ||kljslku.com^
+||klkk66.fun^
 ||klsnckalualkcn.com^
 ||kltmjevd.xyz^
 ||klufjdo.com^
@@ -10626,6 +10627,7 @@
 ||kvtggg.top^$third-party
 ||kvtnnn.top^$third-party
 ||kvyyyde.cn^
+||kwaterd.top^
 ||kwcmrfb.cn^
 ||kwerilxd.top^
 ||kweriod.top^
