@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: DaPf4aOGCmmpr9QDsCavHw
+! Checksum: iuRdZQmmi6VP7Xjiu3nlLQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240924094625
+! Version: 20240924163044
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-24 09:46:25
-! Total Count: 29015
+! Last modified: 2024-09-24 16:30:44
+! Total Count: 29016
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9398,7 +9398,7 @@
 ||imgs.cc/img/8Pl6FJY.gif
 ||imgs.cc^$domain=fun1shot.com
 ||imgs.itxueyuan.com/advPicture/
-||imgsrc.baidu.com/*/pic/*.jpg$domain=8724ck.cc|aeahsck.cc
+||imgsrc.baidu.com/*/pic/*.jpg$domain=8726ck.cc|8724ck.cc|aeahsck.cc
 ||imgsrc.baidu.com/tieba/pic/item/$image
 ||imgtg.com^*.gif
 ||imgtp.com/2023/02/18/KkRe64ff.png
@@ -15516,6 +15516,7 @@
 ||swandlb.top^
 ||swankysquare.com^$third-party
 ||swarku.xyz^
+||swaterb.top^
 ||sweepsheep.com^$third-party
 ||swelen.com^
 ||swellstocking.com^$third-party

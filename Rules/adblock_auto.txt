@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 3uOeQKCgmVEYIM7RJqnuAQ
+! Checksum: TViJNxKBceQGv8GWqhK+aw
 ! Title: 混合规则(自动更新)
-! Version: 20240924094613
+! Version: 20240924163032
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-24 09:46:13
-! Total Count: 152834
+! Last modified: 2024-09-24 16:30:32
+! Total Count: 152861
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -15384,6 +15384,7 @@
 ||blubberrivers.com^
 ||blubberspoiled.com^
 ||blubbertables.com^
+||bludgeentraps.com^
 ||bludwan.com^
 ||blue-biddingz.org^
 ||blue-rain.com.cn^
@@ -15840,6 +15841,7 @@
 ||boominfluxdrank.com^
 ||boomj.club^
 ||boomouso.xyz^
+||boomspomard.shop^
 ||boomtrain.com^
 ||boomwalkertraveller.com^
 ||boongsmokeho.com^
@@ -16800,6 +16802,7 @@
 ||bungarovet.com^
 ||bungeedubbah.com^
 ||bungingimpasto.com^
+||bunglersignoff.com^
 ||bunintruder.com^
 ||bunnslibby.com^
 ||bunny-net.com^
@@ -20815,6 +20818,7 @@
 ||coixclamps.com^
 ||cojia.net^
 ||cojvur.icu^
+||cokaigha.net^
 ||cokepompositycrest.com^
 ||cokqquqxrkxwqx.xyz^
 ||colamanga.com/sw.js
@@ -21668,6 +21672,7 @@
 ||cootlogix.com^
 ||coovouch.com^
 ||copacet.com^
+||copalmsagency.com^
 ||copcaneersand.xyz^
 ||copeaxe.com^
 ||copemorethem.live^
@@ -22480,6 +22485,7 @@
 ||crocopop.com^
 ||crodfnyk.xyz^
 ||croea.com^
+||crokerhyke.com^
 ||cromq.xyz^
 ||crookrally.com^
 ||crooth.com^
@@ -29754,6 +29760,7 @@
 ||eunow4u.com^
 ||eunzkvf.com^
 ||euonymcalvous.com^
+||euonymysager.com^
 ||euosicjxjv.com^
 ||eupathyboyuna.com^
 ||eupxokccpc.xyz^
@@ -29991,6 +29998,7 @@
 ||evergreentroutpitiful.com^
 ||everlastinghighlight.com^
 ||everprobation.com^
+||everydowered.com^
 ||everymark.xyz^
 ||everyoneawokeparable.com^
 ||everyoneglamorous.com^
@@ -32474,6 +32482,7 @@
 ||foflib.org^
 ||fog.pixual.co^
 ||fogayeown.com^
+||fogeydawties.com^
 ||foggilysyling.top^
 ||foggydefy.com^
 ||foggytube.com^
@@ -36488,6 +36497,7 @@
 ||grievethereafter.com^
 ||griffintardant.guru^
 ||grifictuberal.site^
+||griftedhindoo.com^
 ||grigholtuze.net^
 ||grignoaw.com^
 ||grigrees.xyz^
@@ -41566,7 +41576,7 @@
 ||imgsdn.com^
 ||imgsniper.com^
 ||imgspics.com^
-||imgsrc.baidu.com/*/pic/*.jpg$domain=8724ck.cc|aeahsck.cc
+||imgsrc.baidu.com/*/pic/*.jpg$domain=8726ck.cc|8724ck.cc|aeahsck.cc
 ||imgsrc.baidu.com/tieba/pic/item/$image
 ||imgtg.com^*.gif
 ||imgtp.com/2023/02/18/KkRe64ff.png
@@ -44097,6 +44107,7 @@
 ||jewhouca.net^
 ||jewishcontentnetwork.com^
 ||jewisk.com^
+||jewismwithies.com^
 ||jewith.com^
 ||jewlhtrutgomh.com^
 ||jewruta.top^
@@ -51612,6 +51623,7 @@
 ||malowbowohefle.info^
 ||mals.shop^
 ||maltcontaining.com^
+||malthaeurite.com^
 ||malthashematid.com^
 ||maltohoo.xyz^
 ||maltunfaithfulpredominant.com^
@@ -54425,6 +54437,7 @@
 ||moronesphotos.com^
 ||mororvaginas.com^
 ||morps.xyz^
+||morroinane.com^
 ||morrolorries.top^
 ||morrowfreezer.com^
 ||morsalurluch.com^
@@ -61330,6 +61343,7 @@
 ||passionatephilosophical.com^
 ||passiondimlyhorrified.com^
 ||passionfruitads.com^
+||passirdrowns.com^
 ||passive-earner.com^
 ||passivepolo.com^$third-party
 ||passtechusa.com^
@@ -61996,6 +62010,7 @@
 ||persecutenosypajamas.com^
 ||persecutionmachinery.com^
 ||perseducatiuca.com^
+||persetoenail.com^
 ||perseverancekaleidoscopefinance.com^
 ||perseverancewash.com^
 ||persevered.com^
@@ -63281,6 +63296,7 @@
 ||plotparent.com^$third-party
 ||plotrabbit.com^$third-party
 ||ploughbrushed.com^
+||ploughplbroch.com^
 ||ploy.batmobi.net^
 ||ploygunline.com^
 ||ployingcurship.com^
@@ -63618,6 +63634,7 @@
 ||polyvalent.co.in^
 ||pomegranateheroin.com^
 ||pomeroyhagdown.com^
+||pomesspawn.click^
 ||pompadawe.com^
 ||pompass.net^
 ||pompeydesigning.com^
@@ -70494,6 +70511,7 @@
 ||rummovehell.live^
 ||rummyaffiliates.com^
 ||rumnxwvo.ink^
+||rumseisin.com^
 ||rumsroots.com^
 ||rumstat.cdnvideo.ru^
 ||rumt-zh.com^
@@ -78277,6 +78295,7 @@
 ||swarthyamong.com^
 ||swarthymacula.com^
 ||swatad.com^
+||swaterb.top^
 ||swaycomplymishandle.com^
 ||swayersnoance.com^
 ||swayersrecure.digital^
@@ -78934,6 +78953,7 @@
 ||tag.winister.app^
 ||tag.wknd.ai^
 ||tag4arm.com^
+||tagalhattize.com^
 ||tagalodrome.com^
 ||tagassulatests.top^
 ||tagbucket.cc^
@@ -79735,6 +79755,7 @@
 ||teknologia.co^
 ||teknoseyir.com/wp-content/themes/ts/sponsor-mobile.php
 ||teksishe.net^
+||tektosfolic.com^
 ||tel-tel-fie.com^
 ||telcyhlw.com
 ||telechargementdirect.net^
@@ -80353,6 +80374,7 @@
 ||thetrendytales.com^
 ||thetreuntalle.com^
 ||theupgradedata.com^
+||theurgyopine.com^
 ||theusualsuspects.biz^
 ||theusualsuspectz.biz^
 ||thevanghanhphuc.xyz^
@@ -88400,6 +88422,7 @@
 ||vooodkabelochkaa.com^
 ||voopaicheba.com^
 ||voopsoog.xyz^
+||vooptikoph.net^
 ||vooruvou.com^
 ||voosegou.xyz^
 ||vooshagy.net^
@@ -95665,6 +95688,7 @@
 ||zoomanalytics.co^
 ||zoomino.com^
 ||zoopaweb.com^
+||zoopoptiglu.xyz^
 ||zoopsame.com^
 ||zoosnet.net^
 ||zoosnet.net^$third-party
@@ -97642,8 +97666,8 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 8684.cn,8684.com##div[id*="adid"]
 8684.cn,8684.com,iyxdm.cc,iyxdm.com,iyxdm.one,iyxdm.org,kugou.com,solarzoom.com,yesky.com,yxdmlove.com##div[class^="adv"]
 86cg.me##[style^="width: 100%; height: auto; position: fixed; left: 0px; bottom: 0px;"]
-8724ck.cc##body > div[style] > a[href][target="_blank"]
-8724ck.cc,aeahsck.cc##.stui-vodlist  > li:has(> div.stui-vodlist__box > a[href][target="_blank"])
+8726ck.cc,8724ck.cc##body > div[style] > a[href][target="_blank"]
+8726ck.cc,8724ck.cc,aeahsck.cc##.stui-vodlist  > li:has(> div.stui-vodlist__box > a[href][target="_blank"])
 880sy.com##.foot_gg
 880sy.com##.fot_btom
 88448.com###ad_forum_banner
@@ -99075,6 +99099,8 @@ baidu.com##.c-video-player
 baidu.com##.cbg-Ads
 baidu.com##.chunwan-wrapper
 baidu.com##.commentEmbed-backHomeCard
+baidu.com##.container:has(>.bottom-section>.item_voice_room[data-yysid])
+baidu.com##.container_frs:has(>.voice_room_card_frs[data-url*="yylive"])
 baidu.com##.content-adv
 baidu.com##.corneradv
 baidu.com##.cpc-adv-container
@@ -100490,9 +100516,9 @@ charismanews.com##.FpFeaturedBoxWrap
 charismanews.com##.RightBnrWrap
 charismanews.com##.skinTrackClicks
 charlestownwyllie.oaklawnnonantum.com^
-charlieintel.com###primis-player
 charlieintel.com###topunit
 charlieintel.com##.position-sticky
+charlieintel.com,dexerto.com###primis-player
 charlieintel.com,dexerto.com##.Ad_ad__SqDQA
 charlieintel.com,dexerto.com##.bg-neutral-grey-4.items-center
 charlieintel.com,dexerto.com##.bg-neutral-grey.justify-center
@@ -109566,6 +109592,7 @@ news.mydrivers.com#?#.news_info > p:has(> a[href^="https://dt.mydrivers.com/"])
 news.mydrivers.com#?#.news_info > p:has(> strong:contains(双11红包活动推荐))
 news.net##.banner-wr
 news.net##.right-banner-wr > .right
+news.owlting.com##.profit-wrapper
 news.pchome.com.tw##div[class^="adnewlist"]
 news.qq.com###focus-bar
 news.qq.com##.time > a[style="position: absolute;top: -8px;left: 296px;"]
@@ -118551,7 +118578,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 .gif$third-party,domain=1024pa.com|922tp.com|avbebe.com|cb.wpio.xyz|cl.wpio.xyz|m.7ktw.com|yasem5.com
 .gif?ad=
 .gif^$domain=kobi8.com|66se2.com
-.gif|$domain=7mshipin.org|8724ck.cc|99a67.com|99re.com|aeahsck.cc|viidii.info|xgan.cn
+.gif|$domain=7mshipin.org|8724ck.cc|8726ck.cc|99a67.com|99re.com|aeahsck.cc|viidii.info|xgan.cn
 .gr/ads/
 .hk/ad2/
 .hk/ads/
