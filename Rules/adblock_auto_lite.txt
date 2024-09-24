@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: X/JvfSSDsuTZRsxaAapgAQ
+! Checksum: DaPf4aOGCmmpr9QDsCavHw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240924002831
+! Version: 20240924094625
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-24 00:28:31
-! Total Count: 29007
+! Last modified: 2024-09-24 09:46:25
+! Total Count: 29015
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7189,6 +7189,7 @@
 ||ewfsef.com^
 ||ewioud.com^
 ||ewjhic.cn^
+||ewqeq23.fun^
 ||ewqws55.fun^
 ||ewrwf.com^
 ||ewxufqs.cn^
@@ -7636,6 +7637,7 @@
 ||freezingbuilding.com^$third-party
 ||fretfulfurniture.com^$third-party
 ||frgf99.fun^
+||frgre33.fun^
 ||friendlycrayon.com^$third-party
 ||friendlyduck.com^
 ||friendshipmale.com^
@@ -9753,6 +9755,7 @@
 ||jcjzikj.xyz^
 ||jcluhz.xyz^
 ||jcodecraeer.com/plus/fuckblok.
+||jcppcmqa.icu^
 ||jcrb.com/ZYW$subdocument
 ||jcreje.com^
 ||jcvty.cyou^
@@ -10412,6 +10415,7 @@
 ||kiuee8.com^
 ||kiwi8.top/media/plugins/jquery_confirm/
 ||kiwihk.net^$third-party
+||kiykfux.icu^
 ||kj-gov.cn^
 ||kjacgk.xyz^
 ||kjappzvz.xyz^
@@ -11970,6 +11974,7 @@
 ||mvevgi.xyz^
 ||mvgucp.com^
 ||mvirkw.xyz^
+||mvmqos.xyz^
 ||mvng.cn^
 ||mvo.g45td.xyz^
 ||mvpqrydt.xyz^
@@ -12098,6 +12103,7 @@
 ||na06.cn^
 ||nagpurtoday.in/wp-content/uploads/2024/06/Untitled-design-2.gif
 ||nahgvfhs.xyz^
+||nahjzx.xyz^
 ||nahsfl.xyz^
 ||nai7.xyz^
 ||naiep.xyz^
@@ -12297,6 +12303,7 @@
 ||nmkghh.com^
 ||nmlfev.icu^
 ||nmm9i.xyz^
+||nmmemzi.icu^
 ||nmntgd.cn^
 ||nmssdbgmf.xyz^
 ||nmtcxz.xyz^
@@ -15535,6 +15542,7 @@
 ||syislob.top^
 ||syiwgwsqwngrdw.xyz^
 ||syjkscy.cn^
+||sykzow.xyz^
 ||symbolizebeast.com^$third-party
 ||synacast.com^
 ||syndication.exosrv.com/splash.php?$xmlhttprequest,redirect=noop.txt,important,domain=hboav.com
