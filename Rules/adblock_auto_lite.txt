@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 1OT/kecy4ni3BD+MmAaLDg
+! Checksum: WkyQKoBmv0P4s0c9cJQQnQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240925002936
+! Version: 20240925094726
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-25 00:29:36
-! Total Count: 29023
+! Last modified: 2024-09-25 09:47:26
+! Total Count: 29030
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6993,6 +6993,7 @@
 ||ekltes.xyz^
 ||ekofelj.xyz^
 ||ekqfkk.xyz^
+||ekykse.xyz^
 ||ekzzed.icu^
 ||elas666.pics^
 ||elasticchange.com^$third-party
@@ -8034,6 +8035,7 @@
 ||gk1.582582.com^
 ||gk1.zjbiz.net^
 ||gk99.com/static/js/a-d-sys.js
+||gkcogyf.icu^
 ||gkeolwi.icu^
 ||gkjmev3.com^
 ||gkktjf.top^
@@ -12296,6 +12298,7 @@
 ||nkdgnsfsk.com^
 ||nkfith.xyz^
 ||nkis.nikkei.com^
+||nkjkvn.xyz^
 ||nkvwvx.xyz^
 ||nlfbdgr.xyz^
 ||nlhpxj.xyz^
@@ -13598,6 +13601,7 @@
 ||qeedaa.xyz^
 ||qejjhnq.cn^
 ||qerbert78.xyz^
+||qeryt111.fun^
 ||qescaen.com^
 ||qetlwsy.top^
 ||qetskupch581.shop^
@@ -17062,6 +17066,7 @@
 ||vswswlz.icu^
 ||vsx.hotpornfile.org^
 ||vszzzj.xyz^
+||vtbfgnf00.fun^
 ||vtlyrj.xyz^
 ||vtnmxx.xyz^
 ||vttqld.xyz^
@@ -17947,6 +17952,7 @@
 ||xuehi.cn/reward/reward
 ||xuexi.hydcd.com^
 ||xuexiwa.com^$script,third-party
+||xufyxhiu.icu^
 ||xukang09.cn^
 ||xukou.net^
 ||xuldtcip.icu^
@@ -18418,6 +18424,7 @@
 ||yui-nya.com/wp-content/uploads/2016/12/37011.jpg
 ||yui-nya.com/wp-content/uploads/2016/12/neta370-370.jpg
 ||yuifgh.fun^
+||yukbsa.xyz^
 ||yun.baidu.com/act/api/activityentry?
 ||yuncaizhijia.ltd^
 ||yundaquan.com/data/attachment/portal/
