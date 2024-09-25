@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: uSDR9rLOX62HBjHUM3LhFw
+! Checksum: 63n6oOHOzc24GGSVBjCtxg
 ! Title: 混合规则(自动更新)
-! Version: 20240925094715
+! Version: 20240925163202
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-25 09:47:15
-! Total Count: 152906
+! Last modified: 2024-09-25 16:32:02
+! Total Count: 152908
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -62347,6 +62347,7 @@
 ||phialedamende.com^
 ||phicmune.net^
 ||phidianbesmut.com^
+||phidianowlet.com^
 ||phiduvuka.pro^
 ||phiefs.com^
 ||phieudangky-quetthetindungvn.com^
@@ -91294,6 +91295,7 @@
 ||wpkdqrzzcodvjc.com^
 ||wples.com/pc/common.js
 ||wplmbsrzobj.com^
+||wpmdeo.xyz^
 ||wpncdn.com^
 ||wpnetwork.eu^
 ||wpnjrm.com^
