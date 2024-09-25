@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: lrKqEE6b0aFsaJ4h46XHbQ
+! Checksum: G4TIfDe+vvAjyglQTONV4w
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240925163214
+! Version: 20240926003140
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-25 16:32:14
-! Total Count: 29031
+! Last modified: 2024-09-26 00:31:40
+! Total Count: 29033
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6172,6 +6172,7 @@
 ||de.as.pptv.com^
 ||deadpanmarble.com^$third-party
 ||deafeningdock.com^$third-party
+||deai.twitterid.net/images/adv/
 ||dealmoon.com/hotdeals/hotdeals_scroller.php
 ||dealmoon.com/upload/dealmoon_app.jpg
 ||deansent.top^
@@ -16888,6 +16889,7 @@
 ||vexilorath.com^
 ||vezvpd.xyz^
 ||vfchm.cyou^
+||vfdvdfv77.fun^
 ||vfdvdg67.fun^
 ||vfgajrk.cn^
 ||vfjsa6do.icu^
