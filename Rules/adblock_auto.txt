@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: V0ZKZl/uxbyMSH/pVTMrNg
+! Checksum: QS5tw7Yop+mzFOlIuY+3nA
 ! Title: 混合规则(自动更新)
-! Version: 20240926094457
+! Version: 20240926163014
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-26 09:44:57
-! Total Count: 152981
+! Last modified: 2024-09-26 16:30:14
+! Total Count: 152989
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -21017,6 +21017,7 @@
 ||colleyporule.top^
 ||colliersads.com^
 ||collisionasheseliminate.com^
+||colloqlarum.com^
 ||colloquialassassinslavery.com^
 ||collowhypoxis.com^
 ||collserve.com^
@@ -28956,6 +28957,7 @@
 ||endurancetransmitted.com^
 ||endurecorpulent.com^
 ||enduresopens.com^
+||endwaysdsname.com^
 ||endymehnth.info^
 ||enebyq.com^
 ||enecto.com^
@@ -31134,6 +31136,7 @@
 ||faunaldipsas.digital^
 ||faunaships.com^
 ||fauneeptoaso.com^
+||fauphoaglu.net^
 ||fausothaur.com^
 ||faustbootery.com^
 ||fauvekintra.com^
@@ -33277,6 +33280,7 @@
 ||fromoffspringcaliber.com^
 ||frompilis.com^
 ||frondewame.com^
+||frondsgenoas.com^
 ||front.optimonk.com^
 ||frontcognizance.com^
 ||frontend.vh.yandex.ru/player/*&adConfig=$domain=mentoday.ru
@@ -35957,6 +35961,7 @@
 ||gongwuyuan.name^
 ||gongxifc.com^
 ||gongyuxinxi.xyz^
+||gonoushauw.net^
 ||gonpc.com^
 ||gonzalodaemon.top^
 ||goo-access-analytics.appspot.com^
@@ -57434,6 +57439,7 @@
 ||nogxlplmx.xyz^
 ||nohcff.xyz^
 ||nohezu.xyz^
+||nohowsankhya.com^
 ||noibu.com^
 ||noiea.xyz^
 ||noiselessplough.com^$third-party
@@ -62590,6 +62596,7 @@
 ||piar-m.ru^
 ||piarecdn.com^
 ||piaroankenyte.store^
+||piazzatepal.com^
 ||pibgornspooks.top^
 ||pic.0597kk.com^
 ||pic.959.cn/media/js/
@@ -67214,6 +67221,7 @@
 ||querylead.com^
 ||querysteer.com^
 ||quesid.com^
+||questeelskin.com^
 ||questionable-dead.com^
 ||questionableobservation.com^$third-party
 ||questionfly.com^
@@ -68246,6 +68254,7 @@
 ||rebindskayoes.com^
 ||rebojf.xyz^
 ||rebonebilify.click^
+||rebosoyodle.com^
 ||rebrea.com^
 ||rebrew-foofteen.com^
 ||rebsouvaih.com^
@@ -99879,7 +99888,6 @@ blackdesert-info.ru##div[class][style*="z-index"][style*="999999;"][style*="back
 blackhaloadultreviews.com,boyfriendtv.com,hentaigasm.com,javjunkies.com,masahub.net,missav.ai,missav.com,missav.ws,missav123.com,missav789.com,myav.com,phun.org,porn-w.org,yespornplease.porn##a[href*="//bit.ly/"]
 blackhatworld.com##.bhw-advertise-link
 blackhatworld.com##.bhw-banners
-blackhatworld.com##.link--external.link > .bbImage
 blanktext.co##.min-h-\[230px\]
 blanktext.co,gizmodo.com,radio.net##.min-h-\[250px\]
 blasternation.com###xobda
