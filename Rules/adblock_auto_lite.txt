@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: G4TIfDe+vvAjyglQTONV4w
+! Checksum: zJp/OwsWwqbu17A769iYwQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240926003140
+! Version: 20240926094509
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-26 00:31:40
-! Total Count: 29033
+! Last modified: 2024-09-26 09:45:09
+! Total Count: 29042
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5943,6 +5943,7 @@
 ||cyuwkbf.top^
 ||czexrhl.cn^
 ||czouthy.cn^
+||czpnpjrg.xyz^
 ||czresus.cn^
 ||czsp12.com/api/*=advert&
 ||czsp12.com/api/*=announce&
@@ -6172,7 +6173,6 @@
 ||de.as.pptv.com^
 ||deadpanmarble.com^$third-party
 ||deafeningdock.com^$third-party
-||deai.twitterid.net/images/adv/
 ||dealmoon.com/hotdeals/hotdeals_scroller.php
 ||dealmoon.com/upload/dealmoon_app.jpg
 ||deansent.top^
@@ -7640,6 +7640,7 @@
 ||freeuseporn.com/templates/frontend/fulltheme/js/combined.js
 ||freezingbuilding.com^$third-party
 ||fretfulfurniture.com^$third-party
+||frfve33.fun^
 ||frgf99.fun^
 ||frgre33.fun^
 ||friendlycrayon.com^$third-party
@@ -9140,6 +9141,7 @@
 ||ibjkafefertt.xyz^
 ||ibjkdwsdko.com^
 ||ibjknmqw.com^
+||ibkoiw.xyz^
 ||ibqmey.xyz^
 ||ibqswjdkpo.com^
 ||ibsea.cn^
@@ -10402,6 +10404,7 @@
 ||kggikf.icu^
 ||kghgmn.top^
 ||kgidskid.top^
+||kgipui.xyz^
 ||kgnpwdf.cn^$third-party
 ||kgqcse.xyz^
 ||kgubus.xyz^
@@ -13712,6 +13715,7 @@
 ||qizhihaotian.com^*.js
 ||qjekt0c.xyz^
 ||qjoqos.xyz^
+||qjwvwu.xyz^
 ||qk6.org/file/script/
 ||qkcaqq.xyz^
 ||qkikkg.xyz^
@@ -17078,6 +17082,7 @@
 ||vueegqt.xyz^
 ||vuhbgtsi.xyz^$third-party
 ||vujzkkz.cn^
+||vulitd.xyz^
 ||vulrxr.xyz^
 ||vungle.com^
 ||vuntbnc.cn^$document
@@ -17301,6 +17306,7 @@
 ||wenxue.weimeifan.net^
 ||wenxue.youzhicn.com^
 ||werssf.com^
+||weryt111.fun^
 ||west.bidtellect.com^
 ||west.cn/vcp/getJScode/
 ||westca.com/server/
@@ -17802,6 +17808,7 @@
 ||xkdlqq.com^
 ||xkesqbp.icu^
 ||xkfigjh.cn^
+||xkgttas.icu^
 ||xkjmjj.com^
 ||xkjxgt.com^$third-party
 ||xklofoz.cn^
@@ -18599,6 +18606,7 @@
 ||zdobdg.fyi^
 ||zdqx.com/statics/v1/images/gif/
 ||zdreo.cyou^
+||zdscdkc.icu^
 ||zdwbkt.live^$third-party
 ||zdwykjd.icu^
 ||zdyuoae.xyz^
@@ -18776,6 +18784,7 @@
 ||zmfdjb.xyz^
 ||zmk.pw/zfb.png
 ||zmklhev.cn^
+||zmvopcio.icu^
 ||zn46.com/images/*0x
 ||zndvfrl.xyz^
 ||znhlxvb.xyz^

@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Y+xTEHAfM168UoQCkU7rGg
+! Checksum: V0ZKZl/uxbyMSH/pVTMrNg
 ! Title: 混合规则(自动更新)
-! Version: 20240926003128
+! Version: 20240926094457
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-26 00:31:28
-! Total Count: 152912
+! Last modified: 2024-09-26 09:44:57
+! Total Count: 152981
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -467,6 +467,7 @@
 ||107e9a08a8.com^
 ||108.171.248.234^
 ||1080872514.rsc.cdn77.org^
+||109.123.233.251^
 ||1090pjopm.de^
 ||109218er.xyz^
 ||10945-2.s.cdn15.com^
@@ -487,7 +488,9 @@
 ||11.mydrivers.com/drivers/
 ||11.yiqig.cn^
 ||11.yiqig.com^
+||110.93.143.144^
 ||1100ad.com^
+||1102480842.rsc.cdn77.org^
 ||1104piaoba2022.xyz^
 ||110628.cn^
 ||1106yh.com^
@@ -639,6 +642,7 @@
 ||1342a.com/js/jquery.js
 ||1350c3.xyz^
 ||136.0.56.196^
+||1361552718.rsc.cdn77.org^
 ||1363394706.rsc.cdn77.org^
 ||1368999.com^
 ||137.175.69.92^
@@ -663,6 +667,7 @@
 ||1419560424.rsc.cdn77.org^
 ||141h.com/data/attachment/noblock/cf/
 ||142.0.129.74^
+||14202444.xyz^
 ||143.92.60.44^
 ||1437953666.rsc.cdn77.org^
 ||144w6.com^$document
@@ -699,6 +704,7 @@
 ||1558334541.rsc.cdn77.org^
 ||155zn.com^
 ||156.232.37.2^
+||156.233.32.123^
 ||156.233.32.123^$third-party
 ||156.246.162.2^
 ||1560738516.rsc.cdn77.org^
@@ -847,6 +853,7 @@
 ||18-comic.work/media/albums/*?$media
 ||18-comicfrieren.xyz/media/albums/*?$media
 ||180.76.171.28^
+||180.76.2.18^
 ||180.96.27.85^*.htm
 ||1800cnt.com^
 ||1818027024.rsc.cdn77.org^
@@ -856,12 +863,15 @@
 ||181m2fscr.de^
 ||1821z.website^
 ||183yf.cn/img/nz.png
+||184.106.248.76^
 ||1843942256.rsc.cdn77.org^
 ||184c4i95p.de^
+||185.161.248.253^
 ||1857964468.rsc.cdn77.org^
 ||1860610788.rsc.cdn77.org^
 ||1866741353.rsc.cdn77.org^
 ||18788fdb24.com^
+||188.72.219.36^
 ||188aaa.us^
 ||188affiliates.com^
 ||188soft.com/js/PCsoftDetailAD.js
@@ -900,11 +910,13 @@
 ||1918837748.rsc.cdn77.org^
 ||1919954591.rsc.cdn77.org^
 ||19199675.xyz^
+||192.151.218.66^
 ||192.151.218.66^$third-party
 ||192.luyouwang.com^
 ||19216811.la/net/advert
 ||1921777336.rsc.cdn77.org^
 ||19273817.com^
+||193.200.64.24^
 ||1934671980.rsc.cdn77.org^
 ||194.59.220.161^
 ||194ac5b0e3.com^
@@ -1128,6 +1140,7 @@
 ||1xroom.com^
 ||1xsultan.com^
 ||2.haoxue360.com^
+||200.72.40.46^
 ||200088d4e2.com^
 ||200218.com^$third-party
 ||2005net.net^$third-party
@@ -1158,6 +1171,7 @@
 ||204st.us^
 ||205.209.138.102^
 ||20519a.xyz^
+||206.54.181.250^
 ||2066401308.com^
 ||206ads.com^
 ||206solutions.com^
@@ -1233,6 +1247,7 @@
 ||22pornz.site^
 ||23.109.82.
 ||23.109.87.
+||23.224.89.2^
 ||23.224.89.2^$third-party
 ||23.231.151.252^
 ||23.234.217.11^
@@ -1649,6 +1664,7 @@
 ||30pk41r1i.de^
 ||30se9p8a0.de^
 ||30tgh64jp.de^
+||31.14.252.148^
 ||31.14.252.148^$third-party
 ||310v.com/images/lingdai.gif
 ||310v.com/images/wap_520x60.gif
@@ -1849,6 +1865,10 @@
 ||36nl.com^
 ||36uh.com^
 ||36yoo.net^
+||37.1.213.100^
+||37.220.26.135^
+||37.220.26.136^
+||37.220.26.137^
 ||37.44x.io^
 ||373nn.com/java/
 ||375772rug.com^
@@ -2267,6 +2287,7 @@
 ||4wu3gf.cn^
 ||5-internads-7.com^
 ||5-n-appmobile.com^
+||5.61.55.143^
 ||5.ccutu.com^
 ||5.gzfenda.com^
 ||50.17.161.250/appodeal/
@@ -2799,6 +2820,7 @@
 ||65spy7rgcu.com^
 ||65tgh.com^
 ||65vk1fba34.com^
+||66.228.52.30^
 ||66.fmx.cn/js/
 ||6604.org^$third-party
 ||660cba7db1.com^
@@ -2942,6 +2964,7 @@
 ||66wz.com/eap/
 ||66zhuang.com/public_2017/js/count-gou.js
 ||67.21.92.*.gif
+||67.228.151.70^
 ||670360.com^
 ||671djn.cyou^
 ||675ujh.site^
@@ -3111,9 +3134,11 @@
 ||7378e81adf.com^
 ||738atf.xyz^
 ||73a70e581b.com^
+||74.55.82.102^
 ||7411603f57.com^
 ||74142961.xyz^
 ||741a18df39.com^
+||742ba1f9a9.com^
 ||743fa12700.com^
 ||7452472e76.com^
 ||745c.cn^
@@ -3142,6 +3167,7 @@
 ||76wmm.com:8888/js
 ||76xh.com/skin/zxf/js/*Out.js
 ||76xh.com/skin/zxf/js/ad
+||77.247.178.41^
 ||771703f2e9.com^
 ||77417.cn^
 ||7757139f7b.com^
@@ -3185,6 +3211,8 @@
 ||77xsw.la/novel/js/pagebottom.js
 ||77xsw.la/novel/js/pagetop.js
 ||78.138.126.253/www/
+||78.140.134.198^
+||78.140.149.216^
 ||7807091956.com^
 ||78359c0779.com^
 ||78387c2566.com^
@@ -3208,6 +3236,7 @@
 ||78dx8t.com^
 ||78e70720f2.com^
 ||78land.com/js/fumeiti.js
+||79.125.117.123^
 ||79181531227.com^
 ||7944bcc817.com^
 ||797sun.com/include/js/common_footer.
@@ -3449,6 +3478,8 @@
 ||87uq.com^
 ||87uq.com^$third-party
 ||88-baidu.com^
+||88.85.75.147^
+||88.85.77.92^
 ||880sy.com/Public/js/*_gg.js
 ||88129513.xyz^
 ||88148.com/UpFile/a/2016040849191350.jpg
@@ -3651,6 +3682,7 @@
 ||90oo.com/tp/msn.jpg
 ||90vs.com:3389/zs_img/.__
 ||90zy.cn/data/attachment/portal/
+||91.207.192.31^
 ||910de7044f.com^
 ||910weixin.com^
 ||911.cc^$third-party
@@ -3742,6 +3774,7 @@
 ||94lm.com^
 ||94n33.fun^
 ||94pr.cn^
+||95.211.125.226^
 ||9519.net^$third-party
 ||9522faf9d6.com^
 ||9527yy.com/images/02/9527.jpg
@@ -6404,6 +6437,7 @@
 ||ads.careerbuilder.vn^
 ||ads.carmudi.vn^
 ||ads.cc^
+||ads.cdn2-img.net^
 ||ads.cdvn.vip^
 ||ads.chanhtuoi.com^
 ||ads.compro.se^
@@ -7034,6 +7068,7 @@
 ||adtvedk.com^
 ||adtx2.cn^
 ||adtzpdpi.com^
+||adui.tg.meitu.com^
 ||aduic.com^
 ||adulatorycrappyghastly.com^
 ||adulatorydigestionmanicure.com^
@@ -8407,6 +8442,7 @@
 ||akutapro.com^
 ||akuziti.com/tu/*.js
 ||akvpzgytzv.com^
+||akvqulocj.com^
 ||akxwffsgijttvrc.com^
 ||akychhluvbh.com^
 ||akyei.xyz^
@@ -8459,6 +8495,7 @@
 ||alcmpn.com^
 ||alcovesoftenedenthusiastic.com^
 ||alcroconawa.com^
+||aldolstelly.click^
 ||aldosesmajeure.com^
 ||aldragalgean.com^
 ||aldtop.com/scrtips/
@@ -8474,6 +8511,7 @@
 ||alemu4s.com^
 ||alenty.com^
 ||alephd.com^
+||alepinezaptieh.com^
 ||alert.autohome.com.cn^
 ||alertafterthought.com^$third-party
 ||alertarithmetic.com^$third-party
@@ -22988,6 +23026,7 @@
 ||cuttlefly.com^
 ||cuunpsyhsb.com^
 ||cuvtnzv.cn^
+||cuwlmupz.com^
 ||cuwuqo.xyz^
 ||cux.io^
 ||cuxiao.site^
@@ -23200,6 +23239,7 @@
 ||czlongle.cn^
 ||czos.xyz^
 ||czouthy.cn^
+||czpnpjrg.xyz^
 ||czpush.com^
 ||czpwm.com^
 ||czresus.cn^
@@ -23309,6 +23349,7 @@
 ||d4.sina.com.cn^$object,script
 ||d401.dollartree.com^
 ||d41.co^
+||d43849fz.xyz^
 ||d44501d9f7.com^
 ||d477275c.xyz^
 ||d483501b04.com^
@@ -24149,7 +24190,6 @@
 ||deadrafflewildest.com^
 ||deafening-benefit.pro^
 ||deafeningdock.com^$third-party
-||deai.twitterid.net/images/adv/
 ||dealbuzznews.com^
 ||dealclick.pw^
 ||dealcurrent.com^
@@ -33162,6 +33202,7 @@
 ||frezahkthnz.com^
 ||frfetchme.com^
 ||frfhhcxeqkubk.xyz^
+||frfve33.fun^
 ||frgeob.xyz^
 ||frgf99.fun^
 ||frgre33.fun^
@@ -33577,6 +33618,7 @@
 ||fusrv.com^
 ||fussboden-elsenhans.de^
 ||fussy-highway.pro^
+||fussysandwich.pro^
 ||fussytarbet.space^
 ||futengbao.com.cn^
 ||futharcconny.shop^
@@ -34450,6 +34492,7 @@
 ||geekpark.net/api/v1/ads
 ||geeksundigne.com^
 ||geerairu.net^
+||geetacog.xyz^
 ||geetaury.net^
 ||geethaihoa.com^
 ||geethaiw.xyz^
@@ -40673,6 +40716,7 @@
 ||ibjkdwsdko.com^
 ||ibjknmqw.com^
 ||ibkbank.net^
+||ibkoiw.xyz^
 ||iblimq.xyz^
 ||ibmgroup.co.uk^
 ||ibnads.xl.co.id^
@@ -41452,6 +41496,7 @@
 ||imatue.com^
 ||imawwq.xyz^
 ||imbalmscashews.com^
+||imbeselbeno.com^
 ||imbgrfywnol.com^
 ||imbikh.icu^
 ||imblic.com^
@@ -46297,6 +46342,7 @@
 ||kgho.info^
 ||kgidskid.top^
 ||kgimg.com/public/root//images/hardware.jpg
+||kgipui.xyz^
 ||kgiulbvj.com^
 ||kglqjacmqmns.com^
 ||kgnlaigd.fun^
@@ -49454,6 +49500,7 @@
 ||ljwckj.love^
 ||ljyajgjvuv.com^
 ||ljykyxgp.com^
+||ljyzfwahwe.com^
 ||ljzcawea.icu^
 ||ljzxdranhsf.com^
 ||lk.4jzl.cn^
@@ -52660,6 +52707,7 @@
 ||meituangov.cn^
 ||meitui.org^*.js
 ||meitulu.com/css/*showgg.js
+||meitustat.com^
 ||meixincdn.com^$domain=novipnoad.com
 ||meiyee.cc/js/tj.js
 ||meiyouad.com/static/pc/img/111.gif
@@ -52915,6 +52963,7 @@
 ||methodfluyts.top^
 ||methodrumour.com^
 ||methodslacca.top^
+||methodyprovand.com^
 ||methoxyunpaled.com^
 ||metingsaeta.com^
 ||metinkuba.com^
@@ -59902,6 +59951,7 @@
 ||oreakingoutin.info^
 ||orebuthehadsta.info^
 ||orecticconchae.com^
+||oregonguttera.com^
 ||oreiletfortify.top^
 ||oremaneths.com^
 ||oremark.com^
@@ -63468,6 +63518,7 @@
 ||pnuhondppw.com^
 ||pnvtlh.xyz^
 ||pnvypcuqqyu.com^
+||pnwawbwwx.com^
 ||pnxs.com^
 ||pnxtnp.xyz^
 ||pnxtsauba.com^
@@ -65887,6 +65938,7 @@
 ||puy2.cn^
 ||puyjjq.com^
 ||puysis.com^
+||puyyyifbmdh.com^
 ||puzzio.xyz^
 ||puzzle-slant.com/images/ad/
 ||puzzlementangrily.com^
@@ -66611,6 +66663,7 @@
 ||qjukphe.com^
 ||qjvtofw.com^
 ||qjwglnuwqvr.com^
+||qjwvwu.xyz^
 ||qjyoanpkf.com^
 ||qjyvvxjmqirvbl.com^
 ||qk6.org/file/script/
@@ -75210,6 +75263,7 @@
 ||softendevastated.com^
 ||softenedcollar.com^
 ||softenedimmortalityprocedure.com^
+||softentears.com^
 ||softonic-analytics.net^
 ||softonicads.com^
 ||softpopads.com^
@@ -81318,6 +81372,7 @@
 ||tld.walla.co.il^
 ||tle.ru^
 ||tleboywhowa.com^
+||tleejvlhs.com^
 ||tlfurd.xyz^
 ||tlfvj.cyou^
 ||tlhlpcb.xyz^
@@ -86360,6 +86415,7 @@
 ||validate.appsflyer.com^
 ||validclick.com^
 ||validinstruct.com^
+||validworking.pro^
 ||valipl.cp31.ott.cibntv.net/$media
 ||valiumbessel.com^
 ||vallarymedlars.com^
@@ -88778,6 +88834,7 @@
 ||vulcan.wiki^
 ||vulgarmilletappear.com^
 ||vuliglsf.space^
+||vulitd.xyz^
 ||vulmpvp.cn^
 ||vulnerablebreakerstrong.com^
 ||vulnerableordered.com^
@@ -89987,6 +90044,7 @@
 ||werped.com^
 ||werssf.com^
 ||werxebpnl.com^
+||weryt111.fun^
 ||wesdol.com^
 ||wesell.co.il^
 ||weshsofoij.xyz^
@@ -90600,6 +90658,7 @@
 ||windindelicateexclusive.com^
 ||windingnegotiation.com^
 ||windingravesupper.com^
+||windlebrogues.com^
 ||windofaeolus.com^
 ||windowdemiselowlife.com^
 ||windowmentaria.com^
@@ -92531,6 +92590,7 @@
 ||xkfigjh.cn^
 ||xkfogxtamlnn.com^
 ||xkfvvyjurlil.com^
+||xkgttas.icu^
 ||xkhall.xyz^
 ||xkjcpl.cn^
 ||xkjmjj.com^
@@ -94382,6 +94442,7 @@
 ||yruvnmn.cn^
 ||yruws6.com^
 ||yrvzqabfxe.com^
+||yrwqquykdja.com^
 ||ys-log-upload-os.hoyoverse.com^
 ||ys.muhoujiemi.com^
 ||ys2000.cdn.bcebos.com^
@@ -95030,6 +95091,7 @@
 ||zdreo.cyou^
 ||zdrvtmj.cn^
 ||zdryg.com^
+||zdscdkc.icu^
 ||zdtag.com^
 ||zdtvfpu.cn^
 ||zdvzw.com^
@@ -95642,6 +95704,7 @@
 ||zmomo.cc^
 ||zmonei.com^
 ||zmrrjyyeqaozq.top^
+||zmvopcio.icu^
 ||zmwbrza.com^
 ||zmyjessp.com^
 ||zmysashrep.com^
@@ -99183,6 +99246,7 @@ baidu.com##.img-adv-swap1
 baidu.com##.intro-adv
 baidu.com##.l-header-ad
 baidu.com##.landrightbanner
+baidu.com##.lianmeng-pause
 baidu.com##.link-banner
 baidu.com##.manual-spread
 baidu.com##.na-ec-ad-tag
@@ -109062,9 +109126,14 @@ msguides.com###right-bottom-camp
 msn.cn##+js(json-prune, *, list.*.link.ad list.*.link.kicker)
 msn.cn##+js(json-prune, *.*, adFeedbackData adType adServedUrls)
 msn.cn##+js(json-prune, configs.*.properties.slideshowWCSettings.interstitialNativeAds configs.*.properties.fullScreenSlideshowSettings.interstitialNativeAds properties.componentConfigs.slideshowConfigs.interstitialNativeAds properties.componentConfigs.slideshowConfigs.slideshowSettings.interstitialNativeAds)
+msn.cn##.consumption-page > above-river-block
+msn.cn##.game-advertise-container
 msn.cn##.rc > a[href^="https://sp.booking.com/"]
+msn.cn##casual-games-carousel-card
+msn.cn##gaming-discover-strip
 msn.cn,msn.com##.intra-article-ad-full
 msn.cn,msn.com##.nativeadserversidecontentmodule
+msn.cn,msn.com##.views-right-rail-top-display
 msn.cn,msn.com##[class^="articlePage_eoabContent"]
 msn.cn,msn.com##cs-native-ad-card
 msn.com###displayAdCard
@@ -109091,7 +109160,6 @@ msn.com##.qohvco-DS-EntryPoint1-1
 msn.com##.river-background
 msn.com##.sameoab_ad_container
 msn.com##.serversidenativead.secondary
-msn.com##.views-right-rail-top-display
 msn.com##.views-right-rail-top-display-ad
 msn.com##.windowsBannerAdContainer-DS-EntryPoint1-1
 msn.com##[class^="nativeAd"]
@@ -124539,6 +124607,7 @@ $websocket,domain=4archive.org|5nj.com|allthetests.com|boards2go.com|cechi8.com|
 /images/adv-
 /images/adv.
 /images/adv/*
+/images/adv/*$domain=idkeijiban.com|kakaoid.com|deai.twitterid.net
 /images/adv_
 /images/adver-
 /images/adz-
