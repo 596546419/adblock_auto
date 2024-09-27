@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: W6SjYLCnf4dTHNkKJEk+Zg
+! Checksum: 648QYvpcqTrJEx2u9hvMIQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240927094614
+! Version: 20240927162932
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-27 09:46:14
-! Total Count: 29053
+! Last modified: 2024-09-27 16:29:32
+! Total Count: 29057
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4153,6 +4153,7 @@
 ||baiduvjsbvjknlsvsv.com^
 ||baifen.music.baidu.com^
 ||baigamp.icu^
+||baigh8eosmgie01.site^
 ||baihuwang.com^$third-party
 ||baijs010.shop^
 ||baijs010.xyz^
@@ -8845,6 +8846,7 @@
 ||homelycrown.com^$third-party
 ||honeybulb.com^$third-party
 ||honeygoldfish.com^$third-party
+||hongi7ie8owiie01.site^
 ||hongjiujiaoyi.com^$third-party
 ||honglingjin.co.uk/wp-content/uploads/*-Homepage-Takeover-BG-
 ||hongteng.xyz^
@@ -9795,6 +9797,7 @@
 ||jddaw.com^
 ||jdfzfd.xyz^
 ||jdickea.top^
+||jdiekknmcb.com^
 ||jdipsuma.top^
 ||jditera.top^
 ||jdoshba.top^
@@ -9920,6 +9923,7 @@
 ||jisuxz.com/180226/downshare
 ||jitapu.com/inc/adv
 ||jitashe.org/template/jitashe/image/bc/3
+||jiuab8eig2oateh01.site^
 ||jiuba20230320.live^
 ||jiudashi.shop^
 ||jiujy5r3.fun^
