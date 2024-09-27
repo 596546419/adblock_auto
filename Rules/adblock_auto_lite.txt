@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: revqPpbFrQuHbAJzsd0ezg
+! Checksum: W6SjYLCnf4dTHNkKJEk+Zg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240927002940
+! Version: 20240927094614
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-27 00:29:40
-! Total Count: 29042
+! Last modified: 2024-09-27 09:46:14
+! Total Count: 29053
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4417,6 +4417,7 @@
 ||beatricenba.com^
 ||beautifulhobbies.com^$third-party
 ||bebohjhh.xyz^
+||bebxhcip.icu^
 ||beclsbx.icu^
 ||becode.xiao84.com^
 ||bedsberry.com^$third-party
@@ -4503,6 +4504,7 @@
 ||bhjuy10.com^
 ||bhktalt.cn^
 ||bhlntz.xyz^
+||bhovrath.com^
 ||bi.yeshen.com^
 ||bi25.cc/js/hf
 ||bian-min.com/javascript/a/detail.js
@@ -5034,6 +5036,7 @@
 ||cai75tp.com^
 ||caibaojian.com/d/uploads/*/atop-
 ||caibaojian.com/d/uploads/*0-
+||caicme.xyz^
 ||caider.fun^
 ||caikuu.com/ckimages/*_gg
 ||caikuu.com/ckimages/*_zg
@@ -5903,6 +5906,7 @@
 ||cuteturkey.com^$third-party
 ||cuvtnzv.cn^
 ||cvbjctqs.xyz^
+||cvdfvdfv90.fun^
 ||cvfgere96.cn^
 ||cvgrszkg.xyz^
 ||cvmesi.xyz^
@@ -5910,6 +5914,7 @@
 ||cvnxetmq.xyz^
 ||cvtbdap.xyz^
 ||cvudqzoa.xyz^
+||cvujac.xyz^
 ||cwaterf.top^
 ||cwerilxf.top^
 ||cweriof.top^
@@ -6215,6 +6220,7 @@
 ||demaxiya.com/v4/dd/
 ||demifa.top^
 ||denghaishan1.cn^
+||denjpl.xyz^
 ||denpvh.xyz^
 ||dependenttrip.com^$third-party
 ||derew6xbsc.xyz^
@@ -6936,6 +6942,7 @@
 ||eepw.com.cn/pub/js/TopFullScreen.js
 ||eeqweqw.fun^
 ||eers0cy.com^
+||eeryt111.fun^
 ||eetlwsw.top^
 ||eewrutw.top^
 ||eexlgyn.cn^
@@ -7385,6 +7392,7 @@
 ||feebleshock.com^$third-party
 ||feesoon.com/js/cnzz_
 ||fefgvh.xyz^
+||fefwe334.fun^
 ||fehrda.xyz^
 ||feijied.xyz^
 ||feijisu*.com/js/huimi-
@@ -8004,6 +8012,7 @@
 ||ghgasdt963.shop^
 ||ghghgf.51dongshi.com^
 ||ghghgf.xuexiwa.com^
+||ghiuge55.fun^
 ||ghjedashb6.fun^
 ||ghjie.com/JS/youcegg.js
 ||ghjie.com/images/2012/images/bg
@@ -17048,6 +17057,7 @@
 ||vrdxznr.xyz^
 ||vreephay.com^
 ||vreqnait.com^
+||vrinqop.icu^
 ||vrivslffndepxqd.xyz^
 ||vrizead.com^
 ||vrlvnz.xyz^
@@ -17496,6 +17506,7 @@
 ||wsdfame.com^
 ||wsdof.xyz^
 ||wsdwbfs.cn^
+||wsgayq.xyz^
 ||wshufa.com^$third-party
 ||wslbahe.top^
 ||wsoqwm.xyz^
