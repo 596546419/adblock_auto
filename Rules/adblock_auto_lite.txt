@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: JWkVsJts4k4y5Xa+6YH0UA
+! Checksum: b1eRyayYih21MpUrpfZlxA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240928002904
+! Version: 20240928094516
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-28 00:29:04
-! Total Count: 29059
+! Last modified: 2024-09-28 09:45:16
+! Total Count: 29068
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6523,6 +6523,7 @@
 ||doodlemobile.com/feature_server/fullScreen/get.php
 ||doodlemobile.com/feature_server/geo-ip/test.php
 ||doorbrazil.com^$third-party
+||dopklb.xyz^
 ||dore.new-indian-porn.com^
 ||dorper.cn^
 ||dosre12.xyz^
@@ -11199,6 +11200,7 @@
 ||lutube2310.com^$document
 ||lutube2310.com^$~third-party
 ||luuss.cn^
+||luyarvx.icu^
 ||luyongkang.top^$third-party
 ||luyouxi.cn^
 ||luyx8.com/tu/666.gif
@@ -12582,6 +12584,7 @@
 ||om.cn/api/ad-om/
 ||omezame.biz/wp-content/themes/buzzmake/js/modal.
 ||omg.house.porn^
+||omgnqu.xyz^
 ||omkxes.xyz^
 ||omniscientfeeling.com^$third-party
 ||omniscientspark.com^$third-party
@@ -13538,6 +13541,7 @@
 ||pwhkfd.xyz^
 ||pwhtip.icu^
 ||pwnews.net/des/antiblock.js$script
+||pwrgcxaj.icu^
 ||pwuxnr.cn^
 ||pwxlbsie.icu^
 ||px.adhigh.net^
@@ -13618,6 +13622,7 @@
 ||qdzyspjx.com^
 ||qedgcxi.cn^
 ||qeedaa.xyz^
+||qeeocy.xyz^
 ||qejjhnq.cn^
 ||qerbert78.xyz^
 ||qeryt111.fun^
@@ -14092,6 +14097,7 @@
 ||reqde.afreecatv.com^
 ||requirejs.cn/ts.png
 ||reqwevf3.fun^
+||reryt111.fun^
 ||res.cngoldres.com/web/index/img/*_ad_
 ||res.pinpai8.cn^
 ||res.vps234.com/resources/images/hosting-promotion/
@@ -14153,6 +14159,7 @@
 ||richpays.com^
 ||richreceipt.com^$third-party
 ||richstring.com^$third-party
+||ridirre.com^
 ||rifyeldz.top^
 ||rigengjihua.cn/banner/
 ||right.com.cn/forum/static/image/common/logo
@@ -16861,6 +16868,7 @@
 ||vcxv787.fun^
 ||vcydyzd.icu^
 ||vdebtqm.xyz^
+||vdfvdf33q.fun^
 ||vdggsd001.com^
 ||vdggsd002.com^
 ||vdggsd003.com^
@@ -17622,6 +17630,7 @@
 ||x.dmouy.cn^$third-party
 ||x.yaohuo.me^
 ||x08jd.top^
+||x0or8.icu^
 ||x1.52aoteman.com^
 ||x1.kantu.com^
 ||x1fyw.icu^
