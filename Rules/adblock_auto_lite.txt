@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: SCgrOArvSjhMr6EevM7xDA
+! Checksum: A4J78qlLjwMZD6SrSKPF7g
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240929002735
+! Version: 20240929095316
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-29 00:27:35
-! Total Count: 29074
+! Last modified: 2024-09-29 09:53:16
+! Total Count: 29082
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3999,6 +3999,7 @@
 ||axonix.com^
 ||axutongxue.*/js/yes.
 ||axutongxue.net/js/ik474n.js
+||ayebsc.xyz^
 ||aymwiq.xyz^
 ||aynufyns.xyz^
 ||ayq3nsx.icu^$third-party
@@ -5255,6 +5256,7 @@
 ||cdrvkdni.xyz^
 ||cdsa2.icu^
 ||cdscs990.fun^
+||cdszgg.xyz^
 ||cdttxdqe.xyz^
 ||cduno.cn^
 ||cdunwi.xyz^
@@ -7074,6 +7076,7 @@
 ||enhad.xyz^
 ||enifdlaw.top^
 ||ennde.cyou^
+||enokouv.icu^
 ||enormousearth.com^$third-party
 ||enormousfoot.com^$third-party
 ||enporn.org/system/theme/AnyPorn/js/popcode.min.js
@@ -8675,6 +8678,7 @@
 ||heqinyyds.com^
 ||heretrail.com^
 ||herogame.com^$subdocument,domain=gamer.com.tw
+||heryt111.fun^
 ||hesitanttoothpaste.com^$third-party
 ||hesramfi.com^
 ||hesrod.icu^
@@ -9649,6 +9653,7 @@
 ||itongcheng.cc/amm/
 ||itopdog.cn/itopdog/ad.js
 ||itopdog.cn/itopdog/d*.js
+||itqwesk.icu^
 ||itrdqbg.xyz^
 ||itrww.xyz^
 ||its.porn/ai/s/*/im.
@@ -15834,6 +15839,7 @@
 ||terriblethumb.com^$third-party
 ||terrificgoose.com^$third-party
 ||terrifictooth.com^$third-party
+||teryt111.fun^
 ||teslaamg.obs.cn-east-3.myhuaweicloud.com^
 ||testadmiral.com^$third-party
 ||testedtouch.com^$third-party
@@ -18538,6 +18544,7 @@
 ||yzihdppw.xyz^
 ||yziwoidi.icu^
 ||yzjihang.cn^
+||yzldy.info^
 ||yzllux.xyz^
 ||yzmcok.xyz^
 ||yzpsb.net/1.js
@@ -25610,6 +25617,7 @@ zle.com$script
 ###js_ads_banner_top
 ###js_ads_banner_top_slide
 ###kfpopupDiv
+###kp-mid-sport.fed-back-whits
 ###ks > .DaKuang
 ###kt_player>a[target="_blank"]
 ###ldgindexbuttom
