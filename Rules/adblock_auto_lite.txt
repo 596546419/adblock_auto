@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: SpdLsEI2U8sV6RSyi6Pqww
+! Checksum: ujPZpEVHKnbKZEimi9ahXw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20240930163157
+! Version: 20241001002948
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-09-30 16:31:57
-! Total Count: 29082
+! Last modified: 2024-10-01 00:29:48
+! Total Count: 29093
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7439,6 +7439,7 @@
 ||fgetmzx.icu^
 ||fghghh.cn^
 ||fghhbp.xyz^
+||fgnfpnae.icu^
 ||fgnzdb.xyz^
 ||fgo22.info^$third-party
 ||fgre9.top^
@@ -8030,6 +8031,7 @@
 ||ghost580.com/js/nei4.js
 ||ghreha.top^
 ||ghsnhjk.cn^
+||ghwqbii.icu^
 ||giantsvessel.com^$third-party
 ||giaoji.com/Runtime/Js/
 ||gicjtss.cn^
@@ -9821,6 +9823,7 @@
 ||jeidd.xyz^
 ||jeqxuvv.icu^
 ||jerrytom.xyz^
+||jeryt111.fun^
 ||jetlwsa.top^
 ||jevwdao.cn^
 ||jewruta.top^
@@ -10395,6 +10398,7 @@
 ||kelatv.com/ad/
 ||kemas.top^
 ||keptafd.cn^
+||keryt111.fun^
 ||ketchapp.org^
 ||ketlwsd.top^
 ||kewaishu.org/m-
@@ -10873,6 +10877,7 @@
 ||lensdump.com/i/*.gif
 ||lensdump.com/i/*.gif$badfilter
 ||leopold37.xyz^
+||leryt111.fun^
 ||lesasfp.icu^
 ||lesenjiaoyu.xyz^
 ||lestv1.icu^
@@ -12032,6 +12037,7 @@
 ||mx-movie.nan-net.jp/system/s-profile/banner/mx_bottom/
 ||mx6.3pornhere.com^
 ||mxaserver.mxplay.com^
+||mxcmwk.xyz^
 ||mxeq.cn^
 ||mxknqq.com^
 ||mxvp-ad-config-prod-1.zenmxapps.com^
@@ -12653,6 +12659,7 @@
 ||oppnfev.xyz^
 ||oppositeoperation.com^$third-party
 ||oppositeparcel.com^$third-party
+||opqnkw.xyz^
 ||oprece.xyz^
 ||opszt.com^
 ||opt8.co^
@@ -14203,6 +14210,7 @@
 ||rjwljrf.xyz^
 ||rjzqtz.xyz^
 ||rjzxw.com/include/
+||rk6h3.icu^
 ||rkanr.com/data/cpcache/cp*.js
 ||rkds1.icu^
 ||rkds10.icu^
@@ -14263,6 +14271,7 @@
 ||rouwenge.vip/astyle/$script
 ||roxewwq.cn^
 ||roxfrv.xyz^
+||roxwusak.icu^
 ||rp5o.top^
 ||rp9p0.xyz^
 ||rpeutxu.icu^
@@ -17863,6 +17872,7 @@
 ||xldxphtg.xyz^
 ||xlgvlvbc.xyz^
 ||xliffnsc.xyz^
+||xliuits.icu^
 ||xlivesex.com^
 ||xlkdbbvy.xyz^
 ||xlmdtiyqbkygtfkh.com^
@@ -18195,6 +18205,7 @@
 ||yepgdita.xyz^
 ||yerecpa.cn/uploadsb/app_adv/
 ||yerhfnytky.top^
+||yeryt111.fun^
 ||yes1.feng.com^$domain=feng.com
 ||yeshefb.com/template/conch/dd/
 ||yesky.com/s?z=
