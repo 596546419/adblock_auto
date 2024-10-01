@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: yzu4Lcuq1sS96fQ9B+u0qQ
+! Checksum: CvrT0nIh0F8YTywY0JaGzA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241001163119
+! Version: 20241002003053
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-01 16:31:19
-! Total Count: 29102
+! Last modified: 2024-10-02 00:30:53
+! Total Count: 29110
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -287,6 +287,7 @@
 ||1684sm.com/js/1684/
 ||1688.com/b2bxad?
 ||16888.com/ajax/loadcardata.php
+||1688by.com/static/default/js/loadLM.js
 ||168gamer.*.php?mod=js
 ||168gamer.*/list-
 ||168gamer.*/olist-
@@ -955,6 +956,7 @@
 ||61saat.com/_themes/hs-rush-php/mobil/scripts/modal.js
 ||62422.cn/ggimg/
 ||62mao.com/52
+||62zd0.icu^
 ||63007.com:82/haodxi.js
 ||6399tp.com^
 ||63ef.com^*.js
@@ -7370,6 +7372,9 @@
 ||fbtntwevnfq.com/*/android.apk?$~third-party
 ||fbvskv3.com^
 ||fbzmrgf.xyz^
+||fc2.com/o/o/i/ooiotakara/ad_$script,domain=ooiotakara.com
+||fc2.com/o/o/i/ooiotakara/ama$script,domain=ooiotakara.com
+||fc2.com/o/o/i/ooiotakara/apad_rank10_all5_1.js$domain=ooiotakara.com
 ||fc2.com/video/js/u/sp/hdr/
 ||fc2.com/video/js_smartphone_new/out/
 ||fc2fan.net/js/check_focus.js
@@ -10595,6 +10600,7 @@
 ||kqwip.cyou^
 ||kravma.xyz^
 ||krbsumc.cn^
+||krbulhb.com^
 ||kreisis.top^
 ||kritgu.xyz^
 ||krjzxie.cn^
@@ -17452,6 +17458,7 @@
 ||wkywrc.cn^
 ||wkzrqq.com^
 ||wkzsmj.icu^
+||wl.uqwjdhgv.top^
 ||wlgxaij.cn^
 ||wlkukrv.icu^
 ||wlrjy.com/assets/images/*.gif
@@ -18685,6 +18692,7 @@
 ||zeookuv.xyz^
 ||zephyrlabyrinth.com^$third-party
 ||zeqvqb.icu^
+||zeryt111.fun^
 ||zestycrime.com^$third-party
 ||zetcul.xyz^
 ||zetporn.com/*/custom_vast/$xmlhttprequest
