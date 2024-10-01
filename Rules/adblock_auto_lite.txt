@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: COdHYEFPyVYSdnuICMt0yw
+! Checksum: yzu4Lcuq1sS96fQ9B+u0qQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241001095508
+! Version: 20241001163119
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-01 09:55:08
-! Total Count: 29100
+! Last modified: 2024-10-01 16:31:19
+! Total Count: 29102
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3828,6 +3828,7 @@
 ||arpg2.com^
 ||arqvm.cn^
 ||arrearsexplicit.com^
+||aryici.xyz^
 ||as.adfonic.net^
 ||as.hobby.porn^
 ||as.uncn.jp^$domain=rocketnews24.com|youpouch.com|soranews24.com
@@ -16330,6 +16331,7 @@
 ||tuvixr.xyz^
 ||tuwan.com/events/courseiframe?
 ||tuwan.com/myad/
+||tuxpfiok.icu^
 ||tuyqiolni.cyou^
 ||tuyyex.icu^
 ||tv2box.com/img_1g/
