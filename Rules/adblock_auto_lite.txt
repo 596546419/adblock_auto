@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ujPZpEVHKnbKZEimi9ahXw
+! Checksum: COdHYEFPyVYSdnuICMt0yw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241001002948
+! Version: 20241001095508
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-01 00:29:48
-! Total Count: 29093
+! Last modified: 2024-10-01 09:55:08
+! Total Count: 29100
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -732,6 +732,7 @@
 ||4gtv.tv/4gTV_OTT.json
 ||4hw.com.cn/js/common.js
 ||4imk5.online^
+||4ir17.icu^
 ||4iuyw.xyz^
 ||4jffu.cn^
 ||4jnzhl0d0.com^$third-party
@@ -5502,6 +5503,7 @@
 ||ckmbig.xyz^
 ||ckqebz.cn^
 ||ckxxbao.com/templets/default/js/wx.js
+||ckyriuf.icu^
 ||cl-ad.x-flow.app^
 ||cl.sexstories-all.com^
 ||clamcelery.com^$third-party
@@ -5932,6 +5934,7 @@
 ||cwssfg632.shop^
 ||cww.net.cn/include/show.asp?boardID=
 ||cww.net.cn/js/urdev.js
+||cwwgqu.xyz^
 ||cx.ssacdn.com/image/fetch/*supersonicads
 ||cxapio.xyz^
 ||cxdcn9c.fjshxjs.cn^$third-party
@@ -9209,6 +9212,7 @@
 ||ielgag.top^
 ||iepda.xyz^
 ||iephrenhq.com^
+||ieryt111.fun^
 ||ietlwso.top^
 ||ievvo.xyz^
 ||iewruto.top^
@@ -12702,6 +12706,7 @@
 ||oschina.net/promotion/
 ||oschina.net/uploads/ad/
 ||oschina.net/uploads/cooperation/
+||oshaq.top^
 ||osisk.com^
 ||oslbahk.top^
 ||osmzym.xyz^
@@ -14306,6 +14311,7 @@
 ||rst.pornyhd.com^
 ||rsvkfwth.xyz^
 ||rsvvfx.xyz^
+||rsyepnq.icu^
 ||rszkhn.xyz^
 ||rt.api.glispa.com/native/v1/ad
 ||rt004.top^
@@ -17733,6 +17739,7 @@
 ||xekmhvbb.xyz^
 ||xero.porn/videoAd
 ||xerqfh.xyz^
+||xeryt111.fun^
 ||xevzdl.xyz^
 ||xeynozl.icu^
 ||xflybplr.xyz^
