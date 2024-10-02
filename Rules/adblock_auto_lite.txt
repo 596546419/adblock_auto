@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: WQakOVt0K6IQazWKUdisuA
+! Checksum: gcfOx0nOjiYQ9ApE2YhaLw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241002163014
+! Version: 20241003002958
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-02 16:30:14
-! Total Count: 29125
+! Last modified: 2024-10-03 00:29:58
+! Total Count: 29134
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1799,6 +1799,7 @@
 ||ad.mail.ru^$~image,domain=~mail.ru|~sportmail.ru
 ||ad.mediamixer.co.kr^
 ||ad.mediaprimaplus.com.my^
+||ad.mobiuspace.net^
 ||ad.moe.video^
 ||ad.mox.tv^
 ||ad.muyang888.top^
@@ -1821,6 +1822,7 @@
 ||ad.simpledesign.ltd^
 ||ad.smaad.jp^
 ||ad.snappea.com^
+||ad.snaptube.app^
 ||ad.soicos.com^$popup
 ||ad.style^$third-party
 ||ad.sxp.smartclip.net^
@@ -2381,6 +2383,7 @@
 ||admulti.com^$third-party
 ||adn.insight.ucweb.com^
 ||adn.porndig.com^
+||adnami.io^
 ||adnami.io^$third-party
 ||adnami2.io^
 ||adnanny.com^$popup,third-party
@@ -3700,6 +3703,7 @@
 ||api-a.ganjingworld.com/*/adsserver/get-vast-xml/
 ||api-a.op-mobile.opera.com^
 ||api-ad-adapter.wps.com^
+||api-ad-callback.falconnet.app^
 ||api-ad-callback.mobiuspace.net
 ||api.abcxs.org^
 ||api.ad-locus.com^
@@ -4012,6 +4016,7 @@
 ||ayxz.com/images/$script
 ||ayxz.com/images/enkj_small.gif
 ||ayynsdp.xyz^
+||az697jylm.cc^
 ||azdiqsb.cn^
 ||azdxypf.cn^
 ||azenco.xyz^
@@ -7287,6 +7292,7 @@
 ||f23al.xyz^
 ||f2dsex1.com/public/fb*.png
 ||f4nfg.site^
+||f5zv2.icu^
 ||f780f.space^
 ||f7fe0.cyou^
 ||f8dy.tv/template/m1938/js/b
@@ -15608,6 +15614,7 @@
 ||swoole.com/_images/w7.jpg
 ||swordgoose.com^$third-party
 ||swsegi.xyz^
+||swurserb.top^
 ||swwdke.xyz^
 ||sx.fakjkwp.cn^
 ||sxakca.xyz^
@@ -16952,6 +16959,7 @@
 ||verifyvegetable.com^$third-party
 ||veronicamagazine.nl/srv/*/banner
 ||verseballs.com^$third-party
+||veryt111.fun^
 ||veta.naver.com^
 ||vevhjj.xyz^
 ||vewdk.cyou^
@@ -18864,6 +18872,7 @@
 ||zndvfrl.xyz^
 ||znhlxvb.xyz^
 ||znllfp.xyz^
+||znnfzx.xyz^
 ||znnodl.xyz^
 ||znrtfj.xyz^
 ||znwzcmd.cn^
