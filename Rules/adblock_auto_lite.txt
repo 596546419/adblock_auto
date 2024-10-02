@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: vhxb+LnDyBJsTUhmC/zHlQ
+! Checksum: WQakOVt0K6IQazWKUdisuA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241002094558
+! Version: 20241002163014
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-02 09:45:58
-! Total Count: 29117
+! Last modified: 2024-10-02 16:30:14
+! Total Count: 29125
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -10510,6 +10510,7 @@
 ||klfbnklddfbkn.com^
 ||kljslku.com^
 ||klkk66.fun^
+||kloojzn.icu^
 ||klsnckalualkcn.com^
 ||kltmjevd.xyz^
 ||klufjdo.com^
@@ -10698,6 +10699,7 @@
 ||kwqnki.xyz^
 ||kwtgntyu.xyz^
 ||kwumme.xyz^
+||kwurserd.top^
 ||kwyamu.xyz^
 ||kx4.firstsexfilm.com^
 ||kxcdn.com^$xmlhttprequest
@@ -27027,8 +27029,10 @@ zle.com$script
 ##a[href*=".etechedge.com/"]
 ##a[href*=".f2ocoin.com/"]
 ##a[href*=".fllkf.com/"]
+##a[href*=".gaimin.gg/cn"]
 ##a[href*=".glolhw.com/"]
 ##a[href*=".greatnff.com/"]
+##a[href*=".hg63222.com"]
 ##a[href*=".hth379.com/"]
 ##a[href*=".hth399.com"]
 ##a[href*=".hth401.com"]
@@ -27054,6 +27058,7 @@ zle.com$script
 ##a[href*=".impactyu.com/"]
 ##a[href*=".impreshunz.com/"]
 ##a[href*=".ipndyn.com/"]
+##a[href*=".kaiyunty.live"]
 ##a[href*=".kekexc.com/"]
 ##a[href*=".labsda.com"]
 ##a[href*=".las88889999.com:"]
@@ -27109,7 +27114,9 @@ zle.com$script
 ##a[href*=".youxi141.com"]
 ##a[href*=".youxi142.com"]
 ##a[href*=".zcxnbj.com/"]
+##a[href*=".zhuijuwa.app"]
 ##a[href*=".zxzja.com/"]
+##a[href*=".zxzjys.com/"]
 ##a[href*="//ad.doubleclick.net"]
 ##a[href*="//adclick.g.doubleclick.net"]
 ##a[href*="//adultfriendfinder.com"]
@@ -27181,6 +27188,7 @@ zle.com$script
 ##a[href*="/445.ee/"]
 ##a[href*="/55915v.com:"]
 ##a[href*="/595tz483.cc"]
+##a[href*="/75333cc.com:"]
 ##a[href*="/7727ky.com:"]
 ##a[href*="/7756ky.com:"]
 ##a[href*="/7757ky.com:"]
