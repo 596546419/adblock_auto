@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: CvrT0nIh0F8YTywY0JaGzA
+! Checksum: vhxb+LnDyBJsTUhmC/zHlQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241002003053
+! Version: 20241002094558
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-02 00:30:53
-! Total Count: 29110
+! Last modified: 2024-10-02 09:45:58
+! Total Count: 29117
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4003,6 +4003,7 @@
 ||axonix.com^
 ||axutongxue.*/js/yes.
 ||axutongxue.net/js/ik474n.js
+||ayalcid.icu^
 ||ayebsc.xyz^
 ||aymwiq.xyz^
 ||aynufyns.xyz^
@@ -5285,6 +5286,7 @@
 ||cerfbup.xyz^
 ||cergbtb36.shop^
 ||cergbwa97.shop^
+||ceryt111.fun^
 ||ceseasons.com^
 ||ceshi*.ink/s/*?_=$third-party
 ||ceshi1.ink^
@@ -10230,6 +10232,7 @@
 ||jwjzf.online^
 ||jwltpv.xyz^
 ||jwronx.xyz^
+||jwursera.top^
 ||jwxwnr.xyz^
 ||jwylcrb.cn^
 ||jx.flzyw.com/js/foot.js
@@ -11933,6 +11936,7 @@
 ||mqsjzm.cn^
 ||mqsnce.xyz^
 ||mqwmgs.xyz^
+||mqwtgq.xyz^
 ||mqznjujv.xyz^
 ||mr956.xyz^
 ||mrbtkyn.xyz^
@@ -12542,6 +12546,7 @@
 ||oehcxmhk.xyz^
 ||oektiu.xyz^
 ||oepce.xyz^
+||oeryt111.fun^
 ||oewrutk.top^
 ||oeya.com^$domain=myptt.cc
 ||ofd.meng-an.cn^$third-party
@@ -12577,6 +12582,7 @@
 ||oiqdjksgpo.com^
 ||oiu09.cn^
 ||oiunga.com^
+||oiuuuc.xyz^
 ||ojuhwc.xyz^
 ||ojvpigx.xyz^
 ||ok-tv.org/images/banner_ipone.jpg
@@ -17102,6 +17108,7 @@
 ||vq1qi.pw^$third-party
 ||vqbzpv.xyz^
 ||vqlwoy.xyz^
+||vrdfxioe.icu^
 ||vrdxznr.xyz^
 ||vreephay.com^
 ||vreqnait.com^
