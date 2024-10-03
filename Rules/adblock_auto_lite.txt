@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: bV7GNJIABovdYGQRqMWSzQ
+! Checksum: 3Z/oaafHy+QxijMfymwaXw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241003094610
+! Version: 20241003163007
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-03 09:46:10
-! Total Count: 29141
+! Last modified: 2024-10-03 16:30:07
+! Total Count: 29145
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4470,6 +4470,7 @@
 ||berjzj.xyz^
 ||berrynicolo.com^
 ||berylnbb.com^
+||beryt111.fun^
 ||besc.baidustatic.com^
 ||best18porn.com/best18.js
 ||bestboundary.com^$third-party
@@ -6421,6 +6422,7 @@
 ||dj97.com/api.php?mod=ad&
 ||djahkee.xyz^
 ||djcnetb.icu^
+||djecgyk.icu^
 ||djicdn.com/uploads/ad_image_file/
 ||djiuss.cn^
 ||djmss.cn^$document
@@ -7226,6 +7228,7 @@
 ||ewqeq23.fun^
 ||ewqws55.fun^
 ||ewrwf.com^
+||ewurserw.top^
 ||ewxufqs.cn^
 ||ewzavfde.xyz^
 ||ex8.lostporntube.com^
@@ -17885,6 +17888,7 @@
 ||xjnyjt.xyz^
 ||xjpmlf.xyz^
 ||xjpsrb.xyz^
+||xjtosdof.icu^
 ||xjxbdh.xyz^
 ||xjzyhp.xyz^
 ||xkbbjtfp.xyz^
