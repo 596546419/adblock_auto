@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: gcfOx0nOjiYQ9ApE2YhaLw
+! Checksum: bV7GNJIABovdYGQRqMWSzQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241003002958
+! Version: 20241003094610
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-03 00:29:58
-! Total Count: 29134
+! Last modified: 2024-10-03 09:46:10
+! Total Count: 29141
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -782,6 +782,7 @@
 ||51pantu.com/pic/1598717206949.gif
 ||51test.net/js_new/a/right_wx.js
 ||51testing.com/templates/default/images/jx2_a.jpg
+||51tongji.trafficmanager.net^
 ||51ui.cn/999.png
 ||51ui.cn/js/500200.js
 ||51vob.com/js/hf.js
@@ -3929,6 +3930,7 @@
 ||aukllsq.cn^
 ||auntants.com^$third-party
 ||aup34.xyz^
+||ausfyk.xyz^
 ||aushaq.top^
 ||auspiciousyard.com^$third-party
 ||auto-online.com.tw/vendor_data/
@@ -5648,6 +5650,7 @@
 ||cnzz.c62v.cn^$third-party
 ||cnzz.cn/badu.gif
 ||cnzz.cn/ssp_
+||cnzz.trafficmanager.net^
 ||cnzz.yifenghuyu.com^$third-party
 ||cnzzla.com/public/scripts/money.js
 ||coachquartz.com^$third-party
@@ -10804,6 +10807,7 @@
 ||lanyes.org/content/templates/lanye2015/images/hb_banner.png
 ||laod.cn/wp-content/uploads/*/ad-
 ||laogu.com/cms/images/ad
+||laoqo.top^
 ||laowang81.com/getfuolist
 ||laowangblog.com^*-ad
 ||laozuo.org/banner/
@@ -12973,6 +12977,7 @@
 ||perpetualpail.com^$third-party
 ||persuadesock.com^$third-party
 ||persuadesupport.com^$third-party
+||peryt111.fun^
 ||petiteumbrella.com^$third-party
 ||pexavfro.xyz^
 ||pexels.com^*/sponsored-media/
@@ -13154,6 +13159,7 @@
 ||pm.poqwua.cn^
 ||pmb*.tj.ali213.net/js/
 ||pmblrt.xyz^
+||pmgfwya.icu^
 ||pmiskc.cn^
 ||pmnct63.shop^
 ||pmtrkp.icu^
@@ -18205,6 +18211,7 @@
 ||yclxrj.top^$third-party
 ||ycmgeb.icu^
 ||ycqbgm.xyz^
+||ycuhky.xyz^
 ||ycwuoq.xyz^
 ||ydazjxso.xyz^
 ||yddbysa.xyz^
