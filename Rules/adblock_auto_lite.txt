@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: EVU+XwOSB6qZqNXq6x9sjQ
+! Checksum: /UOwne/f4TTW+lzKkhbwMw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241004162937
+! Version: 20241005002953
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-04 16:29:37
-! Total Count: 29159
+! Last modified: 2024-10-05 00:29:53
+! Total Count: 29164
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6006,6 +6006,7 @@
 ||d2.sina.com.cn^$object,script
 ||d2.yingyongge.com/*?*&$subdocument
 ||d2kadvyeq051an.cloudfront.net^$third-party
+||d2tf0.icu^
 ||d2wy8f7a9ursnm.cloudfront.net^$third-party
 ||d3.sina.com.cn^$object,script
 ||d3f3.xyz^
@@ -8571,6 +8572,7 @@
 ||hasdjksndjk.com^
 ||hasgde.site^
 ||hatefulrequest.com^$third-party
+||hauqou.top^
 ||havttn.xyz^
 ||haxd7.top^
 ||haxqxd.xyz^
@@ -13879,6 +13881,7 @@
 ||qqk19.com/data/content
 ||qqkkpos.com^
 ||qqnde.xyz^
+||qqryt111.fun^
 ||qqtn.com/js/*0.js
 ||qqtn.com/js/downinfo-
 ||qqtn.com/js/html/down_
@@ -15047,6 +15050,7 @@
 ||sjbaiduadv1.redou.com^
 ||sjbgyak.cn^
 ||sjdfuvz.cn^
+||sjezce.xyz^
 ||sjgsgy.xyz^
 ||sjkdbvjksbv.com^
 ||sjks88.com/templets/default/js/mydata4.js
@@ -16422,6 +16426,7 @@
 ||twrkcbs.cn^
 ||twtfdd.xyz^
 ||twunbbs.com/images/
+||twurseri.top^
 ||twww.sbs^
 ||twww.sbs^$third-party
 ||twzadf.xyz^
