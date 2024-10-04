@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: foSQVbwg5DKEb5tCisG0GQ
+! Checksum: EVU+XwOSB6qZqNXq6x9sjQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241004094626
+! Version: 20241004162937
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-04 09:46:26
-! Total Count: 29155
+! Last modified: 2024-10-04 16:29:37
+! Total Count: 29159
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4168,6 +4168,7 @@
 ||baifen.music.baidu.com^
 ||baigamp.icu^
 ||baigh8eosmgie01.site^
+||baigh8eosmgie02.site^
 ||baihuwang.com^$third-party
 ||baijs010.shop^
 ||baijs010.xyz^
@@ -8884,6 +8885,7 @@
 ||honeybulb.com^$third-party
 ||honeygoldfish.com^$third-party
 ||hongi7ie8owiie01.site^
+||hongi7ie8owiie02.site^
 ||hongjiujiaoyi.com^$third-party
 ||honglingjin.co.uk/wp-content/uploads/*-Homepage-Takeover-BG-
 ||hongteng.xyz^
@@ -11176,6 +11178,7 @@
 ||louimg.com/i/2021/08/17/*.gif
 ||louimg.com/u/20191214/17512133.jpg
 ||love.furenkeji.com^
+||loveameng.top^
 ||lovek01.com/gif/97-
 ||lovelydrum.com^$third-party
 ||loveseashore.com^$third-party
@@ -13968,6 +13971,7 @@
 ||qwrdj.xyz^
 ||qwrot.cyou^
 ||qwsanan.top^
+||qwursery.top^
 ||qxakzox.cn^
 ||qxrvmu.com^
 ||qxvp6.site^
