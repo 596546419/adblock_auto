@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: /UOwne/f4TTW+lzKkhbwMw
+! Checksum: vlNqLJYxKeLo5Rg6L3mgdg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241005002953
+! Version: 20241005094532
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-05 00:29:53
-! Total Count: 29164
+! Last modified: 2024-10-05 09:45:32
+! Total Count: 29173
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1603,6 +1603,7 @@
 ||abrnfctkn.xyz^
 ||abroad-ad.kingsoft-office-service.com^
 ||abruptroad.com^$third-party
+||absalomcsa.com^
 ||absentstream.com^$third-party
 ||absoluporn.com/code/script/
 ||absorbingband.com^$third-party
@@ -4437,6 +4438,7 @@
 ||beclsbx.icu^
 ||becode.xiao84.com^
 ||bedsberry.com^$third-party
+||bedzbu.xyz^
 ||beephone.com.tw/ad-middle.php
 ||beephone.com.tw/ad-yahoo.php
 ||beeporntube.com^
@@ -5447,6 +5449,7 @@
 ||chok8.com/statics/ad/
 ||chong-wu.net^
 ||chongdiantou.com/wp-content/uploads/2019/02/pzb.jpg
+||chooncv.icu^
 ||choujue.net/one/down.js
 ||choujue.net/script/
 ||chozarpeases.com^
@@ -6868,6 +6871,7 @@
 ||eap.big5.enorth.com.cn^
 ||eap.enorth.com.cn^
 ||eapect.icu^
+||eaqgsw.xyz^
 ||eaqlos.xyz^
 ||earthquakescarf.com^$third-party
 ||earthycopy.com^$third-party
@@ -12056,6 +12060,7 @@
 ||mvcat.com/script/ad.js
 ||mvcat.com/sitefiles/services/cms/adv/
 ||mvcat.com/wx/follow.js
+||mvcngm.xyz^
 ||mvevgi.xyz^
 ||mvgucp.com^
 ||mvirkw.xyz^
@@ -12467,6 +12472,7 @@
 ||ntlzvrv.xyz^
 ||ntozchv.icu^
 ||ntozr.top^
+||ntpnfyga.icu^
 ||ntrtifx.xyz^
 ||ntrwnd.xyz^
 ||ntsibo.com^
@@ -12873,6 +12879,7 @@
 ||paintplantation.com^$third-party
 ||pajhvd.xyz^
 ||pajtll.xyz^
+||pakaujf.icu^
 ||paleleaf.com^$third-party
 ||pamelarandom.com^$third-party
 ||pan.baidu.com/act/api/activityentry?
@@ -13515,6 +13522,7 @@
 ||proxyporn.info/proxyporn-info-p0p.js
 ||prpmdp.xyz^
 ||prtadf.xyz^
+||prtfpl.xyz^
 ||prtlth.xyz^
 ||przbzr.xyz^
 ||ps123.net/MyFile/
@@ -18280,6 +18288,7 @@
 ||yfaqgk.xyz^
 ||yfasjfk.icu^
 ||yfmhik.xyz^
+||yfoega.xyz^
 ||yfohgo.xyz^
 ||yfsstec96.xyz^
 ||yfzpxnb.xyz^
