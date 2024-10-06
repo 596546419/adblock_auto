@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: aKOOzrw7btQtCQ0nyZn9tg
+! Checksum: 1JJIdQOmWS6ZyN1dJvfxaA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241006095244
+! Version: 20241006162747
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-06 09:52:44
-! Total Count: 29183
+! Last modified: 2024-10-06 16:27:47
+! Total Count: 29186
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -11291,6 +11291,7 @@
 ||lwprdv.xyz^
 ||lwrohd.xyz^
 ||lwtqqq.com^
+||lwurserl.top^
 ||lwwlkj1.cn^
 ||lwzdzf.xyz^
 ||lx5.homeporntuber.com^
@@ -13172,6 +13173,7 @@
 ||plbs9k.icu^
 ||pleasantpump.com^$third-party
 ||plecnyz.icu^
+||plfwxtgu.icu^
 ||plnbnd.xyz^
 ||plnrkgc.xyz^
 ||plnshao.xyz^
@@ -27132,6 +27134,7 @@ zle.com$script
 ##a[href*=".nfkonline.com/"]
 ##a[href*=".nfqtech.com/"]
 ##a[href*=".nfylife.com/"]
+##a[href*=".nhjhu25hd.com:"]
 ##a[href*=".niujyl.com/"]
 ##a[href*=".ohakaguide.com/"]
 ##a[href*=".oidmwq2v.cn"]
