@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: JTED9U7qPgQvYZ05VnqNIA
+! Checksum: aKOOzrw7btQtCQ0nyZn9tg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241006002742
+! Version: 20241006095244
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-06 00:27:42
-! Total Count: 29177
+! Last modified: 2024-10-06 09:52:44
+! Total Count: 29183
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3976,6 +3976,7 @@
 ||avkw.cn^
 ||avple.video/asset/bann.js
 ||avplwte.xyz^
+||avqdhss.icu^
 ||avseesee.com/amandison.php
 ||avseesee.com/htmls/vlinks.html
 ||avseesee.com/twad
@@ -9653,6 +9654,7 @@
 ||it8vh.site^
 ||itad.linetv.tw/api/v2/vmap?ad_id=$xmlhttprequest,redirect=noop.txt
 ||itadapi.ithome.com.tw^
+||itakrid.icu^
 ||itavcn.com/images/2012/ad_
 ||itavcn.com/images/2013/ad_
 ||itavcn.com/images/2014/ad_
@@ -12931,6 +12933,7 @@
 ||pbmp.ali213.net/js/
 ||pbtsjh.xyz^
 ||pbtxt.win^
+||pbvdlb.xyz^
 ||pc6.com/img/
 ||pc768.com^
 ||pc841.com/show/
@@ -14003,6 +14006,7 @@
 ||qziuwzn.cn^
 ||qznjujv.xyz^
 ||qzone.la/Scripts/m.js
+||qzorwe.xyz^
 ||qzozsa.xyz^
 ||qzpbwq.com^
 ||qzsvwo.xyz^
@@ -15357,6 +15361,7 @@
 ||srijbbzpx.xyz^
 ||srldkqj.cn^
 ||srlhgo.cn^
+||srmsii.xyz^
 ||srnov.top^
 ||srootshare.com/otmyjs/
 ||srtb.msn.cn^
@@ -18550,6 +18555,7 @@
 ||yuanxiab.cn^
 ||yuanxiang19.fun^
 ||yuanxue365.com/js/a22.
+||yuayku.xyz^
 ||yuebog.xyz^
 ||yueesv.icu^
 ||yueipaoo.xyz^*.gif
