@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 1JJIdQOmWS6ZyN1dJvfxaA
+! Checksum: wcySD/qUmoZ+Dlkshh597Q
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241006162747
+! Version: 20241007002658
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-06 16:27:47
-! Total Count: 29186
+! Last modified: 2024-10-07 00:26:58
+! Total Count: 29189
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1012,6 +1012,7 @@
 ||6b70b1086b.com^
 ||6b856ee58e.com^
 ||6cdwf.xyz^
+||6efgcdcjr000.fun^
 ||6gcstb.xyz^
 ||6h1cz.xyz^
 ||6iwoif.com^
@@ -4930,6 +4931,7 @@
 ||bwandlv.top^
 ||bweriov.top^
 ||bwjfnj.xyz^
+||bwurserv.top^
 ||bwuwirv.cn^
 ||bwwlw.cn^
 ||bxackzj.icu^
@@ -9483,6 +9485,7 @@
 ||immensehoney.com^$third-party
 ||imminentshake.com^$third-party
 ||immmg.owowqrf.cn^
+||imndl.icu^
 ||imnks.com/ad2023/$image
 ||imobileporn.com^$domain=h-flash.com
 ||imooc.com/open/courselistrandjs
