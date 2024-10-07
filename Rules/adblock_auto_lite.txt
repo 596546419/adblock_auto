@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: wcySD/qUmoZ+Dlkshh597Q
+! Checksum: e5VZwQkgWMqY0jUwHStMZA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241007002658
+! Version: 20241007094929
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-07 00:26:58
-! Total Count: 29189
+! Last modified: 2024-10-07 09:49:29
+! Total Count: 29195
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -513,6 +513,7 @@
 ||2cnjuh34jbpoint.com^
 ||2cq.com/third/tieba/sidebar
 ||2d4f.com/love/
+||2efgcdcjr000.fun^
 ||2fa20230511.live^
 ||2ghai.com/zz/
 ||2hfby.top^
@@ -4669,6 +4670,7 @@
 ||bmp1.ali213.net/js/
 ||bmp1.ali213.net/pubjs/index_sc_utf8.js
 ||bmp2.ali213.net/js/
+||bmqulua.icu^
 ||bmret.cn^
 ||bmtfka93.xyz^
 ||bmxvxl.xyz^
@@ -5553,6 +5555,7 @@
 ||clkdus.xyz^
 ||clkfeed.com^$popup
 ||clkwnl.xyz^
+||clmcam.xyz^
 ||clmkwi.xyz^
 ||cln.willyporn.com^
 ||cloisteredhydrant.com^$third-party
@@ -6953,6 +6956,7 @@
 ||ed-protect.org/cdn-cgi/apps/head/
 ||ed2000k.com/ad/
 ||eda.ru/_next/static/images/banner_adv
+||edadmy.xyz^
 ||edghkc.xyz^
 ||edickew.top^
 ||edipsumw.top^
@@ -10478,6 +10482,7 @@
 ||kgnpwdf.cn^$third-party
 ||kgqcse.xyz^
 ||kgubus.xyz^
+||kgymoc.xyz^
 ||khcsvdc.icu^
 ||khrtac.xiangha.com^
 ||khzyojb.cn^
@@ -17966,6 +17971,7 @@
 ||xltmjevd.xyz^
 ||xlvqhx.xyz^
 ||xlwrdnrw.xyz^
+||xlxehr.xyz^
 ||xlxknf.xyz^
 ||xlypzbzs.xyz^
 ||xlyzjs.com$third-party
