@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: iYQZknBPs8s5VHqv6j8ggA
+! Checksum: EBwHn6ipC6oktOob0fyYdA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241007163037
+! Version: 20241008002909
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-07 16:30:37
-! Total Count: 29198
+! Last modified: 2024-10-08 00:29:09
+! Total Count: 29203
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8901,6 +8901,7 @@
 ||honeygoldfish.com^$third-party
 ||hongi7ie8owiie01.site^
 ||hongi7ie8owiie02.site^
+||hongi7ie8owiie03.site^
 ||hongjiujiaoyi.com^$third-party
 ||honglingjin.co.uk/wp-content/uploads/*-Homepage-Takeover-BG-
 ||hongteng.xyz^
@@ -9100,6 +9101,7 @@
 ||hwnojj.xyz^
 ||hwpvbdj.xyz^
 ||hwuogmusthxfpk.xyz^
+||hwurseru.top^
 ||hwvwxerw.xyz^
 ||hx1.tubepornbase.com^
 ||hxbt.alading123.com^
@@ -9169,6 +9171,7 @@
 ||i18n-pglstatp.com^
 ||i2.myapkcdn.in^
 ||i2ad.jp^
+||i2wq4.icu^
 ||i322.com/ad_avshow/
 ||i3535.com^$third-party
 ||i3z.cn^$third-party
@@ -12568,6 +12571,7 @@
 ||oafishobservation.com^$third-party
 ||oaftaijo.net^$third-party
 ||oaihiiacb.com^
+||oaiqksi.top^
 ||oakmn.top^
 ||oalmbmf.xyz^
 ||oapyrzde.xyz^
@@ -16615,6 +16619,7 @@
 ||ue8im.com^
 ||uebipacy.xyz^
 ||uebohjhh.xyz^
+||uegsjnk.com^
 ||uejdsw.com^
 ||uejnmjdpd.xyz^
 ||uekmhvbb.xyz^
