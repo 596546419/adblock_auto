@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: e5VZwQkgWMqY0jUwHStMZA
+! Checksum: iYQZknBPs8s5VHqv6j8ggA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241007094929
+! Version: 20241007163037
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-07 09:49:29
-! Total Count: 29195
+! Last modified: 2024-10-07 16:30:37
+! Total Count: 29198
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6200,6 +6200,7 @@
 ||ddkh59.com^
 ||ddlipf.xyz^
 ||ddllhqj.xyz^
+||ddlmsoyo.icu^
 ||ddlvpmt.xyz^
 ||ddnzpr.xyz^
 ||ddomjhr.icu^
@@ -12092,6 +12093,7 @@
 ||mwqucr.icu^
 ||mwrf.net/images/js/*mrf.js
 ||mwrf.net/images/mrf/
+||mwurserx.top^
 ||mwzbp.iask.com.cn^
 ||mx-movie.nan-net.jp/system/s-profile/banner/mx_bottom/
 ||mx6.3pornhere.com^
@@ -18413,6 +18415,7 @@
 ||yjnhkd.com^
 ||yjnhndt.com^
 ||yjnkas.com^
+||yjwxegq.icu^
 ||yjxzvqy.xyz^
 ||yjyc-ask.com/res/ads/
 ||ykad-data.youku.com^
