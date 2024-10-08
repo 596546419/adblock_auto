@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: HFm7Ep0jkSkBV5YivPko0w
+! Checksum: p7M8uhreirK0d2PA3m0FUQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241008094623
+! Version: 20241008163027
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-08 09:46:23
-! Total Count: 29210
+! Last modified: 2024-10-08 16:30:27
+! Total Count: 29214
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9742,6 +9742,7 @@
 ||iwerilxo.top^
 ||iwerioo.top^
 ||iwmigu.xyz^
+||iwursero.top^
 ||iwwmaq.xyz^
 ||ix2.deepsexvids.com^
 ||ixstng.cn^
@@ -10719,6 +10720,7 @@
 ||kvhmm.com^$third-party
 ||kvhnn.com^$third-party
 ||kvhtsvy.xyz^
+||kvkcei.xyz^
 ||kvmaa.com^
 ||kvpqrydt.xyz^
 ||kvskknklssv.com^
@@ -26893,6 +26895,8 @@ zle.com$script
 ##A[href*=".com/?Agent="]
 ##A[href="http://t.cn/A6hQCVsv"]
 ##A[href^="/e/public/ClickAd?adid="]
+##DIV[style=" max-width:990px; margin:0 auto;"] > A > IMG[height="120px"]
+##DIV[style=" max-width:990px; margin:0 auto;"] > A > IMG[height="60px"]
 ##[ad_display_dot]
 ##[ad_dot_url]
 ##[class$="-ad-box"]
