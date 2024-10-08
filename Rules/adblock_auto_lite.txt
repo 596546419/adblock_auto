@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: EBwHn6ipC6oktOob0fyYdA
+! Checksum: HFm7Ep0jkSkBV5YivPko0w
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241008002909
+! Version: 20241008094623
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-08 00:29:09
-! Total Count: 29203
+! Last modified: 2024-10-08 09:46:23
+! Total Count: 29210
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7708,6 +7708,7 @@
 ||frntzz.xyz^
 ||frontend.vh.yandex.ru/player/*&adConfig=$domain=mentoday.ru
 ||frontendjs.com/api/ad
+||frontier100-toutiao-lf.fqnovel.com^
 ||fronttoad.com^$third-party
 ||frrhdl.xyz^
 ||frsejhged.xyz^
@@ -12469,6 +12470,7 @@
 ||nqdufv.xyz^
 ||nqfrhd.xyz^
 ||nqoxurf.icu^
+||nqyrywn.icu^
 ||nrbqgf.cn^
 ||nrfhbd.xyz^
 ||nrj.fr/nrj?Page=/rg.fake&
@@ -12820,6 +12822,7 @@
 ||owurserk.top^
 ||owyame.xyz^
 ||ox8.topsexhdvideos.com^
+||oxkqeu.xyz^
 ||oxkyaq.xyz^
 ||oxmvcg.xyz^
 ||oxoucm.xyz^
@@ -13875,6 +13878,7 @@
 ||qpix.com/2021/05/20/Aqcp.gif
 ||qpoiwnelc.com^
 ||qpolkmbbf.com$third-party
+||qpyrqg.xyz^
 ||qpzegye.cn^
 ||qpztub.xyz^
 ||qq.com/Index/getAdsAndHotspot
@@ -16669,6 +16673,7 @@
 ||ukgfniu.cn^
 ||ukitert.top^
 ||ukjwyv.icu^
+||ukkiftx.icu^
 ||ukkkmg.xyz^
 ||ukpsal.icu^
 ||ulfex.cn^$third-party
@@ -17638,6 +17643,7 @@
 ||wsoqwm.xyz^
 ||wsoxwa.xyz^
 ||wstx.com/api.php?mod=ad&
+||wswxsk.xyz^
 ||wsyfsg.xyz^
 ||wsyliee.top^
 ||wtaccesscontrol.com^$third-party
@@ -18139,6 +18145,7 @@
 ||xvrvgod.xyz^
 ||xvudqzoa.xyz^
 ||xvyugqj.icu^
+||xvzcfh.xyz^
 ||xvzfyra.xyz^
 ||xvzvqoq.xyz^
 ||xw.ooegpip.cn^$third-party,image
