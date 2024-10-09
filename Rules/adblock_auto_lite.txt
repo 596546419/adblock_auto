@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: wVn1UUJNqGxOAgjEGURspA
+! Checksum: V3Bic7sXREXG32EtSBzyrg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241009003018
+! Version: 20241009094534
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-09 00:30:18
-! Total Count: 29215
+! Last modified: 2024-10-09 09:45:34
+! Total Count: 29220
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3414,6 +3414,7 @@
 ||ajoqu.cn^
 ||ajtdumo.cn^$third-party
 ||ajucem.xyz^
+||ajybgc.xyz^
 ||ak0gsh40.com^$third-party
 ||ak530.com/js/*.js
 ||akabebe.com/jgg/*.gif
@@ -5765,6 +5766,7 @@
 ||courageousbaby.com^$third-party
 ||courtoyz.com^
 ||coverapparatus.com^$third-party
+||cowcuo.xyz^
 ||cowm199.com^
 ||cowscrayon.com^$third-party
 ||cozyhillside.com^$third-party
@@ -7468,6 +7470,7 @@
 ||ff.psd8.com^
 ||ff.qichetansuo.com^
 ||ffawfa.cn^
+||ffbdbx.xyz^
 ||ffbjhl.xyz^
 ||ffdafx.xyz^
 ||ffmehcg.cn^$third-party
@@ -9642,6 +9645,7 @@
 ||irtefs.xyz^
 ||irtliso.top^
 ||iruacwa.xyz^
+||irulws.xyz^
 ||irutvnco.top^
 ||is686.com^$third-party
 ||isancio.top^
@@ -14654,6 +14658,7 @@
 ||sdcuo.com^
 ||sdd.hi1718.com^
 ||sdefx.cloud/js/acheck.js
+||sdfewed.com^
 ||sdfg68.com^
 ||sdfgbuy.com^
 ||sdfqs2.com^
