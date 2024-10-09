@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: rTvalFGcIGfITo5WRDsiJw
+! Checksum: msJbirzJ33E8EUX4zrUycw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241009163016
+! Version: 20241010002841
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-09 16:30:16
-! Total Count: 29221
+! Last modified: 2024-10-10 00:28:41
+! Total Count: 29226
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -93,6 +93,7 @@
 ||0o0.ooo/2017/01/13/58787d42bbad6.jpg
 ||0op8kh.cn^
 ||0oqt9i.cn^
+||0pdsa.icu^
 ||0r3tyg.cn^
 ||0s6s0.top^
 ||0tq6ub.cn^
@@ -3753,6 +3754,7 @@
 ||apic.in/mmd.gif
 ||apiimg.com/huaer/xiahe.
 ||apis.appnxt.net^
+||apis.pchome.com.tw/js/idlead.js
 ||apis301.com^
 ||apk-01.oss-cn-beijing.aliyuncs.com/dp/
 ||apk.tw/static/js/showpic.js
@@ -7003,6 +7005,7 @@
 ||effetspositifs.com^
 ||efficaciouscactus.com^$third-party
 ||effirst.com^$third-party
+||efg.zle.com^
 ||efgh.5lu.com^
 ||efhis.cn^
 ||efjsliw.top^
@@ -9960,6 +9963,7 @@
 ||jingalbundles.com^
 ||jingdianlaoge.com/static/js/360-displaywindow-advert.js
 ||jingdianlaoge.com/static/js/q.js
+||jingjs.top^
 ||jingujie.com/public/jgj_
 ||jingujie.com/public/js/*html.js
 ||jingwuhotel.com/static/xbiquge
@@ -17668,6 +17672,7 @@
 ||wuge20230104.live^
 ||wuhaolin.cn/c/ls
 ||wuifbjdswsl.com^
+||wuiqiq.xyz^
 ||wuisaq.top^
 ||wujinzy.com/images/ok.gif
 ||wujiupic.com^
