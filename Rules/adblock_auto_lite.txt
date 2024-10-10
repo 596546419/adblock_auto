@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: msJbirzJ33E8EUX4zrUycw
+! Checksum: if6TIrZ4uyaFHvnAsMoF9Q
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241010002841
+! Version: 20241010094550
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-10 00:28:41
-! Total Count: 29226
+! Last modified: 2024-10-10 09:45:50
+! Total Count: 29233
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7933,6 +7933,7 @@
 ||gbgedashb8.fun^
 ||gblxtlo.xyz^
 ||gbndash2.fun^
+||gbqgwes.icu^
 ||gcbflvx.cn^
 ||gcbtgh26.xyz^
 ||gccnntq.cn^
@@ -8592,6 +8593,7 @@
 ||hasdjksndjk.com^
 ||hasgde.site^
 ||hatefulrequest.com^$third-party
+||hauqks.top^
 ||hauqou.top^
 ||havttn.xyz^
 ||haxd7.top^
@@ -10199,6 +10201,7 @@
 ||jsdelivr.net/gh/yaofa88/bifa@main/*960
 ||jsdelivr.vip^
 ||jsf.cnlinfo.net^
+||jsgapai.icu^
 ||jsgdvkjz.com^
 ||jsinfo.net^$third-party
 ||jsjtjj.xyz^
@@ -11797,6 +11800,7 @@
 ||mittencattle.com^$third-party
 ||miwfkm.xyz^
 ||miwifi.com^*ads/
+||miwpkk.xyz^
 ||mixadvert.com^
 ||mixedreading.com^$third-party
 ||mixer.sina.cn^
@@ -12471,6 +12475,7 @@
 ||nownews.com/assets/js/setAds.js
 ||noxagile.duapp.com^
 ||npbtnl.xyz^
+||npdbxf.xyz^
 ||npdkdb.xyz^
 ||npjvgug.xyz^
 ||nplahh.xyz^
@@ -12589,6 +12594,7 @@
 ||oalmbmf.xyz^
 ||oapyrzde.xyz^
 ||oaqrui.xyz^
+||oauqyw.xyz^
 ||oawvsm.xyz^
 ||ob.leap.app^
 ||obdjzhq.xyz^
@@ -16630,6 +16636,7 @@
 ||udoshbt.top^
 ||udpdmeb.cn^
 ||udsahkln.xyz^
+||udswai.xyz^
 ||udxhzqg.cn^
 ||udykkl.cn^
 ||ue8im.com^
