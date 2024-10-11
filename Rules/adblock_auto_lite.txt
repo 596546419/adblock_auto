@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: suvyDhn4aBvMACdFJ/HxRQ
+! Checksum: qZChiq5aJi7VtdSshFAErg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241011002856
+! Version: 20241011094535
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-11 00:28:56
-! Total Count: 29236
+! Last modified: 2024-10-11 09:45:35
+! Total Count: 29243
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3618,6 +3618,7 @@
 ||amocyq.xyz^
 ||amradmin.5173.com^
 ||ams.fx678.com^
+||amsbce.xyz^
 ||amuckafternoon.com^$third-party
 ||amuguu.xyz^
 ||amung.us^
@@ -8288,6 +8289,7 @@
 ||gposrzz.cn^
 ||gpqicw.xyz^
 ||gpqid.xyz^
+||gpqkeq.xyz^
 ||gpxz.com/js2/
 ||gqleov.icu^
 ||gqwwshbdd1.fun^
@@ -12154,6 +12156,7 @@
 ||mydrivers.com/www/gg_
 ||mydrivers.com^*/news/ayun
 ||mydrivers.com^*728_90.
+||mydyxs.com/mpc/
 ||mydzfldt.xyz^
 ||mygeek.cn/pic_$domain=dapenti.com
 ||myhack58.com/Articleacb0
@@ -12569,6 +12572,7 @@
 ||nyt5j.cyou^
 ||nyvgbt.xyz^
 ||nz04com.com/aabdd/
+||nzfcvv.xyz^
 ||nzhzzd.xyz^
 ||nzlrfdv.xyz^
 ||nznkaq5.cn^
@@ -18353,6 +18357,7 @@
 ||yg006.com/attachment/xjdb.jpg
 ||ygfgzmzo.xyz^
 ||ygh5.cn^
+||ygipjqf.icu^
 ||ygqrki.xyz^
 ||ygshu.com/js/h
 ||ygxgk.cn^
@@ -18609,6 +18614,7 @@
 ||yuebog.xyz^
 ||yueesv.icu^
 ||yueipaoo.xyz^*.gif
+||yugqqqq.icu^
 ||yuhuads.com^$third-party
 ||yui-nya.com/wp-content/uploads/2016/12/37011.jpg
 ||yui-nya.com/wp-content/uploads/2016/12/neta370-370.jpg
@@ -18631,6 +18637,7 @@
 ||yuske2.xyz^
 ||yutew.cc^$third-party
 ||yutiqf.icu^
+||yuuaos.xyz^
 ||yuwangshe.net/astyle/wap.
 ||yuwenbin.host^
 ||yuwqsk.xyz^
