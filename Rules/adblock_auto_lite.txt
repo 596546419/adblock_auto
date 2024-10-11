@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: IEjQfb0aY0X3lq9fbe3ujA
+! Checksum: 5tPOEAIwTM10eGBuU8JDrQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241011162948
+! Version: 20241012002900
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-11 16:29:48
-! Total Count: 29243
+! Last modified: 2024-10-12 00:29:00
+! Total Count: 29263
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -985,6 +985,7 @@
 ||666bbb222www.com^
 ||666bbb333bbb.com^
 ||666bbb888www.com^
+||666hh999gg.com^
 ||666ppp222ppp.com^
 ||666ppp888ppp.com^
 ||6686bb.app^
@@ -1054,6 +1055,7 @@
 ||76xh.com/skin/zxf/js/*Out.js
 ||76xh.com/skin/zxf/js/ad
 ||775mz.com/js/jquery.js
+||776.jstatic.xyz^
 ||777aa888bb.com^
 ||777aa999aa.com^
 ||777bb111ww.com^
@@ -2567,6 +2569,7 @@
 ||adrsp.net^$third-party
 ||adrunnr.com^
 ||adrunnr.com^$popup
+||ads*-normal-hl.zijieapi.com^
 ||ads*-normal-lq.zijieapi.com^
 ||ads*.bojijulebu.com^
 ||ads*.depositfiles.com^
@@ -5326,6 +5329,7 @@
 ||cfugrnc.icu^
 ||cfx3d.xyz^
 ||cfzhushou.com^*/King_Chance_Layer.js
+||cg-pao-tu.nanyanglk.com^
 ||cgbswl.icu^
 ||cgczuu.xyz^
 ||cgidskif.top^
@@ -5760,8 +5764,10 @@
 ||correctchaos.com^$third-party
 ||corrosif.science^$domain=filerev.cc|pencurimovie.pw
 ||cos.ap-*.myqcloud.com^$third-party
+||cos1999.top^
 ||cosmo001.top^
 ||cosmo100.top^
+||cosmo202.top^
 ||cosmosjackson.com^$third-party
 ||cosouy.xyz^
 ||cosplayporntube.com/creatives/
@@ -6093,7 +6099,7 @@
 ||dairzih.com^
 ||daiwofei2019.top^
 ||dajiadu8.com/17.js
-||dajiadu8.com/17mb/script/ad.js
+||dajiadu8.com/17mb/script/ad*.js
 ||dajiahao10.top^
 ||dajiahao17.top^
 ||dajiahao8.top^
@@ -6640,6 +6646,7 @@
 ||dpic.wxddid.cn^$third-party
 ||dpijohb.icu^
 ||dpj0uvy.icu^
+||dpjzr.top^
 ||dporn.com/edraovnjqohv/
 ||dporn.com/tpnxa/
 ||dpweupc.icu^
@@ -7513,6 +7520,7 @@
 ||fiksu.com^
 ||fiktvlnc.icu^
 ||files.jb51.net/image/
+||files.xtpag.top^
 ||files.zmzjstu.com/g3^
 ||fillhr.xyz^
 ||fillidutt.tw^
@@ -8960,6 +8968,7 @@
 ||houyi.baofeng.net^*.html
 ||hov15.icu^
 ||hoxdotye.icu^
+||hp8g6.icu^
 ||hpcwwd.com^
 ||hpgmkbt.icu^
 ||hphvd.cn^
@@ -9415,8 +9424,10 @@
 ||img*.win007.com/image/*.gif
 ||img.*.com/images/*.gif$domain=czzy01.com
 ||img.0279.net^
+||img.175532.com^
 ||img.263y.com^
 ||img.3sjt.com^
+||img.911787.com^
 ||img.eol.cn/images/ed/$~image
 ||img.eprice.com.tw/img/dis/file/*-f.html
 ||img.ferlie.net^
@@ -9429,6 +9440,7 @@
 ||img.lancdn.com/*-top-banner-
 ||img.mengzhan28.top^$third-party
 ||img.mikudm.net/img01/MP3/GG/20240415_CPS_960X75_general.gif
+||img.qxwoiv.com^
 ||img.scupio.com$domain=briian.com
 ||img.scupio.com/js/ad.js
 ||img.sex169.info^*.gif
@@ -10579,6 +10591,7 @@
 ||kmmgoogle.oss-ap-southeast-1.aliyuncs.com^
 ||kmnhgna.com^
 ||kmplayer.cn/include/jscript/*-a.js
+||kmqianneng66.com^
 ||kmr.rsvqlz.cn^
 ||kmr.vcunkbo.cn^
 ||kmr.wdjptto.cn^
@@ -12226,6 +12239,8 @@
 ||n3567.com^
 ||n4403ad.doubleclick.net^
 ||n522rv1.cn^
+||n55cpw.vip^
+||n55ylc001.vip^
 ||n5725.com^
 ||n5n5s.icu^
 ||n6579.com^
@@ -14035,6 +14050,7 @@
 ||qxakzox.cn^
 ||qxrvmu.com^
 ||qxvp6.site^
+||qxwoiv.com^
 ||qxzlmzt.xyz^
 ||qy0.ru/data/game/
 ||qy1.ru/data/game/
@@ -16386,12 +16402,14 @@
 ||ttzzz44.com^$~third-party
 ||tu.7j813.cn^$third-party
 ||tu.zx110.org^
+||tu0379199038.cc^
 ||tu1500919341.cc^
 ||tu2.taohuaimg.com^$third-party
 ||tu2024020388.com^
 ||tu3168509469.cc^
 ||tu3921276844.cc^
 ||tu4038097360.cc^
+||tu5551976196.cc^
 ||tu6767109513.cc^
 ||tubemogul.com^
 ||tubepornanal.com/js/oagge.js
@@ -18090,6 +18108,7 @@
 ||xpffkbpq.xyz^
 ||xphcrjth.xyz^
 ||xpj08.oss-cn-beijing.aliyuncs.com^
+||xpjcg.oss-accelerate.aliyuncs.com^
 ||xpkxahje.xyz^
 ||xplme.xyz^
 ||xporn.in^
@@ -27831,6 +27850,7 @@ zle.com$script
 ##header + #main:nth-child(n+4) .container-fluid.mb-0.p-0
 ##header + #main:nth-child(n+4) .container-fluid.mb-3.p-0
 ##header + #main:nth-child(n+4) > div[id^="po-s"]:not(#po-shd)
+##header + main > div[class$=" block"][id="rd0"][data-v-app]
 ##hl-adsense
 ##iframe.ad-frame
 ##iframe[data-src*="//a.magsrv.com/"]
