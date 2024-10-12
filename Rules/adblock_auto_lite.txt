@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 5tPOEAIwTM10eGBuU8JDrQ
+! Checksum: dKO5XKEIo7riIODWsyl8JA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241012002900
+! Version: 20241012094317
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-12 00:29:00
-! Total Count: 29263
+! Last modified: 2024-10-12 09:43:17
+! Total Count: 29268
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -12186,6 +12186,7 @@
 ||mypornhere.com/player/html.php?aid=*_html&video_id=*&*&referer
 ||myqcloud.com/ad/
 ||myqcloud.com/wp-content/uploads/huoxingyun.
+||myqmgm.xyz^
 ||myreadcloud.com^
 ||myretux.top^
 ||mysexbossy.com/scripts/$script,important
@@ -14364,6 +14365,7 @@
 ||rnkzhsi.cn^
 ||rnpkxgfp.xyz^
 ||rntdqwc.xyz^
+||rnwenpn.icu^
 ||rnzmynh.cn^
 ||robudpw.cn^
 ||robustbelieve.com^$third-party
@@ -14623,6 +14625,7 @@
 ||sbhduht.xyz^
 ||sbiloi.xyz^
 ||sbo8.com/static/theme/js/bottom.
+||sbovgy.xyz^
 ||sbpb1.chuiyue.com^
 ||sbpb1.qulishi.com^
 ||sc-gov-cn.website^
@@ -14924,6 +14927,7 @@
 ||sglahyea.xyz^
 ||sgoijw.com^$third-party
 ||sgru.cn^
+||sgsosi.xyz^
 ||sgwsss.xyz^
 ||sgzhg.pornlovo.co^
 ||sh.sina.com.cn/iframe/522/
@@ -17154,6 +17158,7 @@
 ||vixajghi.xyz^
 ||vizhtd.xyz^
 ||vj1p.xyz^
+||vjharl.xyz^
 ||vjhjxh.xyz^
 ||vjie.com^$third-party
 ||vjnxpj.xyz^
