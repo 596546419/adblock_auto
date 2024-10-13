@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: FJxB08sH2iBGpxtkPg2Bqw
+! Checksum: TuC3joi1IAFyw/Tav0RMWg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241013002819
+! Version: 20241013095205
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-13 00:28:19
-! Total Count: 29271
+! Last modified: 2024-10-13 09:52:05
+! Total Count: 29277
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7208,6 +7208,7 @@
 ||eslbahw.top^
 ||esnysd.icu^
 ||esqhsm.xyz^
+||esqzwq.xyz^
 ||estixfl.cn^
 ||esyliew.top^
 ||esyook.xyz^
@@ -8449,6 +8450,7 @@
 ||gxihcq.xyz^
 ||gxjajt.com^
 ||gxnews.com.cn/clientscript/index_duilian_
+||gxoaku.xyz^
 ||gxqzz.7766.org^
 ||gxx4t.online^
 ||gxxie.com^
@@ -10579,6 +10581,7 @@
 ||klfbnklddfbkn.com^
 ||kljslku.com^
 ||klkk66.fun^
+||klmohbk.icu^
 ||kloojzn.icu^
 ||klsnckalualkcn.com^
 ||kltmjevd.xyz^
@@ -10900,6 +10903,7 @@
 ||lblwhh.xyz^
 ||lbnqnp.xyz^
 ||lbprjdi.cn^
+||lbqdaua.icu^
 ||lbx777.*/css/300.js
 ||lbx777.*/css/lbxgg02
 ||lc442.com^
@@ -11544,6 +11548,7 @@
 ||mamecn.com/style/pcjs/bgimg.
 ||mamibai.com/img/contents/
 ||mamibuy.com.tw/Ad/Period.aspx
+||mamjkg.xyz^
 ||manage.com^
 ||manage.wdfans.cn^
 ||manai521.com:88/bocai/index.html
@@ -17263,6 +17268,7 @@
 ||vsx.hotpornfile.org^
 ||vszzzj.xyz^
 ||vtbfgnf00.fun^
+||vtjbnb.xyz^
 ||vtlyrj.xyz^
 ||vtnmxx.xyz^
 ||vttqld.xyz^
