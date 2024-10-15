@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: j82XGNr7y8T++I4Vtprm6Q
+! Checksum: kbIpCXwuIJ7/wYyZ70rKKg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241015094743
+! Version: 20241015163028
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-15 09:47:43
-! Total Count: 29299
+! Last modified: 2024-10-15 16:30:28
+! Total Count: 29304
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1921,6 +1921,7 @@
 ||adb.xfilm.me^
 ||adb7rtb.com^
 ||adballoon.afreecatv.com^
+||adballoon.sooplive.co.kr^
 ||adbard.net^$third-party
 ||adbasket.net^$third-party
 ||adbd.liuxue86.com^
@@ -6237,6 +6238,7 @@
 ||deansent.top^
 ||deanth.xyz^
 ||deapi.afreecatv.com^
+||deapi.sooplive.co.kr^
 ||debonairdust.com^$third-party
 ||debonairtree.com^$third-party
 ||debonairway.com^$third-party
@@ -9101,6 +9103,7 @@
 ||huoyan.tv/yb/img/*.gif
 ||hupu.com^*/stream.js
 ||hur.cn/AhurD/*.gif
+||huresdu.top^
 ||hurtgrape.com^$third-party
 ||hurtteeth.com^$third-party
 ||huryds.top^
@@ -14260,6 +14263,7 @@
 ||representativebat.com^$third-party
 ||repulsiverequest.com^$third-party
 ||reqde.afreecatv.com^
+||reqde.sooplive.co.kr^
 ||requirejs.cn/ts.png
 ||reqwevf3.fun^
 ||reryt111.fun^
@@ -15339,6 +15343,7 @@
 ||sooopu.com/asphtml/plnew.
 ||sooopu.com/js/*950.js
 ||sooopu.com/js/contentad330.js
+||sooplive.co.kr/data/af_app_ad_mobile.js
 ||soorbka.cn^$third-party
 ||sootheside.com^$third-party
 ||soothingglade.com^$third-party
