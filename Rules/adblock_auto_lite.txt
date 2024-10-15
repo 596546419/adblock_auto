@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: kbIpCXwuIJ7/wYyZ70rKKg
+! Checksum: ptvRw3uMFpYYR4RzA+W65A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241015163028
+! Version: 20241016002950
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-15 16:30:28
-! Total Count: 29304
+! Last modified: 2024-10-16 00:29:50
+! Total Count: 29307
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -525,6 +525,7 @@
 ||2pmob.com^
 ||2pwja.cn^
 ||2qy9zm.cn^
+||2rbda.icu^
 ||2s8s.com^
 ||2tyne.ic^
 ||2tyne.icu^
@@ -2572,7 +2573,7 @@
 ||adrsp.net^$third-party
 ||adrunnr.com^
 ||adrunnr.com^$popup
-||ads*-normal-hl.zijieapi.com^
+||ads*-normal-*.zijieapi.com^
 ||ads*-normal-lq.zijieapi.com^
 ||ads*.bojijulebu.com^
 ||ads*.depositfiles.com^
@@ -5260,6 +5261,7 @@
 ||cdn.wenzhangba.cn^
 ||cdn.wo.cc/wo.js
 ||cdn.wuyou.ca^
+||cdn.xiuting.cc/js/go016.js
 ||cdn141.com/banner/adcards.
 ||cdn2.auditude.com^
 ||cdn3.cartoonporn.to^
@@ -9764,6 +9766,7 @@
 ||iuou.ysw365.com^
 ||iupian.com/mstyle/js/topinfo.js
 ||iuqasw.xyz^
+||iuresdo.top^
 ||iuu3j.xyz^
 ||iuuwuk.xyz^
 ||iuvssgh.cn^
