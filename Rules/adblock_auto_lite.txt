@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: rqmyb0MlXRMutrkLkegXHg
+! Checksum: j82XGNr7y8T++I4Vtprm6Q
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241015002907
+! Version: 20241015094743
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-15 00:29:07
-! Total Count: 29288
+! Last modified: 2024-10-15 09:47:43
+! Total Count: 29299
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -727,6 +727,7 @@
 ||48dreams.com/player/adstype/advmaker.php
 ||4asfgyx.com^
 ||4bds.xyz^
+||4bfx0u.com^
 ||4btbtt.com/slade.js
 ||4cjh.xyz^
 ||4gamer.net/css/pr/SP_topjack.css
@@ -5219,6 +5220,7 @@
 ||cdmgac.xyz^
 ||cdmjur.xyz^
 ||cdmnlxtu.xyz^
+||cdmyeg.xyz^
 ||cdn*-sites.porntube.com/tb/banner/
 ||cdn-99-pic.cc^
 ||cdn-ad.wtzw.com^
@@ -5934,6 +5936,7 @@
 ||cupfox.app^$third-party
 ||cupid.iqiyi.com/mixer?
 ||cupid.iqiyi.com/show2?
+||curesdf.top^
 ||curiouschalk.com^$third-party
 ||curlycannon.com^$third-party
 ||currentcollar.com^$third-party
@@ -7248,6 +7251,7 @@
 ||everyonepiano.cn/Public/*0x
 ||evgaow.xyz^
 ||evidhjksdtgyxrh.xyz^
+||evkzqs.xyz^
 ||evscnfj.cn^
 ||evunmc.xyz^
 ||ewahj.cyou^
@@ -9130,6 +9134,7 @@
 ||hwuogmusthxfpk.xyz^
 ||hwurseru.top^
 ||hwvwxerw.xyz^
+||hwymoyv.icu^
 ||hx1.tubepornbase.com^
 ||hxbt.alading123.com^
 ||hxdqsvw.cn^
@@ -10810,6 +10815,7 @@
 ||kytbxcl.cn^
 ||kyuwkbd.top^
 ||kyuxym.xyz^
+||kyyfsw.xyz^
 ||kzaawga.icu^
 ||kzcayec.icu^
 ||kzelzfnj.xyz^
@@ -11191,6 +11197,7 @@
 ||lnifdlal.top^
 ||lniwe.xyz^
 ||lnlkmr.xyz^
+||lnnahh.xyz^
 ||lnnjnv.xyz^
 ||lnnsvj.xyz^
 ||lnpqqq.com^
@@ -11862,6 +11869,7 @@
 ||mm.shazi8.com/mg^
 ||mm.wxc.cc^
 ||mm111.net/api.php?mod=ad&
+||mm1qj.icu^
 ||mm387.com/images/*.gif
 ||mm786.com^$popup,third-party
 ||mm7920.com:8888/upload/*.gif
@@ -13767,10 +13775,12 @@
 ||qdtjjxr.xyz^
 ||qdtzbbh.xyz^
 ||qdzyspjx.com^
+||qebgcdcjr000.fun^
 ||qedgcxi.cn^
 ||qeedaa.xyz^
 ||qeeocy.xyz^
 ||qejjhnq.cn^
+||qekgcdcjr000.fun^
 ||qeogcdcjr000.fun^
 ||qerbert78.xyz^
 ||qeryt111.fun^
@@ -17437,6 +17447,7 @@
 ||wcdc5.com^
 ||wckkl.online^
 ||wclsylk.cn^
+||wcsmvmf.icu^
 ||wcv68kw.com^
 ||wd.adcolony.xyz^
 ||wdadad.cn^
