@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ptvRw3uMFpYYR4RzA+W65A
+! Checksum: i7F/jvUDSRqdBGKSXLXmrg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241016002950
+! Version: 20241016094824
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-16 00:29:50
-! Total Count: 29307
+! Last modified: 2024-10-16 09:48:24
+! Total Count: 29317
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6472,6 +6472,7 @@
 ||dkcwnsu.xyz^
 ||dkhffh.xyz^
 ||dkstrtss.xyz^
+||dktad.com^
 ||dkvakldvnsv.com^
 ||dkyd6.xyz^
 ||dl.4kporn.xxx^
@@ -7202,6 +7203,7 @@
 ||eroioshiri.blogterest.net/regular/$subdocument
 ||eromanga-castle.com/famsiro1.html
 ||eromanga-musou.com/fammusou1.html
+||erqtga.xyz^
 ||erraticreaction.com^$third-party
 ||ersjnpwf837.shop^
 ||ertgbme.com^
@@ -11365,6 +11367,7 @@
 ||lxapk.com/wp-content/uploads/*.gif
 ||lxbd2.com^$domain=9xav.cc
 ||lxbndh.xyz^
+||lxpbdp.xyz^
 ||lxqcgj.com^
 ||lxryhx.xyz^
 ||lxting.com^
@@ -12793,6 +12796,7 @@
 ||opida.xyz^
 ||opikervop.xyz^
 ||opinionsurprise.com^$third-party
+||opkmio.xyz^
 ||oppnfev.xyz^
 ||oppositeoperation.com^$third-party
 ||oppositeparcel.com^$third-party
@@ -13685,6 +13689,7 @@
 ||pv4b.com^$popup
 ||pv966.us/js/tw.js
 ||pvhjkzo.xyz^
+||pviasld.icu^
 ||pvlnjwr.xyz^
 ||pvnzrr.xyz^
 ||pvpdbth.xyz^
@@ -14015,6 +14020,7 @@
 ||qtmojo.com^$third-party
 ||qtoidch.icu^
 ||qtq632.com^
+||qtroytj33.fun^
 ||qtyusiy.top^
 ||qu96.com^
 ||quacksquirrel.com^$third-party
@@ -17617,6 +17623,7 @@
 ||wjoxqd.com^
 ||wjtij.top^
 ||wjwod.cyou^
+||wkabios.icu^
 ||wkitere.top^
 ||wkjyxcheng.top^
 ||wkrcbszi.xyz^
@@ -29282,6 +29289,9 @@ dbz-fantasy.com#@##adTeaser
 dealerdunet.fr#@#.text_ads
 debrideurstream.fr#@##pubdirecte
 dz-android.com,freeiphone.fr,hommedumatch.fr,jetetroll.com,polska-ie.com,testious.com#@##adsense
+e.mail.ru,octavius.mail.ru#@##app-canvas .layout__overflow-container > .advert-column
+e.mail.ru,octavius.mail.ru#@##app-canvas .layout__overflow-container > .slot
+e.mail.ru,octavius.mail.ru#@#.letter-list-item-adv
 fairytailmx.com#@##sponsored-ad
 forum.virtualdjing.com#@#.adFrame
 fstore.biz#@##adblockinfo
