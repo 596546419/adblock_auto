@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: oODSABAJVawtPrZ3Sz72zg
+! Checksum: ntEBSKiQDpsdxbyAyXqtpg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241017004345
+! Version: 20241017094635
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-17 00:43:45
-! Total Count: 29321
+! Last modified: 2024-10-17 09:46:35
+! Total Count: 29327
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1593,6 +1593,7 @@
 ||abdluv.xyz^
 ||abds.pingpingw.com^
 ||abe1.cn^
+||abixkw.xyz^
 ||abjalrq.cn^
 ||abjectattempt.com^$third-party
 ||ablsrv.com^
@@ -5339,6 +5340,7 @@
 ||cg-pao-tu.nanyanglk.com^
 ||cgbswl.icu^
 ||cgczuu.xyz^
+||cggyyi.xyz^
 ||cgidskif.top^
 ||cgovyjnmdtauwdhek.com^
 ||cgqmss.xyz^
@@ -7236,6 +7238,7 @@
 ||etkht.cn^
 ||etl.tindersparks.com^
 ||etnet.com.hk/ad/
+||etroytj33.fun^
 ||ettoday.net/ad/*_action.js
 ||ettoday.net/banners/
 ||ettoday.net/events/ad-tab/
@@ -9629,6 +9632,7 @@
 ||ios.426g.com^
 ||iossdok.com^
 ||ioswhi.com^
+||ioykmxa.icu^
 ||ip.sb/assets/images/*_ads.
 ||ip138.com/banana/
 ||ip138.com/banner/
@@ -13783,6 +13787,7 @@
 ||qdipsumy.top^
 ||qdiwbhjpo.com^
 ||qdjimo.com/html/js/
+||qdoeki.xyz^
 ||qdoshby.top^
 ||qdross.com/vip/
 ||qdtjjxr.xyz^
@@ -16126,6 +16131,7 @@
 ||threrlak.com^
 ||throattrees.com^$third-party
 ||thruudrad.com^
+||thrzbf.xyz^
 ||thumbor.4gamers.com.tw/*/*ads-media*.png
 ||thumbor.prod.vidiocdn.com/*/uploads/section/background_image/*/rejoice-vidio-drakor-gratis-*.jpg
 ||thunderingrose.com^$third-party
