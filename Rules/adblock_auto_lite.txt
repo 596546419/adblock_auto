@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Gpu/gUhelxHnbpYZpNUUIQ
+! Checksum: eJK93m7C3RmKQRzDcU2bZQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241017163024
+! Version: 20241018003053
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-17 16:30:24
-! Total Count: 29328
+! Last modified: 2024-10-18 00:30:53
+! Total Count: 29335
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -373,6 +373,7 @@
 ||1dcbzuv.com^
 ||1f84e33459.com^
 ||1fzjy.xyz^
+||1iohncj.xyz^
 ||1iuybpo.com^
 ||1jc5t.xyz^
 ||1k2l3m4n5o.com^
@@ -7250,6 +7251,7 @@
 ||eu-ad.sam4m.com^
 ||euadsapi.manhuaren.com^
 ||euosicjxjv.com^
+||euresdw.top^
 ||evanescentedge.com^$third-party
 ||evb0gxo.icu^
 ||evbrkhz.xyz^
@@ -14495,6 +14497,7 @@
 ||rtjmln.xyz^
 ||rtmark.net^
 ||rtnuld.xyz^
+||rtroytj33.fun^
 ||rtsdfw44.com^
 ||rttnvz.xyz^
 ||rtumdhdk.xyz^
@@ -16066,6 +16069,7 @@
 ||tg.xkcxh.com^$third-party
 ||tg0qu.top^
 ||tgamtip.icu^
+||tgb1l.icu^
 ||tgbevv.xyz^
 ||tgccct.icu^
 ||tgcfmh.com^
@@ -18167,6 +18171,8 @@
 ||xpdronhu.xyz^
 ||xpffkbpq.xyz^
 ||xphcrjth.xyz^
+||xpicj6.cc^
+||xpicj8.cc^
 ||xpj08.oss-cn-beijing.aliyuncs.com^
 ||xpjcg.oss-accelerate.aliyuncs.com^
 ||xpkxahje.xyz^
@@ -27452,6 +27458,7 @@ zle.com$script
 ##a[href*="/sm033v.tv"]
 ##a[href*="/sm27z.net"]
 ##a[href*="/smch7.com"]
+##a[href*="/souv5.com/"]
 ##a[href*="/st66st.cc"]
 ##a[href*="/tg.602.com/"]
 ##a[href*="/ty523.com/"]
