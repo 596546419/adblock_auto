@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: IOVAlH/WpS0HI4PbBBHX2A
+! Checksum: rL6HtRQjG0/YHgY+GjEXJA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241018162957
+! Version: 20241019002927
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-18 16:29:57
-! Total Count: 29344
+! Last modified: 2024-10-19 00:29:27
+! Total Count: 29353
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1405,12 +1405,14 @@
 ||9zvip.net/hi5asd/
 ||a*.chajiaotong.com^
 ||a-ads.com^$third-party,empty,important
+||a.07aa269c0e76550c929640c170af557c7371753ba1b580236d7fa0a4.com^
 ||a.10tianqi.com^
 ||a.123porner.net^
 ||a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com^
 ||a.4aqq.com^
 ||a.52wubi.com^
 ||a.52zxw.com^
+||a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com^
 ||a.777n.com^
 ||a.78yx.net^
 ||a.91nets.cn^
@@ -4645,6 +4647,7 @@
 ||black6adv.com^
 ||blasedustin.shop^
 ||blciqbk.icu^
+||bld.mobi^
 ||bleachmx.fr/wp-content/plugins/yeptmixnsykgrb/bjns-fcknj.js
 ||blesspizzas.com^$third-party
 ||bleumzr.icu^
@@ -11168,6 +11171,7 @@
 ||ljnrjt.xyz^
 ||ljpbtjq.xyz^
 ||ljte0.com^
+||ljvc0.icu^
 ||ljzcawea.icu^
 ||lk.4jzl.cn^$third-party
 ||lkdhlp.xyz^
@@ -11753,6 +11757,8 @@
 ||merwds.qwuidbn.com^$third-party
 ||meryt111.fun^
 ||merywf.xyz^
+||mesh.if.iqiyi.com/portal/lw/search/$removeparam=ad
+||mesh.if.iqiyi.com/portal/lw/search/$removeparam=adExt
 ||messagenovice.com^$third-party
 ||messyoranges.com^$third-party
 ||mestrip.com/widgets/
@@ -12969,7 +12975,7 @@
 ||pa4ye.cyou^
 ||pacix.xyz^
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$redirect=googlesyndication.com/adsbygoogle.js,domain=youneed.win,xmlhttprequest,script
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=googlesyndication.com/adsbygoogle.js,domain=nazology.kusuguru.co.jp|nijimen.net|xiebruce.top
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=googlesyndication.com/adsbygoogle.js,domain=nazology.kusuguru.co.jp|nijimen.kusuguru.co.jp|xiebruce.top
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noop.js,domain=linovelib.com,important
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noop.js,domain=yodu.org
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,redirect=googlesyndication.com/adsbygoogle.js,important,domain=haoweichi.com
@@ -14064,6 +14070,7 @@
 ||qunaw.cyou^
 ||qunlove.com^*.gif
 ||quqtone.cn^
+||quresdy.top^
 ||qusfybj.cn^
 ||qusrow.xyz^
 ||quwkke.xyz^
@@ -17868,6 +17875,7 @@
 ||x.yaohuo.me^
 ||x08jd.top^
 ||x0or8.icu^
+||x0y081e.xyz^
 ||x1.52aoteman.com^
 ||x1.kantu.com^
 ||x1fyw.icu^
@@ -18694,6 +18702,7 @@
 ||ytlcz.cn^
 ||ytoeyxz.icu^
 ||ytqeavc.icu^
+||ytroytj33.fun^
 ||ytse*.top/Static/Home/GongGao/img/
 ||ytvrtrya.xyz^
 ||yu.dlxxjsh.top^
