@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: eJK93m7C3RmKQRzDcU2bZQ
+! Checksum: KzMbiWKxexP3SvnAbMO0rA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241018003053
+! Version: 20241018094657
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-18 00:30:53
-! Total Count: 29335
+! Last modified: 2024-10-18 09:46:57
+! Total Count: 29342
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1031,6 +1031,7 @@
 ||6park.com/parks/$script
 ||6park.com^$subdocument,badfilter
 ||6pznpz.com^
+||6qyxeob.xyz^
 ||6slb0.cyou^
 ||6tj.com/ent/fkbg/20191220/a46326c6a57fc066a6d985ceabdc42f6.jpg
 ||6v4.cn^$third-party
@@ -4680,6 +4681,7 @@
 ||bmjs.xzw.com^
 ||bmjvrf.xyz^
 ||bmnbyn.icu^
+||bmougwx.icu^
 ||bmp.ali213.net/js/
 ||bmp.ovh/imgs/2020/09/3e4e11ecc19c4bd6.png
 ||bmp1.ali213.net/js/
@@ -10090,6 +10092,7 @@
 ||jmesxbe.icu^
 ||jmhfw.com/index.php?/ajax/get_adv/
 ||jmhngn.com^
+||jmipzsn.icu^
 ||jmpnrh.xyz^
 ||jmty.jp/s/geniee/
 ||jmvvpb.xyz^
@@ -10687,6 +10690,7 @@
 ||kpic.pbaiyho.cn^$third-party
 ||kpm.jhzpgw.com^
 ||kpmose.xyz^
+||kpmsoq.xyz^
 ||kppt.cc/zb_system/script/common.js
 ||kppt.cc/zhifu.jpg
 ||kpqdkg.xyz^
@@ -11541,6 +11545,7 @@
 ||magedu.com/wp-content/uploads/*/xwzx
 ||magicaljoin.com^$third-party
 ||magiczenith.com^$third-party
+||magioe.xyz^
 ||magnetairport.com^$third-party
 ||magnetdog.net^$popup
 ||magnificentmeasure.com^$third-party
@@ -12859,6 +12864,7 @@
 ||oss-cn-shanghai.aliyuncs.com/feimobileA.js
 ||ossfile001.com^
 ||ostjpig.cn^
+||osujcq.xyz^
 ||osusjsga.com^
 ||oswowg.xyz^
 ||osyliek.top^
@@ -16440,6 +16446,7 @@
 ||ttienli.top^
 ||ttnwxhjv.xyz^
 ||ttpybz.xyz^
+||ttroytj33.fun^
 ||ttrruq749.shop^
 ||tttppp.oss-cn-guangzhou.aliyuncs.com^
 ||tttxx.cn^$third-party
