@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: rL6HtRQjG0/YHgY+GjEXJA
+! Checksum: rHv6nHBfkIpAQTJSTuqWQg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241019002927
+! Version: 20241019094457
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-19 00:29:27
-! Total Count: 29353
+! Last modified: 2024-10-19 09:44:57
+! Total Count: 29360
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3304,6 +3304,7 @@
 ||aeletheacd.com^
 ||aerbgpn.xyz^
 ||aeryt111.fun^
+||aesxgy.xyz^
 ||aeucyo.xyz^
 ||aeyyck.xyz^
 ||af29.com/banner/
@@ -4775,6 +4776,7 @@
 ||boundarybusiness.com^$third-party
 ||boundlessveil.com^$third-party
 ||bovhzz.xyz^
+||bovytl.xyz^
 ||bowoprf.icu^
 ||bowvses.icu^
 ||boxwcr.icu^
@@ -5383,6 +5385,7 @@
 ||chazidian.com/mobile_general_
 ||chbheroq.xyz^
 ||chdbits.co/pic/*-*.gif
+||checbox.cc^
 ||cheda1.icu^
 ||cheda10.icu^
 ||cheda2.icu^
@@ -9055,6 +9058,7 @@
 ||hthivr.xyz^
 ||hthvc.icu^
 ||htienlu.top^
+||htoetgk.icu^
 ||htqyy.com/kiees/
 ||htrurb.xyz^
 ||htseca.top^
@@ -16747,6 +16751,7 @@
 ||uetlwst.top^
 ||ueumdkc.cn^
 ||uewrutt.top^
+||ufiidvv.icu^
 ||ufile.cc/crod.js
 ||ufile.cc/pps.js
 ||ufjslit.top^
@@ -17477,6 +17482,7 @@
 ||wbaj.cn^
 ||wbgafrr.icu^
 ||wbkaqly.cn^
+||wbkdsg.xyz^
 ||wbnbocz.xyz^
 ||wbnhqq.com^
 ||wbnlwyj.xyz^
@@ -18589,6 +18595,7 @@
 ||ymcdn.ymtrack6.co/offer_single_files/
 ||ymcnsq.xyz^
 ||ymdxl.com^
+||ymewsu.xyz^
 ||ymhyw6.lol^
 ||ymmiyun.com^
 ||ymniqh.icu^
