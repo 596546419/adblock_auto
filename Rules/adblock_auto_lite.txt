@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: rHv6nHBfkIpAQTJSTuqWQg
+! Checksum: edSDwtz8dD74TuU7o+dZeA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241019094457
+! Version: 20241019162819
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-19 09:44:57
-! Total Count: 29360
+! Last modified: 2024-10-19 16:28:19
+! Total Count: 29362
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -79,6 +79,7 @@
 ||0941.org^
 ||0a2b3c4d5e.com^
 ||0efghij.com^
+||0er7pc8.xyz^
 ||0ghijkl.com^
 ||0h3uds.com^
 ||0hlc8.top^
@@ -16521,6 +16522,7 @@
 ||tuplzt.xyz^
 ||tupwiwm.com^
 ||tuqnwz.icu^
+||turesdi.top^
 ||turifb.xyz^
 ||turn.com^
 ||turner.com/xslo/cvp/ads/$domain=cnn.com

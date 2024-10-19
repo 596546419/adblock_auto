@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Py+SuOXo5cAPNcEDvlCLcw
+! Checksum: 7U06PnNkSgfXdZYg2S0usg
 ! Title: 混合规则(自动更新)
-! Version: 20241019094446
+! Version: 20241019162807
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-19 09:44:46
-! Total Count: 152711
+! Last modified: 2024-10-19 16:28:07
+! Total Count: 152713
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -284,6 +284,7 @@
 ||0eijh8996i.com^
 ||0emm.com^
 ||0emn.com^
+||0er7pc8.xyz^
 ||0f461325bf56c3e1b9.com^
 ||0f4l.xyz^
 ||0fb.co^
@@ -83614,6 +83615,7 @@
 ||turdauch.xyz^
 ||turdsarnatta.com^
 ||turdwwakrh.com^
+||turesdi.top^
 ||tureukworektob.info^
 ||turfedtaboret.com^
 ||turfinggneiss.com^
