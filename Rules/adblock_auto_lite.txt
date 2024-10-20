@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: oBdBRt/6lnfilkQB6kPhiQ
+! Checksum: 7GcF1RMoYTKxWbFqqbWd7A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241020095418
+! Version: 20241020163007
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-20 09:54:18
-! Total Count: 29370
+! Last modified: 2024-10-20 16:30:07
+! Total Count: 29373
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3930,6 +3930,7 @@
 ||ato.tooopen.com^
 ||ato.tooopen.com^$third-party
 ||atool.org/res/ads/
+||atorks.xyz^
 ||att.ydss.cn/attachments/portal/
 ||attendancereporterwren.com^$document
 ||attendancereporterwren.com^$~third-party
@@ -12896,6 +12897,7 @@
 ||oueia.xyz^
 ||oumnxiek.top^
 ||ouplc.icu^
+||ouresdk.top^
 ||oursexasperationwatchful.com^
 ||ourusababy.com/bsj.js
 ||outbrain.com^$domain=wenxuecity.com
@@ -15818,6 +15820,7 @@
 ||synthes.vo.llnwd.net^
 ||synthesizespoon.com^$third-party
 ||syseen.com/content/uploadfile/*/hongbao.png
+||syshwc.xyz^
 ||sysin.org/img/promotion-
 ||systemizecoat.com^$third-party
 ||syuwkbb.top^
