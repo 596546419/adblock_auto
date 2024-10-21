@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: A+9P7HP8hXIkOoEZzAP8Yw
+! Checksum: MXyz1rboGaIpgaoB8RcOSA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241021002744
+! Version: 20241021094925
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-21 00:27:44
-! Total Count: 29375
+! Last modified: 2024-10-21 09:49:25
+! Total Count: 29382
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8325,6 +8325,7 @@
 ||gpiagk.xyz^
 ||gpmzkg.xyz^
 ||gposrzz.cn^
+||gpowow.xyz^
 ||gpqicw.xyz^
 ||gpqid.xyz^
 ||gpqkeq.xyz^
@@ -8470,6 +8471,7 @@
 ||gwdobvs.cn^
 ||gwide.xyz^
 ||gwivqo.xyz^
+||gwogrgq.icu^
 ||gwrpceo.cn^
 ||gwrtdp-tn690BFAdt.tclclouds.com^
 ||gxcdgm.xyz^
@@ -10067,6 +10069,7 @@
 ||jixmlx.xyz^
 ||jiyan.net^
 ||jiyingdm.com/js/loadingshow.html
+||jizxnr.xyz^
 ||jjade.xyz^
 ||jjdk33.com^
 ||jjfopb.xyz^
@@ -10888,6 +10891,7 @@
 ||laixi.com/tp/20
 ||lajevt.xyz^
 ||lalabaos1020.top^
+||lalabaos1021.top^
 ||laljjn.xyz^
 ||lamao.life^$document
 ||lamao.life^$~third-party
@@ -12104,6 +12108,7 @@
 ||msfd8mty4nzux.fua*.cc^$~third-party
 ||msg.ettoday.net^
 ||msiogo.xyz^
+||msmcoa.xyz^
 ||msqdqq.com^
 ||mssdkrt.xyz^
 ||msstatic.com/huya/main/img/mc-recom_
@@ -16831,6 +16836,7 @@
 ||umphek.com^
 ||umrstfl.cn^
 ||umtpopxcsedc.cdnvideo*.com$third-party
+||umwcyw.xyz^
 ||un.salangane.asia^
 ||un.ubaike.cn^
 ||un1.lawyernet.cn^
@@ -17003,6 +17009,7 @@
 ||uvekyvs.icu^
 ||uvklgw.xyz^
 ||uvpqrydt.xyz^
+||uvwnkmf.icu^
 ||uvyuqzx.cn^
 ||uwandlt.top^
 ||uwants.com/dfp_forum.php?au=Uwants_Web_
