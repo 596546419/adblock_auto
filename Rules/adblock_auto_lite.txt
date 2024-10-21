@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: MXyz1rboGaIpgaoB8RcOSA
+! Checksum: WQYQCR0htFKqgvLp2Du/uQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241021094925
+! Version: 20241021163107
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-21 09:49:25
-! Total Count: 29382
+! Last modified: 2024-10-21 16:31:07
+! Total Count: 29386
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4913,6 +4913,7 @@
 ||buondua.us/temp*_/temp*_.js$script
 ||bupidt.xyz^
 ||buqajvxicma.com^
+||buresdv.top^
 ||burgerbrush.com^$third-party
 ||burlywhistle.com^$third-party
 ||burnbubble.com^$third-party
@@ -7318,6 +7319,7 @@
 ||exponential.com^
 ||expreview.com/baba/
 ||exquisiteartisanship.com^$third-party
+||exqvak.xyz^
 ||exrtbsrv.com^
 ||external-ad.bunjang.co.kr^
 ||external-api.impression-neo.naver.com^
@@ -14222,6 +14224,7 @@
 ||rbrmhz.xyz^
 ||rbrv9.cn^
 ||rbsodzgoy.xyz^
+||rbsr0.icu^
 ||rbvi.top^
 ||rc.ie13.com^
 ||rcblfd.xyz^
@@ -16098,6 +16101,7 @@
 ||tfrwxv.xyz^
 ||tftran.shop^
 ||tfttbd.xyz^
+||tfzah.icu^
 ||tfzozf.xyz^
 ||tg.s4te24u.com^
 ||tg.wmqfey.com^$third-party
