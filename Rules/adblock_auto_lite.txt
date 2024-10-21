@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: WQYQCR0htFKqgvLp2Du/uQ
+! Checksum: ZvnaKVOvf1lHQ/lY46m7wg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241021163107
+! Version: 20241022002857
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-21 16:31:07
-! Total Count: 29386
+! Last modified: 2024-10-22 00:28:57
+! Total Count: 29390
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -733,6 +733,7 @@
 ||4bfx0u.com^
 ||4btbtt.com/slade.js
 ||4cjh.xyz^
+||4fs3r.icu^
 ||4gamer.net/css/pr/SP_topjack.css
 ||4gamers.com.tw/ads-
 ||4gamers.com.tw/site/api/aols/media?
@@ -9478,6 +9479,7 @@
 ||img.indiansexxxtube.com:8080/graphics/igfv.jpg
 ||img.jygdb.com^$script,third-party
 ||img.lancdn.com/*-top-banner-
+||img.mbalib.com/common/servicesPicture/prom.js
 ||img.mengzhan28.top^$third-party
 ||img.mikudm.net/img01/MP3/GG/20240415_CPS_960X75_general.gif
 ||img.qxwoiv.com^
@@ -12155,6 +12157,7 @@
 ||muntswe58.shop^
 ||muoizbtl.xyz^
 ||murdyq.com^
+||muresdx.top^
 ||murkymeeting.com^$third-party
 ||musdga.xyz^
 ||muteknife.com^$third-party
@@ -12782,6 +12785,7 @@
 ||omniscientfeeling.com^$third-party
 ||omniscientspark.com^$third-party
 ||omzxutfm.com^
+||on5ga.icu^
 ||onagsc.xyz^
 ||onalzlk.top^
 ||oncgqzu.cn^
