@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 0s86PDkgYbJqtj5+6944Wg
+! Checksum: uDvr8HlCZF6Fp4WPIXiIaw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241022094802
+! Version: 20241022163030
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-22 09:48:02
-! Total Count: 29393
+! Last modified: 2024-10-22 16:30:30
+! Total Count: 29398
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5637,6 +5637,7 @@
 ||cn.ntdtv.com/assets/themes/ntd/js/article_ads.js
 ||cn6x.com^
 ||cna5.cc/skins/js/
+||cnbd1.appmobile.cn^
 ||cnblogs.com/ajax/bigbanner/
 ||cnblogs.com/blog/36987/201509/36987-20150913115252950-1736386654.jpg
 ||cnblogs.com/group/C1*-T2
@@ -5798,6 +5799,7 @@
 ||count.xxxssk.com^$third-party
 ||courageousbaby.com^$third-party
 ||courtoyz.com^
+||couvxlif.top^
 ||coverapparatus.com^$third-party
 ||cowcuo.xyz^
 ||cowm199.com^
@@ -14714,6 +14716,7 @@
 ||sbeaje.com^
 ||sbhduht.xyz^
 ||sbiloi.xyz^
+||sbmhqe.xyz^
 ||sbo8.com/static/theme/js/bottom.
 ||sbovgy.xyz^
 ||sbpb1.chuiyue.com^
@@ -15988,6 +15991,7 @@
 ||targetspot.com^
 ||tarqk5.com^
 ||tarttendency.com^$third-party
+||tarvrf.xyz^
 ||tastefulsongs.com^$third-party
 ||tastelesstoes.com^$third-party
 ||tastelesstrees.com^$third-party
@@ -25754,6 +25758,7 @@ zle.com$script
 ###asx_text
 ###babasbmsgx
 ###bannerAd
+###banner_links.banner-container
 ###bd-hl-content
 ###bfad
 ###bfad1
