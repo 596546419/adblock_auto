@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: uDvr8HlCZF6Fp4WPIXiIaw
+! Checksum: 7rYrQ9nfyjbRtSLvPOkKAg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241022163030
+! Version: 20241023002947
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-22 16:30:30
-! Total Count: 29398
+! Last modified: 2024-10-23 00:29:47
+! Total Count: 29405
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3238,6 +3238,7 @@
 ||adx.io^$popup,third-party
 ||adx.io^$third-party
 ||adx.mala.cn^
+||adx.mossru.com^
 ||adx1.com^
 ||adxadserv.com^
 ||adxadserv.com^$third-party
@@ -6202,6 +6203,7 @@
 ||daynews.co/cdn-cgi/apps/
 ||daysou.com/images/huaweicloud.png
 ||dayu778.com/assets/publish/$script
+||dayujs.top^
 ||dblijd.xyz^
 ||dbmp4.com/js/foot.
 ||dbnsd2viud.xyz^
@@ -7412,6 +7414,7 @@
 ||fangyaomin.site^
 ||fangzie.com/js/ga
 ||fanhaodang.org/Runtime/js/
+||fanjs.top^
 ||fanpingbi*.gaokao.com^
 ||fanquanwang.com/uploads/ad/
 ||fans.*.space/fans/*.php
@@ -9004,6 +9007,7 @@
 ||houseads-prod.elasticbeanstalk.com^
 ||houseads.ttpsdk.info^
 ||houstonbbs.com/data/ad/
+||houvxliu.top^
 ||houyi.baofeng.net^*.html
 ||hov15.icu^
 ||hoxdotye.icu^
@@ -10085,6 +10089,7 @@
 ||jjkiahh.icu^
 ||jjklrcw.com^
 ||jjnrqq.com^
+||jjpp.lmtjapi.com^
 ||jjvzqjh.xyz^
 ||jjwxc.net/jjPopup.php
 ||jjwxc.net/jjad*.html$popup
@@ -12425,6 +12430,7 @@
 ||newdin.name^
 ||newfeatureview.perfectionholic.com^
 ||newpgqnfapkamg.xyz^
+||news-cdn.site^
 ||news.99k.tw/open/open*.php
 ||news.cn/2021detail/js/booklist.js
 ||news.cn/imgad/
@@ -13955,6 +13961,7 @@
 ||qiyun.org/images/js/*.htm
 ||qizhihaotian.com^*.js
 ||qjekt0c.xyz^
+||qjoges.xyz^
 ||qjoqos.xyz^
 ||qjwvwu.xyz^
 ||qk6.org/file/script/
