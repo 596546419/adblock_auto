@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 8IiVxlUKDQLACFZZjRktbw
+! Checksum: YBXO3nJtBzQQY4ZTkebWJg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241023163037
+! Version: 20241024002925
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-23 16:30:37
-! Total Count: 29412
+! Last modified: 2024-10-24 00:29:25
+! Total Count: 29415
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -11788,8 +11788,10 @@
 ||merwds.qwuidbn.com^$third-party
 ||meryt111.fun^
 ||merywf.xyz^
-||mesh.if.iqiyi.com/portal/lw/search/$removeparam=ad
-||mesh.if.iqiyi.com/portal/lw/search/$removeparam=adExt
+||mesh.if.iqiyi.com/portal/*/recommend?$xmlhttprequest,removeparam=ad
+||mesh.if.iqiyi.com/portal/*/recommend?$xmlhttprequest,removeparam=adExt
+||mesh.if.iqiyi.com/portal/lw/search/$xmlhttprequest,removeparam=ad
+||mesh.if.iqiyi.com/portal/lw/search/$xmlhttprequest,removeparam=adExt
 ||messagenovice.com^$third-party
 ||messyoranges.com^$third-party
 ||mestrip.com/widgets/
@@ -13171,6 +13173,7 @@
 ||pfrbnl.xyz^
 ||pftdmmc.xyz^
 ||pg-ad-b1.nosdn.127.net^
+||pg2bk.icu^
 ||pgcciax.icu^
 ||pgdt.gtimg.cn/gdt/$domain=info.3g.qq.com
 ||pgdt.gtimg.cn^
