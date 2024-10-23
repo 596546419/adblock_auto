@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: R0nZqBXPsjyqz9ObcG/QBQ
+! Checksum: 8IiVxlUKDQLACFZZjRktbw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241023094603
+! Version: 20241023163037
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-23 09:46:03
-! Total Count: 29408
+! Last modified: 2024-10-23 16:30:37
+! Total Count: 29412
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5982,6 +5982,7 @@
 ||cvgrszkg.xyz^
 ||cvmesi.xyz^
 ||cvmjf.xyz^$third-party
+||cvmuia.xyz^
 ||cvnxetmq.xyz^
 ||cvtbdap.xyz^
 ||cvudqzoa.xyz^
@@ -9661,6 +9662,7 @@
 ||ios.426g.com^
 ||iossdok.com^
 ||ioswhi.com^
+||iouvxlio.top^
 ||ioykmxa.icu^
 ||ip.sb/assets/images/*_ads.
 ||ip138.com/banana/
@@ -14244,6 +14246,7 @@
 ||rbvi.top^
 ||rc.ie13.com^
 ||rcblfd.xyz^
+||rcdwhp.xyz^
 ||rcnithgm.xyz^
 ||rcnldz.xyz^
 ||rcyzsh.icu^
@@ -15328,6 +15331,7 @@
 ||snjfasp.com^
 ||snmi.cn^$third-party
 ||snoresmile.com^$third-party
+||snueirk.icu^
 ||snux.cn^
 ||snxyf.com^$third-party
 ||snzfj.net^$third-party
