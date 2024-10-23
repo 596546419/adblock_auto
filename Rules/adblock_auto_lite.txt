@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 7rYrQ9nfyjbRtSLvPOkKAg
+! Checksum: R0nZqBXPsjyqz9ObcG/QBQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241023002947
+! Version: 20241023094603
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-23 00:29:47
-! Total Count: 29405
+! Last modified: 2024-10-23 09:46:03
+! Total Count: 29408
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7155,6 +7155,7 @@
 ||engwsq.xyz^
 ||enhad.xyz^
 ||enifdlaw.top^
+||enkvum.xyz^
 ||ennde.cyou^
 ||enokouv.icu^
 ||enormousearth.com^$third-party
@@ -14260,6 +14261,7 @@
 ||rdsgick.icu^
 ||rdufuxr.icu^
 ||rdx.autohome.com.cn^
+||rdxqbp.xyz^
 ||re.taotaosou.com^
 ||reacdf311.cn^
 ||reachableads-av.*.amazonaws.com^
@@ -15251,6 +15253,7 @@
 ||skisofa.com^$third-party
 ||skldbklsbvss.com^
 ||skluff.com^$third-party
+||sksbgm.xyz^
 ||skskssso.com^
 ||skt-asum.com^
 ||sky.dunsuan.com^
