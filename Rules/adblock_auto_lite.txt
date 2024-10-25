@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: K+1B64j3brd4LLQS1TjH9g
+! Checksum: m+/KKSvF/trh76xOtbbOAg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241025163003
+! Version: 20241026002924
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-25 16:30:03
-! Total Count: 29425
+! Last modified: 2024-10-26 00:29:24
+! Total Count: 29432
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6749,6 +6749,7 @@
 ||dshangyan.com/pc/advertising/
 ||dshapv.xyz^
 ||dshjbn.xyz^
+||dsikpuv.icu^
 ||dsjhcgvhjsvc.com^
 ||dsjkbcjsjkbvs.com^
 ||dskjbvzvs.com^
@@ -7024,6 +7025,7 @@
 ||ee.m08pe.cn^$third-party
 ||ee.shixunwang.net^
 ||ee021.com/Runtime/js/
+||eeaczcf.icu^
 ||eefcdn.com/promotion/module/module.
 ||eejwvwoo.xyz^
 ||eepw.com.cn/event/action/rightbd/microchip*.js
@@ -9841,6 +9843,7 @@
 ||iykig.cn^
 ||iyuedu.cn.com^
 ||iyuwkbo.top^
+||iyxdm.*/js/gad_
 ||iyybqzv.cn^
 ||izalflh.cn^
 ||izcqyy.xyz^
@@ -10911,6 +10914,7 @@
 ||lajevt.xyz^
 ||lalabaos1020.top^
 ||lalabaos1021.top^
+||lalabaos1025.top^
 ||laljjn.xyz^
 ||lamao.life^$document
 ||lamao.life^$~third-party
@@ -17786,6 +17790,7 @@
 ||worriedwine.com^$third-party
 ||wosidnlkxq.com^
 ||wotmvdc.cn^
+||wouvxlie.top^
 ||wowad.wow-classic.com^
 ||wowfan.net/static/js/index.
 ||wowindianporn.com/func.js
@@ -18474,6 +18479,7 @@
 ||yckamq.xyz^
 ||yclxrj.top^$third-party
 ||ycmgeb.icu^
+||ycq.cab^
 ||ycqbgm.xyz^
 ||ycuhky.xyz^
 ||ycwuoq.xyz^
@@ -27658,6 +27664,7 @@ zle.com$script
 ##a[href][title*="sponsor"][target="_blank"] > img[src$=".gif"]
 ##a[href][title*="sponsor"][target="_blank"] > img[src$=".png"]
 ##a[href^="/ad/"] > img[id][src*="hdslb.com"]
+##a[href^="/archives/"] > .post-card > .blog-background[style*="gif;base64"]
 ##a[href^="/dasp.php?a="]
 ##a[href^="/hy-"][ontouchstart]
 ##a[href^="/redirect?tid="]
