@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: a8CF4vPOUvyc0Ve7rsSlTA
+! Checksum: SEfx3/+lwAY+Si5VzX0jTQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241025002911
+! Version: 20241025094730
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-25 00:29:11
-! Total Count: 29421
+! Last modified: 2024-10-25 09:47:30
+! Total Count: 29424
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3569,6 +3569,7 @@
 ||allbeauty.com.tw/GoldPrice/*_CF.php
 ||allcp.xyz^
 ||alleyskin.com^$third-party
+||allkmbr.icu^
 ||alllget.com^$third-party
 ||allnorilsk.ru/js/adb.js
 ||allowfencelist.com^$third-party
@@ -11568,6 +11569,7 @@
 ||macd.cn/macd-topads.html
 ||macfans.org/vip/
 ||macoms.la^
+||macos.space^
 ||macx.cn/js/jquery.$domain=game.macx.cn
 ||mad.mobisky.pl^
 ||madadyaran.com/ga.js
@@ -12801,6 +12803,7 @@
 ||omezame.biz/wp-content/themes/buzzmake/js/modal.
 ||omg.house.porn^
 ||omgnqu.xyz^
+||omheth.com^
 ||omkxes.xyz^
 ||omniscientfeeling.com^$third-party
 ||omniscientspark.com^$third-party
