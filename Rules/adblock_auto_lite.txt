@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: /yUa9hfWbLSuoNSke/g/iw
+! Checksum: FthjIYZKshcOMrqiPFPvFg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241026162719
+! Version: 20241027002801
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-26 16:27:19
-! Total Count: 29440
+! Last modified: 2024-10-27 00:28:01
+! Total Count: 29441
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -16400,6 +16400,7 @@
 ||toutanymm.asia^
 ||toutiaoimg.com^$image,domain=350xs.com
 ||toutiaoyule.com/n/dspshow.
+||touvxlii.top^
 ||touwengyyds.com^
 ||toweringrun.com^$third-party
 ||toyhyhv.icu^
