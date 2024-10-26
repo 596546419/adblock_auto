@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: m+/KKSvF/trh76xOtbbOAg
+! Checksum: uOx1jVnN3sGjoQZng9zlKA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241026002924
+! Version: 20241026094347
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-26 00:29:24
-! Total Count: 29432
+! Last modified: 2024-10-26 09:43:47
+! Total Count: 29437
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9783,6 +9783,7 @@
 ||itienlo.top^
 ||itiexue.net/domain-policy/
 ||itiexue.net/wap/tiexue/js/chuping/nativeshare
+||itjcqlp.icu^
 ||itjgwn.xyz^
 ||itjsb.com/itjsbwx.jpg
 ||itmsc.cn^*ad0
@@ -10912,6 +10913,7 @@
 ||laink.xyz^
 ||laixi.com/tp/20
 ||lajevt.xyz^
+||lalabaos10*.top/$script,third-party
 ||lalabaos1020.top^
 ||lalabaos1021.top^
 ||lalabaos1025.top^
@@ -15048,6 +15050,7 @@
 ||sgk.xyz/static/js/pc.js
 ||sglahyea.xyz^
 ||sgoijw.com^$third-party
+||sgozmks.icu^
 ||sgru.cn^
 ||sgsosi.xyz^
 ||sgwsss.xyz^
@@ -18058,6 +18061,7 @@
 ||xhi8.xyz^
 ||xhiit0n.xyz^
 ||xhlkvx.xyz^
+||xhm.pub^
 ||xhnvgdkw.xyz^
 ||xhpghv.xyz^
 ||xhsdwjes.xyz^
@@ -18380,6 +18384,7 @@
 ||xxniln.xyz^
 ||xxooos.com/mm/
 ||xxp123.live^
+||xxqmtod.icu^
 ||xxsmad1.com^
 ||xxsmad2.com^
 ||xxsmad3.com^
