@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: FthjIYZKshcOMrqiPFPvFg
+! Checksum: oh7AzFjaheTq6MpQR0Jjjw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241027002801
+! Version: 20241027095311
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-27 00:28:01
-! Total Count: 29441
+! Last modified: 2024-10-27 09:53:11
+! Total Count: 29446
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -948,6 +948,7 @@
 ||5y9nfpes.52pk.com^
 ||5ydj.com/images/banner/
 ||5z0d3.cyou^
+||5z2oy.icu^
 ||6.cn/coop/pub/getRand.php?
 ||60.190.139.164^
 ||600km.com/template/*/ad/
@@ -1223,6 +1224,7 @@
 ||8d8d.me/images/dealer.gif
 ||8en.net^$third-party
 ||8feichai.com^
+||8gra3.icu^
 ||8h93.com^*.gif
 ||8jkx.com^
 ||8jrc564wtf.cn^$third-party
@@ -14016,6 +14018,7 @@
 ||qnifdlay.top^
 ||qnipkk.xyz^$third-party
 ||qnmtqq.com^
+||qnqtgyq.icu^
 ||qnsb.com/news/index.php?m=poster&
 ||qnvod.net/qna/
 ||qooav.top^
@@ -15261,6 +15264,7 @@
 ||sjgsgy.xyz^
 ||sjkdbvjksbv.com^
 ||sjks88.com/templets/default/js/mydata4.js
+||sjluuom.icu^
 ||sjmlmk.xyz^
 ||sjzls.top^
 ||skadnetwork.singular.net^
@@ -26903,6 +26907,7 @@ zle.com$script
 ##.player-box > [style*="flex; justify"]
 ##.player-info > .recommend-two.recommend-list
 ##.player-news > .news-list
+##.player-rm > a[href*=".umtrack.com"]
 ##.player-rm > a[href*="/ad.html?url="]
 ##.player-rm > a[target="_blank"]
 ##.player-rm-float
