@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: PO9rQgPXDu5/2W38HgNpvA
+! Checksum: euZH81Fa0qYFuKLHs2LJDw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241028002838
+! Version: 20241028095104
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-28 00:28:38
-! Total Count: 29449
+! Last modified: 2024-10-28 09:51:04
+! Total Count: 29455
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -374,6 +374,7 @@
 ||1dcbzuv.com^
 ||1f84e33459.com^
 ||1fzjy.xyz^
+||1gmzo.icu^
 ||1iohncj.xyz^
 ||1iuybpo.com^
 ||1jc5t.xyz^
@@ -5890,6 +5891,7 @@
 ||crjeymh.cn^
 ||crjpgate.com^$document
 ||crlsxny.xyz^
+||crnmyrk.icu^
 ||crodfnyk.xyz^
 ||crossboardmobile.com^
 ||crosspromo*.qplaze.com/PushCampaignXMLOut.php
@@ -8727,6 +8729,7 @@
 ||hdtube.porn/rods/
 ||hdtvnr.xyz^
 ||hdxjtl.xyz^
+||hdxyj.icu^
 ||head4.net/ad_
 ||headquartersexually.com^
 ||headydegree.com^$third-party
@@ -10162,6 +10165,7 @@
 ||jokerlulm.com^
 ||jollyspring.com^
 ||jothvz.xyz^
+||jowkkzx.icu^
 ||joyoussurprise.com^$third-party
 ||joysporn.com/js/pj.js
 ||joysporn.sex/js/kj.js
@@ -12728,6 +12732,7 @@
 ||obscenesidewalk.com^$third-party
 ||observantice.com^$third-party
 ||obturex.com^
+||obwnaon.icu^
 ||obzthda.xyz^
 ||ocdn.eu/ramp/*/Sponsoring-Mobile-Float-Universal/*.js
 ||oce.nexithrom.com^$third-party
@@ -19228,6 +19233,7 @@
 ||zrkksps.icu^
 ||zrljzgs.xyz^
 ||zrrnqq.com^
+||zrtlvtsy.xyz^
 ||zs.rzijjeb.cn^
 ||zsjjob.com/user/member/google.htm
 ||zsjpi.cn^
