@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 33Q9ro5lmrbBkoVwxLUUAQ
+! Checksum: GDxf23b9Bp8LKc3Di3ArTA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241029094909
+! Version: 20241029163050
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-29 09:49:09
-! Total Count: 29462
+! Last modified: 2024-10-29 16:30:50
+! Total Count: 29463
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -16479,6 +16479,7 @@
 ||trdmtx.xyz^
 ||treadbun.com^$third-party
 ||trebleperfect.com^$third-party
+||treferty33.fun^
 ||tremendousearthquake.com^$third-party
 ||tremendousplastic.com^$third-party
 ||tremendoustime.com^$third-party
