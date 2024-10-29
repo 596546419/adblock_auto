@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: IYG3jk7fZZ7stox7D+1PcA
+! Checksum: 33Q9ro5lmrbBkoVwxLUUAQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241029003009
+! Version: 20241029094909
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-29 00:30:09
-! Total Count: 29458
+! Last modified: 2024-10-29 09:49:09
+! Total Count: 29462
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5486,6 +5486,7 @@
 ||chinsnakes.com^$third-party
 ||chinxfayan.com^$document
 ||chinxfayan.com^$~third-party
+||chmueyv.icu^
 ||chnci.com^$third-party
 ||chnmoney.com/dfile/
 ||chnuuee.xyz^
@@ -10554,6 +10555,7 @@
 ||kekop.cn^
 ||kelatv.com/ad/
 ||kemas.top^
+||kemmars.com^
 ||keptafd.cn^
 ||keryt111.fun^
 ||ketchapp.org^
@@ -12315,6 +12317,7 @@
 ||mzgcst.mbibioe.cn^$~third-party
 ||mzhhdn.com/hongbao.jpg
 ||mznizrhd.xyz^
+||mzpecui.icu^
 ||mzqf1.com^
 ||mzstatic.com^$image,domain=rocketnews24.com|youpouch.com|soranews24.com
 ||mzthbna.xyz^
@@ -15842,6 +15845,7 @@
 ||suy5x8.com^
 ||suzoqz.icu^
 ||sv2fo.icu^
+||sv5nm.icu^
 ||svarub.xyz^
 ||svdpgmt.cn^
 ||svhdbmp.cn^
