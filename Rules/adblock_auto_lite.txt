@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: GDxf23b9Bp8LKc3Di3ArTA
+! Checksum: hw9sXJ40OvNlLpd/Gkn7/w
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241029163050
+! Version: 20241030003021
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-29 16:30:50
-! Total Count: 29463
+! Last modified: 2024-10-30 00:30:21
+! Total Count: 29465
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5803,6 +5803,7 @@
 ||cosouy.xyz^
 ||cosplayporntube.com/creatives/
 ||costarg.com^
+||coublif.top^
 ||count.xxxssk.com^$third-party
 ||courageousbaby.com^$third-party
 ||courtoyz.com^
@@ -9144,6 +9145,7 @@
 ||hunklm.com^
 ||huntmad.com^
 ||huo720.com/back/ad_
+||huo720.com/files/vidhub.
 ||huoche.net/Images/pc/ad_
 ||huoche.net/public/huoche/ad/
 ||huohuo.huamuwo.com^
