@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: QQ8BL/TH4eO8xS9mAkYjGA
+! Checksum: /t5vOAHtZ9onsrQZS0Q4RA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241030163218
+! Version: 20241031003019
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-30 16:32:18
-! Total Count: 29472
+! Last modified: 2024-10-31 00:30:19
+! Total Count: 29478
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1761,6 +1761,7 @@
 ||ad.apps.fm^
 ||ad.apsalar.com^
 ||ad.auditude.com^
+||ad.bandlab.io^
 ||ad.bitmedia.io^
 ||ad.bluepartner.eu^
 ||ad.bobi.tw^
@@ -1770,6 +1771,7 @@
 ||ad.ccement.com^
 ||ad.cdnjm.cn^
 ||ad.daum.net^
+||ad.deepthought.industries^
 ||ad.desibp.com^
 ||ad.digitimes.com.tw/*_bigbutton.jpg
 ||ad.doubleclick.net^
@@ -2641,6 +2643,7 @@
 ||ads.betfair.com^
 ||ads.bulldogcpi.com^
 ||ads.cc^$third-party
+||ads.cocomobi.com^
 ||ads.crazyads.icu^
 ||ads.digital.disneyadvertising.com^
 ||ads.djc.com^
@@ -6605,6 +6608,7 @@
 ||doko.moe^$domain=pantsu.cat
 ||dollardelta.com^$third-party
 ||dolldetail.com^$third-party
+||dollphoin.site^
 ||domain1.chahaoba.cn^
 ||domcwlxin.360doc.cn^
 ||donchen501.cn^
@@ -9632,6 +9636,7 @@
 ||inifdlao.top^
 ||inlishui.com/index.php?m=poster&
 ||inmcd.xyz^
+||inmense.site^
 ||inmobi.cn^
 ||inmobi.com^
 ||inmobi.net^
@@ -9685,6 +9690,7 @@
 ||ios.426g.com^
 ||iossdok.com^
 ||ioswhi.com^
+||ioublio.top^
 ||iouvxlio.top^
 ||ioykmxa.icu^
 ||ip.sb/assets/images/*_ads.
