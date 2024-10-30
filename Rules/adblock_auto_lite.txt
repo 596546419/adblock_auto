@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: hw9sXJ40OvNlLpd/Gkn7/w
+! Checksum: pyPxG+wHbkM/wnyGpzpf1A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241030003021
+! Version: 20241030094829
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-30 00:30:21
-! Total Count: 29465
+! Last modified: 2024-10-30 09:48:29
+! Total Count: 29468
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4377,6 +4377,7 @@
 ||bdasd.chinabig.com.cn^
 ||bdasd.wmxa.cn^
 ||bdates.fun^
+||bdawrsi.icu^
 ||bdcanef.cn^$third-party
 ||bdcd2.com^
 ||bdcm.kandianla.com^
@@ -5086,6 +5087,7 @@
 ||cache.ltn.com.tw/js/cache_ads_h1.js
 ||cachead.com^*.js
 ||cad.youku.com^
+||cadcc.icu^
 ||cadizer.com^
 ||cadke.xyz^
 ||cads.scalemonk.com^
@@ -17710,6 +17712,7 @@
 ||whols.cn^
 ||whqgyo.xyz^
 ||whranc.cn^
+||whrwlxg.icu^
 ||whsir.com/wp-content/themes/wh-blog/js/modal.js
 ||whum.top^
 ||wi-fi.ru/ad_video/$redirect=noop-1s.mp4,important,media
@@ -27405,7 +27408,7 @@ zle.com$script
 ##a[href*=".nfkonline.com/"]
 ##a[href*=".nfqtech.com/"]
 ##a[href*=".nfylife.com/"]
-##a[href*=".nhjhu25hd.com:"]
+##a[href*=".nhjhu25hd.com"]
 ##a[href*=".niujyl.com/"]
 ##a[href*=".ohakaguide.com/"]
 ##a[href*=".oidmwq2v.cn"]
