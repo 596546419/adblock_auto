@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: pyPxG+wHbkM/wnyGpzpf1A
+! Checksum: QQ8BL/TH4eO8xS9mAkYjGA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241030094829
+! Version: 20241030163218
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-30 09:48:29
-! Total Count: 29468
+! Last modified: 2024-10-30 16:32:18
+! Total Count: 29472
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1017,6 +1017,7 @@
 ||693836.com^$popup
 ||6969aa.cn^
 ||69adu.com/bootstrap.
+||69shuba.cx^*/shu.js
 ||69shux.com/js/otherad.
 ||69t49.com/floating/layer.js
 ||69wx1.top^
@@ -1025,6 +1026,7 @@
 ||6b856ee58e.com^
 ||6cdwf.xyz^
 ||6efgcdcjr000.fun^
+||6ft8a.icu^
 ||6gcstb.xyz^
 ||6h1cz.xyz^
 ||6iwoif.com^
@@ -3387,6 +3389,7 @@
 ||aifwjekfe.xyz^
 ||aiiaqw.xyz^
 ||aijiamao.top^
+||aikkits.com^
 ||aiknx.cn^
 ||aili.com^$third-party
 ||ainunu.*/vad.js
@@ -9021,6 +9024,7 @@
 ||hotpornpro.com^
 ||hotpress.info/blog/asian-javdl/wp-content/uploads/irvsxp.js
 ||hotsouthindiansex.com/js/hsispu.js
+||houbliu.top^
 ||house.sina.com.cn/2.0/abp/
 ||house365.com/js/lbpopup.js
 ||houseads-prod.elasticbeanstalk.com^
