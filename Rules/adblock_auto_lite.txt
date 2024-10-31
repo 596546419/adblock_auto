@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: /t5vOAHtZ9onsrQZS0Q4RA
+! Checksum: ZAC9TKOGDx5NrN7ot6OCUg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241031003019
+! Version: 20241031094857
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-31 00:30:19
-! Total Count: 29478
+! Last modified: 2024-10-31 09:48:57
+! Total Count: 29482
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7352,6 +7352,7 @@
 ||external-ad.bunjang.co.kr^
 ||external-api.impression-neo.naver.com^
 ||extmaps-api.yandex.net/promo/api/
+||extopae.icu^
 ||extractobservation.com^$third-party
 ||extremescatporn.com/static/images/banners/
 ||exuberanteyes.com^$third-party
@@ -10077,6 +10078,7 @@
 ||jinhua.com.cn/ad_pic/
 ||jinkens.fun^
 ||jinman4.com/ad/
+||jinnanyq.com/js/zmjw.
 ||jinti.com^*/aspx/*gg
 ||jintonghua.com^
 ||jinxiyue.com/seo.js$script
@@ -14017,6 +14019,7 @@
 ||qjwvwu.xyz^
 ||qk6.org/file/script/
 ||qkcaqq.xyz^
+||qkgllif.icu^
 ||qkikkg.xyz^
 ||qkitery.top^
 ||qkoio.cyou^
@@ -18672,6 +18675,7 @@
 ||yivkzvog.xyz^
 ||yiw2iei.icu^
 ||yiwckti.icu^
+||yj2nf.icu^
 ||yjbdyjnctgj.top^
 ||yjcf360.com/ad.
 ||yje912.cn^
