@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ZAC9TKOGDx5NrN7ot6OCUg
+! Checksum: SDF74nA2jbG3lm0KeqEUww
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241031094857
+! Version: 20241031162753
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-10-31 09:48:57
-! Total Count: 29482
+! Last modified: 2024-10-31 16:27:53
+! Total Count: 29485
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1790,6 +1790,7 @@
 ||ad.holmesmind.com^
 ||ad.hot-mob.com^
 ||ad.imp.joins.com^
+||ad.inston.ltd^
 ||ad.intl.xiaomi.com^
 ||ad.itweb.co.za^
 ||ad.iwhop.cn^
@@ -10183,6 +10184,7 @@
 ||jokerlulm.com^
 ||jollyspring.com^
 ||jothvz.xyz^
+||joublia.top^
 ||jowkkzx.icu^
 ||joyoussurprise.com^$third-party
 ||joysporn.com/js/pj.js
@@ -15776,6 +15778,7 @@
 ||strongersummon.com^$document
 ||strongersummon.com^$~third-party
 ||structurerod.com^$third-party
+||struhuts.com^
 ||stsesc.xyz^
 ||stuff.wikiporno.org^
 ||stulip.org/static/js/header.js
