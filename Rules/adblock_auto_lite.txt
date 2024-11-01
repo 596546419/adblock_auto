@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: sSS1CGbsplMLjHqSsSTzwA
+! Checksum: /qKQE9oHcx7OG3HaXXSejg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241101162910
+! Version: 20241102002841
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-01 16:29:10
-! Total Count: 29495
+! Last modified: 2024-11-02 00:28:41
+! Total Count: 29498
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -372,6 +372,7 @@
 ||1cjzfyb.com^
 ||1cpkcnm.com^
 ||1dcbzuv.com^
+||1dki0.icu^
 ||1f84e33459.com^
 ||1fzjy.xyz^
 ||1gmzo.icu^
@@ -1822,7 +1823,7 @@
 ||ad.linksynergy.com^
 ||ad.lomadee.com^
 ||ad.mail.ru^
-||ad.mail.ru^$domain=my.mail.ru
+||ad.mail.ru^$domain=my.mail.ru|~e.mail.ru|~octavius.mail.ru
 ||ad.mail.ru^$script,redirect-rule=empty,important
 ||ad.mail.ru^$~image,domain=~mail.ru|~sportmail.ru
 ||ad.mediamixer.co.kr^
@@ -4553,6 +4554,7 @@
 ||bgeg1.fun^
 ||bghebf.xyz^
 ||bgidskiv.top^
+||bhakte.com^
 ||bhaoea.cn^
 ||bhcnmrn.icu^
 ||bhcumsc.com^$third-party
@@ -10953,6 +10955,7 @@
 ||lalabaos1020.top^
 ||lalabaos1021.top^
 ||lalabaos1025.top^
+||lalabaos1101.top^
 ||laljjn.xyz^
 ||lamao.life^$document
 ||lamao.life^$~third-party
