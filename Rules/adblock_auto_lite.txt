@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: EYB5GT1fMnLUIL1/KCe4HQ
+! Checksum: X6cenhATyUHUzRmJ7q9VZw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241101003007
+! Version: 20241101095451
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-01 00:30:07
-! Total Count: 29488
+! Last modified: 2024-11-01 09:54:51
+! Total Count: 29493
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5956,6 +5956,7 @@
 ||ctienlf.top^
 ||ctkyom.xyz^
 ||ctl.buyt.in^
+||ctlacnh.icu^
 ||ctlrarz.xyz^
 ||ctmrso.xyz^
 ||ctoyb.cyou^
@@ -7933,6 +7934,7 @@
 ||g2ak5.com^
 ||g2qb.top^
 ||g3f3.com/love/
+||g4y7uuk.com^
 ||g6tgashb.fun^
 ||g77ds2.xyz^
 ||g7ghdash2.fun^
@@ -8370,6 +8372,7 @@
 ||gqwwshbdd1.fun^
 ||gr0z6.xyz^
 ||gracefulsock.com^$third-party
+||graesol.com^
 ||grandfatherguitar.com^$third-party
 ||grandiosefire.com^$third-party
 ||grandmotherunit.com^$third-party
@@ -9564,6 +9567,7 @@
 ||imgchili.net/media/top.gif
 ||imgclh.com/imgs/2024/08/07/569cfb2f078e0c42.
 ||imgdb.cn/item/6098ab56d1a9ae528f16192c.jpg
+||imgdb.cn/item/66a73333d9c307b7e9dbb6ef.jpg
 ||imgdb.cn^$domain=m4ff.com
 ||imgg.ksjuwqc.cn^
 ||imghost.top/kita/
@@ -18097,6 +18101,7 @@
 ||xfzyun.com^
 ||xg.hbcygs518.com^$third-party
 ||xg6hb.xyz^
+||xggcyef.icu^
 ||xghnqq.com^
 ||xghylt.com/api.php?mod=ad&adid=
 ||xgjidt.xyz^
