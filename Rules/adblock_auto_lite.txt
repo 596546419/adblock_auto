@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: /qKQE9oHcx7OG3HaXXSejg
+! Checksum: 1LxPB0ShDOeD0wYSdWovug
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241102002841
+! Version: 20241102094505
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-02 00:28:41
-! Total Count: 29498
+! Last modified: 2024-11-02 09:45:05
+! Total Count: 29505
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7207,6 +7207,7 @@
 ||eol.cn/js/global/jQuery_ads.js
 ||eoof.net/PicZone/qzgg
 ||eopad.cyou^
+||eoubliw.top^
 ||eoucxzw.icu^
 ||eouvxliw.top^
 ||epebuk.xyz^
@@ -8782,6 +8783,7 @@
 ||heiow.xyz^
 ||heipa666.xyz/hp/
 ||heirui.cn/static/hb_
+||heiviek.com^
 ||heiye.cc/js/bancity.
 ||heiye.cc/js/bf.js
 ||heiye.cc/js/hei
@@ -9416,6 +9418,7 @@
 ||ifjslio.top^
 ||ifkdy.com/_nuxt/44e01dcef4aa1a21d9a6.js
 ||ifkdy.com/ifkdy/weixin/isFollowMe
+||ifmccdn.icu^
 ||ifooday.cn/index.php?m=poster&
 ||ifunmac.com/wp-content/uploads/*/alipay-
 ||ifxqubw.icu^
@@ -10650,6 +10653,7 @@
 ||kjeqga.xyz^
 ||kjipko.xyz^
 ||kjjjusb.xyz^
+||kjnsgqe.icu^
 ||kjos.vo.llnwd.net^
 ||kjrspnbf.xyz^
 ||kjubky.xyz^
@@ -10951,7 +10955,7 @@
 ||laink.xyz^
 ||laixi.com/tp/20
 ||lajevt.xyz^
-||lalabaos10*.top/$script,third-party
+||lalabaos1*.top/$script,third-party
 ||lalabaos1020.top^
 ||lalabaos1021.top^
 ||lalabaos1025.top^
@@ -14303,6 +14307,7 @@
 ||rbbbdj.xyz^
 ||rbfxoex.xyz^
 ||rbhunp.xyz^
+||rbift.icu^
 ||rbkmzhc.icu^
 ||rbodwtj.icu^
 ||rbrbr88p.cn^
@@ -17471,6 +17476,7 @@
 ||vuedivv.icu^
 ||vueegqt.xyz^
 ||vuhbgtsi.xyz^$third-party
+||vuirssd.icu^
 ||vujzkkz.cn^
 ||vulitd.xyz^
 ||vulrxr.xyz^
@@ -17804,6 +17810,7 @@
 ||wm.mipcdn.com^
 ||wm.szdushi.com.cn^
 ||wmbd.gamersky.com^
+||wmcbld.top^
 ||wmeng.feihuadns.com^
 ||wmnraj.icu^
 ||wmpics.pics^$domain=sexcams-24.com|webcamvau.com
