@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: RPq2hAvBT1ZYylMFj8HgCw
+! Checksum: GhQXhSsu6O38tKvgSygHKw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241102162829
+! Version: 20241103002844
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-02 16:28:29
-! Total Count: 29508
+! Last modified: 2024-11-03 00:28:44
+! Total Count: 29510
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2613,6 +2613,7 @@
 ||ads-bidder-api.twitter.com^
 ||ads-chunks.prod.ihrhls.com^
 ||ads-cloud.rovio.com^
+||ads-config-engine-noneu.truecaller.com^
 ||ads-d.viber.com^
 ||ads-delivery.b-cdn.net^
 ||ads-dot-fbc-web-2018.uc.r.appspot.com^
@@ -6148,7 +6149,7 @@
 ||dairzih.com^
 ||daiwofei2019.top^
 ||dajiadu8.com/17.js
-||dajiadu8.com/17mb/script/ad*.js
+||dajiadu8.com/17mb/script/gg.
 ||dajiahao10.top^
 ||dajiahao17.top^
 ||dajiahao8.top^
@@ -14069,6 +14070,7 @@
 ||qooav.top^
 ||qoqoangry.com^
 ||qoswfds.cn^
+||qoubliy.top^
 ||qouvxliy.top^
 ||qpawkw.xyz^
 ||qpb*.sohu.com^
