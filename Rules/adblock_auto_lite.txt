@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 1LxPB0ShDOeD0wYSdWovug
+! Checksum: RPq2hAvBT1ZYylMFj8HgCw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241102094505
+! Version: 20241102162829
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-02 09:45:05
-! Total Count: 29505
+! Last modified: 2024-11-02 16:28:29
+! Total Count: 29508
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -16285,6 +16285,7 @@
 ||thvx9i.icu^
 ||thyn.renzhen8.cn^$third-party
 ||thztv.*/tool/
+||ti4la.icu^
 ||tianji520.cn^$third-party
 ||tianlaoyyds.com^
 ||tianmu.com/DA201
@@ -17440,6 +17441,7 @@
 ||vrdfxioe.icu^
 ||vrdxznr.xyz^
 ||vreephay.com^
+||vrelai.com^
 ||vreqnait.com^
 ||vrinqop.icu^
 ||vrivslffndepxqd.xyz^
@@ -17857,6 +17859,7 @@
 ||worriedwine.com^$third-party
 ||wosidnlkxq.com^
 ||wotmvdc.cn^
+||woublie.top^
 ||wouvxlie.top^
 ||wowad.wow-classic.com^
 ||wowfan.net/static/js/index.
