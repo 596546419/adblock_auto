@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: PDuF3b8tkx3R80ov05yqtg
+! Checksum: DU5ISLu4SdTx98jX0CaDxA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241103095317
+! Version: 20241103162651
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-03 09:53:17
-! Total Count: 29512
+! Last modified: 2024-11-03 16:26:51
+! Total Count: 29516
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4389,6 +4389,7 @@
 ||bdcanef.cn^$third-party
 ||bdcd2.com^
 ||bdcm.kandianla.com^
+||bdcmwcl.icu^
 ||bdcode.2345.com^
 ||bdcode.35d1.com^
 ||bdcode.qinglm.com^
@@ -6767,6 +6768,7 @@
 ||dsdsa33.fun^
 ||dsdsg44.fun^
 ||dsfd67.com^
+||dsfh2.icu^
 ||dsg.reifporn.de^
 ||dshangyan.com/pc/advertising/
 ||dshapv.xyz^
@@ -16453,6 +16455,7 @@
 ||totheglory.im/pic/fangtuo.jpg
 ||totheglory.im/pic/ttg-
 ||totheglory.im/pic/ttg_
+||toublii.top^
 ||touimg.com/u/20200306/12094716.gif
 ||touimg.com/u/20200419/18431854.gif
 ||touimg.com/u/20200510/2142*.gif
@@ -17051,6 +17054,7 @@
 ||uraseszincy.com^
 ||urccncd.xyz^
 ||urgayporn.com/bn/
+||urpkktc.icu^
 ||urqwzbu.cn^
 ||urtlist.top^
 ||urueuah.cn^
