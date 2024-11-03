@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: GhQXhSsu6O38tKvgSygHKw
+! Checksum: PDuF3b8tkx3R80ov05yqtg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241103002844
+! Version: 20241103095317
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-03 00:28:44
-! Total Count: 29510
+! Last modified: 2024-11-03 09:53:17
+! Total Count: 29512
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3250,7 +3250,6 @@
 ||adx.io^$popup,third-party
 ||adx.io^$third-party
 ||adx.mala.cn^
-||adx.mossru.com^
 ||adx1.com^
 ||adxadserv.com^
 ||adxadserv.com^$third-party
@@ -9611,6 +9610,7 @@
 ||imminentshake.com^$third-party
 ||immmg.owowqrf.cn^
 ||imndl.icu^
+||imniel.com^
 ||imnks.com/ad2023/$image
 ||imobileporn.com^$domain=h-flash.com
 ||imooc.com/open/courselistrandjs
@@ -10640,6 +10640,7 @@
 ||kindhush.com^$third-party
 ||kingsnug.cn/Uploads/vod/2019-05-25/5ce964f0c66e0.jpg
 ||kingsun.online^
+||kiolpia.icu^
 ||kiosked.com^
 ||kitesquirrel.com^$third-party
 ||kittyaction.com^$third-party
@@ -12110,6 +12111,7 @@
 ||moqsxdpx.xyz^
 ||moratame.tw/img/contents/banner
 ||mortgagecentres.net/banner.gif
+||mossru.com^
 ||motcmn.icu^
 ||motherless.com/floater_iframe.php
 ||motherporno.com/player/html.php?aid=
