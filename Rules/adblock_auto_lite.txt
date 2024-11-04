@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: rSt1F9rAUFbc8GbDYcHwtw
+! Checksum: K04NwKOZF63NrAvg9VlOLA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241104094930
+! Version: 20241104163035
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-04 09:49:30
-! Total Count: 29522
+! Last modified: 2024-11-04 16:30:35
+! Total Count: 29526
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -531,6 +531,7 @@
 ||2qy9zm.cn^
 ||2rbda.icu^
 ||2s8s.com^
+||2sfpy.icu^
 ||2tyne.ic^
 ||2tyne.icu^
 ||2u3v4w5x6y.com^
@@ -9128,6 +9129,7 @@
 ||htxwzp.xyz^
 ||hty9m.cn^
 ||htyusiu.top^
+||huaban.com^*/ads
 ||huaerdadi.com^$third-party
 ||huaiduoduo.info/Runtime/js/
 ||huancaicp.com/?pid=$popup
@@ -9729,6 +9731,7 @@
 ||iporntv.net/c_adu_pop.js
 ||ipornxxx.net/banners/
 ||ipprof.ru/wp-content/plugins/ad-blocking-advisor/
+||ipqajyy.icu^
 ||iprefer.com.tw^$third-party
 ||ipryes.top^
 ||ipsoazr.icu^
@@ -12904,6 +12907,7 @@
 ||oopej.xyz^
 ||ooqiu.com/ad_js/
 ||ooqwc.xyz^
+||ooublik.top^
 ||oouiqi.xyz^
 ||opeci.cyou^
 ||opeem.cyou^
