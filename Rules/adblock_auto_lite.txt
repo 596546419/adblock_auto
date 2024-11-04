@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: mouasUBZZqoQUXS7hjZk5w
+! Checksum: rSt1F9rAUFbc8GbDYcHwtw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241104002713
+! Version: 20241104094930
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-04 00:27:13
-! Total Count: 29518
+! Last modified: 2024-11-04 09:49:30
+! Total Count: 29522
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2617,6 +2617,7 @@
 ||ads-config-engine-noneu.truecaller.com^
 ||ads-d.viber.com^
 ||ads-delivery.b-cdn.net^
+||ads-delivery.gunosy.com^
 ||ads-dot-fbc-web-2018.uc.r.appspot.com^
 ||ads-game-configuration-master.ads.prd.ie.internal.unity3d.com^
 ||ads-gdl.imovideo.ru^
@@ -7386,6 +7387,7 @@
 ||ezprice.com.tw/ezysm/
 ||ezprice.com.tw/js/*_ysm_
 ||ezraahdn.icu^
+||ezrcowa.icu^
 ||ezwxia.xyz^
 ||f*.baidu.com/it/u=*,*&fm=$third-party,domain=~hao123.com|~haokan.com|~yoojia.com
 ||f.doodlemobile.com:8080/feature_server_v3/
@@ -17139,6 +17141,7 @@
 ||uwerpyh.cn^
 ||uwfxvvm.cn^
 ||uwgnpkd.cn^
+||uwsaqoi.icu^
 ||uwumr.cn^
 ||uwursert.top^
 ||uxlqwra.cn^
@@ -17470,6 +17473,7 @@
 ||vsexshop.ru^$third-party
 ||vsjrnh.xyz^
 ||vsnoon.com^$third-party
+||vsojfsoj.com^
 ||vsping-*.myqcloud.com/ggw/
 ||vsping.com/website/adLinks?
 ||vsping.com/website/ads?
