@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: vn0twR63y/RP9zwZ3NeX/Q
+! Checksum: Soomrksce9+ZHnxPC9OVsA
 ! Title: 混合规则(自动更新)
-! Version: 20241104163023
+! Version: 20241105002852
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-04 16:30:23
-! Total Count: 152139
+! Last modified: 2024-11-05 00:28:52
+! Total Count: 152144
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6393,6 +6393,7 @@
 ||ads-6686.top^
 ||ads-admin.hubs.vn^
 ||ads-adv.top^
+||ads-ap-venues.yinzcam.com^
 ||ads-api.kidsnote.com^
 ||ads-api.playfun.vn^
 ||ads-api.production.nebula-drupal.stuff.co.nz^
@@ -9391,6 +9392,7 @@
 ||analytic.vnanet.vn^
 ||analytic.xingcloud.com^
 ||analytic20.detik.com^
+||analytically.net^
 ||analyticbz.com^
 ||analyticcdn.globalmailer.com^
 ||analytics*.carambo.la^
@@ -38702,6 +38704,7 @@
 ||hizanpwhexw.com^
 ||hizlireklam.com^
 ||hj6y7jrhnysuchtjhw.info^
+||hj8gf.icu^
 ||hjalma.com^
 ||hjammiz.icu^
 ||hjapi.com/v1/pageSoftText?
@@ -49909,6 +49912,7 @@
 ||lottevn9999.com^
 ||lotttemart.store^
 ||lotuscard.cc/online/
+||loublil.top^
 ||loucegle.net^
 ||louchaug.com^
 ||louchees.net^
@@ -91657,6 +91661,7 @@
 ||xmlwiz.com^
 ||xmlwizard.com^
 ||xmlx.lol^
+||xmm.wxc.cc^
 ||xmmnsl.com^
 ||xmnkgi.cn^
 ||xmorex.com^

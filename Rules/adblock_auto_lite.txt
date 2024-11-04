@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: K04NwKOZF63NrAvg9VlOLA
+! Checksum: 9WBTKteL+NEOa9ewSEVmxg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241104163035
+! Version: 20241105002904
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-04 16:30:35
-! Total Count: 29526
+! Last modified: 2024-11-05 00:29:04
+! Total Count: 29530
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2605,6 +2605,7 @@
 ||ads-*-nfl.yinzcam.com^
 ||ads-6686.top^
 ||ads-adv.top^$third-party
+||ads-ap-venues.yinzcam.com^
 ||ads-api.kidsnote.com^
 ||ads-api.production.nebula-drupal.stuff.co.nz^
 ||ads-api.stuff.co.nz^
@@ -8926,6 +8927,7 @@
 ||hitoxx.xyz^
 ||hitubt.xyz^
 ||hixutb.xyz^
+||hj8gf.icu^
 ||hjammiz.icu^
 ||hjdha.cn^
 ||hjdkvt.xyz^
@@ -11362,6 +11364,7 @@
 ||losporn.org/bees.js
 ||losslace.com^$third-party
 ||lotour.net/bcef/388.js
+||loublil.top^
 ||loudlunch.com^$third-party
 ||louimg.com/i/2021/08/17/*.gif
 ||louimg.com/u/20191214/17512133.jpg
@@ -18287,6 +18290,7 @@
 ||xmjajv.xyz^
 ||xmkmryu.icu^
 ||xmlgzr.xyz^
+||xmm.wxc.cc^
 ||xmnkgi.cn^
 ||xmrc.com.cn/net/info/html/
 ||xmsflzmygw.com^
