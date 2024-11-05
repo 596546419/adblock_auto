@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: RZEK5CK9CZIfUwbGP77V4Q
+! Checksum: VLBA7PiNAzMeMKwM4korMg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241105162932
+! Version: 20241106002957
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-05 16:29:32
-! Total Count: 29535
+! Last modified: 2024-11-06 00:29:57
+! Total Count: 29538
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -790,6 +790,7 @@
 ||51hanhua.com/2013/
 ||51hir.cyou^
 ||51img1.com/v6/my/js/bdm.js
+||51miz.com/index.php?m=Ad&
 ||51mmm.info/template/1/js/gg.js
 ||51pantu.com/pic/1598717206949.gif
 ||51test.net/js_new/a/right_wx.js
@@ -6042,6 +6043,7 @@
 ||cycvyo.xyz^
 ||cycyw.com/mf/
 ||cycyw.com/qdj/
+||cyjqgpf.top^
 ||cyq3noz.icu^
 ||cyretuf.top^
 ||cysgcm.xyz^
@@ -9323,6 +9325,7 @@
 ||iask.cn^*commercial.
 ||iask.cn^*model.
 ||ibaglhc.icu^
+||ibaotu.com/revision/js/ad/
 ||ibf.tw/js/jquery.blockUI.js
 ||ibgksw.xyz^
 ||ibjaknom.com^
