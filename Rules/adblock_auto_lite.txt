@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: VLBA7PiNAzMeMKwM4korMg
+! Checksum: 8oGBwfsaTaPVuTW4u13vrQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241106002957
+! Version: 20241106094427
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-06 00:29:57
-! Total Count: 29538
+! Last modified: 2024-11-06 09:44:27
+! Total Count: 29542
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8272,6 +8272,7 @@
 ||gniew.xyz^
 ||gnrty.kmjkwe.xyz^
 ||gnuoipb.cn^
+||gnyuhzd.icu^
 ||go.*.com/apu.php$redirect=noop.txt,domain=movies.is,image,media,subdocument,stylesheet,script,xmlhttprequest,other
 ||go.adltserv.com^
 ||go.admost.com^
@@ -14708,6 +14709,7 @@
 ||rydzfldt.xyz^
 ||ryhkft.xyz^
 ||ryhuzj.xyz^
+||rykhukxt.icu^
 ||ryqgdrh.icu^
 ||ryrmvd.xyz^
 ||ryvexulg.xyz^
@@ -15794,6 +15796,7 @@
 ||storyren.top/imgg/
 ||stoveseashore.com^$third-party
 ||stq89.icu^
+||stragmik.com^
 ||straightnest.com^$third-party
 ||strangeclocks.com^$third-party
 ||strangesink.com^$third-party
@@ -18950,6 +18953,7 @@
 ||yximgs.com/bs2/adcarsku/sku9c0e68cc-2f12-4e47-a340-a7293ee88c88.
 ||yxkbgg.xyz^
 ||yxptcrss.xyz^
+||yxrmbjw.icu^
 ||yxrxsov.xyz^
 ||yxvoud.com^
 ||yxvyqyy.icu^
