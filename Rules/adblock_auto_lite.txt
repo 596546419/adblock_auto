@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 8oGBwfsaTaPVuTW4u13vrQ
+! Checksum: ZUGqwDnsAsQGFedaEk0kFg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241106094427
+! Version: 20241106163020
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-06 09:44:27
-! Total Count: 29542
+! Last modified: 2024-11-06 16:30:20
+! Total Count: 29545
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9249,6 +9249,7 @@
 ||hyhy2.fun^
 ||hyislou.top^
 ||hyjbdt.xyz^
+||hyjqgpu.top^
 ||hyk9.xyz^
 ||hylaxngo.xyz^
 ||hynahyqq.xyz^
@@ -16026,6 +16027,7 @@
 ||szpzm.cn^
 ||szsbiw.xyz^
 ||szwjzl.cn^$third-party
+||szxf4.icu^
 ||szxljdsb.com/tl
 ||szyepu8.com/data/AADDimg/
 ||szyhqj.com/js/
@@ -16529,7 +16531,6 @@
 ||trafficjam.cn^$third-party
 ||trafficjunky.com^
 ||trafficjunky.net^
-||trafficmanager.net^$domain=xpshuku.com
 ||trafmag.com^
 ||traktum.com^
 ||trandgid.com^$third-party
@@ -17483,6 +17484,7 @@
 ||vrr.name^
 ||vrrw.net//templets/default/js/ad.js
 ||vrwdsvr.icu^
+||vryoacs.icu^
 ||vs*.bozhou666.com^$third-party
 ||vs-api.voodoo-tech.io^
 ||vs1.exo01.xyz^$image,third-party
@@ -18073,6 +18075,7 @@
 ||xayjbz.com/static/images/apc.
 ||xbbhwggj.icu^
 ||xbiqu5.com/12345678.
+||xbiquge99.cc/js/dj
 ||xbiqugela.com/js/basisc.
 ||xbiqugexx.com/js/jamq.
 ||xbiqugexx.com/static/js/wap.js
