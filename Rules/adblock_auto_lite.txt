@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: jH/7N5rod9ZtHmZyDRx7qA
+! Checksum: ca5bxhdl+SZ54dG1N7tiXg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241107094435
+! Version: 20241107162856
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-07 09:44:35
-! Total Count: 29551
+! Last modified: 2024-11-07 16:28:56
+! Total Count: 29555
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5922,6 +5922,7 @@
 ||crosspromotion.weplayer.cc^
 ||crowdedmass.com^$third-party
 ||crtlisf.top^
+||cruhut.com^
 ||crulxoits.com^$third-party
 ||crumpet.xxxpornhd.pro^
 ||crutvncf.top^
@@ -9751,6 +9752,7 @@
 ||iptuy.cn^
 ||iptv444.com/ad-
 ||ipuswrg.cn^
+||ipyhf.icu^
 ||iqbecde.cn^$document
 ||iqbecde.cn^$~third-party
 ||iqede.xyz^
@@ -13842,6 +13844,7 @@
 ||pv966.us/js/tw.js
 ||pvhjkzo.xyz^
 ||pviasld.icu^
+||pvk2e.icu^
 ||pvlnjwr.xyz^
 ||pvnzrr.xyz^
 ||pvpdbth.xyz^
@@ -19230,6 +19233,7 @@
 ||zjdruhn.xyz^
 ||zjg.js.cn/Public/config/Couplet/Index4
 ||zjgfq.com^$third-party
+||zjib0.icu^
 ||zjjhfc.com/js/zt.js
 ||zjjlhvo.xyz^
 ||zjliloveyou.ixiunv.com^
