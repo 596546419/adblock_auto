@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 9r1gOV/U2CaudIyo/Rqjzg
+! Checksum: jH/7N5rod9ZtHmZyDRx7qA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241107002903
+! Version: 20241107094435
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-07 00:29:03
-! Total Count: 29547
+! Last modified: 2024-11-07 09:44:35
+! Total Count: 29551
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8111,6 +8111,7 @@
 ||gffedashb6.fun^
 ||gfjn5.xyz^
 ||gfpvvwf.xyz^
+||gftefmt.icu^
 ||gfylyw.xyz^
 ||gg-led.com/uploadFile/uploadCompanyLogo/*.gif
 ||gg.*.com/tonglan/tonglan.js
@@ -8832,6 +8833,7 @@
 ||heretrail.com^
 ||herogame.com^$subdocument,domain=gamer.com.tw
 ||heryt111.fun^
+||herzotph.icu^
 ||hesitanttoothpaste.com^$third-party
 ||hesramfi.com^
 ||hesrod.icu^
@@ -16760,6 +16762,7 @@
 ||ty-baidu.xyz^
 ||ty121.cn/IAA/
 ||ty8bz.com^
+||tyaduqq.icu^
 ||tyaqzjp.icu^
 ||tybmbbgu.xyz^
 ||tycxhgrp.xyz^
@@ -18647,6 +18650,7 @@
 ||ygfgzmzo.xyz^
 ||ygh5.cn^
 ||ygipjqf.icu^
+||ygoibya.icu^
 ||ygqrki.xyz^
 ||ygshu.com/js/h
 ||ygxgk.cn^
