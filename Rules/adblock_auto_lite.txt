@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: uAsebKVIZ7KYOmxi3Dgi1g
+! Checksum: 7zBjfFon/pqHCthB/pDUxw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241108094516
+! Version: 20241108162950
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-08 09:45:16
-! Total Count: 29563
+! Last modified: 2024-11-08 16:29:50
+! Total Count: 29567
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1031,6 +1031,7 @@
 ||6efgcdcjr000.fun^
 ||6ft8a.icu^
 ||6gcstb.xyz^
+||6gute.icu^
 ||6h1cz.xyz^
 ||6iwoif.com^
 ||6japaneseporn.com/func.js
@@ -13897,6 +13898,7 @@
 ||q1gel.icu^
 ||q1zcp.com^
 ||q27sz.com^
+||q2usj.icu^
 ||q4v3c.site^
 ||q6gub.website^
 ||qaagib.icu^
@@ -15867,6 +15869,7 @@
 ||sufile.com/jsa/
 ||sugarcurtain.com^$third-party
 ||sugarfriction.com^$third-party
+||sugilip.cn^
 ||sugs.m.sm.cn^
 ||suibi8.com/aa1.gif
 ||suibiankan.co/Runtime/Js/
@@ -16580,6 +16583,7 @@
 ||troubledtail.com^$third-party
 ||troubleshade.com^$third-party
 ||trp69.top^
+||trpyceq.cn^
 ||trrmkzesvyqrary.com^
 ||truckstomatoes.com^$third-party
 ||truculentrate.com^$third-party
