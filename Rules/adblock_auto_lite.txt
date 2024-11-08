@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 7zBjfFon/pqHCthB/pDUxw
+! Checksum: mRnZWN3a4jwny2RTp/1VeQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241108162950
+! Version: 20241109003308
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-08 16:29:50
-! Total Count: 29567
+! Last modified: 2024-11-09 00:33:08
+! Total Count: 29570
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6287,6 +6287,7 @@
 ||de.as.pptv.com^
 ||deadpanmarble.com^$third-party
 ||deafeningdock.com^$third-party
+||deafeningphone.com^
 ||dealmoon.com/hotdeals/hotdeals_scroller.php
 ||dealmoon.com/upload/dealmoon_app.jpg
 ||deansent.top^
@@ -9857,6 +9858,7 @@
 ||its.porn/ai/s/*/im.
 ||its.porn/ai/s/s/js/m/push.js
 ||itshang.com/*/*/tools.js$script
+||ittaels.com^
 ||ituba.cc/uploads/allimg/201610/603/
 ||itv.hexun.com
 ||itwzlyq.com^
@@ -13281,6 +13283,7 @@
 ||phb123.com/skin/js/tongji.js
 ||phbkm.com/js/
 ||phcrjth.xyz^
+||pheqae.com^
 ||phimvu.app^$third-party
 ||phjtxx.xyz^
 ||phk.nmkstcrt.xyz^
