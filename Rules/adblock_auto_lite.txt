@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: lDHmGGMS0CHIddtHWe0h/Q
+! Checksum: uAsebKVIZ7KYOmxi3Dgi1g
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241108002857
+! Version: 20241108094516
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-08 00:28:57
-! Total Count: 29557
+! Last modified: 2024-11-08 09:45:16
+! Total Count: 29563
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6425,6 +6425,7 @@
 ||dhkipdsc.xyz^
 ||dhl.135320.com^
 ||dhl4.xyz^
+||dhukul.com^
 ||dhxrop.com^
 ||dhxrxn.xyz^
 ||di2y21.top/jian/jiansshu.js
@@ -6521,6 +6522,7 @@
 ||dk45h.icu^
 ||dk4ywix.com^$third-party
 ||dkasdeerw.xyz^
+||dkasffredf.xyz^
 ||dkcwnsu.xyz^
 ||dkhffh.xyz^
 ||dkstrtss.xyz^
@@ -14096,6 +14098,7 @@
 ||qnqtgyq.icu^
 ||qnsb.com/news/index.php?m=poster&
 ||qnvod.net/qna/
+||qnvwjpr.icu^
 ||qooav.top^
 ||qoqoangry.com^
 ||qoswfds.cn^
@@ -14420,6 +14423,7 @@
 ||regulatesleet.com^$third-party
 ||regwiuv.cn^
 ||rehabilitatereason.com^$third-party
+||reisyxy.icu^
 ||rejectfairies.com^$third-party
 ||relafp.xyz^
 ||relationrest.com^$third-party
@@ -18307,6 +18311,7 @@
 ||xlypzbzs.xyz^
 ||xlyzjs.com$third-party
 ||xmawwbz.icu^
+||xmcdn.com/storages/97b8-customerservice/E7/5E/GKwRIJILApO8AALGLwMrioMa.
 ||xmcimg.com/js/m.js
 ||xmhszb.xyz^
 ||xmi1.top^
@@ -18869,6 +18874,7 @@
 ||yqlxwb.icu^
 ||yqrta.xyz^$third-party
 ||yqspiy.xyz^
+||yrarhzuq.xyz^
 ||yretx.cn^
 ||yrr56.com/mp4/pt_720.
 ||yrszy.com.cn^
