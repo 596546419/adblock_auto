@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: lgndFroBFOx8g+8RoFt6DA
+! Checksum: fCL2Q9tHqVhbLBzKhSzELw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241109094209
+! Version: 20241109162755
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-09 09:42:09
-! Total Count: 29579
+! Last modified: 2024-11-09 16:27:55
+! Total Count: 29582
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -708,6 +708,7 @@
 ||4080kan.com/js/head1.js
 ||40wan.com/js/www2/
 ||415677.com^
+||41grk.icu^
 ||420909.cn^
 ||42cao.com/ckplay/js.jpg
 ||4399.com/baiduad/
@@ -7047,6 +7048,7 @@
 ||ed2000k.com/ad/
 ||eda.ru/_next/static/images/banner_adv
 ||edadmy.xyz^
+||eddcc.icu^
 ||edghkc.xyz^
 ||edickew.top^
 ||edipsumw.top^
@@ -10931,6 +10933,7 @@
 ||kxmusic.cn/tc/js/script.js
 ||kxmusic.top/tc/js/script.js
 ||kxxfdwt.cn^
+||kxygsjv.icu^
 ||ky595images.com^
 ||ky891.oss-*.aliyuncs.com^
 ||kyaywy.xyz^
