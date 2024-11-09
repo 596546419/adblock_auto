@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: mRnZWN3a4jwny2RTp/1VeQ
+! Checksum: lgndFroBFOx8g+8RoFt6DA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241109003308
+! Version: 20241109094209
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-09 00:33:08
-! Total Count: 29570
+! Last modified: 2024-11-09 09:42:09
+! Total Count: 29579
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -790,6 +790,8 @@
 ||51hanhua.com/2013/
 ||51hir.cyou^
 ||51img1.com/v6/my/js/bdm.js
+||51jiajiao.top/public/*/plugins/
+||51jiajiao.top/public/1/assets/js/custom/tt.
 ||51miz.com/index.php?m=Ad&
 ||51mmm.info/template/1/js/gg.js
 ||51pantu.com/pic/1598717206949.gif
@@ -899,6 +901,7 @@
 ||58cdn.com.cn/ds/zhuangxiu/jzad-
 ||58cdn.com.cn/nowater/webim/big/n_v2e722db7ca7f1458d92b7d6e57f833548.
 ||58file.com/down/xyk.
+||58shuz.com^
 ||58tg.com^$third-party
 ||59.36.101.209:888/link/*_280x192.
 ||591520.xyz^
@@ -1016,6 +1019,7 @@
 ||68287zubo85737.com^
 ||6888i.top^
 ||688aaa.us^
+||68yscw.com^
 ||692881.com^
 ||693836.com^$popup
 ||6969aa.cn^
@@ -4025,6 +4029,7 @@
 ||avseesee.com/htmls/vlinks.html
 ||avseesee.com/twad
 ||avvfjhg.xyz^
+||avxonsp.icu^
 ||awakebird.com^$third-party
 ||awarealley.com^$third-party
 ||awareista.com^
@@ -6589,6 +6594,7 @@
 ||dmzj.com/js/m_BtmApp.js
 ||dmzj1.com/js/ad/
 ||dn*.ixinwei.com^
+||dn4qoz.com^
 ||dnceqzz.icu^
 ||dnfnpff.xyz^
 ||dngz.net/x/
@@ -8413,6 +8419,7 @@
 ||gridline.cn^
 ||grihaith.com^
 ||gripcorn.com^$third-party
+||grirqaks.com^
 ||grondrens.com^
 ||grouchypush.com^$third-party
 ||grtarpcf963.top^
@@ -15981,8 +15988,6 @@
 ||systemizecoat.com^$third-party
 ||syuwkbb.top^
 ||sz88.oss-cn-shenzhen.aliyuncs.com^
-||szaction.cc/public/*/plugins/
-||szaction.cc/public/1/assets/js/custom/tt.
 ||szafvjdd.icu^
 ||szapaqi.cn^
 ||szbhb.cn^
@@ -16526,6 +16531,7 @@
 ||tpyerxzn.xyz^
 ||tpzatf.xyz^
 ||tq121.com.cn/j/ad/
+||tqanmatx.icu^
 ||tqbrnd.xyz^
 ||tqdctl.xyz^
 ||tqdpqq.com^
@@ -16575,6 +16581,7 @@
 ||tributesexually.com^
 ||tributesexually.com^$popup
 ||trickycelery.com^$third-party
+||trimmoits.com^
 ||trip.com/partners/ad/
 ||tristoshink.online/libs/check.js
 ||tritebadge.com^$third-party
@@ -18350,6 +18357,7 @@
 ||xn--mts60is5y5uk.com^
 ||xn--mtso8sj6menhyil.online^$third-party
 ||xn--sssy7vrppusjyv0a.com^
+||xn--swt207gl1hzc.net^
 ||xn--w9q675dm1p7em.net^
 ||xn--wgvp78a61swpe6zdozj.cn^
 ||xn--wxtr9fwyxk9c.club^$third-party
@@ -27069,6 +27077,7 @@ zle.com$script
 ##.readerListADbox
 ##.readmidad
 ##.recommended-grids > .file[style="margin: 5px 2px 5px 2px;"]
+##.relative > div > img[sizes="100vh"][width="0"]
 ##.remove-adblock-msg
 ##.remove-ads
 ##.right > .content > .ads
