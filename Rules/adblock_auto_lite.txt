@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: uyPOXKzxIKJAhqq6OIH63w
+! Checksum: 6EdA447lX+znJlAAwsX3EQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241110002637
+! Version: 20241110095011
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-10 00:26:37
-! Total Count: 29583
+! Last modified: 2024-11-10 09:50:11
+! Total Count: 29587
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -10440,6 +10440,7 @@
 ||jwerioa.top^
 ||jwfesuk.cn^
 ||jwhdgt.icu^
+||jwhjqjfl.icu^
 ||jwjzf.online^
 ||jwltpv.xyz^
 ||jwronx.xyz^
@@ -10601,6 +10602,7 @@
 ||kdslife.com/ui/ad/
 ||kdvmnn.com^
 ||kdw*.com/layer/layer.js
+||kdzgrvn.icu^
 ||ke4x.xyz^
 ||kebi1.top^$third-party
 ||kebohjhh.xyz^
@@ -11062,6 +11064,7 @@
 ||lbx777.*/css/300.js
 ||lbx777.*/css/lbxgg02
 ||lc442.com^
+||lcd.aivote.com^
 ||lcefsf.icu^
 ||lcid.top^
 ||lcjyll.xyz^
@@ -15224,6 +15227,7 @@
 ||shentongjiakao.ren^
 ||shenyelook.com/assets/publish/$script
 ||shequdaohang.com^$third-party
+||shestieh.com^
 ||shesubscriptions.com^$third-party
 ||shewang.net/images/*/900x
 ||shewang.net/images/*/CHD
