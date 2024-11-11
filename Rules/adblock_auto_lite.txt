@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 2qIqgpQ/lyNvIwi0cu0Dfw
+! Checksum: QLuGvftiEEC3XzUFMr53vg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241111094716
+! Version: 20241111162946
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-11 09:47:16
-! Total Count: 29592
+! Last modified: 2024-11-11 16:29:46
+! Total Count: 29597
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6259,6 +6259,7 @@
 ||dcdf4.com^
 ||dcdglb.xyz^
 ||dceuhnpc57.shop^
+||dchdmhf.cn^
 ||dchyjb.xyz^
 ||dciep.xyz^
 ||dclpjx.xyz^
@@ -7125,6 +7126,7 @@
 ||eiegkg.xyz^
 ||eifyeldw.top^
 ||eignky.xyz^
+||eiphrut.com^
 ||eiqsky.xyz^
 ||eitb7.top^
 ||eiuoom.xyz^
@@ -9777,6 +9779,7 @@
 ||iqgessh.icu^
 ||iqgoukn.cn^
 ||iqhx7.com^$third-party,script
+||iqi4l.icu^
 ||iqilu.com/getZone.php
 ||iqilu.com/static_files/multiads/
 ||iqilu.com/static_files/richmedia/
@@ -14183,6 +14186,7 @@
 ||qqtn.com/js/html/down_
 ||qqtn.com/skin/know/
 ||qqvlsr.icu^
+||qqxi6.icu^
 ||qqxiazai.com/index.*adver&
 ||qqyjis.xyz^
 ||qqyy.com/js/commAdv
@@ -15564,6 +15568,7 @@
 ||soothingglade.com^$third-party
 ||sophisticatedstory.com^$third-party
 ||sophisticatedstove.com^$third-party
+||sopqvhe.cn^
 ||sor.pornxok.com^
 ||sordidsmile.com^$third-party
 ||sordidstation.com^$third-party
