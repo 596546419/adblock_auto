@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 0VGoD1Wot/ANgklb3ljI2A
+! Checksum: OOqAjQRrwTape52AWlziCA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241112002941
+! Version: 20241112094354
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-12 00:29:41
-! Total Count: 29599
+! Last modified: 2024-11-12 09:43:54
+! Total Count: 29604
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3734,6 +3734,7 @@
 ||anywlan.com/link/*.gif
 ||aoakss.com^
 ||aoao11111iis.top^
+||aoao11120iis.top^
 ||aobtwv.icu^
 ||aogk88.asia^
 ||aoiqa.top^
@@ -5210,6 +5211,7 @@
 ||cbcgqs.xyz^
 ||cbcvou.xyz^
 ||cbdm.weathercn.com^
+||cbdqzbi.icu^
 ||cbfw.cn/gonggong/chibi/cf_
 ||cbgrqi.xyz^
 ||cbjs.baidu.com^
@@ -10906,6 +10908,7 @@
 ||kuxfznnf.xyz^
 ||kuxkddg.cn^
 ||kv8899.com^
+||kvaedit.site^
 ||kvbgoc.com^
 ||kveff.com^
 ||kvhee.com^
@@ -14620,6 +14623,7 @@
 ||ronm.top^
 ||rooby.cyou^
 ||roomyreading.com^$third-party
+||roqairs.com^
 ||roseincome.com^$third-party
 ||rossoad.com^
 ||rotaban.ru^
@@ -15367,6 +15371,7 @@
 ||sitescout.com^
 ||sitewithg.com^
 ||sitv.com.cn/cookiead.php
+||sivxobpn.icu^
 ||sixauthority.com^$third-party
 ||sixscissors.com^$third-party
 ||sizesidewalk.com^$third-party
