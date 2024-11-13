@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: sO8DPfsJaKCPbVgdzPF8JA
+! Checksum: 1J5Q8dajoLJncffNleHkDA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241113094602
+! Version: 20241113163027
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-13 09:46:02
-! Total Count: 29614
+! Last modified: 2024-11-13 16:30:27
+! Total Count: 29620
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5548,6 +5548,7 @@
 ||chunmiaosh.com^
 ||chunyuqiufeng.com^
 ||chunyuqiufeng.com^$third-party
+||chupl.icu^
 ||chusan.com/js/m*_
 ||chushoushijian.cn^
 ||chushoushijian.cn^$third-party
@@ -6035,6 +6036,7 @@
 ||cvudqzoa.xyz^
 ||cvujac.xyz^
 ||cwaterf.top^
+||cweisif.top^
 ||cwerilxf.top^
 ||cweriof.top^
 ||cwgshkz.cn^
@@ -13911,6 +13913,7 @@
 ||pxx.tnklrs.cn^$third-party
 ||pxxcyni.cn^
 ||pxxnejx.xyz^
+||pxyjqea.icu^
 ||pxzkqq.com^
 ||pxzrlf.xyz^
 ||py.cn/src/img/pyy/
@@ -18597,6 +18600,7 @@
 ||xzyituo.com^
 ||y.21haodianmt.com^$third-party
 ||y.photoint.net^
+||y0mwy.icu^
 ||y1.junshitt.com^
 ||y1.spreton.com^
 ||y2ax5.y0tf2wp.online^$third-party
@@ -27532,6 +27536,7 @@ zle.com$script
 ##a[href*=".html?channelCode="]
 ##a[href*=".htvip24.app"]
 ##a[href*=".htvip27.app"]
+##a[href*=".huibo222.com/"]
 ##a[href*=".hyenadata.com/"]
 ##a[href*=".icekingshop.com/"]
 ##a[href*=".imiwang.com/"]
@@ -27548,6 +27553,7 @@ zle.com$script
 ##a[href*=".mhtimes.cn"]
 ##a[href*=".mjjji.com/"]
 ##a[href*=".mmrjmh.com/"]
+##a[href*=".moo8923.net"]
 ##a[href*=".mp388.com/"]
 ##a[href*=".n7.org.cn"]
 ##a[href*=".nffhome.com/"]
