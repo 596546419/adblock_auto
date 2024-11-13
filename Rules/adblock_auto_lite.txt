@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 1J5Q8dajoLJncffNleHkDA
+! Checksum: N59lB17+CB6ePPKuWHGyug
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241113163027
+! Version: 20241114002841
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-13 16:30:27
-! Total Count: 29620
+! Last modified: 2024-11-14 00:28:41
+! Total Count: 29624
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -2652,6 +2652,7 @@
 ||ads.ad3d.icu^
 ||ads.adadapted.com^
 ||ads.adfox.ru/*/getCode?p1=$domain=auth.wi-fi.ru,replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/,important
+||ads.adinmotech.com^
 ||ads.aerserv.com^
 ||ads.aitype.net^
 ||ads.appsgeyser.com^
@@ -9246,6 +9247,7 @@
 ||hw0.com.cn^
 ||hwateru.top^
 ||hwcdn.net^*.mp4|$domain=pornachi.com|pornchimp.com
+||hweisiu.top^
 ||hwerilxu.top^
 ||hweriou.top^
 ||hwfoct.icu^
@@ -18501,6 +18503,7 @@
 ||xunyugong.xyz/sitejs/xunyugong.js
 ||xuoizbtl.xyz^
 ||xuruochen.cn^
+||xuugnuits.com^
 ||xuwfmhh.icu^
 ||xuxiaoran.xyz^
 ||xuxwvh.xyz^
@@ -27568,6 +27571,7 @@ zle.com$script
 ##a[href*=".pcjx365.com/"]
 ##a[href*=".rookiego.com"]
 ##a[href*=".rrrmrm.com/"]
+##a[href*=".skw036.cc"]
 ##a[href*=".sng.link/"]
 ##a[href*=".ssmh"][href*="?u="]
 ##a[href*=".sudun.com/"]
