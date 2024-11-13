@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: kmLuUz/48wdS9LMVMfYdZg
+! Checksum: sO8DPfsJaKCPbVgdzPF8JA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241113003017
+! Version: 20241113094602
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-13 00:30:17
-! Total Count: 29608
+! Last modified: 2024-11-13 09:46:02
+! Total Count: 29614
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1451,6 +1451,7 @@
 ||a.bxwblog.cn^
 ||a.cnki.net/a/
 ||a.cookpad-ads.com^
+||a.d/adblo_ck.jpg
 ||a.dlads.cn^$third-party
 ||a.duanmeiwen.com^
 ||a.duduji.com^
@@ -4034,6 +4035,7 @@
 ||avseesee.com/amandison.php
 ||avseesee.com/htmls/vlinks.html
 ||avseesee.com/twad
+||avspda.xyz^$third-party
 ||avvfjhg.xyz^
 ||avxonsp.icu^
 ||awakebird.com^$third-party
@@ -8184,6 +8186,7 @@
 ||ggxwb.miguvideo.com^
 ||ghabnq.xyz^
 ||ghbdsbfd.com^
+||gheqien.com^
 ||ghgasdb365.shop^
 ||ghgasdt963.shop^
 ||ghghgf.51dongshi.com^
@@ -11379,6 +11382,7 @@
 ||localau.vip/plugin/show.php
 ||localau.vip/tccenter/ad/
 ||loccgn.icu^
+||locpikbb.icu^
 ||lofter.com/mailEntryMobile.do
 ||log.kajicam.com^
 ||log.m.sm.cn^
@@ -12018,6 +12022,7 @@
 ||mixmarket.biz^
 ||miycoc.xyz^
 ||mjappzvz.xyz^
+||mjbidlg.icu^
 ||mjne.dtdnnrs.cn^$third-party
 ||mk795.cn^
 ||mkbbjtfp.xyz^
@@ -14577,6 +14582,7 @@
 ||rjlfolk.xyz^
 ||rjsos.com/channel/laomo_dibu.png
 ||rjwljrf.xyz^
+||rjwpwod.icu^
 ||rjzqtz.xyz^
 ||rjzxw.com/include/
 ||rk6h3.icu^
