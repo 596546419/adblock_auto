@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 2DW/g8/kfcSlwfx1B4kPtg
+! Checksum: AUqh9eMllLe3+LXkzWoi1g
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241114163016
+! Version: 20241115003042
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-14 16:30:16
-! Total Count: 29632
+! Last modified: 2024-11-15 00:30:42
+! Total Count: 29637
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5328,6 +5328,8 @@
 ||cdn77.org^*.mp4|
 ||cdn93d99x0e.23bei.com^
 ||cdncg.com^*/Aepku
+||cdncg.com^*/FCPXku.
+||cdncg.com^*/kangmey
 ||cdncg.com^*/peiyinquan
 ||cdncloud.asia^
 ||cdndm.com/12/2016/$domain=1kkk.com|dm5.com
@@ -10459,6 +10461,7 @@
 ||jvmxrug.xyz^
 ||jwandla.top^
 ||jwatera.top^
+||jweisia.top^
 ||jweod.xyz^
 ||jweoe.xyz^
 ||jwerilxa.top^
@@ -16795,6 +16798,7 @@
 ||twinrdsrv.com^$document
 ||twinrdsrv.com^$~third-party
 ||twj6s.icu^
+||twkan.com/js/otherad
 ||twlcyc.cn^
 ||twlmq.space^
 ||twnafj.xyz^
@@ -17509,6 +17513,7 @@
 ||vnfsbl.xyz^
 ||vnq3.top^
 ||vns86.oss-*.aliyuncs.com^
+||vnuuh.icu^
 ||vnvyhj.xyz^
 ||voc.com.cn/adsClick/
 ||voc.com.cn/js/xc/
