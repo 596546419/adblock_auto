@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: TQo53XdLhQQkJWg9y7T/zg
+! Checksum: 2DW/g8/kfcSlwfx1B4kPtg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241114094614
+! Version: 20241114163016
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-14 09:46:14
-! Total Count: 29628
+! Last modified: 2024-11-14 16:30:16
+! Total Count: 29632
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9922,6 +9922,7 @@
 ||iwarship.net/wowsdb/static/img/banner.png
 ||iwatero.top^
 ||iwatojc.cn^
+||iweisio.top^
 ||iwerilxo.top^
 ||iwerioo.top^
 ||iwmigu.xyz^
@@ -11532,6 +11533,7 @@
 ||lwrohd.xyz^
 ||lwtqqq.com^
 ||lwurserl.top^
+||lwvrv.icu^
 ||lwwlkj1.cn^
 ||lwzdzf.xyz^
 ||lx5.homeporntuber.com^
@@ -16907,6 +16909,7 @@
 ||u55011.com^
 ||u55022.com^
 ||u5nvu.xyz^
+||u5ps5.icu^
 ||u644.fun^
 ||u66099.com^
 ||u68t5.icu^
@@ -17991,6 +17994,7 @@
 ||wqzmed.cn^
 ||wr.yiyouliao.com^
 ||wrapstretch.com^$third-party
+||wrdamoe.icu^
 ||wreckvolcano.com^$third-party
 ||writewealth.com^$third-party
 ||wrongpotato.com^$third-party
