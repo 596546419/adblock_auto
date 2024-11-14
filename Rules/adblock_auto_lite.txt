@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: N59lB17+CB6ePPKuWHGyug
+! Checksum: TQo53XdLhQQkJWg9y7T/zg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241114002841
+! Version: 20241114094614
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-14 00:28:41
-! Total Count: 29624
+! Last modified: 2024-11-14 09:46:14
+! Total Count: 29628
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4940,6 +4940,7 @@
 ||buhgalter.com.ua^*/blocker.
 ||buhgalter911.com^*/blocker.
 ||buhlvp.pojuko.buzz^
+||bujlmitd.icu^
 ||bujz.top^
 ||bulbbait.com^$third-party
 ||bumimi.com/money/
@@ -6237,6 +6238,7 @@
 ||data.bilibili.com/log
 ||data.waptime.cn^
 ||data2.doodlemobile.com^
+||dataflow.biliapi.com^
 ||dataguru.cn/site_
 ||datajsext.com^
 ||dataoke.com/api/component/code-info/v1?
@@ -8443,6 +8445,7 @@
 ||grirqaks.com^
 ||grondrens.com^
 ||grouchypush.com^$third-party
+||grpc.biliapi.net^
 ||grtarpcf963.top^
 ||grthhr.xyz^
 ||grtimed.com/material/*_960x110_
@@ -9164,6 +9167,7 @@
 ||htseca.top^
 ||httpcn.com/Images/banner
 ||httpcn.com/m/tg/
+||httpdns.bilivideo.com^
 ||httpool.com^
 ||httpwwwdcom.com/js/aaa/
 ||htubzpb.cn^
