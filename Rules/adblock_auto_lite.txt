@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: wovivh7YKCaF4UBJGUQMyg
+! Checksum: O19NJSt7nTILpKo65bkUMg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241117002954
+! Version: 20241117095707
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-17 00:29:54
-! Total Count: 29648
+! Last modified: 2024-11-17 09:57:07
+! Total Count: 29656
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6598,6 +6598,7 @@
 ||dm1.zjydt.com^
 ||dmdnlr.xyz^
 ||dmeia.xyz^
+||dmevejjt.icu^
 ||dmg-dd.oss-accelerate.aliyuncs.com^
 ||dmm.aizhan.com^
 ||dmnqfn.xyz^
@@ -8102,6 +8103,7 @@
 ||gdxxb.com^$third-party
 ||gdyjs.com^
 ||gdz0cqs.icu^
+||ge189.com^
 ||ge3shbdf1.fun^
 ||ged46.xyz^
 ||gedafdshb7.fun^
@@ -12055,6 +12057,7 @@
 ||mldzwmt.xyz^
 ||mlegyu.xyz^
 ||mlgowell.com^
+||mlgowell.org^
 ||mlhdvjv.xyz^
 ||mlhtr.cn^
 ||mlicci.xyz^
@@ -17177,6 +17180,8 @@
 ||uselesslumber.com^$third-party
 ||user.042.cn/adver/adver.js
 ||usfw2eu.icu^
+||usgowell.com^
+||usgowell.org^
 ||usingde.com^$third-party
 ||usjbwvtqwv.com^$third-party
 ||uskecsx.icu^
@@ -18076,6 +18081,7 @@
 ||ww9874.com/asset/playerInit.js
 ||wwads.cn^$third-party
 ||wwandle.top^
+||wweisie.top^
 ||wwerioe.top^
 ||wwgqqq.com^
 ||wwhsxwow.xyz^
@@ -19051,6 +19057,7 @@
 ||yxgqgq.xyz^
 ||yximgs.com/bs2/adcarsku/sku1563a96c-38ca-4563-a4b5-522208113126.
 ||yximgs.com/bs2/adcarsku/sku9c0e68cc-2f12-4e47-a340-a7293ee88c88.
+||yxjcyxy.icu^
 ||yxkbgg.xyz^
 ||yxptcrss.xyz^
 ||yxrmbjw.icu^
@@ -27320,6 +27327,7 @@ zle.com$script
 ##A[href*=".com/?Agent="]
 ##A[href="http://t.cn/A6hQCVsv"]
 ##A[href^="/e/public/ClickAd?adid="]
+##A[onclick^="diensfeifwejwdsfwemio"]
 ##[ad_display_dot]
 ##[ad_dot_url]
 ##[class$="-ad-box"]
