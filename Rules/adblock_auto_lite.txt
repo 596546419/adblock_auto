@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: WcjCh1U6Jv7msG+wcBRvnQ
+! Checksum: Z7KcL3f1BpweewIIKyK1Ww
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241119003125
+! Version: 20241119095216
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-19 00:31:25
-! Total Count: 29667
+! Last modified: 2024-11-19 09:52:16
+! Total Count: 29670
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8450,6 +8450,7 @@
 ||grihaith.com^
 ||gripcorn.com^$third-party
 ||grirqaks.com^
+||gritoils.com^
 ||grondrens.com^
 ||grouchypush.com^$third-party
 ||grpc.biliapi.net^
@@ -15516,6 +15517,7 @@
 ||snipersex.com^
 ||snjfasp.com^
 ||snmi.cn^$third-party
+||snnmgdt.icu^
 ||snoresmile.com^$third-party
 ||snueirk.icu^
 ||snux.cn^
@@ -16338,6 +16340,7 @@
 ||tgryfh.xyz^
 ||tgvgzt.xyz^
 ||tgwfaz.icu^
+||thacreks.com^
 ||thavrils.com^
 ||thboxp.xyz^
 ||thcaes.top^
