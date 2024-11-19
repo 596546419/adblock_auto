@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: rFsq06t7v67HuyZ0qdUlmQ
+! Checksum: EMC04GdsAdhVVMDlzLNJJA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241119163124
+! Version: 20241120002937
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-19 16:31:24
-! Total Count: 29671
+! Last modified: 2024-11-20 00:29:37
+! Total Count: 29675
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1105,6 +1105,7 @@
 ||78land.com/js/fumeiti.js
 ||79181531227.com^
 ||797sun.com/include/js/common_footer.
+||7aey.icu^
 ||7bspu.site^
 ||7c.com/7c_
 ||7car.com.cn^
@@ -5677,6 +5678,7 @@
 ||cmbmtpjm.xyz^
 ||cmdcdacq.xyz^
 ||cmdy5.com/js/waptbplay2.js
+||cmelr.com^
 ||cmiega.top^
 ||cmm.xmfish.com^
 ||cmqxy.cn^
@@ -9182,6 +9184,7 @@
 ||httpwwwdcom.com/js/aaa/
 ||htubzpb.cn^
 ||htvixv.xyz^
+||htwjo.com^
 ||htxwzp.xyz^
 ||hty9m.cn^
 ||htyusiu.top^
@@ -14946,6 +14949,7 @@
 ||sciencenet.cn/html/js/n
 ||scientificshirt.com^$third-party
 ||scientificsneeze.com^$third-party
+||scihuns.com^
 ||scint-x.com/js/
 ||scintillatingscissors.com^$third-party
 ||scintillatingsilver.com^$third-party
