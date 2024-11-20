@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: xtF2Q9dYV1YPSgUm8TR8Uw
+! Checksum: yr0EDP2x2dnvbcpyqP29xg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241120095056
+! Version: 20241120163214
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-20 09:50:56
-! Total Count: 29679
+! Last modified: 2024-11-20 16:32:14
+! Total Count: 29683
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -366,6 +366,7 @@
 ||199aaa.us^
 ||19qiqi.com/mid/
 ||1bctkn.xyz^
+||1buo.icu^
 ||1buu1.penyouw.com^
 ||1cdhf.top^
 ||1cecn.icu^
@@ -3739,10 +3740,12 @@
 ||anyunwl04.com^
 ||anywlan.com/link/*.gif
 ||ao1118kas.top^
+||ao1120kas.top^
 ||aoakss.com^
 ||aoao11111iis.top^
 ||aoao11120iis.top^
 ||aoao11121iis.top^
+||aoao11201iis.top^
 ||aobtwv.icu^
 ||aogk88.asia^
 ||aoiqa.top^
@@ -7600,6 +7603,7 @@
 ||fernandou.online^
 ||ferriesendless.com^
 ||festaporno.com^$third-party
+||feubgzfx.icu^
 ||fewkittens.com^$third-party
 ||ff.guidaye.com^
 ||ff.meikanguo.com^
