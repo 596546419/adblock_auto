@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: yr0EDP2x2dnvbcpyqP29xg
+! Checksum: FQXdFQF6q8tras5bN2p7og
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241120163214
+! Version: 20241121003115
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-20 16:32:14
-! Total Count: 29683
+! Last modified: 2024-11-21 00:31:15
+! Total Count: 29687
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -695,6 +695,7 @@
 ||3q1lsj.cn^
 ||3qcc.com/js/bb.js
 ||3ri.cc^
+||3sas.icu^
 ||3uvz5.xyz^
 ||3v7c7y.online^$third-party
 ||3wk.cc/images/*.gif
@@ -6050,6 +6051,7 @@
 ||cvujac.xyz^
 ||cwaterf.top^
 ||cweisif.top^
+||cweizaf.top^
 ||cwerilxf.top^
 ||cweriof.top^
 ||cwgshkz.cn^
@@ -12954,6 +12956,7 @@
 ||olelive.com/v1/pub/index/anchor/check/pc/e?
 ||olgame.tw/home/attachment/
 ||olgcpwc.icu^
+||olgrae.com^
 ||olltcqg.xyz^
 ||olmnvbgufy.top^
 ||olmsoneenh.info^$domain=avgle.com
@@ -14589,6 +14592,7 @@
 ||riamiavid.com^
 ||riaway.com/statics/idea.jpg
 ||richh.cn^
+||richlifeads.ru^
 ||richpays.com^
 ||richreceipt.com^$third-party
 ||richstring.com^$third-party
