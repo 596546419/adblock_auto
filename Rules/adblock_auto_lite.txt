@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: EYNOcWvlQ2yq8a2Q2/9Xyw
+! Checksum: m7gJo1gytEXuufNjTFSkjw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241121163123
+! Version: 20241122003120
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-21 16:31:23
-! Total Count: 29695
+! Last modified: 2024-11-22 00:31:20
+! Total Count: 29701
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3757,6 +3757,7 @@
 ||aol32.cn^
 ||aolusb.com/forever/
 ||aomeng.net^$third-party
+||aomsitf.com^
 ||aoshi.com/rbc.jpg
 ||aotu43.com/templates/defboot/js/duilian.js
 ||aourgk.xyz^
@@ -4608,6 +4609,7 @@
 ||biaoge.tv/fa
 ||bicid.xyz^
 ||biddingx.com^$third-party
+||bidjora.com^
 ||bidsopt.com^
 ||bieuc.icu^
 ||bifyeldv.top^
@@ -9951,6 +9953,7 @@
 ||iwatero.top^
 ||iwatojc.cn^
 ||iweisio.top^
+||iweizao.top^
 ||iwerilxo.top^
 ||iwerioo.top^
 ||iwmigu.xyz^
@@ -11529,6 +11532,7 @@
 ||lutrbr.xyz^
 ||lutube2310.com^$document
 ||lutube2310.com^$~third-party
+||luunels.com^
 ||luuss.cn^
 ||luyarvx.icu^
 ||luyongkang.top^$third-party
@@ -13460,6 +13464,7 @@
 ||pixoctopus.pixnet.net^
 ||pizzasnut.com^$third-party
 ||pjaihds.icu^
+||pjb9gv9.xyz^
 ||pjbjzf.com^
 ||pjcijbv.icu^
 ||pjcn.org^$third-party
@@ -14015,6 +14020,7 @@
 ||qc1.cheshipin.com^
 ||qcb2xeg.icu^
 ||qcepqj.icu^
+||qcixkb1.xyz^
 ||qcohkm.xyz^
 ||qcsvku.xyz^
 ||qcvf.ifeng.com^
