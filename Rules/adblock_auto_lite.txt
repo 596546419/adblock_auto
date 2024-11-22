@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: dSWzuhHyvhvvNDdyUnN88Q
+! Checksum: OxxRJgRHz2FipYRty5fqpQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241122163118
+! Version: 20241123003148
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-22 16:31:18
-! Total Count: 29707
+! Last modified: 2024-11-23 00:31:48
+! Total Count: 29710
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5923,6 +5923,7 @@
 ||crazyit8.com^
 ||crbbhp.xyz^
 ||creaders.net*/ad_func.js
+||creative*.bidease.com^
 ||creative.141live.com/widgets/Spot/
 ||creative.live.bestjavporn.com^
 ||creative.live.javhdporn.net/widgets/Spot/lib.js
@@ -6789,6 +6790,7 @@
 ||dramaticcondition.com^$third-party
 ||dramaticdirection.com^$third-party
 ||dreamycanyon.com^$third-party
+||drenqils.com^
 ||dressexpansion.com^$third-party
 ||dreuaxk.icu^
 ||drfvtgbyk.xyz^
@@ -10977,6 +10979,7 @@
 ||kwaterd.top^
 ||kwcmrfb.cn^
 ||kweisid.top^
+||kweizad.top^
 ||kwerilxd.top^
 ||kweriod.top^
 ||kwflvcdn.000dn.com^*.flv
