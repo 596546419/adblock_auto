@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: OxxRJgRHz2FipYRty5fqpQ
+! Checksum: cHJb+uiTrnJzugnXxJhGpQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241123003148
+! Version: 20241123094927
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-23 00:31:48
-! Total Count: 29710
+! Last modified: 2024-11-23 09:49:27
+! Total Count: 29717
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3742,10 +3742,13 @@
 ||anythinktech.com^
 ||anyunwl04.com^
 ||anywlan.com/link/*.gif
+||ao11*kas.top/$script,third-party
 ||ao1118kas.top^
 ||ao1120kas.top^
 ||ao1122kas.top^
+||ao1123kas.top^
 ||aoakss.com^
+||aoao11*iis.top/$script,third-party
 ||aoao11111iis.top^
 ||aoao11120iis.top^
 ||aoao11121iis.top^
@@ -6019,6 +6022,7 @@
 ||cuaeblh.icu^
 ||cubchannel.com^$third-party
 ||cuioxbqi.com^
+||cukuix.com^
 ||cul.xunjiu.online^
 ||culturedfeather.com^$third-party
 ||cumbersomecake.com^$third-party
@@ -9292,6 +9296,7 @@
 ||hwivedn.icu^
 ||hwnod.xyz^
 ||hwnojj.xyz^
+||hwplypbn.icu^
 ||hwpvbdj.xyz^
 ||hwuogmusthxfpk.xyz^
 ||hwurseru.top^
@@ -16797,6 +16802,7 @@
 ||tui56.com/guanggao*.html
 ||tuicool.com/images/upload/aliyun
 ||tujohhbkeab.com^$third-party
+||tukveks.com^
 ||tuky889900.com^
 ||tumbleicicle.com^$third-party
 ||tunovl.xyz^
@@ -19423,6 +19429,7 @@
 ||zmfdjb.xyz^
 ||zmk.pw/zfb.png
 ||zmklhev.cn^
+||zmrmbc.xyz^
 ||zmvopcio.icu^
 ||zn46.com/images/*0x
 ||zndvfrl.xyz^
