@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: cHJb+uiTrnJzugnXxJhGpQ
+! Checksum: 8a7dQb4F6g0n4Sf88OOKKQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241123094927
+! Version: 20241123162925
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-23 09:49:27
-! Total Count: 29717
+! Last modified: 2024-11-23 16:29:25
+! Total Count: 29722
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7198,6 +7198,7 @@
 ||elecfans.com/static/home_ad/
 ||elecfans.com/webapi/advertisement/
 ||elemea.xyz^
+||element-plus.org/images/sponsors/
 ||elephantqueue.com^$third-party
 ||elisium.cn^
 ||ellingsen.cn^
@@ -9254,7 +9255,7 @@
 ||hunklm.com^
 ||huntmad.com^
 ||huo720.com/back/ad_
-||huo720.com/files/vidhub.
+||huo720.com/files/vidhub
 ||huoche.net/Images/pc/ad_
 ||huoche.net/public/huoche/ad/
 ||huohuo.huamuwo.com^
@@ -16056,6 +16057,7 @@
 ||swaterb.top^
 ||sweepsheep.com^$third-party
 ||sweisib.top^
+||sweizab.top^
 ||swelen.com^
 ||swellstocking.com^$third-party
 ||swelteringsleep.com^$third-party
@@ -17934,6 +17936,7 @@
 ||whsir.com/wp-content/themes/wh-blog/js/modal.js
 ||whum.top^
 ||wi-fi.ru/ad_video/$redirect=noop-1s.mp4,important,media
+||wi1f.icu^
 ||widespace.com^
 ||widget.ezprice.com.tw^$third-party
 ||widget.sellwild.com/amp/insideevs$domain=insideevs-com.cdn.ampproject.org
@@ -18292,6 +18295,7 @@
 ||xero.porn/videoAd
 ||xerqfh.xyz^
 ||xeryt111.fun^
+||xevaix.com^
 ||xevzdl.xyz^
 ||xeynozl.icu^
 ||xflybplr.xyz^
@@ -27389,6 +27393,7 @@ zle.com$script
 ##A[href="http://t.cn/A6hQCVsv"]
 ##A[href^="/e/public/ClickAd?adid="]
 ##A[onclick^="diensfeifwejwdsfwemio"]
+##IMG[onclick*="bucd.lol"]
 ##[ad_display_dot]
 ##[ad_dot_url]
 ##[class$="-ad-box"]
