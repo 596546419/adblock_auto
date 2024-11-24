@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: AdA4ra6E5cAgzxsxYhM10Q
+! Checksum: aqLj1PInnUbM65PRz+zUfg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241124162832
+! Version: 20241125002751
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-24 16:28:32
-! Total Count: 29728
+! Last modified: 2024-11-25 00:27:51
+! Total Count: 29731
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7661,6 +7661,7 @@
 ||fhvbhx.xyz^
 ||fhvzrr.xyz^
 ||fidelius.cn^
+||fiezaits.com^
 ||fifqjp.xyz^
 ||fifthborder.com^$third-party
 ||fijipic.xyz^
@@ -14355,6 +14356,7 @@
 ||qwdbsjnql.com^
 ||qwe0231141.bj.bcebos.com^
 ||qweisiy.top^
+||qweizay.top^
 ||qwerioy.top^
 ||qwesaz.com^
 ||qwfbiujsknjk.com^
@@ -18957,6 +18959,7 @@
 ||yomeno.xyz^
 ||yong.chazidian.com^
 ||yongzhen8.com^
+||yoqqiev.top^
 ||yorkbbs.ca/crm/section/v1/get/list/open
 ||you75.youpornsexvideos.com^
 ||youaima.com/rest/
