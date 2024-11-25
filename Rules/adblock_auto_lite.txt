@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: umm0zh6wy9LbfDr29ivFNw
+! Checksum: C3OdWss9oOcfltyf6FpLzw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241125163242
+! Version: 20241126003127
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-25 16:32:42
-! Total Count: 29736
+! Last modified: 2024-11-26 00:31:27
+! Total Count: 29739
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4904,6 +4904,7 @@
 ||brtlisv.top^
 ||brtzgnd.xyz^
 ||bruisebaseball.com^$third-party
+||brulpha.com^
 ||brutvncv.top^
 ||brzfqq.com^
 ||bs.baidu.com/app-ads%
@@ -17315,6 +17316,7 @@
 ||uwants.com/dfp_forum.php?au=Uwants_Web_
 ||uwants.com^*_prod.html
 ||uweisit.top^
+||uweizat.top^
 ||uweriot.top^
 ||uwerpyh.cn^
 ||uwfxvvm.cn^
@@ -17828,6 +17830,7 @@
 ||wclsylk.cn^
 ||wcsmvmf.icu^
 ||wcv68kw.com^
+||wcwkcus.top^
 ||wd.adcolony.xyz^
 ||wdadad.cn^
 ||wdakda.cn^
