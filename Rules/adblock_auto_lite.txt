@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: AkeMceTZJ1qeEvCXCJhHfA
+! Checksum: umm0zh6wy9LbfDr29ivFNw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241125095432
+! Version: 20241125163242
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-25 09:54:32
-! Total Count: 29732
+! Last modified: 2024-11-25 16:32:42
+! Total Count: 29736
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3449,6 +3449,7 @@
 ||aiyuke.com/position_js*_*_
 ||aizhan.com/images/img/ios-sign.png
 ||aizhan.com/imagesa/
+||aizhantj.com^
 ||aj2555.bid^$third-party
 ||ajaralarm.com^$third-party
 ||ajbpcxi.xyz^
@@ -8016,6 +8017,7 @@
 ||g2ak5.com^
 ||g2qb.top^
 ||g3f3.com/love/
+||g41i.icu^
 ||g4y7uuk.com^
 ||g6tgashb.fun^
 ||g77ds2.xyz^
@@ -14120,6 +14122,7 @@
 ||qiapuyyds.com^
 ||qichetuoyun.com.cn^$third-party
 ||qidou.com^$third-party
+||qidzwhfp.icu^
 ||qienews.cn^$third-party
 ||qifake.com^
 ||qifwbpoo.com^
@@ -16865,6 +16868,7 @@
 ||twbqqq.com^
 ||tweezesmalanga.com^
 ||tweisii.top^
+||tweizai.top^
 ||twerilxi.top^
 ||twerioi.top^
 ||twgzgqqu.com^
