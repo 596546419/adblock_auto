@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: MLUzxkRlAsxNXA03CNUnZA
+! Checksum: pkrUmX+q3lbINvqMlejR3w
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241126163208
+! Version: 20241127003225
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-26 16:32:08
-! Total Count: 29743
+! Last modified: 2024-11-27 00:32:25
+! Total Count: 29745
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -11579,6 +11579,7 @@
 ||lw881.com/public/js/gw.js
 ||lwandll.top^
 ||lwdcnz.xyz^
+||lweizal.top^
 ||lweriol.top^
 ||lwhffh.xyz^
 ||lwide.xyz^
@@ -15955,6 +15956,7 @@
 ||streamporn.pw/adult/wp-content/themes/PsyPlay/billo.
 ||streamporn.pw/wp-content/themes/PsyPlay/billo.
 ||streetuptowind.com^$third-party,important
+||strenots.com^
 ||stretchsister.com^$third-party
 ||stretchsneeze.com^$third-party
 ||stretchsquirrel.com^$third-party
