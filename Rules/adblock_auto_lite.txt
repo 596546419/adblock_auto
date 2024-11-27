@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: tHS9ljbMp5J1eQGE5hC/vw
+! Checksum: oBsAozpFTRW1wXK7EztDaQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241127163252
+! Version: 20241128003138
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-27 16:32:52
-! Total Count: 29748
+! Last modified: 2024-11-28 00:31:38
+! Total Count: 29750
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6202,7 +6202,6 @@
 ||daima.diaoben.net^
 ||daima.ijq.tv^
 ||daima.ssata.cn^
-||daima.wenkuwenku.com^
 ||daima.ysdui.com^
 ||daima.yuzhulin.com^
 ||daiporno.com^$third-party
@@ -7155,6 +7154,7 @@
 ||efyt6.com^$third-party
 ||egadfe.xyz^
 ||egesdashb8.fun^
+||egg0.icu^
 ||egidskiw.top^
 ||egipsbvlgn.xyz^
 ||eglizqf.cn^
@@ -15463,6 +15463,7 @@
 ||sinodan.link/js/js4.js?v=
 ||sinolub.com/index.php?m=poster&
 ||sinst.fwdcdn.com/_uploaded_files/ads/
+||sirrors.com^
 ||sisjwol.xyz^
 ||site-bk.oss-cn-shenzhen.aliyuncs.com/img/aliyun/
 ||site-config.com^$third-party
@@ -27608,6 +27609,7 @@ zle.com$script
 ##a[href*=".asd245796.com:"]
 ##a[href*=".asd252466.com:"]
 ##a[href*=".asd257642.com:"]
+##a[href*=".bbb748568.com"]
 ##a[href*=".bd379.vip"]
 ##a[href*=".bet365.gdn"]
 ##a[href*=".bilibilitool.site"]
