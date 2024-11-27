@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: PIiQFuas1l7D+QOi3wmdZg
+! Checksum: tHS9ljbMp5J1eQGE5hC/vw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241127095435
+! Version: 20241127163252
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-27 09:54:35
+! Last modified: 2024-11-27 16:32:52
 ! Total Count: 29748
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
@@ -27417,6 +27417,7 @@ zle.com$script
 ##.zone_wap_banner2
 ##A[href*=".com/?Agent="]
 ##A[href="http://t.cn/A6hQCVsv"]
+##A[href="javascript:;"][onclick^="lksdjfrefruise"]
 ##A[href^="/e/public/ClickAd?adid="]
 ##A[onclick^="diensfeifwejwdsfwemio"]
 ##IMG[onclick*="bucd.lol"]
@@ -27946,7 +27947,6 @@ zle.com$script
 ##a[href="https://ttzzz22.com"]
 ##a[href="https://xq97.com"]
 ##a[href="https://yk63.me"]
-##a[href="javascript:;"][onclick^="iwjfewufewekjr"]
 ##a[href="javascript:GoGd();"]
 ##a[href="javascript:GoTp();"]
 ##a[href="javascript:void(0)"][rel="nofollow"][target="_new"] > img[src]
