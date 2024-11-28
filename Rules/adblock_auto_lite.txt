@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: oBsAozpFTRW1wXK7EztDaQ
+! Checksum: CDSi7Yns9Wu4hB3kJChnow
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241128003138
+! Version: 20241128095422
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-28 00:31:38
-! Total Count: 29750
+! Last modified: 2024-11-28 09:54:22
+! Total Count: 29754
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -78,6 +78,7 @@
 ||0940088.com^
 ||0941.org^
 ||0a2b3c4d5e.com^
+||0dwm.icu^
 ||0efghij.com^
 ||0er7pc8.xyz^
 ||0ghijkl.com^
@@ -14949,6 +14950,7 @@
 ||sass.hk/images/hengfu.jpg
 ||sass.hk/js/ggcn.js
 ||sass.hk/plus/mytag_js.php?aid=
+||satfyxbt.icu^
 ||satisfycork.com^$third-party
 ||satisfyingshow.com^$third-party
 ||satisfyingspark.com^$third-party
@@ -16666,6 +16668,7 @@
 ||tqbrnd.xyz^
 ||tqdctl.xyz^
 ||tqdpqq.com^
+||tqeferty33.fun^
 ||tqjqripb.xyz^
 ||tqrznqs.cn^
 ||tqtqvb.xyz^
@@ -19470,6 +19473,7 @@
 ||znrtfj.xyz^
 ||znwzcmd.cn^
 ||znyjmbh.icu^
+||zodoth.com^
 ||zodvlr.xyz^
 ||zohdfd.xyz^
 ||zojyob.icu^
