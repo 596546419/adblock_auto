@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: LP97VxcD/O5F0tMwCOSaIA
+! Checksum: atu028VF6TQETqHMyL8V9g
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241129003040
+! Version: 20241129095404
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-29 00:30:40
-! Total Count: 29757
+! Last modified: 2024-11-29 09:54:04
+! Total Count: 29761
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8812,6 +8812,7 @@
 ||hciwyv.icu^
 ||hcqumrjbx.xyz^
 ||hdaidj.cn^
+||hdamcsu.top^
 ||hdapp1003-a.akamaihd.net^
 ||hdapp1008-a.akamaihd.net^
 ||hdbppx.xyz^
@@ -9528,6 +9529,7 @@
 ||ifooday.cn/index.php?m=poster&
 ||ifunmac.com/wp-content/uploads/*/alipay-
 ||ifxqubw.icu^
+||igabcgnh.icu^
 ||igamepark.biz/ads_output.php
 ||igao17.com/need/h5.js
 ||igaworks.com/AdPOPcorn/
@@ -14229,6 +14231,7 @@
 ||qoswfds.cn^
 ||qoubliy.top^
 ||qouvxliy.top^
+||qovith.com^
 ||qpawkw.xyz^
 ||qpb*.sohu.com^
 ||qpcvlbp.cn^
@@ -14927,6 +14930,7 @@
 ||sahqoo.com^
 ||sailsuit.com^$third-party
 ||sairy.cyou^
+||saizih.com^
 ||sakguz.icu^
 ||salary.xiao84.com^
 ||sales-frontier.com^$third-party
