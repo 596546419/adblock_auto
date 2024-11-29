@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: +aY7WXA/ng+9FOJyz75CTg
+! Checksum: a4ZMmxjFdGxePUjBZmWWag
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241129163203
+! Version: 20241130003110
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-29 16:32:03
-! Total Count: 29764
+! Last modified: 2024-11-30 00:31:10
+! Total Count: 29767
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6647,6 +6647,7 @@
 ||dn*.ixinwei.com^
 ||dn4qoz.com^
 ||dnceqzz.icu^
+||dnd2.icu^
 ||dnfnpff.xyz^
 ||dngz.net/x/
 ||dnightwish.xyz^
@@ -10097,6 +10098,7 @@
 ||jd.com/static/js/cpc.js
 ||jd100.com/cwmpc/
 ||jdamc.top^
+||jdamcsa.top^
 ||jdbeht.xyz^
 ||jdbfknsbkldns.com^
 ||jdbstatic.com/ads/
@@ -17666,6 +17668,7 @@
 ||vrosqolcg.com^
 ||vrr.name^
 ||vrrw.net//templets/default/js/ad.js
+||vrulqil.com^
 ||vrwdsvr.icu^
 ||vryoacs.icu^
 ||vs*.bozhou666.com^$third-party
