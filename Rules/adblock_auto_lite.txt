@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: RdceB5G8GbV4k6lOn5Rn+g
+! Checksum: 2c49wc8Gz5BxOUFYHCQfRA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241130162908
+! Version: 20241201002842
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-11-30 16:29:08
-! Total Count: 29772
+! Last modified: 2024-12-01 00:28:42
+! Total Count: 29777
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -13002,6 +13002,7 @@
 ||olgame.tw/home/attachment/
 ||olgcpwc.icu^
 ||olgrae.com^
+||olkoins.com^
 ||olltcqg.xyz^
 ||olmnvbgufy.top^
 ||olmsoneenh.info^$domain=avgle.com
@@ -15052,6 +15053,7 @@
 ||sd1v.yitongwl.cn/site/
 ||sd2ua.icu^
 ||sda.seksohub.com^
+||sdamcsb.top^
 ||sdbeta.com/statics/mystyle/js/1
 ||sdchb2.com^
 ||sdcuo.com^
@@ -17772,6 +17774,7 @@
 ||w3xue.com/js/pro541.js
 ||w4jz.top^
 ||w51t.com^$subdocument
+||w59g.icu^
 ||w7044.com^
 ||w80n.fun^
 ||w94.1qlgi.top^
@@ -27325,6 +27328,8 @@ zle.com$script
 ##.textad
 ##.textadlist
 ##.textadv
+##.tg-m.tg-site
+##.tg-pc.tg-site
 ##.theme_custom_slidebox-ad-below
 ##.thumb-ad
 ##.thumb-nat-ad
