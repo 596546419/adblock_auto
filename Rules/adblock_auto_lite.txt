@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 2c49wc8Gz5BxOUFYHCQfRA
+! Checksum: Ehy9QAaXB6fHH9nI0JHTNw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241201002842
+! Version: 20241201101019
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-01 00:28:42
-! Total Count: 29777
+! Last modified: 2024-12-01 10:10:19
+! Total Count: 29781
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3349,6 +3349,7 @@
 ||aeucyo.xyz^
 ||aeyyck.xyz^
 ||af29.com/banner/
+||af6s.icu^
 ||af9dc9.xyz^
 ||afafevk.com^
 ||afdunaui.com^
@@ -3747,11 +3748,12 @@
 ||anythinktech.com^
 ||anyunwl04.com^
 ||anywlan.com/link/*.gif
-||ao11*kas.top/$script,third-party
+||ao1*kas.top/$script,third-party
 ||ao1118kas.top^
 ||ao1120kas.top^
 ||ao1122kas.top^
 ||ao1123kas.top^
+||ao1201kas.top^
 ||aoakss.com^
 ||aoao11*iis.top/$script,third-party
 ||aoao11111iis.top^
@@ -4896,6 +4898,7 @@
 ||brfvyrrp.com^
 ||bridgetnbe.com^
 ||briefstem.com^$third-party
+||brircel.com^
 ||brixel.cn^
 ||broadboundary.com^$third-party
 ||broadcastbed.com^$third-party
@@ -10089,6 +10092,7 @@
 ||jcrb.com/ZYW$subdocument
 ||jcreje.com^
 ||jcvty.cyou^
+||jcwlsofn.icu^
 ||jcwtml.icu^
 ||jcylrv.iask.com.cn^
 ||jczunp.xyz^
