@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Ehy9QAaXB6fHH9nI0JHTNw
+! Checksum: Q9+K4rlkPp713ec1fD+wIA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241201101019
+! Version: 20241201162927
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-01 10:10:19
-! Total Count: 29781
+! Last modified: 2024-12-01 16:29:27
+! Total Count: 29785
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1542,6 +1542,7 @@
 ||a2.xinhuanet.com^
 ||a2dfp.net^
 ||a2put.chinaz.com^
+||a2wx.icu^
 ||a3.hotpornfile.org^
 ||a3.jandan.net^
 ||a304.top^$image,domain=hihbt.com
@@ -3755,12 +3756,13 @@
 ||ao1123kas.top^
 ||ao1201kas.top^
 ||aoakss.com^
-||aoao11*iis.top/$script,third-party
+||aoao1*iis.top/$script,third-party
 ||aoao11111iis.top^
 ||aoao11120iis.top^
 ||aoao11121iis.top^
 ||aoao11201iis.top^
 ||aoao11211iis.top^
+||aoao12011iis.top^
 ||aobtwv.icu^
 ||aogk88.asia^
 ||aoiqa.top^
@@ -7014,6 +7016,7 @@
 ||e5yx.com^$popup
 ||e5z14.icu^
 ||e66gg.com^$third-party
+||e8d7.icu^
 ||e9377f.com^$redirect=noop-0.1s.mp3,domain=eastday.com,media
 ||eaaaej.icu^$third-party
 ||eabvmue.cn^
@@ -7107,6 +7110,7 @@
 ||ed2000k.com/ad/
 ||eda.ru/_next/static/images/banner_adv
 ||edadmy.xyz^
+||edamcsw.top^
 ||eddcc.icu^
 ||edghkc.xyz^
 ||edickew.top^
