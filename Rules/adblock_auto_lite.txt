@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Q9+K4rlkPp713ec1fD+wIA
+! Checksum: mw5DQQwzW0ubZ1hNI8FF9A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241201162927
+! Version: 20241202002852
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-01 16:29:27
-! Total Count: 29785
+! Last modified: 2024-12-02 00:28:52
+! Total Count: 29788
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5146,6 +5146,7 @@
 ||ca2686564a.com^
 ||caaie.xyz^
 ||caajol.icu^
+||caaqot.com^
 ||caardinal.com^
 ||cacafly.net^
 ||cache.ltn.com.tw/js/cache_ads_h1.js
@@ -17871,6 +17872,7 @@
 ||wd.adcolony.xyz^
 ||wdadad.cn^
 ||wdakda.cn^
+||wdamcse.top^
 ||wdcigo.xyz^
 ||wddsva0.com^
 ||wdff.buzz/hengf.
@@ -19442,6 +19444,7 @@
 ||ziffdavis.com^
 ||zifyeldq.top^
 ||zigyspv.icu^
+||zio8.icu^
 ||zippywind.com^$third-party
 ||ziravd.xyz^
 ||zisu.cn.com^
