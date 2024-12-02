@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Pid6pk85DPL7vLGK4xtxYg
+! Checksum: tJh0Y/prLLEj3p0izaXisw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241202163343
+! Version: 20241203003201
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-02 16:33:43
-! Total Count: 29794
+! Last modified: 2024-12-03 00:32:01
+! Total Count: 29798
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -744,6 +744,7 @@
 ||4bfx0u.com^
 ||4btbtt.com/slade.js
 ||4cjh.xyz^
+||4cx5.icu^
 ||4fs3r.icu^
 ||4gamer.net/css/pr/SP_topjack.css
 ||4gamers.com.tw/ads-
@@ -5964,6 +5965,7 @@
 ||crhyqq.com^
 ||criknudsr.com^
 ||crimsonmeadow.com^$third-party
+||criqai.com^
 ||crispadvertising.com^
 ||criteo.com^
 ||criteo.net^
@@ -7991,6 +7993,7 @@
 ||fxsc6.net/js/
 ||fxxz.com/skin/know/all.js
 ||fy14.cn^
+||fy60.icu^
 ||fy6b.com^$image,third-party
 ||fyber.com^
 ||fyexyd.icu^
@@ -16323,6 +16326,7 @@
 ||tcvmtp.xyz^
 ||td.easysavemore.com^
 ||td.sxwqhotel.com^
+||tdamcsi.top^
 ||tdavopl.icu^
 ||tdfqvx.xyz^
 ||tdhlmto.cn^
