@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: S/nZmj+y5I8Yi55zj0KOlg
+! Checksum: Pid6pk85DPL7vLGK4xtxYg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241202095810
+! Version: 20241202163343
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-02 09:58:10
-! Total Count: 29790
+! Last modified: 2024-12-02 16:33:43
+! Total Count: 29794
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6912,6 +6912,7 @@
 ||dustywave.com^$third-party
 ||duyewnf.icu^
 ||duyvtanrheje.xyz^
+||dv0i.icu^
 ||dv4ku.icu^
 ||dvbnmikxh.xyz^
 ||dvclhmt.cn^
@@ -9543,6 +9544,7 @@
 ||ifooday.cn/index.php?m=poster&
 ||ifunmac.com/wp-content/uploads/*/alipay-
 ||ifxqubw.icu^
+||ig69.vip^
 ||igabcgnh.icu^
 ||igamepark.biz/ads_output.php
 ||igao17.com/need/h5.js
@@ -14076,6 +14078,7 @@
 ||qcvf.ifeng.com^
 ||qd.x4399.com^
 ||qdaily.com/mount_details/pc/
+||qdamcsy.top^
 ||qdcxia.xyz^
 ||qdickey.top^
 ||qdipsumy.top^
@@ -19444,6 +19447,7 @@
 ||zhy333.com^$third-party
 ||zhzyw.com/js/InsertJS.js
 ||ziffdavis.com^
+||ziffdavis.com^$third-party
 ||zifyeldq.top^
 ||zigyspv.icu^
 ||zio8.icu^
