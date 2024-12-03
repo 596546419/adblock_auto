@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: tJh0Y/prLLEj3p0izaXisw
+! Checksum: ZWp205Ic075depb0BO0/lw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241203003201
+! Version: 20241203095622
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-03 00:32:01
-! Total Count: 29798
+! Last modified: 2024-12-03 09:56:22
+! Total Count: 29803
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5133,6 +5133,7 @@
 ||c4n.thefreejapaneseporn.com^
 ||c4n.watchpornonline.xyz^
 ||c4n.xporn.to^
+||c4uy.icu^
 ||c6.friok.com^
 ||c6890.cn^$third-party
 ||c72w6.com^
@@ -8498,6 +8499,7 @@
 ||greenxf.com/js/2019/
 ||greenxiazai.com/d/js/v/
 ||greetzebra.com^$third-party
+||grerzieds.com^
 ||grewash1b.fun^
 ||greyinstrument.com^$third-party
 ||gridline.cn^
@@ -10621,6 +10623,7 @@
 ||k366.com/images/smxs^
 ||k42kw.top^
 ||k54nw.pw^$third-party
+||k5uj.icu^
 ||k6syi.space^
 ||k7f67a6s7.xyz^
 ||k99.cc^$third-party
@@ -15680,6 +15683,7 @@
 ||sohu.com/mdevp/*-advert/
 ||sohu.com/s/sohuplayer/iplay.html?*&autoplay=true$domain=eetop.cn
 ||sojson.com/ps/list.
+||sokars.com^
 ||solarislabyrinth.com^$third-party
 ||solaron.top^
 ||solengmen.com/assets/publish/$script
@@ -17655,6 +17659,7 @@
 ||voicevegetable.com^$third-party
 ||vokmhydy.xyz^
 ||vokwlch.xyz^
+||vokzqgjp.icu^
 ||volatileprofit.com^$third-party
 ||volatilerainstorm.com^$third-party
 ||volgreal.com^$third-party
