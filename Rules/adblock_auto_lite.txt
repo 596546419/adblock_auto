@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: vH+92fTvZAZhaky4bSWaqg
+! Checksum: 6GaM92JK7D4uzscdCYEeUg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241204163328
+! Version: 20241205003258
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-04 16:33:28
-! Total Count: 29813
+! Last modified: 2024-12-05 00:32:58
+! Total Count: 29820
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -406,6 +406,7 @@
 ||1weorpu.com^
 ||1x5jlh.xyz^$popup
 ||1x6666.com/img/
+||1yj.icu^
 ||2.haoxue360.com^
 ||200218.com^$third-party
 ||2008mm.com^*.js
@@ -3959,6 +3960,7 @@
 ||aspku.com/z/
 ||asryrzpu.xyz^
 ||asserts.avple.tv/file/avple-asserts/ad.js
+||assets.eenadu.net/*/*/ampads.html
 ||assets.msn.cn/bundles/v1/microsoftNews/latest/placement-manager.*.js$domain=microsoftnews.msn.cn
 ||assets.sport1.de/imagix/filter2/jpeg/_set=dyn_size_no_crop/imagix/
 ||assiatv.com/css/mob/jquerymin*.js
@@ -4426,6 +4428,7 @@
 ||bda1.ayule.net^
 ||bdad.123pan.cn^
 ||bdad.gaotie.net^
+||bdamcsv.top^
 ||bdapi-ads.realmemobile.com^
 ||bdapi-in-ads.realmemobile.com^
 ||bdasd.chdbook.cn^
@@ -4988,6 +4991,7 @@
 ||burgerbrush.com^$third-party
 ||burlywhistle.com^$third-party
 ||burnbubble.com^$third-party
+||burniecrepes.com^
 ||burstblade.com^$third-party
 ||burstnet.com^
 ||bushesbag.com^$third-party
@@ -9771,6 +9775,7 @@
 ||incompetentjoke.com^$third-party
 ||inconclusiveaction.com^$third-party
 ||infamousstream.com^$third-party
+||infantilecombination.com^
 ||info.vip.iqiyi.com/promotion/
 ||infobabo.*/da.aspx
 ||infocab888.life^
@@ -13030,6 +13035,7 @@
 ||olltcqg.xyz^
 ||olmnvbgufy.top^
 ||olmsoneenh.info^$domain=avgle.com
+||olqead.com^
 ||om.cn/api/ad-om/
 ||omezame.biz/wp-content/themes/buzzmake/js/modal.
 ||omg.house.porn^
@@ -19105,6 +19111,7 @@
 ||yrarhzuq.xyz^
 ||yrccils0spqnkc3.xyz^
 ||yretx.cn^
+||yrhxttwa.xyz^
 ||yrr56.com/mp4/pt_720.
 ||yrszy.com.cn^
 ||yrtedzb.cn^$document
