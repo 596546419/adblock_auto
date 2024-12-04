@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 0Uxna0WHOQx+BEVjk/qrnA
+! Checksum: vH+92fTvZAZhaky4bSWaqg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241204095652
+! Version: 20241204163328
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-04 09:56:52
-! Total Count: 29809
+! Last modified: 2024-12-04 16:33:28
+! Total Count: 29813
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6163,6 +6163,7 @@
 ||d5.sina.com.cn^$image,domain=~www.sina.com.cn
 ||d5.sina.com.cn^$object,script
 ||d56p.com/love/
+||d5r.icu^
 ||d6.mobaders.com^
 ||d67p.com/love/
 ||d7dzf.xyz^
@@ -7780,6 +7781,7 @@
 ||fnkio.cyou^
 ||fnnzr.cn^
 ||fo.iphonevip.cn^$third-party
+||fo0.icu^
 ||foamyfood.com^$third-party
 ||fobshanghai.com/bbsad/
 ||focas.jp^
@@ -11186,6 +11188,7 @@
 ||lcxw.cn/i/*dl.js
 ||lczk.cn^$third-party
 ||ld0766.com/*20*a/
+||ldamcsl.top^
 ||ldb.cc/js/top.js
 ||ldgjwdohqbi.xyz^
 ||ldipsuml.top^
@@ -12860,6 +12863,7 @@
 ||nuttyorganization.com^$third-party
 ||nuubi.cyou^
 ||nuucmzuc.com^
+||nuvaioqds.com^
 ||nuxwlc.cn^
 ||nuyqiolnc.cyou^
 ||nvdtdsd.xyz^
