@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: uQegVznn/Wp45R19x25ZuA
+! Checksum: g9e8SwpeC3PMLwid4Uxw4w
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241206095537
+! Version: 20241206163156
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-06 09:55:37
-! Total Count: 29833
+! Last modified: 2024-12-06 16:31:56
+! Total Count: 29837
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9051,6 +9051,7 @@
 ||hjdkvt.xyz^
 ||hjfile.cn/analytics/site/TrackEvent.js
 ||hjgkr0g.xyz^
+||hjimtyu.top^
 ||hjjshv.xyz^
 ||hjkhxfh.360doc.cn^
 ||hjkiguy.com^
@@ -9578,6 +9579,7 @@
 ||ihwdun.xyz^
 ||ihwlek.com^
 ||ii1.chajiaotong.com^
+||ii3.icu^
 ||iia1.pikacn.com^
 ||iiauu.cn/777/
 ||iicke.cyou^
@@ -17071,6 +17073,7 @@
 ||u644.fun^
 ||u66099.com^
 ||u68t5.icu^
+||u6u.icu^
 ||u78s.top^
 ||u7u9.com^$third-party
 ||u833ij.com^
@@ -28214,6 +28217,7 @@ zle.com$script
 ##body.page > .popup
 ##body[onload*="u()"] > #x
 ##body[ontouchstart] > #topBox
+##body[ontouchstart] > div[id^="content_"][style="display: block;"]
 ##body[style^="padding"] > [style$="background-size: 407px 148.5px !important;"]
 ##button[data-openuri="|BTN_URL|"]
 ##button[onclick*=".xacg.info/"]
