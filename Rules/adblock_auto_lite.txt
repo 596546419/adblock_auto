@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: g9e8SwpeC3PMLwid4Uxw4w
+! Checksum: KxIRogF1ubYlwDXGOf5Lcw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241206163156
+! Version: 20241207003039
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-06 16:31:56
-! Total Count: 29837
+! Last modified: 2024-12-07 00:30:39
+! Total Count: 29843
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7031,6 +7031,7 @@
 ||e66gg.com^$third-party
 ||e8d7.icu^
 ||e9377f.com^$redirect=noop-0.1s.mp3,domain=eastday.com,media
+||e9h.icu^
 ||eaaaej.icu^$third-party
 ||eabvmue.cn^
 ||eacdf119.cn^
@@ -9594,6 +9595,7 @@
 ||iiwoqm.xyz^
 ||ijeujkdhnvb.top^
 ||ijgbuj.xyz^
+||ijimtyo.top^
 ||ijinshan.com/images/gk/game
 ||ijksec.xyz^
 ||ijmxco.xyz^
@@ -9840,6 +9842,7 @@
 ||investingchannel.com^
 ||invitesugar.com^$third-party
 ||inworket.com^
+||inzut.com^
 ||ioaiqp.top^
 ||iobvmtx.xyz^
 ||iocoder.cn/alert/js/alert.js
@@ -9906,6 +9909,7 @@
 ||iqzone.com^$third-party
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||irgxwk.xyz^
+||irkrors.com^
 ||irmbyu.xyz^
 ||irqaci.xyz^
 ||irtefs.xyz^
@@ -13184,6 +13188,7 @@
 ||otxlhpm.xyz^
 ||otzovik.com/scripts/function/iri2.php?
 ||oueia.xyz^
+||ouiokaq.top^
 ||oumnxiek.top^
 ||ouplc.icu^
 ||ouresdk.top^
@@ -16269,6 +16274,7 @@
 ||t2zfyxjj.icu^
 ||t33ng.com^
 ||t6.china-xian.com^
+||t7t.icu^
 ||t7z.cupid.iqiyi.com^
 ||t984kfjt37kjdh.wdach.com^$domain=pianba.net
 ||ta20k.xyz^
