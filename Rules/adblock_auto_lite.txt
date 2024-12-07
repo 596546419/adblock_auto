@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: qe1WlWoZsXkWyAGzXxWInw
+! Checksum: PqGIbD2MyCJeept1elG87Q
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241207095416
+! Version: 20241207162931
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-07 09:54:16
-! Total Count: 29844
+! Last modified: 2024-12-07 16:29:31
+! Total Count: 29850
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -767,6 +767,7 @@
 ||4paradigm.com^$domain=sina.com.cn
 ||4q87v.icu^
 ||4sexmail.com^
+||4sq.icu^
 ||4t6u.icu^
 ||4wfe3.icu^
 ||4wu3gf.cn^
@@ -4618,6 +4619,7 @@
 ||bhktalt.cn^
 ||bhlntz.xyz^
 ||bhovrath.com^
+||bhukkeks.com^
 ||bi.yeshen.com^
 ||bi25.cc/js/hf
 ||bian-min.com/javascript/a/detail.js
@@ -7507,6 +7509,7 @@
 ||f5zv2.icu^
 ||f780f.space^
 ||f7fe0.cyou^
+||f7j.icu^
 ||f8dy.tv/template/m1938/js/b
 ||f8dy.tv/template/m1938/js/foot.js
 ||f9s6.top^
@@ -10294,6 +10297,7 @@
 ||jjade.xyz^
 ||jjdk33.com^
 ||jjfopb.xyz^
+||jjimtya.top^
 ||jjj*.com/static/js/common.js
 ||jjjgame.com/images/ad11.jpg
 ||jjkiahh.icu^
@@ -12784,6 +12788,7 @@
 ||nlvwdlnhfnnw.com^
 ||nlxgjwye.icu^
 ||nmdotj.xyz^
+||nmhbmfxh.icu^
 ||nmkghh.com^
 ||nmlfev.icu^
 ||nmm9i.xyz^
@@ -15371,6 +15376,7 @@
 ||shanhaimiwenlu.com/sh
 ||shanvezhu.com^
 ||shanyu178.com/agg$script
+||shaorgs.cn^
 ||shaoxing.com.cn/gg
 ||shaoxing.com.cn^*gg.
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
