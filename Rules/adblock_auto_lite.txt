@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: PqGIbD2MyCJeept1elG87Q
+! Checksum: 20PX1JO95Bs7HSNWmlTfKA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241207162931
+! Version: 20241208002902
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-07 16:29:31
-! Total Count: 29850
+! Last modified: 2024-12-08 00:29:02
+! Total Count: 29854
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -10827,6 +10827,7 @@
 ||kjappzvz.xyz^
 ||kjdbcjkmc.com^
 ||kjeqga.xyz^
+||kjimtyd.top^
 ||kjipko.xyz^
 ||kjjjusb.xyz^
 ||kjnsgqe.icu^
@@ -10964,6 +10965,7 @@
 ||krbsumc.cn^
 ||krbulhb.com^
 ||kreisis.top^
+||krinkred.com^
 ||kritgu.xyz^
 ||krjzxie.cn^
 ||krt.asycxtz.cn^
@@ -17593,6 +17595,7 @@
 ||vgxbpf.xyz^
 ||vgxhvt.xyz^
 ||vgzytn.xyz^
+||vh8.icu^
 ||vhgunzr.cn^
 ||vhhxnb.xyz^
 ||vhjxrj.xyz^
@@ -19505,6 +19508,7 @@
 ||ziffdavis.com^$third-party
 ||zifyeldq.top^
 ||zigyspv.icu^
+||zikeke7.com^
 ||zio8.icu^
 ||zippywind.com^$third-party
 ||ziravd.xyz^
