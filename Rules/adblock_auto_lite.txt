@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 6DLADB4i0aAb2sUIFeNlzQ
+! Checksum: fFffnvuZjLrvSoW6f0VoLQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241208163001
+! Version: 20241209002849
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-08 16:30:01
-! Total Count: 29858
+! Last modified: 2024-12-09 00:28:49
+! Total Count: 29862
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1125,6 +1125,7 @@
 ||7down.com/static/js/foot_
 ||7dusx.xyz^
 ||7f7rt.icu^
+||7hb.icu^
 ||7i4dka.cn^
 ||7junshi.com/con/ad
 ||7junshi.com/static/red-envelopes.js
@@ -7213,6 +7214,7 @@
 ||eiv.baidu.com^
 ||ej65.xyz^
 ||ejdhmed.xyz^
+||ejimtyw.top^
 ||ejolul.xyz^
 ||ejunshi.com^
 ||ejxo0.online^
@@ -8623,6 +8625,7 @@
 ||guojitv.com/m/ad/
 ||guojitv.com/m/js/ad_
 ||guokr.com/baidu-cbjs/
+||guqoinly.com^
 ||guqsqfmi.com^
 ||guqu.net/Cooperate/
 ||gushi.network^
@@ -17930,6 +17933,7 @@
 ||wcbghap63.shop^
 ||wcd2l.icu^
 ||wcdc5.com^
+||wcdfxj.xyz^
 ||wckkl.online^
 ||wclsylk.cn^
 ||wcsmvmf.icu^
