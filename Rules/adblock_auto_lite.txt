@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: fFffnvuZjLrvSoW6f0VoLQ
+! Checksum: FtOEUqU8qc6M95xkECyJlQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241209002849
+! Version: 20241209095928
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-09 00:28:49
-! Total Count: 29862
+! Last modified: 2024-12-09 09:59:28
+! Total Count: 29864
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -16554,6 +16554,7 @@
 ||thumbor.prod.vidiocdn.com/*/uploads/section/background_image/*/rejoice-vidio-drakor-gratis-*.jpg
 ||thunderingrose.com^$third-party
 ||thunderingtendency.com^$third-party
+||thunnqyo.com^
 ||thvx9i.icu^
 ||thyn.renzhen8.cn^$third-party
 ||thztv.*/tool/
@@ -18317,6 +18318,7 @@
 ||wyq3rum.icu^
 ||wyqaafplm.live^
 ||wyuwkbe.top^
+||wyvpkmbj.icu^
 ||wyynike.cn^
 ||wyzq.rehuwang.com^
 ||wz3rvc.cn/*.html$document
