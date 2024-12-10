@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: GOyNylSVA7BHBD9BeKRqww
+! Checksum: 46sIbvHak6v0cTV+mjaJrg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241210003256
+! Version: 20241210095754
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-10 00:32:56
-! Total Count: 29869
+! Last modified: 2024-12-10 09:57:54
+! Total Count: 29871
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -12756,6 +12756,7 @@
 ||niji-gazo.com/ads/
 ||niji-gazo.com/api/dmm/affiliate/
 ||nikopik.com/wp-content/themes/*/js/nikopik.js
+||nilipuyn.com^
 ||nilzq.xyz^
 ||nimoatl.icu^
 ||ningmengzhibo.com/ement/beforeSearchEment.action
@@ -13408,6 +13409,7 @@
 ||pdweoyw.cn^
 ||pdxdxl.xyz^
 ||pe5a.top^
+||peclevnl.icu^
 ||pedailyu.com^
 ||pedjqkl.xyz^
 ||pedropanther.com^$third-party
