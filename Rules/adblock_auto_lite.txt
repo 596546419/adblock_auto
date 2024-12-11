@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: vyoFn+aMifH0sOGRB6OPQQ
+! Checksum: WOLVAV97KclCs68kerEjVA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241211095616
+! Version: 20241211163322
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-11 09:56:16
-! Total Count: 29878
+! Last modified: 2024-12-11 16:33:22
+! Total Count: 29881
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -13040,6 +13040,7 @@
 ||oiu09.cn^
 ||oiunga.com^
 ||oiuuuc.xyz^
+||ojimtyk.top^
 ||ojuhwc.xyz^
 ||ojvpigx.xyz^
 ||ok-tv.org/images/banner_ipone.jpg
@@ -16867,6 +16868,7 @@
 ||ttavav6.com/zz/
 ||ttdpxh.xyz^
 ||ttdydd.xyz^
+||tteferty33.fun^
 ||ttgbnmk.top^
 ||ttgjwxp.icu^
 ||ttienli.top^
@@ -18358,6 +18360,7 @@
 ||x360xs.com/tops/
 ||x3zy2.icu^
 ||x4csq.top^
+||x4d.icu^
 ||x5hnj21.com^
 ||x6img.com^$domain=picturedata.org
 ||x800.top^
