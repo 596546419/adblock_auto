@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: pkT0irPT8XtYE1UqDVCxMg
+! Checksum: 2/7Hf96+v8/+1OMEZxi5xg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241212163330
+! Version: 20241213003230
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-12 16:33:30
-! Total Count: 29887
+! Last modified: 2024-12-13 00:32:30
+! Total Count: 29891
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6153,6 +6153,7 @@
 ||d.ziyuanm.com^
 ||d0.xcar.com.cn^
 ||d0lzq.com^
+||d0m.icu^
 ||d1.1ppt.com^
 ||d1.3158.cn^
 ||d1.5h.com^
@@ -10362,6 +10363,7 @@
 ||jnp0kmm.icu^
 ||jntxvf.xyz^
 ||jnwpzq.com^
+||jo4.icu^
 ||joblessdrum.com^$third-party
 ||jochenanabata.guru^
 ||jofknbpe.xyz^
@@ -12169,6 +12171,7 @@
 ||miycoc.xyz^
 ||mjappzvz.xyz^
 ||mjbidlg.icu^
+||mjimtyx.top^
 ||mjne.dtdnnrs.cn^$third-party
 ||mk795.cn^
 ||mkbbjtfp.xyz^
@@ -18662,6 +18665,7 @@
 ||xnxx-cdn.com/*/ppsuma*.js$script
 ||xnxxporn.video/nb39.12/
 ||xnzetb.xyz^
+||xoceonsl.com^
 ||xogtrmjz.xyz^
 ||xoimg.com^$domain=18board.com|18p2p.com
 ||xokcaxw.cn^
