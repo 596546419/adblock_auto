@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 2/7Hf96+v8/+1OMEZxi5xg
+! Checksum: VmUtJJIGIp95kEaQYSaEbA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241213003230
+! Version: 20241213095723
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-13 00:32:30
-! Total Count: 29891
+! Last modified: 2024-12-13 09:57:23
+! Total Count: 29900
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -19,6 +19,7 @@
 |http://$image,third-party,domain=pornhub.com|redtube.com|redtube.net|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com|you-porn.com|youpornru.com|youporn.fyi
 |https://m.frgls.com/js/*.js?v=
 ||*.$image,redirect=1x1.gif,third-party,domain=rmdown.com
+||*.top^$domain=ltswu.org
 ||*/ad/$redirect=noop-0.1s.mp3,domain=huaren.tv,media
 ||*ggua.xyz^$third-party
 ||*xav.*/guang/*.gif
@@ -6351,6 +6352,7 @@
 ||dd778899dd.com^
 ||ddaixdz.cn^
 ||ddd.sexstories69.com^
+||dddstew6cw8.fun^
 ||ddgjjj.com^$third-party
 ||ddielv.cn^
 ||ddkep.xyz^
@@ -6511,6 +6513,7 @@
 ||dhgfhedxx.xyz^
 ||dhjrvj.xyz^
 ||dhkipdsc.xyz^
+||dhkqqe.top^
 ||dhl.135320.com^
 ||dhl4.xyz^
 ||dhukul.com^
@@ -7745,6 +7748,7 @@
 ||fjqcqdr.icu^
 ||fjtroip.cn^
 ||fjttbkoxer.xyz^
+||fjuga.top
 ||fjxstt.xyz^
 ||fjzimaoqu.cn^$third-party
 ||fka06.site^
@@ -13245,6 +13249,7 @@
 ||owihyg.xyz^
 ||owkmmo.xyz^
 ||owlsr.us^$third-party
+||owsrgljb.icu^
 ||owurserk.top^
 ||owyame.xyz^
 ||ox8.topsexhdvideos.com^
@@ -18134,6 +18139,7 @@
 ||wkywrc.cn^
 ||wkzrqq.com^
 ||wkzsmj.icu^
+||wkzw.me^
 ||wl.uqwjdhgv.top^
 ||wlgxaij.cn^
 ||wlkukrv.icu^
@@ -19185,6 +19191,7 @@
 ||yrszy.com.cn^
 ||yrtedzb.cn^$document
 ||yrtedzb.cn^$~third-party
+||yruadj.top^
 ||yruws6.com^
 ||ys.muhoujiemi.com^
 ||ys2000.cdn.bcebos.com^
@@ -19548,6 +19555,7 @@
 ||zikeke7.com^
 ||zio8.icu^
 ||zippywind.com^$third-party
+||ziqniduy.com^
 ||ziravd.xyz^
 ||zisu.cn.com^
 ||ziyuanm.com/js/g11.js
@@ -28271,6 +28279,7 @@ zle.com$script
 ##body.page > .popup
 ##body[onload*="u()"] > #x
 ##body[ontouchstart] > #topBox
+##body[ontouchstart] > .wrap > div[id^="content_"][style="display: block;"]
 ##body[ontouchstart] > div[id^="content_"][style="display: block;"]
 ##body[style^="padding"] > [style$="background-size: 407px 148.5px !important;"]
 ##button[data-openuri="|BTN_URL|"]
