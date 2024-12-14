@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: epUkg4v0ylXzbJWfiPwChg
+! Checksum: /D2V3Gc5yd/7pPyeS8bSOQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241214095229
+! Version: 20241214162910
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-14 09:52:29
-! Total Count: 29909
+! Last modified: 2024-12-14 16:29:10
+! Total Count: 29911
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9999,6 +9999,7 @@
 ||itienlo.top^
 ||itiexue.net/domain-policy/
 ||itiexue.net/wap/tiexue/js/chuping/nativeshare
+||itimiyo.top^
 ||itjcqlp.icu^
 ||itjgwn.xyz^
 ||itjsb.com/itjsbwx.jpg
@@ -14310,6 +14311,7 @@
 ||qlogo.cn^$domain=chichiav1.xyz
 ||qlogo1.store.qq.com^
 ||qlspx.com:$third-party
+||qm2.icu^
 ||qm6ef.xyz^
 ||qmbdta.cn^
 ||qmgria.cn^
