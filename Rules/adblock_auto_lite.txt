@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 2NYjQf+Qyw7GBIuvCk0Dyg
+! Checksum: epUkg4v0ylXzbJWfiPwChg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241214003122
+! Version: 20241214095229
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-14 00:31:22
-! Total Count: 29905
+! Last modified: 2024-12-14 09:52:29
+! Total Count: 29909
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4147,6 +4147,7 @@
 ||b1.engdvd.com^
 ||b1.maturesexvideos.pro^
 ||b1.xiao84.com^
+||b10.justacdn.net^
 ||b168.net^*.*?$image
 ||b17.8794.cn^
 ||b37r5.cyou^
@@ -8863,6 +8864,7 @@
 ||hciea.xyz^
 ||hciwyv.icu^
 ||hcqumrjbx.xyz^
+||hcznaubp.icu^
 ||hdaidj.cn^
 ||hdamcsu.top^
 ||hdapp1003-a.akamaihd.net^
@@ -16850,6 +16852,7 @@
 ||truculentrate.com^$third-party
 ||trutvnci.top^
 ||truvidplayer.com^$domain=technews.tw
+||truxedku.com^
 ||trvxbd.xyz^
 ||trxs123.com/skin/default/js/jque.js
 ||tryoe.com^$third-party
@@ -18147,6 +18150,7 @@
 ||wl.uqwjdhgv.top^
 ||wlgxaij.cn^
 ||wlkukrv.icu^
+||wlouqsz.xyz^
 ||wlrjy.com/assets/images/*.gif
 ||wlrjy.com/assets/images/tuidc.png
 ||wlzlrlp.xyz^
