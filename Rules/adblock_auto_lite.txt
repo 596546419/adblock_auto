@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: InzpDGDMzX9eo4Y9gNGTEQ
+! Checksum: 128WadNiiDwy0NMk45iaLA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241215162939
+! Version: 20241216002837
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-15 16:29:39
-! Total Count: 29917
+! Last modified: 2024-12-16 00:28:37
+! Total Count: 29923
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1562,6 +1562,7 @@
 ||a44u.icu^
 ||a4bj6.xyz^
 ||a5jf.xyz^
+||a5t.icu^
 ||a5xiazai.com/z/
 ||a7c.icu^
 ||a8age.com^
@@ -11020,6 +11021,7 @@
 ||kt51.com/wz.jpg
 ||ktauoy.xyz^
 ||ktienld.top^
+||ktimiyd.top^
 ||ktkkt.com/js/tvb/
 ||ktnwxhjv.xyz^
 ||ktoioo.xyz^
@@ -15514,6 +15516,7 @@
 ||sickflock.com^$third-party
 ||sicksmash.com^$third-party
 ||sicongyyds.com^
+||siconoi.com^
 ||sidfiz.icu^
 ||siduohua.top^
 ||siejp.cyou^
@@ -16042,6 +16045,7 @@
 ||stienlb.top^
 ||stiffgame.com^$third-party
 ||stiffstem.com^$third-party
+||stimiyb.top^
 ||stimulatingsneeze.com^$third-party
 ||stingsquirrel.com^$third-party
 ||stingyspoon.com^$third-party
@@ -18704,6 +18708,7 @@
 ||xpdronhu.xyz^
 ||xpffkbpq.xyz^
 ||xphcrjth.xyz^
+||xpicj0.icu^
 ||xpicj6.cc^
 ||xpicj8.cc^
 ||xpj08.oss-cn-beijing.aliyuncs.com^
@@ -19364,6 +19369,7 @@
 ||z4a.net^*/960x
 ||z74lb.com^
 ||z82v0.icu^
+||z8t.icu^
 ||z91f4.top^
 ||z9k7.icu^
 ||z9uvpwarkk1mnpf.xyz^
