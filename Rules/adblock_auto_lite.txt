@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Vx6xbEIRtkoodhE8XesU1Q
+! Checksum: InzpDGDMzX9eo4Y9gNGTEQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241215100304
+! Version: 20241215162939
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-15 10:03:04
-! Total Count: 29914
+! Last modified: 2024-12-15 16:29:39
+! Total Count: 29917
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -3433,6 +3433,7 @@
 ||aidmat.icu^
 ||aifei0755.net/123/
 ||aifwjekfe.xyz^
+||aigfednd.icu^
 ||aiiaqw.xyz^
 ||aijiamao.top^
 ||aikkits.com^
@@ -5586,6 +5587,7 @@
 ||chnuuee.xyz^
 ||chnvgdkw.xyz^
 ||chok8.com/statics/ad/
+||chonaesor.com^
 ||chong-wu.net^
 ||chongdiantou.com/wp-content/uploads/2019/02/pzb.jpg
 ||chooncv.icu^
@@ -17940,6 +17942,7 @@
 ||warmafterthought.com^$third-party
 ||warmquiver.com^$third-party
 ||warnwing.com^$third-party
+||warped-bus.com^
 ||waryfog.com^$third-party
 ||wasabii.com.tw/float/*.js
 ||washbanana.com^$third-party
