@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 1IXpCcg9UPXYtdqOe6+yag
+! Checksum: vEB8uzn8cvPvSg+ikP3Crg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241216095957
+! Version: 20241216163425
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-16 09:59:57
-! Total Count: 29924
+! Last modified: 2024-12-16 16:34:25
+! Total Count: 29926
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5959,6 +5959,7 @@
 ||cr173.com/skina/
 ||cr173.com/skinb/
 ||crabbychin.com^$third-party
+||craegvin.com^
 ||crafthenry.com^$third-party
 ||cratecamera.com^$third-party
 ||crawlclocks.com^$third-party
@@ -12617,6 +12618,7 @@
 ||n5n5s.icu^
 ||n6579.com^
 ||n7181.com^
+||n7a.icu^
 ||na06.cn^
 ||nagpurtoday.in/wp-content/uploads/2024/06/Untitled-design-2.gif
 ||nahgvfhs.xyz^
