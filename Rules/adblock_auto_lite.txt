@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: pGYIDeKrE70m0U/3eY7P1Q
+! Checksum: xQ4BzDIQrz3kBRntNzb2xg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241217163305
+! Version: 20241218004229
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-17 16:33:05
-! Total Count: 29933
+! Last modified: 2024-12-18 00:42:29
+! Total Count: 29936
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -15145,6 +15145,7 @@
 ||screechingfurniture.com^$third-party
 ||screechingstove.com^$third-party
 ||screen.buzzvil.com^
+||screspoy.com^
 ||scribblestring.com^$third-party
 ||script-bd.baixing.net^
 ||script302.top^
@@ -16912,6 +16913,7 @@
 ||ttgbnmk.top^
 ||ttgjwxp.icu^
 ||ttienli.top^
+||ttimiyi.top^
 ||ttnwxhjv.xyz^
 ||ttpybz.xyz^
 ||ttroytj33.fun^
@@ -17155,6 +17157,7 @@
 ||u88.cn^$third-party
 ||u97jr.xyz^
 ||u9axpzf50.com^
+||ua2.icu^
 ||uafuzcxr.xyz^
 ||uahozcfq.xyz^
 ||uaiosio.top^
