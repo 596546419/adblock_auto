@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: LkDu9bNwEdedke1Mts4olg
+! Checksum: ngW1Tx4NK+3YADyqRilWIg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241218095157
+! Version: 20241218163216
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-18 09:51:57
-! Total Count: 29936
+! Last modified: 2024-12-18 16:32:16
+! Total Count: 29943
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7173,6 +7173,7 @@
 ||ee.m08pe.cn^$third-party
 ||ee.shixunwang.net^
 ||ee021.com/Runtime/js/
+||ee5.icu^
 ||eeaczcf.icu^
 ||eefcdn.com/promotion/module/module.
 ||eejwvwoo.xyz^
@@ -7262,6 +7263,7 @@
 ||elephantqueue.com^$third-party
 ||elisium.cn^
 ||ellingsen.cn^
+||elloisny.com^
 ||elonreptiloid.com^$third-party
 ||elphhrj.xyz^
 ||elprput.xyz^
@@ -13687,6 +13689,7 @@
 ||poeid.cyou^
 ||poeticpackage.com^$third-party
 ||pofang.com^
+||pofbpx.icu^
 ||pofmnj.xyz^
 ||poh.uoydhco.cn^
 ||pohpll.xyz^
@@ -13920,6 +13923,7 @@
 ||pozrwj.icu^
 ||pp1hl.xyz^
 ||ppenid.xyz^
+||ppio12181ios.top^
 ||ppjttn.xyz^
 ||pplkrh.xyz^
 ||pplnjoow.com^
@@ -15135,6 +15139,7 @@
 ||scintillatingsilver.com^$third-party
 ||scintillatingspace.com^$third-party
 ||scjpqut.cn^
+||sckyf.com^
 ||scoev.cn^
 ||scoldak.com^
 ||sconat.com^
@@ -17426,6 +17431,7 @@
 ||utbyvyl.icu^
 ||utewyc.xyz^
 ||utienlt.top^
+||utimiyt.top^
 ||utkauo.xyz^
 ||utlove02.com^$third-party
 ||utnwxhjv.xyz^
@@ -19386,6 +19392,7 @@
 ||z91f4.top^
 ||z9k7.icu^
 ||z9uvpwarkk1mnpf.xyz^
+||zabpgtjh.icu^
 ||zacff.com^
 ||zacveh.com^
 ||zagyjnn.cn^
