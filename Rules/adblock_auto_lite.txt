@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ngW1Tx4NK+3YADyqRilWIg
+! Checksum: ASELvjhRjSty8T9M8NLMVQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241218163216
+! Version: 20241219003054
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-18 16:32:16
-! Total Count: 29943
+! Last modified: 2024-12-19 00:30:54
+! Total Count: 29946
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -775,6 +775,7 @@
 ||4sexmail.com^
 ||4sq.icu^
 ||4t6u.icu^
+||4we.icu^
 ||4wfe3.icu^
 ||4wu3gf.cn^
 ||5.ccutu.com^
@@ -13235,6 +13236,7 @@
 ||otcdn2.auditude.com^
 ||other.appcpi.net^
 ||otienlk.top^
+||otimiyk.top^
 ||otmebdr.cn^
 ||ott.cibntv.net/*/ad/*.ts?ccode=$xmlhttprequest,domain=v.youku.com
 ||otwiss.xyz^
@@ -16072,6 +16074,7 @@
 ||stockstar.com/*DUILIAN&t=
 ||stockstar.com/api/?id=
 ||stockstar.com/info/1200x90/
+||stongors.com^
 ||stopstomach.com^$third-party
 ||storage.googleapis.com/suramar/pu.min.js^
 ||storage.googleapis.com/vkcdnservice.appspot.com/$script,important
