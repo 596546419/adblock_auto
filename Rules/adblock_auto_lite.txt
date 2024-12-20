@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: s1z8J0lSfyIgzwxjitEoKw
+! Checksum: KT2Rmtw05m4wlhPn/71J3A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241220002819
+! Version: 20241220094737
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-20 00:28:19
-! Total Count: 29714
+! Last modified: 2024-12-20 09:47:37
+! Total Count: 29720
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8489,6 +8489,7 @@
 ||gripcorn.com^$third-party
 ||grirqaks.com^
 ||gritoils.com^
+||grmzwc.icu^
 ||grondrens.com^
 ||grouchypush.com^$third-party
 ||grpc.biliapi.net^
@@ -11277,6 +11278,7 @@
 ||lhotajl.icu^$third-party
 ||lhtnuop.xyz^
 ||lhtzfn.xyz^
+||lhxolz.icu^
 ||lhzxbp.xyz^
 ||lianaiyx.com/d/js/cst/
 ||liangjan.com/js/show_
@@ -13011,6 +13013,7 @@
 ||onagsc.xyz^
 ||onalzlk.top^
 ||oncgqzu.cn^
+||ondraits.com^
 ||one.fsylr.com^
 ||one.toumppk.cn^
 ||one101.xyz/data/images/*.gif
@@ -13810,8 +13813,10 @@
 ||pozrwj.icu^
 ||pp1hl.xyz^
 ||ppenid.xyz^
+||ppio1*ios.top/$script,third-party
 ||ppio12181ios.top^
 ||ppio12191ios.top^
+||ppio12200ios.top^
 ||ppjttn.xyz^
 ||pplkrh.xyz^
 ||pplnjoow.com^
@@ -16277,6 +16282,7 @@
 ||tdpujn.xyz^
 ||tdsahkln.xyz^
 ||tduenkq839.shop^
+||tdzqoewz.icu^
 ||tdzvm.pw^$third-party
 ||teachscape.vo.llnwd.net^
 ||teamjwar.com^
