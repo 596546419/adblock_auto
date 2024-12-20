@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: v6xiCYnKo2OXj1s0A6nt3A
+! Checksum: 8cS71ifZhfWwOlbIE/cq8g
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241220163000
+! Version: 20241221002825
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-20 16:30:00
-! Total Count: 29725
+! Last modified: 2024-12-21 00:28:25
+! Total Count: 29730
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6084,6 +6084,7 @@
 ||cweriof.top^
 ||cwgshkz.cn^
 ||cwgucvm.icu^
+||cwilmif.top^
 ||cwiuhtp.icu^
 ||cwmlm.com^$third-party
 ||cwolwc.xyz^
@@ -8253,6 +8254,7 @@
 ||ghreha.top^
 ||ghsnhjk.cn^
 ||ghwqbii.icu^
+||gi0.icu^
 ||giantsvessel.com^$third-party
 ||giaoji.com/Runtime/Js/
 ||giddycoat.com^$third-party
@@ -14150,6 +14152,7 @@
 ||qiji1.jdwx.info^
 ||qilanxiaozhu.*/data/attachment/portal/
 ||qimacdg.cn^
+||qimaf.com^
 ||qiming360.com/mingJs/xmKu_
 ||qinbing.cn/data/upload/ueditor/
 ||qingfeng.homes^
@@ -14571,6 +14574,7 @@
 ||renohj.xyz^
 ||renote.*/assets/sp_inline_ad_
 ||renote.*/assets/sp_overlay_ad_
+||renrenkanpian.com^
 ||rentiyishu.org/*.js
 ||renwai.ren/cdn/pic/ad
 ||renxlx.xyz^
@@ -19193,6 +19197,7 @@
 ||zaiceyjjqq.com^
 ||zailgrae.com^
 ||zaiyuanyqq.com^
+||zalnouiy.com^
 ||zanghaihua.org/js/
 ||zangtankqq.com^
 ||zantainet.com^
