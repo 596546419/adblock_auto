@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: KT2Rmtw05m4wlhPn/71J3A
+! Checksum: v6xiCYnKo2OXj1s0A6nt3A
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241220094737
+! Version: 20241220163000
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-20 09:47:37
-! Total Count: 29720
+! Last modified: 2024-12-20 16:30:00
+! Total Count: 29725
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -405,6 +405,7 @@
 ||1weorpu.com^
 ||1x5jlh.xyz^$popup
 ||1x6666.com/img/
+||1xb.icu^
 ||1yj.icu^
 ||2.haoxue360.com^
 ||200218.com^$third-party
@@ -7639,6 +7640,7 @@
 ||ffbjhl.xyz^
 ||ffdafx.xyz^
 ||ffmehcg.cn^$third-party
+||ffmovies.lol/jss/dectector-2025.js
 ||fg.knlk2md.cn^$third-party
 ||fgadsqdma.top^
 ||fgcxdr.cn^
@@ -12342,11 +12344,13 @@
 ||mthhhuq.cn^
 ||mtienlx.top^
 ||mtime.cn/tg/
+||mtimiyx.top^
 ||mtnwxhjv.xyz^
 ||mtrcss.com^
 ||mttpsy6666.cc^
 ||mtu.hlkcowp.cn^
 ||mtur.xkmnbt.xyz^
+||mtv01.com^
 ||mtwmuy.xyz^
 ||mtwuxss.icu^
 ||mtwwzqdx.xyz^
@@ -29655,6 +29659,7 @@ zle.com$script
 @@||static.youporn.phncdn.com/cb/assets/css/$domain=youporn.com
 @@||t.propbn.com/redirect/?spot_id=$domain=proporn.com
 @@||top1porn.com^$generichide
+@@||toplien.fr^$generichide
 @@||trafficdeposit.com/bvideo^$domain=yourporn.sexy
 @@||tv.bili96.co^
 @@||tyue.me^$image
