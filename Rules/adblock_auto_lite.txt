@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 8cS71ifZhfWwOlbIE/cq8g
+! Checksum: /x+OuAV4V/2sUkI6jbs4/g
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241221002825
+! Version: 20241221094504
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-21 00:28:25
-! Total Count: 29730
+! Last modified: 2024-12-21 09:45:04
+! Total Count: 29732
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -13103,6 +13103,7 @@
 ||orientalasianporn.com/func.js
 ||originalindianporn.com/func.js
 ||orionember.com^$third-party
+||orodsmnu.com^
 ||oronwg.xyz^
 ||oronwg.xyz^$third-party
 ||orssengseen.com^
@@ -14700,6 +14701,7 @@
 ||rkgbqn.icu^
 ||rkgwzfwjgk.com^$third-party
 ||rksnqq.com^
+||rktjxj.icu^
 ||rkv9.top^
 ||rkwxfi.xyz^
 ||rkxy.com.cn/js/text_
