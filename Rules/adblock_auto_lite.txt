@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: +McKKOy36CSzqpof1N4GFg
+! Checksum: 3SL3z1LdsDHn/BWcjjclgQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241221162724
+! Version: 20241222002706
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-21 16:27:24
-! Total Count: 29737
+! Last modified: 2024-12-22 00:27:06
+! Total Count: 29749
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7175,6 +7175,7 @@
 ||ehrhrrx.xyz^
 ||eht116.com^
 ||ei1s7b.cn^
+||ei7.icu^
 ||eiadf.xyz^
 ||eiegkg.xyz^
 ||eifyeldw.top^
@@ -9990,6 +9991,7 @@
 ||iweizao.top^
 ||iwerilxo.top^
 ||iwerioo.top^
+||iwilmio.top^
 ||iwmigu.xyz^
 ||iwursero.top^
 ||iwwmaq.xyz^
@@ -11197,6 +11199,7 @@
 ||learnedmarket.com^$third-party
 ||lecai.com/page/zhuanti/baidu/
 ||ledni.xyz^
+||ledollull.com^
 ||leeleo.top^$third-party
 ||lefengtv.com/js/tj.js
 ||leftliquid.com^$third-party
@@ -14816,6 +14819,7 @@
 ||rttnvz.xyz^
 ||rtumdhdk.xyz^
 ||rtumwzp.icu^
+||ruancq.xyz^
 ||ruanyifeng.com/9he/
 ||ruddycast.com^$third-party
 ||ruddywash.com^$third-party
@@ -15322,6 +15326,7 @@
 ||shanvezhu.com^
 ||shanyu178.com/agg$script
 ||shaorgs.cn^
+||shaotgs.cn^
 ||shaoxing.com.cn/gg
 ||shaoxing.com.cn^*gg.
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
@@ -26696,6 +26701,7 @@ zle.com$script
 ##.ads-content
 ##.ads-img
 ##.ads-item
+##.ads.flex
 ##.ads02
 ##.ads03
 ##.ads1
@@ -27157,6 +27163,9 @@ zle.com$script
 ##.nonepc.mad
 ##.noopenlink.ads
 ##.nordvpn-popup + .sidebar-vpn
+##.notice-ad-wrapper
+##.notice-ad-wrapper + .app-abk
+##.notice-ad-wrapper + .app-abk + .app-text
 ##.nr_all > .m_f_a.sw_sp
 ##.nr_page > [style="width:100%;height:auto;min-height:150px;position:relative;display:block;"][id]
 ##.opt > a[target="_blank"] > img[src*=".360buyimg.com"]
@@ -27264,6 +27273,7 @@ zle.com$script
 ##.sideadverts
 ##.sidebar-ad
 ##.sidebar-ads
+##.single-ad-banner
 ##.siteAnn1
 ##.slide-ad
 ##.slide-hd > ul > li > a
@@ -27338,6 +27348,7 @@ zle.com$script
 ##.under_player > div[class*="lg:hidden"]
 ##.van-tab__panel > .noTop.main-content > .group-content
 ##.vg-overlay-pause
+##.video-ad-item
 ##.video-ads-container
 ##.video-holder > a[target="_blank"] > img[src*=".360buyimg.com"]
 ##.video-info-aux + div[style^="border-radius: 5px;"]
@@ -27403,6 +27414,7 @@ zle.com$script
 ##.xzbox-gh
 ##.y.mtw[style="padding: 0px 10px;"]
 ##.ya-normal-box-done
+##.yt-ad-com
 ##.yueduad1
 ##.yuepa-list
 ##.yuepa-warp
