@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: /x+OuAV4V/2sUkI6jbs4/g
+! Checksum: +McKKOy36CSzqpof1N4GFg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241221094504
+! Version: 20241221162724
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-21 09:45:04
-! Total Count: 29732
+! Last modified: 2024-12-21 16:27:24
+! Total Count: 29737
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -708,6 +708,7 @@
 ||3ts.icu^
 ||3uvz5.xyz^
 ||3v7c7y.online^$third-party
+||3vp.icu^
 ||3wk.cc/images/*.gif
 ||3xy1.dvv9dkv.site^$third-party
 ||3zmm.net/*/*.js
@@ -9308,6 +9309,7 @@
 ||hwfoct.icu^
 ||hwhacum.cn^
 ||hwhefj.xyz^
+||hwilmiu.top^
 ||hwivedn.icu^
 ||hwnod.xyz^
 ||hwnojj.xyz^
@@ -12361,6 +12363,7 @@
 ||muddledmemory.com^$third-party
 ||mueid.xyz^
 ||muer.cdn-baidu.fs-sywh.com^
+||muiuim.icu^
 ||mujkdna.xyz^
 ||multporn.net/*.php$script
 ||multporn.net/baki_ladur_pss.php
@@ -13618,6 +13621,7 @@
 ||popcash.net^$third-party,important
 ||popcornfood.com^$third-party
 ||popplantation.com^$third-party
+||popsvg.xyz^
 ||popunderstar.com^$third-party,important
 ||poqiod.com^
 ||poqjnkdsou.net^
@@ -17682,6 +17686,7 @@
 ||vv1.pyhfxdm.cn^
 ||vvadz.cc^
 ||vvdzucs.cn^
+||vvfgjzwa.icu^
 ||vvlhrz.xyz^
 ||vvmeirihd.feijied.xyz^
 ||vvttpn.xyz^
