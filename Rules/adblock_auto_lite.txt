@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: SrnAzUc3PuZ5fVPG1GCQHA
+! Checksum: SExzS0DgUlK/tFwI4PgIrg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241222162712
+! Version: 20241223002600
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-22 16:27:12
-! Total Count: 29753
+! Last modified: 2024-12-23 00:26:00
+! Total Count: 29756
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -752,6 +752,7 @@
 ||4btbtt.com/slade.js
 ||4cjh.xyz^
 ||4cx5.icu^
+||4fr.icu^
 ||4fs3r.icu^
 ||4gamer.net/css/pr/SP_topjack.css
 ||4gamers.com.tw/ads-
@@ -11020,6 +11021,7 @@
 ||kweriod.top^
 ||kwflvcdn.000dn.com^*.flv
 ||kwgqaqf.icu^
+||kwilmid.top^
 ||kwiqcoh.icu^
 ||kwivb.cn^
 ||kwongwah.com.my/wp-content/plugins/dibs_engine/js/dibs_popup.js
@@ -12697,6 +12699,7 @@
 ||nhyvhmvw.com^
 ||nickhel.com^
 ||nieae.xyz^
+||niecarsg.com^
 ||niftyhospital.com^$third-party
 ||niftyjelly.com^$third-party
 ||nifyeldc.top^
