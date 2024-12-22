@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 3SL3z1LdsDHn/BWcjjclgQ
+! Checksum: uobivKVWdxGOZTuUjvz2Ww
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241222002706
+! Version: 20241222095349
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-22 00:27:06
-! Total Count: 29749
+! Last modified: 2024-12-22 09:53:49
+! Total Count: 29752
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9881,6 +9881,7 @@
 ||iqybys.xyz^
 ||iqzone.com^$third-party
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
+||ir4.icu^
 ||irgxwk.xyz^
 ||irkrors.com^
 ||irmbyu.xyz^
@@ -13580,6 +13581,7 @@
 ||pnhp3x1.com^
 ||pniao99.com/statics/js/stat.js
 ||pnlhnx.xyz^
+||pnpbjt.icu^
 ||pnpy.mmtnat.com^$third-party,script
 ||pnvtlh.xyz^
 ||pnxtnp.xyz^
@@ -16724,6 +16726,7 @@
 ||trk.glispa.com^
 ||trojangfw.xyz^
 ||tron.bbw-porn-video.com^
+||tronkuks.com^
 ||troubledtail.com^$third-party
 ||troubleshade.com^$third-party
 ||trp69.top^
