@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: XZxDayvTPPKIHMQaSTpw/Q
+! Checksum: kgQeuc1ypxG0GwiYHP4LCg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241223163031
+! Version: 20241224002843
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-23 16:30:31
-! Total Count: 29760
+! Last modified: 2024-12-24 00:28:43
+! Total Count: 29766
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7404,6 +7404,7 @@
 ||ewerilxw.top^
 ||eweriow.top^
 ||ewfsef.com^
+||ewilmiw.top^
 ||ewioud.com^
 ||ewjhic.cn^
 ||ewqeq23.fun^
@@ -9222,6 +9223,7 @@
 ||htseca.top^
 ||httpcn.com/Images/banner
 ||httpcn.com/m/tg/
+||httpcn.com^*950-120
 ||httpdns.bilivideo.com^
 ||httpool.com^
 ||httpwwwdcom.com/js/aaa/
@@ -9883,6 +9885,7 @@
 ||iqzone.com^$third-party
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||ir4.icu^
+||irgidshiv.com^
 ||irgxwk.xyz^
 ||irkrors.com^
 ||irmbyu.xyz^
@@ -9998,6 +10001,7 @@
 ||iwursero.top^
 ||iwwmaq.xyz^
 ||ix2.deepsexvids.com^
+||ix4.icu^
 ||ixstng.cn^
 ||ixsw.org/*/*.js
 ||ixxoo.asia^
@@ -10923,6 +10927,7 @@
 ||kqvvqv.icu^
 ||kqwerp.top^
 ||kqwip.cyou^
+||kqzyfj.com^
 ||kravma.xyz^
 ||krbsumc.cn^
 ||krbulhb.com^
@@ -15959,6 +15964,7 @@
 ||stingyspoon.com^$third-party
 ||stlpnom.xyz^
 ||stnew.xyz^
+||sto.cx/skin/a_autoSize*.js
 ||stockingsleet.com^$third-party
 ||stockingsneeze.com^$third-party
 ||stockstar.com/*DUILIAN&t=
@@ -27269,6 +27275,7 @@ zle.com$script
 ##.room-ad-video-down
 ##.rotate-adv
 ##.row > .gao-bg
+##.row > div.colVideoList:has(> div.video-elem > a[target="_blank"])
 ##.rtcenter_game
 ##.s.u.m.o.me.scrollbox-popup
 ##.samBannerUnit
@@ -28343,7 +28350,6 @@ zle.com$script
 ##header + #main:nth-child(n+4) .container-fluid.mb-0.p-0
 ##header + #main:nth-child(n+4) .container-fluid.mb-3.p-0
 ##header + #main:nth-child(n+4) > div[id^="po-s"]:not(#po-shd)
-##header + main > div[class$=" block"][id="rd0"][data-v-app]
 ##hl-adsense
 ##iframe.ad-frame
 ##iframe[data-src*="//a.magsrv.com/"]
