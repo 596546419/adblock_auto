@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: kgQeuc1ypxG0GwiYHP4LCg
+! Checksum: DXZrYvtFTbEUAJOcxHmplw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241224002843
+! Version: 20241224094636
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-24 00:28:43
-! Total Count: 29766
+! Last modified: 2024-12-24 09:46:36
+! Total Count: 29770
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4533,6 +4533,7 @@
 ||becode.xiao84.com^
 ||bedsberry.com^$third-party
 ||bedzbu.xyz^
+||beenedsl.com^
 ||beephone.com.tw/ad-middle.php
 ||beephone.com.tw/ad-yahoo.php
 ||beeporntube.com^
@@ -10323,6 +10324,9 @@
 ||joblessdrum.com^$third-party
 ||jochenanabata.guru^
 ||jofknbpe.xyz^
+||johojima.com/wp-content/uploads/*/bn_*.jpg
+||johojima.com/wp-content/uploads/*/bnr_*.jpg
+||johojima.com/wp-content/uploads/*/cropped-johojima_fabicon-*.jpg
 ||johtzj.com^
 ||joiakit.com^
 ||joiwnq2.cn^
