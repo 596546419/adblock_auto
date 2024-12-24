@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 4zKZpe9RdOKGakiQb0BzFQ
+! Checksum: +MOy9ZmyMdnlp6sqJ4PrQw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241224162941
+! Version: 20241225002808
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-24 16:29:41
-! Total Count: 29773
+! Last modified: 2024-12-25 00:28:08
+! Total Count: 29780
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -8953,6 +8953,7 @@
 ||hfc195b.com^$third-party
 ||hffxc.com^$third-party,script
 ||hfhytx.xyz^
+||hfisngksng.com^
 ||hfjhr.cn^
 ||hfjk3wa.com^
 ||hfjmvr.xyz^
@@ -11772,6 +11773,7 @@
 ||m2k3j7x8.com^
 ||m4pgay.com^
 ||m5.66077.cn^
+||m51.icu^
 ||m549z.site^
 ||m6500.top^
 ||m6690.top^
@@ -14415,6 +14417,7 @@
 ||qwerioy.top^
 ||qwesaz.com^
 ||qwfbiujsknjk.com^
+||qwilmiy.top^
 ||qwiudbnaiio.com^$third-party
 ||qwjtdcl.cn^
 ||qwmamh.icu^
@@ -15434,6 +15437,7 @@
 ||shuneiya.com/static/js/ding.js
 ||shuowan.com/Public/shuo/20160119/569dafddd13be.jpg
 ||shutseashore.com^$third-party
+||shuucerz.com^
 ||shx11.xyz^
 ||shyseed.com^$third-party
 ||shzzzz.dftoutiao.com^
@@ -15451,6 +15455,7 @@
 ||sihbb.com/yang/
 ||sikapo.top^
 ||sikaq.top^
+||sikncs.com^
 ||silentcredit.com^$third-party
 ||silentwrench.com^$third-party
 ||siliconslow.com^$third-party
@@ -16665,6 +16670,7 @@
 ||touvxlii.top^
 ||touwengyyds.com^
 ||toweringrun.com^$third-party
+||towmfs.com^
 ||toyhyhv.icu^
 ||tozwrqnq.xyz^
 ||tp.sgcn.com^
@@ -18276,6 +18282,7 @@
 ||xbiqugexx.com/js/jamq.
 ||xbiqugexx.com/static/js/wap.js
 ||xbldocp.xyz^
+||xbqg6.com/*.php
 ||xbtw.com^
 ||xbvmrx.xyz^
 ||xbyoujv.icu^
