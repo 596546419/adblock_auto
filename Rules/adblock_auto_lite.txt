@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Cd8lpJBYdKwVkYBLT1J+yg
+! Checksum: 0FcuxYB0gz4XdeTjPdFQYA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241225094526
+! Version: 20241225162948
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-25 09:45:26
-! Total Count: 29782
+! Last modified: 2024-12-25 16:29:48
+! Total Count: 29785
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4873,6 +4873,7 @@
 ||bpimg.com/4851/19f7543667f26682.jpg
 ||bplrpf.xyz^
 ||bpxbzps.xyz^
+||bpxxgkoj.icu^
 ||bpyerxzn.xyz^
 ||bpztsxx.com^
 ||bqdyqq.com^
@@ -14460,6 +14461,7 @@
 ||r3sub.com/posters/0069810.jpg
 ||r3sub.com/posters/00698128.jpg
 ||r3sub.com^*0.gif
+||r4u.icu^
 ||r528e.cn^$third-party
 ||r5dfwjtb.icu^
 ||r75tia.cn^
@@ -16917,6 +16919,7 @@
 ||twerilxi.top^
 ||twerioi.top^
 ||twgzgqqu.com^
+||twilmii.top^
 ||twinrdsrv.com$xmlhttprequest,third-party
 ||twinrdsrv.com^$document
 ||twinrdsrv.com^$~third-party
