@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: te4Aqw1BKqzDUYR+vRaYqg
+! Checksum: HGy1A2ip9H1sy6t74a1CAw
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241226162928
+! Version: 20241227002817
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-26 16:29:28
-! Total Count: 29793
+! Last modified: 2024-12-27 00:28:17
+! Total Count: 29801
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -948,6 +948,7 @@
 ||5gxs.org^
 ||5hte21mz.com^
 ||5icool.org/uploadfile/poster/
+||5ik.icu^
 ||5ilinglei.com/gg.html
 ||5ilog.com/qq/js/jsgg.js
 ||5imx.com/image/image/
@@ -3468,7 +3469,6 @@
 ||aiyuke.com/position_js*_*_
 ||aizhan.com/images/img/ios-sign.png
 ||aizhan.com/imagesa/
-||aizhantj.com^
 ||aj2555.bid^$third-party
 ||ajaralarm.com^$third-party
 ||ajbpcxi.xyz^
@@ -6501,6 +6501,7 @@
 ||dhkqqe.top^
 ||dhl.135320.com^
 ||dhl4.xyz^
+||dhnnbfok.icu^
 ||dhukul.com^
 ||dhxrop.com^
 ||dhxrxn.xyz^
@@ -8321,6 +8322,7 @@
 ||gmicu.cn^
 ||gmmlmo.xyz^
 ||gmso12251oka.top^
+||gmso12261oka.top^
 ||gmx10.top^
 ||gmx11.top^
 ||gmx12.top^
@@ -9656,6 +9658,7 @@
 ||img.jygdb.com^$script,third-party
 ||img.lancdn.com/*-top-banner-
 ||img.mbalib.com/common/servicesPicture/prom.js
+||img.meituan.net/video/$domain=338i.com
 ||img.mengzhan28.top^$third-party
 ||img.mikudm.net/img01/MP3/GG/20240415_CPS_960X75_general.gif
 ||img.qxwoiv.com^
@@ -11591,6 +11594,7 @@
 ||luofk.xyz^
 ||luolikong.net^$third-party
 ||luolitang.com^$third-party
+||lurefq.com^
 ||luresdl.top^
 ||lutouwang.net/static/images/boss_gao_hb.jpeg
 ||lutouwang.net/static/js/mv_ad
@@ -11624,6 +11628,7 @@
 ||lweriol.top^
 ||lwhffh.xyz^
 ||lwide.xyz^
+||lwilmil.top^
 ||lwksxs.com^$third-party
 ||lwlwlw.com/ggzx/
 ||lwlwlw.com/js/FVgg.js
@@ -14284,6 +14289,7 @@
 ||qoubliy.top^
 ||qouvxliy.top^
 ||qovith.com^
+||qovunx.com^
 ||qpawkw.xyz^
 ||qpb*.sohu.com^
 ||qpcvlbp.cn^
@@ -19249,6 +19255,7 @@
 ||z9uvpwarkk1mnpf.xyz^
 ||zabpgtjh.icu^
 ||zacff.com^
+||zaeqrath.com^
 ||zagyjnn.cn^
 ||zaiceyjjqq.com^
 ||zailgrae.com^
@@ -29620,6 +29627,7 @@ zle.com$script
 @@||cdn4.tennistemple.com/js/advert.js|$script,~third-party
 @@||cdncontent.wakanim.tv/scripts/dist/ads.js$script,xmlhttprequest,~third-party
 @@||chaturbate.com/*embed^$domain=sweetpornlinks.com
+@@||cheatography.com^$generichide
 @@||cloudflare.com/ajax/libs/dash-shaka-playback/$script,domain=vpornvideos.com
 @@||cloudfront.net^$domain=anime1.me|assistant.etxlzb.com|bitbucket.org|bitly.com|blog.wiki-topia.com|gualaoshi.org|heatworld.com|hotslogs.com|ksl.com|mecox.wpengine.com|nationalreview.com|portmiamiwebcam.com|rethmic.com|soap2day.ai|streamingcommunity.tech|webupd8.org
 @@||cre.dp.sina.cn^
