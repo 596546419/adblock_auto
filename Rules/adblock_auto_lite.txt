@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: HGy1A2ip9H1sy6t74a1CAw
+! Checksum: cK4RfnXmBmjulXN9OPnjdg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241227002817
+! Version: 20241227094632
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-27 00:28:17
-! Total Count: 29801
+! Last modified: 2024-12-27 09:46:32
+! Total Count: 29805
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1539,6 +1539,7 @@
 ||a1.bajiu.cn^
 ||a1.bestopview.com^
 ||a1.bookapka.com^
+||a1.cyyangqiguan.com^
 ||a1.firefoxchina.cn^
 ||a1.lshou.com^
 ||a1.q6u.com^
@@ -11753,6 +11754,7 @@
 ||m.xianqihaotianmi.org/4ENSM9hu/*.js
 ||m.xiaoxiangxs.com/public/js/zepto-
 ||m.xs26.com/wap.js
+||m.xsbiquge.la/js/detail.js
 ||m.yap.yahoo.com^$domain=~not.dns
 ||m.ybstwl.com/public/tpl/m2/js/
 ||m.yeniakit.com.tr/anlasma
@@ -12617,6 +12619,7 @@
 ||nclljn.xyz^
 ||ncmxwhf.icu^
 ||ncrkff.xyz^
+||ncvwnp.icu^
 ||ncyksuw.xyz^
 ||nczsks.com/SCWB/WebResource.axd
 ||ndbaxn.xyz^
@@ -14976,6 +14979,7 @@
 ||sablesong.com^$third-party
 ||saccac11.com^
 ||sacfasv.com^
+||sachaits.com^
 ||sacvmb.icu^
 ||sadloaf.com^$third-party
 ||sadnofun.com/assets/public/$script
