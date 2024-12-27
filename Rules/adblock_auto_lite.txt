@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: nDWVOYv5O0XnRxaD8gjW1g
+! Checksum: //ymjYFv4NtS0c6TrHdogg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241227162901
+! Version: 20241228002804
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-27 16:29:01
-! Total Count: 29807
+! Last modified: 2024-12-28 00:28:04
+! Total Count: 29813
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5036,6 +5036,7 @@
 ||bw66.cn/template/default_pc/bbs/
 ||bwandlv.top^
 ||bweriov.top^
+||bwilmiv.top^
 ||bwjfnj.xyz^
 ||bwurserv.top^
 ||bwwlw.cn^
@@ -5735,6 +5736,7 @@
 ||cnblogs.com/group/T2
 ||cnblogs.com/units/
 ||cnblogs.com^*/sideColumnAd?
+||cncover.godamanga.online/ad/
 ||cndzys.com/huanlian/
 ||cnfol.com/f=ud/Js/Ad
 ||cnfol.com/index_new.php?id=
@@ -8323,8 +8325,10 @@
 ||gmgbmzz.xyz^
 ||gmicu.cn^
 ||gmmlmo.xyz^
+||gmso1*oka.top/$script,third-party
 ||gmso12251oka.top^
 ||gmso12261oka.top^
+||gmso12271oka.top^
 ||gmx10.top^
 ||gmx11.top^
 ||gmx12.top^
@@ -12571,6 +12575,7 @@
 ||n6579.com^
 ||n7181.com^
 ||n7a.icu^
+||n8u.icu^
 ||na06.cn^
 ||nagpurtoday.in/wp-content/uploads/2024/06/Untitled-design-2.gif
 ||nahgvfhs.xyz^
@@ -15084,6 +15089,7 @@
 ||scorecardresearch.com^
 ||scqaaf.cn^
 ||scratchsofa.com^$third-party
+||screddoit.com^
 ||screechingfurniture.com^$third-party
 ||screechingstove.com^$third-party
 ||screen.buzzvil.com^
