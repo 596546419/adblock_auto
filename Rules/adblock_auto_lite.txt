@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: IDw6IiS/9c8mV1ctfTnjGg
+! Checksum: RmL3MYPFHFCSgjv/3POKjg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241228094418
+! Version: 20241228162727
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-28 09:44:18
-! Total Count: 29816
+! Last modified: 2024-12-28 16:27:27
+! Total Count: 29821
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1612,6 +1612,7 @@
 ||aaread.space/images/*0.gif
 ||aasingapore.cn^
 ||aassy4.com/dm/
+||aatv.app/sport/sport.js
 ||ab.cnbanbao.com^
 ||ab.rejushe.com^
 ||abackafterthought.com^$third-party
@@ -5288,6 +5289,7 @@
 ||ccement.com/index/index/fetchAd
 ||ccement.com/js/ccement_new/open.js
 ||cckke.com/fanhao/v/ad
+||cclimif.top^
 ||ccmeng.com^$third-party
 ||ccnim.xyz^
 ||ccobksxz.icu^
@@ -15644,6 +15646,7 @@
 ||smqzj.com/seo.js
 ||smuc.cnnfootballclub.com^
 ||smzy.com/v1/img/
+||sn9.icu^
 ||snailsengine.com^$third-party
 ||snakemineral.com^$third-party
 ||snakesshop.com^$third-party
@@ -16780,6 +16783,7 @@
 ||tritebadge.com^$third-party
 ||tritethunder.com^$third-party
 ||tritoshi.com/libs/check.js
+||trjfoagf.icu^
 ||trk.glispa.com^
 ||trojangfw.xyz^
 ||tron.bbw-porn-video.com^
@@ -16805,6 +16809,7 @@
 ||ts166.net^$third-party
 ||tsancii.top^
 ||tsaristcanapes.com^
+||tsbrzz.icu^
 ||tsdfxv.xyz^
 ||tsdm39.com/img01/MP3/GG/
 ||tseda1.icu^
