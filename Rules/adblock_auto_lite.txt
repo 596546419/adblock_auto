@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: RmL3MYPFHFCSgjv/3POKjg
+! Checksum: NOiHjj1U7TNXx3KQynN1Jg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241228162727
+! Version: 20241229002646
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-28 16:27:27
-! Total Count: 29821
+! Last modified: 2024-12-29 00:26:46
+! Total Count: 29824
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1258,6 +1258,7 @@
 ||8bo.com/template/default/8bo/j/app.js
 ||8bobf.*/da.aspx
 ||8ccrv.xyz^
+||8cp.icu^
 ||8d07a.xyz^
 ||8d8d.me/images/dealer.gif
 ||8en.net^$third-party
@@ -8835,6 +8836,7 @@
 ||hchuviq.cn^
 ||hciea.xyz^
 ||hciwyv.icu^
+||hclimiu.top^
 ||hcqumrjbx.xyz^
 ||hcznaubp.icu^
 ||hdaidj.cn^
@@ -14627,6 +14629,7 @@
 ||rejectfairies.com^$third-party
 ||relafp.xyz^
 ||relationrest.com^$third-party
+||relgrads.com^
 ||remehealth.net^$third-party
 ||rememberdiscussion.com^$third-party
 ||renohj.xyz^
