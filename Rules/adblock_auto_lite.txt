@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: //ymjYFv4NtS0c6TrHdogg
+! Checksum: IDw6IiS/9c8mV1ctfTnjGg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241228002804
+! Version: 20241228094418
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-28 00:28:04
-! Total Count: 29813
+! Last modified: 2024-12-28 09:44:18
+! Total Count: 29816
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -12453,6 +12453,7 @@
 ||mwerilxx.top^
 ||mweriox.top^
 ||mwfyab.icu^
+||mwilmix.top^
 ||mwqetvn.icu^
 ||mwqucr.icu^
 ||mwrf.net/images/js/*mrf.js
@@ -12822,6 +12823,7 @@
 ||norse.mingxiaow.com^
 ||northcookie.xyz^
 ||nosadfun.com/assets/public/$script
+||noslugut.com^
 ||nostalgicknot.com^$third-party
 ||nostalgicneed.com^$third-party
 ||nothingunit.com^$third-party
@@ -14753,6 +14755,7 @@
 ||rkds5.icu^
 ||rkgbqn.icu^
 ||rkgwzfwjgk.com^$third-party
+||rklzpo.com^
 ||rksnqq.com^
 ||rktjxj.icu^
 ||rkv9.top^
