@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 6QD7ScKpjwuHZ8WGBClYcw
+! Checksum: MrHvCHk7/WwAQ4C3r8xLgg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241229162806
+! Version: 20241230002628
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-29 16:28:06
-! Total Count: 29831
+! Last modified: 2024-12-30 00:26:28
+! Total Count: 29834
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1063,6 +1063,7 @@
 ||6h1cz.xyz^
 ||6iwoif.com^
 ||6japaneseporn.com/func.js
+||6ku.icu^
 ||6ldu6qa.com^$third-party
 ||6oja.cc^$domain=9xav.cc
 ||6park.com/img/*0.gif
@@ -10120,6 +10121,7 @@
 ||jched3.com^
 ||jciwztfj.com^
 ||jcjzikj.xyz^
+||jclimia.top^
 ||jcluhz.xyz^
 ||jcodecraeer.com/plus/fuckblok.
 ||jcppcmqa.icu^
@@ -15114,6 +15116,7 @@
 ||scrollservice.com^$third-party
 ||scroscoi.com^
 ||scrubswim.com^$third-party
+||scrugokl.com^
 ||scrvw3.com^
 ||scupio.com/adpinline/
 ||scupio.net/kanglei/
