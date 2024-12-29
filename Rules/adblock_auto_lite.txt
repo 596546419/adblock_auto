@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: NOiHjj1U7TNXx3KQynN1Jg
+! Checksum: f5j+LDhx4LzNV4F14cxPig
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241229002646
+! Version: 20241229095457
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-29 00:26:46
-! Total Count: 29824
+! Last modified: 2024-12-29 09:54:57
+! Total Count: 29828
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9357,6 +9357,7 @@
 ||hy.huangye88.net^
 ||hy5.com.cn/admin/
 ||hy90.cn^
+||hybase.com/ckjs/
 ||hybase.com/images/hysq99.png
 ||hybbs.com/i/$image,object
 ||hybird.rayjump.com^
@@ -9496,6 +9497,7 @@
 ||ieequd.icu^
 ||ieforex.com/r/cms/www/red/red2/images/*0.
 ||ielgag.top^
+||iemhotqk.com^
 ||iepda.xyz^
 ||iephrenhq.com^
 ||ieryt111.fun^
@@ -14915,6 +14917,7 @@
 ||rvtfwryz.icu^
 ||rvvji.online^
 ||rvvmhp.xyz^
+||rvxmlj.icu^
 ||rvzlobj.cn^
 ||rwarwf.icu^
 ||rwdjrn.icu^
@@ -17631,6 +17634,7 @@
 ||vjrpnv.xyz^
 ||vjvj.vj24co.com^
 ||vjzjpt.xyz^
+||vjzvgvgz.icu^
 ||vk920.com/img1/
 ||vk922.com/img/
 ||vk923.com/img/
