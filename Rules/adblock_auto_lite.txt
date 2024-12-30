@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 6q84dj/0vvKSXGLncQfveA
+! Checksum: qZgfbOfUlDGwbErcb5RxQQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241230163006
+! Version: 20241231002841
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-30 16:30:06
-! Total Count: 29838
+! Last modified: 2024-12-31 00:28:41
+! Total Count: 29842
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -978,6 +978,7 @@
 ||5xur.top^
 ||5y9nfpes.52pk.com^
 ||5ydj.com/images/banner/
+||5yl.icu^
 ||5z0d3.cyou^
 ||5z2oy.icu^
 ||6.cn/coop/pub/getRand.php?
@@ -10717,6 +10718,7 @@
 ||kcedmk.xyz^
 ||kcieo.xyz^
 ||kcieo.xyz^$third-party
+||kclimid.top^
 ||kcnwe.xyz^
 ||kcqpvqr.cn^
 ||kdamcsd.top^
@@ -15100,6 +15102,7 @@
 ||scintillatingspace.com^$third-party
 ||scjpqut.cn^
 ||sckyf.com^
+||sclimib.top^
 ||scoev.cn^
 ||scoldak.com^
 ||sconat.com^
@@ -15464,6 +15467,7 @@
 ||shoagooy.net^$third-party
 ||shockinggrass.com^$third-party
 ||shockingship.com^$third-party
+||sholphot.com^
 ||shopbreakfast.com^$third-party
 ||shortlink.sex^$popup,domain=cam-archive.com
 ||shouldercommandmentlimitless.com^
