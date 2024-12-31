@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Fw6eN4AniO3VQ0ym7cIH1w
+! Checksum: E04wKkc4I/vQmaOYrYLxiA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241231094610
+! Version: 20241231162923
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-31 09:46:10
-! Total Count: 29844
+! Last modified: 2024-12-31 16:29:23
+! Total Count: 29847
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -7105,6 +7105,7 @@
 ||ecikmrm.icu^
 ||ecimg.tw/img/xdsys/*/layout/*/sign/channel*/ad_*.jpg
 ||eclassified.my/cp_featured
+||eclimiw.top^
 ||ecma.bdimg.com^
 ||ecmb.bdimg.com^
 ||ecmwsx.icu^
@@ -11593,6 +11594,7 @@
 ||ltkbyfd.icu^
 ||ltn.com.tw/js/ad_door.js
 ||ltsubzgmw.xyz^
+||ltvutlyu.icu^
 ||lu.lindhf4.com^$document
 ||lu.lindhf4.com^$~third-party
 ||lu.sogou.com^
@@ -15378,6 +15380,7 @@
 ||sgzhg.pornlovo.co^
 ||sh.sina.com.cn/iframe/522/
 ||sh.sina.com.cn/js/441/ZwyArticle_commo_23.js
+||sh5.icu^
 ||sh6ss7.top^
 ||sh996.dftoutiao.com^
 ||shabby-constant.com^
