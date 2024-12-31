@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: qZgfbOfUlDGwbErcb5RxQQ
+! Checksum: Fw6eN4AniO3VQ0ym7cIH1w
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241231002841
+! Version: 20241231094610
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-31 00:28:41
-! Total Count: 29842
+! Last modified: 2024-12-31 09:46:10
+! Total Count: 29844
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5976,6 +5976,7 @@
 ||crfjxfoe.xyz^
 ||crhabkd.cn^
 ||crhyqq.com^
+||crigroik.com^
 ||criknudsr.com^
 ||crimsonmeadow.com^$third-party
 ||criqai.com^
@@ -17696,6 +17697,7 @@
 ||volatileprofit.com^$third-party
 ||volatilerainstorm.com^$third-party
 ||volgreal.com^$third-party
+||vopzhl.icu^
 ||voraciousgrip.com^$third-party
 ||vorsprung-online.de/images/images/*/Werbung/bannermobilwerbung.jpg
 ||voxar.xyz^
