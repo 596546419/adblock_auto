@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: E04wKkc4I/vQmaOYrYLxiA
+! Checksum: BCtvmdJHhf1u5VwqYQYnGg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20241231162923
+! Version: 20250101002801
 ! Expires: 12 hours (update frequency)
-! Last modified: 2024-12-31 16:29:23
-! Total Count: 29847
+! Last modified: 2025-01-01 00:28:01
+! Total Count: 29852
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -5948,6 +5948,7 @@
 ||crabbychin.com^$third-party
 ||craegvin.com^
 ||crafthenry.com^$third-party
+||craivrals.com^
 ||cratecamera.com^$third-party
 ||crawlclocks.com^$third-party
 ||crayon.meishichina.com^
@@ -12742,6 +12743,7 @@
 ||nfydd.com/template/wap1/js/dd.js
 ||ngbthf.xyz^
 ||ngxzkaxf.icu^
+||nh7.icu^
 ||nhbprf.xyz^
 ||nhcdn.cn^
 ||nhjkm.com^
@@ -12925,6 +12927,7 @@
 ||nwxaxx.xyz^
 ||nwxs5.com/js/
 ||nx8.icu^
+||nxcm.cc^
 ||nxflv.com/nxflv.js
 ||nxhwvt.xyz^
 ||nxing.cn/uploads/uploads/*-size1220x
@@ -13058,6 +13061,7 @@
 ||okooo.com/I/?method=system.data.ad&
 ||okpcyp.icu^
 ||okpoiione.com^
+||okpp12311.xyz^
 ||okwan.cn^
 ||okwkaa.xyz^
 ||oldfashionedoffer.com^$third-party
@@ -17918,6 +17922,7 @@
 ||wcdc5.com^
 ||wcdfxj.xyz^
 ||wckkl.online^
+||wclimie.top^
 ||wclsylk.cn^
 ||wcsmvmf.icu^
 ||wcv68kw.com^
