@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: amrVFll6qC6Keat1WNEgdw
+! Checksum: FNjQe6CCw36g9jhEmzL4Qg
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250101162941
+! Version: 20250102002806
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-01-01 16:29:41
-! Total Count: 29668
+! Last modified: 2025-01-02 00:28:06
+! Total Count: 29678
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -1267,6 +1267,7 @@
 ||8en.net^$third-party
 ||8et.icu^
 ||8feichai.com^
+||8fo.icu^
 ||8gra3.icu^
 ||8h93.com^*.gif
 ||8jkx.com^
@@ -5064,6 +5065,7 @@
 ||bwz4e.icu^
 ||bxackzj.icu^
 ||bxbyll.xyz^
+||bxheifoe.icu^
 ||bxjhlhk.xyz^
 ||bxlmrl.xyz^
 ||bxmazls.icu^
@@ -6022,6 +6024,7 @@
 ||crfjxfoe.xyz^
 ||crhabkd.cn^
 ||crhyqq.com^
+||cridotty.com^
 ||crigroik.com^
 ||criknudsr.com^
 ||crimsonmeadow.com^$third-party
@@ -8442,6 +8445,7 @@
 ||gmgbmzz.xyz^
 ||gmicu.cn^
 ||gmmlmo.xyz^
+||gmso01010oka.top^
 ||gmso1*oka.top/$script,third-party
 ||gmso12251oka.top^
 ||gmso12261oka.top^
@@ -8557,6 +8561,7 @@
 ||googleads.g.doubleclick.net/pagead/id^$xmlhttprequest,redirect-rule=nooptext
 ||googleadservices.com/pagead/conversion_async.js$script,redirect=noop.js,domain=orcd.co
 ||googleadservices.com^
+||googlehm.cc^
 ||googletagmanager.com/gtag/js$script,xmlhttprequest,redirect-rule=googletagmanager-gtm
 ||googletagmanager.com/gtag/js$script,xmlhttprequest,redirect-rule=googletagmanager_gtm.js
 ||googletagmanager.com/gtm.js$xmlhttprequest,redirect-rule=googletagmanager-gtm
@@ -12868,6 +12873,7 @@
 ||nndzsw.com^
 ||nndzsw1.com^
 ||nnfalf.xyz^
+||nnfbxz.icu^
 ||nnfyxd.xyz^
 ||nnm-club.ws/forum/docs/requests.js
 ||nnqwe.xyz^
@@ -14147,6 +14153,7 @@
 ||qcb2xeg.icu^
 ||qcepqj.icu^
 ||qcixkb1.xyz^
+||qclimiy.top^
 ||qcohkm.xyz^
 ||qcsvku.xyz^
 ||qcvf.ifeng.com^
@@ -14170,6 +14177,7 @@
 ||qeedaa.xyz^
 ||qeeocy.xyz^
 ||qekgcdcjr000.fun^
+||qeknikny.com^
 ||qeogcdcjr000.fun^
 ||qerbert78.xyz^
 ||qeryt111.fun^
@@ -16244,6 +16252,7 @@
 ||tcfgtd.xyz^
 ||tcgaqh.icu^
 ||tcheeter.com^
+||tclimii.top^
 ||tcmap.com.cn/js/b_
 ||tctltb.com^
 ||tcuqqhj.icu^
@@ -17059,6 +17068,7 @@
 ||ujnkn.com^
 ||ujovcb.cn^
 ||ujrspnbf.xyz^
+||uk0.icu^
 ||ukbbjtfp.xyz^
 ||ukitert.top^
 ||ukjwyv.icu^
