@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: pdO8ZOisHZto5TC6s1dbyQ
+! Checksum: Nuq1uUNUwGEztmJsgA2/sQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250102094545
+! Version: 20250102163008
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-01-02 09:45:45
-! Total Count: 29680
+! Last modified: 2025-01-02 16:30:08
+! Total Count: 29685
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -400,6 +400,7 @@
 ||1sk27.fun^
 ||1st.clublucifer.net/regular/$subdocument
 ||1t24.com^$third-party
+||1tv.icu^
 ||1u5gy.xyz^
 ||1vudktp.com^
 ||1weorpu.com^
@@ -13115,6 +13116,7 @@
 ||okooo.com/I/?method=system.data.ad&
 ||okpcyp.icu^
 ||okpoiione.com^
+||okpp01021.xyz^
 ||okpp12311.xyz^
 ||okwan.cn^
 ||okwkaa.xyz^
@@ -13931,6 +13933,7 @@
 ||pptclb.xyz^
 ||pptv.com/game/aplus/client/gamedetail.html
 ||ppvpmrt.xyz^
+||ppxndfgf.icu^
 ||pqjeoqa.cn^
 ||pqldzp.xyz^
 ||pqnqrjxe.xyz^
@@ -16991,6 +16994,7 @@
 ||ucjevgue.xyz^
 ||uckgqa.xyz^
 ||uckmee.xyz^
+||uclimit.top^
 ||ucqihfh.cn^
 ||uctutu3789.xyz^
 ||uczfl.com/data/content
@@ -18603,6 +18607,7 @@
 ||xxsmad2.com^
 ||xxsmad3.com^
 ||xxsmad4.com^
+||xxss6677.com^
 ||xxtalp.xyz^
 ||xxxuhx.xyz^
 ||xxxvipporno.com^
