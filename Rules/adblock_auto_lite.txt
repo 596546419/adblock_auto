@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 4FcBhvv39S07yQd9sBQoYg
+! Checksum: Slp/qV85A2sxCiy5G0ipBA
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250103094651
+! Version: 20250103162907
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-01-03 09:46:51
-! Total Count: 29640
+! Last modified: 2025-01-03 16:29:07
+! Total Count: 29644
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -9569,6 +9569,7 @@
 ||ibqmey.xyz^
 ||ibqswjdkpo.com^
 ||ibsea.cn^
+||ibyrwvi.cn^
 ||icaile.com/z.php?id=
 ||icao4.com/uploads/pic/2.jpg
 ||icast.cn^$third-party
@@ -11293,6 +11294,7 @@
 ||lcid.top^
 ||lcjyll.xyz^
 ||lckjqtx.xyz^
+||lclimil.top^
 ||lcmqyl.cn^$third-party
 ||lctcbtly.xyz^
 ||lcxw.cn/d/js/thea
@@ -13092,6 +13094,7 @@
 ||okpoiione.com^
 ||okpp01021.xyz^
 ||okpp01030.xyz^
+||okpp01031.xyz^
 ||okpp12311.xyz^
 ||okwan.cn^
 ||oldfashionedoffer.com^$third-party
@@ -18614,6 +18617,7 @@
 ||y2ax5.y0tf2wp.online^$third-party
 ||y341i.xyz^
 ||y3cdp.top^
+||y4l.icu^
 ||y66xvgo5i.chuimg.com^
 ||y6lkc.vip^$document
 ||y6lkc.vip^$~third-party
