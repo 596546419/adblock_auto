@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Slp/qV85A2sxCiy5G0ipBA
+! Checksum: FmaXcTOcuYUNBj+ZTjj+iQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250103162907
+! Version: 20250104002851
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-01-03 16:29:07
-! Total Count: 29644
+! Last modified: 2025-01-04 00:28:51
+! Total Count: 29649
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -4391,6 +4391,7 @@
 ||bcfads.com^
 ||bchina-1.xsfaya.com^
 ||bchuvp.xyz^
+||bclimiv.top^
 ||bcovazp.icu^
 ||bcqnbge.cn^
 ||bcquan.me/front/*_ad
@@ -6872,6 +6873,7 @@
 ||dragon-guide.net/pic001/pic/shangcheng/
 ||drainpaste.com^$third-party
 ||dramaticdirection.com^$third-party
+||drandoxo.com^
 ||dreamsdome.com^$third-party
 ||drenqils.com^
 ||dreuaxk.icu^
@@ -8799,6 +8801,7 @@
 ||h5.sdahh.com^$~third-party
 ||h5.xn--jzu814j.com^$document
 ||h5.xn--jzu814j.com^$~third-party
+||h5r.icu^
 ||h6295.com^$popup
 ||h731.icu^
 ||h78xb.pw^$third-party
@@ -26789,6 +26792,8 @@ zle.com$script
 ##.containerads
 ##.containeradvertising
 ##.content > #dhxhtml
+##.content > .module > .small-icon-container > a.small-icon-div[target="_blank"]
+##.content > .small-icon-container > a.small-icon-div[target="_blank"]
 ##.content > a > .topline
 ##.content-ad-container
 ##.content-ads
