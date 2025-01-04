@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: FmaXcTOcuYUNBj+ZTjj+iQ
+! Checksum: xNLNnWDA6qS7DJZMfSLSnQ
 ! Title: 混合规则精简版(自动更新)
-! Version: 20250104002851
+! Version: 20250104094433
 ! Expires: 12 hours (update frequency)
-! Last modified: 2025-01-04 00:28:51
-! Total Count: 29649
+! Last modified: 2025-01-04 09:44:33
+! Total Count: 29653
 ! Homepage: https://596546419.github.io/adblock_auto
 ! Gitcode Homepage: https://gitcode.net/weixin_45617236/adblock_auto
 ! GitHub Homepage: https://github.com/lingeringsound/adblock_auto
@@ -6921,6 +6921,7 @@
 ||dskjbvzvs.com^
 ||dskjhs.com^
 ||dsoxgdjv.icu^
+||dsp-api.moloco.com^
 ||dsp.ali213.net^
 ||dsp.batmobil.net/ads-dsp^
 ||dsp.lenovo.com.cn^*&clientType=api|
@@ -9171,6 +9172,7 @@
 ||hj8gf.icu^
 ||hjammiz.icu^
 ||hjdha.cn^
+||hjdjfl.icu^
 ||hjdkvt.xyz^
 ||hjfile.cn/analytics/site/TrackEvent.js
 ||hjgkr0g.xyz^
@@ -10801,6 +10803,7 @@
 ||kapvu.cn^
 ||kart2ks.icu^
 ||kasiklz.cc^
+||katoleiy.com^
 ||katyporn.net/*/jspopup.js
 ||kaurieseluxate.com^
 ||kb-render.alicdn.com/html/*.html
@@ -13098,6 +13101,7 @@
 ||okpp01021.xyz^
 ||okpp01030.xyz^
 ||okpp01031.xyz^
+||okpp01040.xyz^
 ||okpp12311.xyz^
 ||okwan.cn^
 ||oldfashionedoffer.com^$third-party
